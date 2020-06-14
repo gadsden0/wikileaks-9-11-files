@@ -1,0 +1,51 @@
+2001-09-11 04:11:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1958
+2001-09-11 04:11:00 Metrocall [0000329] C  ALPHA  THIS IS A Te.....R. D.....G..S..U..TIAL NUMBER  1958
+2001-09-11 04:11:03 Metrocall [1064387] A  ALPHA  CR 19820/19970 -0130 DX 11460/11497  +016 EJ 10932/10813  +000  RK 95385/95325  +000
+2001-09-11 04:11:03 Metrocall [1304867] 1:11:39 AM A  ALPHA  T OF PAGE 916 262 1621 [W/C] (2/2)
+2001-09-11 04:11:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6780
+2001-09-11 04:11:05 Arch [1060702] D  ALPHA  root: Ocala A96/A13/A86 001DE1 AL Link receive failure 09-11-01 08:09:45
+2001-09-11 04:11:05 Skytel {0470360} 1 2400 Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS] (8
+2001-09-11 04:11:05 Skytel {1092655} 3 2400 002202    
+2001-09-11 04:11:09 Metrocall [1397690] C  ALPHA  dino:-->Sep 11 04:10 'oracle-autosys AUTA-AUTB problem' detected
+2001-09-11 04:11:18 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177586. 
+2001-09-11 04:11:20 Metrocall [1709583] D  ALPHA   JACKSON TRIAGE 293-8023 PLEASE CALL
+2001-09-11 04:11:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9703
+2001-09-11 04:11:27 Arch [1060702] D  ALPHA  root: Ocala A58 001DE0 AL Link receive failure 09-11-01 08:09:22
+2001-09-11 04:11:27 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope http://www.australianskandia.com.au/ Production Web Sites (emt-4b) 64424 timed out reading 
+2001-09-11 04:11:31 Arch [0925366] B  ALPHA   318643;Sep 11 00:12:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 04:11:33 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3351
+2001-09-11 04:11:35 Skytel [007588514] A SH/TONE 3000    
+2001-09-11 04:11:35 Skytel [002971940] B  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS] (98
+2001-09-11 04:11:36 Skytel [007588530] A SH/TONE 3391    
+2001-09-11 04:11:36 Skytel [003591987] A  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS] (5
+2001-09-11 04:11:36 Skytel [005044022] B  ALPHA  Weymouth- 2nd alarm for a fire in an apartment bldg. 215 Winter St. MEMA HQ
+2001-09-11 04:11:38 Skytel [003929284] B SH/TONE 213     
+2001-09-11 04:11:39 Metrocall [1304867] A  ALPHA  Per Gary Glofelty with Region 6, Sierraville fire name is "Treasure Fire", 500 plus acres ,a type 2 fire team has been ordered from the northern part of the state.  2 Strike Teams of local government are on scene. PLZ CONFIRM RECIP (1/2)
+2001-09-11 04:11:40 Arch [0938127] D  ALPHA  SEC:CRITICAL   22635 OPEN suncdcps1:vcoc002d.sh suncdcps1 Ended-Not-OK
+2001-09-11 04:11:40 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 12.89 20.61 12.88 Tue Sep 11 01:12:01 MST 2001 
+2001-09-11 04:11:42 Arch [0938127] D  ALPHA  SEC:CRITICAL   31513 OPEN suncdcps2:vcoc002d.sh suncdcps2 Ended-Not-OK
+2001-09-11 04:11:42 Arch [1612111] D  ALPHA  monitor@ccbill.c|VSCRUB Packet Loss|nulls=35 1017374357:1017374372:1017374375:1017374377:1017374379:1017374383:1017374384:1017374389:1017374392:1017374393:1017374396:1017374397:1017374402:1017374404:1017374405:1017374409:1017374410:10173744
+2001-09-11 04:11:44 Skytel [004435187] A ST NUM  508-205-9341-911    
+2001-09-11 04:11:44 Skytel [003076470] B  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS] (46
+2001-09-11 04:11:46 Skytel [004685966] D  ALPHA  root@medsdbms|wir|Check wir1/wir2. Hour=2, should be=3  
+2001-09-11 04:11:46 Skytel [003922432] A  ALPHA  root@medsdbms|wir|Check wir1/wir2. Hour=2, should be=3  
+2001-09-11 04:11:48 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177593. 
+2001-09-11 04:11:48 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope https://www.skandia.pl/site.htm Production Web Sites (emt-4b) 90331 insufficient encryption, probably needs 128 bit Internet Explorer 
+2001-09-11 04:11:48 Metrocall [0687053] D  ALPHA  s3,00501408,ack,CSD4 ,.[.. ..V..IP"OC.VY.ol.....................................
+2001-09-11 04:11:48 Metrocall [0687053] D  ALPHA  .................................................................................
+2001-09-11 04:11:48 Skytel [004678548] B  ALPHA  spectrum@ascend.com||  Alarm CLEARed: ModelName:        135.119.1.40 Mtype:            WA_Link IPAddress:        135.119.1.40 Date:             09/11/2001 Time:             01:11:34 AlarmID:          83542 Condition:        RED CauseCode:  
+2001-09-11 04:11:48 Skytel [005067805] D SH/TONE 766-2222
+2001-09-11 04:11:48 Skytel [002401821] D  ALPHA  ssmcscsm13 N/A DIA-BDC-01:Agent:Ping::Broken DIA-BDC-01 is DOWN!  
+2001-09-11 04:11:48 Skytel [004397329] A ST NUM  899-646-0181-78
+2001-09-11 04:11:49 Arch [0015149] D  ALPHA  atn0 severe atn0 PT031 4 resync/test after ipt stopped/started: RESYNC:FAIL TESTIPT:FAIL Possible Comm problem!! AT Tue Sep 11 08:11:47 GMT 2001
+2001-09-11 04:11:49 Arch [0183689] C  ALPHA  atn0 severe atn0 PT031 4 resync/test after ipt stopped/started: RESYNC:FAIL TESTIPT:FAIL Possible Comm problem!! at Tue Sep 11 08:11:47 GMT 2001
+2001-09-11 04:11:51 Skytel [005101247] D  ALPHA  : canada lockbox was bypassed - transmission never came across  
+2001-09-11 04:11:51 Skytel [007559861] B ST NUM  223-822-1567-911    
+2001-09-11 04:11:51 Skytel [005171263] D SH/TONE 99      
+2001-09-11 04:11:53 Skytel [003779400] C  ALPHA  : canada lockbox was bypassed - transmission never came across  
+2001-09-11 04:11:57 Skytel [005178080] A SH/TONE 104     
+2001-09-11 04:11:57 Skytel [004524770] A  ALPHA  wil-BeauregardEquip-ColchesterVT: CPE Up at 00:58:03 on 9/11
+2001-09-11 04:11:57 Skytel [005436525] D  ALPHA  Test #83
+2001-09-11 04:11:57 Skytel [003778784] A  ALPHA  : canada lockbox was bypassed - transmission never came across  
+2001-09-11 04:11:59 Skytel [003779065] C  ALPHA  : canada lockbox was bypassed - transmission never came across  
+2001-09-11 04:11:59 Skytel [007109749] B ST NUM  500-129-1177-09

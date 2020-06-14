@@ -1,0 +1,64 @@
+2001-09-11 03:00:00 Metrocall [1060278] B  ALPHA  09/12@03:03:50 BETA13:Service (Oracle Web Lsnr 4.0(admin -DEFAULT_HOME,Intranet)) is not responding. Stopped. 1
+2001-09-11 03:00:00 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-11 03:00:00 Metrocall [1421210] C  ALPHA  LAKEJob 378304/VSIOWNER/OMSJRNMGR has MSGW status.
+2001-09-11 03:00:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4719
+2001-09-11 03:00:01 Arch [0485957] B  ALPHA  (24)WhatsUp@mail.spr|10.134.192.34 VARESAAPP03 is UP at 01:59:12 
+2001-09-11 03:00:01 Arch [0987275] C  ALPHA  s0191: 09/11 12:28:34 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:28:34
+2001-09-11 03:00:01 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 193021. 
+2001-09-11 03:00:01 Arch [1398238] D  ALPHA  knox6060(161.44.216.60): failed ifDescr check, expected: hme0, got: timeout for hme0
+2001-09-11 03:00:03 Skytel [002861584] A ST NUM  8685227799
+2001-09-11 03:00:03 Skytel [007543962] C ST NUM  410-533-9141   
+2001-09-11 03:00:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6709
+2001-09-11 03:00:05 Skytel [002360992] A  ALPHA  wk107920@yanni97.EBay.Sun.COM|Reminder- HAPPY BIRTHDAY DARLING|   ** Calendar Appointment **   Date: 9/11/2001  Start: 12:01 am  End:  1:00 am  What: HAPPY BIRTHDAY DARLING  
+2001-09-11 03:00:05 Skytel {1854552} 3 2400 800-445-7114   
+2001-09-11 03:00:06 Skytel {1678666} 1 1200 Sev 1/2 Notification, Severity 1 MHD Whiteboard 12375, with 2 tickets attached, has been opened. Router MXHSCDDC, Mexico, is unavailable. ETR unknown..
+2001-09-11 03:00:12 Arch [1355675] C  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 03:00:12 Arch [1423082] C  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 03:00:12 Arch [1080366] D  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 03:00:13 Metrocall [1560616] C  ALPHA  netiq@tisi.com Sub: TISIEXCHG01 : Overall CPU Overloaded Txt: Overall CPU Overloaded
+2001-09-11 03:00:18 Arch [1644921] C  ALPHA  800 624-9944
+2001-09-11 03:00:18 Arch [1619047] B  ALPHA  6P07:00LM Found [** SQLException caught **:<SQLState: [JZ0C0] Mesage: [JZ0C0: Conection is already closed.]] in line [45768] of file [schedule
+2001-09-11 03:00:18 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 176779. 
+2001-09-11 03:00:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9632
+2001-09-11 03:00:31 Arch [0983856] A  ALPHA  |ILS: Case Close #B810296 for INTEL CORPORATION, contract 1344576, P3 |This is an ILS summary notification for case B810296 Event: Case Close #B810296, Priority 3 Event Time: 10 September 2001 23:59:56 Title: *ANS*ESPE: PORT ERROR  -1/3
+2001-09-11 03:00:31 Skytel [005361153] A  ALPHA  362990 652dr s2a652 hpmedca Comm Line is Down
+2001-09-11 03:00:33 Arch [0983856] A  ALPHA  MESSAGE (CAT6000 FAMILY #30970FF6) Site: INTEL CORPORATION * Contact: FRANK. ADRIAN * Phone/Email: 408-227-2760 / frank.p.adrian@intel.com; marcovefa@netgate.net; chebrown * Contract: 1344576 Case Owner: ECHOOI @ +61 2 8448 7016 ILS  -2/3
+2001-09-11 03:00:35 Arch [0983856] A  ALPHA  Subscription Information: * Subscriber: chebrown@cisco.com (Contact this person to unsubscribe.) * ILS Event: Create/Close/Reopen * Conditions: Contract ID: 1344576 * Recipient|640   -3/3
+2001-09-11 03:00:35 Skytel [005210286] D  ALPHA  julie.rodriguez@fritz.com||ABI is back up as of 1:53am.  
+2001-09-11 03:00:36 Skytel [004754611] A SH/TONE 5225    
+2001-09-11 03:00:36 Skytel [003273267] A  ALPHA  julie.rodriguez@fritz.com||ABI is back up as of 1:53am.  
+2001-09-11 03:00:36 Skytel [004681266] A  ALPHA  julie.rodriguez@fritz.com||ABI is back up as of 1:53am.  
+2001-09-11 03:00:36 Skytel [005228862] D SH/TONE 2002    
+2001-09-11 03:00:37 Arch [0948817] A  ALPHA  91-WHY DID YOU HANG UP? I TOLD YOU TO HOLD ON. LET ME KNOW IF I CAN CALL BACK.
+2001-09-11 03:00:38 Skytel [003256137] C  ALPHA  julie.rodriguez@fritz.com||ABI is back up as of 1:53am.  
+2001-09-11 03:00:39 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 79.23 52.67 29.40 Tue Sep 11 00:01:00 MST 2001 
+2001-09-11 03:00:39 Metrocall [002273254] B  ALPHA  MIGNUCCI STEVEN/MED CTR PL972-519-1335 PLS CALL ------- 09/11/2001 02:01a PAT -------
+2001-09-11 03:00:40 Skytel [005206623] D  ALPHA  julie.rodriguez@fritz.com||ABI is back up as of 1:53am.  
+2001-09-11 03:00:40 Skytel [002464730] C SH/TONE 2308 (83
+2001-09-11 03:00:42 Skytel [002849642] C  ALPHA  julie.rodriguez@fritz.com|ABI is back up as of 1:53am.  
+2001-09-11 03:00:42 Skytel [005112809] C  ALPHA  01:55CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240432: Uncorrectable write error
+2001-09-11 03:00:42 Skytel [007654374] B SH/TONE 393-9919
+2001-09-11 03:00:42 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #93-IX_T4205
+2001-09-11 03:00:42 Skytel [004524770] A  ALPHA  wil-BondAuto-BarreVT-01: CPE Down at 00:36:31 on 9/11
+2001-09-11 03:00:42 Skytel [003522539] C SH/TONE 666     
+2001-09-11 03:00:42 Skytel [005550817] A  ALPHA  julie.rodriguez@fritz.com||ABI is back up as of 1:53am.  
+2001-09-11 03:00:42 Skytel [005134570] C  ALPHA  julie.rodriguez@fritz.com||ABI is back up as of 1:53am.  
+2001-09-11 03:00:44 Skytel [007541750] B SH/TONE 1403    
+2001-09-11 03:00:46 Skytel [004571022] D ST NUM  809-9266-2
+2001-09-11 03:00:46 Skytel [002844427] C  ALPHA  AP:VA:L1:V5MDUA10 ABENDED WITH SB37 ON 3S03 - 01:58:Call 8005826218.
+2001-09-11 03:00:48 Metrocall [1544783] D  ALPHA  TACAMAHAC ALARM #2 OF GLOBAL PARAMETER ALERTS TRIGGERED ONORACLE_AVAILABILITY.NIEAP00. 4 5.00 6
+2001-09-11 03:00:48 Metrocall [1281055] D  ALPHA  TACAMAHAC ALARM #2 OF GLOBAL PARAMETER ALERTS TRIGGERED ONORACLE_AVAILABILITY.NIEAP00. 4 5.00 6
+2001-09-11 03:00:48 Metrocall [1544076] D  ALPHA  TACAMAHAC ALAR
+2001-09-11 03:00:48 Metrocall [1544783] D  ALPHA  TACAMAHAC ALARM #2 OF GLOBAL PARAMETER INSTANCESTATUS TRIGGERED ON ORACLE.ORACLE. 2
+2001-09-11 03:00:48 Metrocall [1281055] D  ALPHA  TACAMAHAC ALARM #2 OF GLOBAL PARAMETER INSTANCESTATUS TRIGGERED ON ORACLE.ORACLE. 2
+2001-09-11 03:00:48 Skytel [005254677] B  ALPHA  syslogd@firstam.com|Daily Syslog statistics for 09-10-2001|Syslog Daemon Statistics.  24 hour period ending Midnight on 09-10-2001 --------------------------------------------  Syslog Daemon Started on: Thu, 06 Sep 2001 at 18:56 Total messa
+2001-09-11 03:00:50 Arch [0508023] B  ALPHA  Super-User <root|!BB - 1390710! hp3000.namins.com|[1390710] hp3000.namins.com.conn red Tue Sep 11 03:01:28 EDT 2001 bb-network.sh: Can't ping hp3000.namins.com... Please see: http://bass.namins.com/bb/html/hp3000.namins.com.conn.html 
+2001-09-11 03:00:50 Metrocall [1544076] D  ALPHA  M #2 OF GLOBAL PARAMETER ALERTS TRIGGERED ONORACLE_AVAILABILITY.NIEAP00. 4 5.00 6
+2001-09-11 03:00:51 Skytel [002553148] D SH/TONE         
+2001-09-11 03:00:52 Metrocall [1544076] D  ALPHA  TACAMAHAC ALARM #2 OF GLOBAL PARAMETER INSTANCESTATUS TRIGGERED ON ORACLE.ORACLE. 2
+2001-09-11 03:00:55 Skytel [003944538] C  ALPHA  NetCmmnd@wscmdpost.pncbank.com|Alert from System Management - SYSA CMB206I|MAILBOX TRANSMISSION FAILURE PAIMX4OD NO LINES AVAILABLE  
+2001-09-11 03:00:57 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 176786. 
+2001-09-11 03:00:57 Metrocall {1140010} 3 2400 From Wicks, Rita Sub:OSHA RECORDABLE Msg:Ed  Lupkowski of dept 1451 has presented with complaints of right hand pain and numbness.  This is OSHA recordable due to notice of disability received.  Rita...
+2001-09-11 03:00:57 Skytel [005204582] B SH/TONE 143     
+2001-09-11 03:00:57 Skytel [005330530] A ST NUM  8685222010
+2001-09-11 03:00:59 Skytel [005343224] C ST NUM  011-1111-11    

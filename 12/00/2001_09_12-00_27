@@ -1,0 +1,95 @@
+2001-09-12 00:27:00 Skytel [003261425] A  ALPHA  (1 of 2) The Automation will be OFF all night.  Please ensure that the ees are u
+2001-09-12 00:27:00 Skytel [007109749] B SH/TONE 11110   
+2001-09-12 00:27:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7996
+2001-09-12 00:27:01 Arch [0903077] B  ALPHA       
+2001-09-12 00:27:01 Arch [0982036] B  ALPHA  911 - WARRANT EXECUTION - BRIEFING ASAP, 2ND FLOOR CLASSROOM PER Y20
+2001-09-12 00:27:02 Skytel [004167431] B ST NUM  301-946-1012 (21    
+2001-09-12 00:27:02 Skytel [007561353] C ST NUM  0-431-431-4314-3143 
+2001-09-12 00:27:03 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191257. 
+2001-09-12 00:27:03 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: PDSTRD_EDGNY1 7 lines of potential Sybase errors @00:25 09/12/01 
+2001-09-12 00:27:03 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-12 00:27:05 Arch [0930870] B  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:25      
+2001-09-12 00:27:05 Arch [0979240] C  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:27:05 Arch [1660247] B  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT S
+2001-09-12 00:27:05 Arch [0029240] C  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:25      
+2001-09-12 00:27:05 Arch [0981201] A  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  
+2001-09-12 00:27:05 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-12 00:27:05 Arch [0926807] B  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:25      
+2001-09-12 00:27:05 Skytel [005105954] A ST NUM  825-890-6690   
+2001-09-12 00:27:05 Skytel [003936554] C SH/TONE 948-4639
+2001-09-12 00:27:06 Skytel {1599702} 1 2400 3492 U (67.
+2001-09-12 00:27:07 Arch [1660247] B  ALPHA  TARTED.  Sent at 23:25      
+2001-09-12 00:27:07 Arch [0981201] A  ALPHA  Sent at 23:25      
+2001-09-12 00:27:07 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-12 00:27:07 Skytel {0446673} 3 1200 978-263-1323  10    
+2001-09-12 00:27:08 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4566
+2001-09-12 00:27:10 Metrocall [0537124] B  ALPHA  08: ROGER ERCOLINI 408 227 7304* RE: RETURNED YOUR CALL. (9:28 PM/SEP 11)
+2001-09-12 00:27:10 Metrocall [1223179] C  ALPHA  Frm: joe_e_rudy@bankone.com Sub: Ret PM Proc #2 Txt: RETAIL PAC - 12:26 AM EST - There are no significant issues with the nightly Retail processing cycle. Both NEO and
+2001-09-12 00:27:12 Metrocall [1223179] C  ALPHA   IBM are reporting all processing
+2001-09-12 00:27:16 Arch [1256003] A  ALPHA  19575
+2001-09-12 00:27:18 Arch [0980928] A  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:25      
+2001-09-12 00:27:18 Arch [0209124] B  ALPHA  From Tim Evans Sub:336 update Msg:290 completed copy / scheduled.  21 disk space issue  18 not scheduled  7 co
+2001-09-12 00:27:18 Arch [0966655] D  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:25      
+2001-09-12 00:27:18 Arch [0970437] B  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:25      
+2001-09-12 00:27:18 Arch [1017704] C  ALPHA  From Tim Evans Sub:336 update Msg:290 completed copy / scheduled.  21 disk space issue  18 not scheduled  7 copies not complete       
+2001-09-12 00:27:18 Arch [0988031] D  ALPHA  From Tim Evans Sub:336 update Msg:290 completed copy / scheduled.  21 disk space issue  18 not scheduled  7
+2001-09-12 00:27:19 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router Aevia-I-GW at 21:25:15 Txt: Router Aevia-I-GW DOWN at 21:25:15 Address: 166.90.48.82 Date: 09/11/2001 Status: Timed Out ( 11010)
+2001-09-12 00:27:19 Metrocall [1061068] D  ALPHA  Frm: Jacob G Hartland Sub: Rate will most likely drop sharly over the next few d
+2001-09-12 00:27:19 Metrocall [1699569] A  ALPHA  SKEETA: OOPS! CRYSTAL CITY MARRIOTT OR CRYSTAL GATEWAY MARRIOTT? PLEASE CALL. SORRY ABOUT THAT.... SVA
+2001-09-12 00:27:19 Skytel {1256008} 1 1200 EOG 32.73 UNCH EPP 0.00 UNCH ENE 32.76 UNCH..
+2001-09-12 00:27:20 Arch [0209124] B  ALPHA  pies not complete       
+2001-09-12 00:27:20 Arch [0000101] B  ALPHA  MSN 029 hello Message from NOC PCB.
+2001-09-12 00:27:20 Arch [0988031] D  ALPHA   copies not complete       
+2001-09-12 00:27:20 Skytel {0358727} 1 1200 3333 
+2001-09-12 00:27:21 Metrocall [1061068] D  ALPHA  ays Txt: Do you need a loan? Do you want to refinance your home? Are you worried about your credit record? Visit us today at http://www.ratesavings.net We're he
+2001-09-12 00:27:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0919
+2001-09-12 00:27:22 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-12 00:27:22 Arch [0930041] C  ALPHA  28-PLEASE CALL TONY IN 46 AS SOON AS YOU CAN OR BEEP ME WITH WHAT TIME YOU WANT ME TOMORROW.
+2001-09-12 00:27:22 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191264. 
+2001-09-12 00:27:24 Arch [0987275] C  ALPHA  s0191: 09/11 15:41:26 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:41:26
+2001-09-12 00:27:26 Arch [0987275] C  ALPHA  s0191: 09/11 15:47:33 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:47:34
+2001-09-12 00:27:29 Metrocall [1284073] C  ALPHA  09-11-01 21:27:00 Spot not playing
+2001-09-12 00:27:29 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3175
+2001-09-12 00:27:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3175
+2001-09-12 00:27:31 Skytel [005413894] B ST NUM  55188 (79 
+2001-09-12 00:27:33 Skytel [004386457] C SH/TONE 2845    
+2001-09-12 00:27:33 Skytel [007567765] B ST NUM  912-054-0177-3178   
+2001-09-12 00:27:33 Skytel [007603477] B SH/TONE 342     
+2001-09-12 00:27:33 Skytel [005049241] C ST NUM  603-395-7660   
+2001-09-12 00:27:33 Skytel [002847128] C  ALPHA  ORCL 11.46 UNCH MSFT 57.58 UNCH NSCP 0.00 UNCH FMAGX 98.26 +0.50 (29
+2001-09-12 00:27:35 Skytel [005245728] A ST NUM  319-289-3829   
+2001-09-12 00:27:35 Skytel [007035683] A  ALPHA  Insider@emcweb.com|SiteScope Alert, error, TranTrac1 URL Transaction, unable to reach server on  (step 1), https://209.64.62.245/trantrac/login?edtMID=601109999999015&edtUID=user0...|This alert is from SiteScope at http://insider.emcweb.com
+2001-09-12 00:27:35 Skytel [005242798] D SH/TONE 249     
+2001-09-12 00:27:37 Skytel [005310385] A SH/TONE 458     
+2001-09-12 00:27:37 Skytel [007464254] D ST NUM  960-627-5171   
+2001-09-12 00:27:37 Skytel [007569723] C ST NUM  67012120111812877070
+2001-09-12 00:27:37 Skytel [002406066] A ST NUM  073-1707-1
+2001-09-12 00:27:39 Skytel [003522371] A SH/TONE 214     
+2001-09-12 00:27:39 Skytel [004539971] A SH/TONE 301-6243
+2001-09-12 00:27:39 Skytel [004595654] B  ALPHA  VOICE MESSAGE [1501.NAME UNAVAILABLE    
+2001-09-12 00:27:39 Skytel [002406595] A  ALPHA  NVTSF 0.00 UNCH BMY 58.12 UNCH MRK 66.10 UNCH PFE 38.17 UNCH
+2001-09-12 00:27:39 Skytel [005098183] B  ALPHA  SKYGRAM
+2001-09-12 00:27:40 Metrocall [1284194] A  ALPHA  09-11-01 21:27:00 Spot not playing
+2001-09-12 00:27:43 Arch [0987275] C  ALPHA  s0191: 09/11 15:50:15 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:50:16
+2001-09-12 00:27:43 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: PDSTRD_EDGNY1 Sybase  @00:15 09/12/01 
+2001-09-12 00:27:43 Skytel [005203053] D ST NUM  403-224-9499   
+2001-09-12 00:27:43 Skytel [005065445] B SH/TONE 864-8404
+2001-09-12 00:27:43 Skytel [005230057] C SH/TONE 102     
+2001-09-12 00:27:43 Skytel [005171691] C ST NUM  507-622-7228   
+2001-09-12 00:27:43 Skytel [005226605] D ST NUM  8683241936
+2001-09-12 00:27:44 Arch [0987275] C  ALPHA  sb3: INFO0002 - Trade Count Mismatch Ora=825 Rec=0 (160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:52
+2001-09-12 00:27:44 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: PDSTRD_EDGNY1 Sybase  @00:20 09/12/01 
+2001-09-12 00:27:45 Skytel [004587894] B ST NUM  500-303-6997-294    
+2001-09-12 00:27:45 Skytel [003074556] D  ALPHA  NOVL 3.99 UNCH MSFT 57.58 UNCH NSCP 0.00 UNCH IBM 96.47 UNCH (98
+2001-09-12 00:27:45 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-12 00:27:48 Arch [0987275] C  ALPHA  s0191: 09/11 15:56:49 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:56:49
+2001-09-12 00:27:48 Arch [0922767] D  ALPHA  "Jason Adams" <l|Production Logged Errors|An error occurred on nt4 in component gwSystemAttendant, method CSystemAttendant.CleanupServer: Web Page Result -- error at 2001/09/12 00:02:00 for thread 787. An error occurred on nt4 in component 
+2001-09-12 00:27:48 Skytel [005327893] B SH/TONE 981-0715
+2001-09-12 00:27:49 Metrocall [1707375] D  ALPHA  Frm: 'aolnews@aol.com Sub: survivors pulled from rubble alive - ny mayor Txt: Survivors pulled from rubble alive
+2001-09-12 00:27:50 Skytel [005001895] B  ALPHA  [sps/52] 104 supplier.intel.com relay-ssl 0.0 FAILURE Server closedconnection immediately. (/infoweb/healthcheck.asp) 4:24:47
+2001-09-12 00:27:54 Skytel [005490889] C ST NUM  778-417-6490   
+2001-09-12 00:27:58 Skytel [005436525] D  ALPHA  Test Lotus Notes #98-IX_T1705
+2001-09-12 00:27:58 Skytel [002560103] B SH/TONE 28688   
+2001-09-12 00:27:58 Skytel [005076708] B SH/TONE 329     
+2001-09-12 00:27:58 Skytel [007438052] B SH/TONE 3333 (96
+2001-09-12 00:27:58 Skytel [002817389] D  ALPHA  CISCO_VPN@fema.gov|VPN3000 Concentrator Alert (mwvpn)|5937 09/12/2001 00:23:46.520 SEV=3 AUTH/5 RPT=9 198.182.163.109 Authentication rejected: Reason = Logon Failurehandle = 314, server = 166.112.217.148, user = jmaloney, domain = nemis  

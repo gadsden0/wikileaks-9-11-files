@@ -1,0 +1,80 @@
+2001-09-11 06:55:00 Arch [0939153] A  ALPHA  Batch on access-lmb is complete for today.
+2001-09-11 06:55:00 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179371. 
+2001-09-11 06:55:01 Metrocall [1544818] A  ALPHA  HRIS-PROD01:Device Inaccessible
+2001-09-11 06:55:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2122
+2001-09-11 06:55:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2122
+2001-09-11 06:55:01 Skytel [005313931] C SH/TONE 54238   
+2001-09-11 06:55:03 Metrocall [0527212] D  ALPHA  <0005> OVLK 908-522-2240 PT/ PAPPAS
+2001-09-11 06:55:04 Arch [1398739] A  ALPHA  518 471-2609
+2001-09-11 06:55:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6944
+2001-09-11 06:55:04 Arch [1394622] D  ALPHA  F:jduke@siu.edu S:CSDashboard: Unable to connect to database and do simple select on TPS: T:gold_support@ALTA.CS.DIEBOLD.COM
+2001-09-11 06:55:04 Arch [0904393] C  ALPHA  Defiant@circuitc|Server may be down|
+2001-09-11 06:55:04 Skytel {1706167} 1 1200 251  
+2001-09-11 06:55:04 Skytel {0457183} 3 1200 705309    
+2001-09-11 06:55:05 Arch [1052294] B  ALPHA  |NETWORK-P1 UPDATE #4243506 |Mexicocity-gw is down impacting FSO call managers. No impact due to time of day. Support investigating power outage. Next update at 05:30 PT. OUTAGE START: 11 Sep 03:14 PT NO ETU. Ops 408-527-0007 |226  
+2001-09-11 06:55:05 Skytel {1599702} 1 2400 3492 (14
+2001-09-11 06:55:11 Metrocall [1829921] A  ALPHA  Frm: MSN Txt: Hotmail list@myucomics.com:Stone Soup 09/11/01
+2001-09-11 06:55:11 Metrocall [1064388] B  ALPHA  LCO 2730/2728  -015 CL 2756/780/785-007 2754/2711/2673/2655 2623/2591/2560/2530 HO 7950/015/050-011 HU 8155/740/560-032 NG2410/2680/003+018 315
+2001-09-11 06:55:13 Metrocall [1064388] B  ALPHA  3/3120/3050/2960 965/010/040/055/065 LGO 23875/4075-0350 PL v4390/f4320 +007 EC _3300/_3150+0150 PAm45600+000
+2001-09-11 06:55:17 Arch [0948281] C  ALPHA  07-BOSTON POST ROAD DARIEN NO NEW DAMAGE TO BRIDGE. -PEARSON.
+2001-09-11 06:55:20 Metrocall [002568740] B  ALPHA  I 194.153.115.58 up @0554 eldn to ein DS-3 link to Telecity GSR S7/1 ein noc 888 337-1998
+2001-09-11 06:55:20 Metrocall [1844883] A  ALPHA  @
+2001-09-11 06:55:22 Arch [0970500] B  ALPHA  tomd@mediaone.ne|Week 1 Results and Week 2 sheet|Multipart message received for: erickdukes@usa.net From: tomd@mediaone.net Subject: Week 1 Results and Week 2 sheet 
+2001-09-11 06:55:22 Arch [1087655] B  ALPHA  6294* ID is unavailable.  Reason: Unknown. Location: Third Party Vendor(CP).   Estimated time:  NO ETA CONTACTING THE VENDOR.....TLB /PROD
+2001-09-11 06:55:22 Arch [1622669] D  ALPHA  PM26063 DEBORAH HILL (614)438-3991// L=OHWORT F=na C= S=1 L= Worthington    clients are not getting drive mappings from  
+2001-09-11 06:55:22 Arch [0951313] A  ALPHA  PM26063 DEBORAH HILL (614)438-3991// L=OHWORT F=na C= S=1 L= Worthington    clients are not getting drive mappings from
+2001-09-11 06:55:22 Arch [0939108] B  ALPHA  PM26063 DEBORAH HILL (614)438-3991// L=OHWORT F=na C= S=1 L= Worthington    clients are not getting drive mappings from  
+2001-09-11 06:55:22 Arch [0939111] B  ALPHA  PM26063 DEBORAH HILL (614)438-3991// L=OHWORT F=na C= S=1 L= Worthington    clients are not getting drive mappings from
+2001-09-11 06:55:22 Metrocall [0828778] C  ALPHA  GuardServer Alert!.09/11/01 06:30 EVT.ZORN,ASHL...3.....6..2.....................................................
+2001-09-11 06:55:22 Metrocall [1064383] D  ALPHA  .....................................................................................................................
+2001-09-11 06:55:24 Arch [0951313] A  ALPHA    
+2001-09-11 06:55:24 Arch [0939111] B  ALPHA    
+2001-09-11 06:55:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9867
+2001-09-11 06:55:28 Metrocall [1064376] C  ALPHA   3.172/162
+2001-09-11 06:55:31 Metrocall [0853426] A  ALPHA  GOOD MORNING I missed you last night in my bed....its lonely without you! [18:00]
+2001-09-11 06:55:31 Metrocall [002589261] D  ALPHA  ask seat2ax_pull terminated with error status = 139 .
+2001-09-11 06:55:32 Arch [0939104] A  ALPHA  PM26063 DEBORAH HILL (614)438-3991// L=OHWORT F=na C= S=1 L= Worthington    clients are not getting drive mappings from  
+2001-09-11 06:55:33 Skytel [003927703] B  ALPHA  NOC-PagerNotify@UU.NET|C-NOC-000008048|09/11/01 06:31:00 CHI2 Multiple TNT's num cust=2 ESC=3 TRANSPORT Marion-Metro-DA, IL rotary is isolated due to possible fiber-cut.  NOC opened ticket with ATLOPS.  More updates to follow.  
+2001-09-11 06:55:33 Skytel [007575575] B  ALPHA  lostux@limbstx1.att.com|0 ODMANAGER DAEMONS ARE UP|ODMANAGER DAEMON ALERT, PLEASE CHECK  
+2001-09-11 06:55:37 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179378. 
+2001-09-11 06:55:38 Skytel [005098183] B  ALPHA  1way WCTP
+2001-09-11 06:55:38 Skytel [007567175] B  ALPHA  NOC-PagerNotify@UU.NET|C-NOC-000008048|09/11/01 06:31:00 CHI2 Multiple TNT's num cust=2 ESC=3 TRANSPORT Marion-Metro-DA, IL rotary is isolated due to possible fiber-cut.  NOC opened ticket with ATLOPS.  More updates to follow.  
+2001-09-11 06:55:38 Skytel [003481167] D ST NUM  614-431-4302   
+2001-09-11 06:55:40 Skytel [007552469] B  ALPHA  Ticket \#NYGS01462505 has been in ASG for over 0 minutes. \(VB0221S471:HIGH MEMORY PAGING NT MEMORY PAGES/SEC IS 418.70; >\)
+2001-09-11 06:55:41 Arch [1020793] C  ALPHA  WINN OUT SICK B SHIFT COVERAGE NEEDED
+2001-09-11 06:55:41 Metrocall [002178508] D  ALPHA  EMAIL BreakingNews@CNN.COM CNN Breaking News BREAKING NE...f..m...B.#...................................................................................................................................................................................
+2001-09-11 06:55:42 Skytel [005330530] A ST NUM  8685222010
+2001-09-11 06:55:42 Skytel [005436525] D  ALPHA  nMCI Test #20
+2001-09-11 06:55:42 Skytel [004414954] C SH/TONE 319-5111
+2001-09-11 06:55:42 Skytel [002396517] B ST NUM  043-1431-43 (1 
+2001-09-11 06:55:44 Metrocall [002178508] D  ALPHA  or AOL
+2001-09-11 06:55:44 Skytel [003327216] A  ALPHA  002257 CYCLIC TEST 
+2001-09-11 06:55:44 Skytel [002377208] C SH/TONE 4444    
+2001-09-11 06:55:44 Skytel [007041147] C  ALPHA  Gcsc_Nam_Psu@sita.int|UPS BCC| BCC: Y IMPACT: SAP15X-1 CITY:SAN PEDRO, HONDURAS DOWN:0455Z 9/11 CASE: 246058 REMARKS:MODEM DOWN  LDH  
+2001-09-11 06:55:44 Skytel [002357369] C  ALPHA  002257 CYCLIC TEST 
+2001-09-11 06:55:44 Skytel [002139900] D SH/TONE 002257  
+2001-09-11 06:55:44 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-11 06:55:45 Arch [0000101] B  ALPHA  MSN 034 hello Message from NOC PCB.
+2001-09-11 06:55:46 Skytel [005192320] A SH/TONE 927-3500
+2001-09-11 06:55:46 Skytel [005055363] A SH/TONE 5142    
+2001-09-11 06:55:46 Skytel [003926019] A SH/TONE 941-6500
+2001-09-11 06:55:47 Arch [0916942] D  ALPHA  1 111-1111
+2001-09-11 06:55:48 Skytel [002391442] A  ALPHA  Will you have an overhead projector today?   Keith
+2001-09-11 06:55:52 Metrocall [0668584] C  ALPHA  From: Jim Granade 99999222222
+2001-09-11 06:55:52 Metrocall [1064375] B  ALPHA  /FTSE  5077.80  +044 NIKK  10292.95  +097 DAX    4734.97  +064 CAC40  4436.98  +053 MIB30  31749   +0185 HSI  10417.36  +0051 30 _99.02/03  5.438% GOLD271.40/190  -010 S 4.18/20  PL 440.00 PD 450.00/0
+2001-09-11 06:55:52 Metrocall [1890433] A  ALPHA  From: Jim Granade 99999222222
+2001-09-11 06:55:52 Metrocall [002468095] D  ALPHA  From: Jim Granade 99999222222
+2001-09-11 06:55:52 Metrocall [1540036] B  ALPHA  From: Jim Granade 99999222222
+2001-09-11 06:55:52 Skytel [005004733] D  ALPHA  M SHORE      6 BEDFORD RD        MS354-5267 BILL=CK CUST MISS 9/5157 939
+2001-09-11 06:55:52 Skytel [002157876] B SH/TONE 541     
+2001-09-11 06:55:53 Skytel [005422533] B ST NUM  551-0878 (95   
+2001-09-11 06:55:53 Skytel [007599051] C SH/TONE 2800    
+2001-09-11 06:55:54 Metrocall [1064375] B  ALPHA  .00  +000 JG 1.420%
+2001-09-11 06:55:55 Skytel [004568656] A  ALPHA  lavra@agere.com|ADRF status|All tools are up.  
+2001-09-11 06:55:55 Skytel [005415889] A  ALPHA  From: BreakingNe Subject:      CNN Breaking News BREAKING NEWS from CNN.com  -- Iraq claims U.S. spy plane shot down; Pentagon confirms losing contact with unmanned craft. Details to come.  For complete coverage of this story visit: http://
+2001-09-11 06:55:55 Skytel [005077087] D ST NUM  900-551-0864   
+2001-09-11 06:55:55 Skytel [005340767] D SH/TONE 925-0599
+2001-09-11 06:55:56 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE:PRS1_EQROCINY - 20 RSI        Connecting           PRS1_EQROCIBM @06:55 09/11/01 
+2001-09-11 06:55:57 Skytel [004524770] A  ALPHA  spr-WoroncoSavingsBank44-Westfie: CPE Down at 01:47:23 on 9/11
+2001-09-11 06:55:58 Arch [0950741] B  ALPHA  Good Morning. Server Chk completed Successfully! 
+2001-09-11 06:55:59 Skytel [002402427] C  ALPHA  <<86912:534>>PAC 06:53 9/11/01 INITIAL MONEY CARD FOR AZ,UT DELAYED DUE TO MISSING ICS FILES DUE TO RPC ERROR. PROGRAMMERS WORKING TO RESTORE.  NO ETA.   

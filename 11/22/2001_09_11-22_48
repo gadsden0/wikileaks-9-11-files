@@ -1,0 +1,140 @@
+2001-09-11 22:48:00 Arch [1600758] B  ALPHA  (17)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=402 BC=4,204,605 Code Blocked count=39,913,760. NCC tkt# 2041237 dlh
+2001-09-11 22:48:00 Arch [0977403] C  ALPHA  (9)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=402 BC=4,204,605 Code Blocked count=39,913,760. NCC tkt# 2041237 dlh
+2001-09-11 22:48:00 Arch [1002071] B  ALPHA  (20)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=402 BC=4,204,605 Code Blocked count=39,913,760. NCC tkt# 2041237 dlh
+2001-09-11 22:48:00 Skytel [005428345] C ST NUM  202-733-6096 (53    
+2001-09-11 22:48:02 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7897
+2001-09-11 22:48:03 Skytel [005249811] A SH/TONE 7585    
+2001-09-11 22:48:03 Skytel [003485846] B ST NUM  302-262-3746   
+2001-09-11 22:48:03 Skytel [003059100] D  ALPHA  osparks@abm.com|from olden| Please check your VM about working tomorrow, if you have any issues please contact me @ 415-760-7967  
+2001-09-11 22:48:03 Skytel [003509131] C SH/TONE 7585    
+2001-09-11 22:48:03 Skytel [005347464] C  ALPHA  BOMB THREAT AT WENDY'S ON RT 648..NFI..XALLER SOUND W/M, CAME IN VIA 911 PAY PHO
+2001-09-11 22:48:04 Metrocall [1552648] C  ALPHA  Frm: MSN Txt: CA*Daily 3: 9/10/2001 1-0-2*Daily Derby: 9/10/2001 Merrill Lynch - Be Bullish
+2001-09-11 22:48:04 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcb-wbs01 Sev:4 # 36406 UnacceptableQualityOfICAPData WBS 3.1.14.1 09/11/01 19:47:48 
+2001-09-11 22:48:04 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4467
+2001-09-11 22:48:05 Skytel [005124140] D ST NUM  U    *         * *  
+2001-09-11 22:48:06 Metrocall [0477913] C  ALPHA  PDT7 Instance: WBSSched_|_TNT_|_Created:09/11/01_02:30:08 Module: GatewayConnection Details: PID=5553 TID=136 Percent of Good V
+2001-09-11 22:48:06 Skytel {0695376} 1 1200 1-818-985-1608 
+2001-09-11 22:48:06 Skytel {0454346} 3 1200 756-0703  
+2001-09-11 22:48:06 Skytel {0576476} 1 1200 MOT 15.04 UNCH
+2001-09-11 22:48:07 Arch [0969351] B  ALPHA  CALL THE REMCS CHIEF From: REMCS Supv.
+2001-09-11 22:48:08 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcb-wbs01 Sev:4 # 36314 ExceptionInInitializeVBIDecoder WBS 3.1.14.1 09/11/01 19:47:48 PDT7 Instance: WBSSched_|_TNT_|_Created:09/11/01_02:30:08 Module: GatewayConnection Details: PID=5553 TID=136 Unable to open
+2001-09-11 22:48:09 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|xtmsprod|CR: 144162 Priority: 3 Assigned to: Summary:: CPU warning or critical alert 
+2001-09-11 22:48:09 Arch [1657188] B  ALPHA  NCAGBRWS02:Device Inaccessible
+2001-09-11 22:48:09 Arch [0545241] C  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 0470039E from cluster 1095 to cluster 1000), status C3AE181B, extended s
+2001-09-11 22:48:09 Arch [0436177] A  ALPHA  MSN <alert@msn.c|Hotmail barkley@hotmail.com:That was mine! 
+2001-09-11 22:48:13 Arch [0810468] B  ALPHA  (21)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=402 BC=4,204,605 Code Blocked count=39,913,760. NCC tkt# 2041237 dlh
+2001-09-11 22:48:13 Arch [0888583] B  ALPHA  NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=402 BC=4,204,605 Code Blocked count=39,913,760. NCC tkt# 2041237 dlh
+2001-09-11 22:48:13 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 22:48:13 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:E
+2001-09-11 22:48:13 Arch [0794403] A  ALPHA  (18)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=402 BC=4,204,605 Code Blocked count=39,913,760. NCC tkt# 2041237 dlh
+2001-09-11 22:48:15 Arch [0987275] C  ALPHA  s0191: 09/11 11:48:17 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:48:18
+2001-09-11 22:48:15 Arch [1425048] C  ALPHA  RROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190151. 
+2001-09-11 22:48:15 Arch [0000101] B  ALPHA  MSN 109 hello Message from NOC PCB.
+2001-09-11 22:48:17 Arch [0987275] C  ALPHA  s0191: 09/11 11:56:22 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:56:22
+2001-09-11 22:48:17 Metrocall [002461325] D  ALPHA  HEY NICK ITS ROGER MASSEY JACKIES SON MOM SAID THAT WE WERE SHORT AND NEEDED SOME PEOPLE AND THAT IT IS MY ORIGINAL CREW.. I CAME DOWN AND WANT TO HELP ON ENGINE 18-1 AT STATION 10 I HAVE MY GEAR I
+2001-09-11 22:48:19 Arch [0987275] C  ALPHA  s0191: 09/11 11:59:03 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:59:03
+2001-09-11 22:48:21 Arch [0987275] C  ALPHA  s0191: 09/11 12:04:03 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:04:03
+2001-09-11 22:48:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0820
+2001-09-11 22:48:22 Arch [1406388] B  ALPHA  NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=402 BC=4,204,605 Code Blocked count=39,913,760. NCC tkt# 2041237 dlh
+2001-09-11 22:48:23 Arch [0478487] B  ALPHA  (7)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=402 BC=4,204,605 Code Blocked count=39,913,760. NCC tkt# 2041237 dlh
+2001-09-11 22:48:23 Arch [1377060] B  ALPHA  (27)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=402 BC=4,204,605 Code Blocked count=39,913,760. NCC tkt# 2041237 dlh
+2001-09-11 22:48:23 Metrocall [002461325] D  ALPHA   DI
+2001-09-11 22:48:24 Arch [0928111] D  ALPHA  i am in the live shop mike 
+2001-09-11 22:48:24 Arch [1184344] C  ALPHA  sdubasi|Amar, Thanks For the update.-Srinivas   
+2001-09-11 22:48:28 Arch [0921776] A  ALPHA  123106528084
+2001-09-11 22:48:28 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|wb0300ux123|CR: 144163 Priority: 3 Assigned to: Summary:: CPU warning or critical alert 
+2001-09-11 22:48:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3076
+2001-09-11 22:48:31 Metrocall [002461325] D  ALPHA  EMAILS TO VAN HORN ASKING WHAT I SHOULD DO TO  ASK FOR TIME INACTIVE I NEVER RECIEVED ANY REPLY AFTER 2 LETTERS LUMPY SAID ITS FINE WITH HIM IF I HELP BUT ITS UP TO
+2001-09-11 22:48:31 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3076
+2001-09-11 22:48:32 Arch [0900368] A  ALPHA  917 572-4476
+2001-09-11 22:48:32 Arch [0987275] C  ALPHA  s0191: 09/11 12:12:06 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:12:07
+2001-09-11 22:48:32 Arch [0976336] A  ALPHA  64-PLS CALL EXT 2824.
+2001-09-11 22:48:32 Arch [1604278] B  ALPHA  81-I'M NOT GOING TO BE ABLE TO COME TO THE CITY TO WORK TOMORROW BECAUSE I'M OUT IN LONG...
+2001-09-11 22:48:32 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 19:46:25 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 22:48:32 Skytel [002401551] D  ALPHA  PLEASE CALL NEIL AT 845-623-6037.
+2001-09-11 22:48:32 Skytel [002184975] D SH/TONE 3618 (41
+2001-09-11 22:48:33 Skytel [004181264] A ST NUM  01325 (73 
+2001-09-11 22:48:33 Skytel [007578262] B ST NUM  5082629381
+2001-09-11 22:48:33 Skytel [004528917] B SH/TONE 321-3379
+2001-09-11 22:48:33 Skytel [005254677] B  ALPHA  bigbrother@storednetworks.com|SSH login|login(pam_unix)[9346]: session opened for user root by LOGIN(uid=0)  
+2001-09-11 22:48:33 Skytel [002159128] C SH/TONE 413     
+2001-09-11 22:48:33 Skytel [005001620] B SH/TONE 16180   
+2001-09-11 22:48:33 Skytel [004684702] D ST NUM  203-470-8777   
+2001-09-11 22:48:34 Arch [0987275] C  ALPHA  s0191: 09/11 12:14:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:14:49
+2001-09-11 22:48:34 Arch [1604278] B  ALPHA  2...INLAND. AND I'M NOT ABLE TO MAKE IT DUE TO TRANSPORTATION. -WILLIAM REED, YOU CAN CALL ME...
+2001-09-11 22:48:34 Arch [1612111] D  ALPHA  monitor@ccbill.c|EPX PROBLEM WITH front8c.ccbill.|ALERT: No Connection to EPX port Tue Sep 11 19:46:15 MST 2001 
+2001-09-11 22:48:34 Arch [1660706] A  ALPHA  Lets pray for our buddies in NYPD & NYFD. What a great loss. Can you imagine the
+2001-09-11 22:48:35 Skytel [004062625] A ST NUM  519-476-3316   
+2001-09-11 22:48:35 Skytel [005389996] D ST NUM  714-672-5330   
+2001-09-11 22:48:35 Skytel [004114085] B ST NUM  702-485-2782 (75    
+2001-09-11 22:48:35 Skytel [002693664] A  ALPHA  T 17.65 UNCH FON 21.64 UNCH MCIC 0.00 UNCH
+2001-09-11 22:48:35 Skytel [003478554] C ST NUM  310-538-1729 (82    
+2001-09-11 22:48:35 Skytel [005001895] B  ALPHA  [sps/53] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/infoweb/healthcheck.asp) 2:06:30
+2001-09-11 22:48:36 Arch [0987275] C  ALPHA  s0191: 09/11 12:20:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:20:24
+2001-09-11 22:48:36 Arch [1660706] A  ALPHA  ir suffering. JJ
+2001-09-11 22:48:36 Arch [1607577] C  ALPHA  (8)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=402 BC=4,204,605 Code Blocked count=39
+2001-09-11 22:48:36 Arch [1080701] D  ALPHA  (28)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=402 BC=4,204,605 Code Blocked count=39,913,760. NCC tkt# 2041237 dlh
+2001-09-11 22:48:36 Arch [0552383] D  ALPHA  (12)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=402 BC=4,204,605 Code Blocked count=39,913,760. NCC tkt# 2041237 dlh
+2001-09-11 22:48:36 Metrocall [002461325] D  ALPHA   YOU.. CAN YOU CALL ME AT STATION 10
+2001-09-11 22:48:37 Arch [0987275] C  ALPHA  s0191: 09/11 12:28:34 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:28:34
+2001-09-11 22:48:37 Arch [1607577] C  ALPHA  ,913,760. NCC tkt# 2041237 dlh
+2001-09-11 22:48:37 Skytel [002285235] A ST NUM  670-455-5319   
+2001-09-11 22:48:37 Skytel [002353852] D ST NUM  706-283-6546   
+2001-09-11 22:48:37 Skytel [005385788] D  ALPHA  (  969  continuation...)N UPPER RIGHT SECTION
+2001-09-11 22:48:37 Skytel [005247802] C ST NUM  900 458 9768   
+2001-09-11 22:48:37 Skytel [003591987] A  ALPHA  IBM 96.29 -0.30 NSCP 0.00 UNCH NOVL 4.02 +0.10 MSFT 56.78 +1.38 (31
+2001-09-11 22:48:37 Skytel [005492924] D SH/TONE 785-9749
+2001-09-11 22:48:37 Skytel [0001336] C  ALPHA  ]!z00]"AP];0a]<2Sources indicate that people linked to Osama Bin Laden are responsible for the attacks... ]$ (20
+2001-09-11 22:48:39 Arch [1657188] B  ALPHA  NCAGBRGQ01:Device Inaccessible
+2001-09-11 22:48:39 Skytel [003517891] A SH/TONE 7585    
+2001-09-11 22:48:39 Skytel [005098183] B  ALPHA  SKYGRAM
+2001-09-11 22:48:39 Skytel [005229892] B SH/TONE 7585    
+2001-09-11 22:48:39 Skytel [004424519] B ST NUM  825-743-8775   
+2001-09-11 22:48:39 Skytel [005042249] C SH/TONE 111     
+2001-09-11 22:48:39 Skytel [005114183] B ST NUM  809-929-1036   
+2001-09-11 22:48:39 Skytel [005226697] C ST NUM  215-471-1053   
+2001-09-11 22:48:39 Skytel [003453900] D ST NUM  U    *         * *  
+2001-09-11 22:48:39 Skytel [003264325] B  ALPHA  I AM ON THE 228 I NEED TO TALK TO YOU CALL ME AT 703 396 4473 MARK
+2001-09-11 22:48:41 Skytel [004755152] A SH/TONE 531-8134
+2001-09-11 22:48:41 Skytel [007027921] A ST NUM  510-672-1334   
+2001-09-11 22:48:41 Skytel [005226581] B SH/TONE 800-7314
+2001-09-11 22:48:41 Skytel [005306716] D SH/TONE 143911  
+2001-09-11 22:48:43 Arch [1607352] C  ALPHA  CLMBGABV BAKER VILLAGE DRYER/FUSE ALARMS//137 CUSTER/BAKER POLE MOUNT COMP//Clear//09/11/01//22:28
+2001-09-11 22:48:43 Arch [1604278] B  ALPHA  3...ON MY CELL 917-656-4746.
+2001-09-11 22:48:43 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190158. 
+2001-09-11 22:48:43 Arch [0987275] C  ALPHA  s0191: 09/11 12:31:16 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:31:16
+2001-09-11 22:48:43 Skytel [007584098] A ST NUM  210-542-6870   
+2001-09-11 22:48:43 Skytel [005040474] C ST NUM  915-829-8669   
+2001-09-11 22:48:43 Skytel [005180388] B ST NUM  236-924-0840   
+2001-09-11 22:48:43 Skytel [007591526] B ST NUM  770-451-1339   
+2001-09-11 22:48:43 Skytel [005049316] B  ALPHA  Robot.ALERT@ELSEG400|Robot ALERT ID-000089802|Job holds large number of locks.   
+2001-09-11 22:48:43 Skytel [004417774] D ST NUM  614-484-1495   
+2001-09-11 22:48:43 Skytel [005436525] D SH/TONE 74      
+2001-09-11 22:48:43 Skytel [003929196] D  ALPHA  From prodrun at 22:39: Process RMSVAX failed - 200108
+2001-09-11 22:48:45 Arch [0987275] C  ALPHA  s0191: 09/11 12:36:48 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:36:48
+2001-09-11 22:48:45 Skytel [005188465] A ST NUM  1004031480
+2001-09-11 22:48:45 Skytel [007546096] A ST NUM  447-5557-4
+2001-09-11 22:48:45 Skytel [007109749] B ST NUM  500-697-6431-2 
+2001-09-11 22:48:45 Skytel [004686833] A ST NUM  800-713-6125   
+2001-09-11 22:48:45 Skytel [0001403] C  ALPHA  ]!z00]"AS];0a]<4Breaking News:  ]<2Mayor Rudolph Giuliani has stated that there may still be people alive in the two collapsed World Trade Center towers...]$ (76
+2001-09-11 22:48:45 Skytel [003950204] D ST NUM  582-7936 (96   
+2001-09-11 22:48:45 Skytel [007463803] C  ALPHA  Alida1313@aol.com|(no subject)|thank you so much!Im so relieved u are ok. love y
+2001-09-11 22:48:46 Skytel [004535172] B ST NUM  305-515-2811-9999999
+2001-09-11 22:48:48 Skytel [007463574] B  ALPHA  Need to know your ETA in Rockville ASAP (so we can order pizza). X-35708.-Bob Jevec
+2001-09-11 22:48:48 Skytel [002370320] A ST NUM  541-415-6007-76
+2001-09-11 22:48:48 Skytel [007524376] C  ALPHA  alerts-reply@yahoo-in|Yahoo! Breaking News| Breaking News::  NEW YORK _ Mayor says some people alive
+2001-09-11 22:48:48 Skytel [003905944] C  ALPHA  ARDM 4.00 UNCH
+2001-09-11 22:48:49 Metrocall [1423055] D  ALPHA  Sub: WEDNESDAY, 09/12/01 INSURANCE-LETTER FROM INSURANCE-PORTAL.COM Frm: Walter Podgurski Txt: INSURANCE-LETTER FROM INSURANCE-PORTAL INSURANCE-LETTER for Wednesday, September 12, 2001 INSURANCE-LETTER is a free service from
+2001-09-11 22:48:50 Skytel [007002668] D ST NUM  410-325-9136   
+2001-09-11 22:48:50 Skytel [007654694] B SH/TONE 537-7592
+2001-09-11 22:48:50 Skytel [005183019] C ST NUM  9883835586
+2001-09-11 22:48:53 Arch [0492236] D  ALPHA  (24)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=402 BC=4,204,605 Code Blocked count=39,913,760. NCC tkt# 2041237 dlh
+2001-09-11 22:48:53 Arch [1275364] B  ALPHA  Please call conference call at 877-864-2828 pin 14398 asap as per Kevin Duggan   
+2001-09-11 22:48:53 Arch [0869238] B  ALPHA  (1)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=402 BC=4,204,605 Code Blocked count=39,913,760. NCC tkt# 2041237 dlh
+2001-09-11 22:48:53 Arch [1424693] B  ALPHA  NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=402 BC=4,204,605 Code Blocked count=39,913,760. NCC tkt# 2041237 dlh
+2001-09-11 22:48:54 Skytel [005409991] B  ALPHA  248-945-2583 (27
+2001-09-11 22:48:54 Skytel [004587207] B SH/TONE 1289    
+2001-09-11 22:48:54 Skytel [005168330] C  ALPHA  CRISTINA: EL TEL. PARA QUE LLAMES A MEXICO ES: 1888-461-9919, YA TIENES LA CLAVE Y EL NIP. JUAN CARLOS.
+2001-09-11 22:48:55 Metrocall [1423055] D  ALPHA   ACINA Ltd. (www
+2001-09-11 22:48:56 Skytel [007045593] C  ALPHA  GDT 33.90 -0.05
+2001-09-11 22:48:58 Skytel [003670122] C ST NUM  681-526-4297 U 

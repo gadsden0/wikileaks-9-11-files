@@ -1,0 +1,147 @@
+2001-09-11 22:20:00 Arch [0965689] C  ALPHA  sihp8032: Disk utilization of /home filesystem 77% is greater than 75  
+2001-09-11 22:20:00 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7869
+2001-09-11 22:20:00 Arch [1033054] D  ALPHA  95-PLS CALL THE DATA CENTER AT 212-837-1443. -JOSE
+2001-09-11 22:20:00 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-11 22:20:00 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 189836. 
+2001-09-11 22:20:00 Skytel [003269237] B  ALPHA  SEV1 UPDATE Tkt: 00717216 Status: Resolved Location: BOISE ID Desc: barcode server down in west virginia
+2001-09-11 22:20:02 Arch [0965689] C  ALPHA  sihp8032: Disk utilization of /home almost full, Please open minor ticket to G.IS1E2E. filesystem is now ok
+2001-09-11 22:20:02 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-11 22:20:03 Skytel [003905817] C ST NUM  812-638-3631-113    
+2001-09-11 22:20:03 Skytel [007647768] C ST NUM  1001087431
+2001-09-11 22:20:04 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-11 22:20:05 Skytel [005130156] D ST NUM  614-703-2220   
+2001-09-11 22:20:05 Skytel [005068845] D  ALPHA  HP3000@londonlitho.com||    :JOB JBUSPOOL,MANAGER.SYS,PUB. Priority = DS; Inpri = 8; Time = UNLIMITED seconds. Job number = #j2924. TUE, SEP 11, 2001,  9:11 PM. HP3000  Release: C.60.00   User Version: C.60.00 MPE/iX  HP31900 C.16.01  Copyr
+2001-09-11 22:20:05 Skytel [002859939] A  ALPHA  40952: gpwpdv02 22:20:43 Sep 11 22:20:10 gpwpdv02 vmunix: vxfs: mesg 008: vx_direrr - /opt/platinum file system inode 5133 block 2001032 error 6
+2001-09-11 22:20:06 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-11 22:20:06 Skytel {1030685} 3 2400 404-2444  64   
+2001-09-11 22:20:06 Skytel {1092655} 3 2400 002565    
+2001-09-11 22:20:07 Skytel {1571986} 3 1200 326-4851  
+2001-09-11 22:20:07 Skytel {1337918} 1 1200 PAPITO: ESTAMOS EN LA CASA, POR FAVOR LLAMA..
+2001-09-11 22:20:07 Skytel {0447943} 1 1200 818-840-3459   
+2001-09-11 22:20:08 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4439
+2001-09-11 22:20:09 Arch [0900779] C  ALPHA   Sub:WTC UPDATE #10a  Msg:      WTC UPDATE #10a BEGINS AT 10PM ON TUE SEP 11, 2001                                                            10:05p             msnbc              They are finding vic
+2001-09-11 22:20:09 Arch [1428040] C  ALPHA   Sub:WTC UPDATE #10a  Msg:      WTC UPDATE #10a BEGINS AT 10PM ON TUE SEP 11, 2001                                                            10:05p             msnbc              They are finding vic
+2001-09-11 22:20:17 Arch [1050318] D  ALPHA    -3/3
+2001-09-11 22:20:17 Arch [1047604] B  ALPHA  diheragh|Team - I'm beginning to get calls from B&#38;I cutomers to open local depot's for h/w. Working with Frank &#38; Kevin Aspell. Priority process as follows - Fed's 1st, Hospitals 2nd, CAPS 3rd and P1 cases 4th. Tell customers  -1/3
+2001-09-11 22:20:17 Arch [1051951] D  ALPHA  |Could you open up rights on... |/etc/rc.d/flush currently appear to be 750 Sam K.|82  
+2001-09-11 22:20:17 Metrocall [1902753] A  ALPHA  Frm: Administrator Sub: 12-hour svc call assigned to Stratton, Daniel in Area 75
+2001-09-11 22:20:17 Metrocall [0864362] C  ALPHA  BMP1PAGE UPDATE TROPICAL WX CENTER / NHC: TROPICAL STORM FELIX ADVISORY NUMBER 13-AND A TURN TOWARD THE NORTH IS EXPECTED DURING THE NEXT 24 HOURS.THE 11 PM AST 
+2001-09-11 22:20:19 Arch [1047604] B  ALPHA  to open a P1 case requesting whatever h/w they need from the "local" NY/NJ depot for their back-up datacenters. After they open the case they will be serviced based on above priority list which you should tell them about. I asked TAC   -2/3
+2001-09-11 22:20:19 Arch [1648762] C  ALPHA  732 563-8618
+2001-09-11 22:20:19 Metrocall [0864362] C  ALPHA  POSITION 20.7 N 48.6 W. MOVEMENT TOWARD NORTH NORTHWEST NEAR 10 MPH. MAXIMUM SU
+2001-09-11 22:20:19 Metrocall [002588047] D  ALPHA  Frm: Muralidhar Devarakonda Sub: server status Txt: Machine 30kcerent1.nsf.att.com not up on Tue Sep 11 22:07:01 2001. status
+2001-09-11 22:20:19 Metrocall [002669318] B  ALPHA  HURRPAGE UPDATE TROPICAL WX CENTER / NHC: TROPICAL STORM FELIX ADVISORY NUMBER 13-AND A TURN TOWARD THE NORTH IS EXPECTED DURING THE NEXT 24 HOURS.THE 11 PM AST POSITION 20.7 N 48.6 W. MOVEMENT TOWARD NORTH NORTHWEST NEAR 10 MPH. MAXIMUM SUSTAINED 
+2001-09-11 22:20:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0792
+2001-09-11 22:20:21 Arch [1047604] B  ALPHA    -3/3
+2001-09-11 22:20:21 Metrocall [002588047] D  ALPHA   256.Machine 30kcerent2.nsf.att.com not up on Tue Sep 11 22:07:01 2001 status 256.Machine mtcerent3.nsf.att.com not up on Tue Sep 11 22:07:01 2001 status 2
+2001-09-11 22:20:21 Metrocall [002669318] B  ALPHA  WINDS 40 MPH. MINIMUM CENTRAL PRESSURE 1003 MB.
+2001-09-11 22:20:23 Arch [1305496] C  ALPHA  diheragh|Team - I'm beginning to get calls from B&#38;I cutomers to open local depot's for h/w. Working with Frank &#38; Kevin Aspell. Priority process as follows - Fed's 1st, Hospitals 2nd, CAPS 3rd and P1 cases 4th. Tell customers  -1/3
+2001-09-11 22:20:23 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-11 22:20:23 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=SBL  Mode=Incremental_Dump         # Our PID=29045    time='09/11/01 22:20:02'    sybase on
+2001-09-11 22:20:24 Arch [100158548] B  ALPHA  BRIAN PEDRO WILL BE TALKING TO CH. 7 @6AM.
+2001-09-11 22:20:24 Arch [1305496] C  ALPHA  to open a P1 case requesting whatever h/w they need from the "local" NY/NJ depot for their back-up datacenters. After they open the case they will be serviced based on above priority list which you should tell them about. I asked TAC   -2/3
+2001-09-11 22:20:24 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-11 22:20:25 Metrocall [1032047] 7:20:59 PM D  ALPHA  Please call Officer Bews at 916-657-8297 Ext 4009 Ref: Commissioner is trying to make contact with you. Please confirm receipt of message at 916-262-1621 [W/C] (1/1)
+2001-09-11 22:20:26 Arch [1305496] C  ALPHA    -3/3
+2001-09-11 22:20:26 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-11 22:20:27 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-11 22:20:28 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-11 22:20:28 Arch [0948401] A  ALPHA  An hourly status is required for priority one ticket 083326. The Assignee, HD Supervisor, and the HelpDesk have been notified.
+2001-09-11 22:20:28 Arch [0545241] C  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 0470039D from cluster 1095 to cluster 1000), status C3AE181B, extended s
+2001-09-11 22:20:29 Metrocall [1224070] B  ALPHA  Job # 538 QUEST DIAGNOSTICS LS: DAY    Rdy: 1851 Exdl: 1700 P/U:MERIDIAN MED GRP 1500 MONUMENT STE E10 CONCORD D/L:AW WALNUT CREEK ADD TO RTE AW RTEADD ROUTE AW Wt:    1    1 OTHER Caller: DON A Ref: P/U ALL SPECS
+2001-09-11 22:20:29 Metrocall [1589226] C  ALPHA  Job # 563 KAISER-NORTH EAS
+2001-09-11 22:20:31 Metrocall [1589226] C  ALPHA  T BAY CSA LS: PRTY   Rdy: 1921 Exdl: 2051 P/U:KAISER /RX 1 925 SERENO DR VALLEJO D/L:REBECCA NOVAK 130 DARMATHS AVE 707454327 BENICIA Wt:    0 Caller: DINA Ref: 8216424
+2001-09-11 22:20:31 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  30
+2001-09-11 22:20:31 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3048
+2001-09-11 22:20:31 Skytel [005006724] B ST NUM  900-838-2715 U 
+2001-09-11 22:20:31 Skytel [004130825] C  ALPHA  |P1 UPDATE #4244953 |sjc-i2prod and Demand Planning tool still unavailable. Support attempting to bring dev server into production to replace corrupted server. OUTAGE START: 11 Sep 12:32 PT NO ETU. Ops 408.527.0007 |215   (19
+2001-09-11 22:20:32 Arch [0936036] B  ALPHA  'lon-sls-rtr-s0' is unreachable. Circuit down?
+2001-09-11 22:20:32 Metrocall [1589226] C  ALPHA  Job # 586 KAISER-NORTH EAST BAY CSA LS: PRTY   Rdy: 1922 Exdl: 2052 P/U:KAISER /RX 1 925 SERENO DR VALLEJO D/L:PAUL LOMBARDO 919 WEST L ST #8 BENICIA Wt:    0 Caller: DINA Ref: 8216424
+2001-09-11 22:20:32 Metrocall [0476499] A  ALPHA  48
+2001-09-11 22:20:33 Skytel [004686110] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 22:20:33 Skytel [004405151] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 22:20:33 Skytel [005066137] C ST NUM  091-9193-1
+2001-09-11 22:20:35 Skytel [005345829] B  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 22:20:35 Skytel [007456682] C SH/TONE 14444   
+2001-09-11 22:20:35 Skytel [003935279] D ST NUM  614-438-3777-30903788    
+2001-09-11 22:20:35 Skytel [003481900] D SH/TONE 2409    
+2001-09-11 22:20:35 Skytel [003779106] A SH/TONE 233     
+2001-09-11 22:20:37 Skytel [004051902] D SH/TONE 371-5200
+2001-09-11 22:20:37 Skytel [007561147] C ST NUM  526-078-2247   
+2001-09-11 22:20:37 Skytel [007606073] C SH/TONE 1111    
+2001-09-11 22:20:37 Skytel [002794173] D ST NUM  900-866-5141   
+2001-09-11 22:20:38 Metrocall [002697792] A  ALPHA  Williamson, Courtenay: call dispatch asap
+2001-09-11 22:20:39 Skytel [004689866] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 22:20:39 Skytel [007438026] C SH/TONE 3333 (55
+2001-09-11 22:20:39 Skytel [004538828] D SH/TONE 6127    
+2001-09-11 22:20:39 Skytel [005123145] C ST NUM  818-009-4490-17
+2001-09-11 22:20:39 Skytel [002936906] C SH/TONE 86285   
+2001-09-11 22:20:39 Skytel [007605960] C ST NUM  270-442-7010   
+2001-09-11 22:20:39 Skytel [007593039] D ST NUM  313-273-8307   
+2001-09-11 22:20:39 Skytel [003931852] D SH/TONE 5562    
+2001-09-11 22:20:40 Metrocall [1589226] C  ALPHA  Job # 591 KAISER-NORTH EAST BAY CSA LS: PRTY   Rdy: 1923 Exdl: 2053 P/U:KAISER /RX 1 925 SERENO DR VALLEJO D/L:RON BROWN 1
+2001-09-11 22:20:40 Metrocall [1412666] C  ALPHA  Job # 544 KAISER-REGIONAL LS: STD    Rdy: 2100 Exdl: 0000 P/U:NCM/ 7801 OAKPORT ST DIVISION RESEARCH BOXES OAKLAND D/L:KAISER/CHARTROOM 900 KIELY BASEMENT CHARTROOM SANTA CLARA Wt:    0 Caller: RICK REARDON JCode: PRESCH 496
+2001-09-11 22:20:40 Metrocall [1412666] C  ALPHA  Job #
+2001-09-11 22:20:41 Skytel [005204059] C SH/TONE 44482   
+2001-09-11 22:20:41 Skytel [003951056] A  ALPHA  snvc17 Resource: SNVC17:/NT_CPU/CPU_0/CPUprcrProcessorTimePercent,current state is : CRITICAL ussa11.SSMC 
+2001-09-11 22:20:41 Skytel [002388316] D ST NUM  947-981-0496   
+2001-09-11 22:20:41 Skytel [003334868] B ST NUM  507-664-3917   
+2001-09-11 22:20:41 Skytel [004671579] C ST NUM  9) 8778896102  
+2001-09-11 22:20:41 Skytel [007591641] C SH/TONE 240-5740
+2001-09-11 22:20:41 Skytel [007047515] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 22:20:42 Metrocall [1589226] C  ALPHA  71 NANTUCKET LN 707  6450163 VALLEJO Wt:    0 Caller: DINA Ref: 8216424
+2001-09-11 22:20:42 Metrocall [1412666] C  ALPHA   544 Ref: 6416932 Comment: RETURN BOXES FROM DOR TO SANTA CLARA
+2001-09-11 22:20:43 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-11 22:20:43 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 189843. 
+2001-09-11 22:20:43 Skytel [005436525] D  ALPHA  Test Message #44-IX_T1716
+2001-09-11 22:20:43 Skytel [005204451] A ST NUM  918-383-2571   
+2001-09-11 22:20:43 Skytel [002357089] A SH/TONE 2700    
+2001-09-11 22:20:43 Skytel [007602538] C ST NUM  504-827-1511   
+2001-09-11 22:20:43 Skytel [003438440] C ST NUM  858-496-9086   
+2001-09-11 22:20:43 Skytel [005330530] A ST NUM  8685222010
+2001-09-11 22:20:43 Skytel [007084271] D SH/TONE 248     
+2001-09-11 22:20:45 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-11 22:20:45 Arch [0515405] D  ALPHA  (10)0300Z TROP STORM FELIX NOW @ 20.7 N. LAT 48.6 W. LON MAX WIND ARE NEAR 40 MPH. MOVIN TOWARD THE NORTH NORTHWEST NEAR 10 MPH. PRES. IS 1003 MB...29.62 IN. 
+2001-09-11 22:20:45 Arch [0910890] C  ALPHA  Pat, please call into conference call 877-864-2828  pin 14404...    
+2001-09-11 22:20:45 Arch [0963812] B  ALPHA  986-3831
+2001-09-11 22:20:45 Arch [0697588] B  ALPHA  (13)87:ABS: Tkt:4908244, Sev:1, TIQ:966min, Queue:PLSC, Cust Name: SPRINGFIELD, MA
+2001-09-11 22:20:45 Skytel [005092221] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 22:20:45 Skytel [002156407] B SH/TONE *  (34  
+2001-09-11 22:20:45 Skytel [005363190] B  ALPHA  5760625 DEL TRIDII MEDICAL CENTER OF CENT 4786331105 F KITCHEN CCU 1 CSD 103
+2001-09-11 22:20:45 Skytel [005525114] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 22:20:45 Skytel [007638399] D SH/TONE 7346    
+2001-09-11 22:20:45 Skytel [003328371] A  ALPHA  SEV1 UPDATE Tkt: 00717216 Status: Resolved Location: BOISE ID Desc: barcode server down in west virginia
+2001-09-11 22:20:46 Skytel [005254659] A ST NUM  811-9116-9
+2001-09-11 22:20:46 Skytel [007083913] C ST NUM  918-365-2459   
+2001-09-11 22:20:46 Skytel [005243532] D ST NUM  606-951-9691   
+2001-09-11 22:20:47 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-11 22:20:47 Arch [0697588] B  ALPHA  (14)88:ABS: Tkt:4932314, Sev:2, TIQ:477min, Queue:PLSC, Cust Name: BENHAVEN MED CTR
+2001-09-11 22:20:48 Skytel [004677264] A  ALPHA  SSeer OK: SiteScope/Web Servers/Host1 Seed Page/72470/Total 0.40 sec (DNS 0.00 sec, connect 0.07 sec, response 0.32 sec, downloa
+2001-09-11 22:20:49 Arch [0971167] D  ALPHA  800 362-6262
+2001-09-11 22:20:49 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-11 22:20:49 Arch [1048621] D  ALPHA  59-THIS IS BOB BLITZER. I CAN'T MAKE THE 6 AM APPOINTMENT. YOU CAN REACH ME ON MY CELL PHONE.
+2001-09-11 22:20:49 Arch [0987976] C  ALPHA  Return To Base - Post 'IN' Time in WB09110347
+2001-09-11 22:20:49 Metrocall [1544391] B  ALPHA  SEV:1 RESTORE:GA IDXRad Trans Reports Down -Attachmate Problem?*LOC:ROC Georgia*STATUS:Service has been restored *END:18:58 PT*DURATION:Hrs: 10 Min: 38*PM:1247017
+2001-09-11 22:20:49 Metrocall [1412666] C  ALPHA  Job # 542 KAISER-REGIONAL 
+2001-09-11 22:20:49 Metrocall [1224162] A  ALPHA  Job # 541 KAISER-REGIONAL LS: STD    Rdy: 2100 Exdl: 0000 P/U:NCM KAISER BOXES 7801 OAKPORT ST DR#5911/935 OAKLAND D/L:KAISER CHARTROOM 6600 BRUCEVILLE ROAD DIVISION RESEARCH BOXES S SACRAMENTO Wt:    0 Caller: RICK REARDON
+2001-09-11 22:20:49 Metrocall [1224162] A  ALPHA  Job #
+2001-09-11 22:20:50 Skytel [007026595] A SH/TONE 271-8471
+2001-09-11 22:20:50 Skytel [002231853] D  ALPHA  18007598255 URGENT
+2001-09-11 22:20:50 Skytel [005259174] B SH/TONE 1019    
+2001-09-11 22:20:50 Skytel [005001895] B  ALPHA  [sps/97] 104 supplier.intel.com relay-ssl 0.0 FAILURE Server closedconnection immediately. (/lift/healthcheck.asp) 2:04:59
+2001-09-11 22:20:51 Metrocall [1412666] C  ALPHA  LS: STD    Rdy: 2100 Exdl: 0000 P/U:KAISER CHARTROOM 260 INTERNATIONAL CIRCLE DR#1147/75 SAN JOSE SOUTH D/L:NCM/KAISER BOXES 7801 OAKPORT ST DIVISION RESEARCH BOXES OAKLAND Wt:    0 Caller: RICK REARDON
+2001-09-11 22:20:51 Metrocall [1224162] A  ALPHA   541 JCode: PRESCH 423 Ref: 6606932 Com
+2001-09-11 22:20:52 Skytel [002402363] C  ALPHA  SSeer OK: SiteScope/Web Servers/Host1 Seed Page/72470/Total 0.40 sec (DNS 0.00 sec, connect 0.07 sec, response 0.32 sec, downloa
+2001-09-11 22:20:53 Metrocall [1412666] C  ALPHA  Job # 542 JCode: PRESCH 424 Ref: 6636932 Comment: DRIVER 1147/PICK UP BOXES FOR D.O.R. DIVISON RESEASRCH BOXES
+2001-09-11 22:20:53 Metrocall [1224162] A  ALPHA  ment: DRIVER 5911/DELIVER BOXES MARKED D.O.R. DIVISION RESEARCH BOXES
+2001-09-11 22:20:54 Skytel [005004865] A  ALPHA  SSeer OK: SiteScope/Web Servers/Host1 Index.jsp/72458/Total 1.39 sec (DNS 0.00 sec, connect 0.15 sec, response 1.04 sec, downloa
+2001-09-11 22:20:54 Skytel [005226697] C SH/TONE 9686    
+2001-09-11 22:20:54 Skytel [002751311] D SH/TONE 143     
+2001-09-11 22:20:54 Skytel [003495502] D ST NUM  9776736594 911 
+2001-09-11 22:20:56 Skytel [005338196] B ST NUM  223-442-5900   
+2001-09-11 22:20:57 Metrocall [1336956] D  ALPHA  Maria Placer w/KATC-10 981-4844
+2001-09-11 22:20:57 Metrocall [0668498] A  ALPHA  800-209-8475 has 1 new message.
+2001-09-11 22:20:58 Arch [0928543] D  ALPHA  bapt 3055966563 pt olguin magda  rm 4124 / e.a.r  
+2001-09-11 22:20:58 Skytel [003928294] B  ALPHA  FTN COMMAND CENTER [09/11/01-22:15:30] FED EXT FOR BANKERS TRUST  FOR SETTLEMENT TO 22:30
+2001-09-11 22:20:59 Metrocall [1544818] A  ALPHA  Rommel Gella STR-AACC01 is now back up and available to users... Regards,Rommel Lotus Notes Administration. (925) 926-3860/tie-line:8-473-3860
+2001-09-11 22:20:59 Metrocall [1283042] A  ALPHA  SEV:1 RESTORE:GA IDXRad Trans Reports Down -Attachmate Problem?*LOC:ROC Georgia*STATUS

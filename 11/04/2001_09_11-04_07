@@ -1,0 +1,102 @@
+2001-09-11 04:07:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1954
+2001-09-11 04:07:00 Metrocall [1064388] B  ALPHA  LCO 2740/2730  -005 CL 2763/784/788+000 2752/2718/2680/2655 2623/2591/2560/2530 HO 7956/015/050-005 HU 8180/770/560-007 NG2390/2672/993+008 3150/3120/3050/2960 965/010/040/055/065
+2001-09-11 04:07:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1954
+2001-09-11 04:07:02 Metrocall [1064388] B  ALPHA   LGO 24050/4150-0175 PL v4390/f4320 +007 EC _3300/_3150+0150 PAm45600+000
+2001-09-11 04:07:03 Skytel [002847128] C  ALPHA  ORCL 11.23 +0.16 MSFT 57.34 +1.94 NSCP 0.00 UNCH FMAGX 97.76 -2.01 (5
+2001-09-11 04:07:03 Skytel [003944209] A ST NUM  306-674-4605   
+2001-09-11 04:07:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6776
+2001-09-11 04:07:05 Arch [1036238] D  ALPHA  |ILS: Case Close #B826039 for DOW CHEMICAL USA, contract 1348270, P3 |This is an ILS summary notification for case B826039 Event: Case Close #B826039, Priority 3 Event Time: 11 September 2
+2001-09-11 04:07:05 Arch [0917148] D  ALPHA  applew07@erptst0|EW07 OAPM Alert ORA-02068: follo|EW07 OAPM Alert ORA-02068: following severe error from TICKMARK_HOME_LI on SEP11-04:06AM Full Error Text: ORA-02068: following severe error from TICKM
+2001-09-11 04:07:05 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 119 processes on report1.ccbill.com. Timestamp key: 20010911010500 
+2001-09-11 04:07:05 Arch [0975773] D  ALPHA  "DVD Talk" <news|DVD Talk Newsletter - Star Wars |
+2001-09-11 04:07:05 Arch [0578226] A  ALPHA  " Big Info " <da|Downed Equipment STS|
+2001-09-11 04:07:05 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342
+2001-09-11 04:07:05 Skytel {1256008} 1 1200 EOG 32.70 +0.03 EPP 0.00 UNCH ENE 32.51 +0.94
+2001-09-11 04:07:06 Arch [1036238] D  ALPHA  001 01:06:34 Title: *ANS*CLARIFICATION OF  -1/3
+2001-09-11 04:07:06 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 120 processes on report1.ccbill.com. Timestamp key: 20010911010500 
+2001-09-11 04:07:06 Arch [1425048] C  ALPHA  , <SOCK_192.168.35.19> chunk 177537. 
+2001-09-11 04:07:06 Skytel {0619497} 1 2400 31740
+2001-09-11 04:07:08 Arch [1036238] D  ALPHA  VWIC-2MFT-E1-DI CARD - LINE TERMINATION Site: DOW CHEMICAL USA * Contact: RONALD STOKKEL * Phone/Email: +31 (0)6-22478771 / rstokkel@thrupoint.net * Contract: 1348270 Case Owner: EPAYNE @ X ILS Subscription Information: * Subscriber:  -2/3
+2001-09-11 04:07:08 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 42.50 22.21 10.39 Tue Sep 11 01:07:27 MST 2001 
+2001-09-11 04:07:08 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope https://www.americanskandia.com/site.htm Production Web Sites (emt-4b) 45386 timed out reading 
+2001-09-11 04:07:09 Metrocall [1284073] C  ALPHA  09/11/2001  1:01:14AM No Response Alarm is OFF; CB17-UPS#2 6469 Hidden Valley Rd.
+2001-09-11 04:07:09 Metrocall [1314835] A  ALPHA  s2,00501396,SEV 2 TCKT OPENED,ISS1,ISS1 SERVICE_MONITOR Oracle processes for MAU
+2001-09-11 04:07:09 Metrocall [1261296] A  ALPHA  s1,00501397,fyi,ISS1,ISS1 FILESYSTEM /arch1 18.86 File system reachi
+2001-09-11 04:07:10 Arch [1400763] C  ALPHA  (11)From:NJROS1NAP05/SERVER/Prudential@PRUDENTIAL Subject:Lotus NotesPump Report:  Activity 'USCG NBS Pop-Up MNBS 01 DB2 to Status', completion status 'Activity terminated abnormally' Body:Double-click here to see the Activity document -->   Ac
+2001-09-11 04:07:10 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 54.41 22.87 10.34 Tue Sep 11 01:07:13 MST 2001 
+2001-09-11 04:07:10 Arch [0036428] D  ALPHA  (7)From:NJROS1NAP05/SERVER/Prudential@PRUDENTIAL Subject:Lotus NotesPump Report:  Activity 'USCG NBS Pop-Up MNBS 01 DB2 to Status', completion status 'Activity terminated abnormally' Body:Double-click here to see the Activity document --> 
+2001-09-11 04:07:10 Arch [1036238] D  ALPHA  roylong@cisco.com (Contact this person to unsubscribe.) * ILS Event: Create/Close/Reopen * Conditions: Account ID: 12940 * Recipients: roylong@epage.cisco.com * Send e-mails Al|640   -3/3
+2001-09-11 04:07:11 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-11 04:07:11 Metrocall [1421210] C  ALPHA  LAKEJob 383688/SCLAUSSON/I$LLOF has MSGW status.
+2001-09-11 04:07:11 Metrocall [1261296] A  ALPHA  ng capacity
+2001-09-11 04:07:12 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 112 processes on report2.ccbill.com. Timestamp key: 20010911010500 
+2001-09-11 04:07:12 Arch [0036428] D  ALPHA    Ac
+2001-09-11 04:07:14 Arch [0844432] A  ALPHA  root <root@local|Host LEX-e0/0 is DOWN!|***** NetSaint 0.0.4 *****\n\nHost "e0/0 64.80.94.1" is DOWN!\n\nDate/Time: Tue Sep 11 03:57:33 2001 \n 
+2001-09-11 04:07:14 Arch [0555028] B  ALPHA  root <root@local|Host LEX-e0/0 is DOWN!|***** NetSaint 0.0.4 *****\n\nHost "e0/0 64.80.94.1" is DOWN!\n\nDate/Time: Tue Sep 11 03:57:35 2001 \n 
+2001-09-11 04:07:14 Arch [0732953] C  ALPHA  ROBOT Job RMSDLYTRSF ended abnormally. 01/09/11 03:06:11
+2001-09-11 04:07:20 Metrocall [002589700] B  ALPHA  3 Node Down. 2001/09/11 03:04:37
+2001-09-11 04:07:20 Metrocall [1466337] A  ALPHA  09/11@02:59:54 DALDC01:The product Microsoft Exchange 2000 Server is out of licenses. Use License Manager from the Administrative Tools folder for more information on which users are out o
+2001-09-11 04:07:20 Metrocall [1111466] C  ALPHA  09/11@02:59:54 DALDC01:The product Microsoft Exchange 2000 Server is out of licenses. Use License Manager from the Administrative Tools folder for more information on which users are out of compliance and how many licenses should be 
+2001-09-11 04:07:21 Arch [0492587] C  ALPHA  STALL DNS54EEZ.DBF R       3000
+2001-09-11 04:07:22 Metrocall [1466337] A  ALPHA  f compliance and how many licenses should be purchased.
+2001-09-11 04:07:22 Metrocall [1111466] C  ALPHA  purchased.
+2001-09-11 04:07:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9699
+2001-09-11 04:07:27 Metrocall {1235917} 1 2400 Frm: WhatsUp2 Sub: Router 183 office DOWN at 01:06:03 Txt: Router 183 office DOWN at 01:06:03 Address: 10.126.9.1 Info 1: isdn router Info 2: Date: 09/11/2001 Status: Timed Out ( 11010) Svcs: Notes: IOS (tm) 1000 Software (C1000-Y-M), Versi..
+2001-09-11 04:07:31 Arch [1036238] D  ALPHA  |ILS: Case Close #B826039 for DOW CHEMICAL USA, contract 1348270, P3 |This is an ILS summary notification for case B826039 Event: Case Close #B826039, Priority 3 Event Time: 11 September 2001 01:06:34 Title: *ANS*CLARIFICATION OF  -1/3
+2001-09-11 04:07:31 Metrocall [002356637] D  ALPHA  Frm: NMS1@savantltd.com Sub: Rtr3640Family VITWAN DOWN at 04:10:03 Txt: Rtr3640F
+2001-09-11 04:07:31 Metrocall [002356637] D  ALPHA  Frm: NMS1@savantltd.com Sub: Cat2912mxlFamily NIT-2912-1 DOWN at 04:10:11 Txt: C
+2001-09-11 04:07:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3347
+2001-09-11 04:07:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 01:07:28 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 04:07:31 Skytel [007562761] C SH/TONE 888-2970
+2001-09-11 04:07:31 Skytel [007534856] C ST NUM  043-6378-9
+2001-09-11 04:07:33 Arch [0980928] A  ALPHA  bdsabin 277-4513 J1PILCH CALLBACK| Store 1895 FAIRLAWN, OH no response from USE pager.  Emulux to Computone. Computone installed, Needs ports set up. Terms 0,3,4,5. Printers 1,2. tsa is pingable. ...
+2001-09-11 04:07:33 Arch [1036238] D  ALPHA  VWIC-2MFT-E1-DI CARD - LINE TERMINATION Site: DOW CHEMICAL USA * Contact: RONALD STOKKEL * Phone/Email: +31 (0)6-22478771 / rstokkel@thrupoint.net * Contract: 1348270 Case Owner: EPAYNE @ X ILS Subscription Information: * Subscriber:  -2/3
+2001-09-11 04:07:33 Arch [1060630] B  ALPHA  ROBOT Job RMSDLYTRSF ended abnormally. 01/09/11 03:06:11
+2001-09-11 04:07:33 Skytel [003452432] A SH/TONE 3135    
+2001-09-11 04:07:33 Skytel [002847507] A  ALPHA  alert@msn.com||Hotmail jeerttyyy33@excite.com:COME SEE MY NEW HARDCORE PIX!   (52
+2001-09-11 04:07:33 Skytel [004397329] A ST NUM  899-637-5138-66
+2001-09-11 04:07:33 Skytel [005206684] D  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS]
+2001-09-11 04:07:34 Arch [0980928] A  ALPHA  request assistance. |Sent at 03:07
+2001-09-11 04:07:34 Arch [1036238] D  ALPHA  roylong@cisco.com (Contact this person to unsubscribe.) * ILS Event: Create/Close/Reopen * Conditions: Contract ID: 1348270 * Recipients: roylong@epage.cisco.com * Send e-mails|640   -3/3
+2001-09-11 04:07:36 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177544. 
+2001-09-11 04:07:36 Skytel [004754611] A SH/TONE 5225    
+2001-09-11 04:07:36 Skytel [0001465] C  ALPHA  11433hd871400000000012g (5
+2001-09-11 04:07:36 Skytel [005359793] A  ALPHA  root@isffin01.internal.merial.com|/home full|/dev/vg00/lvol4 /home filesystem 100 full    ---------------------------------------------------------------------------- This email and any files transmitted with it are confidential and intende
+2001-09-11 04:07:38 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 23.81 19.78 9.98 Tue Sep 11 01:08:00 MST 2001 
+2001-09-11 04:07:38 Skytel [004573389] D  ALPHA  PROBLEM: 16601785 WAS OPENED ACCT#: SOUP AT PRIO: 1 ON 09/11/01 AT 03:44 DESC/1: -CANNOT PING CSCNORW2 WITH ADDR: 170.230.205.2   ICMP CALLBACK#: 8007272222 
+2001-09-11 04:07:38 Skytel [005054539] C  ALPHA  root@isffin01.internal.merial.com|/home full|/dev/vg00/lvol4 /home filesystem 100 full    ---------------------------------------------------------------------------- This email and any files transmitted with it are confidential and intende
+2001-09-11 04:07:38 Skytel [005127497] C ST NUM  99) 323-697-5698    
+2001-09-11 04:07:38 Skytel [002279627] C ST NUM  1-800-551-8088-1254 
+2001-09-11 04:07:38 Skytel [005525323] C  ALPHA  B
+2001-09-11 04:07:38 Skytel [007457733] B  ALPHA  heartbeat@corporate-watch.com|>>-> Service recovery on EnginesSSL service|The communications exception reported at Mon Sep 10 23:23:00 2001 appears to be corrected as of Tue Sep 11 01:08:00 2001.  The system will continue to be mo
+2001-09-11 04:07:40 Skytel [007457496] C  ALPHA  heartbeat@corporate-watch.com|>>-> Service recovery on EnginesSSL service|The communications exception reported at Mon Sep 10 23:23:00 2001 appears to be corrected as of Tue Sep 11 01:08:00 2001.  The system will continue to be monitored an
+2001-09-11 04:07:40 Skytel [007457733] B  ALPHA  nitored an
+2001-09-11 04:07:41 Metrocall [002356637] D  ALPHA  Frm: NMS1@savantltd.com Sub: Cat2912mxlFamily NIT-2912-2 DOWN at 04:10:11 Txt: C
+2001-09-11 04:07:41 Metrocall [002356637] D  ALPHA  Frm: NMS1@savantltd.com Sub: C2620Family NIT-2620-1 DOWN at 04:10:16 Txt: C2620F
+2001-09-11 04:07:42 Arch [1274508] D  ALPHA  System Attendant|XCGOK005 Alert since 9/11/01 1:0|XCGOK005 Alert since 9/11/01 1:02 AM The Microsoft Exchange System Attendant service could not be started. The RPC server is unavailable. Microsoft Windows NT ID no: 0xc00206ba 
+2001-09-11 04:07:42 Skytel [004444776] C  ALPHA  Dissident Who Won Wants Proxy Fights to Be Easier to Wage[DJ NEWS]
+2001-09-11 04:07:42 Skytel [004682599] B  ALPHA  tlbarnett@fedex.com|Mike, pick up the flight doc box for the 1462. asap  
+2001-09-11 04:07:43 Metrocall [002356637] D  ALPHA  Frm: NMS1@savantltd.com Sub: Rtr3640Family POC-3640-2 DOWN at 04:10:21 Txt: Rtr3
+2001-09-11 04:07:44 Skytel [002357369] C  ALPHA  002201 CYCLIC TEST 
+2001-09-11 04:07:44 Skytel [007048946] A  ALPHA  wtclar@us.ibm.com||Paging oncall ADS person. Please call NCC @ 770-663-9660 , regarding Bank of America is back up.  
+2001-09-11 04:07:44 Skytel [007109749] B ST NUM  667-717-7386-615    
+2001-09-11 04:07:44 Skytel [005450875] C  ALPHA  www.xacct.com: HTTP  Connect failed [01:11:39]
+2001-09-11 04:07:44 Skytel [007491583] D SH/TONE 72133   
+2001-09-11 04:07:44 Skytel [002139900] D SH/TONE 002201  
+2001-09-11 04:07:44 Skytel [003327216] A  ALPHA  002201 CYCLIC TEST 
+2001-09-11 04:07:48 Skytel [002694547] A  ALPHA  2) wtclar@us.ibm.com||Paging oncall ADS person. Please call NCC @ 770-663-9660 , regarding Bank of America is back up.  
+2001-09-11 04:07:48 Skytel [002401821] D  ALPHA  ssmcscsm13 N/A DFW-BDC-01:Agent:Ping::Broken DFW-BDC-01 is DOWN!  
+2001-09-11 04:07:50 Metrocall [1314835] A  ALPHA  s2,00501405,SEV 2 TCKT OPENED,ISS2,ISS2 OV_NODE_DOWN Node Down.
+2001-09-11 04:07:51 Skytel [007557438] D SH/TONE 342-8855
+2001-09-11 04:07:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1220..
+2001-09-11 04:07:53 Skytel [007558729] C  ALPHA  wtclar@us.ibm.com||Paging oncall ADS person. Please call NCC @ 770-663-9660 , regarding Bank of America is back up.  
+2001-09-11 04:07:53 Skytel [008477645] D  ALPHA  Rep. AUT.03:03 CMtel:1105,3,43 (6 (7
+2001-09-11 04:07:55 Skytel [003268440] C  ALPHA  bcs_alert@am.sony.com|BCS Alert|PROCESSOR.EXE stopped running 57 minutes ago!  
+2001-09-11 04:07:55 Skytel [002376667] C  ALPHA  Martin.Monson@sun.com|T+10 minutes 01:55mst : Outage Notification|Console down. Backup email available. Sacto is running on backup email.  Ticket    
+2001-09-11 04:07:55 Skytel [002377819] C  ALPHA  Martin.Monson@sun.com|T+10 minutes 01:55mst : Outage Notification|Console down. Backup email available. Sacto is running on backup email.  Ticket    
+2001-09-11 04:07:55 Skytel [004547038] D SH/TONE 800-7473
+2001-09-11 04:07:57 Skytel [005436525] D  ALPHA  Test Message #53-IX_T1802
+2001-09-11 04:07:57 Skytel [004524770] A  ALPHA  spr-WhalleyComputer-SouthwickMA-: CPE Up at 00:58:35 on 9/11
+2001-09-11 04:07:57 Skytel [005112809] C  ALPHA  03:05CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240416: Uncorrectable write error
+2001-09-11 04:07:57 Skytel [005226605] D ST NUM  8683241679
+2001-09-11 04:07:59 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com|  Check_Subject|QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  

@@ -1,0 +1,90 @@
+2001-09-12 00:52:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE ..............@%@.......
+2001-09-12 00:52:00 Skytel [005101308] D SH/TONE 2750    
+2001-09-12 00:52:00 Skytel [005317627] C ST NUM  0-805-499-6163 
+2001-09-12 00:52:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8021
+2001-09-12 00:52:02 Skytel [005375115] C SH/TONE 804-5484
+2001-09-12 00:52:03 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-12 00:52:03 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191544. 
+2001-09-12 00:52:03 Arch [1090444] D  ALPHA  12-PLEASE CALL CRAIG, 302-218-7786.
+2001-09-12 00:52:03 Skytel [005042970] C  ALPHA  susan@soapgoddess.com||If you get a chance give me a call, I'm still up. Susan
+2001-09-12 00:52:03 Skytel [004749974] B ST NUM  809-773-0012-411    
+2001-09-12 00:52:03 Skytel [007461400] C SH/TONE 292-3738
+2001-09-12 00:52:03 Skytel [003905817] C ST NUM  210-640-1365   
+2001-09-12 00:52:05 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-12 00:52:05 Skytel [003938601] C ST NUM  958-812-3993   
+2001-09-12 00:52:07 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-12 00:52:07 Arch [0928685] D  ALPHA  10-PLEASE CALL LOU, 949-661-6007.
+2001-09-12 00:52:07 Arch [1657188] B  ALPHA  NCAGBRGQ01:Device Inaccessible
+2001-09-12 00:52:07 Skytel [007559603] A ST NUM  08007243624    
+2001-09-12 00:52:08 Metrocall [1707375] D  ALPHA  Frm: 'aolnews@aol.com Sub: israeli tanks briefly raid west bank city Txt: Israeli tanks briefly raid West Bank ci
+2001-09-12 00:52:08 Metrocall [1064378] C  ALPHA  DOLLAR IN LIMBO, TRADE PARALYSED AFTER ATTACKS
+2001-09-12 00:52:08 Metrocall [1064395] C  ALPHA  )?#`B@uHHuw@B~IOfSHMIAIgHIdf[BgkDEReAbQTEBCR`sKMNKDPPXuRKRPPZeRCCett@@RA@zL\@L
+2001-09-12 00:52:09 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-12 00:52:09 Skytel [007583043] A ST NUM  73709994017379143823
+2001-09-12 00:52:09 Skytel [002395466] C ST NUM  900-780-4037   
+2001-09-12 00:52:10 Skytel {1891159} 3 1200 4444 
+2001-09-12 00:52:11 Skytel {0619497} 1 2400 31740
+2001-09-12 00:52:12 Arch [1398696] C  ALPHA  "Compaq" <exjug@|MOSXS1 : Device Inaccessible|MOSXS1:Device Inaccessible 
+2001-09-12 00:52:12 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0944
+2001-09-12 00:52:19 Metrocall [002116748] D  ALPHA  fe_aware/ mwhite2/ 56/ 1387/ 253200227/ Yale New Haven Hospi/ 203.688.5273/ Angela Rochester RX/ 2001-09-11 21:51:48
+2001-09-12 00:52:20 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-12 00:52:20 Arch [0000101] B  ALPHA  MSN 041 hello Message from NOC PCB.
+2001-09-12 00:52:22 Arch [0987275] C  ALPHA  s0191: 09/11 15:41:26 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:41:26
+2001-09-12 00:52:22 Arch [1356799] D  ALPHA  ALL LIGHTS ARE BACK ON AT MCCREE SUB AT 23:30
+2001-09-12 00:52:22 Arch [0916308] B  ALPHA  ALL LIGHTS ARE BACK ON AT MCCREE SUB AT 23:30
+2001-09-12 00:52:23 Skytel {1256008} 1 1200 U.S. Pwr Markets Close After Attack; Utilities On Alert[DJ NEWS].
+2001-09-12 00:52:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3200
+2001-09-12 00:52:30 Metrocall [0153426] A  ALPHA  0111   W&I    XT 1510
+2001-09-12 00:52:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3200
+2001-09-12 00:52:32 Skytel [002361863] B  ALPHA  PAGEING,1,Application DPIP Informational 4 0 4096 21:50  09/11/01
+2001-09-12 00:52:32 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 21:52:18 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 00:52:32 Skytel [005195913] C SH/TONE 305-9646
+2001-09-12 00:52:32 Skytel [005006350] D  ALPHA  fmsap706:Process disp+work occurs 24 times.  (Range is 26 to 27.):FATAL
+2001-09-12 00:52:32 Skytel [005257095] B  ALPHA  JEREMY, YOU BETTER CALL ME RIGHT NOW
+2001-09-12 00:52:32 Skytel [005202571] C  ALPHA  QuoteByEmail@broadcast.shareholder.com|Agilent Technologies, Inc.|       Company Name:   Agilent Technologies, Inc. Ticker Symbol:  A Exchange:       NYE Last Trade:     Sep 11 4:01 PM Previous Clo
+2001-09-12 00:52:33 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 6.76 2.34 0.94 Tue Sep 11 21:53:00 MST 2001 
+2001-09-12 00:52:33 Skytel [005209110] B SH/TONE 3696    
+2001-09-12 00:52:33 Skytel [005202571] C  ALPHA  se: 23.05 Opening Price:  NA Closing Price:
+2001-09-12 00:52:33 Skytel [007083791] D ST NUM  925-625-8745   
+2001-09-12 00:52:35 Skytel [002376872] C  ALPHA  hevaem@conxion.net|oracleheva1.conxion.net, HTTP, 206.204.210.196:80, Server Recovered, | 
+2001-09-12 00:52:35 Skytel [005001895] B  ALPHA  [sps/182] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/asrf2/healthcheck.asp) 4:34:58
+2001-09-12 00:52:35 Skytel [007063339] C SH/TONE 3       
+2001-09-12 00:52:35 Skytel [005351981] D ST NUM  849-823-7577   
+2001-09-12 00:52:35 Skytel [007560236] D ST NUM  660-253-5273   
+2001-09-12 00:52:37 Arch [1408106] C  ALPHA  20010911:23:52:29:GOODNEWS:tr01011b is back online
+2001-09-12 00:52:37 Arch [1370529] A  ALPHA  20010911:23:52:29:GOODNEWS:tr01011b is back online
+2001-09-12 00:52:37 Skytel [004743735] B SH/TONE 110710  
+2001-09-12 00:52:37 Skytel [007585589] B ST NUM  895-152-6911   
+2001-09-12 00:52:37 Skytel [007569723] C ST NUM  071-731-7173   
+2001-09-12 00:52:39 Arch [0935720] C  ALPHA  Chris MAT GREGG 7759 w/area code 503-666-1328 PORTLAND OR PC ON THE FRITZ, SAYING
+2001-09-12 00:52:39 Skytel [004755649] A SH/TONE 420-5920
+2001-09-12 00:52:39 Skytel [007551567] D  ALPHA  CRITICAL 00:48:26 09/12/01 ErrCk-ppaki080.gnt Phase1 Accounting Interface - /vol/ppse/control/.ppak0133_exit_status_1591 indicates a failure has occurred! (ppseprod)
+2001-09-12 00:52:40 Metrocall [1487075] A  ALPHA  HARK       LINE UP :UP-LINK
+2001-09-12 00:52:40 Metrocall [1707375] D  ALPHA  Frm: 'aolnews@aol.com Sub: u.s. congress set to return, condemn terrorism Txt: U.S. Congress set to return, conde
+2001-09-12 00:52:41 Skytel [007035485] D  ALPHA  547-1609
+2001-09-12 00:52:41 Skytel [005338196] B SH/TONE 442-8500
+2001-09-12 00:52:41 Skytel [007521117] D SH/TONE 143     
+2001-09-12 00:52:42 Arch [0987275] C  ALPHA  s0191: 09/11 15:47:33 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:47:34
+2001-09-12 00:52:42 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191551. 
+2001-09-12 00:52:43 Skytel [005383276] D  ALPHA  3905
+2001-09-12 00:52:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #43-IX_T1708
+2001-09-12 00:52:43 Skytel [002401642] C ST NUM  9004830381
+2001-09-12 00:52:43 Skytel [002826593] A ST NUM  334-450-3911   
+2001-09-12 00:52:44 Arch [0987275] C  ALPHA  s0191: 09/11 15:50:15 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:50:16
+2001-09-12 00:52:44 Arch [0965694] D  ALPHA  vipjain|Hi Paru, I believe you should use the latest version of UMCC. We have made changes re: OR gate in etch2 which changes UMCC. Pl call me on my cell (408)221 3616 if need to talk to me. I will be coming late to office due 
+2001-09-12 00:52:45 Skytel [004449778] A ST NUM  659-911-9119-11
+2001-09-12 00:52:45 Skytel [003327216] A  ALPHA  002616 CYCLIC TEST 
+2001-09-12 00:52:45 Skytel [002264307] A SH/TONE 6801    
+2001-09-12 00:52:45 Skytel [004070514] A  ALPHA  562-596-8948
+2001-09-12 00:52:45 Skytel [003072125] D  ALPHA  COMP 1695.38 UNCH PAGE 0.00 UNCH
+2001-09-12 00:52:45 Skytel [002357369] C  ALPHA  002616 CYCLIC TEST 
+2001-09-12 00:52:45 Skytel [002139900] D SH/TONE 002616  
+2001-09-12 00:52:46 Arch [0987275] C  ALPHA  sb3: INFO0002 - Trade Count Mismatch Ora=825 Rec=0 (160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:52
+2001-09-12 00:52:46 Arch [0965694] D  ALPHA  to some  -1/2
+2001-09-12 00:52:49 Metrocall [1496874] C  ALPHA  From AFD Dispatch 1st Alarm Inc#45581 Structure Fire in Box:1601 at 1902 JUSTIN LA,AUS, Dispatch Time:23:51
+2001-09-12 00:52:50 Skytel [005508128] A SH/TONE 323     
+2001-09-12 00:52:50 Skytel [004584963] A ST NUM  0-415-505-2706 (3525
+2001-09-12 00:52:52 Skytel [0001461] B  ALPHA  GLOBEX   23:51     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 00:52:54 Skytel [?????????] B ST NUM  710-395-0580 (96    
+2001-09-12 00:52:56 Skytel [007518930] A SH/TONE 3019986 
+2001-09-12 00:52:56 Skytel [1800019] A  ALPHA  GLOBEX   23:51     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   

@@ -1,0 +1,62 @@
+2001-09-11 05:46:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2053
+2001-09-11 05:46:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2053
+2001-09-11 05:46:01 Skytel [005225860] B SH/TONE 125     
+2001-09-11 05:46:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6875
+2001-09-11 05:46:06 Skytel [004754611] A SH/TONE 5225    
+2001-09-11 05:46:06 Skytel [0001461] B  ALPHA  GLOBEX   04:45     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109850   275+   SPU  109870A  300+   NDU  138000   950+   6JZ    8283    60-   6EZ    8942    38-   6SZ    5921    19-   6BZ   14512B   16-   6CZ    6392A    2+   
+2001-09-11 05:46:06 Skytel [003054910] D  ALPHA  FDA Is Expected to Approve Lilly's Expensive Blood-Infection Treatment[DJ NEWS]
+2001-09-11 05:46:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178612. 
+2001-09-11 05:46:08 Skytel [003916610] A  ALPHA  FDA Is Expected to Approve Lilly's Expensive Blood-Infection Treatment[DJ NEWS]
+2001-09-11 05:46:08 Skytel [007560267] C SH/TONE 818-1269
+2001-09-11 05:46:08 Skytel [002558796] D SH/TONE 804772  
+2001-09-11 05:46:10 Arch [0320272] A  ALPHA  PATROLpatrol - hrnais01.NSQUEUE_PNS-NSQUEUE_PNS-USNS ALARM/ALARM 30<=129.000000<=400.Critical
+2001-09-11 05:46:10 Skytel [1800019] A  ALPHA  GLOBEX   04:45     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109850   275+   SPU  109870A  300+   NDU  138000   950+   6JZ    8283    60-   6EZ    8942    38-   6SZ    5921    19-   6BZ   14512B   16-   6CZ    6392A    2+   
+2001-09-11 05:46:12 Skytel [005346919] B  ALPHA  6) FDA Is Expected to Approve Lilly's Expensive Blood-Infection Treatment[DJ NEWS]
+2001-09-11 05:46:16 Skytel [003071883] C  ALPHA  IBM 95.75 -0.84 NSCP 0.00 UNCH MSFT 56.82 +1.42 EDS 55.47 +0.76 (63
+2001-09-11 05:46:19 Arch [0970454] B  ALPHA  (21)DO:-*Get-Cust-Info(4:41:12
+2001-09-11 05:46:21 Arch [0970454] B  ALPHA  (22)SI:-*Submit-Extract-JCL(4:44:11
+2001-09-11 05:46:23 Arch [0970806] B  ALPHA  RESPONSE <RESPON|AutoFAX Agent: Monitor Status|Too many messages in queue: 729 messages Risk of Failure: Low (0%) Threshold: 650 messages Last Faxback: Sep 11 2001 5:43AM Queue Depth: 729 Daily Status
+2001-09-11 05:46:23 Arch [0861609] C  ALPHA  RESPONSE <RESPON|AutoFAX Agent: Monitor Status|Too many messages in queue: 729 messages Risk of Failure: Low (0%) Threshold: 650 messages Last Faxback: Sep 11 2001 5:43AM Queue Depth: 729 Daily Status
+2001-09-11 05:46:23 Arch [1619813] B  ALPHA  2760
+2001-09-11 05:46:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9798
+2001-09-11 05:46:27 Skytel [004524770] A  ALPHA  spr-RMSullivan-SpringfieldMA-01: CPE Up at 01:00:13 on 9/11
+2001-09-11 05:46:27 Skytel [005436525] D  ALPHA  nMCI Test #26
+2001-09-11 05:46:27 Skytel [005057390] D  ALPHA  aug001dataaege:3.7.003 Service NAV Alert (NAV Alert) Is Not Running. Current state is Stopped.
+2001-09-11 05:46:30 Arch [0925366] B  ALPHA   318643;Sep 11 01:47:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 05:46:31 Metrocall [1064384] A  ALPHA  Y/C  71.97/07   +25 SGD 1.7539/546 +036 HKD 7.7994/002 -004 TWD 34650/4750 +050  IDR  9085/9095 +025 PHP 51.200/400 +100 PLN 4.2163/199 +085 THB 44.760/800 +150 KRW12900/13000 +100 ZAR 8.5165/240 +054 MXN  9.385/900 -090 BRR 25950/5960 +700
+2001-09-11 05:46:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3446
+2001-09-11 05:46:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 02:44:55 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:46:33 Metrocall [1028612] B  ALPHA  Frm: MSN Txt: (4/8) Jones*Israel and the Palestinians agreed to hold high-level talks
+2001-09-11 05:46:33 Skytel [0002067] A  ALPHA  80h00: If you have not brought me recap info, please do so now. lmn
+2001-09-11 05:46:33 Skytel [004534043] C SH/TONE 1       
+2001-09-11 05:46:36 Arch [0000101] B  ALPHA  MSN 001 hello Message from NOC PCB.
+2001-09-11 05:46:40 Arch [0915934] D  ALPHA  |Case in SPSG-WW |P3 *ANS*Program Configuration (NMS (Network Management Services)- Service Provider: from 05:46|112  
+2001-09-11 05:46:40 Skytel [005311829] B ST NUM  416-358-6405   
+2001-09-11 05:46:41 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE Tray Metrics Down   Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[002]  dev_err[239]
+2001-09-11 05:46:41 Metrocall [1028612] B  ALPHA  Frm: MSN Txt: (1/8) Top Stories: Stocks closed mixed Monday, having meandered in and out
+2001-09-11 05:46:44 Skytel [002357369] C  ALPHA  002234 CYCLIC TEST 
+2001-09-11 05:46:44 Skytel [003327216] A  ALPHA  002234 CYCLIC TEST 
+2001-09-11 05:46:44 Skytel [002139900] D SH/TONE 002234  
+2001-09-11 05:46:46 Skytel [0000500] B  ALPHA  cbranch@us.ibm.com|SEV: 1 |Escalation Page: 4 Hour Sev: 1 Problem! Pathmark 2374527 Summary: Store 568 has been down for 5 hrs.  Informed DPE and EM that store has lost power. Sent Exec. Alert.  More updates to follow.  
+2001-09-11 05:46:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178619. 
+2001-09-11 05:46:47 Arch [0183689] C  ALPHA  atn0 severe atn0 PT031 4 resync/test after ipt stopped/started: RESYNC:FAIL TESTIPT:FAIL Possible Comm problem!! at Tue Sep 11 09:46:52 GMT 2001
+2001-09-11 05:46:47 Arch [0015149] D  ALPHA  atn0 severe atn0 PT031 4 resync/test after ipt stopped/started: RESYNC:FAIL TESTIPT:FAIL Possible Comm problem!! AT Tue Sep 11 09:46:52 GMT 2001
+2001-09-11 05:46:48 Skytel [007554713] C  ALPHA  cbranch@us.ibm.com|SEV: 1 |Escalation Page: 4 Hour Sev: 1 Problem! Pathmark 2374527 Summary: Store 568 has been down for 5 hrs.  Informed DPE and EM that store has lost power. Sent Exec. Alert.  More updates to follow.  
+2001-09-11 05:46:48 Skytel [007641751] B SH/TONE 5827    
+2001-09-11 05:46:49 Arch [0968864] A  ALPHA  (19)The file: SWSTTD1H is out of date.
+2001-09-11 05:46:49 Arch [0930976] A  ALPHA  Please call 778-1932. Worm virushas affected psitrdfile05s.   
+2001-09-11 05:46:50 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs01 Sev:4 # 36406 UnacceptableQualityOfICAPData WBS 3.1.14.1 09/11/01 02:46:22 PDT7 Instance: WBSSched_|_TNT_|_Created:09/11/01_02:30:09 Module: GatewayConnection Details: PID=24127 TID=138 Percen
+2001-09-11 05:46:50 Skytel [005414063] D SH/TONE 7347 (76
+2001-09-11 05:46:51 Skytel [002745778] A SH/TONE 8020    
+2001-09-11 05:46:52 Metrocall [1028612] B  ALPHA  Frm: MSN Txt: (8/8) completed community service and ot** Merrill Lynch - Be Bullish
+2001-09-11 05:46:52 Metrocall [0477913] C  ALPHA  t of Good
+2001-09-11 05:46:53 Skytel [004406989] D  ALPHA  80h00: If you have not brought me recap info, please do so now. lmn
+2001-09-11 05:46:53 Skytel [005048779] C  ALPHA  cbranch@us.ibm.com|SEV: 1 |Escalation Page: 4 Hour Sev: 1 Problem! Pathmark 2374527 Summary: Store 568 has been down for 5 hrs.  Informed DPE and EM that store has lost power. Sent Exec. Alert.  More updates to follow.  
+2001-09-11 05:46:55 Skytel [007456983] B ST NUM  700-017-1467-9900   
+2001-09-11 05:46:57 Skytel [005132640] A  ALPHA  17) cbranch@us.ibm.com|SEV: 1 |Escalation Page: 4 Hour Sev: 1 Problem! Pathmark 2374527 Summary: Store 568 has been down for 5 hrs.  Informed DPE and EM that store has lost power. Sent Exec. Alert.  More updates to follow.  
+2001-09-11 05:46:57 Skytel [007049060] B ST NUM  900-944-9012   
+2001-09-11 05:46:57 Skytel [007611244] D  ALPHA  cbranch@us.ibm.com|SEV: 1 |Escalation Page: 4 Hour Sev: 1 Problem! Pathmark 2374527 Summary: Store 568 has been down for 5 hrs.  Informed DPE and EM that store has lost power. Sent Exec. Alert.  More updates to follow.  
+2001-09-11 05:46:59 Skytel [004541819] C  ALPHA  cbranch@us.ibm.com|SEV: 1 |Escalation Page: 4 Hour Sev: 1 Problem! Pathmark 2374527 Summary: Store 568 has been down for 5 hrs.  Informed DPE and EM that store has lost power. Sent Exec. Alert.  More updates to follow.  
+2001-09-11 05:46:59 Skytel [002750709] B SH/TONE 76245   
+2001-09-11 05:46:59 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Disk used % for /clients/IVR/home/rswwwp/work is 85; > than 80
+2001-09-11 05:46:59 Skytel [002842744] C SH/TONE 99      

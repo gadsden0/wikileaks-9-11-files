@@ -1,0 +1,58 @@
+2001-09-12 01:56:00 Skytel [002861179] C  ALPHA  Batch job still executing MPE #J2770 Job name: TURBOFSB System: Host
+2001-09-12 01:56:01 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-12 01:56:02 Skytel [007579147] C SH/TONE 1034    
+2001-09-12 01:56:03 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 01:56:04 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-12 01:56:06 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-12 01:56:06 Skytel {1092655} 3 2400 002637    
+2001-09-12 01:56:10 Skytel {0005398} 1 1200 (1 OF 6): FROM: Curt Powers,+1(425)704-4635SUB: RE: Premier UAT site appears down, cannot wait until WednesdayMSG: As I said, I cannot say cause and effect, but something died   -----Original Message----- From: Byron Prather.
+2001-09-12 01:56:19 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1008
+2001-09-12 01:56:21 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-12 01:56:21 Arch [0625367] B  ALPHA  6081
+2001-09-12 01:56:21 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192286. 
+2001-09-12 01:56:23 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-12 01:56:23 Arch [1304484] B  ALPHA  (28)4-5683-968-255-76-6824-4-6477-968-76-6824-79338-373267
+2001-09-12 01:56:25 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-12 01:56:27 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-12 01:56:27 Arch [0925366] B  ALPHA   318643;Sep 11 21:57:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-12 01:56:29 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3264
+2001-09-12 01:56:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3264
+2001-09-12 01:56:32 Skytel [002423055] D  ALPHA  B
+2001-09-12 01:56:32 Skytel [002348547] A SH/TONE 258-2000
+2001-09-12 01:56:33 Skytel [004534043] C SH/TONE 1       
+2001-09-12 01:56:35 Skytel [007648801] A ST NUM  809-888-5570   
+2001-09-12 01:56:35 Skytel [005001895] B  ALPHA  [sps/104] 200 Supplier.intel.com relay-ssl 0.464 Application is okay(/asrf2/healthcheck.asp) 3:26:30
+2001-09-12 01:56:35 Skytel [003934628] B  ALPHA  ATTN OLV: PLS CALL CHARLES QUINN IN HWT @ 797-4883
+2001-09-12 01:56:35 Skytel [005359140] B  ALPHA  ATTN OLV: PLS CALL CHARLES QUINN IN HWT @ 797-4883
+2001-09-12 01:56:35 Skytel [005437867] C SH/TONE 911281  
+2001-09-12 01:56:35 Skytel [002738094] D SH/TONE 83719   
+2001-09-12 01:56:36 Arch [1657188] B  ALPHA  NCAGBREACL:Device Accessible,Device Status:Ok
+2001-09-12 01:56:37 Skytel [0001461] B  ALPHA  GLOBEX   00:55     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 01:56:37 Skytel [0000060] D  ALPHA  ATTN OLV: PLS CALL CHARLES QUINN IN HWT @ 797-4883
+2001-09-12 01:56:37 Skytel [005058363] C SH/TONE 84526   
+2001-09-12 01:56:39 Skytel [005098183] B  ALPHA  SKYGRAM
+2001-09-12 01:56:39 Skytel [007660231] B SH/TONE 223-6891
+2001-09-12 01:56:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:56:39 Skytel [007031244] D SH/TONE 84466   
+2001-09-12 01:56:39 Skytel [005134031] D  ALPHA  Brian.Bauman@wcom.com||paging is off, go get your beauty sleep. ;^) bb.  
+2001-09-12 01:56:40 Arch [0000101] B  ALPHA  MSN 071 hello Message from NOC PCB.
+2001-09-12 01:56:41 Skytel [007660371] A SH/TONE 834-2988
+2001-09-12 01:56:41 Skytel [002472278] B SH/TONE 285 (78 
+2001-09-12 01:56:41 Skytel [1800019] A  ALPHA  GLOBEX   00:55     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 01:56:41 Skytel [007047007] D SH/TONE 3605    
+2001-09-12 01:56:42 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34
+2001-09-12 01:56:42 Arch [0915729] A  ALPHA  574-6870
+2001-09-12 01:56:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #5-IX_T4107
+2001-09-12 01:56:43 Skytel [007438052] B SH/TONE 3333 (2 
+2001-09-12 01:56:44 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-12 01:56:45 Skytel [002264307] A SH/TONE 6801    
+2001-09-12 01:56:45 Skytel [005047671] B  ALPHA  Mike.Wentz@aa.com|Trying to reach you but cannot.  Have left a voice mail on your cell.  I will try again after this c|Trying to reach you but cannot.  Have left a voice mail on your cell.  I will try again after this call to relay info via
+2001-09-12 01:56:45 Skytel [005059705] C SH/TONE 1229    
+2001-09-12 01:56:46 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-12 01:56:47 Skytel [007030285] D SH/TONE 84425   
+2001-09-12 01:56:47 Skytel [004398337] A SH/TONE 83077   
+2001-09-12 01:56:48 Arch [0987275] C  ALPHA  s0191: 09/11 15:14:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:14:21
+2001-09-12 01:56:49 Metrocall [0525954] A  ALPHA  Server:Chelmick at 10.17.1.52 is DOWN.
+2001-09-12 01:56:54 Skytel [003206474] C SH/TONE 7220    
+2001-09-12 01:56:57 Arch [1666850] A  ALPHA  3196
+2001-09-12 01:56:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8086

@@ -1,0 +1,72 @@
+2001-09-11 05:06:01 Skytel [003490056] C SH/TONE 3553    
+2001-09-11 05:06:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6835
+2001-09-11 05:06:04 Arch [1284491] C  ALPHA  u5@NJCLaneMon|NJTA:not reachable|13 I-278 Elizabeth-G|15E|01:32:21--- 13 I-278 Elizabeth-G|16E|01:32:49--- 13 I-278 Elizabeth-G|19E|01:33:25--- 13 I-278 Elizabeth-G|20E|01:33:47--- 13 I-278 Elizabeth-G|8X|01:30:23--- 13 I-278 Elizabeth-G|9X
+2001-09-11 05:06:05 Skytel [002357676] D SH/TONE 449-8888
+2001-09-11 05:06:05 Skytel [002688552] C  ALPHA  OPEN:Link TRGR54A (Tarragona, Spain) --> BLR54A (Bilbao, Spain) is down again. TOP:04:37. TKT#1484962 -- From: SMT - 248.528.7000
+2001-09-11 05:06:07 Skytel [0001461] B  ALPHA  GLOBEX   04:05     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109900   325+   SPU  109940   370+   NDU  138050B 1000+   6JZ    8285B   58-   6EZ    8953    27-   6SZ    5927B   13-   6BZ   14480B   48-   6CZ    6396     6+   
+2001-09-11 05:06:08 Skytel [003870273] A  ALPHA  OPEN:Link TRGR54A (Tarragona, Spain) --> BLR54A (Bilbao, Spain) is down again. TOP:04:37. TKT#1484962 -- From: SMT - 248.528.7000
+2001-09-11 05:06:08 Skytel [004677455] D  ALPHA  Rajeev, HTSH06 crashed. A couple of DBA jobs went down Call Mike 609-426-5826
+2001-09-11 05:06:08 Skytel [004539594] C  ALPHA  there are docs on sec 11 for ABI, AUS, MSY/SHV, GGG
+2001-09-11 05:06:08 Skytel [003275717] B SH/TONE 8019    
+2001-09-11 05:06:10 Skytel [1800019] A  ALPHA  GLOBEX   04:05     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109900   325+   SPU  109940   370+   NDU  138050B 1000+   6JZ    8285B   58-   6EZ    8953    27-   6SZ    5927B   13-   6BZ   14480B   48-   6CZ    6396     6+   
+2001-09-11 05:06:10 Skytel [002359129] C  ALPHA  there are docs on sec 11 for ABI, AUS, MSY/SHV, GGG
+2001-09-11 05:06:12 Skytel [004396782] D SH/TONE 3177    
+2001-09-11 05:06:12 Skytel [003497451] C SH/TONE   (70   
+2001-09-11 05:06:14 Skytel [004535801] C SH/TONE 254     
+2001-09-11 05:06:17 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178182. 
+2001-09-11 05:06:18 Skytel [005424662] B  ALPHA  PM196376 Sev: 2 Grp: ais pos Loc: store 021 Name: chris Ph: 716-439-4366 Descr: wtg for release (96
+2001-09-11 05:06:19 Arch [1079409] A  ALPHA  6599*NETLOGGER: IPRED message: Sep 11 01:58:49 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:06:19 Arch [0634239] D  ALPHA  6599*NETLOGGER: IPRED message: Sep 11 01:58:49 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:06:19 Arch [0930976] A  ALPHA  OCC reported virus on psitrdfile05s  please call web ops at 778-1932   
+2001-09-11 05:06:19 Arch [0986081] A  ALPHA  6599*NETLOGGER: IPRED message: Sep 11 01:58:49 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:06:19 Arch [0915934] D  ALPHA  |Case in SPSG-WW |P3 *ANS*PSTN Call clearing release sequence (TCP RESET). (Voice and Telephony::Call from 05:06|112  
+2001-09-11 05:06:19 Arch [0810070] B  ALPHA  6599*NETLOGGER: IPRED message: Sep 11 01:58:49 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:06:20 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A4 LINK REF PWR * MAJ ALARM  * 20W MAJ=NONE
+2001-09-11 05:06:21 Arch [0986081] A  ALPHA  2370*NETLOGGER: IPRED message: Sep 11 01:58:50 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:06:21 Arch [0810070] B  ALPHA  2370*NETLOGGER: IPRED message: Sep 11 01:58:50 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:06:21 Skytel [0001075] A  ALPHA  there are docs on sec 11 for ABI, AUS, MSY/SHV, GGG
+2001-09-11 05:06:21 Skytel [0001074] A  ALPHA  there are docs on sec 11 for ABI, AUS, MSY/SHV, GGG
+2001-09-11 05:06:25 Skytel [002574168] C SH/TONE 4783    
+2001-09-11 05:06:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9758
+2001-09-11 05:06:27 Arch [0810070] B  ALPHA  5483*NETLOGGER: IPRED message: Sep 11 01:58:54 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:06:27 Arch [1079409] A  ALPHA  2370*NETLOGGER: IPRED message: Sep 11 01:58:50 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:06:27 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2219 - 00246B ST_AUG_S_6125, cnet lost sync, Set
+2001-09-11 05:06:27 Arch [0634239] D  ALPHA  2370*NETLOGGER: IPRED message: Sep 11 01:58:50 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:06:27 Arch [0986081] A  ALPHA  5483*NETLOGGER: IPRED message: Sep 11 01:58:54 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:06:27 Skytel [005203941] B  ALPHA  9542*Host business.cch.com HTTP Content Scan DOWN at 04:07:14  
+2001-09-11 05:06:29 Arch [1079409] A  ALPHA  5483*NETLOGGER: IPRED message: Sep 11 01:58:54 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:06:29 Arch [0634239] D  ALPHA  5483*NETLOGGER: IPRED message: Sep 11 01:58:54 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:06:29 Arch [0986081] A  ALPHA  0027*NETLOGGER: IPRED message: Sep 11 01:58:53 oma-dmz02.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:06:29 Skytel [007062907] C SH/TONE 340     
+2001-09-11 05:06:30 Arch [0925366] B  ALPHA   318643;Sep 11 01:07:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 05:06:30 Metrocall [0476801] A  ALPHA  Frm: Hogan, Debbie Sub: Txt: hello
+2001-09-11 05:06:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3406
+2001-09-11 05:06:32 Arch [0810070] B  ALPHA  0027*NETLOGGER: IPRED message: Sep 11 01:58:53 oma-dmz02.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:06:32 Arch [1079409] A  ALPHA  0027*NETLOGGER: IPRED message: Sep 11 01:58:53 oma-dmz02.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:06:32 Arch [0634239] D  ALPHA  0027*NETLOGGER: IPRED message: Sep 11 01:58:53 oma-dmz02.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:06:32 Arch [0986081] A  ALPHA  7268*NETLOGGER: IPRED message: Sep 11 01:58:57 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:06:34 Arch [0810070] B  ALPHA  7268*NETLOGGER: IPRED message: Sep 11 01:58:57 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:06:34 Arch [1079409] A  ALPHA  7268*NETLOGGER: IPRED message: Sep 11 01:58:57 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:06:34 Arch [0634239] D  ALPHA  7268*NETLOGGER: IPRED message: Sep 11 01:58:57 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:06:35 Skytel [004551086] D  ALPHA  ibgbos001nts / ALARM / TEST Host ping failed for ibgbos015nts  / 09/11/2001/05:06:39 /
+2001-09-11 05:06:40 Arch [1079409] A  ALPHA  0983*NETLOGGER: IPRED message: Sep 11 01:58:58 oma-dmz02.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:06:40 Arch [0986081] A  ALPHA  0983*NETLOGGER: IPRED message: Sep 11 01:58:58 oma-dmz02.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:06:40 Arch [0810070] B  ALPHA  0983*NETLOGGER: IPRED message: Sep 11 01:58:58 oma-dmz02.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:06:40 Arch [0553455] D  ALPHA  MUHAMMED, MUSTAFAH UNAUTHORIZED LEAVE 09/11/2001  5:01AM
+2001-09-11 05:06:40 Arch [0634239] D  ALPHA  0983*NETLOGGER: IPRED message: Sep 11 01:58:58 oma-dmz02.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:06:42 Arch [0986081] A  ALPHA  3165*NETLOGGER: IPRED message: Sep 11 01:59:01 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:06:42 Arch [0810070] B  ALPHA  3165*NETLOGGER: IPRED message: Sep 11 01:59:01 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:06:42 Skytel [005436525] D  ALPHA  Test Message #54-IX_T0214
+2001-09-11 05:06:42 Skytel [004524770] A  ALPHA  wil-NWMedical-SaintAblansVT-01: CPE Up at 00:58:21 on 9/11
+2001-09-11 05:06:42 Skytel [005112809] C  ALPHA  04:06CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240384: Uncorrectable write error
+2001-09-11 05:06:44 Skytel [002474612] B  ALPHA  T-PST2 COMPLETE (1
+2001-09-11 05:06:44 Skytel [007109749] B SH/TONE 8117    
+2001-09-11 05:06:45 Arch [0810070] B  ALPHA  7803*NETLOGGER: IPRED message: Sep 11 01:59:02 oma-dmz02.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:06:45 Arch [1079409] A  ALPHA  3165*NETLOGGER: IPRED message: Sep 11 01:59:01 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:06:45 Arch [0634239] D  ALPHA  3165*NETLOGGER: IPRED message: Sep 11 01:59:01 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:06:45 Arch [0986081] A  ALPHA  7803*NETLOGGER: IPRED message: Sep 11 01:59:02 oma-dmz02.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:06:47 Arch [1079409] A  ALPHA  7803*NETLOGGER: IPRED message: Sep 11 01:59:02 oma-dmz02.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:06:47 Arch [0634239] D  ALPHA  7803*NETLOGGER: IPRED message: Sep 11 01:59:02 oma-dmz02.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:06:49 Arch [0634239] D  ALPHA  5218*NETLOGGER: IPRED message: Sep 11 01:59:05 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:06:50 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb10 login content match error on step 2, http://192.168.67.173:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informa
+2001-09-11 05:06:55 Skytel [005311829] B ST NUM  416-358-6405   

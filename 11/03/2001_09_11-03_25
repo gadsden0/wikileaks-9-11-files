@@ -1,0 +1,62 @@
+2001-09-11 03:25:00 Metrocall [1064388] B  ALPHA  LCO 2740/2730  -005 CL 2764/784/788+001 2752/2718/2680/2655 2623/2591/2560/2530 HO 7965/015/050+004 HU 8180/770/560-007 NG2390/2672/993+002 3150/3120/3050/2960 965/010/040/055/065 LGO 23950/4150+0025 PL v4390/f4320 +007 EC _3300/_3150+0150 PAm45600+00
+2001-09-11 03:25:00 Metrocall [1060550] B  ALPHA  Frm: ProactiveNet.powerdyne@powerdyne.ebay.com Sub: CRITICAL Txt: elcapitan.sjc.ebay.com/System Monitor/Solaris System Information, CRITICAL: Solaris System System Load was above 22#.
+2001-09-11 03:25:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER 
+2001-09-11 03:25:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1912
+2001-09-11 03:25:02 Metrocall [1064388] B  ALPHA  0
+2001-09-11 03:25:02 Metrocall [0000329] C  ALPHA   1912
+2001-09-11 03:25:03 Skytel [005506970] C  ALPHA  'SailorEminence@aol.com|You're outta this world|hHello there I was feelin kinda bumbed about leaving you today and then at school , we had a surprise Practical EXam My group got the onl  
+2001-09-11 03:25:03 Skytel [002401821] D  ALPHA  saccs003:server_10 Filesystem Utilization Threshold exceeded. ussa11.SSMC 
+2001-09-11 03:25:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6734
+2001-09-11 03:25:05 Arch [0000101] B  ALPHA  MSN 060 hello Message from NOC PCB.
+2001-09-11 03:25:05 Arch [0648251] C  ALPHA  From SiteScope:   SiteScope  AP Notes  honts193 - US   timed out reading  
+2001-09-11 03:25:05 Metrocall [1064374] B  ALPHA  YEN  121.55/60 +062 EUR  0.8999/04 +018 CHF  1.6838/44 -041 GBP  1.4561/68 -002 CAD  1.5632/37 +006 AUD  0.5149/59 +016 NZD  0.4260/70 -047 DEM  2.1731/44 -039  E/C  1.5154/66 -001 E/Y  109.42/43 +077 E/S  0.6176/82 +018 USD     114.70 -008
+2001-09-11 03:25:05 Metrocall [1064392] C  ALPHA  LME HI-LO       MCU_1445.0 - 1444.0  MAL 1374.0 - 1374.0  MAA 1142.0 - 1151.0  MNI 5130.0 - 5120.0  MSN 3755.0 - 3775.0  MPB  479.0 -  480.0  MZN _832.0 - _831.0
+2001-09-11 03:25:05 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 144W MAJ=NONE
+2001-09-11 03:25:05 Skytel [005105954] A ST NUM  515-239-9953   
+2001-09-11 03:25:07 Metrocall [1064393] C  ALPHA  LME C/S CU_14120/_2400/-100 AL 1340................................................................................................37100/_4850/-120
+2001-09-11 03:25:08 Skytel [007457733] B  ALPHA  swmon@instantis.com|*PROLONGED* FAULT engines HTTP: 2001-SEP-10 23:26|Error: 500 read timeout  
+2001-09-11 03:25:08 Skytel [004540235] C  ALPHA  09/11/2001 03:21:29 am: SPSMLN01 changed to Tardy.
+2001-09-11 03:25:08 Skytel [003263054] D  ALPHA  bcs_alert@am.sony.com|BCS Alert|PROCESSOR.EXE stopped running 16 minutes ago!  
+2001-09-11 03:25:09 Metrocall [1064383] D  ALPHA  FOREX HIGH -  LOW YEN_121.77 - 121.0. e.. 0.9 .1.....8..& .........................................................................................................................................................................3 - 114.13
+2001-09-11 03:25:10 Skytel [003268440] C  ALPHA  bcs_alert@am.sony.com|BCS Alert|PROCESSOR.EXE stopped running 16 minutes ago!  
+2001-09-11 03:25:12 Skytel [004729189] B SH/TONE 735-8878
+2001-09-11 03:25:12 Skytel [004524770] A  ALPHA  spf-WaveSystems-LeeMA-01: CPE Up at 00:58:51 on 9/11
+2001-09-11 03:25:12 Skytel [005436525] D  ALPHA  Test #18
+2001-09-11 03:25:14 Arch [0648251] C  ALPHA  From SiteScope:   SiteScope  AP Notes  honts193 - Mexico-Cifra  timed out reading  
+2001-09-11 03:25:14 Arch [0976352] A  ALPHA  (3)From Kristin Allbright Sub:x75245 remedy mainframe#404446 Control room unable to log onto some DCs. Host team found r-dccipp2-2 had channel error.  Known Cisco bug. Host testing new code tomorrow. ...
+2001-09-11 03:25:14 Arch [1164259] A  ALPHA  From Kristin Allbright Sub:x75245 remedy mainframe#404446 Control room unable to log onto some DCs. Host team found r-dccipp2-2 had channel error.  Known Cisco bug. Host testing new code tomorrow. ...
+2001-09-11 03:25:14 Arch [1611003] C  ALPHA  (18)From Kristin Allbright Sub:x75245 remedy mainframe#404446 Control room unable to log onto some DCs. Host team found r-dccipp2-2 had channel error.  Known Cisco bug. Host testing new code tomorrow. ...
+2001-09-11 03:25:14 Skytel [002790260] B SH/TONE 554-9939
+2001-09-11 03:25:16 Arch [0976352] A  ALPHA  (4)Msg:  
+2001-09-11 03:25:16 Arch [1164259] A  ALPHA  Msg:  
+2001-09-11 03:25:16 Arch [1611003] C  ALPHA  (19)Msg:  
+2001-09-11 03:25:18 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177066. 
+2001-09-11 03:25:18 Metrocall [1362298] C  ALPHA  Frm: Optivity@harbortech.com Sub: Operator Attention Txt: Operator Attention is needed. (Server: "OPTIVITY-NJ" Job: "SNMPc & HPOV:Diff" Device: "HP 1") Please insert overwritable media into the drive.
+2001-09-11 03:25:18 Skytel [004744862] D ST NUM  983-217-1151-230 (99
+2001-09-11 03:25:23 Skytel [004783809] A  ALPHA  , FELIPE PESCADOR. PARPADEO...SAS (2 (2
+2001-09-11 03:25:24 Metrocall [1457944] C  ALPHA  Frm: ClearSupport@NortelNetworks.com Sub: Outage Report @ MAIN on 09/11/2001 01:33:08 for 16 mins, Outage Txt: Subject: Outage Report @ MAIN on 09/11/2001 01:33:08 for 16 mins, Outage 1% on DMS-100/200 running release LET00014 Dan Platt has
+2001-09-11 03:25:24 Metrocall [1064378] C  ALPHA  BOJ GOVERNOR HAYAMI SAYS STRUCTURAL REFORMS MUST PROGRESS FOR MONETARY POLICY TO WORK
+2001-09-11 03:25:24 Metrocall [1064395] C  ALPHA  )?#`BAWHIAE@EZEOeHH|~mEiSi}IAH`vXLvR`ip[MMASjTjlNiUiPYbBeEcSzTvf`fuZ]QAPiSx}JKSihHt~d`fsytViAiVTEB_Ldp{JBiOPUy}JV`@D`PMWmtC
+2001-09-11 03:25:24 Metrocall [1064377] C  ALPHA  US 10514/10424 -020 
+2001-09-11 03:25:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9657
+2001-09-11 03:25:27 Skytel [007059305] C ST NUM  607-469-9239   
+2001-09-11 03:25:28 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE ........................
+2001-09-11 03:25:28 Metrocall [1064376] C  ALPHA  ............................................................................................. 3M   3.170/160
+2001-09-11 03:25:29 Skytel [003261425] A  ALPHA  THE AUTOMATION IS OFF IN THE VME
+2001-09-11 03:25:29 Skytel [002860023] B SH/TONE 951-2817
+2001-09-11 03:25:33 Arch [1164259] A  ALPHA  jabridg 74648--  FYI: CC 537242, updating logging on stores switches at 323-333 is finished, was successful had no issues  Sent at 02:25      
+2001-09-11 03:25:35 Skytel [003436448] A SH/TONE 3992    
+2001-09-11 03:25:36 Skytel [007567166] D SH/TONE 569-9400
+2001-09-11 03:25:38 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 30.44 8.52 4.31 Tue Sep 11 00:26:00 MST 2001 
+2001-09-11 03:25:39 Metrocall [1421641] C  ALPHA  ==== TAP04.: START: 09/10/01  21:02:43   END: 09/11/01  02:24:03
+2001-09-11 03:25:39 Metrocall [1543964] D  ALPHA  ==== TAP04.: START: 09/10/01  21:02:43   END: 09/11/01  02:24:03
+2001-09-11 03:25:44 Skytel [002357369] C  ALPHA  002187 CYCLIC TEST 
+2001-09-11 03:25:44 Skytel [003327216] A  ALPHA  002187 CYCLIC TEST 
+2001-09-11 03:25:44 Skytel [002139900] D SH/TONE 002187  
+2001-09-11 03:25:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 00:25:42 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 03:25:48 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177073. 
+2001-09-11 03:25:50 Metrocall [002119221] B  ALPHA  4366*Event on machine FMSDEDNETIQ Problem is Text not found in: http://networkaccount.intel.com/service_status.asp Detailed message is URL: http://networkaccount.intel.com/service_status.asp ??does not contain: SFSA0005 SUCCEEDED
+2001-09-11 03:25:51 Skytel [007649595] C ST NUM  816-448-3939   
+2001-09-11 03:25:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1178..
+2001-09-11 03:25:57 Skytel [005178080] A SH/TONE 104     
+2001-09-11 03:25:57 Skytel [005112809] C  ALPHA  02:25CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240384: Uncorrectable write error

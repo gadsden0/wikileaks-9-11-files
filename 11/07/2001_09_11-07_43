@@ -1,0 +1,125 @@
+2001-09-11 07:43:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2170
+2001-09-11 07:43:01 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 148W MAJ=NONE
+2001-09-11 07:43:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2170
+2001-09-11 07:43:01 Skytel [005426959] D  ALPHA  @07:40 ESC/Executive Daily Status - The Missouri Medicaid onlines are unavailable due to batch problems. No ETR. Next status at 10:am ET. All other onlines were up ontime. (eom)  (82
+2001-09-11 07:43:03 Skytel [004687769] C  ALPHA  I'M SAFE AT AIRPORT--J
+2001-09-11 07:43:03 Skytel [007016468] B ST NUM  731-447-5402-4300   
+2001-09-11 07:43:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6992
+2001-09-11 07:43:05 Skytel [005229729] A SH/TONE 9850    
+2001-09-11 07:43:05 Skytel [002378528] A  ALPHA  BYPASS THE TOLL ROAD, IT IS BACKED UP TO ROUTE 28. KIRK.  (85
+2001-09-11 07:43:05 Skytel [005476267] C ST NUM  303-925-4611   
+2001-09-11 07:43:05 Skytel [005374232] C SH/TONE 496-1009
+2001-09-11 07:43:05 Skytel [004415276] D ST NUM  670-220-5590 (79    
+2001-09-11 07:43:05 Skytel {1033019} 3 2400 41590  33 
+2001-09-11 07:43:11 Metrocall [0900793] C  ALPHA  Sub: From ALICER Frm: QSYSOPR@poly-america.com Txt: WE RECEIVED CORNHUSKER 121, WITH N003 FROM POL TEX
+2001-09-11 07:43:13 Arch [1223393] A  ALPHA  From Hebel, Cynthia: THANKS RICK for my print outs!!!!!!  
+2001-09-11 07:43:13 Arch [0938255] D  ALPHA  DALLAS NOC SDR DLLSTXRI T-3 DOWN 9007 SEP11/6:44
+2001-09-11 07:43:15 Arch [0196066] A  ALPHA  12:ABS: SSONOE Deferred Impairment Closure SPFD*BBH(Vector) unable to be resynced while doing overbooking changes on Stkt 35913 @7:09z. Deleted 2 NVCIDS that seized up.  Switch was resynced@08:13z & NVCIDS rebuilt. Teams2041203 Darrin SSONOE
+2001-09-11 07:43:15 Arch [1184712] C  ALPHA  ROS Sales is currently unavailable. OCC Web Ops is investigating. No ETA. Remedy# 2305761 Tony/OCC    
+2001-09-11 07:43:15 Arch [1318574] D  ALPHA  (30)15:ABS: Ion Sched Maint. s35838. HSTNTXHNBB4. Install AGC, daughter card &LIM in SP230. Durtn: 48m 38s, 09/11/01 07:06:55z - 09/11/01
+2001-09-11 07:43:15 Arch [1246392] C  ALPHA  (14)11:ABS: SSONOE Deferred Impairment Closure SPFD*BBH(Vector) unable to be resynced while doing overbooking changes on Stkt 35913 @7:09z. Deleted 2 NVCIDS that seized up.  Switch was resynced@08:13z & NVCIDS rebuilt. Teams2041203 Darrin SSONOE
+2001-09-11 07:43:15 Arch [1020824] C  ALPHA  ROS Sales is currently unavailable. OCC Web Ops is investigating. No ETA. Remedy# 2305761 Tony/OCC    
+2001-09-11 07:43:16 Arch [1318574] D  ALPHA   07:55:33z. Impct: None. Maint. compltd. JL/IonNocKC 913-534-7201.
+2001-09-11 07:43:16 Arch [0971761] A  ALPHA  5-MIKE CAMPBELL 508 954 4540 RE YOU WILL KNOW
+2001-09-11 07:43:18 Arch [0945069] D  ALPHA  "RCDN Campus" <a|RCDN6 Bldg 6 - 1st Floor FIREFALT Bldg 6 - 1st Floor Fire panel fault alarm. * 
+2001-09-11 07:43:18 Arch [0930292] B  ALPHA  |Case in SPSG-WW |P3 CCIE:*ANS*Mac not detected (LAN Switching::Cat5000/2926G/2926 Family #519DF5FD) from 07:43|111  
+2001-09-11 07:43:18 Arch [1426204] D  ALPHA  "WhatsUp" <whats|NT Server RSMMARIE DOWN at 07:43|NT Server RSMMARIE DOWN at 07:43:52 Address: 200.1.7.15 Info 1: Informix Report Server Info 2: Building 7 Date: 09/11/2001 Status: IP_TTL_EXPIRED_TRANSIT ( 11013) Svcs: Notes: 
+2001-09-11 07:43:20 Arch [0945069] D  ALPHA  "RCDN Campus" <a|RCDN6 Bldg 6 - 1st Floor FIRE_ALM Bldg 6 - 1st Floor Fire panel general alarm. * 
+2001-09-11 07:43:20 Arch [1426204] D  ALPHA  "WhatsUp" <whats|Server anatemp DOWN at 07:43:52|Server anatemp DOWN at 07:43:52 Address: 200.1.7.66 Info 1: Anatrol Linux server Info 2: Date: 09/11/2001 Status: IP_TTL_EXPIRED_TRANSIT ( 11013) Svcs: Notes: 
+2001-09-11 07:43:20 Metrocall [002460539] C  ALPHA  GOOD MORNING. I HAVEN'T HEARD FROM YOU IN A WHILE. I'LL TRY ONE MORE TIME AND I SUPPOSE I WILL TAKE THE HINT IF YOU DON'T PAGE ME BACK. HAVE A GOOD DAY. TODD
+2001-09-11 07:43:22 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-11 07:43:22 Metrocall [1421210] C  ALPHA  LAKEJob 378304/VSIOWNER/OMSJRNMGR has MSGW status.
+2001-09-11 07:43:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9915
+2001-09-11 07:43:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3563
+2001-09-11 07:43:31 Skytel [002388620] D  ALPHA  DTUCK@advanceautoparts.com|FW: Checking on status of new employee e-mail set-up|  > ---------- > From:  Andrea Trent > Sent:  Tuesday, September 11, 2001 7:45:33 AM > To:  Drena Tuck > Subject:  Checking on status of new employee e-mail set
+2001-09-11 07:43:31 Skytel [005001865] C SH/TONE 458060  
+2001-09-11 07:43:31 Skytel [005134857] C SH/TONE 3843    
+2001-09-11 07:43:31 Skytel [005112331] C ST NUM  302-267-1883   
+2001-09-11 07:43:31 Skytel [002404999] B  ALPHA  CLR032PJ/PQ AND CLR034PJ/PK FAILED.  PLEASE CALL JEAN IN SWAT AT 888-792-8669
+2001-09-11 07:43:31 Skytel [004572807] B  ALPHA  Node GEISGLOBALAPP01 (3.184.164.11) is Down @ 07:38 09/11/01
+2001-09-11 07:43:33 Skytel [005206557] D SH/TONE 5500    
+2001-09-11 07:43:35 Skytel [007589158] B SH/TONE 102-0030
+2001-09-11 07:43:35 Skytel [007464609] A ST NUM  604-799-3025   
+2001-09-11 07:43:35 Skytel [002368681] C  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:35 Skytel [004727471] D  ALPHA  patrol@dm-clust1-pa.dmol.ml.com|{patrol}Data space 8% remaining for STS_PRD_SQL1.sts on dm-clust1-pa|  
+2001-09-11 07:43:35 Skytel [002359591] B  ALPHA  patrol@dm-clust1-pa.dmol.ml.com|{patrol}Data space 8% remaining for STS_PRD_SQL1.sts on dm-clust1-pa|  
+2001-09-11 07:43:37 Skytel [002571185] A SH/TONE 237     
+2001-09-11 07:43:37 Skytel [004729784] C  ALPHA  SEV 2 - 03913496 - GLFINC1 - BATCHES SUSPENDED IN TRAMS OUTSTANDING IN RECS
+2001-09-11 07:43:37 Skytel [002360627] A  ALPHA  patrol@dm-clust1-pa.dmol.ml.com|{patrol}Data space 8% remaining for STS_PRD_SQL1.sts on dm-clust1-pa|  
+2001-09-11 07:43:37 Skytel [004449466] C SH/TONE 251     
+2001-09-11 07:43:37 Skytel [002364862] D  ALPHA  patrol@dm-clust1-pa.dmol.ml.com|  
+2001-09-11 07:43:37 Skytel [007102015] D SH/TONE 319-5100
+2001-09-11 07:43:37 Skytel [003931953] A  ALPHA  HO41 ACCUMULATE  ITEMS : 212,120 AMOUNT : $371,138,754.35
+2001-09-11 07:43:38 Skytel [003943238] B  ALPHA  PLEASE CALL NICOLE WITH BELL CANADA AT 613 785 2395. WE HAVE A MAJOR TECHNICAL PROBLEM.
+2001-09-11 07:43:38 Skytel [005002441] C  ALPHA  Watcher: nyb01c-939: Sep 11 06:19:36 nyb01c-939 vmunix: sd0h:   Error Level: Fatal
+2001-09-11 07:43:38 Skytel [007608133] B  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:38 Skytel [002356930] A  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:39 Arch [0619191] B  ALPHA  (2)15:ABS: Ion Sched Maint. s35838. HSTNTXHNBB4. Install AGC, daughter card &LIM in SP230. Durtn: 48m 38s, 09/11/01 07:06:55z - 09/11/01 07:55:33z. Impct: None. Maint. compltd. JL/IonNocKC 913-534-7201.
+2001-09-11 07:43:39 Arch [0967483] C  ALPHA  (25)15:ABS: Ion Sched Maint. s35838. HSTNTXHNBB4. Install AGC, daughter card &LIM in SP230. Durtn: 48m 38s, 09/11/01 07:06:55z - 09/11/01 07:55:33z. Impct: None. Maint. compltd. JL/IonNocKC 913-534-7201.
+2001-09-11 07:43:40 Skytel [004411223] B ST NUM  316-664-7886   
+2001-09-11 07:43:40 Skytel [005359199] D  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:40 Skytel [007548505] C ST NUM  9884351801
+2001-09-11 07:43:40 Skytel [004387035] C SH/TONE 320     
+2001-09-11 07:43:40 Skytel [007553112] C  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:41 Metrocall [1308972] D  ALPHA  Frm: rmsprd@wetseal.com Sub: MMS DAILY UPDATE Txt: The daily update has completed for 09/11/01
+2001-09-11 07:43:41 Metrocall [1927986] A  ALPHA  Frm: MSN Txt: (1/2) Shakespeare First Folio on the block*WP: HBO miniseries '
+2001-09-11 07:43:41 Metrocall [0813714] A  ALPHA  Frm: MSN Txt: President's daughter has charges dropped*Stocks struggle*Jordan all but confirms
+2001-09-11 07:43:41 Metrocall [1587259] C  ALPHA  Frm: Gibson, Matt Sub: test Txt: test Matt Gibson Supervisor - NIT Robinson Nuclear Plant 3581 West Entr
+2001-09-11 07:43:42 Skytel [005436525] D  ALPHA  nMCI Test #73
+2001-09-11 07:43:42 Skytel [004570854] B  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:42 Skytel [005076708] B SH/TONE 329     
+2001-09-11 07:43:42 Skytel [005350895] D  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:42 Skytel [002386539] C  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:43 Arch [1212870] B  ALPHA  5855322-811
+2001-09-11 07:43:43 Arch [0946472] C  ALPHA  843-3112
+2001-09-11 07:43:43 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179911. 
+2001-09-11 07:43:43 Metrocall [1927986] A  ALPHA  Band'
+2001-09-11 07:43:43 Metrocall [1587259] C  ALPHA  ance Rd. Hartsville, SC 29550 843-857-1145( phone) 843-629-5858( pager) Internet mail: matt.gibson@pgnmail.com
+2001-09-11 07:43:44 Metrocall [1927986] A  ALPHA  Frm: MSN Txt: (2/2) premiere has wrong tempo*Aaliyah inquiry focuses on weight of doomed
+2001-09-11 07:43:44 Skytel [007101042] A SH/TONE 4725    
+2001-09-11 07:43:44 Skytel [004402809] C  ALPHA  kbarr@sybase.com||Message: Sep 11 04:43:03  
+2001-09-11 07:43:44 Skytel [007557368] C  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:44 Skytel [002389746] A  ALPHA  51) alert@msn.com||Hotmail Free4all Jokes:Joke of the Day! Ol Zeek  
+2001-09-11 07:43:44 Skytel [002204536] C SH/TONE 1234 (24
+2001-09-11 07:43:44 Skytel [005510390] B  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:44 Skytel [002357369] C  ALPHA  002273 CYCLIC TEST 
+2001-09-11 07:43:44 Skytel [003327216] A  ALPHA  002273 CYCLIC TEST 
+2001-09-11 07:43:44 Skytel [002139900] D SH/TONE 002273  
+2001-09-11 07:43:44 Skytel [003778175] D  ALPHA  (2 of 2) e. 644-8853. txs. --Kam
+2001-09-11 07:43:45 Arch [0000101] B  ALPHA  MSN 057 hello Message from NOC PCB.
+2001-09-11 07:43:45 Arch [0904316] D  ALPHA  (1/1) CORRECTION:ONLY W/B 175 AT TAMAR CLOSED,DUE TO OVERTURNED TT,SHA 10-23. HOWARD CO. SOC
+2001-09-11 07:43:46 Metrocall [0956490] C  ALPHA  Frm: MSN Txt: President's daughter has charges dropped*Stocks struggle*Jordan all but confirms
+2001-09-11 07:43:46 Metrocall [1830608] A  ALPHA  Frm: IPSentryMonitor@eroom.com Sub: Alert Update Alchemy - Processor is (DOWN
+2001-09-11 07:43:46 Metrocall [1830606] D  ALPHA  Frm: IPSentryMonitor@eroom.com Sub: Alert Update Alchemy - Processor is (DOWN) Txt: Alchemy - Processor (Monitor CPU %) is above 70%.
+2001-09-11 07:43:46 Metrocall [1260987] C  ALPHA  Frm: IPSentryMonitor@eroom.com Sub: Alert Update Alchemy - Processor is (DOWN) Txt: Alchemy - Processor (Mo
+2001-09-11 07:43:46 Skytel [002403719] B  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:46 Skytel [007604230] B SH/TONE 304     
+2001-09-11 07:43:46 Skytel [005345930] C  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:46 Skytel [007009796] B SH/TONE 289-7210
+2001-09-11 07:43:46 Skytel [002370062] D  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:46 Skytel [004449421] D SH/TONE 218     
+2001-09-11 07:43:48 Metrocall [1372748] D  ALPHA  Frm: MSN Txt: President's daughter has charges dropped*Stocks struggle*Jordan all but confirms
+2001-09-11 07:43:48 Metrocall [1830608] A  ALPHA  ) Txt: Alchemy - Processor (Monitor CPU %) is above 70%.
+2001-09-11 07:43:48 Metrocall [1260987] C  ALPHA  nitor CPU %) is above 70%.
+2001-09-11 07:43:48 Skytel [002823834] C  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:48 Skytel [002822303] D  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:48 Skytel [2009114] C  ALPHA  Medical Box 14-9 6114 BREEZEWOOD DR (CHERRYWOOD & SPRINGHILL); A148 alerted for INJURED PERSON; 2 Y/O SWALLOWED MONEY -IT WENT ALL THE WAY DOWN SHE THINKS CRYING/BREATHING OK; APARTMENT #103; Map 7 @ 0743 Hrs
+2001-09-11 07:43:50 Metrocall [1543322] C  ALPHA  MAXM WDHL_T TRANSCPT kPATHNAMEo WDHL_RX1000 HAS NO CONNECTION TO SERVER, PLEASE INVESTIGATE 09/11/0104:40:15
+2001-09-11 07:43:50 Metrocall [0847875] A  ALPHA  Gear Request-Steven Jacobson Currently in Level 1-Would like gear as soon as possible 
+2001-09-11 07:43:50 Skytel [005345963] C  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:50 Skytel [003252015] D  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:50 Skytel [005414063] D SH/TONE 7347 (76
+2001-09-11 07:43:52 Metrocall [0847875] A  ALPHA  & at your convienince. I am EMS ONLY Now, but will be Fire/EMS as soon as it gets out of comittee...heh (will be soon) =>
+2001-09-11 07:43:52 Metrocall [1064374] B  ALPHA  YEN  121.88/93 +095 EUR  0.8973/74 -008 CHF  1.6881/91 +002 GBP  1.4563/68 +000 CAD  1.5601/11 -025 AUD  0.5138/45 +005
+2001-09-11 07:43:52 Skytel [005100089] C  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:52 Skytel [003702193] A  ALPHA  3411 (81
+2001-09-11 07:43:53 Skytel [003435714] A ST NUM  670-220-5590 (78    
+2001-09-11 07:43:53 Skytel [005056074] C  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:53 Skytel [003508170] C SH/TONE 328-0658
+2001-09-11 07:43:53 Skytel [005104965] B  ALPHA  TGA Hot--Issue with supervisor card in West Street GUS 9.  NCR onsite to repair issue.  -GCSC -- 800-884-9097 opt1
+2001-09-11 07:43:54 Metrocall [0847875] A  ALPHA  If you need details or need me to do something, send a text page to me: 703-612-6179 Thank You, Steven Jacobson
+2001-09-11 07:43:54 Metrocall [1064374] B  ALPHA    NZD  0.4262/70 -045 DEM  2.1794/97 +024  E/C  1.5143/48 -012 E/Y  109.36/39 +071 E/S  0.6157/64 -001 USD     114.92 +014
+2001-09-11 07:43:57 Skytel [004524770] A  ALPHA  spf-WaveSystems-LeeMA-01: CPE Down at 01:47:17 on 9/11
+2001-09-11 07:43:57 Skytel [007641197] D ST NUM  854-224-0969   
+2001-09-11 07:43:58 Arch [0915737] C  ALPHA  <NetIQ@navair.na|NetIQ Event from NEMS29 - Down S|Down Service - MSExchangeMTA _ Not to restart MSExchangeMTA 
+2001-09-11 07:43:58 Arch [0847875] A  ALPHA  <NetIQ@navair.na|NetIQ Event from NEMS29 - Down S|Down Service - MSExchangeMTA _ Not to restart MSExchangeMTA 

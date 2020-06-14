@@ -1,0 +1,87 @@
+2001-09-11 04:06:01 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 87 processes on report1.ccbill.com. Timestamp key: 20010911010401 
+2001-09-11 04:06:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1953
+2001-09-11 04:06:01 Metrocall [1314835] A  ALPHA  s2,00501401,SEV 2 TCKT OPENED,ISS1,ISS1 FILESYSTEM /repdata 18.86 File system re
+2001-09-11 04:06:01 Metrocall [0410240] A  ALPHA  s2,00501391,ack,ISS1 ,ISS1 SERVICE_MONITOR Oracle processes for MAUI are not running
+2001-09-11 04:06:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1953
+2001-09-11 04:06:01 Skytel [007046275] A SH/TONE 2411    
+2001-09-11 04:06:02 Metrocall [1314835] A  ALPHA  s2,00501403,SEV 2 TCKT OPENED,ISS1,ISS1 FILESYSTEM /apps/outboundj 18.86 File sy
+2001-09-11 04:06:02 Metrocall [1829921] A  ALPHA  Frm: MSN Txt: Hotmail CashBlast@bigprizes.com:luusid@hotmail.com, Get $75.00 Free From InterCasino
+2001-09-11 04:06:03 Metrocall [0410240] A  ALPHA  s2,00501392,ack,ISS1 ,ISS1 SERVICE_MONITOR Oracle processes for MAUI are not running
+2001-09-11 04:06:03 Metrocall [0410240] A  ALPHA  s2,00501393,ack,ISS1 ,ISS1 SERVICE_MONITOR Oracle processes for MAUI are not running
+2001-09-11 04:06:03 Metrocall [1829921] A  ALPHA  !
+2001-09-11 04:06:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6775
+2001-09-11 04:06:05 Skytel [005437867] C SH/TONE 911281  
+2001-09-11 04:06:08 Skytel [004515650] A ST NUM  975-1039 U
+2001-09-11 04:06:09 Metrocall [1589694] D  ALPHA  s1,00501397,fyi,ISS1,ISS1 FILESYSTEM /arch1 18.86 File system reaching capacity
+2001-09-11 04:06:09 Metrocall [0410240] A  ALPHA  s3,00501395,ack,ISS1 ,ISS1 SERVICE_MONITOR DBVision uv_driver not running
+2001-09-11 04:06:12 Skytel [005112809] C  ALPHA  03:05CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240384: Uncorrectable write error
+2001-09-11 04:06:13 Metrocall [1314835] A  ALPHA  s2,00501393,SEV 2 TCKT OPENED,ISS1,ISS1 SERVICE_MONITOR Oracle processes for MAU
+2001-09-11 04:06:13 Metrocall [1145662] D  ALPHA  Frm: StormCenter.COM Sub: Storm Advisory (9/9) Txt: ..TO 7 TO 10 FEET.
+2001-09-11 04:06:13 Metrocall [1561766] B  ALPHA  thly Debt Payments up to 60%
+2001-09-11 04:06:13 Metrocall [1314835] A  ALPHA  s2,00501398,SEV 2
+2001-09-11 04:06:13 Metrocall [1362089] C  ALPHA  s1,00501397,fyi,ISS1,ISS1 FILESYSTEM /arch1 18.86 File system reaching capacity
+2001-09-11 04:06:13 Metrocall [1111466] C  ALPHA  09/11@02:59:54 DALDC01:The product IIS 5.0 is out of licenses. Use License Manager from the Administrative Tools folder for more information on which users are o
+2001-09-11 04:06:15 Metrocall [1314835] A  ALPHA   TCKT OPENED,ISS1,ISS1 FILESYSTEM /backup 18.86 File system rea
+2001-09-11 04:06:15 Metrocall [1111466] C  ALPHA  ut of compliance and how many licenses should be purchased.
+2001-09-11 04:06:18 Arch [0000101] B  ALPHA  MSN 080 hello Message from NOC PCB.
+2001-09-11 04:06:18 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope URL Transaction: http://www.australianskandia.com.au/findpass.jsp Production Web Sites (emt-4b) 5076 server error on step 2, http://www.australianskandia.com.au/servlet/Broker_servlet?emailadr=AUbrokerreg%40skandia
+2001-09-11 04:06:20 Skytel [005244073] C SH/TONE 439-3739
+2001-09-11 04:06:22 Metrocall [1466337] A  ALPHA  09/11@02:59:54 DALDC01:The product IIS 5.0 is out of licenses. Use License Manager from the Administrative Tools folder for more information on which users are out of compliance and how many licenses should be purchased.
+2001-09-11 04:06:22 Metrocall [002279197] D  ALPHA  Frm: MSN Txt: Hot
+2001-09-11 04:06:22 Metrocall [1314835] A  ALPHA  s2,00501391,SEV 2 TCKT OPENED,ISS1,ISS1 SERVICE_MONITOR Oracle processes for MAU
+2001-09-11 04:06:22 Metrocall [1314835] A  ALPHA  s1,00501397,fyi,ISS1,ISS1 FILESYSTEM /arch1 18.86 File system reaching capacity
+2001-09-11 04:06:22 Metrocall [1145662] D  ALPHA  Frm: StormCenter.COM Sub: Storm Advisory (1/9) Txt: HEAV
+2001-09-11 04:06:24 Metrocall [1314835] A  ALPHA  s2,00501390,SEV 2 TCKT OPENED,ISS1,ISS1 SERVICE_MONITOR clsmuxpd is not running.
+2001-09-11 04:06:24 Metrocall [1314835] A  ALPHA  s2,00501394,SEV 2 TCKT OPENED,ISS1,ISS1 SERVICE_MONITOR Oracle processes for MAU
+2001-09-11 04:06:24 Metrocall [002279197] D  ALPHA  mail August Petsch:Repair Your Credit, Way Inexpensively
+2001-09-11 04:06:24 Metrocall [1145662] D  ALPHA  Y S
+2001-09-11 04:06:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9698
+2001-09-11 04:06:25 Skytel [005138014] D  ALPHA  EGRP 0.00 UNCH MSFT 56.45 +1.05 CSCO 14.21 -0.15 INKT 3.07 +0.17
+2001-09-11 04:06:25 Skytel [002574168] C SH/TONE 4783    
+2001-09-11 04:06:26 Metrocall [1145662] D  ALPHA  URF ADVISORY FROM CAPE LOOKOUT NORTHWARD UNTIL 5:00PM EDT For...
+2001-09-11 04:06:29 Skytel [002382588] D SH/TONE 99      
+2001-09-11 04:06:29 Skytel [007109749] B ST NUM  1-011-146-7400-564  
+2001-09-11 04:06:29 Skytel [007062907] C SH/TONE 340     
+2001-09-11 04:06:30 Metrocall [1314835] A  ALPHA  s2,00501392,SEV 2 TCKT OPENED,ISS1,ISS1 SERVICE_MONITOR Oracle processes for MAU
+2001-09-11 04:06:30 Metrocall [1145662] D  ALPHA  IN AN EASTERLY...
+2001-09-11 04:06:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3346
+2001-09-11 04:06:30 Metrocall [002178508] D  ALPHA  EMAIL OnLineCasino108@yahoo.com Win a Brand New Ferrari Spider 360  <html>  <head> <title>New Page 2</title> </he......B!....,..,../..& .................................................
+2001-09-11 04:06:31 Arch [0930546] A  ALPHA  Alarm: 01:06:09AM  Boiler Network connect   Site 4 Bldg 7 Hot water supply temp is out of range.
+2001-09-11 04:06:31 Arch [0931795] A  ALPHA  |OPC: cciweb-sj-1: /dev/vx/dsk/rest, mounted at /rest, is at 100  
+2001-09-11 04:06:31 Arch [0925366] B  ALPHA   318643;Sep 11 00:07:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 04:06:31 Arch [1036238] D  ALPHA  |ILS: Case Create #B826039 for DOW CHEMICAL USA, contract 1348270, P3 |This is an ILS summary notification for case B826039 Event: Case Create #B826039, Priority 3 Event Time: 11 September 2001 01:05:51 Title: *ANS*CLARIFICATION OF  -1/3
+2001-09-11 04:06:32 Metrocall [1145662] D  ALPHA  Frm: StormCenter.COM Sub: Storm Advisory (7/9) Txt: ..CONTINUE TO AFFECT THE COAST THROUGH WEDNESDAY. THE LONG PERIOD SWELL...
+2001-09-11 04:06:32 Metrocall [1064381] D  ALPHA  BRUNEI CUTS AUG SERIA LT CRUDE PRICE TO $25.16/BBL,DOWN $1.17 VS  JUL-TRADE
+2001-09-11 04:06:32 Metrocall [002178508] D  ALPHA  for(j=3D0; j< s.length; j++ ){ var=  n=3D s.charCodeAt(j); if (n>=3D83
+2001-09-11 04:06:33 Arch [1036238] D  ALPHA  VWIC-2MFT-E1-DI CARD - LINE TERMINATION Site: DOW CHEMICAL USA * Contact: RONALD STOKKEL * Phone/Email: +31 (0)6-22478771 / rstokkel@thrupoint.net * Contract: 1348270 Case Owner: EPAYNE @ X ILS Subscription Information: * Subscriber:  -2/3
+2001-09-11 04:06:33 Skytel [003905173] B ST NUM  701-214-2459 U 
+2001-09-11 04:06:34 Arch [1036238] D  ALPHA  roylong@cisco.com (Contact this person to unsubscribe.) * ILS Event: Create/Close/Reopen * Conditions: Account ID: 12940 * Recipients: roylong@epage.cisco.com * Send e-mails |640   -3/3
+2001-09-11 04:06:36 Skytel [0001461] B  ALPHA  GLOBEX   03:05     GEH  9662.5    .5-   GEM    ----   ----   ESU  109800   225+   SPU  109810   240+   NDU  138200  1150+   6JZ    8287A   56-   6EZ    8974A    6-   6SZ    5938A    2-   6BZ   14508A   20-   6CZ    6389A    1-   
+2001-09-11 04:06:38 Skytel [005266117] B SH/TONE 1       
+2001-09-11 04:06:38 Skytel [005098570] C SH/TONE 1       
+2001-09-11 04:06:40 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 127 processes on report2.ccbill.com. Timestamp key: 20010911010401 
+2001-09-11 04:06:40 Arch [0917148] D  ALPHA  applew07@erptst0|EW07 OAPM Alert ORA-12012: error|EW07 OAPM Alert ORA-12012: error on auto execute of job 1156 on SEP11-04:06AM Full Error Text: ORA-12012: error on auto execute of job 1156 
+2001-09-11 04:06:40 Skytel [1800019] A  ALPHA  GLOBEX   03:05     GEH  9662.5    .5-   GEM    ----   ----   ESU  109800   225+   SPU  109810   240+   NDU  138200  1150+   6JZ    8287A   56-   6EZ    8974A    6-   6SZ    5938A    2-   6BZ   14508A   20-   6CZ    6389A    1-   
+2001-09-11 04:06:41 Metrocall [1145662] D  ALPHA  Frm: StormCenter.COM Sub: Storm Advisory (8/9) Txt: ..WILL BUILD WAVES IN THE SURF ZONE ALONG AREA BEACHES NORTH OF CAPE LOOKOUT...
+2001-09-11 04:06:41 Metrocall [1145662] D  ALPHA  Frm: StormCenter.COM Sub: Storm Advisory (6/9) Txt: ..SWELL DURING THE DAY. SWELL FROM THE STORM WILL DIMINISH
+2001-09-11 04:06:41 Metrocall [1421641] C  ALPHA  Chk Pnt 3  reached after previous WARNING msg sent
+2001-09-11 04:06:42 Arch [0917148] D  ALPHA  applew07@erptst0|EW07 OAPM Alert ORA-12012: error|EW07 OAPM Alert ORA-12012: error on auto execute of job 1210 on SEP11-04:06AM Full Error Text: ORA-12012: error on auto execute of job 1210 
+2001-09-11 04:06:42 Skytel [004524770] A  ALPHA  wor-ExalAdvertising-HudsonNH-381: CPE Up at 00:58:41 on 9/11
+2001-09-11 04:06:42 Skytel [005436525] D  ALPHA  Test Message #51-IX_T0706
+2001-09-11 04:06:43 Metrocall [1145662] D  ALPHA   LATER TONIGHT-BUT...
+2001-09-11 04:06:44 Arch [0917148] D  ALPHA  applew07@erptst0|EW07 OAPM Alert ORA-03114: not c|EW07 OAPM Alert ORA-03114: not connected to ORACLE on SEP11-04:06AM Full Error Text: ORA-03114: not connected to ORACLE 
+2001-09-11 04:06:44 Skytel [003779836] D  ALPHA    SiteScope/Databases - Sacramento/Yuba - CPU Utilization Monitor/23988/no data/
+2001-09-11 04:06:46 Arch [0917148] D  ALPHA  applew07@erptst0|EW07 OAPM Alert ORA-20012: TICK_|EW07 OAPM Alert ORA-20012: TICK_ERRORS_TARG_PKG.END_ERROR_HANDLING: whe on SEP11-04:06AM Full Error Text: ORA-20012: TICK_ERRORS_TARG_PKG.END_ERROR_HA
+2001-09-11 04:06:47 Metrocall [1145662] D  ALPHA   6 FEET BY...
+2001-09-11 04:06:48 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope URL Transaction: http://www.australianskandia.com.au/reg/login.jsp Production Web Sites (emt-4b) 6765 timed out reading on step 1, http://www.australianskandia.com.au/reg/login.jsp 
+2001-09-11 04:06:48 Skytel [002401821] D  ALPHA  146.22.45.221 ASOEND1I AUTOMATION IS OFF FOR CICSODEV. NO MVS COMMANDS WERE ISSUED. ussa11.SSMC 
+2001-09-11 04:06:50 Metrocall [1064375] B  ALPHA  /FTSE  5071.80  +038 NIKK  10292.95  +097 DAX    4754.44  +084 CAC40  4449.61  +065 MIB30  31777   +0213 HSI  10417.22  +0050 30 _99.02/03  5.438% GOLD271.15/165  -035 S 4.17/19  PL 439.00 PD 450.00/0.00  +000 JG 1.420%
+2001-09-11 04:06:50 Metrocall [1064385] A  ALPHA  JY  8218/8286  -059 
+2001-09-11 04:06:50 Skytel [003457197] D SH/TONE 6559    
+2001-09-11 04:06:51 Arch [0975997] D  ALPHA  OMS <omsoper@oms0 TOSC online for R\&R in Dist. 48  on the TYPHOON . Incident on TYPHOON 12.0 kv / YORBA LINDA Sub
+2001-09-11 04:06:52 Metrocall [1064385] A  ALPHA  EC  8994/8974 -0004 BP 14562/14508 -018 SF  5934/5938  +000 CD  6397/6390  -001 AD  5148/5131  +017 DM  4602/4591  -026 FES 9696/733/740/32 FDX 4759/4809  +072 PTB 8964/8880  -014 FGBS10357 FYB 13897 BDL 10804/10800-021 BDM 10714-014
+2001-09-11 04:06:53 Skytel [003263054] D  ALPHA  bcs_alert@am.sony.com|BCS Alert|BCS_PENDING_TRANSACTIONS has 140 records!  
+2001-09-11 04:06:53 Skytel [008507076] B  ALPHA  01118h4f1ab01010400002g
+2001-09-11 04:06:55 Skytel [003268440] C  ALPHA  bcs_alert@am.sony.com|BCS Alert|BCS_PENDING_TRANSACTIONS has 140 records!  
+2001-09-11 04:06:55 Skytel [003944538] C  ALPHA  NetCmmnd@wscmdpost.pncbank.com|Alert from System Management - SYSA CMB206I|MAILBOX TRANSMISSION FAILURE PR00XF8D NO LINES AVAILABLE  
+2001-09-11 04:06:57 Skytel [005330530] A ST NUM  8685222010

@@ -1,0 +1,85 @@
+2001-09-12 00:38:00 Skytel [007641456] A SH/TONE 111     
+2001-09-12 00:38:00 Skytel [002817389] D  ALPHA  CISCO_VPN@fema.gov|VPN3000 Concentrator Alert (mwvpn)|5956 09/12/2001 00:35:05.050 SEV=3 AUTH/5 RPT=15 198.182.163.109 Authentication rejected: Reason = Logon Failurehandle = 323, server = 166.112.217.148, user = jmaloney, domain = nemi
+2001-09-12 00:38:00 Skytel [007109749] B ST NUM  611-5364-03    
+2001-09-12 00:38:00 Skytel [007600634] C SH/TONE 001     
+2001-09-12 00:38:00 Skytel [005436525] D  ALPHA  Test Lotus Notes #28-IX_T1706
+2001-09-12 00:38:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8007
+2001-09-12 00:38:01 Skytel [002817389] D  ALPHA  s  
+2001-09-12 00:38:01 Skytel [003279361] A  ALPHA  3) applmgr@esc220.fmr.com|ERP Concurrent Request has ended in Error|Req: 5756823 | User: OE_BATCH | Went on Error at 09-12-01_00:34:18  
+2001-09-12 00:38:01 Skytel [004386825] C SH/TONE 229     
+2001-09-12 00:38:03 Skytel [002861584] A ST NUM  8685429388
+2001-09-12 00:38:03 Skytel [005345821] D  ALPHA  8883372867  ID: NY061013 Ticket: 354  001Comm. Line Failure
+2001-09-12 00:38:05 Arch [0060420] B  ALPHA  csulliv|Tomorrow we will return to the normal work schedule. If you do not have a regularly scheduled telecommute day, please plan on coming in. If you still feel the need to remain home, please call me at the office in the morning.  -1/2
+2001-09-12 00:38:05 Skytel [005001895] B  ALPHA  [sps/187] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/lift/healthcheck.asp) 2:44:08
+2001-09-12 00:38:05 Skytel [007546029] D ST NUM  508-757-6222-666    
+2001-09-12 00:38:06 Skytel {1092655} 3 2400 002611    
+2001-09-12 00:38:07 Arch [0060420] B  ALPHA  -Chuck    -2/2
+2001-09-12 00:38:08 Metrocall [0644286] D  ALPHA  PLZ CALL THE DESK
+2001-09-12 00:38:08 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4577
+2001-09-12 00:38:19 Metrocall [1544820] B  ALPHA  CRDC-MAIL01 "Server CRDC-MAIL01/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail2.box. "
+2001-09-12 00:38:19 Metrocall [1544818] A  ALPHA  CRDC-MAIL01 "Server CRDC-MAIL01/MSVR/KAIPERM - There are
+2001-09-12 00:38:20 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0930
+2001-09-12 00:38:21 Metrocall [1544818] A  ALPHA   no longer any pending documents older than 30 Minutes minutes in mail2.box. "
+2001-09-12 00:38:29 Arch [1025475] A  ALPHA  From root at 12:39 AM EDT: "exp@eos1614 - 06000001 5 (attwalm/wal_login.cls) 20010912.00,1000269528,161405,wal_phone,MAJ,Walmart Bailout Process PIN Db error" [CC:t6pri cst6pri liabraaten chagen] 
+2001-09-12 00:38:29 Arch [0983091] A  ALPHA  From root at 12:39 AM EDT: "exp@eos1614 - 06000001 5 (attwalm/wal_login.cls) 20010912.00,1000269528,161405,wal_phone,MAJ,Walmart Bailout Process PIN Db error" [CC:t6pri cst6pri liabraaten chagen] 
+2001-09-12 00:38:29 Arch [1650152] C  ALPHA  From root at 12:39 AM EDT: "exp@eos1614 - 06000001 5 (attwalm/wal_login.cls) 20010912.00,1000269528,161405,wal_phone,MAJ,Walmart Bailout Process PIN Db error" [CC:t6pri cst6pri liabraaten chagen] 
+2001-09-12 00:38:29 Arch [0782097] A  ALPHA  RTOP-RES;Allison Transmission;TOR-22:40 EST;SAS-up/ barcode printer rebooted;Bruce;PH-3172405623;PG-3172358404;TK-19508278 -- From: GSS-SP
+2001-09-12 00:38:29 Metrocall [1544818] A  ALPHA  Server 'HAY-NS2 Disk.E.Free = 151928832, min allowable: (300000000)
+2001-09-12 00:38:29 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3186
+2001-09-12 00:38:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3186
+2001-09-12 00:38:32 Skytel [007541378] A SH/TONE 747-0714
+2001-09-12 00:38:32 Skytel [003781251] A  ALPHA  8002330905 URGENT
+2001-09-12 00:38:32 Skytel [007480588] D SH/TONE 232-2168
+2001-09-12 00:38:33 Arch [0987275] C  ALPHA  s0191: 09/11 11:42:59 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:42:59
+2001-09-12 00:38:33 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191390. 
+2001-09-12 00:38:35 Arch [0987275] C  ALPHA  s0191: 09/11 11:48:17 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:48:18
+2001-09-12 00:38:35 Arch [0971441] A  ALPHA  csulliv|Tomorrow we will return to the normal work schedule. If you do not have a regularly scheduled telecommute day, please plan on coming in. If you still feel the need to remain home, please call me at the office in the morning.  -1/2
+2001-09-12 00:38:35 Skytel [002376872] C  ALPHA  svcaem1@conxion.net|onl-sf-2.symantec.com, HTTP, 206.204.52.77:80, Server timed out, | 
+2001-09-12 00:38:35 Skytel [004114085] B ST NUM  900-468-8888 (77    
+2001-09-12 00:38:35 Skytel [007492138] C SH/TONE 638-2806
+2001-09-12 00:38:35 Skytel [002385827] A SH/TONE 143143  
+2001-09-12 00:38:35 Skytel [007513260] D SH/TONE 671-4900
+2001-09-12 00:38:37 Arch [0987275] C  ALPHA  s0191: 09/11 11:56:22 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:56:22
+2001-09-12 00:38:37 Arch [0971441] A  ALPHA  -Chuck    -2/2
+2001-09-12 00:38:39 Arch [0987275] C  ALPHA  s0191: 09/11 11:59:03 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:59:03
+2001-09-12 00:38:39 Arch [0928602] C  ALPHA  924-0408
+2001-09-12 00:38:39 Skytel [005172289] A ST NUM  98860358675    
+2001-09-12 00:38:40 Metrocall [1898681] C  ALPHA  SLCDBS05:PATROL Alarm,Information:Alarm #1 of global parameter 'MEMmemAvailableBytes' triggered on 'NT_MEMORY.NT_MEMORY'.  0 <= 7.54 <= 10,Object Name:/NT_MEMORY/NT_MEMORY/MEMmemAvailableBytes,Extra Information:
+2001-09-12 00:38:40 Metrocall [1544818] A  ALPHA  Server '
+2001-09-12 00:38:41 Arch [0937688] C  ALPHA  530-5911
+2001-09-12 00:38:41 Skytel [007658451] A SH/TONE 482-0163
+2001-09-12 00:38:41 Skytel [005258064] A SH/TONE 802     
+2001-09-12 00:38:42 Metrocall [1544818] A  ALPHA  WDC-NS2 Disk.D.Free = 980930560, min allowable: (1000000000)
+2001-09-12 00:38:43 Skytel [005330530] A ST NUM  8685222010
+2001-09-12 00:38:43 Skytel [007593831] B ST NUM  862-840-7911-202    
+2001-09-12 00:38:45 Skytel [004553727] D  ALPHA  0007066450.Alhambra, CA        
+2001-09-12 00:38:45 Skytel [007467893] B SH/TONE 740-1108
+2001-09-12 00:38:45 Skytel [005383032] C SH/TONE 293-6960
+2001-09-12 00:38:47 Skytel [004449793] A SH/TONE 301-2973
+2001-09-12 00:38:47 Skytel [004397060] B ST NUM  205-242-0489   
+2001-09-12 00:38:48 Arch [1017704] C  ALPHA  From Tim Evans Sub:EPO update  Msg:605 of the 835 now have EPO turned back on.    Thank you,  Tim Evans      Confidential  Wal-Mart Stores, Inc.      
+2001-09-12 00:38:48 Arch [0209124] B  ALPHA  From UiA Ev.............................................................................................................................................
+2001-09-12 00:38:48 Arch [0983275] C  ALPHA  From Tim Evans Sub:EPO update  Msg:605 of the 835 now have EPO turned back on.    Thank you,  Tim Evans      Confidential  Wal-Mart Stores, Inc.      
+2001-09-12 00:38:48 Arch [0988031] D  ALPHA  From Tim EvaP..........%................................................................................................................................
+2001-09-12 00:38:48 Skytel [007465749] B ST NUM  872-395-3575   
+2001-09-12 00:38:48 Skytel [003253269] B  ALPHA  PLEASE CALL JULIE REGARDING INABILITY TO RECONFIGURE INTERNET CORP TO CORP LINK CALL BACK AT 925 754 2224
+2001-09-12 00:38:49 Metrocall [1457573] B  ALPHA  Frm: Martinez, Arthur (FUSA) Sub: Site status update. Txt: Just an FYI. All sites will be open with normal business hours tomorrow. Both Frederick and Jefferson, which were closed down due to the trag
+2001-09-12 00:38:49 Metrocall [0753848] C  ALPHA  Frm: Martinez, Arthu
+2001-09-12 00:38:49 Metrocall [0076986] C  ALPHA  Frm: Martinez, Arthur (FUSA) Sub: Site status update. Txt: Just an FYI. All sites will be open with normal business hours tomorrow. Both Frederick and Jefferson, which were closed down due to the trag
+2001-09-12 00:38:50 Skytel [004393003] C  ALPHA  Ron Gonzales requests that you join a confrence call regarding the BOS go team that started at 2330.  1 800 811 3147 pin number 49895.  thanks-Christina -CSC
+2001-09-12 00:38:50 Skytel [004584963] A ST NUM  750-455-5268-3 (3527
+2001-09-12 00:38:51 Metrocall [0525954] A  ALPHA  Server:Chelmick at 10.17.1.52 is DOWN.
+2001-09-12 00:38:51 Metrocall [0753848] C  ALPHA  r (FUSA) Sub: Site status update. Txt: Just an FYI. All sites will be open with normal business hours tomorrow. Both Frederick and Jefferson, which were closed down due to the trag
+2001-09-12 00:38:51 Metrocall [1064378] C  ALPHA  JGBS SINK ON BUDGET WOES, NIKKEI PLUNGE
+2001-09-12 00:38:51 Metrocall [1064395] C  ALPHA  )?#`B@nHHuy@BbUGaTtENSNehI|yABjqH|Vh`ksxmMX`gRY\nKIPTIeV]GbhAHDCheT@p
+2001-09-12 00:38:51 Metrocall {1235913} 2 2400 9188754....
+2001-09-12 00:38:52 Arch [0987275] C  ALPHA  s0191: 09/11 12:04:03 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:04:03
+2001-09-12 00:38:52 Skytel [003904573] D  ALPHA  216-664-7886
+2001-09-12 00:38:52 Skytel [005258806] B SH/TONE 28871   
+2001-09-12 00:38:52 Skytel [007553981] D ST NUM  210-776-0071   
+2001-09-12 00:38:54 Arch [0987275] C  ALPHA  s0191: 09/11 12:12:06 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:12:07
+2001-09-12 00:38:54 Skytel [005310789] B ST NUM  353-835-6064   
+2001-09-12 00:38:54 Skytel [007057995] C SH/TONE 65412   
+2001-09-12 00:38:56 Arch [0987275] C  ALPHA  s0191: 09/11 12:14:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:14:49
+2001-09-12 00:38:58 Arch [0987275] C  ALPHA  s0191: 09/11 12:20:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:20:24
+2001-09-12 00:38:58 Skytel [007491946] C SH/TONE 889-2789

@@ -1,0 +1,68 @@
+2001-09-11 05:26:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2033
+2001-09-11 05:26:00 Metrocall [1314835] A  ALPHA  s2,00501423,SEV 2 TCKT OPENED,SPRRSM1,SPRRSM1 OV_IF_DOWN Interface Serial0/0 dow
+2001-09-11 05:26:00 Metrocall [1877271] B  ALPHA  s2,00501423,ack,SPRRSM1 ,SPRRSM1 OV_IF_DOWN Interface Serial0/0 down.
+2001-09-11 05:26:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2033
+2001-09-11 05:26:01 Skytel [003471110] B SH/TONE 071     
+2001-09-11 05:26:03 Skytel [003249040] A  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:03 Skytel [005102994] A  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:03 Skytel [007047957] B  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6855
+2001-09-11 05:26:04 Skytel {0143279} 3 1200 202-685-7650   
+2001-09-11 05:26:05 Skytel {1092655} 3 2400 002227    
+2001-09-11 05:26:09 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE > 1 HL Faults       Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[035]  dev_err[239]
+2001-09-11 05:26:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9778
+2001-09-11 05:26:30 Arch [0925366] B  ALPHA   318643;Sep 11 01:27:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 05:26:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3426
+2001-09-11 05:26:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 02:26:13 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:26:31 Skytel [003937421] D  ALPHA  [iciuser]: SUCCESS SID=iota0
+2001-09-11 05:26:33 Metrocall [0134738] A  ALPHA  sance Hotels!
+2001-09-11 05:26:35 Skytel [005105954] A ST NUM  925-352-6911-911143 
+2001-09-11 05:26:35 Skytel [004407331] A  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:35 Skytel [005358755] A  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:35 Skytel [004390436] B SH/TONE 17593   
+2001-09-11 05:26:35 Skytel [003934628] B  ALPHA  DELAY CODE: +8MS
+2001-09-11 05:26:35 Skytel [003919781] B  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:35 Skytel [003921578] C  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:37 Skytel [004398004] B  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:37 Skytel [007502001] A SH/TONE 4144    
+2001-09-11 05:26:37 Skytel [0000060] D  ALPHA  FLIGHT 1493 RST IS DOING A BLOCK TURN BACK INTO GATE 110.-hub dispatch
+2001-09-11 05:26:37 Skytel [002697525] B  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:37 Skytel [005090481] A  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:38 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178398. 
+2001-09-11 05:26:38 Skytel [005041217] A  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:38 Skytel [005137480] C  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Eu
+2001-09-11 05:26:38 Skytel [003914179] A  ALPHA  .rE._..t..r@.a#.e ......................................................................................................................... to discuss 04:35.  
+2001-09-11 05:26:38 Skytel [007553347] A  ALPHA  4Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Eu
+2001-09-11 05:26:38 Skytel [005112776] C  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:38 Skytel [003328836] B  ALPHA  Karen_Rit..r@.a!.e..a....m..F.@........................................................................................................................04:35.  
+2001-09-11 05:26:40 Skytel [005137480] C  ALPHA  ropay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:40 Skytel [005355869] D  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover to BOS2LKS. Please call to discu
+2001-09-11 05:26:40 Skytel [007553347] A  ALPHA  ropay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:40 Skytel [007557591] B  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover to BOS2LKS. Please call to discu
+2001-09-11 05:26:40 Skytel [005509465] C  ALPHA  1) Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:40 Skytel [004537169] A  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:40 Skytel [007558487] B  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Eu
+2001-09-11 05:26:42 Skytel [005355869] D  ALPHA  ss 04:35.  
+2001-09-11 05:26:42 Skytel [004524770] A  ALPHA  spr-AeroFasteners-Westfield-01: CPE Up at 00:59:45 on 9/11
+2001-09-11 05:26:42 Skytel [005351137] A  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 
+2001-09-11 05:26:42 Skytel [007557591] B  ALPHA  ss 04:35.  
+2001-09-11 05:26:42 Skytel [005436525] D  ALPHA  Test Message #49-IX_T0110
+2001-09-11 05:26:42 Skytel [007554914] A  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:42 Skytel [005187817] C SH/TONE 1 (62   
+2001-09-11 05:26:42 Skytel [005132640] A  ALPHA  13) esldb@us.ibm.com|TBCRAL|FSGW- CUST OWNED > 30 MIN .  Please call T/L 650-3205 or 1-800-664-6895 PC 145134  
+2001-09-11 05:26:42 Skytel [007558487] B  ALPHA  ropay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:42 Skytel [005226605] D ST NUM  9683241853
+2001-09-11 05:26:42 Skytel [005112809] C  ALPHA  B U
+2001-09-11 05:26:42 Skytel [005102061] D  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover
+2001-09-11 05:26:44 Skytel [005351137] A  ALPHA  04:35.  
+2001-09-11 05:26:44 Skytel [005059705] C SH/TONE 1229    
+2001-09-11 05:26:44 Skytel [005344380] D  ALPHA  Karen_Ritter@Mastercard.com||From:Karen Ritter314-514-4230prt18009380653Europay settlement is late. BOS2STL failover to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:44 Skytel [002396156] D SH/TONE 4359    
+2001-09-11 05:26:44 Skytel [005102061] D  ALPHA   to BOS2LKS. Please call to discuss 04:35.  
+2001-09-11 05:26:48 Skytel [007603477] B SH/TONE 342     
+2001-09-11 05:26:49 Arch [1052328] C  ALPHA  Cisco WWW-madness|txnotfclassbegin.pl cronjob done ||52  
+2001-09-11 05:26:50 Metrocall [002567097] C  ALPHA  KFC Petal MS: C-Store   AC 2 DISCH  SNS FAIL
+2001-09-11 05:26:51 Skytel [0001461] B  ALPHA  GLOBEX   04:25     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109950   375+   SPU  109950   380+   NDU  138150A 1100+   6JZ    8286A   57-   6EZ    8946B   34-   6SZ    5922    18-   6BZ   14492    36-   6CZ    6395A    5+   
+2001-09-11 05:26:53 Skytel [003641413] B ST NUM  710-395-0580 (84    
+2001-09-11 05:26:55 Skytel [1800019] A  ALPHA  GLOBEX   04:25     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109950   375+   SPU  109950   380+   NDU  138150A 1100+   6JZ    8286A   57-   6EZ    8946B   34-   6SZ    5922    18-   6BZ   14492    36-   6CZ    6395A    5+   
+2001-09-11 05:26:55 Skytel [004593755] C SH/TONE 445-6579

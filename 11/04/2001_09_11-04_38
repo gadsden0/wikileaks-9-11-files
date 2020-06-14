@@ -1,0 +1,53 @@
+2001-09-11 04:38:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1985
+2001-09-11 04:38:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1985
+2001-09-11 04:38:01 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 01:37:58 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 04:38:03 Skytel {1599702} 1 2400 3492 (6.
+2001-09-11 04:38:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6807
+2001-09-11 04:38:04 Skytel {1092655} 3 2400 002211    
+2001-09-11 04:38:06 Arch [0000101] B  ALPHA  MSN 095 hello Message from NOC PCB.
+2001-09-11 04:38:07 Metrocall {1210875} 1 2400 ANS SERVICE/SNOWDEN/899-1700//SNOWDEN-TELEPHONE SIGNAL FOR FIRE ALARM TROUBLE--MONITOR CO 888-746-7539...
+2001-09-11 04:38:10 Arch [0860698] C  ALPHA  follow up with more information as soon as possible.    -2/2
+2001-09-11 04:38:10 Arch [0911096] C  ALPHA   For your reference, UNICON is currently experiencing difficulty with the Instructor and Student Community Sites. We are receiving an Internal Server Error message when accessing the sites. We are troubleshooting the problem and will  -1/2
+2001-09-11 04:38:12 Arch [0911096] C  ALPHA  follow up with more information as soon as possible.    -2/2
+2001-09-11 04:38:14 Arch [0891458] A  ALPHA  ALERT -Beacon batch job BEAJD215 missed 04:30 SLA, being addressed by Vast. NO ETA
+2001-09-11 04:38:19 Arch [0618628] B  ALPHA  [HP OpenView BDC1]Warning hrnais01.ais_dmn_01 node down 
+2001-09-11 04:38:19 Arch [0492587] C  ALPHA  STALL DNS54EEZ.DBF R       3000
+2001-09-11 04:38:20 Metrocall [1064391] B  ALPHA  LME FUTURES       MCU_1440/1443 -004 MAL 1372/1375 -004 MAA 1143/1147 -012 MNI 5080/5105 -050 MSN 3740/3760 -035 MPB 4780/4800 -020 MZN _830/_832 -005
+2001-09-11 04:38:20 Metrocall [1544820] B  ALPHA  IWHub ServerWatch Notification - Server GREN-ST1/CA/SSVR/KAIPERM is NOT Responding WARNIN
+2001-09-11 04:38:20 Metrocall [1064381] D  ALPHA  NYMEX CRUDE FLAT, SEEKS DIRECTION FROM STOCKS DATA
+2001-09-11 04:38:20 Metrocall [1064378] C  ALPHA  INTL BONDS-WEAKER TONE BUT KPN AND BT IN DEMAND
+2001-09-11 04:38:20 Metrocall [1064395] C  ALPHA  )?#`B@uHI@n@CBSNjSDDJ_NbTum^KAeqZRBiOgQTDJkTPRzDyAAgQDDJh`dsdDRKM`shb@RA@uo}`L
+2001-09-11 04:38:22 Metrocall [1544820] B  ALPHA  G:Server GREN-ST1/CA/SSVR/KAIPERM is not responding. Reason:Unable to find path to server
+2001-09-11 04:38:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9730
+2001-09-11 04:38:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177889. 
+2001-09-11 04:38:30 Metrocall [1544818] A  ALPHA  IWHub ServerWatch Notification - Server GREN-ST1/CA/SSVR/KAIPERM is NOT Responding WARNING:Server GREN-ST1/CA/SSVR/KAIPERM is not responding. Reason:Unable to find path to server
+2001-09-11 04:38:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3378
+2001-09-11 04:38:32 Arch [1635918] D  ALPHA  |MyVisto Alerts <aler|New Email at jt@visto.com|F: info@mail.e-centives.com S: Save Up to $300 on Your Next Vacati |
+2001-09-11 04:38:32 Arch [0844432] A  ALPHA  root <root@local|Host UCB-e0/0 is DOWN!|***** NetSaint 0.0.4 *****\n\nHost "e0/0 63.136.160.1" is DOWN!\n\nDate/Time: Tue Sep 11 04:28:59 2001 \n 
+2001-09-11 04:38:32 Arch [0555028] B  ALPHA  root <root@local|Host UCB-e0/0 is DOWN!|***** NetSaint 0.0.4 *****\n\nHost "e0/0 63.136.160.1" is DOWN!\n\nDate/Time: Tue Sep 11 04:29:01 2001 \n 
+2001-09-11 04:38:33 Skytel [002401821] D  ALPHA  saspcd00 Distributed Monitoring PALM.dm.ussa17.Unix.saspcd00/Daemon status on host saspcd00 09/11/01 01:32:18 PDT  Status: >>> critical <<< ussa17.PALM 
+2001-09-11 04:38:35 Skytel [005047463] B  ALPHA  FYI:PROB136426 Status Is Transfer : To: infrastructure dev group: User is getting a security error when trying to search - contact Mike at:952 841-5740- ex 71527
+2001-09-11 04:38:35 Skytel [005259174] B ST NUM  004-3010-2
+2001-09-11 04:38:40 Skytel [005110361] C  ALPHA  Subject: FYI - SRNT 31656  - Issue Resolved IP: 129.33.47.164 Problem Type: HTTP Start: 04:35 on 09-11 Resolved: 04:40 on 09-11 
+2001-09-11 04:38:40 Skytel [005429207] B  ALPHA  AMD 11.85 +0.35 INTC 26.07 +0.18 KLAC 44.20 -0.12 PFE 38.17 +1.17 (45
+2001-09-11 04:38:40 Skytel [003279824] A  ALPHA  SCNG 0.00 UNCH SEG 0.00 UNCH LXK 48.05 -0.25 DEC 0.00 UNCH
+2001-09-11 04:38:40 Skytel [003930581] B  ALPHA  apadmin1@household.com||T512740, PEAR4251 HAS ABENDED ON HCSA WITH A RETURN CODE OF:R-0016. JOB ABEND TIME: 11 SEP 2001 01:12:25   
+2001-09-11 04:38:40 Skytel [005436371] A  ALPHA  follow up with more information as soon as possible.    -2/2 (26
+2001-09-11 04:38:42 Skytel [005112809] C  ALPHA  03:36CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240432: Uncorrectable write error
+2001-09-11 04:38:42 Skytel [004524770] A  ALPHA  wor-AllegroMicrosystem-Worcester: CPE Up at 00:58:41 on 9/11
+2001-09-11 04:38:42 Skytel [005436525] D  ALPHA  Test #68
+2001-09-11 04:38:42 Skytel [003926118] B SH/TONE 6270    
+2001-09-11 04:38:42 Skytel [005226605] D ST NUM  8684241848
+2001-09-11 04:38:44 Arch [1275092] B  ALPHA  ID: 215345 Host: I01188-prt1 Text: DTA021 8  
+2001-09-11 04:38:44 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-11 04:38:44 Skytel [007109749] B ST NUM  0-707-411-1467 
+2001-09-11 04:38:44 Skytel [003072125] D  ALPHA  COMP 1689.37 +1.67 PAGE 0.00 UNCH
+2001-09-11 04:38:46 Skytel [005105030] B  ALPHA  psodsdw@djpsods.us.tycoelectronics.com|Shipping DM Refreshed|  > ---------- > From:  Data Warehouse, (Fred Bowen) > Sent:  Tuesday, September 11, 2001 3:38:55 AM > To:  businessobjectsrefresh@powerdev.us.tycoelectronics.com > Subject:  Ship
+2001-09-11 04:38:49 Arch [1036189] D  ALPHA  Y!||Fr: pronabd@telco.co.in *urgent* my dear goutam ami to opakha kora achi koba todar dahka Mail|97  
+2001-09-11 04:38:49 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 04:38:49 Arch [0320272] A  ALPHA  [HP OpenView BDC1]Warning hrnais01.ais_dmn_01 node down 
+2001-09-11 04:38:50 Metrocall [1545558] B  ALPHA  Frm: EA System Notification,GLENDALE,MIS Sub: TPM Problem 00820067 Txt: Hostname: bur1nt06 Description: Examine Backup Exec recent job history log for details on error backup. Job "BUR1NT06-ID5-IR" ended in an error state. Examine recent ev
+2001-09-11 04:38:50 Metrocall [1544818] A  ALPHA  Server 'WDC-NS2 Disk.D.Free = 998907904, min allowable: (1000000000)
+2001-09-11 04:38:51 Skytel [005506996] B  ALPHA  PRGIX 21.36 -0.34 PRSCX 18.21 -0.02 PRITX 10.85 -0.17 PRWAX 27.78 -0.55
+2001-09-11 04:38:57 Skytel [005132640] A  ALPHA  reharris@us.ibm.com||NSALERT2 Clsd Pathmark 2374508 SEV: 2 Dur: 5.7 HR(s) SMRY:  Robbie E Harris Pathmark Store 535 circuit is up.  Contacted store support and verified RISC is up but controller is down.  Transferring ticket to NSTRANS.  
+2001-09-11 04:38:57 Skytel [005043559] B  ALPHA  150.ARENER MANUFACT     

@@ -1,0 +1,96 @@
+2001-09-12 00:32:00 Skytel [005001838] D  ALPHA  ANTON ISLAND AREA. THERE IS NO ETR AT THIS TIME. CUSTOMER IMPACT AND INCIDENT DURATION 4 HOUR 45 MINS. RRL/NNOC
+2001-09-12 00:32:00 Skytel [007109749] B ST NUM  0-114-317-4005-64   
+2001-09-12 00:32:00 Skytel [007649403] C ST NUM  816-502-3241   
+2001-09-12 00:32:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8001
+2001-09-12 00:32:01 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-12 00:32:01 Arch [0392061] D  ALPHA  The VISTA Retail VRS currently has 20 staffed agent(s). There should be 40.
+2001-09-12 00:32:02 Skytel [005386632] C  ALPHA  bb@fw1-qw1.quicknet.net|!BB - 1038611! ec1-qw1.quicknet.net.http - 600010009100010|[1038611]   ec1-qw1.quicknet.net.http red  Tue Sep 11 21:32:12 PDT 2001    &green https://store1.quicknet.net/cgi-bin/dialpad?  DCP1 - Server OK HTTP/1.1 200
+2001-09-12 00:32:02 Skytel [005386637] D  ALPHA  bb@fw1-qw1.quicknet.net|!BB - 1038610! ec1-qw1.quicknet.net.http - 600010009100010|[1038610]   ec1-qw1.quicknet.net.http red  Tue Sep 11 21:32:12 PDT 2001    &green https://store1.quicknet.net/cgi-bin/dialpad?  DCP1 - Server OK HTTP/1.1 200
+2001-09-12 00:32:03 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-12 00:32:03 Arch [0241791] D  ALPHA  (19)REQQ time limit exceeded for:PASSPORT_STP_D:12-sep-2001 00:19
+2001-09-12 00:32:03 Skytel [003414162] A SH/TONE 599-8480
+2001-09-12 00:32:03 Skytel [002401821] D  ALPHA  ssmcscsm13 N/A CBB0SMTP01:Agent:caiW2kOs:w2kLVolInst:Critical Logical Disk/File System C:.  
+2001-09-12 00:32:05 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-12 00:32:05 Skytel [005001895] B  ALPHA  [sps/187] 200 sps-apps1.cps.intel.com relay-ssl 0.453 Application isokay (/lift/healthcheck.asp) 4:29:09
+2001-09-12 00:32:05 Skytel [005101355] C SH/TONE 218-1423
+2001-09-12 00:32:05 Skytel [003457197] D SH/TONE 6559    
+2001-09-12 00:32:06 Skytel {1092655} 3 2400 002609    
+2001-09-12 00:32:08 Metrocall [1865024] A  ALPHA  Frm: SMTPPAGE@gulfaero.com Sub: SILO Txt: SUBPOOL STANDARD, 83 SCRATCH VOLUMES REMAINING 09/12/01 00:32:02
+2001-09-12 00:32:08 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4571
+2001-09-12 00:32:18 Arch [0983764] B  ALPHA  89-HI, DAD.  I KNOW IT IS LATE.  I AM EXHAUSTED.  I AM SURE YOU ARE TOO.  I WANTED TO TELL YOU THAT I LOVE YOU.  AT YOUR EARLIEST CONVENIENCE, I WOULD LIKE TO HEAR FROM YOU.  JOY THOU SPARK FROM FLAME
+2001-09-12 00:32:20 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0924
+2001-09-12 00:32:20 Arch [0983764] B  ALPHA  2...TOGETHER ALL WHOM EARTH BORN LAWS DIVIDE.  ALL MAN KIND SHALL BE AS BROTHERS NEATH BY TENDER RING AND WIDE.  AMBIR.
+2001-09-12 00:32:22 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-12 00:32:22 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191320. 
+2001-09-12 00:32:24 Arch [0987275] C  ALPHA  s0191: 09/11 15:41:26 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:41:26
+2001-09-12 00:32:24 Arch [1052209] A  ALPHA  bdavenpo|dottie is at the sheraton, one courier there, will not release package, she would like other courier to meet her at sheraton as well. bill   
+2001-09-12 00:32:26 Arch [0987275] C  ALPHA  s0191: 09/11 15:47:33 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:47:34
+2001-09-12 00:32:31 Arch [0904228] B  ALPHA  vejain|pl log to msn - janu.   
+2001-09-12 00:32:31 Metrocall [1064387] A  ALPHA  5/2117/241+000 CC _865/922/935 +000 OJ 8025/8250/835+000 YX 56900/57150 +0000 CR 19820/19970 +0000 DX 11464/11501  +000 EJ 10872/10761  +000  RK 95565/95625  +000
+2001-09-12 00:32:31 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL N
+2001-09-12 00:32:31 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3180
+2001-09-12 00:32:32 Metrocall [0476499] A  ALPHA  UMBER  3180
+2001-09-12 00:32:32 Skytel [002363657] C SH/TONE 7869    
+2001-09-12 00:32:32 Skytel [003250311] B  ALPHA  SMT:VA:L3:GCPADMIN: 50332080: ERROR PROCESSING FILE /U/GCPP/GCPFILES/OKACHNM001.DAT /U/GCPP/GCPFILES:Call 8882917023:SENDID# 1938 : 
+2001-09-12 00:32:32 Skytel [005240334] D SH/TONE 7866    
+2001-09-12 00:32:32 Skytel [007579147] C SH/TONE 1034    
+2001-09-12 00:32:32 Skytel [002574733] D ST NUM  918-781-1659   
+2001-09-12 00:32:33 Skytel [003474066] A SH/TONE 201     
+2001-09-12 00:32:33 Skytel [002840474] C ST NUM  948-6563 U
+2001-09-12 00:32:33 Skytel [005061265] A ST NUM  703-245-3292   
+2001-09-12 00:32:33 Skytel [004746504] C ST NUM  224-559-4662   
+2001-09-12 00:32:33 Skytel [003483166] D SH/TONE 96951522
+2001-09-12 00:32:37 Skytel [005213503] D  ALPHA  MINHOI, CANNOT FEEL JOHN, CANNOT FEEL MOM OR DAD. LOST CALL ME  (65
+2001-09-12 00:32:37 Skytel [002149682] A SH/TONE 2323 (20
+2001-09-12 00:32:37 Skytel [007552050] A  ALPHA  CALL YOUR WIFE @ HOME ASAP...SHE'S WORRIED ABOUT YOU
+2001-09-12 00:32:37 Skytel [0001461] B  ALPHA  GLOBEX   23:31     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ---- 
+2001-09-12 00:32:37 Skytel [003259708] D SH/TONE 3889 (2 
+2001-09-12 00:32:37 Skytel [002350776] C ST NUM  9005428304
+2001-09-12 00:32:37 Skytel [007000764] D  ALPHA  Id@NowOpn.com||127/11   [665
+2001-09-12 00:32:37 Skytel [003979957] B  ALPHA  Hora: 23:39:08 Host_Sun 140.148.13.21 tiranoray.pue.udlap.mx causa:10009 ID:1836 set
+2001-09-12 00:32:39 Skytel [0001461] B  ALPHA    6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 00:32:39 Skytel [007567428] B ST NUM  60081689111436969187
+2001-09-12 00:32:39 Skytel [004587207] B SH/TONE 1289    
+2001-09-12 00:32:39 Skytel [007638088] C SH/TONE 531     
+2001-09-12 00:32:39 Skytel [007585485] D SH/TONE 530-6447
+2001-09-12 00:32:41 Skytel [005384405] B  ALPHA  bb@fw1-qw1.quicknet.net|!BB - 1038612! ec1-qw1.quicknet.net.http - 600010009100010|[1038612]   ec1-qw1.quicknet.net.http red  Tue Sep 11 21:32:12 PDT 2001    &green https://store1.quicknet.net/cgi-bin/dialpad?  DCP1 - Server OK HTTP/1.1 200
+2001-09-12 00:32:41 Skytel [004547038] D SH/TONE 800-7473
+2001-09-12 00:32:41 Skytel [1800019] A  ALPHA  GLOBEX   23:31     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 00:32:41 Skytel [007649372] D ST NUM  809-359-1686   
+2001-09-12 00:32:42 Arch [0987275] C  ALPHA  s0191: 09/11 15:50:15 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:50:16
+2001-09-12 00:32:43 Skytel [003922535] B  ALPHA  IASO1328PONGCHEN/SGSG0118S1:Volume 001411 cannot be used by this system.
+2001-09-12 00:32:43 Skytel [007609061] B SH/TONE 111-1111
+2001-09-12 00:32:43 Skytel [007491946] C ST NUM  250-406-8911-143911 
+2001-09-12 00:32:43 Skytel [003926118] B SH/TONE 6270    
+2001-09-12 00:32:44 Arch [0987275] C  ALPHA  sb3: INFO0002 - Trade Count Mismatch Ora=825 Rec=0 (160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:52
+2001-09-12 00:32:45 Skytel [003875698] A ST NUM  670-668-7420   
+2001-09-12 00:32:45 Skytel [005446133] B ST NUM  410-632-1175   
+2001-09-12 00:32:45 Skytel [007062907] C SH/TONE 340     
+2001-09-12 00:32:45 Skytel [004417147] C SH/TONE 25854   
+2001-09-12 00:32:45 Skytel [004681595] C ST NUM  614-438-5577   
+2001-09-12 00:32:46 Arch [0987275] C  ALPHA  s0191: 09/11 15:56:49 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:56:49
+2001-09-12 00:32:47 Skytel [002264712] C ST NUM  540-974-0174   
+2001-09-12 00:32:47 Skytel [007480588] D ST NUM  05102322168911911   
+2001-09-12 00:32:48 Arch [0969489] A  ALPHA  The report y2k_gwr never printed on LP8. Norman of operations stated that he never got any print outs from LP8. john 920-6110
+2001-09-12 00:32:49 Metrocall [1830608] A  ALPHA  Frm: IPSentryMonitor@eroom.com Sub: Alert Update Alchemy - Processor is (DOWN) Txt: Alchemy - Processor (Monitor CPU %) is above 70%.
+2001-09-12 00:32:49 Metrocall [1830606] D  ALPHA  Frm: IPSentryMonitor@eroom.com Sub: Alert Update Alchemy - Processor is
+2001-09-12 00:32:49 Metrocall [1260987] C  ALPHA  Frm: IPSentryMonitor@eroom.com Sub: Alert Update Alchemy - Processor is (DOWN) Txt: Alchemy - Processor (Monitor CPU %) is above 70%.
+2001-09-12 00:32:49 Metrocall [1284318] D  ALPHA  3,20010911-337766,9252242906,OLIVEIRA DK,3050-8A,4430 ROSEWOOD DR @ BLDG 3,llama.hr.att.com BMC
+2001-09-12 00:32:51 Metrocall [002562847] D  ALPHA  3,20010911-337766,9252242906,OLIVEIRA DK,3050-8A,4430 ROSEWOOD DR @ BLDG 3,llama.hr.att.com BMC> The array7 filesystem i
+2001-09-12 00:32:51 Metrocall [1830606] D  ALPHA   (DOWN) Txt: Alchemy - Processor (Monitor CPU %) is above 70%.
+2001-09-12 00:32:51 Metrocall [1284318] D  ALPHA  > The array7 filesystem i
+2001-09-12 00:32:52 Arch [1142036] B  ALPHA  311 MOSXS2:Device Accessible,Device Status:Ok
+2001-09-12 00:32:52 Skytel [005258806] B ST NUM  0-213-480-1318 
+2001-09-12 00:32:52 Skytel [005429941] B ST NUM  657-631-6180 (54    
+2001-09-12 00:32:52 Skytel [002281912] C ST NUM  0-402-455-6033 
+2001-09-12 00:32:52 Skytel [007069367] B  ALPHA  no_reply@katewwdb.com|CommuniKate voice 21:32|34 sec voice msg from Steve Limber 1-888-297-9288 in m
+2001-09-12 00:32:54 Arch [0471543] B  ALPHA  rberryhi|Karl, If you want to go into the office, you can work on the aging report ... epage me and let me know if you will be going in .... Rod   
+2001-09-12 00:32:54 Skytel [007650115] A ST NUM  08007243624    
+2001-09-12 00:32:54 Skytel [005207748] B ST NUM  9005586621
+2001-09-12 00:32:54 Skytel [003935040] A  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:32:54 Skytel [004746939] C SH/TONE 2075    
+2001-09-12 00:32:56 Skytel [004525267] A ST NUM  645-7185 (1    
+2001-09-12 00:32:58 Skytel [005436525] D  ALPHA  Test Lotus Notes #3-IX_T1708
+2001-09-12 00:32:58 Skytel [007649639] B ST NUM  988-636-2186   
+2001-09-12 00:32:58 Skytel [002746479] D ST NUM  917-498-3310   
+2001-09-12 00:32:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8002

@@ -1,0 +1,114 @@
+2001-09-12 02:40:00 Metrocall [1362298] C  ALPHA  Frm: Optivity@harbortech.com Sub: Operator Attention Txt: Operator Attention is needed. (Server: "OPTIVITY-NJ" Job: "SNMPc & HPOV:Diff" Device: "HP 1") Please insert overwritable media into the drive.
+2001-09-12 02:40:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4699
+2001-09-12 02:40:00 Skytel [005094397] D  ALPHA  NTManage@bsmg.com|Message from NTManage|This Message is from NMS: Device Name: westbw07bsmg Address: 144.210.154.10 is Not Reachable Type: Windows NT Server Ping: REQ Timed Out NMS: Device in severe error state - all other checks aborted.  
+2001-09-12 02:40:01 Arch [0987275] C  ALPHA  s0191: 09/11 12:44:46 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:44:47
+2001-09-12 02:40:03 Skytel [002401821] D  ALPHA  saspcd03 Distributed Monitoring PALM.dm.ussa17.Unix.saspcd03/Daemon status on host saspcd03 09/11/01 23:39:14 PDT  Status: >>> critical <<< ussa17.PALM 
+2001-09-12 02:40:04 Arch [1046344] C  ALPHA  timbrow|it-lan-sj-duty pls call ops at 408-527-0007 re: tacsuns online for you problem with router. timbrow/ops   
+2001-09-12 02:40:04 Skytel {0743995} 1 2400 800-344-8041   
+2001-09-12 02:40:10 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-12 02:40:10 Metrocall [0111410] A  ALPHA  HELICOPTER LANDING ETA 2:40AM
+2001-09-12 02:40:10 Metrocall [002534882] A  ALPHA  PM197625 Sev: 2 Grp: pya prod svcs Loc: headquarters Name: tivoli Ph: 866-479-2873 Descr: pts1cto4
+2001-09-12 02:40:12 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-12 02:40:14 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-12 02:40:14 Arch [1603423] D  ALPHA  (7)18:ABS:
+2001-09-12 02:40:14 Arch [0625556] B  ALPHA  (23)27:ABS:
+2001-09-12 02:40:14 Arch [0551496] C  ALPHA  (25)18:ABS:
+2001-09-12 02:40:14 Arch [1424644] B  ALPHA  (7)32:ABS:
+2001-09-12 02:40:14 Arch [0508023] B  ALPHA  Super-User <root|!BB - 5575010! hp3000.namins.com|[5575010] hp3000.namins.com.conn red Wed Sep 12 02:40:52 EDT 2001 bb-network.sh: Can't ping hp3000.namins.com... Please see: http://bass.namins.com/bb/html/hp3000.namins.com.conn.html 
+2001-09-12 02:40:14 Arch [0551562] C  ALPHA  (24)18:ABS:
+2001-09-12 02:40:14 Arch [1318953] C  ALPHA  (30)27:ABS:
+2001-09-12 02:40:14 Arch [1414685] D  ALPHA  916 531-0911
+2001-09-12 02:40:19 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE TMS Functional      Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[000]  dev_err[056]
+2001-09-12 02:40:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1052
+2001-09-12 02:40:21 Arch [0568120] C  ALPHA  [01/02]:The Problem with ID 00330787 Severity 1 Description job mchr1610 abended with a rc=12 in step040......critical as per the jobdoc. has not been resolved.It has been...
+2001-09-12 02:40:23 Arch [0568120] C  ALPHA  [02/02] escalated to level 3 on 09/12/2001 at 00:47:55.
+2001-09-12 02:40:27 Arch [0905780] B  ALPHA  ISHD1380870 - AACCtest - SitMan Page: All Nashville users are again not receiving screen pops. App Adm and AD engaged. Sitman Mike Bruns 816-965-1559 . No ETC   - 220022 - 1.800.808.1058 options 2,1,1
+2001-09-12 02:40:29 Arch [0936036] B  ALPHA  'lon-sls-rtr-s0' is unreachable. Circuit down?
+2001-09-12 02:40:30 Metrocall [0958628] B  ALPHA  PM197636 Sev: 2 Grp: ais db support - datacom Loc: charlotte Name: tivoli Ph: 864-987-5620 Descr: oxp5ewk1
+2001-09-12 02:40:30 Metrocall [0958628] B  ALPHA  PM197639 Sev: 2 Grp: ais db support - datacom Loc: montgomery Name: tivoli Ph: 864-987-5620 Descr: oxp5ywk1
+2001-09-12 02:40:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3308
+2001-09-12 02:40:31 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-12 02:40:31 Arch [0968978] A  ALPHA  NY03 -> NY41 complete.  Chuck and Tom
+2001-09-12 02:40:32 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-12 02:40:32 Metrocall [0958628] B  ALPHA  PM197638 Sev: 2 Grp: ais db support - datacom Loc: montgomery Name: tivoli Ph: 864-987-5620 Descr: oxp5ywk1
+2001-09-12 02:40:32 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3308
+2001-09-12 02:40:32 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 23:40:40 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 02:40:33 Skytel [004541330] A ST NUM  900-841-1640   
+2001-09-12 02:40:33 Skytel [007552656] A SH/TONE 4892    
+2001-09-12 02:40:34 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-12 02:40:34 Arch [0509147] C  ALPHA  (7)19:ABS:
+2001-09-12 02:40:34 Arch [1376997] B  ALPHA  (16)18:ABS:
+2001-09-12 02:40:34 Arch [1318687] D  ALPHA  (23)24:ABS:
+2001-09-12 02:40:35 Skytel [004417186] A ST NUM  370-0311-2
+2001-09-12 02:40:35 Skytel [005001895] B  ALPHA  [sps/122] 200 sps-apps1.cps.intel.com relay 0.378 BDE ePO Servicesare running.<BR> (/metrios/healthcheck[XMLJunctionEPO].asp) 3:43:50
+2001-09-12 02:40:35 Skytel [007464358] B SH/TONE 5167    
+2001-09-12 02:40:35 Skytel [007552680] C  ALPHA  uropa@nuvo.com|Nuvo ticket #000000001229129|At 02:15:01 the device restarted by power-on.   rAWCLsdc01>sh ver Cisco Internetwork Operating System Software  IOS (tm) C2600 Software (C2600-DS-M), Version 12.1(2)T,  RELEASE SOFTWARE (fc1) 
+2001-09-12 02:40:35 Skytel [003269678] D  ALPHA  Job has aborted MPE #J2663 Job name: FL3LD008 System: Host
+2001-09-12 02:40:36 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-12 02:40:37 Skytel [0001075] A  ALPHA  Input needs 5 handlers, go to input
+2001-09-12 02:40:37 Skytel [009993376] A ST NUM  730-224-4672-1111   
+2001-09-12 02:40:37 Skytel [0001074] A  ALPHA  Input needs 5 handlers, go to input
+2001-09-12 02:40:37 Skytel [007552680] C  ALPHA  Copy
+2001-09-12 02:40:37 Skytel [005243307] C SH/TONE 800-7125
+2001-09-12 02:40:38 Metrocall [1064385] A  ALPHA  JY  8317/8385  +042 EC  9067/9047 +0067 BP 14526/14300 +000 SF  6005/6010  +070 CD  6388/6380  -010 AD  5169/5152  +031 DM  4636/4626  +034 FES 9708/751/758/50 FDX 4270/4314  -416 PTB 9040/8940  +003 FGBS10432 FYB 13897 BDL 10893/10861+003 BDM 10848+0
+2001-09-12 02:40:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:40:39 Skytel [004539594] C  ALPHA  Input needs 5 handlers, go to input
+2001-09-12 02:40:39 Skytel [005094095] D  ALPHA  alerts@CSFBdirect.com| ALERT|CBS No U.S. securities to trade on Wed Sep 12 - Instinet  
+2001-09-12 02:40:40 Metrocall [1064385] A  ALPHA  18
+2001-09-12 02:40:41 Skytel [004089043] A SH/TONE 14722   
+2001-09-12 02:40:41 Skytel [002359129] C  ALPHA  Input needs 5 handlers, go to input
+2001-09-12 02:40:41 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job112907 SNYC11307 09/12 02:40 CPU
+2001-09-12 02:40:41 Skytel [007008212] B SH/TONE 0311    
+2001-09-12 02:40:42 Arch [0978397] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:37      
+2001-09-12 02:40:42 Arch [0929241] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - ru
+2001-09-12 02:40:42 Arch [1034476] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:37      
+2001-09-12 02:40:42 Arch [0076486] B  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - ru
+2001-09-12 02:40:42 Arch [0163974] B  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:37      
+2001-09-12 02:40:42 Arch [0000101] B  ALPHA  MSN 092 hello Message from NOC PCB.
+2001-09-12 02:40:42 Arch [0983275] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:37      
+2001-09-12 02:40:43 Skytel [005330530] A ST NUM  8685222010
+2001-09-12 02:40:43 Skytel [002752224] A SH/TONE 7852 (3 
+2001-09-12 02:40:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #44-IX_T4609
+2001-09-12 02:40:43 Skytel [004752740] B SH/TONE 219     
+2001-09-12 02:40:43 Skytel [007569257] C ST NUM  223-292-9123   
+2001-09-12 02:40:43 Skytel [005105134] D  ALPHA  OB CM 09/12/01 @ 02:45 nenpro3  
+2001-09-12 02:40:43 Skytel [005226605] D ST NUM  8683242171
+2001-09-12 02:40:43 Skytel [003772003] A  ALPHA  IBM 96.47 UNCH MSFT 57.58 UNCH NSCP 0.00 UNCH INTC 26.07 UNCH (39
+2001-09-12 02:40:44 Arch [0929241] C  ALPHA  nning final data.  Sent at 01:37      
+2001-09-12 02:40:44 Arch [0076486] B  ALPHA  nning final data.  Sent at 01:37      
+2001-09-12 02:40:45 Skytel [005065212] D  ALPHA  cms@pdprt02.nationalcar.com|pdprt02|GWYB7030 Errors (0) (Log File Not Current)  
+2001-09-12 02:40:45 Skytel [002357369] C  ALPHA  002652 CYCLIC TEST 
+2001-09-12 02:40:45 Skytel [003327216] A  ALPHA  002652 CYCLIC TEST 
+2001-09-12 02:40:45 Skytel [002139900] D SH/TONE 002652  
+2001-09-12 02:40:45 Skytel [005343224] C ST NUM  011-1111-11    
+2001-09-12 02:40:47 Skytel [005044104] C  ALPHA  scott.thomas@lamrc.com|Lab DB - Hitachi 4 used more than allowable time limit.|The next user is waiting to use Hitachi 4. You have been using the tool for 357 minutes and your allowable time on the tool has expired, please end your session 
+2001-09-12 02:40:49 Arch [0948216] C  ALPHA  (2)hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:37      
+2001-09-12 02:40:49 Arch [0922216] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:37      
+2001-09-12 02:40:49 Arch [0507846] B  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - ru
+2001-09-12 02:40:49 Arch [0915843] A  ALPHA  (1)hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:37      
+2001-09-12 02:40:49 Arch [0769433] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets -
+2001-09-12 02:40:49 Arch [1131960] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:37      
+2001-09-12 02:40:51 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192797. 
+2001-09-12 02:40:51 Arch [0507846] B  ALPHA  nning final data.  Sent at 01:37      
+2001-09-12 02:40:51 Arch [0769433] C  ALPHA   running final data.  Sent at 01:37      
+2001-09-12 02:40:51 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 02:40:51 Metrocall [0776055] B  ALPHA  Frm: totopten339@yahoo.com Sub: Drive Your Web Counter Ballistic!!! 5541 Txt: Drive Your Web Counter Ballistic with This Drive your Web counter Ballis= tic! Learn the secrets of the TOP SEARCH ENGINIE
+2001-09-12 02:40:52 Skytel [004705330] A SH/TONE 337-1039
+2001-09-12 02:40:53 Arch [1612942] D  ALPHA  (20)hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:37      
+2001-09-12 02:40:53 Arch [0624724] B  ALPHA  27:ABS:
+2001-09-12 02:40:53 Arch [1330621] D  ALPHA  (28)18:ABS:
+2001-09-12 02:40:53 Arch [1408029] D  ALPHA  (22)hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:37      
+2001-09-12 02:40:53 Arch [0508848] A  ALPHA  (4)18:ABS:
+2001-09-12 02:40:53 Arch [0866821] B  ALPHA  18:ABS:
+2001-09-12 02:40:53 Arch [0900159] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:37      
+2001-09-12 02:40:53 Arch [0968156] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Bas
+2001-09-12 02:40:53 Arch [1410805] B  ALPHA  (21)hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:37      
+2001-09-12 02:40:53 Arch [1284332] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets -
+2001-09-12 02:40:54 Skytel [004477261] D  ALPHA  Internet Traffic Slows, Web Sites Are Crowded Following Attacks[DJ NEWS] (33
+2001-09-12 02:40:55 Arch [0968156] D  ALPHA  kets - running final data.  Sent at 01:37      
+2001-09-12 02:40:55 Arch [1284332] D  ALPHA   running final data.  Sent at 01:37      
+2001-09-12 02:40:56 Skytel [005139037] D ST NUM  223-778-9110   
+2001-09-12 02:40:58 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PA........................00
+2001-09-12 02:40:58 Skytel [005178080] A SH/TONE 104     
+2001-09-12 02:40:58 Skytel [002272992] A SH/TONE 2913    
+2001-09-12 02:40:58 Skytel [004517601] A  ALPHA  Internet Traffic Slows, Web Sites Are Crowded Following Attacks[DJ NEWS]

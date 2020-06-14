@@ -1,0 +1,79 @@
+2001-09-12 01:50:00 Skytel [003940721] A  ALPHA  AUTOPAGER@dm4fa2.de.sc.ti.com|AEX16 to DOWN|AEX16 moved TO DOWN from PROD on 01/09/12 at 00:50:07 COMMENTS: MACHINE ASKING FOR SRC MEASURMENT AFTER EVERY WAFER- RUNNING THE SRC TEST CHANGES NOTHING  
+2001-09-12 01:50:01 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-12 01:50:01 Arch [0000101] B  ALPHA  MSN 068 hello Message from NOC PCB.
+2001-09-12 01:50:03 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-12 01:50:03 Skytel [007035414] B SH/TONE 9444    
+2001-09-12 01:50:05 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-12 01:50:06 Skytel {0743995} 1 2400 800-344-8041   
+2001-09-12 01:50:06 Skytel {1092655} 3 2400 002635    
+2001-09-12 01:50:07 Skytel {0005398} 1 1200 (1 OF 5): FROM: Chris Kafader,+1(425)704-2451SUB: RE: Premier UAT site appears down, cannot wait until WednesdayMSG: To resolve a server issue, we will need to have SSIT looking at it.  John, can you please check out the uat.
+2001-09-12 01:50:10 Arch [0942473] C  ALPHA  RD Job SAPSRPT950 is in a failed status!
+2001-09-12 01:50:10 Metrocall [1708477] D  ALPHA  Call 44727 Customer Candy Graham Phone 8558 Problem: overtime volunteering system is not letting workers sign up for overtime it is saying that it is too early for them to sign in but the cut-1/2
+2001-09-12 01:50:10 Metrocall [1708477] D  ALPHA  off time is 1am-2/2
+2001-09-12 01:50:10 Metrocall [1064391] B  ALPHA  LME FUTURES   
+2001-09-12 01:50:12 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-12 01:50:12 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192216. 
+2001-09-12 01:50:12 Metrocall [1064391] B  ALPHA      MCU_1460/1468 -012 MAL 1380/1390 -005 MAA 1155/1165 -010 MNI 5310/5360 -050 MSN 3800/3850 -050 MPB 4900/4950 -050 MZN _840/_845 -005
+2001-09-12 01:50:14 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 01:50:16 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-12 01:50:18 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 01:50:18 Arch [0900779] C  ALPHA   Sub:WTC UPDATE #1b  Msg:      WTC UPDATE #1b BEGINS AT 1:00am ON WED SEP 12, 2001  <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />              1:46a               msnbc 
+2001-09-12 01:50:18 Arch [0329167] D  ALPHA  From gill at 01:50 AM EDT: Running into a Math overflow. Working on it. -Jerry  
+2001-09-12 01:50:18 Arch [1657188] B  ALPHA  NCAGBRWS03:Device Accessible,Device Status:Ok
+2001-09-12 01:50:19 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE Tray Metrics Down   Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[001]  dev_err[056]
+2001-09-12 01:50:20 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1002
+2001-09-12 01:50:29 Arch [0936036] B  ALPHA  'lon-sls-rtr-s0' is unreachable. Circuit down?
+2001-09-12 01:50:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3258
+2001-09-12 01:50:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3258
+2001-09-12 01:50:30 Metrocall [1064378] C  ALPHA  UK FTSE 100 INDEX SEEN DROPPING IN EARLY TRADE
+2001-09-12 01:50:30 Metrocall [1064395] C  ALPHA  )?#`B@uHHuj@B~kKPQjeNJ`XlFBBSNbQ[BB....:..1...........).9......B.......@......
+2001-09-12 01:50:31 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-12 01:50:33 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-12 01:50:33 Arch [1272423] B  ALPHA  (20)bb:1: [4219010] red Tue Sep 11 22:50:15 PDT 2001 - Disk onssc-sac-p1,corp,sprint,com at PANIC level &red /var (95%) hasreached the defined disk space PANIC level (95%)/dev/vx/dsk/p1_unix/p1sybase 2879972 895228 1696747 35%
+2001-09-12 01:50:33 Skytel [007562775] B ST NUM  08007243624    
+2001-09-12 01:50:34 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 01:50:34 Arch [1272423] B  ALPHA  (21)bb:2: /p1sybase/dev/vx/dsk/p1_unix/logs 287982 122944 136240 48% /logs/dev/vx/dsk/rootdg/nsr 983020 434347 450371 50% /nsr/dev/vx/dsk/rootdg/usr 508039 264133 193103 58% /usr/dev/vx/dsk/p1_unix/autosys 287982 149644 109540
+2001-09-12 01:50:35 Skytel [003934628] B  ALPHA  ATTN MSP & MSY:   PLS CALL JAMES IN HWT @  686-3934
+2001-09-12 01:50:35 Skytel [005359140] B  ALPHA  ATTN MSP & MSY:   PLS CALL JAMES IN HWT @  686-3934
+2001-09-12 01:50:35 Skytel [002376872] C  ALPHA  svcaem2@conxion.net|ibusdev.www.conxion.com, HTTP, 206.204.30.129:80, Server Recovered| 
+2001-09-12 01:50:35 Skytel [005001895] B  ALPHA  [sps/53] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/infoweb/healthcheck.asp) 3:21:31
+2001-09-12 01:50:36 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-12 01:50:36 Arch [1272423] B  ALPHA  (22)bb:3: 58%/usr/vendor/autotree/autosys3_4 /dev/vx/dsk/p1_unix/export-home471414 264229 160044 63% /export/home /dev/vx/dsk/rootdg/opt 23999741360084 799893 63% /opt /dev/vx/dsk/p1_unix/datafiles 67113884132210 1908040 69%
+2001-09-12 01:50:37 Skytel [0000060] D  ALPHA  ATTN MSP & MSY:   PLS CALL JAMES IN HWT @  686-3934
+2001-09-12 01:50:38 Arch [1272423] B  ALPHA  (23)bb:4: /datafiles /dev/vx/dsk/p1_unix/production 383982237409 108175 69% /production /dev/vx/dsk/rootdg/openwin 288326204757 54737 79% /usr/openwin /dev/vx/dsk/p1_unix/oracle-new 287982223353 35831 87% /oracle
+2001-09-12 01:50:39 Skytel [008507076] B  ALPHA  01862h4f1ab01010400002g
+2001-09-12 01:50:39 Skytel [007591622] B ST NUM  1-017-706-1135 
+2001-09-12 01:50:39 Skytel [007561925] B SH/TONE 143     
+2001-09-12 01:50:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:50:39 Skytel [003904970] C  ALPHA  Phone Networks Report Heavy Volume, Clogged Cells Circuits[DJ NEWS]
+2001-09-12 01:50:40 Metrocall [002563054] D  ALPHA  333/ 8 hr/ 253211026/ 1529/ Richardson Medical C/ 401 W Campbell Rd/ Richardson/ Rochelle Rose RX./ 972-498-4872/ pls update? MS2K located on the 5th floor. Drwr 2-10 requires maintenance. Drw will not open.
+2001-09-12 01:50:41 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job112822 SNYC00301 09/12 01:46 QUEUES
+2001-09-12 01:50:41 Skytel [007518930] A SH/TONE 3019986 
+2001-09-12 01:50:41 Skytel [003951056] A  ALPHA  cmsdbs3 Resource: cmsdbs3:/CPU/CPU/CPUCpuUtil,current state is : CRITICAL ussa11.SSMC 
+2001-09-12 01:50:41 Skytel [0001114] C  ALPHA  FM Ticket Assigned High Case HD0000000301682 for TIVOLI AUTOSUBMIT NONE dacq01 Disk Error
+2001-09-12 01:50:42 Arch [1619813] B  ALPHA  2760
+2001-09-12 01:50:43 Skytel [005049316] B  ALPHA  Robot.ALERT@ELSEG400|Robot ALERT ID-000089810|Subsystem QSNADS ended.   
+2001-09-12 01:50:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #87-IX_T4108
+2001-09-12 01:50:43 Skytel [004185199] D ST NUM  0-111-111-1111-1111 
+2001-09-12 01:50:44 Arch [1272423] B  ALPHA  (24)bb:e: /dev/vx/dsk/rootdg/rootvol 52015 41586 522889% / /dev/vx/dsk/rootdg/var 1071871 957749 60529 95% /var Pleasesee:http://ssc-sac-bs1.west.sprint.com/bb/html/ssc-sac-p1.corp.sprint.com.disk.html -oo-
+2001-09-12 01:50:44 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2523..
+2001-09-12 01:50:45 Skytel [007512959] D  ALPHA  clubs-mail@yahoo-inc.com|Tru Rack [Yahoo! Clubs: Billiard Pro ]|S:Tru Rack [Yahoo! Clubs: Billiard P
+2001-09-12 01:50:45 Skytel [007638399] D SH/TONE 7346    
+2001-09-12 01:50:47 Skytel [007519105] A ST NUM  462-981-0426   
+2001-09-12 01:50:47 Skytel [005312004] B SH/TONE 131-3143
+2001-09-12 01:50:47 Skytel [005044104] C  ALPHA  scott.thomas@lamrc.com|Lab DB - Hitachi 4 used more than allowable time limit.|The next user is waiting to use Hitachi 4. You have been using the tool for 307 minutes and your allowable time on the tool has expired, please end your session 
+2001-09-12 01:50:50 Skytel [004417186] A ST NUM  370-0311-2
+2001-09-12 01:50:51 Arch [1423779] A  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 047002B0 from cluster 1095 to cluster 2028), status C3AE181B, extended status C3AE380C. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-12 01:50:51 Arch [0623245] D  ALPHA  oracle: Unable to connect to ICDWP! - az15eh17 [9/11/0 22:50]
+2001-09-12 01:50:51 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 01:50:51 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.
+2001-09-12 01:50:51 Arch [1025942] B  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 047002B0 from cluster 1095 to cluster 2028), status C3AE181B, extended status C3AE380C. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-12 01:50:51 Arch [0917851] C  ALPHA  The DGTC PBX ALARMED at (2001-09-12 00:40:28) and called the Avaya service center! Please confirm by calling Avaya 800-282-1361 + Option #1 (Pin=2430).ST# 000-291-5910
+2001-09-12 01:50:53 Arch [1425048] C  ALPHA  35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192223. 
+2001-09-12 01:50:53 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-12 01:50:53 Arch [0917851] C  ALPHA  The DGTC PBX ALARMED at (2001-09-12 00:49:29) and called the Avaya service center! Please confirm by calling Avaya 800-282-1361 + Option #1 (Pin=2430).ST# 000-291-5910
+2001-09-12 01:50:54 Skytel [005061058] A ST NUM  765-297-2911   
+2001-09-12 01:50:55 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-12 01:50:56 Skytel [002814045] D  ALPHA  y-alerts@yahoo-inc.com||Fr: merchantsworld200111752@hotbot.com *$10,000 Money Club! International Membership! (990 Mail  
+2001-09-12 01:50:57 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 01:50:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8080

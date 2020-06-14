@@ -1,0 +1,97 @@
+2001-09-12 02:22:00 Metrocall [1587470] D  ALPHA  Frm: MSN Txt: Hotmail Surf
+2001-09-12 02:22:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4681
+2001-09-12 02:22:00 Skytel [002865525] B SH/TONE 348-2217
+2001-09-12 02:22:01 Arch [0000101] B  ALPHA  MSN 083 hello Message from NOC PCB.
+2001-09-12 02:22:02 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 153 processes on report1.ccbill.com. Timestamp key: 20010911232000 
+2001-09-12 02:22:04 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 154 processes on report1.ccbill.com. Timestamp key: 20010911232000 
+2001-09-12 02:22:04 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-12 02:22:04 Skytel {0276506} 3 1200 801-977-6470   
+2001-09-12 02:22:07 Skytel {0619497} 1 2400 31740
+2001-09-12 02:22:07 Skytel {0141118} 3 2400 901-874-4295  28    
+2001-09-12 02:22:08 Arch [0915276] D  ALPHA  BWMSGE|5.6.042 ev-cacheflow-800-b-crm-i|mse01:5.6.042 ev-cacheflow-800-b-crm-internal-2.ae.ge.com Node Down 
+2001-09-12 02:22:08 Arch [0979272] C  ALPHA  mse01:5.6.042 ev-cacheflow-800-b-crm-internal-2.ae.ge.com Node Down 
+2001-09-12 02:22:08 Arch [0927086] D  ALPHA  BWMSGE|5.6.042 ev-cacheflow-800-b-crm-i|mse01:5.6.042 ev-cacheflow-800-b-crm-internal-2.ae.ge.com Node Down 
+2001-09-12 02:22:12 Metrocall [0525954] A  ALPHA  HTTP:Chelmick at 10.17.1.52 is DOWN.
+2001-09-12 02:22:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1034
+2001-09-12 02:22:21 Arch [0911134] D  ALPHA   cshprod1-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGTWNY_HIST  Database=master  Mode=Full_Dump         # Our PID=29202    time='09/12/01 02:19:45'    sybase 
+2001-09-12 02:22:21 Arch [1003529] C  ALPHA  3004158281980
+2001-09-12 02:22:21 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-12 02:22:23 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-12 02:22:25 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-12 02:22:27 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-12 02:22:29 Arch [0977210] C  ALPHA  638-8100
+2001-09-12 02:22:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3290
+2001-09-12 02:22:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3290
+2001-09-12 02:22:32 Skytel [005382795] C  ALPHA  "NetIQ AppManager"|NetIQ Event from LDIHOUEXCH3 : File Count/Size Threshold Exceeded|JobID = 11538 KSName = NT_FileSizeOrNum MC MachineName = LDIHOUEXCH3 Object Name = <NT_MachineFolder = LDIHOUEXCH3>  EventMsg = File Count/Size Threshold E
+2001-09-12 02:22:33 Skytel [002694547] A  ALPHA  14) PROBLEM: 16609180 WAS OPENED ACCT#: A775S AT PRIO: 1 ON 09/12/01 AT 02:19 DESC/1: -NODE DOWN EQFDE215 WITH IP ADDRESS: 10.124.3.15 ISDN DESC/2: FAILED 
+2001-09-12 02:22:33 Skytel [005327893] B ST NUM  462-619-1565   
+2001-09-12 02:22:33 Skytel [002366867] A SH/TONE 444-0525
+2001-09-12 02:22:33 Skytel [002401821] D  ALPHA  saspcp06 Distributed Monitoring PALM.dm.ussa17.Unix.saspcp06/Daemon status on host saspcp06 09/11/01 23:20:18 PDT  Status: >>> critical <<< ussa17.PALM 
+2001-09-12 02:22:34 Arch [0911134] D  ALPHA   cshprod1-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGTWNY_HIST  Database=sso  Mode=Full_Dump         # Our PID=29675    time='09/12/01 02:19:59'    sybase on 
+2001-09-12 02:22:34 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-12 02:22:34 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192587. 
+2001-09-12 02:22:34 Arch [1439230] D  ALPHA  619-4038
+2001-09-12 02:22:34 Arch [0930292] B  ALPHA  |Case in SPSG-WW |P3 *ANS*Cisco 7513 with extrange problem with ATM (Hardware::Hardware failure, Need from 02:21|112  
+2001-09-12 02:22:35 Skytel [002403492] B  ALPHA  RTOP;GM- Thailand Rayong Plant;TOP-07:30 Thailand Time;TOR-09:00 Thailand Time;SCP-0;BPA-EPICS;SAS-EDS EURO Local Supp;Sakul;PH-66389549991303;PG-6616895915;TK-19508390 -- From: GSS-MWD
+2001-09-12 02:22:35 Skytel [003458725] B SH/TONE 874-1664
+2001-09-12 02:22:35 Skytel [005487015] B SH/TONE 934-9601
+2001-09-12 02:22:35 Skytel [004397995] C  ALPHA  IntelliWatch Monitor: WARNING - Server CVGNA05.US.Schneider-Electric.com/A/SVR/Schneider MAY HAVE crashed. Waiting 180 seconds...
+2001-09-12 02:22:36 Arch [0911134] D  ALPHA   cshprod1-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGTWNY_HIST  Database=sso  Mode=Full_Dump         # Our PID=29675    time='09/12/01 02:20:00'    sybase on 
+2001-09-12 02:22:36 Arch [0987275] C  ALPHA  s0191: 09/11 15:41:26 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:41:26
+2001-09-12 02:22:37 Skytel [002868413] D  ALPHA  RTOP;GM- Thailand Rayong Plant;TOP-07:30 Thailand Time;TOR-09:00 Thailand Time;SCP-0;BPA-EPICS;SAS-EDS EURO Local Supp;Sakul;PH-66389549991303;PG-6616895915;TK-19508390 -- From: GSS-MWD
+2001-09-12 02:22:37 Skytel [0001075] A  ALPHA  Rollover frt should receive a held scan and HEX 84
+2001-09-12 02:22:37 Skytel [0001074] A  ALPHA  Rollover frt should receive a held scan and HEX 84
+2001-09-12 02:22:37 Skytel [005121718] B ST NUM  16) 111111
+2001-09-12 02:22:37 Skytel [007610680] C  ALPHA  RTOP;GM- Thailand Rayong Plant;TOP-07:30 Thailand Time;TOR-09:00 Thailand Time;SCP-0;BPA-EPICS;SAS-EDS EURO Local Supp;Sakul;PH-66389549991303;PG-6616895915;TK-19508390 -- From: GSS-MWD
+2001-09-12 02:22:37 Skytel [0001461] B  ALPHA  GLOBEX   01:21     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 02:22:39 Skytel [004539594] C  ALPHA  Rollover frt should receive a held scan and HEX 84
+2001-09-12 02:22:39 Skytel [004073033] C ST NUM  303-625-7836 (1
+2001-09-12 02:22:40 Metrocall [002588047] D  ALPHA  Frm: Muralidhar Devarakonda Sub: server status Txt: Machine 30kcerent1.nsf.att.com not up on Wed Sep 12 02:09:00 2001. status 256.Machine 30kcerent2.nsf.att.com not up on Wed Sep 12 02:09:00 2001 status 256.Machine mtcerent3.nsf.att.com
+2001-09-12 02:22:40 Metrocall [1064381] D  ALPHA  INDONESIA SHIPPING - TANJUNG PRIOK - SEPT 12
+2001-09-12 02:22:40 Metrocall [1424509] D  ALPHA  Frm: FUNCTIONAL
+2001-09-12 02:22:41 Skytel [003897042] A ST NUM  917-685-4284   
+2001-09-12 02:22:41 Skytel [1800019] A  ALPHA  GLOBEX   01:21     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 02:22:41 Skytel [0001114] C  ALPHA  FM High Case HD0000000301683 for TIVOLI AUTOSUBMIT NONE  tibr1wis0 Server tibr1wis0 not responding
+2001-09-12 02:22:41 Skytel [002359771] C SH/TONE 913-1839
+2001-09-12 02:22:41 Skytel [002359129] C  ALPHA  Rollover frt should receive a held scan and HEX 84
+2001-09-12 02:22:42 Metrocall [002588047] D  ALPHA   not up on Wed Sep 12 02:09:00 2001 status 2
+2001-09-12 02:22:43 Skytel [003949541] B ST NUM  508-268-0403   
+2001-09-12 02:22:43 Skytel [005054561] A  ALPHA  alert@msn.com||Hotmail adownton@amadeus.net:re: We are OK  
+2001-09-12 02:22:43 Skytel [007558240] A  ALPHA   ALL A/C HAVE BEEN INSPECTED AND FUEL ON BOARD VERIFIED AS OF 2320. TIM/LAXOO
+2001-09-12 02:22:43 Skytel [003451501] D SH/TONE 409     
+2001-09-12 02:22:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #30-IX_T3603
+2001-09-12 02:22:44 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2555..
+2001-09-12 02:22:45 Skytel [007492849] A SH/TONE 775-8387
+2001-09-12 02:22:45 Skytel [003327216] A  ALPHA  002646 CYCLIC TEST 
+2001-09-12 02:22:45 Skytel [007527412] B  ALPHA  "Fileprint d$".The device \\fileprint\d$ (Type: Disk Space) is DOWN since Wed Sep 12 02:21:42 2001. 
+2001-09-12 02:22:45 Skytel [005375862] B SH/TONE 724-4783
+2001-09-12 02:22:45 Skytel [005329776] A  ALPHA   ALL A/C HAVE BEEN INSPECTED AND FUEL ON BOARD VERIFIED AS OF 2320. TIM/LAXOO
+2001-09-12 02:22:45 Skytel [002861179] C  ALPHA  Job has aborted MPE #J2770 Job name: TURBOFSB System: Host
+2001-09-12 02:22:45 Skytel [005522163] A  ALPHA   ALL A/C HAVE BEEN INSPECTED AND FUEL ON BOARD VERIFIED AS OF 2320. TIM/LAXOO
+2001-09-12 02:22:45 Skytel [002357369] C  ALPHA  002646 CYCLIC TEST 
+2001-09-12 02:22:45 Skytel [002139900] D SH/TONE 002646  
+2001-09-12 02:22:45 Skytel [005050610] A  ALPHA   ALL A/C HAVE BEEN INSPECTED AND FUEL ON BOARD VERIFIED AS OF 2320. TIM/LAXOO
+2001-09-12 02:22:47 Skytel [005355659] C ST NUM  825-683-5518   
+2001-09-12 02:22:47 Skytel [005048971] C  ALPHA   ALL A/C HAVE BEEN INSPECTED AND FUEL ON BOARD VERIFIED AS OF 2320. TIM/LAXOO
+2001-09-12 02:22:47 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 23:22:39 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 02:22:47 Skytel [005359878] B  ALPHA   ALL A/C HAVE BEEN INSPECTED AND FUEL ON BOARD VERIFIED AS OF 2320. TIM/LAXOO
+2001-09-12 02:22:47 Skytel [005543817] C SH/TONE 727-6928
+2001-09-12 02:22:47 Skytel [007041033] C  ALPHA   ALL A/C HAVE BEEN INSPECTED AND FUEL ON BOARD VERIFIED AS OF 2320. TIM/LAXOO
+2001-09-12 02:22:50 Skytel [005001895] B  ALPHA  [sps/92] 100 supplier.intel.com relay-rialto105 0 Error:relay-rialto105.mpi did not return a valid Metrios API response coderunning (sps/92) 3:23:02
+2001-09-12 02:22:51 Arch [0927891] A  ALPHA  9103
+2001-09-12 02:22:51 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDSSPX_EQNY1  Database=eq_program  Mode=Incremental_Dump         # Our PID=4653    time='09/12/01 02:20:01'    syb
+2001-09-12 02:22:51 Arch [0987275] C  ALPHA  s0191: 09/11 15:47:33 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:47:34
+2001-09-12 02:22:51 Metrocall [1424509] D  ALPHA  Frm: FUNCTIONAL
+2001-09-12 02:22:51 Metrocall [0527020] D  ALPHA  09/12/01 02:23 adt failed(whcED);rad result failed(whc)
+2001-09-12 02:22:52 Skytel [007557438] D  ALPHA   ALL A/C HAVE BEEN INSPECTED AND FUEL ON BOARD VERIFIED AS OF 2320. TIM/LAXOO
+2001-09-12 02:22:53 Arch [0987275] C  ALPHA  s0191: 09/11 15:50:15 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:50:16
+2001-09-12 02:22:54 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:22:54 Skytel [003916366] D  ALPHA  CALL THE EOC IMMEDIATLEY. BECK
+2001-09-12 02:22:55 Arch [0987275] C  ALPHA  sb3: INFO0002 - Trade Count Mismatch Ora=825 Rec=0 (160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:52
+2001-09-12 02:22:56 Skytel [005056599] B  ALPHA  HELLO, PRIORITY#1 LOT WAFERS GET STUCK INSIDE THE SYSTEM.FTM13101 IN ROOM#19.I WILL PUT THE SYSTEM DOWM..          CARMEN
+2001-09-12 02:22:57 Arch [1052225] A  ALPHA  Node - ep2.s00415/156.87.72.135 [Node down - unpingable, but path is good] EP2 has been down for an hour.  Ticket Number = 000000010032073
+2001-09-12 02:22:58 Metrocall [1307216] A  ALPHA  (31)10 NRECA 703-907-6268 11W030475 DARNELL REINIT\0912\0214\FC E094. 112224 4301 WILSON BLVD ARLINGTON
+2001-09-12 02:22:58 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4682
+2001-09-12 02:22:58 Skytel [007555694] D  ALPHA   ALL A/C HAVE BEEN INSPECTED AND FUEL ON BOARD VERIFIED AS OF 2320. TIM/LAXOO
+2001-09-12 02:22:58 Skytel [003469036] D ST NUM  302-927-0544   
+2001-09-12 02:22:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8112

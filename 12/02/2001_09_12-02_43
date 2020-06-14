@@ -1,0 +1,89 @@
+2001-09-12 02:43:00 Metrocall [002589906] A  ALPHA  Frm: ams4tt@amsapp01-c2.sc.attws.com Sub: AMS-TT: TT677870 Txt: Major; TT677870; TR User Assign; TRANSMISSION; TELCO; DACS; 09/11/01 23:42:41; WHPT2LU;X086 - ;x086 both data links are down and cant loop spans, lucent is trying to 
+2001-09-12 02:43:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4702
+2001-09-12 02:43:00 Skytel [003940721] A  ALPHA  AUTOPAGER@dm4fa2.de.sc.ti.com|AEI04 to SPCD|AEI04 moved TO SPCD from LBQU on 01/09/12 at 01:43:05 COMMENTS: Comments can not be retrieved  
+2001-09-12 02:43:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8132
+2001-09-12 02:43:01 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-12 02:43:02 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   14602 OPEN suntvpa:14602 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 552 OPEN sunapp1:552 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj
+2001-09-12 02:43:02 Metrocall [002589906] A  ALPHA  do a channnel add. They need the spans to add the
+2001-09-12 02:43:02 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 23:41:21 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 02:43:02 Skytel [005094397] D  ALPHA  NTManage@bsmg.com|Message from NTManage|This Message is from NMS: Device Name: PLNW1 Address: 144.210.149.1 is Not Reachable Type: Novell Server Ping: REQ Timed Out NMS: Device in severe error state - all other checks aborted.  PORTLAND NET
+2001-09-12 02:43:03 Skytel [002401821] D  ALPHA  saspcd03 Distributed Monitoring PALM.dm.ussa17.Unix.saspcd03/Daemon status on host saspcd03 09/11/01 23:39:15 PDT  Status: >>> critical <<< ussa17.PALM 
+2001-09-12 02:43:04 Skytel [005345821] D  ALPHA  8883372867  ID: NY061015 Ticket: 322  Communications Lost
+2001-09-12 02:43:04 Skytel [007023771] C ST NUM  731-499-2283   
+2001-09-12 02:43:04 Skytel [002849561] C  ALPHA  afms@net.com|The node didn't respond to a ping| 
+2001-09-12 02:43:04 Skytel {1539459} 4 2400 56:ABS:  ..
+2001-09-12 02:43:12 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-12 02:43:12 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192825. 
+2001-09-12 02:43:14 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-12 02:43:14 Arch [0509888] A  ALPHA  (27)21:ABS:
+2001-09-12 02:43:14 Arch [1006855] B  ALPHA  (4)23:ABS:
+2001-09-12 02:43:14 Arch [0886526] D  ALPHA  (30)16:ABS:
+2001-09-12 02:43:14 Arch [1300556] D  ALPHA  (15)18:ABS:
+2001-09-12 02:43:15 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   8266 OPEN suntvpa:8266 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 13872 OPEN sunapp1:13872 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-12 02:43:15 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-12 02:43:16 Arch [1666850] A  ALPHA  3196
+2001-09-12 02:43:17 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-12 02:43:17 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-12 02:43:19 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   18827 OPEN suntvpa:18827 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 3085 OPEN sunapp1:3085 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-12 02:43:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1055
+2001-09-12 02:43:21 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-12 02:43:23 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   14805 OPEN suntvpa:14805 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 16617 OPEN sunapp1:16617 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat
+2001-09-12 02:43:30 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-12 02:43:30 Arch [0969798] B  ALPHA  23-THE SERVER AMS MAIL 03, CANNOT BE ACCESSED BY FAO DATA CENTER, OR 345 PARK AVE DATA !1/3 023
+2001-09-12 02:43:30 Metrocall [002534882] A  ALPHA  PM197726 Sev: 2 Grp: pya prod svcs Loc: headquarters Name: tivoli Ph: 866-479-2873 Descr: pts1ctov
+2001-09-12 02:43:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3311
+2001-09-12 02:43:30 Metrocall [0525954] A  ALPHA  HTTP:Chelmick at 10.17.1.52 is DOWN.
+2001-09-12 02:43:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3311
+2001-09-12 02:43:32 Arch [0969798] B  ALPHA  23- CENTER. WHICH IS NOT RESPONDING TO THE KEYBORAD OR ANYTHING WE TYPE. HUMPHREY. !2/3 023
+2001-09-12 02:43:32 Arch [0936565] B  ALPHA  (23)18:ABS:
+2001-09-12 02:43:32 Arch [1252144] A  ALPHA  (2)18:ABS:
+2001-09-12 02:43:32 Arch [1262408] C  ALPHA  (27)66:ABS:
+2001-09-12 02:43:32 Arch [0509591] B  ALPHA  (8)16:ABS:
+2001-09-12 02:43:32 Skytel [003954562] A  ALPHA  aiellojr@us.ibm.com|Key Event - Closure - Americas: CHQ Power|To all, Electrical power has been restored to Corporate Headquarters, the Learning Center, and Northcastle at 02:05 AM  EDT.  The network equipment and the Treasury Servers appea
+2001-09-12 02:43:32 Skytel [007046018] A  ALPHA  aiellojr@us.ibm.com|Key Event - Closure - Americas: CHQ Power|To all, Electrical power has been restored to Corporate Headquarters, the Learning Center, and Northcastle at 02:05 AM  EDT.  The network equipment and the Treasury Servers appea
+2001-09-12 02:43:34 Arch [0969798] B  ALPHA  23- 212-837-1443. PRESENTLY RUNNING A BACKUP. !3/3 023
+2001-09-12 02:43:35 Skytel [005001895] B  ALPHA  [sps/105] 104 Supplier.intel.com relay-ssl 0.0 FAILURE Server closedconnection immediately. (/csftraining/healthcheck.asp) 6:35:03
+2001-09-12 02:43:35 Skytel [005051043] A  ALPHA  intasgac@brocu1m.bst.bls.com|Resource monitor results|oracle: INTAS_DATA  70% utilization, exceeding limit 70%  
+2001-09-12 02:43:35 Skytel [007554722] A SH/TONE 734-7605
+2001-09-12 02:43:35 Skytel [003281575] B  ALPHA  aiellojr@us.ibm.com|Key Event - Closure - Americas: CHQ Power|To all, Electrical power has been restored to Corporate Headquarters, the Learning Center, and Northcastle at 02:05 AM  EDT.  The network equipment and the Treasury Servers appea
+2001-09-12 02:43:36 Arch [0978397] D  ALPHA  jlwindh 75925-321--  6024 - informix switched from ds2 to ds1.  please call.  Jimmie  Sent at 01:43      
+2001-09-12 02:43:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:43:39 Skytel [003496391] B SH/TONE 000     
+2001-09-12 02:43:39 Skytel [005258313] C  ALPHA  SDAL318TERM Server 172.31.33.36 DOWN at 01:33:10
+2001-09-12 02:43:40 Metrocall [0417696] A  ALPHA  EMS: moray.bos: Port 80: Possible SYN flood. (566603)
+2001-09-12 02:43:40 Metrocall [1495978] C  ALPHA  (From ICON02) IR:1284269 JOB:RMLX201B ABD:S04C P:1 ON LENC 09/11 23:41
+2001-09-12 02:43:40 Metrocall [1751988] B  ALPHA  98R: HAVE YOU ARRIVED IN MMH YET? : END MESSAGE ####
+2001-09-12 02:43:40 Metrocall [1314835] A  ALPHA  s2,00501687,OPEN 
+2001-09-12 02:43:40 Metrocall [0533502] D  ALPHA  s2,00501687 ,fyi,Please update TAC on ticket status.,Job CAWRKDLY abended, U4083 in step 2.
+2001-09-12 02:43:41 Skytel [005249751] B SH/TONE 301     
+2001-09-12 02:43:41 Skytel [005378527] D SH/TONE 932-3520
+2001-09-12 02:43:42 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router 611FP-1Tendo at 23:42:02 Txt: Router 611FP-1Tendo DOWN at 23:42:02 Address: 209.247.46.97 Date: 09/11/2001 Status: Host Unreachable ( 11003)
+2001-09-12 02:43:42 Metrocall [1314835] A  ALPHA  75 MINS,Job CAWRKDLY abended, U4083 in step 2.
+2001-09-12 02:43:43 Skytel [005178080] A SH/TONE 104     
+2001-09-12 02:43:43 Skytel [005131371] C  ALPHA  jeff.bledsoe@wcom.com|SNM--Jeff|Customer SNM MUST approve work, pls have them join bridge (877)693-4910 pass code: 194263  
+2001-09-12 02:43:43 Skytel [005330530] A ST NUM  8685222010
+2001-09-12 02:43:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #47-IX_T4610
+2001-09-12 02:43:44 Arch [0927521] A  ALPHA  suzanneb@chapter|Good News Book Club-Places-3|======================================================= CHAPTER-A-DAY GOOD NEWS ONLINE BOOK CLUB What do you think of this week's book? Email Suzanne at: Suzanne@chapteraday.com Vis
+2001-09-12 02:43:44 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start restor
+2001-09-12 02:43:44 Arch [0987275] C  ALPHA  s0191: 09/11 11:42:59 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:42:59
+2001-09-12 02:43:44 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192832. 
+2001-09-12 02:43:45 Skytel [007465588] B  ALPHA  aiellojr@us.ibm.com|Key Event - Closure - Americas: CHQ Power|To all, Electrical power has been restored to Corporate Headquarters, the Learning Center, and Northcastle at 02:05 AM  EDT.  The network equipment and the Treasury Servers appea
+2001-09-12 02:43:45 Skytel [002396156] D SH/TONE 4359    
+2001-09-12 02:43:45 Skytel [003327216] A  ALPHA  002653 CYCLIC TEST 
+2001-09-12 02:43:45 Skytel [002382588] D SH/TONE 99      
+2001-09-12 02:43:45 Skytel [002357369] C  ALPHA  002653 CYCLIC TEST 
+2001-09-12 02:43:45 Skytel [002139900] D SH/TONE 002653  
+2001-09-12 02:43:46 Arch [0927521] A  ALPHA  it our award-w
+2001-09-12 02:43:46 Arch [0987275] C  ALPHA  s0191: 09/11 11:48:17 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:48:18
+2001-09-12 02:43:47 Skytel [005543817] C SH/TONE 727-6928
+2001-09-12 02:43:50 Skytel [003436448] A SH/TONE 3992    
+2001-09-12 02:43:50 Skytel [007494826] C ST NUM  08776036744    
+2001-09-12 02:43:50 Skytel [007576745] C SH/TONE 549-5322
+2001-09-12 02:43:52 Skytel [002794173] D ST NUM  900-866-5141   
+2001-09-12 02:43:53 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 20.22 20.93 43.27 Tue Sep 11 23:44:08 MST 2001 
+2001-09-12 02:43:53 Arch [0624715] C  ALPHA  (19)18:ABS:
+2001-09-12 02:43:53 Arch [1407124] B  ALPHA  (18)NT Server KCMSEP01 SMTP SVCDOWN at 01:55:11
+2001-09-12 02:43:53 Arch [0869374] D  ALPHA  (6)17:ABS:
+2001-09-12 02:43:53 Arch [1302428] D  ALPHA  (25)21:ABS:
+2001-09-12 02:43:58 Skytel [007463906] A ST NUM  872-373-8119   
+2001-09-12 02:43:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8133

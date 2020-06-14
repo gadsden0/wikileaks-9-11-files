@@ -1,0 +1,69 @@
+2001-09-11 04:36:00 Metrocall [1544818] A  ALPHA  REG-NS8:Device Inaccessible
+2001-09-11 04:36:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1983
+2001-09-11 04:36:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1983
+2001-09-11 04:36:03 Skytel [005102877] D ST NUM  201-986-9914   
+2001-09-11 04:36:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6805
+2001-09-11 04:36:04 Arch [1026292] B  ALPHA  Backup@NYED.usco|Operator Attention|(Server: "NYEPSROGUE" Job: "Monday backup" Device: "HP 1") Please inser t overwritable media into the changer using the slot import command. 
+2001-09-11 04:36:04 Arch [0272664] C  ALPHA  EHS-itp02n05: itp02n05 interface qfe3 is down [IP=192.168.76.6]
+2001-09-11 04:36:04 Arch [0981400] C  ALPHA  20: SCC-LIS interface messages exceeded 20
+2001-09-11 04:36:04 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_1
+2001-09-11 04:36:05 Skytel [005437867] C SH/TONE 911281  
+2001-09-11 04:36:06 Arch [0981400] C  ALPHA  9: SCC-LIS interface down for 5 minutes
+2001-09-11 04:36:06 Arch [1425048] C  ALPHA  92.168.35.19> chunk 177861. 
+2001-09-11 04:36:06 Skytel [0001461] B  ALPHA  GLOBEX   03:35     GEH  9662.5    .5-   GEM    ----   ----   ESU  109850   275+   SPU  109830   260+   NDU  137800   750+   6JZ    8288    55-   6EZ    8969A   11-   6SZ    5937B    3-   6BZ   14510A   18-   6CZ    6391A    1+   
+2001-09-11 04:36:10 Skytel [1800019] A  ALPHA  GLOBEX   03:35     GEH  9662.5    .5-   GEM    ----   ----   ESU  109850   275+   SPU  109830   260+   NDU  137800   750+   6JZ    8288    55-   6EZ    8969A   11-   6SZ    5937B    3-   6BZ   14510A   18-   6CZ    6391A    1+   
+2001-09-11 04:36:12 Skytel [005436525] D  ALPHA  Test Message #1-IX_T0210
+2001-09-11 04:36:12 Skytel [004524770] A  ALPHA  wil-PaydataPayroll-ColchesterVT-: CPE Up at 00:57:59 on 9/11
+2001-09-11 04:36:12 Skytel [005187817] C SH/TONE 1 (60   
+2001-09-11 04:36:14 Arch [0901224] C  ALPHA  HQ: PRB: 03:00 AMER Midn Cycle - VOYAGER AMER MIDNIGHT FILES 100% LOAD INTO PPG TABLES      *** COMPLETED AT 03:28; CASE ASP000002592308; NO FURTHER UPDATES.
+2001-09-11 04:36:14 Arch [0903081] C  ALPHA  "Evans, Christop|KFNA (Network) Connectivity restored to Winchester, VA. Resolution: AT&T replaced bad jumpers at their Leesburg, VA. Central Office. 
+2001-09-11 04:36:14 Skytel [005328380] D SH/TONE 800-7902
+2001-09-11 04:36:14 Skytel [007109749] B ST NUM  643-8617-15    
+2001-09-11 04:36:14 Skytel [003932285] D SH/TONE 3018 U  
+2001-09-11 04:36:18 Skytel [007030045] D SH/TONE 478916  
+2001-09-11 04:36:20 Skytel [005345964] D ST NUM  603-394-4525   
+2001-09-11 04:36:21 Skytel [007069367] B  ALPHA  no_reply@katewwdb.com|CommuniKate voice 01:36|218 sec voice msg from Steve Limber 1-888-297-9288 in 
+2001-09-11 04:36:21 Skytel [002818623] D  ALPHA  TCAHILL@ELECTRA.PETC.COM|Backup complete|  X   
+2001-09-11 04:36:21 Skytel [005343543] B  ALPHA  PROBLEM: 16602216 WAS OPENED 
+2001-09-11 04:36:21 Skytel [0001074] A  ALPHA  ac offload was complete at 3:34
+2001-09-11 04:36:21 Skytel [0001075] A  ALPHA  ac offload was complete at 3:34
+2001-09-11 04:36:23 Skytel [004213067] C  ALPHA  676-4444 (76
+2001-09-11 04:36:23 Skytel [004539594] C  ALPHA  ac offload was complete at 3:34
+2001-09-11 04:36:23 Skytel [007438026] C SH/TONE 3333 (98
+2001-09-11 04:36:23 Skytel [005175118] D ST NUM  0-800-626-1263 
+2001-09-11 04:36:25 Skytel [002359129] C  ALPHA  ac offload was complete at 3:34
+2001-09-11 04:36:25 Skytel [003492700] D SH/TONE 838-5658
+2001-09-11 04:36:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9728
+2001-09-11 04:36:29 Arch [0931795] A  ALPHA  [IS-HQ UP] ftp-poc-2 FTP
+2001-09-11 04:36:29 Skytel [007062907] C SH/TONE 340     
+2001-09-11 04:36:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3376
+2001-09-11 04:36:31 Arch [0931795] A  ALPHA  [IS-HQ UP] ftp-poc-2
+2001-09-11 04:36:31 Arch [0418533] B  ALPHA  (25)38:ABS: Tkt:5002509, Sev:2, TIQ:133min, Sname:XXX, CIS Id:13078970, Contact:TOM ROBB @ 3176867813 Note:SL-GW13-KC,SERIAL9/0/0/14:0 IS DOWN, LINE PROTOCOL IS DOWN,PL362389/,L EFT VOICEMAIL,STANTTON-PMC
+2001-09-11 04:36:31 Arch [0925366] B  ALPHA   318643;Sep 11 00:37:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 04:36:31 Arch [1238892] D  ALPHA  (2)75:ABS: Tkt:5002509, Sev:2, TIQ:133min, Sname:XXX, CIS Id:13078970, Contact:TOM ROBB @ 3176867813 Note:SL-GW13-KC,SERIAL9/0/0/14:0 IS DOWN, LINE PROTOCOL IS DOWN,PL362389/,L EFT VOICEMAIL,STANTTON-PMC
+2001-09-11 04:36:31 Skytel [003928591] D SH/TONE 1       
+2001-09-11 04:36:31 Skytel [003951362] A SH/TONE 1       
+2001-09-11 04:36:32 Arch [0419365] B  ALPHA  Backupadmin <Bac|Operator Attention|(Server: "EXCHANGE2" Job: "Full Exchange" Device: "DEC 1") Please insert reusable media into the drive. 
+2001-09-11 04:36:35 Skytel [002971940] B  ALPHA  MSFT 57.58 +2.18 SKYT 0.00 UNCH NOVL 3.99 +0.07 INTL 15.16 -0.70 (99
+2001-09-11 04:36:37 Skytel [003598901] B  ALPHA  MSFT 57.58 +2.18 NFB 27.09 -0.31 INTC 26.07 +0.18 EFII 18.49 -0.63 (95
+2001-09-11 04:36:38 Skytel [005177026] A SH/TONE 28861   
+2001-09-11 04:36:42 Skytel [005112809] C  ALPHA  03:36CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240384: Uncorrectable write error
+2001-09-11 04:36:42 Skytel [005197292] D  ALPHA  SGI 0.42 +0.01 MOT 15.04 +0.75 AMAT 40.03 -0.25 BHI 34.55 +0.60
+2001-09-11 04:36:44 Skytel [007101042] A SH/TONE 4725    
+2001-09-11 04:36:46 Skytel [005006350] D  ALPHA  FMSAP092:Service [NT LM Security Support Provider] is not running:FATAL
+2001-09-11 04:36:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177868. 
+2001-09-11 04:36:48 Skytel [002401821] D  ALPHA  hous0100.bechtel.com The interface Compaq on HOUS0100.bechtel.com is Down. ussa11.SSMC 
+2001-09-11 04:36:49 Arch [1184493] D  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 04:36:49 Arch [1339701] B  ALPHA  Ed Valle <EVALLE|FW: Great Game - Free Demo!|<http://html-images.realnetworks.com/pics/clear.gif> <http://html-images.realnetworks.com/pics/clear.gif> <http://html-images.realnetworks.com/pics/real/email/rpgames/
+2001-09-11 04:36:49 Arch [0927369] C  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 04:36:49 Arch [0932748] D  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 04:36:49 Arch [0283793] A  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 04:36:50 Metrocall [1457004] D  ALPHA  24-PAGED MIS TWICE. NO ANSWER. PLS CALL BACK. -SAM
+2001-09-11 04:36:50 Metrocall [002590634] C  ALPHA  17-HOW ARE THINGS GOING? CARI. 805-522-5431.
+2001-09-11 04:36:50 Metrocall [1544818] A  ALPHA  Server 'HAY-NS2 Disk.E.Free = 158042112, min allowable: (300000000)
+2001-09-11 04:36:50 Skytel [002376872] C  ALPHA  svcaem1@conxion.net|onl-sf-2.symantec.com, HTTP, 206.204.52.77:80, Server Recovered, | 
+2001-09-11 04:36:51 Arch [1339701] B  ALPHA  top_removel.gif > <http://htm
+2001-09-11 04:36:51 Skytel [003328569] C  ALPHA  OCTL 0.00 UNCH CSCO 14.47 +0.11 COMS 3.60 +0.05 USRX 0.00 UNCH (2
+2001-09-11 04:36:51 Skytel [002285372] D SH/TONE 123     
+2001-09-11 04:36:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1249..
+2001-09-11 04:36:57 Skytel [005330530] A ST NUM  8685222010

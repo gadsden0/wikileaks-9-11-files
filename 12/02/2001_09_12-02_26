@@ -1,0 +1,64 @@
+2001-09-12 02:26:00 Arch [1272423] B  ALPHA  (27)bb:e: /dev/vx/dsk/rootdg/rootvol 52015 41586 522889% / /dev/vx/dsk/rootdg/var 1071871 958558 59720 95% /var Pleasesee:http://ssc-sac-bs1.west.sprint.com/bb/html/ssc-sac-p1.corp.sprint.com.disk.html -oo-
+2001-09-12 02:26:00 Skytel [007591537] A ST NUM  203-916-5507   
+2001-09-12 02:26:00 Skytel [002396156] D SH/TONE 4359    
+2001-09-12 02:26:02 Skytel [005315855] D  ALPHA  Mana1205@aol.com|(no subject)|hey aza! forgot to page you. yes can go to your house.   [1452
+2001-09-12 02:26:02 Skytel [005225860] B SH/TONE 125     
+2001-09-12 02:26:04 Skytel [007563798] B ST NUM  210-244-8400   
+2001-09-12 02:26:04 Skytel {1092655} 3 2400 002647    
+2001-09-12 02:26:06 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 02:26:06 Arch [0911134] D  ALPHA   comsyb1-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGRDNY  Database=CERD_CORP_EDG  Mode=Full_Dump         # Our PID=24215    time='09/12/01 02:24:45'    sybase
+2001-09-12 02:26:06 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192629. 
+2001-09-12 02:26:10 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 02:26:10 Arch [0000101] B  ALPHA  MSN 085 hello Message from NOC PCB.
+2001-09-12 02:26:19 Metrocall [0847160] C  ALPHA  g'morn...call gary, there may be a way NOW to get a reporter to the epicentr! 5705 @ 0226 hrs -gary
+2001-09-12 02:26:19 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 144W MAJ=NONE
+2001-09-12 02:26:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1038
+2001-09-12 02:26:21 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-12 02:26:21 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=lbs  Mode=Incremental_Dump         # Our PID=13200    time='09/12/01 02:25:03'    sybase on
+2001-09-12 02:26:23 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-12 02:26:25 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 02:26:25 Arch [0925366] B  ALPHA   318643;Sep 11 22:27:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-12 02:26:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3294
+2001-09-12 02:26:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3294
+2001-09-12 02:26:33 Skytel [007046040] C  ALPHA  SPR UP(30),
+2001-09-12 02:26:34 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-12 02:26:34 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDSSPX_EQNY1  Database=eq_program  Mode=Incremental_Dump         # Our PID=13183    time='09/12/01 02:25:03'    sy
+2001-09-12 02:26:34 Arch [0860392] C  ALPHA  16-PLEASE CALL ETECH PROBLEM W/ ORACLE DATA BASE 718-242-5102.
+2001-09-12 02:26:35 Skytel [002376872] C  ALPHA  nms@svcanms.conxion.com|Sep11-23:26|There are 3 active alarms including server:inttra4:memory Virtual memory more than 90% consumed  
+2001-09-12 02:26:35 Skytel [007494826] C ST NUM  08776036744    
+2001-09-12 02:26:36 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-12 02:26:36 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=gsm  Mode=Incremental_Dump         # Our PID=13789    time='09/12/01 02:25:07'    sybase on
+2001-09-12 02:26:37 Skytel [0001461] B  ALPHA  GLOBEX   01:25     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 02:26:37 Skytel [005361335] B  ALPHA  alert@msn.com||Economic ripples*Terrorists strike United States*Children in sex trade*Sports world grinds to halt  
+2001-09-12 02:26:38 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-12 02:26:38 Arch [1666893] D  ALPHA  22711
+2001-09-12 02:26:39 Skytel [002281409] A ST NUM  9003867407
+2001-09-12 02:26:39 Skytel [007100993] A SH/TONE 800-7121
+2001-09-12 02:26:41 Skytel [1800019] A  ALPHA  GLOBEX   01:25     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 02:26:41 Skytel [002472278] B SH/TONE 285 (79 
+2001-09-12 02:26:41 Skytel [005249751] B SH/TONE 301     
+2001-09-12 02:26:41 Skytel [004415444] B ST NUM  07) 65444 
+2001-09-12 02:26:41 Skytel [007047007] D SH/TONE 3605    
+2001-09-12 02:26:43 Skytel [007602914] A SH/TONE 143     
+2001-09-12 02:26:43 Skytel [005252967] B SH/TONE 1       
+2001-09-12 02:26:43 Skytel [003926118] B SH/TONE 6270    
+2001-09-12 02:26:44 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2559..
+2001-09-12 02:26:45 Skytel [005059705] C SH/TONE 1229    
+2001-09-12 02:26:49 Skytel [002265117] D SH/TONE 99      
+2001-09-12 02:26:50 Skytel [005001895] B  ALPHA  [sps/187] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/lift/healthcheck.asp) 3:39:08
+2001-09-12 02:26:50 Skytel [004390436] B SH/TONE 17591   
+2001-09-12 02:26:50 Skytel [004397995] C  ALPHA  IntelliWatch Monitor: WARNING - Server CVGNA05.US.Schneider-Electric.com/A/SVR/Schneider MAY HAVE crashed. Waiting 260 seconds...
+2001-09-12 02:26:50 Skytel [002688552] C  ALPHA  STR21A (Stade, Germany) --> OHR21A (Ohrensen, Germany) is UP. TOR-01:38EDT. TKT#A1486515. Net-Ops will cont. to monitor. -- From: SMT - 248.528.7000
+2001-09-12 02:26:51 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-12 02:26:51 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192636. 
+2001-09-12 02:26:52 Skytel [007100477] D SH/TONE 389-4705
+2001-09-12 02:26:53 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-12 02:26:53 Metrocall [0533311] D  ALPHA  CMD-1 O/L F/I Comm Struc Fire at Fairfax Recycaling.| PEN311| 02:26
+2001-09-12 02:26:54 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:26:55 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-12 02:26:56 Skytel [004417746] A SH/TONE 9999    
+2001-09-12 02:26:58 Skytel [005178080] A SH/TONE 104     
+2001-09-12 02:26:58 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #76-IX_T4105
+2001-09-12 02:26:58 Skytel [005201254] B  ALPHA  notify@TUTOPIA.COM|Notification:Daily Inspiration - September 12, 2001|De: Beliefnet Newsletter <DailyInspiration@listserv.beliefnet.com> Asunto: Daily Inspiration - September 12, 2001 Fecha: Wed, 12 Sep 2001 00:30:52 -0400 Para: Beliefnet 
+2001-09-12 02:26:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8116
+2001-09-12 02:26:59 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4686

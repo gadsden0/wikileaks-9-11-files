@@ -1,0 +1,112 @@
+2001-09-12 00:19:00 Skytel [003252850] A ST NUM  900-759-8255   
+2001-09-12 00:19:00 Skytel [005124728] C ST NUM  203-920-8825   
+2001-09-12 00:19:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7988
+2001-09-12 00:19:01 Arch [0969573] B  ALPHA  212 477-9230
+2001-09-12 00:19:01 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191166. 
+2001-09-12 00:19:01 Arch [0987275] C  ALPHA  s0191: 09/11 12:20:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:20:24
+2001-09-12 00:19:01 Metrocall [1544818] A  ALPHA  WDC-MAIL02 "Server WDC-MAIL02/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail2.box. "
+2001-09-12 00:19:02 Skytel [007639556] B ST NUM  361-096-8100-1911   
+2001-09-12 00:19:03 Arch [1328748] D  ALPHA  (24)03-ZHAHT ALL 283SL 95% PMG 314 SL 95% REF 271 SL 95%.
+2001-09-12 00:19:03 Arch [0987275] C  ALPHA  s0191: 09/11 12:28:34 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:28:34
+2001-09-12 00:19:03 Arch [1081772] D  ALPHA  (8)73-ZHAHT ALL 283SL 95% PMG 314 SL 95% REF 271 SL 95%.
+2001-09-12 00:19:03 Skytel [004751249] A SH/TONE 636-3892
+2001-09-12 00:19:03 Skytel [005508893] D ST NUM  9775738886
+2001-09-12 00:19:05 Arch [0987275] C  ALPHA  s0191: 09/11 12:31:16 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:31:16
+2001-09-12 00:19:05 Skytel [004548134] B  ALPHA  DataSurveillance@icgcomm.com|oly-wa-gw1 13693|Device Affected:  GW1 Comments:  T
+2001-09-12 00:19:05 Skytel [005437867] C SH/TONE 911281  
+2001-09-12 00:19:07 Arch [0987275] C  ALPHA  s0191: 09/11 12:36:48 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:36:48
+2001-09-12 00:19:09 Arch [009996141] D  ALPHA  New voice mail received.
+2001-09-12 00:19:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4558
+2001-09-12 00:19:11 Skytel [007494481] A SH/TONE 788-8628
+2001-09-12 00:19:11 Skytel [007563991] B ST NUM  538-060-7411-137    
+2001-09-12 00:19:11 Skytel [005322068] B  ALPHA  949-887-2701 [9842.Gardena, CA         
+2001-09-12 00:19:22 Arch [0960331] C  ALPHA  Update continued:  4-SpeedPay working to establish New Jersey site. next status at 5AM-best guess ETC is mid-day tomorrow.  5-CTI Genesis having IR server issue-not related to terrorist attacks.  
+2001-09-12 00:19:22 Arch [0987275] C  ALPHA  s0191: 09/11 12:44:46 Reboot NT machine gbln
+2001-09-12 00:19:22 Arch [0949746] A  ALPHA  1/02:****NEW-TKT**** TYPE: Major  OP: 09/12/01 00:18:14 Tkt: NOC000000084887 STAT: WIP      SITE:  PROB: ADSL-MIA-DSG reports DSLAM (PCDATA) outage in South Florida, Miami area. ETR: 0100 12 Sept 2001
+2001-09-12 00:19:22 Arch [1359991] B  ALPHA  From: DTOPER@WSPDL2.WORLDSPAN.CO
+2001-09-12 00:19:22 Arch [0333409] A  ALPHA  Update continued:  4-SpeedPay working to establish New Jersey site. next status at 5AM-best guess ETC is mid-day tomorrow.  5-CTI Genesis having IR server issue-not related to terrorist attacks.  
+2001-09-12 00:19:22 Arch [0893066] C  ALPHA  Update continued:  4-SpeedPay working to est
+2001-09-12 00:19:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0911
+2001-09-12 00:19:22 Arch [1036133] B  ALPHA  Update continued:  4-SpeedPay working to establish New Jersey site. next status at 5AM-best guess ETC is mid-day tomorrow.  5-CTI Genesis having IR server issue-not related to terrorist at
+2001-09-12 00:19:22 Skytel [002406719] D SH/TONE 0500    
+2001-09-12 00:19:22 Skytel [005362361] C  ALPHA  root@dnsconsultants.com||Connect to in.telnetd by root from 217.204.250.35  
+2001-09-12 00:19:24 Arch [0987275] C  ALPHA  etnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:44:47
+2001-09-12 00:19:24 Arch [0474171] C  ALPHA  (27)09-ZHAHT ALL 283SL 95% PMG 314 SL 95% REF 271 SL 95%.
+2001-09-12 00:19:24 Arch [1359991] B  ALPHA  M HCPVP6B029W VPARS DATABASE IS 90% FULL, USER=VPOTS005 AUTOMATION ADDED MORE VPARS
+2001-09-12 00:19:24 Arch [0893066] C  ALPHA  ablish New Jersey site. next status at 5AM-best guess ETC is mid-day tomorrow.  5-CTI Genesis having IR server issue-not related to terrorist attacks.  
+2001-09-12 00:19:24 Arch [0886821] B  ALPHA  (15)73-ZHAHT ALL 283SL 95% PMG 314 SL 95% REF 271 SL 95%.
+2001-09-12 00:19:24 Arch [1036133] B  ALPHA  tacks.  
+2001-09-12 00:19:24 Arch [0949746] A  ALPHA  2/02:FastAccess 1.800.317.3343 opt 3,2
+2001-09-12 00:19:24 Skytel [007656384] A SH/TONE 394-6486
+2001-09-12 00:19:24 Skytel [004533958] B ST NUM  809-938-5988   
+2001-09-12 00:19:25 Skytel {0570177} 3 1200 0500 
+2001-09-12 00:19:25 Skytel {0143279} 3 1200 202-685-7650   
+2001-09-12 00:19:26 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-12 00:19:28 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-12 00:19:29 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-12 00:19:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3167
+2001-09-12 00:19:30 Metrocall [1146083] A  ALPHA  LP-SWAT: LP application server (re2xlpf) went down at 11:50 pm with the USA support we brought re2xlpf back up.  We are in the process of clean shut down.  Ca
+2001-09-12 00:19:31 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-12 00:19:31 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3167
+2001-09-12 00:19:31 Skytel [004694661] B SH/TONE 1       
+2001-09-12 00:19:33 Skytel [005332632] C  ALPHA  markr@bjc.org|dc| If Sharon is really willing to allow you to ride home, I say take her up.  XO hurry home   
+2001-09-12 00:19:33 Skytel [002355224] C ST NUM  900-448-9961-8001   
+2001-09-12 00:19:35 Skytel [004704807] B SH/TONE 3555    
+2001-09-12 00:19:35 Skytel [003280174] D  ALPHA  SEV1 UNRESOLVED 2 HOUR Tkt: 00717107 Assignee: Network Operations Voice & Data Location: r48_portland.netops.weyer.com Created: 09/11/01 15:33:53 Desc: R48_portland down & out to MCI
+2001-09-12 00:19:35 Skytel [002347687] B  ALPHA  SEV1 UNRESOLVED 2 HOUR Tkt: 00717107 Assignee: Network Operations Voice & Data Location: r48_portland.netops.weyer.com Created: 09/11/01 15:33:53 Desc: R48_portland down & out to MCI
+2001-09-12 00:19:35 Skytel [002867623] B ST NUM  34949 (72 
+2001-09-12 00:19:37 Arch [0899367] B  ALPHA  Update continued:  4-SpeedPay working to establish New Jersey site. next status at 5AM-best guess ETC is mid-day tomorrow.  5-CTI Genesis having IR server issue-not related to terrorist attacks.  
+2001-09-12 00:19:37 Arch [0905780] B  ALPHA  Update continued:  4-SpeedPay working to establish New Jersey site. next status at 5AM-best guess ETC is mid-day tomorrow.  5-CTI Genesis having IR server issue-not related to terrorist attacks.  
+2001-09-12 00:19:37 Skytel [005254194] A SH/TONE 1       
+2001-09-12 00:19:38 Metrocall [1146083] A  ALPHA  se#511098
+2001-09-12 00:19:39 Skytel [002404805] B  ALPHA  SEV1 UNRESOLVED 2 HOUR Tkt: 00717107 Assignee: Network Operations Voice & Data Location: r48_portland.netops.weyer.com Created: 09/11/01 15:33:53 Desc: R48_portland down & out to MCI
+2001-09-12 00:19:39 Skytel [005061198] D SH/TONE 339-3916
+2001-09-12 00:19:41 Skytel [007657299] A ST NUM  313-749-4287   
+2001-09-12 00:19:41 Skytel [007591378] A SH/TONE 6773    
+2001-09-12 00:19:41 Skytel [005098183] B  ALPHA  1119 list     -Plano 2 Way Ops
+2001-09-12 00:19:43 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-12 00:19:43 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191173. 
+2001-09-12 00:19:43 Arch [0899493] B  ALPHA  ammsprod2 AMMSWrite4Svc Broken
+2001-09-12 00:19:43 Arch [1608085] B  ALPHA  ammsprod2 AMMSWrite4Svc Broken
+2001-09-12 00:19:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #83-IX_T1708
+2001-09-12 00:19:44 Arch [0821151] D  ALPHA  (14)14-ZHAHT ALL 283SL 95% PMG 314 SL 95% REF 271 SL 95%.
+2001-09-12 00:19:44 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-12 00:19:44 Arch [0899493] B  ALPHA  ammsprod2 AMMSRead4Svc Broken
+2001-09-12 00:19:44 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-12 00:19:44 Arch [1608085] B  ALPHA  ammsprod2 AMMSRead4Svc Broken
+2001-09-12 00:19:45 Skytel [004730871] B ST NUM  237-993-8276   
+2001-09-12 00:19:45 Skytel [003327216] A  ALPHA  002605 CYCLIC TEST 
+2001-09-12 00:19:45 Skytel [007109749] B ST NUM  861-041-1146-7 
+2001-09-12 00:19:45 Skytel [002156407] B ST NUM  708-917-9016 (45    
+2001-09-12 00:19:45 Skytel [0001403] C  ALPHA  ]!z00]"AK];0a]<2Asian stocks tumble...    Nikkei 225 down 5%, below 10,000 for first time since 1984...     Hang Seng plunges 10%...   Taiwan, Malaysia and Thailand suspend trading... ]$ (3
+2001-09-12 00:19:45 Skytel [004695550] D  ALPHA  VOICE MAIL
+2001-09-12 00:19:45 Skytel [005203577] C SH/TONE 5       
+2001-09-12 00:19:45 Skytel [1293694] D  ALPHA  (sergiop): F1 REINICIO 23:22H
+2001-09-12 00:19:45 Skytel [002357369] C  ALPHA  002605 CYCLIC TEST 
+2001-09-12 00:19:45 Skytel [002139900] D SH/TONE 002605  
+2001-09-12 00:19:46 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-12 00:19:46 Arch [0899493] B  ALPHA  ammsprod2 AMMSRead6Svc Broken
+2001-09-12 00:19:46 Arch [1608085] B  ALPHA  ammsprod2 AMMSRead6Svc Broken
+2001-09-12 00:19:47 Skytel [004684553] C ST NUM  614-438-5577 (65    
+2001-09-12 00:19:47 Skytel [005057801] C  ALPHA  Case # 00894213 is no longer waiting. Internet Explorer set at priority 2.
+2001-09-12 00:19:48 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 00:19:48 Skytel [004209811] A ST NUM  439-6778 (82   
+2001-09-12 00:19:48 Skytel [007568646] B SH/TONE 91166   
+2001-09-12 00:19:49 Metrocall [1401376] A  ALPHA  /:DDC/: AT 2104 IN CS, 4KV CKT EXCH043 LO, 1472 CUST, 67TH - 70TH, & CRANDON - CLYDE, CAUSE UNDER INVESTIGATION.  JPB
+2001-09-12 00:19:50 Skytel [005001895] B  ALPHA  [sps/121] 101 sps-apps1.cps.intel.com relay 0.0 FAILURE Hostrefusing connection (/metrios/healthcheck[RegulusInvoice].asp)2:44:56
+2001-09-12 00:19:50 Skytel [005326762] C  ALPHA  root@hilpcw01.production.wcom.net||sp01cws: GPFS NOT operational on Node 17 (s01f2n17).  
+2001-09-12 00:19:50 Skytel [003948712] C  ALPHA  MYCITI P NJ19 mycnj19pweb1 ProcessCount uxwdog Equal to 0. 
+2001-09-12 00:19:50 Skytel [007494957] D SH/TONE 411     
+2001-09-12 00:19:50 Skytel [007457954] A SH/TONE 305-5650
+2001-09-12 00:19:52 Skytel [0001336] C  ALPHA  ]!z00]"AK];0a]<2Asian stocks tumble...    Nikkei 225 down 5%, below 10,000 for first time since 1984...     Hang Seng plunges 10%...   Taiwan, Malaysia and Thailand suspend trading... ]$ (3
+2001-09-12 00:19:52 Skytel [005058097] A  ALPHA  SiteScopeMonitor@boi.hp.com|SiteScope Alert, good, URL:  http://CNEBC1.cup.hp.com/log.nsf, 0.15 sec (15.56.40.80)|This alert is from SiteScope at http://15.56.40.80:8888/SiteScope  Monitor:  LotusNotesCup:URL:  http://CNEBC1.cup.hp.com/log.
+2001-09-12 00:19:54 Arch [0930546] A  ALPHA  Alarm: 09:18:12PM  Boiler Network connect   Site 4 Bldg 7 Hot water supply temp is out of range.
+2001-09-12 00:19:54 Skytel [007058497] A ST NUM  918-843-7003   
+2001-09-12 00:19:54 Skytel [008507076] B  ALPHA  01846h4b1cb010800001g
+2001-09-12 00:19:54 Skytel [005046732] D ST NUM  614-438-5577   
+2001-09-12 00:19:56 Skytel [005192412] D  ALPHA  clusentb@microsoft.com|Helios Description for Cluster InfoWeb Sep 11 2001  9:20PM|157.55.250.195 (cpmsftmsgv01 )  - State is Converged, Service State Unhealthy   --> Test: customerweb1 default.htm    --> Result (401): Authentication failed 
+2001-09-12 00:19:58 Arch [0977371] C  ALPHA  System Attendant|EXCHANGE13 Running since 09/12/0|EXCHANGE13 Running since 09/12/01 12:20 AM The server is running. 
+2001-09-12 00:19:58 Arch [1617276] D  ALPHA  55-PRICING MATRIX IS DONE AND IN YOUR EMAIL. MARTIN
+2001-09-12 00:19:58 Skytel [007553888] A  ALPHA  437-3300No Ring Mechanicsburg 717-796
+2001-09-12 00:19:58 Skytel [005306084] B SH/TONE 415-7893
+2001-09-12 00:19:59 Metrocall [1544820] B  ALPHA  WDC-MAIL02 "Server WDC-MAIL02/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail2.box. "

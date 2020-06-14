@@ -1,0 +1,112 @@
+2001-09-12 00:50:00 Metrocall [002116049] A  ALPHA  3,20010912-337843,9252242906,OLIVEIRA DK,3050-8A,4430 ROSEWOOD DR @ BLDG 3,wtcss20-not-reachable-via-Heartbeat-scripts
+2001-09-12 00:50:00 Metrocall [1783972] B  ALPHA  Frm: OSSMAIL1/OSS0010/GNI@verizongni.com Sub: ACR Txt: IC#2 Trunks/Ss7 out-of-se
+2001-09-12 00:50:00 Skytel [005556725] B  ALPHA  OSSMAIL1/OSS0010/GNI@verizongni.com|ACR| IC#2 Trunks/Ss7 out-of-service at Nyc/5E. 6000 TRUNKS and 9 SS7 Links OOS DUE TO FIRE NYC Referred to Data. NTT7718  
+2001-09-12 00:50:00 Skytel [005209591] B ST NUM  0) 408-299-2505
+2001-09-12 00:50:00 Skytel [007655801] C SH/TONE 530609  
+2001-09-12 00:50:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8019
+2001-09-12 00:50:01 Arch [0969310] D  ALPHA  800 456-1286
+2001-09-12 00:50:01 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191523. 
+2001-09-12 00:50:01 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-12 00:50:02 Metrocall [0525954] A  ALPHA  HTTP:Chelmick at 10.17.1.52 is DOWN.
+2001-09-12 00:50:02 Metrocall [1783972] B  ALPHA  rvice at Nyc/5E. 6000 TRUNKS and 9 SS7 Links OOS DUE TO FIRE NYC Referred to Data. NTT7718
+2001-09-12 00:50:02 Skytel [007573004] D SH/TONE 304-0087
+2001-09-12 00:50:03 Arch [0950818] A  ALPHA  From Sams Interactive App Sub:SAMSClub.com Sales 09112350 Msg:Merch  95/$21398.40  Mem  302/$13233.89  Tot  397/$34632.29  Cnp  18/$9294.53  Emb  2/$104.00  Auc  173/$9186.00  SiteTot  ...
+2001-09-12 00:50:03 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 00:50:03 Arch [0241791] D  ALPHA  (26)IPQ time limit exceeded for:PASSPORT_NYC_3:12-sep-2001 00:40
+2001-09-12 00:50:03 Arch [0969305] C  ALPHA  From Sams Interactive App Sub:SAMSClub.com Sales 09112350 Msg:Merch  95/$21398.40  Mem  302/$13233.89  Tot  397/$34632.29  Cnp  18/$9294.53  Emb  2/$104.00  Auc  173/$9186.00  SiteTot  ...
+2001-09-12 00:50:03 Arch [1131960] C  ALPHA  From Sams Interactive App Sub:SAMSClub.com Sales 09112350 Msg:Merch  95/$21398.40  Mem  302/$13233.89  Tot  397/$34632.29  Cnp  18/$9294.53  Emb  2/$104.00  Auc  173/$9186.00  SiteTot  ...
+2001-09-12 00:50:05 Arch [0950818] A  ALPHA  590/$53216.82  Sweep cnt  3167  
+2001-09-12 00:50:05 Arch [1131960] C  ALPHA  590/$53216.82  Sweep cnt  3167  
+2001-09-12 00:50:05 Arch [0969305] C  ALPHA  590/$53216.82  Sweep cnt  3167  
+2001-09-12 00:50:05 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-12 00:50:06 Skytel {1092655} 3 2400 002615    
+2001-09-12 00:50:07 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 00:50:09 Arch [0983275] C  ALPHA  From Sams Interactive App Sub:SAMSClub.com Sales 09112350 Msg:Merch  95/$21398.40  Mem  302/$13233.89  Tot  397/$34632.29  Cnp  18/$9294.53  Emb  2/$104.00  Auc  173/$9186.00  SiteTot  ...
+2001-09-12 00:50:09 Arch [0945458] A  ALPHA  From Sams Interactive App Sub:SAMSClub.com Sales 09112350 Msg:Merch  95/$21398.40  Mem  302/$13233.89  Tot  397/$34632.29  Cnp  18/$9294.53  Emb  2/$104.00  Auc  173/$9186.00  SiteTot  ...
+2001-09-12 00:50:09 Arch [0475901] D  ALPHA  From Sams Interactive App Sub:SAMSClub.com Sales 09112350 Msg:Merch  95/$21398.40  Mem  302/$13233.89  Tot  397/$34632.29  Cnp  18/$9294.53  Emb  2/$104.00  Auc  173/$9186.00  SiteTot  ...
+2001-09-12 00:50:09 Arch [1657188] B  ALPHA  NCAGBREACL:Device Inaccessible
+2001-09-12 00:50:10 Metrocall [1544820] B  ALPHA  WDC-MAIL02 "Server WDC-MAIL02/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail2.box. "
+2001-09-12 00:50:10 Metrocall [1543322] C  ALPHA  MAXM WDHL_T TRANSCPT kPATHNAMEo WDHL_RX1000 HAS NO CONNECTION TO SERVER, PLEASE INVESTIGATE 09/11/0121:47:4
+2001-09-12 00:50:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4589
+2001-09-12 00:50:11 Arch [0983275] C  ALPHA  590/$53216.82  Sweep cnt  3167  
+2001-09-12 00:50:11 Arch [0945458] A  ALPHA  590/$53216.82  Sweep cnt  3167  
+2001-09-12 00:50:11 Arch [0475901] D  ALPHA  590/$53216.82  Sweep cnt  3167  
+2001-09-12 00:50:12 Metrocall [1543322] C  ALPHA  7
+2001-09-12 00:50:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0942
+2001-09-12 00:50:22 Arch [0739731] A  ALPHA  7200
+2001-09-12 00:50:22 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-12 00:50:22 Arch [0000101] B  ALPHA  MSN 040 hello Message from NOC PCB.
+2001-09-12 00:50:24 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-12 00:50:24 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-12 00:50:24 Arch [0983461] B  ALPHA  Please contact the ION-PMC , recieving CRITICAL filesystem alarm in kc01sc01 100%.Jason/ION-PMC913-534-7200 
+2001-09-12 00:50:26 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 00:50:27 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-12 00:50:29 Arch [0979069] D  ALPHA  From Sams Interactive App Sub:SAMSClub.com Sales 09112350 Msg:Merch  95/$21398.40  Mem  302/$13233.89  Tot  397/$34632.29  Cnp  18/$9294.53  Emb  2/$104.00  Auc  173/$9186.00  SiteTot  ...
+2001-09-12 00:50:29 Arch [0789167] D  ALPHA  endofauction@eba|End-T-Maxx Chrome Full Roll C-It|
+2001-09-12 00:50:29 Arch [0936036] B  ALPHA  'lon-sls-rtr-s0' is unreachable. Circuit down?
+2001-09-12 00:50:29 Arch [0282950] B  ALPHA  From Sams Interactive App Sub:SAMSClub.com Sales 09112350 Msg:Merch  95/$21398.40  Mem  302/$13233.89  Tot  397/$34632.29  Cnp  18/$9294.53  Emb  2/$104.00  Auc  173/$9186.00  SiteTot  ...
+2001-09-12 00:50:29 Arch [0948675] A  ALPHA  pm_repo46@jpmorg|Failed s_prd_b78_COMPLIANCE_CHAS|Session s_prd_b78_COMPLIANCE_CHASE_SSN_Delta Failed Start Time: Wed Sep 12 00:37:52 2001 Completion Time: Wed Sep 12 00:49:45 2001 Elapsed time: 0:11:
+2001-09-12 00:50:31 Arch [0979069] D  ALPHA  590/$53216.82  Sweep cnt  3167  
+2001-09-12 00:50:31 Arch [0282950] B  ALPHA  590/$53216.82  Sweep cnt  3167  
+2001-09-12 00:50:31 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3198
+2001-09-12 00:50:31 Metrocall [002589120] A  ALPHA  Frm: Ron Burcham Sub: Fwd: Fw: Do this, its hilarious! Send it back to me if you need to! Txt: --- Irene Cornwell <gwtruck@msn.com> wrote:
+2001-09-12 00:50:31 Metrocall [002589125] B  ALPHA  Frm: Ron Burcham 
+2001-09-12 00:50:31 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3198
+2001-09-12 00:50:31 Metrocall [002589866] C  ALPHA  Frm: Ron Burcham Sub: Fwd: Fw: Do this, its hilarious! Send it back to me if you need to! Txt: --- Irene Cornwell <gwtruck@msn.com> wrote:
+2001-09-12 00:50:31 Metrocall [002589126] B  ALPHA  Frm: Ron Burcham Sub
+2001-09-12 00:50:32 Metrocall [002589125] B  ALPHA  Sub: Fwd: Fw: Do this, its hilarious! Send it back to me if you need to! Txt: --- Irene Cornwell <gwtruck@msn.com> wrote:
+2001-09-12 00:50:32 Metrocall [002589126] B  ALPHA  : Fwd: Fw: Do this, its hilarious! Send it back to me if you need to! Txt: --- Irene Cornwell <gwtruck@msn.com> wr
+2001-09-12 00:50:32 Metrocall [002589127] B  ALPHA  Frm: Ron Burcham Sub: Fwd: Fw: Do this, its hilarious! Send it back to me if you need to! Txt: --- Irene Cornwell <gwtruck@msn.com> wrote:
+2001-09-12 00:50:32 Skytel [992202249] C  ALPHA  300919198 PgCnt: 05 Emp# 103233 ELECTRONIC DATA SYSYTEMS CORP EQ# 10017593 CONNIE MONCUR:9547844400 Due BY 0913 @ 0526 POMPANO BEACH 
+2001-09-12 00:50:32 Skytel [005201550] D ST NUM  608-217-4742   
+2001-09-12 00:50:33 Skytel [007512349] D  ALPHA  Swimfan6@aol.com|GN:)|IM.Tired.Long day.U r SO in my mind. Hope u know why. ILYIWYINY..in my life.  
+2001-09-12 00:50:33 Skytel [004751249] A ST NUM  636-389-5143-6941191
+2001-09-12 00:50:33 Skytel [007610527] D  ALPHA  OSSMAIL1/OSS0010/GNI@verizongni.com|ACR| IC#2 Trunks/Ss7 out-of-service at Nyc/5E. 6000 TRUNKS and 9 SS7 Links OOS DUE TO FIRE NYC Referred to Data. NTT7718  
+2001-09-12 00:50:33 Skytel [007610385] A  ALPHA  OSSMAIL1/OSS0010/GNI@verizongni.com|ACR| IC#2 Trunks/Ss7 out-of-service at Nyc/5E. 6000 TRUNKS and 9 SS7 Links OOS DUE TO FIRE NYC Referred to Data. NTT7718  
+2001-09-12 00:50:33 Skytel [002694547] A  ALPHA  6) PROBLEM: 16608923 WAS OPENED ACCT#: A775S AT PRIO: 1 ON 09/12/01 AT 00:47 DESC/1: -NODE DOWN EQFDE454 WITH IP ADDRESS: 10.124.2.54 DESC/2: 
+2001-09-12 00:50:34 Metrocall [002589126] B  ALPHA  ote:
+2001-09-12 00:50:35 Skytel [005001895] B  ALPHA  [sps/121] 200 sps-apps1.cps.intel.com relay 0.689 BDE RegulusServices are running.<BR> (/metrios/healthcheck[RegulusInvoice].asp)4:39:59
+2001-09-12 00:50:35 Skytel [004625450] C  ALPHA  PIN HP NNM   STATUS: Critical               El NODO 30620-30619 SE VINO ABAJO EL DIA 09/11/01 A LAS 23:40:54
+2001-09-12 00:50:35 Skytel [005437867] C SH/TONE 911281  
+2001-09-12 00:50:35 Skytel [003938596] B ST NUM  958-812-3993   
+2001-09-12 00:50:37 Skytel [007518523] C  ALPHA  DummiesDaily |Nerd Word of the Day: Fuzzy Wuzzy: Bear with This|<html> <head> <title>DummiesDaily eT
+2001-09-12 00:50:37 Skytel [004596277] B SH/TONE 651-1760
+2001-09-12 00:50:37 Skytel [005180473] C ST NUM  315-427-1972   
+2001-09-12 00:50:37 Skytel [005212212] B SH/TONE 99 (4   
+2001-09-12 00:50:39 Skytel [007456578] A ST NUM  312-666-6268   
+2001-09-12 00:50:39 Skytel [002810061] D  ALPHA  PLSARIES@aol.com|Re: Re[3]:Article 69|Bob,  Please go back and read my message one more time.  I agreed that a decision  could be made at the regional level for the issue to be handled at the SMO  level.  What I specifically state
+2001-09-12 00:50:39 Skytel [008477645] D  ALPHA  PIN HP NNM   STATUS: Critical               El NODO 30620-30619 SE VINO ABAJO EL DIA 09/11/01 A LAS 23:40:54 (87 (7
+2001-09-12 00:50:39 Skytel [007640391] B ST NUM  920-723-1174   
+2001-09-12 00:50:39 Skytel [007522752] A ST NUM  08007598255    
+2001-09-12 00:50:39 Skytel [007551567] D SH/TONE 249-5301
+2001-09-12 00:50:39 Skytel [003263054] D  ALPHA  bcs_alert@am.sony.com|BCS Alert|PROCESSOR.EXE stopped running 18 minutes ago!  
+2001-09-12 00:50:41 Skytel [002810061] D  ALPHA  d was that
+2001-09-12 00:50:41 Skytel [007545168] A SH/TONE 625-6966
+2001-09-12 00:50:41 Skytel [003268440] C  ALPHA  bcs_alert@am.sony.com|BCS Alert|PROCESSOR.EXE stopped running 18 minutes ago!  
+2001-09-12 00:50:41 Skytel [004414553] C ST NUM  243-379-6911   
+2001-09-12 00:50:42 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 00:50:42 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191530. 
+2001-09-12 00:50:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #41-IX_T1707
+2001-09-12 00:50:43 Skytel [005330530] A ST NUM  8685222010
+2001-09-12 00:50:43 Skytel [007459820] D ST NUM  293-0197-15    
+2001-09-12 00:50:44 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-12 00:50:44 Metrocall [1064385] A  ALPHA  JY  8317/8385  +042 EC  9067/9047 +0067 BP 14526/14300 +000 SF  6005/6010  +070 CD  6388/6380  -010 AD  5169/5152  +031 DM  4636/4626  +034 MP103750/10290 -550 PTB 9039/8942  +002 2YBA 9558/9577  +28 2YTT 9542/9530  +39 2YTC 9457/9455  +19 CAC  3960/4
+2001-09-12 00:50:45 Metrocall [1064385] A  ALPHA  025 +000
+2001-09-12 00:50:45 Skytel [003261425] A  ALPHA  (1 of 2) Please ensure that your ees are hand scanning the U.S. Mail bags per Ti
+2001-09-12 00:50:45 Skytel [005040245] B SH/TONE 424-0188
+2001-09-12 00:50:45 Skytel [007638399] D SH/TONE 7346    
+2001-09-12 00:50:47 Skytel [005044104] C  ALPHA  scott.thomas@lamrc.com|Lab DB - Hitachi 4 used more than allowable time limit.|The next user is waiting to use Hitachi 4. You have been using the tool for 247 minutes and your allowable time on the tool has expired, please end your session 
+2001-09-12 00:50:48 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-12 00:50:48 Arch [0927891] A  ALPHA  9103
+2001-09-12 00:50:48 Skytel [007457563] C SH/TONE 305-5650
+2001-09-12 00:50:48 Skytel [007569687] B SH/TONE 2289    
+2001-09-12 00:50:48 Skytel [004717595] C ST NUM  580-650-4238   
+2001-09-12 00:50:48 Skytel [005508893] D ST NUM  9775738886
+2001-09-12 00:50:49 Metrocall [1064377] C  ALPHA  SED97040/97180/9710 9670/9628/9580/9549 SEY 999............. ..@.......CD..@.!`...6SDF.@..1..BK EC \.@.W Lk.LB.L..H..L.............A.@@0(........L......... .@........ H@.@K.H. L.\..\..L. P..........................616  TU 10328+
+2001-09-12 00:50:50 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 00:50:50 Skytel [004516266] C  ALPHA  Call ID=02123608 will miss a callback SLA at 09/12/01 00:17:00. Please make the appropriate callback and update the ticket.
+2001-09-12 00:50:50 Skytel [005065124] B  ALPHA  FONp 0.00 UNCH MCIC 0.00 UNCH ATF 123.25 UNCH
+2001-09-12 00:50:52 Skytel [003591987] A  ALPHA  IBM 96.47 UNCH NSCP 0.00 UNCH NOVL 3.99 UNCH MSFT 57.58 UNCH (2
+2001-09-12 00:50:54 Skytel [004477261] D  ALPHA  MSFT 57.58 UNCH (30
+2001-09-12 00:50:56 Skytel [004040020] B  ALPHA  785-267-1672
+2001-09-12 00:50:58 Skytel [007084271] D SH/TONE 248     

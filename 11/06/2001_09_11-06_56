@@ -1,0 +1,94 @@
+2001-09-11 06:56:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2123
+2001-09-11 06:56:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2123
+2001-09-11 06:56:03 Skytel [005346067] A  ALPHA  Apollo:Jupiter (Pos2.log) Completed EventId PriceYieldCount 66054 222 66064 5 Shock 1 Price diff 227 Correct PriceYieldCurve
+2001-09-11 06:56:03 Skytel [004534043] C SH/TONE 1       
+2001-09-11 06:56:04 Arch [1394622] D  ALPHA  F:swingler@acm.org S:CNN (page): T:swingler@PASCAL.WACO.ORG M:- Iraq claims U.S. spy plane shot down; Pentagon confirms losing contact with unmanned craft. Details to come.
+2001-09-11 06:56:04 Arch [0545241] C  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 04700335 from cluster 2034 to cluster 2029), status C3AE181B, extended s
+2001-09-11 06:56:04 Arch [1643232] A  ALPHA  CSR000000534734 Sev 2 HENAPPS1 Assigned to mbxmand; (Problem; ; Workload Mgt; Henderson, NV)
+2001-09-11 06:56:04 Skytel {1092655} 3 2400 002257    
+2001-09-11 06:56:05 Arch [0988248] C  ALPHA  PM26063 DEBORAH HILL (614)438-3991// L=OHWORT F=na C= S=1 L= Worthington    clients are not getting drive mappings from  
+2001-09-11 06:56:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6945
+2001-09-11 06:56:05 Arch [1328100] B  ALPHA  PM26063 DEBORAH HILL (614)438-3991// L=OHWORT F=na C= S=1 L= Worthington    clients are not getting drive mappings from  
+2001-09-11 06:56:05 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2212 - 001DEB OCALA 6125, high BER, Set
+2001-09-11 06:56:05 Metrocall [1064385] A  ALPHA  00-019 BDM 10717-011
+2001-09-11 06:56:11 Metrocall [0049217] A  ALPHA  Frm: IPN Txt: PEN| Pittsburgh| 1 Alarm Fire| 453.8500| Univ. Pitt. Litchfield Towers|Grease fire/kitchen bld being evac| PEN151| 06:55
+2001-09-11 06:56:11 Metrocall [002562873] C  ALPHA  Take your medications
+2001-09-11 06:56:17 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: PRS1_EQROCINY 4 lines of potential REPSERVER errors E. 2001/09/11 06:52:16. ERROR #1027 RSI(PRS1_EQROCIBM) - i/rsiint.c(1873) E. 2001/09/11 06:52:16. ERR
+2001-09-11 06:56:17 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179385. 
+2001-09-11 06:56:17 Arch [1025653] B  ALPHA  23-I WILL NOT BE ABLE TO MAKE WOLF'S THIS MORNING. WILL BE IN THE OFFICE ABOUT 8:15. -ROBERT
+2001-09-11 06:56:17 Arch [0970121] C  ALPHA  399-2992
+2001-09-11 06:56:17 Arch [1631927] B  ALPHA  286-6580
+2001-09-11 06:56:20 Metrocall [1283162] C  ALPHA  Time to take medication.
+2001-09-11 06:56:20 Metrocall [1282789] B  ALPHA  Take 1 Combivir, 5 Viracept, 1 Theraputic
+2001-09-11 06:56:20 Metrocall [002110442] C  ALPHA  Good morning, Rosa. Med time.
+2001-09-11 06:56:24 Arch [1379990] B  ALPHA  CSR000000534734 Sev 2 HENAPPS1 Assigned to mbxmand; (Problem; ; Workload Mgt; Henderson, NV)
+2001-09-11 06:56:24 Arch [0928311] B  ALPHA  BREAKING NEWS from CNN.com -- Iraq claims U.S. spy plane shot down; Pentagon confirms losing contact with unmanned craft. Details to come. For complete coverage of this story visit: http://www.CNN.com
+2001-09-11 06:56:24 Arch [0931409] A  ALPHA  Marvin, Don't forget about your LMR that's COD #5926070901 pls cnfrm
+2001-09-11 06:56:24 Arch [1327523] A  ALPHA  BREAKING NEWS from CNN.com -- Iraq claims U.S. spy plane shot down; Pentagon confirms losing contact with unmanned craft. Details to come. For complete coverage of this stor
+2001-09-11 06:56:24 Arch [1643232] A  ALPHA  CSR000000534735 Sev 2 HENUXAPA Assigned to mbxmand; (Problem; ; Workload Mgt; Henderson, NV)
+2001-09-11 06:56:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9868
+2001-09-11 06:56:26 Arch [1379990] B  ALPHA  CSR000000534735 Sev 2 HENUXAPA Assigned to mbxmand; (Problem; ; Workload Mgt; Henderson, NV)
+2001-09-11 06:56:26 Arch [1327523] A  ALPHA  y visit: http://www.CNN.com
+2001-09-11 06:56:26 Arch [1636890] C  ALPHA  4242
+2001-09-11 06:56:29 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs06 Sev:0 # 700016 ProcessesDown WBS 3.1.14.1 09/11/01 03:54:14 Instance: ChkSysRes Module: ChkSysRes Details: Processes Down or Restarted: psm_esni
+2001-09-11 06:56:30 Arch [0945069] D  ALPHA  "RCDN Campus" <a|RCDN6 Bldg 5 - 4th Floor SF_FAIL Bldg 5 - 4th Floor Supply fan failure alarm. * 
+2001-09-11 06:56:30 Arch [0578286] D  ALPHA  BREAKING NEWS from CNN.com -- Iraq claims U.S. spy plane shot down; Pentagon confirms losing contact with unmanned craft. Details to come. For complete coverage of this story visit: http://www.CNN.com or AOL Keyword: CNN CNN Headline News ha
+2001-09-11 06:56:30 Arch [0908432] A  ALPHA  ktrader|Any luck with Shaker?   
+2001-09-11 06:56:30 Arch [0925366] B  ALPHA   318643;Sep 11 02:57:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 06:56:30 Metrocall [002110605] D  ALPHA  Time to take your medication.
+2001-09-11 06:56:30 Metrocall [1282655] D  ALPHA  Good morning
+2001-09-11 06:56:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3516
+2001-09-11 06:56:30 Metrocall [002110506] C  ALPHA  Time to take medication.
+2001-09-11 06:56:31 Metrocall [1064391] B  ALPHA  LME FUTURES       MCU_1442/1444 -002 MAL 1370/1372 -006 MAA 1141/1146 -014 MNI 5080/5110 -050 MSN 3760/3765 -015 MPB 4790/4810 -010 MZN _830/_832 -005
+2001-09-11 06:56:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 03:56:22 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 06:56:31 Skytel [002558095] D SH/TONE 75      
+2001-09-11 06:56:33 Skytel [007575575] B  ALPHA  lostux@limbstx1.att.com|0 CARE OUT DAEMONS ARE UP|CARE OUT DAEMON ALERT, PLEASE CHECK  
+2001-09-11 06:56:35 Arch [0975773] D  ALPHA  BreakingNews@CNN|CNN Breaking News|BREAKING NEWS from CNN.com -- Iraq claims U.S. spy plane shot down; Pentagon confirms losing contact with unmanned craft. Details to come. For complete coverage of this story visit: http://www.CNN.com or AO
+2001-09-11 06:56:35 Skytel [005240623] D  ALPHA   DOWN (SS) France Firewall (basilisk-fr) failed
+2001-09-11 06:56:35 Skytel [003420581] B SH/TONE 4051 (45
+2001-09-11 06:56:35 Skytel [004039714] A  ALPHA  800-227-3030 (99
+2001-09-11 06:56:35 Skytel [007542956] D ST NUM  9779123966
+2001-09-11 06:56:37 Arch [0129626] C  ALPHA  This is a Gov't pager.  If found return to Crystal Gateway 4, Suite 1400. 703-604-6040 []
+2001-09-11 06:56:37 Skytel [002848952] C  ALPHA  10178:Network Node LYRT160C201D (3.164.163.64) is Up @ 06:55 09/11/01
+2001-09-11 06:56:37 Skytel [0001461] B  ALPHA  GLOBEX   05:55     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109850   275+   SPU  109890   320+   NDU  138150  1100+   6JZ    8271A   72-   6EZ    8947    33-   6SZ    5923A   17-   6BZ   14510A   18-   6CZ    6393     3+   
+2001-09-11 06:56:37 Skytel [003054900] B  ALPHA  QSYSARB5/QSYS-System utility power failed at 010911065446.
+2001-09-11 06:56:38 Skytel [005055299] A  ALPHA  trose167@citlink.net|| GIVE ME A CALL WHEN YOU GET A CHANCE, I WANT TO KNOW WHAT TIME YOU ARE = GOING TO BE HOME TODAY.  IN TIME TO GO WITH ME TO GET KELSEY?  143
+2001-09-11 06:56:38 Skytel [004209088] A ST NUM  566-312-6143 (92    
+2001-09-11 06:56:38 Skytel [005178316] D SH/TONE 8005    
+2001-09-11 06:56:40 Skytel [1800019] A  ALPHA  GLOBEX   05:55     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109850   275+   SPU  109890   320+   NDU  138150  1100+   6JZ    8271A   72-   6EZ    8947    33-   6SZ    5923A   17-   6BZ   14510A   18-   6CZ    6393     3+   
+2001-09-11 06:56:40 Skytel [005212510] D  ALPHA  inboxusr@noribx11.wcomnet.com||Your Interact report for JO is ready.  
+2001-09-11 06:56:41 Metrocall [0614146] A  ALPHA  The Command Center is Functioning Properly!!!
+2001-09-11 06:56:41 Metrocall [0658751] D  ALPHA  06:53AM Tue 09/11/2001  Ofc Pagach was involved in a 10-50 @ alex hosp, where he ran his Crusier into a pole/gate which could not be see (01/03)
+2001-09-11 06:56:41 Metrocall [0658751] D  ALPHA  06:53AM Tue 09/11/2001  n. The pole/ga
+2001-09-11 06:56:41 Metrocall [002110541] D  ALPHA  Get busy, it's time.
+2001-09-11 06:56:41 Metrocall [002110604] D  ALPHA  Please take your meds.
+2001-09-11 06:56:41 Metrocall [1543814] B  ALPHA  Take your meds.
+2001-09-11 06:56:41 Metrocall [002110629] B  ALPHA  Take meds.
+2001-09-11 06:56:41 Metrocall [1079407] D  ALPHA  Frm: BreakingNews@CNN.COM Sub: CNN Breaking News Txt: BREAKING NEWS from CNN.com -- Iraq claims U.S. 
+2001-09-11 06:56:42 Skytel [005436525] D  ALPHA  nMCI Test #15
+2001-09-11 06:56:42 Skytel [004532708] B ST NUM  778-5162-43    
+2001-09-11 06:56:43 Arch [0887546] C  ALPHA  18-DENNIS:  I AM AT ROCKVILLE CENTER WAITING TO DROP OFF THE PAMPHLETS TO VINNY.  I WILL MEET YOU IN ABOUT 15 MINUTES.  BILLY.
+2001-09-11 06:56:43 Arch [0890253] D  ALPHA  06:56:50AM  Engine Running  CEDAR GENERATOR
+2001-09-11 06:56:43 Metrocall [0658751] D  ALPHA  te entered through the windsheild and struck him in the forehead, he was treated and released for (02/03)
+2001-09-11 06:56:43 Metrocall [1079407] D  ALPHA  spy plane shot down; Pentagon confirms losing contact with unmanned craft. Details to come. For complete coverage of this story visit: htt
+2001-09-11 06:56:44 Skytel [005059705] C SH/TONE 1229    
+2001-09-11 06:56:44 Skytel [005202292] B SH/TONE 305-8987
+2001-09-11 06:56:44 Skytel [007101042] A SH/TONE 4725    
+2001-09-11 06:56:44 Skytel [004548850] A SH/TONE 84691   
+2001-09-11 06:56:45 Metrocall [0658751] D  ALPHA  06:53AM Tue 09/11/2001  a minor head injury. any questions Contact Sgt Farmer-Lee..x4964 (03/03)
+2001-09-11 06:56:45 Metrocall [1079407] D  ALPHA  p
+2001-09-11 06:56:46 Skytel [007046285] D SH/TONE 84877   
+2001-09-11 06:56:46 Skytel [007542287] D ST NUM  67777 (70 
+2001-09-11 06:56:47 Arch [0912340] B  ALPHA  Bomb Scare, ND, 700 W. 40TH Male caller stated a bomb in the bldg, set to go of at 0815. 7811 notified.
+2001-09-11 06:56:48 Skytel [007603477] B SH/TONE 342     
+2001-09-11 06:56:48 Skytel [004074908] D SH/TONE 714-3478
+2001-09-11 06:56:52 Skytel [002400430] D ST NUM  044-9888-8
+2001-09-11 06:56:53 Skytel [005386571] C  ALPHA  Avis Sev1 UPDATE V817167 Chicago Elk Grove router AVSEGVW1 is down. Ameritech and AT&T investigating problem with T1. Issue has been escalated to third level support, NetOps monitoring. Next update with status change. More info Phil X5601
+2001-09-11 06:56:54 Skytel [005431623] B SH/TONE 8000 (87
+2001-09-11 06:56:54 Skytel [003914699] C SH/TONE 439-9307
+2001-09-11 06:56:56 Arch [0939147] C  ALPHA  Voice Mail from 4048434453, 12 seconds on Tue Sep 11 06:55:58 2001
+2001-09-11 06:56:56 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179392. 
+2001-09-11 06:56:56 Arch [0911134] D  ALPHA   equity71 SYBASE: check_db(PDS1_EQGTWLN) too much PHYSICAL I/O - jpm     7092  58 @06:55 09/11/01 
+2001-09-11 06:56:57 Skytel [003316207] D SH/TONE 607 (55 
+2001-09-11 06:56:58 Arch [0911134] D  ALPHA   equity71 SYBASE: check_db(PDS1_EQGTWLN) too much PHYSICAL I/O - jpm     7725  58 @06:55 09/11/01 
+2001-09-11 06:56:59 Skytel [007545457] A SH/TONE 829     

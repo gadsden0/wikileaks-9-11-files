@@ -1,0 +1,53 @@
+2001-09-11 05:51:01 Metrocall [1064385] A  ALPHA  2/32 FDX 4747/4800  +060 PTB 8955/8866  -023 FGBS10356 FYB 13897 BDL 10805/10800-020 BDM 10714-014
+2001-09-11 05:51:03 Skytel [002392598] B  ALPHA  05:50:12 AM
+2001-09-11 05:51:03 Skytel {0468104} 3 1200 2  3423   
+2001-09-11 05:51:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6880
+2001-09-11 05:51:04 Arch [0976352] A  ALPHA  (13)From Kristin Allbright Sub:x75245 remedy#10025448 store 874 errors on fibers connected to upc2. replaced card with one from upc1 and sending service to replace the bad card. Msg:  
+2001-09-11 05:51:04 Arch [1611003] C  ALPHA  (22)From Kristin Allbright Sub:x75245 remedy#10025448 store 874 errors on fibers connected to upc2. replaced card with one from upc1 and sending service to replace the bad card. Msg:  
+2001-09-11 05:51:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178663. 
+2001-09-11 05:51:08 Arch [0911134] D  ALPHA   cshprod1-adm.ny.jpmorgan.com SYBASE: check_db(PDS1_EQCSWNY) too much PHYSICAL I/O - sa_user 11543 60 @05:50 09/11/01 
+2001-09-11 05:51:10 Arch [0911134] D  ALPHA   cshprod1-adm.ny.jpmorgan.com SYBASE: check_db(PDS1_EQCSWNY) too much PHYSICAL I/O - sa_user 19088 60 @05:50 09/11/01 
+2001-09-11 05:51:11 Metrocall [1363643] C  ALPHA  Frm: busintel@tickets.com Sub: =?iso-8859-1?Q?Load Plan Completion - TicketsLive TOF?=
+2001-09-11 05:51:15 Arch [0955559] B  ALPHA  ohprod <ohprod@s|TdsRIn: client came up|TDS OUTBOUND I/F is up 
+2001-09-11 05:51:17 Arch [0955559] B  ALPHA  ohprod <ohprod@s|TdsRErr: client came up|
+2001-09-11 05:51:19 Arch [0955559] B  ALPHA  ohprod <ohprod@s|TdsROut: client came up|TDS INBOUND I/F is up 
+2001-09-11 05:51:20 Metrocall [002265311] D  ALPHA  Frm: MSN Txt: Hotmail J A n E t:Get a Credit Card in 30 Seconds!
+2001-09-11 05:51:23 Arch [1164259] A  ALPHA  From Kristin Allbright Sub:x75245 remedy#10025448 store 874 errors on fibers connected to upc2. replaced card with one from upc1 and sending service to replace the bad card. Msg:  
+2001-09-11 05:51:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9803
+2001-09-11 05:51:26 Arch [0911134] D  ALPHA   cshprod1-adm.ny.jpmorgan.com SYBASE: check_db(PDS1_EQCSWNY) too much PHYSICAL I/O - sa_user 6222  60 @05:50 09/11/01 
+2001-09-11 05:51:26 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178670. 
+2001-09-11 05:51:30 Arch [0925366] B  ALPHA   318643;Sep 11 01:52:03 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 05:51:31 Metrocall [1363643] C  ALPHA  Frm: busintel@tickets.com Sub: =?iso-8859-1?Q?Load Plan Completion - ADVCLEV TOF?=
+2001-09-11 05:51:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3451
+2001-09-11 05:51:31 Skytel [003947407] D  ALPHA  ECCFTP01:Device Inaccessible
+2001-09-11 05:51:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 02:50:56 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:51:31 Skytel [002384012] D  ALPHA  Warning:Blocking activity at NYIORS_PRD_SQL1.TradeServ, spid=124. Remains for 380 sec.
+2001-09-11 05:51:31 Skytel [002184975] D SH/TONE 3618 (35
+2001-09-11 05:51:31 Skytel [006516483] A  ALPHA  Serv: 0034868 hr:09/11/01 04:51:48 AM$ equip E450 assigned Arturo Bernal customer:SEAGATE TECHNOLOGY REYNOSA, S DE R.L. 
+2001-09-11 05:51:33 Skytel [004197649] A SH/TONE 4848 (4 
+2001-09-11 05:51:33 Skytel [003944208] A SH/TONE 5656    
+2001-09-11 05:51:35 Skytel [005362849] A  ALPHA  rbello1@fedex.com|ADHOC FLIGHT 1580|ADHOC FLIGHT 1580 MEM/BDL/EWR SKD ARR: 1033...FDR SHOWS 1 SAA & 1 AYY @2,952 LBRich,  
+2001-09-11 05:51:35 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb7 login content match error on step 2, http://192.168.67.187:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informat
+2001-09-11 05:51:36 Skytel [002402363] C  ALPHA  CAM:mcfl1u0q:20010911054900 mcfl1u0q trapd 10591 MQTRANS000 CAM: All Systems Normal
+2001-09-11 05:51:38 Skytel [004398155] C SH/TONE 4444    
+2001-09-11 05:51:38 Skytel [002380618] C  ALPHA  Warning:Blocking activity at NYIORS_PRD_SQL1.TradeServ, spid=124. Remains for 380 sec.
+2001-09-11 05:51:40 Arch [0915934] D  ALPHA  |Case in SPSG-US-NShift |P3 *ANS*Output Stuck caused Cbus - Restart (Router - General Issues::Bus Error #AC9 from 05:51|119  
+2001-09-11 05:51:40 Arch [0970454] B  ALPHA  (28)DI:-*Send-ANI-List(4:48:02
+2001-09-11 05:51:40 Skytel [002365520] A  ALPHA  Warning:Blocking activity at NYIORS_PRD_SQL1.TradeServ, spid=124. Remains for 380 sec.
+2001-09-11 05:51:41 Arch [0970454] B  ALPHA  (29)DI:-*Submit-Cust-JCL(4:48:24
+2001-09-11 05:51:42 Skytel [004524770] A  ALPHA  spr-ArthurPJones-EastHampton-01: CPE Up at 00:58:57 on 9/11
+2001-09-11 05:51:42 Skytel [005135973] B  ALPHA  apadmin1@household.com||T512759, THE TNG CAIUXOS AGENT ON PHILDCAP58, HAS DETECTED THAT PROCESS JRE,,,KANA HAS FAILED.   
+2001-09-11 05:51:42 Skytel [004669282] A SH/TONE 1111    
+2001-09-11 05:51:42 Skytel [005476451] A ST NUM  340-773-8683   
+2001-09-11 05:51:42 Skytel [007438052] B SH/TONE 3333 (58
+2001-09-11 05:51:42 Skytel [005436525] D  ALPHA  Test #25-IX_T1713
+2001-09-11 05:51:42 Skytel [005057390] D  ALPHA  al001dataaege:3.7.002 Service MSExchangeDS (Microsoft Exchange Directory) Has Just Started.
+2001-09-11 05:51:42 Skytel [005055847] B  ALPHA  CAM:mcfl1u0q:20010911054900 mcfl1u0q trapd 10591 MQTRANS000 CAM: All Systems Normal
+2001-09-11 05:51:42 Skytel [005112809] C  ALPHA  04:46CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240384: Uncorrectable write error
+2001-09-11 05:51:44 Skytel [007524604] D  ALPHA  ingevandermeerschen@hotmail.com|Re: your mail|<html><div style='background-color:'><DIV> <P>hi graem
+2001-09-11 05:51:44 Skytel [005552758] B  ALPHA  THIS PAMELA ROJAS, MY SON SCOTT IS A YEAR AND A HALF. HE'S WHEEZING AND HAS LIKE A SEAL LIKE COUGH. AND I NEED SOMEONE TO CALL ME BECAUSE I DON'T KNOW WHAT TO GIVE HIM. 576-1660
+2001-09-11 05:51:44 Skytel [003954036] B  ALPHA  ECCFTP01:Device Accessible,Device Status:Ok
+2001-09-11 05:51:46 Skytel [003490056] C SH/TONE 3553    
+2001-09-11 05:51:50 Skytel [004690086] B SH/TONE 23      
+2001-09-11 05:51:54 Metrocall [1580909] D  ALPHA   las
+2001-09-11 05:51:57 Skytel [004396782] D SH/TONE 3177    

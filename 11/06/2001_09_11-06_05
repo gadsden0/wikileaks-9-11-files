@@ -1,0 +1,55 @@
+2001-09-11 06:05:00 Metrocall [1495977] C  ALPHA  (From ICON01) IR:1283632 JOB:FIDL530D ABD:U0000 P:3 ON DALA 09/11 05:02
+2001-09-11 06:05:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2072
+2001-09-11 06:05:00 Metrocall [0490578] A  ALPHA  GOOD MORNING SUNSHINE, WAKEY WAKEY :)
+2001-09-11 06:05:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2072
+2001-09-11 06:05:01 Skytel [003947407] D  ALPHA  NIMS01:Device Accessible,Device Status:Ok
+2001-09-11 06:05:05 Skytel [002266921] C SH/TONE 1       
+2001-09-11 06:05:05 Skytel {1013907} 3 2400 4371  37  
+2001-09-11 06:05:05 Skytel {1092655} 3 2400 002240    
+2001-09-11 06:05:06 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6894
+2001-09-11 06:05:06 Arch [0000101] B  ALPHA  MSN 010 hello Message from NOC PCB.
+2001-09-11 06:05:08 Arch [0988009] C  ALPHA  "Data Spy Page" |M-D:ACTIVITY -1/3|* DOS:-------Mon-9/10 Transports:-----417 Responses:------468 Cancelled:-------51 Avg_TOT:------82min > > > 
+2001-09-11 06:05:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178819. 
+2001-09-11 06:05:11 Metrocall [1639104] A  ALPHA  (From ICON01) IR:1283632 JOB:FIDL530D ABD:U0000 P:3 ON DALA 09/11 05:02
+2001-09-11 06:05:11 Metrocall [1225438] D  ALPHA  Frm: Y! Txt: $499 deals on iPAQ Pocket PC Savannah, GA Sunny 72 - 86 F WNI
+2001-09-11 06:05:15 Arch [0944834] A  ALPHA  58880
+2001-09-11 06:05:20 Metrocall [1227403] C  ALPHA  Frm: Alert Sub: BRE-IISL3-2K UP at 03:05:34 Txt: Address: 208.21.60.136 XMLS IIS Server
+2001-09-11 06:05:21 Arch [1005985] A  ALPHA  --- Equipment ID [2331 ] status change - interference Equipment ID [2331 ] Event
+2001-09-11 06:05:23 Arch [1635918] D  ALPHA  |MyVisto Alerts <aler|New Email at jt@visto.com|F: ckly2.11@lists.postmastergeneral.com S: 12 FreeCD's - Real FREE |
+2001-09-11 06:05:24 Arch [0988009] C  ALPHA  "Data Spy Page" |M-D:ACTIVITY -2/3|* ***Type:--T/OT/OT%* ALS-E:-----7-7-100% ALS-NE:---27-19-70% BLS-E:---100-85-85% BLS-NE:-163-127-78% > > > 
+2001-09-11 06:05:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9817
+2001-09-11 06:05:26 Arch [0988009] C  ALPHA  "Data Spy Page" |M-D:ACTIVITY -3/3|* WC/Str:-120-119-99% 
+2001-09-11 06:05:29 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3465
+2001-09-11 06:05:31 Skytel [004397191] B  ALPHA  17330:17330 dmntwp01 06:05:17 The FTP Publishing Service is not running. IT/O will restart
+2001-09-11 06:05:31 Skytel [007555205] B  ALPHA  jjlongwell@fedex.com|Numerous calls on service disruption|Please inform; John Longwell 262-1015  
+2001-09-11 06:05:35 Skytel [007602594] A ST NUM  335-314-2211   
+2001-09-11 06:05:36 Arch [0902548] B  ALPHA  <Angela.Green@ed|CLT SMC Page|Westlake NA WESTLAKE: GMQPUH11 and RBEPBAL late. Deliverable due @ 19:00 and 22:00, completed @ 19:12 and 22:12. Sys: SMC HRLY Update Sev: 3 06:00 19160793 
+2001-09-11 06:05:38 Skytel [003481167] D ST NUM  614-431-4302   
+2001-09-11 06:05:39 Arch [0766560] A  ALPHA  (24)Please return call to 404-343-4659-D. Henderson
+2001-09-11 06:05:39 Arch [1327486] D  ALPHA  (7)FYI: VIRUS Fun Love has infiltrated Sprint. Conference bridge 888-282-5528 or 816-650-0799 #93612.  No need to join at this time.   Fix agents are working.  SitMan/Brad
+2001-09-11 06:05:40 Skytel [004737368] C  ALPHA  ROBOT Job WB760 ended abnormally. 01/09/11 06:04:36 09/11/01 06:04 RBTUSER
+2001-09-11 06:05:40 Skytel [005422295] B ST NUM  627-343-3884   
+2001-09-11 06:05:40 Skytel [007009370] C SH/TONE 1       
+2001-09-11 06:05:40 Skytel [003484249] C ST NUM  670-977-6044   
+2001-09-11 06:05:40 Skytel [005051613] D  ALPHA  (2 of 2) on=full (backup node) [Monica_Jaramillo]
+2001-09-11 06:05:40 Skytel [003248982] B  ALPHA  2) jrigsby1@us.ibm.com||NSEM/Pathmark/NA/1-888-212-5447/Pathmark store 568 has recovered. This has been verified with store support. PR will be closed.  
+2001-09-11 06:05:41 Metrocall [1268846] D  ALPHA  (91)9/11 6:08 am GARDENER 249 SOUTH MAIN ST ANDOVER MA 01810 HIDDEN RD DONALD
+2001-09-11 06:05:41 Metrocall [1268846] D  ALPHA  c.NT.().8K.4'.-..3..
+2001-09-11 06:05:42 Skytel [005135973] B  ALPHA  apadmin1@household.com||T512758, THE TNG CAIUXOS AGENT ON PHILDCAP58, HAS DETECTED THAT PROCESS NSPERL,,,KANA HAS FAILED.   
+2001-09-11 06:05:42 Skytel [003913184] A ST NUM  904-775-6132   
+2001-09-11 06:05:42 Skytel [004524770] A  ALPHA  spfmab02:  Trunk Alarm from spfmab02 reason path-yellow: Status Fail Slot 3 Port 1 at 01:24:22 on 9/11
+2001-09-11 06:05:42 Skytel [005132640] A  ALPHA  20) jrigsby1@us.ibm.com||NSEM/Pathmark/NA/1-888-212-5447/Pathmark store 568 has recovered. This has been verified with store support. PR will be closed.  
+2001-09-11 06:05:42 Skytel [005436525] D  ALPHA  Test Message #95-IX_T1916
+2001-09-11 06:05:44 Skytel [003954036] B  ALPHA  ECCFTP01:Device Accessible,Device Status:Ok
+2001-09-11 06:05:44 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-11 06:05:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178826. 
+2001-09-11 06:05:48 Skytel [002401821] D  ALPHA  206.122.40.74  NO MORE SPACE IN DATA BASE - REPLY R (RETRY), B (BACKUP), N (NEW), C (CLEAN), OR T (TERMINATE) ussa11.SSMC 
+2001-09-11 06:05:48 Skytel [007512210] A  ALPHA  y-news@yahoo-inc.com||$499 deals on iPAQ Pocket PC Calif. Grand Jury Declines to Investigate Condit Reuters  
+2001-09-11 06:05:50 Metrocall [0475145] C  ALPHA  Frm: BB@thomsoninvest.net Sub: !BB - 2426210! sterling.cpu -.....9 .1..1........:..................................................................................................................................................n/bb/h
+2001-09-11 06:05:50 Skytel [005322147] A  ALPHA  Y! ||iPAQ Pocket PC Now from $499 Woodbury, CT Partly Cloudy 48 - 75 F  WNI  
+2001-09-11 06:05:51 Arch [0320272] A  ALPHA  PATROLpatrol - hrnais01.NSQUEUE_PNS-NSQUEUE_PNS-NADIN ALARM/ALARM 200<=230.000000<=400.Critical
+2001-09-11 06:05:55 Skytel [004547038] D SH/TONE 800-7473
+2001-09-11 06:05:59 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2073
+2001-09-11 06:05:59 Metrocall [1539892] B  ALPHA  FYI: VIRUS Fun Love has infiltrated Sprint. Conference bridge 888-282-5528 or 816-650-0799 #93612.  No need to join at this time.   Fix agents are wo*
+2001-09-11 06:05:59 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2073
+2001-09-11 06:05:59 Metrocall [1890468] B  ALPHA  FYI: VIRUS Fun Love has infiltrated Sprint. Conference bridge 888-282-5528 or 816-650-0799 #93612.  No need to join at this time.   Fix agents are working.  SitMan/Brad

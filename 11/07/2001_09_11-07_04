@@ -1,0 +1,120 @@
+2001-09-11 07:04:00 Arch [0796773] B  ALPHA  UIDD.Autoblock@m|01/09/11|Pass 1 06:07:12 DAL2837 SAC2742 : NEW $1360 #7 Avg $194 : OLD $988 #3 Avg $329 : CIS $310 #4 Avg $77 : MNL $376 #1 Avg $376 : Exceptions $0 #1 Avg $0 : High ANI:(7878372160) $479 : TOT $3034 #16 Avg $189 
+2001-09-11 07:04:00 Arch [0652825] C  ALPHA  ABS: The SQL Server Re-boot has been completed - Srivathson 404 649 2730
+2001-09-11 07:04:00 Arch [1642963] A  ALPHA  (17)24:ABS: NOTLOG01 last checked in 66 minutes ago.
+2001-09-11 07:04:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2131
+2001-09-11 07:04:00 Metrocall [0903232] A  ALPHA  Frm: Svchammer (FUSA) Sub: Txt: Possible EPay Outage on King VRU 62
+2001-09-11 07:04:00 Metrocall [0110650] C  ALPHA  Frm: Svchammer (FUSA) Sub: Txt: Possible EPay Outage on King VRU 62
+2001-09-11 07:04:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2131
+2001-09-11 07:04:01 Metrocall [0478205] D  ALPHA  SHANNON/ MI 435-3361 DONALD LESCHER (MORROW) SEP11/6:03
+2001-09-11 07:04:01 Metrocall [002292618] C  ALPHA  Frm: John McCann Sub: rtapple down
+2001-09-11 07:04:01 Metrocall [002110156] D  ALPHA  Take Videx.
+2001-09-11 07:04:01 Metrocall [1544581] B  ALPHA  .
+2001-09-11 07:04:01 Metrocall [002110188] D  ALPHA  Thinking ab
+2001-09-11 07:04:01 Metrocall [1064381] D  ALPHA  AFRAMAX TANKER RATES BEATEN DOWN IN ALL REGIONS
+2001-09-11 07:04:01 Metrocall [0828778] C  ALPHA  GuardServer Alert!.09/11/01 06:52 EVT.RALEY,BRANDO.3018550916.Transmitter OUT of R.Unit #: 220420 TOR.09/11/01 06:58 RPT
+2001-09-11 07:04:01 Skytel [005103105] A  ALPHA  lmwayne@fedex.com| CTV/FEEDER DEPT TIMES|  BJJ52/ 0645   CAK53/ 0641   CGF54/ 0645   CLE53/ 0645   LNN54/ 0653   MFD53/ 0637   PHD53/ 0640   ADHOCS AFTER 0600:  
+2001-09-11 07:04:01 Skytel [002395916] D  ALPHA  lmwayne@fedex.com| CTV/FEEDER DEPT TIMES|  BJJ52/ 0645   CAK53/ 0641   CGF54/ 0645   CLE53/ 0645   LNN54/ 0653   MFD53/ 0637   PHD53/ 0640   ADHOCS AFTER 0600:  
+2001-09-11 07:04:01 Skytel [003485706] C SH/TONE 6938    
+2001-09-11 07:04:02 Arch [1642963] A  ALPHA  (18)25:ABS: The SQL Server Re-boot has been completed - Srivathson 404 649 2730
+2001-09-11 07:04:02 Arch [0794987] C  ALPHA  44-CALL BILL IN THE OFC AT 5455.
+2001-09-11 07:04:03 Arch [1604826] C  ALPHA  bin@ralnetm01.tw|ral-doc-d-asx1k-1-1|ral-doc-d-asx1k-1-1 Inface (9, 1B2) up, 06:59:04 
+2001-09-11 07:04:03 Arch [1354827] C  ALPHA   STC11727  $HASP395 DUMPLOG  ENDED
+2001-09-11 07:04:03 Arch [1629007] D  ALPHA  jghill 75925-335   - UPDT-DC6035-Ottawa,KS - 14,000 total records to process  Sent at 06:03      
+2001-09-11 07:04:03 Skytel [007539985] A ST NUM  900-387-3455   
+2001-09-11 07:04:03 Skytel [002157848] C SH/TONE         
+2001-09-11 07:04:05 Arch [0939147] C  ALPHA  Voice Mail from 4048434453, 8 seconds on Tue Sep 11 07:03:24 2001
+2001-09-11 07:04:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6953
+2001-09-11 07:04:05 Skytel [005341478] B ST NUM  900-366-4123   
+2001-09-11 07:04:05 Skytel {0467272} 3 1200 859-653-9822   
+2001-09-11 07:04:10 Metrocall {1245982} 1 2400  CHARLIE TABOLSKY   215-572-7790  IMPORTANT PCB....
+2001-09-11 07:04:11 Arch [1026292] B  ALPHA  Backup@NYED.usco|Operator Attention|(Server: "NYEPSROGUE" Job: "Monday backup" Device: "HP 1") Please inser t overwritable media into the changer using the slot import command. 
+2001-09-11 07:04:11 Arch [0921996] D  ALPHA  55 5th Ave. (<71) TROUBLE IN   21-26  07:04:38 Sep 11,2001 11TH FL DUCT DET EX-2, Input Disarmed, DI-BX3 Duct Ion Detector
+2001-09-11 07:04:11 Arch [1608317] D  ALPHA  55 5th Ave. (<71) TROUBLE IN   21-26  07:04:38 Sep 11,2001 11TH FL DUCT DET EX-2, Input Disarmed, DI-BX3 Duct Ion Detector
+2001-09-11 07:04:11 Metrocall {1250894} 1 2400 F:oracle@sig.com (Oracle Account) S:PLSQL daemon errors detected by SQL test on phys-rockies-a. B:BEGIN :xx := daemon.execute_system('date',120); END; * ERROR at line 1: ORA-20011: Execute_system: Err..
+2001-09-11 07:04:13 Arch [0921996] D  ALPHA  55 5th Ave. (<72) TROUBLE IN   21-27  07:04:38 Sep 11,2001 11TH FL DUCT DET EX-3, Input Disarmed, DI-BX3 Duct Ion Detector
+2001-09-11 07:04:13 Arch [1608317] D  ALPHA  55 5th Ave. (<72) TROUBLE IN   21-27  07:04:38 Sep 11,2001 11TH FL DUCT DET EX-3, Input Disarmed, DI-BX3 Duct Ion Detector
+2001-09-11 07:04:15 Arch [0921996] D  ALPHA  55 5th Ave. (<73) TROUBLE IN   22-21  07:04:48 Sep 11,2001 11TH FL DUCT DET AHU-11-1 MER, Input Disarmed, DI-BX3 Duct Ion Detector
+2001-09-11 07:04:15 Arch [1608317] D  ALPHA  55 5th Ave. (<73) TROUBLE IN   22-21  07:04:48 Sep 11,2001 11TH FL DUCT DET AHU-11-1 MER, Input Disarmed, DI-BX3 Duct Ion Detector
+2001-09-11 07:04:16 Metrocall [002119489] A  ALPHA  NJ Conversant-Info:    Tue Sep 11 07:06:40 2001 pingTest    APPL028  -- -- --- pingTest: The server njbl40sun6 can not be reached.
+2001-09-11 07:04:16 Metrocall [0812495] D  ALPHA  16: 3-C 870-4632
+2001-09-11 07:04:16 Metrocall [002110188] D  ALPHA  out you.
+2001-09-11 07:04:16 Metrocall [002356976] A  ALPHA  Frm: WRAL.com Sub: Alltel Forecast, 9/11/2001 Txt: Tue: Partly Cloudy, hi 83 Tue pm: Clear, lo 58 Wed: Mostly Clear, hi
+2001-09-11 07:04:16 Metrocall [002110190] D  ALPHA  Folic Acid, Plendil, Calcium
+2001-09-11 07:04:16 Metrocall [002110184] C  ALPHA  Take meds.
+2001-09-11 07:04:16 Metrocall [0486521] C  ALPHA  64- From CIMSOPS 
+2001-09-11 07:04:17 Arch [0921996] D  ALPHA  55 5th Ave. (<74) TROUBLE IN   22-22  07:04:58 Sep 11,2001 11TH FL DUCT DET AHU-11-1 MER, Input Disarmed, DI-BX3 Duct Ion Detector
+2001-09-11 07:04:17 Arch [1608317] D  ALPHA  55 5th Ave. (<74) TROUBLE IN   22-22  07:04:58 Sep 11,2001 11TH FL DUCT DET AHU-11-1 MER, Input Disarmed, DI-BX3 Duct Ion Detector
+2001-09-11 07:04:18 Arch [0921996] D  ALPHA  55 5th Ave. (<75) TROUBLE IN   22-28  07:04:58 Sep 11,2001 11TH FL STROBE PANEL IN FAN RM, Input Disarmed, TRX-2R Switch Input + Relay
+2001-09-11 07:04:18 Arch [1608317] D  ALPHA  55 5th Ave. (<75) TROUBLE IN   22-28  07:04:58 Sep 11,2001 11TH FL STROBE PANEL IN FAN RM, Input Disarmed, TRX-2R Switch Input + Relay
+2001-09-11 07:04:20 Arch [0921996] D  ALPHA  55 5th Ave. (<76) TROUBLE IN   22-29  07:05:07 Sep 11,2001 11TH FL DUCT DET AHU-11-3, Input Disarmed, DI-BX3 Duct Ion Detector
+2001-09-11 07:04:20 Metrocall [1005648] A  ALPHA  09/11/101  06:56:11A   TEMECULA TEMECULA ONLINE
+2001-09-11 07:04:20 Metrocall [0486521] C  ALPHA  Sub:Error  Successfully Completed
+2001-09-11 07:04:20 Metrocall [002588083] A  ALPHA  Frm: bin@hpov1.noc.att.com Sub: NNM_Alarm Txt: Critical Tue Sep 11 07:03:15 ugn-atm.noc.att.com IF AT2/0/0.1:172.
+2001-09-11 07:04:22 Arch [1122226] A  ALPHA  Alarm: 05:56:00AM  LEV GENERATOR KW GENERATOR HAS NO kWH PULSE OR IS IN UNDERVOLTAGE CONDITION: VERIFY      GENERAT A151
+2001-09-11 07:04:22 Arch [1372724] B  ALPHA  Alarm: 05:56:00AM  LEV GENERATOR KW GENERATOR HAS NO kWH PULSE OR IS IN UNDERVOLTAGE CONDITION: VERIFY      GENERAT A151
+2001-09-11 07:04:22 Arch [0979752] C  ALPHA  Alarm: 05:56:00AM  LEV GENERATOR KW GENERATOR HAS NO kWH PULSE OR IS IN UNDERVOLTAGE CONDITION: VERIFY      GENERAT A151
+2001-09-11 07:04:22 Arch [0917035] C  ALPHA  Jim BondiThere will not be a turnover meeting this morning
+2001-09-11 07:04:24 Metrocall [002588083] A  ALPHA  31.28.78 down
+2001-09-11 07:04:24 Metrocall [0521208] C  ALPHA  CHECK YOUR MAILBOX ->950-0088
+2001-09-11 07:04:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9876
+2001-09-11 07:04:28 Arch [0921996] D  ALPHA  55 5th Ave. (<77) TROUBLE IN    3-1   07:05:14 Sep 11,2001 ROOF SMOKE DET-EMR, Input Disarmed, DI-X3 Ion Detector
+2001-09-11 07:04:28 Arch [0392267] C  ALPHA  ALERT-SITE: 2840 - ATOC * 4D4 TITAN MAJ        * MAJ ALARM  * L
+2001-09-11 07:04:28 Arch [1608317] D  ALPHA  55 5th Ave. (<76) TROUBLE IN   22-29  07:05:07 Sep 11,2001 11TH FL DUCT DET AHU-11-3, Input Disarmed, DI-BX3 Duct Ion Detector
+2001-09-11 07:04:30 Arch [0921996] D  ALPHA  55 5th Ave. (<78) TROUBLE IN    3-18  07:05:25 Sep 11,2001 19TH FL SMK DET EMR BANK A, Input Disarmed, DI-X3 Ion Detector
+2001-09-11 07:04:30 Arch [1608317] D  ALPHA  55 5th Ave. (<77) TROUBLE IN    3-1   07:05:14 Sep 11,2001 ROOF SMOKE DET-EMR, Input Disarmed, DI-X3 Ion Detector
+2001-09-11 07:04:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3524
+2001-09-11 07:04:31 Skytel [002791179] C SH/TONE 324     
+2001-09-11 07:04:32 Arch [1608317] D  ALPHA  55 5th Ave. (<78) TROUBLE IN    3-18  07:05:25 Sep 11,2001 19TH FL SMK DET EMR BANK A, Input Disarmed, DI-X3 Ion Detector
+2001-09-11 07:04:33 Skytel [002302482] A SH/TONE 237     
+2001-09-11 07:04:33 Skytel [002358802] A  ALPHA  drtaylor3@fedex.com|update|mem jet ata 0620 adhoc comming from ind with 3 positions of minisort eta 0910??? all babos are in  
+2001-09-11 07:04:33 Skytel [003505310] D SH/TONE 54233   
+2001-09-11 07:04:35 Skytel [002818730] C ST NUM  801-224-8052 U 
+2001-09-11 07:04:35 Skytel [004436138] C SH/TONE 1       
+2001-09-11 07:04:37 Skytel [004696889] C ST NUM  312-233-0099   
+2001-09-11 07:04:37 Skytel [005123380] B SH/TONE 286-6425
+2001-09-11 07:04:37 Skytel [002396731] C  ALPHA  lmwayne@fedex.com| CTV/FEEDER DEPT TIMES|  BJJ52/ 0645   CAK53/ 0641   CGF54/ 0645   CLE53/ 0645   LNN54/ 0653   MFD53/ 0637   PHD53/ 0640   ADHOCS AFTER 0600:  
+2001-09-11 07:04:38 Skytel [005065930] C ST NUM  0-847-700-4429 
+2001-09-11 07:04:38 Skytel [003903560] C  ALPHA  lmwayne@fedex.com| CTV/FEEDER DEPT TIMES|  BJJ52/ 0645   CAK53/ 0641   CGF54/ 0645   CLE53/ 0645   LNN54/ 0653   MFD53/ 0637   PHD53/ 0640   ADHOCS AFTER 0600:  
+2001-09-11 07:04:38 Skytel [004570951] B  ALPHA  lmwayne@fedex.com| CTV/FEEDER DEPT TIMES|  BJJ52/ 0645   CAK53/ 0641   CGF54/ 0645   CLE53/ 0645   LNN54/ 0653   MFD53/ 0637   PHD53/ 0640   ADHOCS AFTER 0600:  
+2001-09-11 07:04:39 Arch [1642963] A  ALPHA  (19)26:ABS: NOTLOG71 last checked in 65 minutes ago.
+2001-09-11 07:04:39 Metrocall [0752922] C  ALPHA  YOU HAVE A MAILBOX MESSAGE!
+2001-09-11 07:04:40 Skytel [003918037] B  ALPHA  drtaylor3@fedex.com|update|mem jet ata 0620 adhoc comming from ind with 3 positions of minisort eta 0910??? all babos are in  
+2001-09-11 07:04:40 Skytel [004757467] C SH/TONE 692-4455
+2001-09-11 07:04:40 Skytel [003951056] A  ALPHA  snvc20 Resource: SNVC20:/NT_CPU/CPU_0/CPUprcrProcessorTimePercent,current state is : CRITICAL ussa11.SSMC 
+2001-09-11 07:04:42 Skytel [004524770] A  ALPHA  spf-FinancialInstitutions-Warsaw: CPE Down at 01:47:25 on 9/11
+2001-09-11 07:04:42 Skytel [004387941] B ST NUM  602-797-4285 (1
+2001-09-11 07:04:42 Skytel [005203941] B  ALPHA  0956*Host health.cch.com UP at 06:05:13  
+2001-09-11 07:04:42 Skytel [007600874] C SH/TONE 6128    
+2001-09-11 07:04:42 Skytel [003447784] C SH/TONE 695     
+2001-09-11 07:04:42 Skytel [005436525] D  ALPHA  nMCI Test #33
+2001-09-11 07:04:42 Skytel [002823663] D  ALPHA  alert@msn.com||(1/3) Memphis - Tuesday: Sunny (Clear at night) 86/62*Wednesday: Mostly Sunny 86/64*Thursday:  
+2001-09-11 07:04:43 Arch [0922261] B  ALPHA  MSN <alert@msn.c|Pisces: Inept acts cancel good intentions. Dance in place. You need creative elbowroom.** 
+2001-09-11 07:04:43 Arch [0905501] D  ALPHA   STC11727  $HASP395 DUMPLOG  ENDED
+2001-09-11 07:04:43 Arch [0979320] C  ALPHA  customer.email@f|Account Balances and Positions a|For account ending 4810: Balances: $Bal $ 32.52 Net Worth $ 7,148.67 Fed Call House Call NYSE Call Margin Market Value Margin Credit Balance Margin De
+2001-09-11 07:04:44 Skytel [003327216] A  ALPHA  002260 CYCLIC TEST 
+2001-09-11 07:04:44 Skytel [005497077] B SH/TONE 292-0536
+2001-09-11 07:04:44 Skytel [005312890] C ST NUM  512-303-0050 (59    
+2001-09-11 07:04:44 Skytel [002139900] D SH/TONE 002260  
+2001-09-11 07:04:46 Skytel [005379201] A SH/TONE 222-0000
+2001-09-11 07:04:46 Skytel [005081735] B SH/TONE 217     
+2001-09-11 07:04:46 Skytel [004718603] C SH/TONE 3887    
+2001-09-11 07:04:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 04:02:43 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 07:04:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179483. 
+2001-09-11 07:04:48 Arch [1617147] C  ALPHA  "WRAL.com"|Alltel Forecast, 9/11/2001 |Tue: Partly Cloudy, hi 83 Tue pm: Clear, lo 58 Wed: Mostly Clear, hi|107  
+2001-09-11 07:04:48 Arch [0960160] A  ALPHA  "WRAL.com"|Alltel Forecast, 9/11/2001 |Tue: Partly Cloudy, hi 83 Tue pm: Clear, lo 58 Wed: Mostly Clear, hi|107  
+2001-09-11 07:04:48 Skytel [002401821] D  ALPHA  206.122.40.68 UNDELIVERABLE DATA FILE FULL - DATA LOST , Please Recycle CA7NCF ussa11.SSMC 
+2001-09-11 07:04:48 Skytel [007575575] B  ALPHA  lostux@limbstx1.att.com|LOS Servers Not Running|CSRPERMGET1090 CSRPERMGET1091 CSRPERMGET2090 CSRPERMGET2091 CSRPERMGET8090 CSRPERMGET8091 CSRPERMSAVE1095 CSRPERMSAVE1096 CSRPERMSAVE2095 CSRPERMSAVE2096 CSRPERMSAVE8095 CSRPERMSAVE8096 DATA_F
+2001-09-11 07:04:48 Skytel [005525660] D  ALPHA  22222
+2001-09-11 07:04:49 Arch [1354107] C  ALPHA  "WRAL.com"|Alltel Forecast, 9/11/2001 |Tue: Partly Cloudy, hi 83 Tue pm: Clear, lo 58 Wed: Mostly Clear, hi|107  
+2001-09-11 07:04:50 Metrocall [1282789] B  ALPHA  Take SMZ-TMP DS tablet.
+2001-09-11 07:04:50 Metrocall [0089099] C  ALPHA  Frm: MSN Txt: Springfield - Tuesday: Sunny (Clear at night) 86/57*Wednesday: Mostly Sunny
+2001-09-11 07:04:50 Skytel [004024864] A  ALPHA  wingmon@firstusa.com||SiteScope elgda1 cpu Instant Credit 5874 100% used    ********************************************************************** This transmission may contain information that is privileged, confidential and/or exempt from
+2001-09-11 07:04:50 Skytel [003784366] D ST NUM  837-235-7386   
+2001-09-11 07:04:52 Metrocall [1005648] A  ALPHA  09/11/101  06:56:11A   TEMECULA TEMECULA ONLINE
+2001-09-11 07:04:52 Skytel [003437491] A ST NUM  497-421-9128 (1
+2001-09-11 07:04:52 Skytel [005210165] B  ALPHA  Carl_Pugliese@Mastercard.com||From:Carl PuglieseSAM Cluster failure in St. Louis, failing over to Lake Success. please call in for further details.  
+2001-09-11 07:04:52 Skytel [003953727] D  ALPHA  apadmin1@household.com||T512777, PERIPHERAL GATEWAY IN NEWCASTLE IS DOWN. ALL 1-800 TELEPHONE NUMBERS UNABLE TO RECEIVE CALLS. ALL BUSINESS UNITS IN NC-DE IMPACTED--AFFECTS CUSTOMERS AND MERCHANTS Impact HIGH. CALL CENTER CONSULTING GROUP I
+2001-09-11 07:04:53 Skytel [008507076] B  ALPHA  01142h4f1ab01010400002g
+2001-09-11 07:04:53 Skytel [005098183] B  ALPHA  1way WCTP
+2001-09-11 07:04:53 Skytel [004538828] D SH/TONE 6127    
+2001-09-11 07:04:53 Skytel [002387529] C  ALPHA  alert@msn.com||Norristown - Tuesday: Sunny (Clear at night) 78/55*Wednesday: Mostly Sunny 80/59*Thursday: Showers  

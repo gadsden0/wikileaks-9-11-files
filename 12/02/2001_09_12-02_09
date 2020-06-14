@@ -1,0 +1,123 @@
+2001-09-12 02:09:00 Skytel [002396156] D SH/TONE 4359    
+2001-09-12 02:09:00 Skytel [005367287] B SH/TONE 3499    
+2001-09-12 02:09:01 Arch [0987275] C  ALPHA  s0191: 09/11 11:59:03 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:59:03
+2001-09-12 02:09:02 Metrocall [1932964] B  ALPHA  Frm: emoster@arsc.uscg.mil Sub: URL Unavailable on http://cgweb.almis.uscg.mil/eal/holistix_eal_monitor.asp Txt: Total alerts: 1 Read timed out. Unable to open connection for retrieval of "http://cgweb.almis.uscg.mil/eal/flight_schedule.asp" on Host: 
+2001-09-12 02:09:02 Metrocall [1064377] C  ALPHA  US 10514/10422 +000 SP107500/10140+0000 FEI95975/96355/9655 9653/9642/9621/9610 SED 97000/7165/7080 96680/9625/9575/549 SEY9994/991/990/990 FSS9523/546/544/522 FLG 11594/11547 +76 FFI  4736/4776 -736 ND 13360/13820 +000 TY 10712+ FV 10616
+2001-09-12 02:09:02 Skytel [002154368] A ST NUM  233-951-4600-911    
+2001-09-12 02:09:03 Arch [0987275] C  ALPHA  s0191: 09/11 12:04:03 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:04:03
+2001-09-12 02:09:03 Skytel [002741266] A ST NUM  410-533-3283   
+2001-09-12 02:09:03 Skytel [003659931] C  ALPHA  IBM 96.47 UNCH MSFT 57.58 UNCH NSCP 0.00 UNCH (84
+2001-09-12 02:09:04 Arch [0987275] C  ALPHA  s0191: 09/11 12:12:06 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:12:07
+2001-09-12 02:09:04 Metrocall [1932964] B  ALPHA  "cgweb.almis.uscg.mil", Port: 80 (9/12/01 2:06 AM) Event: URL Unavailable Web Application: EAL Monitor: Flight Schedule Metric: URL Retrieval Time for http://cgweb.almis.uscg.mil/eal/holistix_eal_monitor.asp Description: Time to retrieve this URL ++
+2001-09-12 02:09:05 Skytel [003914920] C  ALPHA  rserran@att.com||sorry to bother but pru just called me with tonno on line they gave me approx 60 circuits that they want id's for and who is provider, per jim he needs this tonight, not tomorrow a.m. and expects it tonight, is this somethi
+2001-09-12 02:09:05 Skytel [005359140] B  ALPHA  ATTN DTW & EWR:  PLS CALL HWT @  369-3567
+2001-09-12 02:09:05 Skytel [003934628] B  ALPHA  ATTN DTW & EWR:  PLS CALL HWT @  369-3567
+2001-09-12 02:09:05 Skytel [007585709] D ST NUM  816-428-4975-686    
+2001-09-12 02:09:06 Skytel {0619497} 1 2400 31740
+2001-09-12 02:09:06 Skytel {1539459} 4 2400 55:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302...
+2001-09-12 02:09:08 Arch [1255018] C  ALPHA  17:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:09:08 Arch [1401230] D  ALPHA  (12)17:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:09:08 Arch [0326562] A  ALPHA  (20)17:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:09:10 Arch [1255018] C  ALPHA  17:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:09:10 Arch [1401230] D  ALPHA  (13)17:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:09:10 Arch [0000101] B  ALPHA  MSN 077 hello Message from NOC PCB.
+2001-09-12 02:09:10 Metrocall [002589854] D  ALPHA  Frm: sms_alarm@hsmtmr01.entp.attws.com Txt: MF22 not connected to Mainframe application.(swmgr_we)--Sep 11, 2001 23:08
+2001-09-12 02:09:10 Metrocall [1116629] B  ALPHA  From: Harwood, Andrew J. Subj: ADCC Lockout V2.0 ADCC Lockout 2:07 fayetteville fayetteville a2932 lock out no calls ye
+2001-09-12 02:09:12 Arch [1359851] C  ALPHA  root <root@janus|Message from DataMon-SASAT: laxlstr2: 200109120600: 0 files instead of 1 of type *.sa.sat.wxl arrived in laxlstr2:/home/monitor/mounts/laxlstr/laxlstr2/twc/wxl_satellite_clips in the 
+2001-09-12 02:09:12 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 134 processes on report1.ccbill.com. Timestamp key: 20010911230700 
+2001-09-12 02:09:12 Metrocall [1116629] B  ALPHA  t
+2001-09-12 02:09:14 Arch [1359851] C  ALPHA  root <root@janus|Message from DataMon-CARSAT: laxlstr1: 200109120600: 0 files instead of 1 of type *.car.sat.wxl arrived in laxlstr1:/home/monitor/mounts/laxlstr/laxlstr1/twc/wxl_satellite_clips in th
+2001-09-12 02:09:14 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 135 processes on report1.ccbill.com. Timestamp key: 20010911230700 
+2001-09-12 02:09:16 Arch [1359851] C  ALPHA  Generic Monitor |Message from DataMon-MEXSAT: laxlstr4: 200109120600: 0 files instead of 1 of type *.mex.sat.wxl arrived in laxlstr4:/home/monitor/mounts/laxlstr/laxlstr4/twc/wxl_satellite_clips in th
+2001-09-12 02:09:18 Arch [1359851] C  ALPHA  Generic Monitor |Message from DataMon-CARSAT: laxlstr1: 200109120600: 0 files instead of 1 of type *.car.sat.wxl arrived in laxlstr1:/home/monitor/mounts/laxlstr/laxlstr1/twc/wxl_satellite_clips in th
+2001-09-12 02:09:19 Metrocall [1544818] A  ALPHA  Server 'KPNC-PG2 MAIL.Waiting = 35, max allowable: (15)
+2001-09-12 02:09:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1021
+2001-09-12 02:09:21 Arch [0987275] C  ALPHA  s0191: 09/11 12:14:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:14:49
+2001-09-12 02:09:21 Metrocall [1115386] C  ALPHA  From: Harwood, Andrew J. Subj: ADCC Lockout V2.0 ADCC Lockout 2:07 fayetteville fayetteville a2932 lock out no calls yet
+2001-09-12 02:09:21 Metrocall [1889593] C  ALPHA  From: Harwood, Andrew J. Subj: ADCC Lockout V2.0 ADCC Lockout 2:07 fayetteville fayetteville a2932 lock out no calls ye
+2001-09-12 02:09:21 Metrocall [1004014] D  ALPHA  From: Harwood, Andrew J. Subj: ADCC Lockout V2.0 ADCC Lockout 2:07 fayetteville fayetteville a2932 lock out no calls yet
+2001-09-12 02:09:23 Arch [0987275] C  ALPHA  s0191: 09/11 12:20:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:20:24
+2001-09-12 02:09:23 Metrocall [1889593] C  ALPHA  t
+2001-09-12 02:09:23 Metrocall [1932964] B  ALPHA  Frm: emoster@arsc.uscg.mil Sub: Database entered critical state Txt: Total alerts: 1 Web Application: Database Event: entered critical state Web Application alert source(s): Read timed out. Unable to open connection for retriev
+2001-09-12 02:09:23 Metrocall [1004205] D  ALPHA  From: Harwood, Andrew J. Subj: ADCC Lockout V2.0 ADCC Lockout 2:07 fayetteville fayetteville a2932 lock out no calls yet
+2001-09-12 02:09:23 Metrocall [1162099] A  ALPHA  From: Harwood, Andrew J. Subj: ADCC Lockout V2.0 ADCC Lockout 2:07 fayetteville fayetteville a2932 lock out no calls ye
+2001-09-12 02:09:25 Arch [0987275] C  ALPHA  s0191: 09/11 12:28:34 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:28:34
+2001-09-12 02:09:25 Arch [0326562] A  ALPHA  (21)17:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:09:25 Arch [0508924] D  ALPHA  (17)23:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:09:25 Arch [1028107] C  ALPHA  (7)17:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:09:25 Metrocall [1932964] B  ALPHA  al of "http://cgweb.almis.uscg.mil/eal/flight_schedule.asp" on Host: "cgweb.almis.uscg.mil", Port: 80 (9/12/01 2:07 AM) Event: Database Unavailable Web Application: Database Monitor: Database Down Page Metric: URL Retrieval Time for http://cgweb.almis.
+2001-09-12 02:09:25 Metrocall [1162099] A  ALPHA  t
+2001-09-12 02:09:27 Arch [0987275] C  ALPHA  s0191: 09/11 12:31:16 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:31:16
+2001-09-12 02:09:27 Arch [0508924] D  ALPHA  (18)23:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:09:27 Arch [1028107] C  ALPHA  (8)17:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:09:27 Metrocall [1932964] B  ALPHA  uscg.mil/eal/holis ++
+2001-09-12 02:09:28 Metrocall [1222246] B  ALPHA  sapgui HRP Dialog Performance Critical
+2001-09-12 02:09:28 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3277
+2001-09-12 02:09:28 Metrocall [002293000] C  ALPHA  02: D/PLUMBER ** ACCT# 3814 ** MICHAEL KOSH W/HAY ADAMS HOTEL 202-638-6600 16TH & H ST. N.W. WASHINGTON, DC 20006 KITCHEN DRAIN IS B/U. H
+2001-09-12 02:09:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3277
+2001-09-12 02:09:30 Metrocall [002115956] B  ALPHA  Just a reminder - it's unlawful to give out gas prices over the phone. even to radios stations 771 770-297-0800
+2001-09-12 02:09:30 Metrocall [002293000] C  ALPHA  E SNAKED IT W/A K-50 & IT
+2001-09-12 02:09:30 Metrocall [1424014] D  ALPHA  Just a reminder - it's unlawful to give out gas prices over the phone. even to radios 
+2001-09-12 02:09:30 Metrocall [0705369] C  ALPHA  From: Harwood, Andrew J. Subj: ADCC Lockout V2.0 ADCC Lockout 2:07 fayetteville fayetteville a2932 lock out no calls yet
+2001-09-12 02:09:32 Skytel [004725634] A ST NUM  9007598888 (5446    
+2001-09-12 02:09:32 Skytel [005352717] D SH/TONE 3922    
+2001-09-12 02:09:32 Skytel [003587596] D SH/TONE 110 (44 
+2001-09-12 02:09:33 Arch [1396555] C  ALPHA  (4)14:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:09:33 Arch [1145485] D  ALPHA  (23)18:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:09:33 Arch [0775709] D  ALPHA  17:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:09:35 Arch [1396555] C  ALPHA  (5)14:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:09:35 Arch [1145485] D  ALPHA  (24)18:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:09:35 Skytel [007456682] C SH/TONE 14444   
+2001-09-12 02:09:35 Skytel [004704807] B SH/TONE 3555    
+2001-09-12 02:09:35 Skytel [005001895] B  ALPHA  [sps/172] 200 sps-apps1.cps.intel.com relay 0.448 Application isokay (/xmljunction/healthcheck.asp) 3:27:47
+2001-09-12 02:09:35 Skytel [002279468] D ST NUM  918-435-5599   
+2001-09-12 02:09:36 Metrocall [1424014] D  ALPHA  stations 771 770-297-0800
+2001-09-12 02:09:37 Skytel [0000060] D  ALPHA  ATTN DTW & EWR:  PLS CALL HWT @  369-3567
+2001-09-12 02:09:39 Skytel [005098183] B  ALPHA  2 way test @ 108 -Plano 2 Way Ops
+2001-09-12 02:09:39 Skytel [007003715] A  ALPHA  626-864-6636 U [4746.CELLULAR            
+2001-09-12 02:09:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:09:41 Skytel [005249751] B SH/TONE 301     
+2001-09-12 02:09:41 Skytel [002742868] B ST NUM  854-384-0200   
+2001-09-12 02:09:41 Skytel [003441627] C ST NUM  794-143-9931-4 (37  
+2001-09-12 02:09:42 Arch [0987275] C  ALPHA  s0191: 09/11 12:36:48 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:36:48
+2001-09-12 02:09:42 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192440. 
+2001-09-12 02:09:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #61-IX_T1707
+2001-09-12 02:09:43 Skytel [005208172] D  ALPHA  T 17.65 UNCH WCOM 12.92 UNCH TMX 33.35 UNCH EMT 3.80 UNCH
+2001-09-12 02:09:44 Arch [0987275] C  ALPHA  s0191: 09/11 12:44:46 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:44:47
+2001-09-12 02:09:44 Arch [0931223] B  ALPHA  Jenny Wang|Case in WW-WAN-SW(strm) | P3 B828964 IGX8420- Need assistance with the config of the uxme card to an A
+2001-09-12 02:09:44 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 64.23 43.31 26.36 Tue Sep 11 23:10:01 MST 2001 
+2001-09-12 02:09:44 Arch [0775709] D  ALPHA  17:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:09:44 Arch [0507340] D  ALPHA  (3)16:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE ID
+2001-09-12 02:09:44 Arch [0509136] A  ALPHA  (32)31:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTI
+2001-09-12 02:09:45 Skytel [005094397] D  ALPHA  NTManage@bsmg.com|Message from NTManage|This Message is from NMS: Device Name: Campbell Router Address: 144.210.154.246 is Not Reachable Type: Router Ping: REQ Timed Out NMS: Device in severe error state - all other checks aborted.  CAMPBEL
+2001-09-12 02:09:45 Skytel [003327997] D  ALPHA  XRX 9.05 UNCH WINEA 0.00 UNCH LIZ 48.53 UNCH
+2001-09-12 02:09:45 Skytel [003072125] D  ALPHA  COMP 1695.37 -0.01 PAGE 0.00 UNCH
+2001-09-12 02:09:47 Skytel [004752519] B SH/TONE 426-9230
+2001-09-12 02:09:48 Arch [0931223] B  ALPHA  TM from Tue Sep 11 23:09:09 2001|145  
+2001-09-12 02:09:48 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-12 02:09:48 Arch [0507340] D  ALPHA  ENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:09:48 Arch [0509136] A  ALPHA  NG TO ESTABLISH A PL
+2001-09-12 02:09:48 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 44.31 28.27 19.27 Tue Sep 11 23:10:01 MST 2001 
+2001-09-12 02:09:48 Skytel [004397343] D  ALPHA  SANM 14.57 UNCH SLR 12.01 UNCH SCI 19.68 UNCH JBL 18.15 UNCH
+2001-09-12 02:09:49 Arch [0507340] D  ALPHA  (4)16:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:09:49 Arch [0509136] A  ALPHA  (1)31:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:09:49 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-12 02:09:49 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 61.57 43.11 26.38 Tue Sep 11 23:10:05 MST 2001 
+2001-09-12 02:09:49 Metrocall [1466337] A  ALPHA  09/12@01:00:02 AUSFAX:[ResourceString] The description for Event ID (3318) in Source (RightFAX RPC Server Module) could not be found. It contains the following insertions string(s): RPCDBT:Error (2) in transacting named pipe
+2001-09-12 02:09:49 Metrocall [1111466] C  ALPHA  09/12@01:00:02 AUSFAX:[ResourceString] The description for Event ID (3318) in Source (RightFAX RPC Server Module) could not be found. It contains the following insertions string(s): RPCDBT:Error (2) in transacting named pipe
+2001-09-12 02:09:50 Skytel [003269678] D  ALPHA  Job has aborted MPE #J2663 Job name: FL3LD008 System: Host
+2001-09-12 02:09:51 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 48.79 34.41 21.29 Tue Sep 11 23:09:56 MST 2001 
+2001-09-12 02:09:52 Skytel [005127231] D ST NUM  203-677-4615   
+2001-09-12 02:09:54 Skytel [005332045] D ST NUM  913-639-4578   
+2001-09-12 02:09:57 Metrocall [0417543] B  ALPHA  (9) SUBJ: file from UDC MSG:Attached is the file from UDC.                             9/12/01                       Transaction List for  = Company &                   adotranslist                                      VERIZON/PRIMECO 0
+2001-09-12 02:09:57 Metrocall [1362298] C  ALPHA  Frm: Optivity@harbortech.com Sub: Operator Attention Txt: Operator Attention is needed. (Server: "OPTIVITY-NJ" Job: "SNMPc & HPOV:Diff" Device: "HP 1") Please insert overwritable media into the drive.
+2001-09-12 02:09:57 Metrocall [1115242] C  ALPHA  From: Harwood, Andrew J. Subj: A
+2001-09-12 02:09:58 Skytel [005003367] B  ALPHA  root@bur-faxsvr.genuity.com|bur-faxsvr.genuity.com - /bbn is 91% full| 
+2001-09-12 02:09:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8099
+2001-09-12 02:09:59 Arch [1119359] D  ALPHA  (18)18:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:09:59 Arch [1613898] C  ALPHA  (29)17:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:09:59 Arch [0390624] A  ALPHA  (15)17:
+2001-09-12 02:09:59 Metrocall [1006590] D  ALPHA  From: Harwood, Andrew J. Subj: ADCC Lockout V2.0 ADCC Lockout 2:07 fayetteville fayetteville a2932 lock out no calls yet
+2001-09-12 02:09:59 Metrocall [1115242] C  ALPHA  DCC Lockout V2.0 ADCC Lockout 2:07 fayetteville fayetteville a2932 lock out no calls yet
+2001-09-12 02:09:59 Metrocall [1544357] B  ALPHA  Frm: BMC
+2001-09-12 02:09:59 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4669

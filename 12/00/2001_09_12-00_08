@@ -1,0 +1,91 @@
+2001-09-12 00:08:00 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7977
+2001-09-12 00:08:02 Skytel [007492483] A ST NUM  730-842-0264-911    
+2001-09-12 00:08:07 Arch [1612317] D  ALPHA  RT-CINCINNATI  ARCserveIT:  E0015 Job 9: Backup Operation Failed
+2001-09-12 00:08:08 Metrocall [002567097] C  ALPHA  Hannons #6 Pearl: KFC       ORDER DISCH COOL ON
+2001-09-12 00:08:08 Metrocall [0903193] C  ALPHA  93-PLS DIAL INTO BRIDGE 877-214-6371 PIN #923376 PLEASANTON PROVISIONIN !1/2 093
+2001-09-12 00:08:08 Metrocall [0903193] C  ALPHA  93-G EMERGENCY. !2/2 093
+2001-09-12 00:08:08 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4547
+2001-09-12 00:08:09 Arch [0946478] D  ALPHA    99 stl 897 5445 \ 
+2001-09-12 00:08:19 Skytel {0619497} 1 2400 31740
+2001-09-12 00:08:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0900
+2001-09-12 00:08:22 Arch [1142036] B  ALPHA  311 MOSXS2:Device Accessible,Device Status:Ok
+2001-09-12 00:08:22 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOC
+2001-09-12 00:08:22 Arch [0987275] C  ALPHA  s0191: 09/11 11:42:59 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:42:59
+2001-09-12 00:08:22 Arch [1619047] B  ALPHA  6P03:58import_t Eror while updating TRANSFER_LOG_FILE for 112633:TXN
+2001-09-12 00:08:24 Arch [0987275] C  ALPHA  s0191: 09/11 11:48:17 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:48:18
+2001-09-12 00:08:24 Arch [1425048] C  ALPHA  K_192.168.35.19> chunk 191047. 
+2001-09-12 00:08:24 Arch [1619047] B  ALPHA  5P03:58syb_srvc Canot Open LOGIN structure for dblib
+2001-09-12 00:08:26 Arch [0987275] C  ALPHA  s0191: 09/11 11:56:22 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:56:22
+2001-09-12 00:08:28 Arch [1666850] A  ALPHA  3196
+2001-09-12 00:08:29 Metrocall [1064388] B  ALPHA  LCO 2900/2890  +000 CL 2777/798/800+000 2754/2744/2692/2655 2623/2591/2560/2530 HO 7961/015/060+000 HU 8150/735/560+000 NG2430/2672/000+000 3200/3177/3122/3031 064/190/041/215/185 LGO 25525/5800+1300 PL v4400/f4350 +000 EC _3300/_3150+0150
+2001-09-12 00:08:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3156
+2001-09-12 00:08:31 Arch [0000101] B  ALPHA  MSN 020 hello Message from NOC PCB.
+2001-09-12 00:08:31 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3156
+2001-09-12 00:08:31 Metrocall [1064388] B  ALPHA   PAm45600+000
+2001-09-12 00:08:33 Skytel [002401821] D  ALPHA  shas0003.bechtel.com The interface lan0 on SHAS0003.bechtel.com is Down. ussa11.SSMC 
+2001-09-12 00:08:33 Skytel [007064086] B ST NUM  370-420-0911   
+2001-09-12 00:08:33 Skytel [004129432] C ST NUM  670-548-9305 (81    
+2001-09-12 00:08:35 Skytel [003205922] A ST NUM  1006279458
+2001-09-12 00:08:35 Skytel [007035683] A  ALPHA  Insider@emcweb.com|SiteScope Alert, error, TranTrac1 URL Transaction, unable to reach server on  (step 1), https://209.64.62.245/trantrac/login?edtMID=601109999999015&edtUID=user0...|This alert is from SiteScope at http://insider.emcweb.com
+2001-09-12 00:08:35 Skytel [005001895] B  ALPHA  [sps/92] 200 supplier.intel.com relay-rialto105 2.918 Intel&#174;Web Invoice appears to be working fine.(/web_invoice/healthcheck.asp) 3:42:59
+2001-09-12 00:08:37 Skytel [003954236] D  ALPHA  root@sp1501.idc.ikon.org|"National Lockbox Message"|Nightly LB reports for MAD are present.  
+2001-09-12 00:08:37 Skytel [007573043] A SH/TONE 281-4938
+2001-09-12 00:08:37 Skytel [005004080] A ST NUM  316-362-5650   
+2001-09-12 00:08:37 Skytel [005338430] D ST NUM  746-299-0411-411    
+2001-09-12 00:08:37 Skytel [007645119] D ST NUM  977-515-9350   
+2001-09-12 00:08:38 Metrocall [1466337] A  ALPHA  09/11@23:01:16 DALBK01:Job DALPOs ended in an error state. Examine recent event log entries and the Job History for details.
+2001-09-12 00:08:38 Metrocall [1111466] C  ALPHA  09/11@23:01:16 DALBK01:Job DALPOs ended in an error state. Examine recent event log entries and the Job History for details.
+2001-09-12 00:08:39 Skytel [005068613] B SH/TONE 925-0763
+2001-09-12 00:08:39 Skytel [006518475] C  ALPHA  1) 39) 001-02 Hi Luis. Pin was in the system and test page was sent. Joyce/USA (1
+2001-09-12 00:08:39 Skytel [003495501] D SH/TONE 3838    
+2001-09-12 00:08:40 Metrocall [002592833] A  ALPHA  Frm: CNNSI.com Sub: Alert on Atlanta Braves Txt: Selig doesn't hesitate to cancel games
+2001-09-12 00:08:40 Metrocall [002567097] C  ALPHA  Shelton Mem Dr: KFC DANVI WALK FREEZE TOO HOT
+2001-09-12 00:08:40 Metrocall [0047745] A  ALPHA  RC:0019-A/Run#4427/CALL:19:45/DISP:19:48/
+2001-09-12 00:08:41 Skytel [003870427] C SH/TONE 299111  
+2001-09-12 00:08:41 Skytel [005254108] D  ALPHA  root@sp0211.idc.ikon.org|"National Lockbox Message"|Nightly LB reports for FLA are present.  
+2001-09-12 00:08:41 Skytel [005415889] A  ALPHA  From: BreakingNe Subject:      AMERICA UNDER ATTACK DEVELOPING STORY  OKLAHOMA CITY, Okla. (CNN) -- In parts of the country, motorists lined up at gas pumps Tuesday following rumors of shortages that fueled skyrocketing gas prices in the af
+2001-09-12 00:08:41 Skytel [0001114] C  ALPHA  FM Ticket Assigned Medium Case HD0000000301668 for TIVOLI AUTOSUBMIT NONE thrin02 /var is 85% full
+2001-09-12 00:08:42 Metrocall [0047745] A  ALPHA  ENR:19:54/ATS:20:04/TRA:20:32/ATD:20
+2001-09-12 00:08:42 Metrocall [1064374] B  ALPHA  YEN  119.35/45 -037 EUR  0.9104/09 +001 CHF  1.6400/50 -005 GBP  1.4730/80 -021 CAD  1.5620/30 -017 AUD  0.5171/76 -024 NZD  0.4265/75 -040 DEM  2.1471/83 -003  E/C  1.4991/96 +000 E/Y  108.99/09 +000 E/S  
+2001-09-12 00:08:42 Metrocall [1064377] C  ALPHA  SED97000/97170/9710 9670/9627/9579/9550 SEY 99940/99915+000 99900/ 99905/ 99865 SSI _9480/_9455-820 JGB 13876/13714 -17 US  10514/10422 +00 SP107500/10140+0000 DJ _9630/_9665 +000 ND 13360/13820 +000 TY 10712+ FV 10616  TU 10328+
+2001-09-12 00:08:43 Arch [0969573] B  ALPHA  212 477-9230
+2001-09-12 00:08:43 Arch [0987275] C  ALPHA  s0191: 09/11 11:59:03 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:59:03
+2001-09-12 00:08:43 Arch [1619047] B  ALPHA  6P03:58import_t Eror while updating TRANSFER_LOG_FILE for 112633:TXN
+2001-09-12 00:08:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #10-IX_T1705
+2001-09-12 00:08:43 Skytel [005306084] B ST NUM  585-738-4123   
+2001-09-12 00:08:43 Skytel [002276714] C SH/TONE 6666    
+2001-09-12 00:08:43 Skytel [002189416] C SH/TONE 741-6111
+2001-09-12 00:08:43 Skytel [004428522] C ST NUM  9003354387
+2001-09-12 00:08:43 Skytel [003451501] D SH/TONE 409     
+2001-09-12 00:08:44 Metrocall [1064374] B  ALPHA  0.6163/66 -029 USD     113.31 -007
+2001-09-12 00:08:44 Metrocall [1064385] A  ALPHA  JY  8317/8385  +042 EC  9067/9047 +0067 BP 14526/14300 +000 SF  6005/6010  +070 CD  6388/6380  -010 AD  5169/5152  +031 DM  4636/4626  +034 MP103750/10290 -550 PTB 9039/8942  +059 2YBA 9557/9576  +27 2YTT 9
+2001-09-12 00:08:45 Arch [0987275] C  ALPHA  s0191: 09/11 12:04:03 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:04:03
+2001-09-12 00:08:45 Skytel [002380658] A  ALPHA  Iomega: canyons.iomega.com -> Critical Interface lan0 Outage! - manage
+2001-09-12 00:08:45 Skytel [007109749] B ST NUM  500-0155-30    
+2001-09-12 00:08:45 Skytel [007567994] C ST NUM  4370591411911187911 
+2001-09-12 00:08:47 Skytel [005507211] C  ALPHA  B
+2001-09-12 00:08:47 Skytel [005371148] D ST NUM  0-360-402-5137-88   
+2001-09-12 00:08:48 Arch [0987275] C  ALPHA  s0191: 09/11 12:12:06 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:12:07
+2001-09-12 00:08:48 Skytel [007035414] B SH/TONE 9444    
+2001-09-12 00:08:48 Skytel [007465749] B ST NUM  872-395-3575   
+2001-09-12 00:08:50 Arch [0622850] A  ALPHA  628-0124
+2001-09-12 00:08:50 Arch [0987275] C  ALPHA  s0191: 09/11 12:14:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:14:49
+2001-09-12 00:08:50 Skytel [002844967] B SH/TONE 7373    
+2001-09-12 00:08:52 Skytel [007557178] C ST NUM  870-254-9052   
+2001-09-12 00:08:52 Skytel [007552050] A  ALPHA  585-5688
+2001-09-12 00:08:54 Arch [0308268] D  ALPHA  47-PLEASE CALL RICK AT 904-821-1472.  PROBLEMS W/ TGLANGJ.
+2001-09-12 00:08:54 Skytel [005176138] C SH/TONE 730-1359
+2001-09-12 00:08:54 Skytel [005311180] D SH/TONE 868-9419
+2001-09-12 00:08:56 Skytel [003951056] A  ALPHA  sclltis01 Resource: SCLLTIS01:/NT_CPU/CPU_0/CPUprcrProcessorTimePercent,current state is : CRITICAL ussa11.SSMC 
+2001-09-12 00:08:57 Metrocall [0776055] B  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY OKLAHOMA CITY, Okla. (CNN) -- In parts of the country, motorists lined up at gas pumps Tuesday following rumors of shortages t
+2001-09-12 00:08:57 Metrocall [0043310] D  ALPHA  Frm: Laura Zielke Sub: Re: tech support on contact page Txt: Done. ----- Original Message ----- From: "Gene Ponce" <support@cccomm.net> To: "Laura Zielke" <webservices@cccomm.net> Sent: Tuesday, September 11, 2001 9:57 AM Subject: tech supp
+2001-09-12 00:08:58 Arch [1619047] B  ALPHA  5P03:58syb_srvc Canot Open LOGIN structure for dblib
+2001-09-12 00:08:58 Arch [0928311] B  ALPHA  BreakingNews@CNN|AMERICA UNDER ATTACK|DEVELOPING STORY OKLAHOMA CITY, Okla. (CNN) -- In parts of the country, motorists lined up at gas pumps Tuesday following rumors of shortages that fue
+2001-09-12 00:08:58 Arch [0987275] C  ALPHA  s0191: 09/11 12:20:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:20:24
+2001-09-12 00:08:58 Arch [0969573] B  ALPHA  212 477-9230
+2001-09-12 00:08:58 Arch [1612317] D  ALPHA  RT_TROY  ARCserveIT:  E0015 Job 103: Backup Operation Failed
+2001-09-12 00:08:58 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191054. 
+2001-09-12 00:08:59 Arch [0928311] B  ALPHA  led skyrocke
+2001-09-12 00:08:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7978
+2001-09-12 00:08:59 Arch [1619047] B  ALPHA  Process 9394 on ddcid06e0, module=MORCOM, terminated unexpectedly
+2001-09-12 00:08:59 Metrocall [0043310] D  ALPHA  Frm: Laura Zielke Sub: Re: tech support on contact pa'..T..:. k..4.........B..[.A....$. ....8.Hj@@.@^9..?^]..?^/..g\_....@.@A.@H....@@..@.4. @@.`..`..`.....p..0..pA.p. ..B..A....+@H....@@H.....@P..M,..............$..P..R.]*p.0..4X<.

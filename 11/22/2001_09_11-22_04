@@ -1,0 +1,175 @@
+2001-09-11 22:04:00 Arch [0935677] D  ALPHA  "Brown, Katina S|Stats for 9/11/01|AHT 172 ABAN 4.4 UPT 62.9 TTL CLS 1387 
+2001-09-11 22:04:00 Arch [0900779] C  ALPHA   Sub:WTC UPDATE #9f  Msg:      WTC UPDATE #9f BEGINS AT 9PM ON TUE SEP 11, 2001       <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />    9:50p               cnn           
+2001-09-11 22:04:00 Arch [1428040] C  ALPHA   Sub:WTC UPDATE #9f  Msg:      WTC UPDATE #9f BEGINS AT 9PM ON TUE SEP 11, 2001       <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />    9:50p               cnn           
+2001-09-11 22:04:00 Skytel [005051134] D SH/TONE 416801  
+2001-09-11 22:04:00 Skytel [007584765] D ST NUM  08007243624    
+2001-09-11 22:04:01 Skytel [005358218] C ST NUM  310-3784-2
+2001-09-11 22:04:01 Skytel [002844427] C  ALPHA  AP:VA:L1:V5MDHE36 ABENDED WITH U0500 ON 3S03 - 21:01:Call 8005826218.
+2001-09-11 22:04:01 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 19:04:01 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 22:04:02 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7853
+2001-09-11 22:04:02 Arch [0965995] C  ALPHA  "Mike Daniels" <|TEST TEST|
+2001-09-11 22:04:02 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-11 22:04:02 Arch [0939758] D  ALPHA  60-I HOPE YOU'RE DOING OK, I LOVE YOU, TERRI.
+2001-09-11 22:04:03 Skytel [007512337] A  ALPHA  Y! ||iPAQ Pocket PC Now from $499 Major, Minor League Games Cancelled After Attacks Reuters  
+2001-09-11 22:04:03 Skytel [007593237] B ST NUM  205-949-0006   
+2001-09-11 22:04:04 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-11 22:04:04 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 189654. 
+2001-09-11 22:04:05 Skytel [003280174] D  ALPHA  SEV1 UNRESOLVED 5 HOUR Tkt: 00716790 Assignee: Network Operations Voice & Data Location: r588_flight_ops.netops.weyer.com Created: 09/11/01 12:22:36 Desc: R588_flight_ops down & out to Telus
+2001-09-11 22:04:05 Skytel [002347687] B  ALPHA  SEV1 UNRESOLVED 5 HOUR Tkt: 00716790 Assignee: Network Operations Voice & Data Location: r588_flight_ops.netops.weyer.com Created: 09/11/01 12:22:36 Desc: R588_flight_ops down & out to Telus
+2001-09-11 22:04:05 Skytel [002971940] B  ALPHA  MSFT 57.58 UNCH SKYT 0.00 UNCH NOVL 3.99 UNCH INTL 15.16 UNCH (17
+2001-09-11 22:04:06 Metrocall [1116642] A  ALPHA  From: Burford, Jerrold F. Subj: ADCC Operation V2.0 ADCC Operation 21:55 ATLANTA WEST END A0758 1_-Oper LARGE WAREHOUSE FIRE AT 997 COX AVE SW OFF SYLVAN RD
+2001-09-11 22:04:06 Metrocall [0727238] B  ALPHA  CFP NATIONAL (1) U/D NYC WTC: MANY OF THE M/A FIRE CO's IN STAGING HAVE BEEN RELEAS
+2001-09-11 22:04:06 Metrocall [1064378] C  ALPHA  SHIOKAWA SAYS SHOCK FROM US ATTACKS DOES NOT WARRANT HALT IN JAPAN STRUCTURAL REFORMS
+2001-09-11 22:04:06 Metrocall [1064395] C  ALPHA  )?#`BAWHHxM@EZgHdsy\FoAPTxMff`irI|NV`cTi|uAUihHMRiAarzZBIObttDz_TPUxMJeAgUDDbCLjHILyAJ`tHLyASjTjlNiUiPYbBeEcSzTvf`@D`PNYPxC
+2001-09-11 22:04:07 Skytel [002281779] A SH/TONE 44      
+2001-09-11 22:04:07 Skytel [003598901] B  ALPHA  MSFT 57.58 UNCH NFB 27.09 UNCH INTC 26.07 UNCH EFII 18.49 UNCH (9
+2001-09-11 22:04:07 Skytel [005240767] D ST NUM  872-470-0274   
+2001-09-11 22:04:08 Metrocall [002110257] A  ALPHA  Take medication.
+2001-09-11 22:04:08 Metrocall [0727238] B  ALPHA  ED. STILL HAVE A LRG CONTINGENT OF M/A EMS UNITS STAGED IN SEV'L AREAS. FD/PD/EMS UNITS CONT TO OPER EXTINGUISHING FIRES AND CONDUCTING SRCHs. EMS RPTS ->>>>
+2001-09-11 22:04:08 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4423
+2001-09-11 22:04:09 Skytel [007438026] C SH/TONE 3333 (54
+2001-09-11 22:04:09 Skytel [005048521] C  ALPHA  18
+2001-09-11 22:04:11 Skytel [004581587] A ST NUM  9007598888 (3540    
+2001-09-11 22:04:11 Skytel [003897042] A ST NUM  314-497-0917   
+2001-09-11 22:04:13 Skytel [002555746] A ST NUM  900-713-6125   
+2001-09-11 22:04:13 Skytel [003917923] A ST NUM  977-485-3318   
+2001-09-11 22:04:13 Skytel [002817132] D SH/TONE 248-5909
+2001-09-11 22:04:13 Skytel [007589225] C SH/TONE 3375    
+2001-09-11 22:04:13 Skytel [007569517] D SH/TONE 607-3745
+2001-09-11 22:04:16 Metrocall [1890358] B  ALPHA  From: Burford, Jerrold F. Subj: ADCC Operation V2.0 ADCC Operation 21:55 ATLANTA WEST END A0758 1_-Oper LARGE WAREHOUSE FIRE AT 997 COX AVE SW OFF SY
+2001-09-11 22:04:16 Skytel [005435659] C ST NUM  483-5180 (93   
+2001-09-11 22:04:17 Arch [0981121] A  ALPHA  32-PLEASE CALL GLEN IN OPERATIONS. 877-362-2100 OPTIONS 2, 1 AND 5.
+2001-09-11 22:04:17 Arch [1414080] A  ALPHA  32-PLEASE CALL GLEN IN OPERATIONS. 877-362-2100 OPTIONS 2, 1 AND 5.
+2001-09-11 22:04:17 Arch [0970594] A  ALPHA  1/02:Sev1 open S3041474 IAN JOHNSON 8002427396 ATRIA WEST2 DIVERSIFIED CONSUMER SERVICES EMCNCC
+2001-09-11 22:04:17 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-11 22:04:17 Arch [0988580] B  ALPHA  1/02:Sev1 open S3041474 IAN JOHNSON 8002427396 ATRIA WEST2 DIVERSIFIED CONSUMER SERVICES EMCNCCOPS No SNA connectivity from Garden City t
+2001-09-11 22:04:17 Arch [0284562] A  ALPHA  32-PLEASE CALL GLEN IN OPERATIONS. 877-362-2100 OPTIONS 2, 1 AND 5.
+2001-09-11 22:04:17 Arch [1274547] A  ALPHA  32-PLEASE CALL GLEN IN OPERATIONS. 877-362-2100 OPTIONS 2, 1 AND 5.
+2001-09-11 22:04:17 Arch [0925345] A  ALPHA  32-PLEASE CALL GLEN IN OPERATIONS. 877-362-2100 OPTIONS 2, 1 AND 5.
+2001-09-11 22:04:17 Arch [0571852] D  ALPHA  32-PLEASE CALL GLEN IN OPERATIONS. 877-362-2100 OPTIONS 2, 1 AND 5.
+2001-09-11 22:04:17 Metrocall [002588330] C  ALPHA  Time to take your medication.
+2001-09-11 22:04:17 Metrocall [1544818] A  ALPHA  CRDC-MAIL01 "Server CRDC-MAIL01/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail1.box. "
+2001-09-11 22:04:17 Metrocall [1890358] B  ALPHA  LVAN RD
+2001-09-11 22:04:17 Skytel {1687772} 1 2400 MOT 15.04 UNCH
+2001-09-11 22:04:17 Skytel {0717237} 1 2400 TOTAL DID TELL-UAS AL 11-SEP-2001 21:03:49 -----> SERIE 215XX = 9885, SERIE 513XX = 9970, SERIE 583XX = 9919, SERIE 509XX = 2966
+2001-09-11 22:04:18 Skytel {1877678} 3 2400 10  651-733-8080    
+2001-09-11 22:04:19 Arch [0970594] A  ALPHA  OPS No SNA connectivity from Garden City to Somerset..Major job that is not  getting received..ACP jobs with financial impact about
+2001-09-11 22:04:19 Arch [0988580] B  ALPHA  o Somerset..Major job that is not  getting received..ACP jobs with financial impact about
+2001-09-11 22:04:19 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-11 22:04:21 Arch [0899583] D  ALPHA  6042562-05
+2001-09-11 22:04:21 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-11 22:04:21 Arch [0970594] A  ALPHA  2/02:half million dollars   09/11/01 22:02:57
+2001-09-11 22:04:21 Arch [0988580] B  ALPHA  2/02:half million dollars   09/11/01 22:02:57
+2001-09-11 22:04:23 Arch [1047640] C  ALPHA  1/02:Sev1 open S3041474 IAN JOHNSON 8002427396 ATRIA WEST2 DIVERSIFIED CONSUMER SERVICES EMCNCCOPS No SNA connectivity from Garden City to Somerset..Major job that is not  getting received..ACP jobs with financial impact about
+2001-09-11 22:04:23 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0776
+2001-09-11 22:04:23 Arch [0988580] B  ALPHA  2/02:half million dollars   09/11/01 22:02:57
+2001-09-11 22:04:23 Arch [1611051] C  ALPHA  1/02:Sev1 open S3041474 IAN JOHNSON 8002427396 ATRIA WEST2 DIVERSIFIED CONSUMER SERVICES EMCNCCOPS No SNA connectivity from Garden City to Somerset..Major job that is not  getting received..ACP jobs with financial impact about
+2001-09-11 22:04:25 Arch [1047640] C  ALPHA  2/02:half million dollars   09/11/01 22:02:57
+2001-09-11 22:04:27 Metrocall [1708856] C  ALPHA  Moseley, Brian: Bring Rob's monkey harnest in. Thanks Bonnie
+2001-09-11 22:04:27 Metrocall [0813158] B  ALPHA  You have 4 messages 3 being new 0 being faxes
+2001-09-11 22:04:27 Metrocall [1889701] B  ALPHA  From: Burford, Jerrold F. Subj: ADCC Operati
+2001-09-11 22:04:28 Arch [1666850] A  ALPHA  3196
+2001-09-11 22:04:29 Metrocall [002110490] C  ALPHA  Take your meds.
+2001-09-11 22:04:29 Metrocall [1874880] A  ALPHA  Neoral, Cellcept, Prednisone, Cytovene, Servant
+2001-09-11 22:04:29 Metrocall [1889701] B  ALPHA  on V2.0 ADCC Operation 21:55 ATLANTA WEST END A0758 1_-Oper LARGE WAREHOUSE FIRE AT 997 COX AVE SW OFF SYLVAN RD
+2001-09-11 22:04:29 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE 
+2001-09-11 22:04:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3032
+2001-09-11 22:04:30 Arch [1611051] C  ALPHA  2/02:half million dollars   09/11/01 22:02:57
+2001-09-11 22:04:30 Arch [0904066] A  ALPHA  1/02:Sev1 open S3041474 IAN JOHNSON 8002427396 ATRIA WEST2 DIVERSIFIED CONSUMER SERVICES EMCNCCOPS No SNA connectivity from Garden City to Somerset..Major job that is not  getting received..ACP jobs with financial impact about
+2001-09-11 22:04:30 Arch [0977467] C  ALPHA  1/02:Sev1 open S3041474 IAN JOHNSON 8002427396 ATRIA WEST2 DIVERSIFIED CONSUMER SERVICES EMCNCCOPS No SNA connectivity from Garden City to Somerset..Major job that is not  getting received..ACP jobs with financial impact about
+2001-09-11 22:04:30 Arch [0924725] B  ALPHA  1/02:Sev1 open S3041474 IAN JOHNSON 8002427396 ATRIA WEST2 DIVERSIFIED CONSUMER SERVICES EMCNCCOPS No SNA connectivity from Garden City to Somerset..Major job that is not  getting received..ACP jobs with financial impact about
+2001-09-11 22:04:31 Metrocall [0476499] A  ALPHA  SEQUENTIAL NUMBER  3032
+2001-09-11 22:04:31 Skytel [005446146] A SH/TONE 8       
+2001-09-11 22:04:31 Skytel [005408650] C ST NUM  210-600-6061 (63    
+2001-09-11 22:04:31 Skytel [005478413] D ST NUM  210-258-9978   
+2001-09-11 22:04:32 Arch [0904066] A  ALPHA  2/02:half million dollars   09/11/01 22:02:57
+2001-09-11 22:04:32 Arch [0977467] C  ALPHA  2/02:half million dollars   09/11/01 22:02:57
+2001-09-11 22:04:33 Skytel [002353179] C  ALPHA  update..dfw, phx, msy, will have to do trucks tonight, if you have not heard from elaine, you can reach her on her cell 833-3070-Annemarie
+2001-09-11 22:04:33 Skytel [007550743] B ST NUM  603-549-8878   
+2001-09-11 22:04:33 Skytel [002864402] A  ALPHA  potski23@hotmail.com||*Mwaah* sa eyes, nose at chin at *tsup* sa cheeks at lips  behave ka dyan  love you po ng madame  saw jolina sa tv kaninang mga 5am in the morning hmm   k naman sya pero si Roselle bhey talagang  wala eh     
+2001-09-11 22:04:33 Skytel [002566041] C ST NUM  203-949-0667   
+2001-09-11 22:04:33 Skytel [005256470] B  ALPHA  Guardian@wcom.com|Failed to reach node NTFRDKBAK301.|Failed to reach node NTFRDKBAK301.  
+2001-09-11 22:04:33 Skytel [1299857] A  ALPHA  corazon, probando el sky. Hablame antes de dormirte. Te amo. Cuidate.
+2001-09-11 22:04:33 Skytel [002353048] C  ALPHA  lawcomm2: Bank One lawcomm2 Host down: No response to ping twice  
+2001-09-11 22:04:34 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-11 22:04:34 Arch [1276072] C  ALPHA  69-CALL MOM WHEN YOU GET HOME. - PATRISHA.
+2001-09-11 22:04:35 Skytel [005361446] B  ALPHA  from Charlene@T648-3815 - Need VPW resource for case 3200214087
+2001-09-11 22:04:35 Skytel [007588515] A SH/TONE 3372    
+2001-09-11 22:04:35 Skytel [002864402] A  ALPHA  __________
+2001-09-11 22:04:35 Skytel [005361445] B  ALPHA  from Charlene@T648-3815 - Need VPW resource for case 3200214087
+2001-09-11 22:04:35 Skytel [002374703] D  ALPHA  i@speedia.com||Players Say Ryder Cup Should Be Postponed; Yankee Stadium Staff Evacuated After Attacks in U.S.; Sent: 09/11@19:00 PST  
+2001-09-11 22:04:35 Skytel [005361447] B  ALPHA  from Charlene@T648-3815 - Need VPW resource for case 3200214087
+2001-09-11 22:04:35 Skytel [007588521] C SH/TONE 3364    
+2001-09-11 22:04:35 Skytel [004687527] B ST NUM  9885199043
+2001-09-11 22:04:35 Skytel [005353772] D  ALPHA  bob,  can you help in San Diego.  You may be the only person that knows the number.  Thanks.
+2001-09-11 22:04:36 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-11 22:04:36 Metrocall [1398726] B  ALPHA  CONSULT Erica OLOL 4e 289-2940 DR Brown Herbert Arnold RM# 436 possible heart ca
+2001-09-11 22:04:36 Metrocall [1398726] B  ALPHA  th for in the a.m.
+2001-09-11 22:04:37 Skytel [005110712] C SH/TONE 24      
+2001-09-11 22:04:37 Skytel [007588530] A SH/TONE 3391    
+2001-09-11 22:04:37 Skytel [007030076] D SH/TONE 408-5341
+2001-09-11 22:04:37 Skytel [003328569] C  ALPHA  OCTL 0.00 UNCH CSCO 14.47 UNCH COMS 3.60 UNCH USRX 0.00 UNCH (16
+2001-09-11 22:04:37 Skytel [003054910] D ST NUM  900-227-3030   
+2001-09-11 22:04:37 Skytel [0717237] B  ALPHA  TOTAL DID TELL-UAS AL 11-SEP-2001 21:03:49 -----> SERIE 215XX = 9885, SERIE 513XX = 9970, SERIE 583XX = 9919, SERIE 509XX = 2966
+2001-09-11 22:04:38 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-11 22:04:38 Metrocall [1423737] C  ALPHA  Watchdog: 182-  0-1430
+2001-09-11 22:04:38 Metrocall [1544820] B  ALPHA  CRDC-MAIL02 "Server CRDC-MAIL02/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail3.box. "
+2001-09-11 22:04:39 Skytel [006536525] D  ALPHA  1/3 TE CONSEGUI VUELO A LAS 9:15 POR AEROMEXICO PARA LLEGAR A LAS 12:45 A MTY. VUELO 925 SALIENDO DE CD. JUAREZ, LA
+2001-09-11 22:04:39 Skytel [004574920] C  ALPHA  prelive@dev3.linkexchange.com|METROPLEX ERROR| 
+2001-09-11 22:04:39 Skytel [004538828] D SH/TONE 6127    
+2001-09-11 22:04:39 Skytel [005123145] C ST NUM  818-009-4490-17
+2001-09-11 22:04:39 Skytel [002840770] A ST NUM  1-004-084-7213-13   
+2001-09-11 22:04:39 Skytel [002845771] C  ALPHA  PHA 40.15 UNCH MRK 66.10 UNCH PFE 38.17 UNCH
+2001-09-11 22:04:39 Skytel [004743501] D ST NUM  77) 234-3075   
+2001-09-11 22:04:39 Skytel [007049414] B  ALPHA  Paul.Johnson@adelphia.com||All activity will return to 'business as usual' on Wednesday Sept. 12th.  
+2001-09-11 22:04:41 Skytel [005221213] D  ALPHA  805-714-9194 Alhambra, CA        
+2001-09-11 22:04:41 Skytel [007637589] B SH/TONE 07734   
+2001-09-11 22:04:41 Skytel [004448084] B SH/TONE 331-7720
+2001-09-11 22:04:41 Skytel [002205012] B ST NUM  673-883-2020 (14    
+2001-09-11 22:04:41 Skytel [005354069] B ST NUM  515-332-0258   
+2001-09-11 22:04:41 Skytel [003257182] D ST NUM  825-935-8008 U 
+2001-09-11 22:04:43 Arch [0916163] A  ALPHA  788-9095
+2001-09-11 22:04:43 Skytel [003913184] A SH/TONE 43770   
+2001-09-11 22:04:43 Skytel [005197292] D  ALPHA  SGI 0.42 UNCH MOT 15.04 UNCH AMAT 40.03 UNCH BHI 34.55 UNCH
+2001-09-11 22:04:43 Skytel [005436525] D  ALPHA  Test Message #23-IX_T0704
+2001-09-11 22:04:43 Skytel [005066727] B SH/TONE 1813    
+2001-09-11 22:04:43 Skytel [003944676] B  ALPHA  Guardian@wcom.com|Failed to reach node NTFRDKBAK301.|Failed to reach node NTFRDKBAK301.  
+2001-09-11 22:04:43 Skytel [002357089] A SH/TONE 2700    
+2001-09-11 22:04:43 Skytel [005204068] B ST NUM  228-782-2911-911    
+2001-09-11 22:04:43 Skytel [003857131] C ST NUM  800-227-3030   
+2001-09-11 22:04:43 Skytel [005108207] D ST NUM  703-464-9641   
+2001-09-11 22:04:45 Arch [1621187] A  ALPHA  From: Kiernan, Patrick (Exchange)- For information regarding Bear Stearns opening for tomorrow please call (877) 826-2327  
+2001-09-11 22:04:45 Arch [1619666] A  ALPHA  From: Kiernan, Patrick (Exchange)- For information regarding Bear Stearns opening for tomorrow please call (877) 826-2327  
+2001-09-11 22:04:45 Arch [0977930] C  ALPHA  From: Kiernan, Patrick (Exchange)- For information regarding Bear Stearns opening for tomorrow please call (877) 826-2327  
+2001-09-11 22:04:45 Arch [0284728] C  ALPHA  From: Kiernan, Patrick (Exchange)- For information regarding Bear Stearns opening for tomorrow please call (877) 826-2327  
+2001-09-11 22:04:45 Skytel [005201791] D  ALPHA  5760589 SER WNDMIN HARRIS, TYLER 7176774763 T HARRIS HOME OTH CSD 157
+2001-09-11 22:04:45 Skytel [003327216] A  ALPHA  002560 CYCLIC TEST 
+2001-09-11 22:04:45 Skytel [005170420] B ST NUM  415-519-6060   
+2001-09-11 22:04:45 Skytel [002161786] C ST NUM  413-231-4256   
+2001-09-11 22:04:45 Skytel [004715003] C ST NUM  652-061-1666   
+2001-09-11 22:04:45 Skytel [002357369] C  ALPHA  002560 CYCLIC TEST 
+2001-09-11 22:04:45 Skytel [002139900] D SH/TONE 002560  
+2001-09-11 22:04:46 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-11 22:04:46 Metrocall [1421210] C  ALPHA  LAKEJob 378304/VSIOWNER/OMSJRNMGR has MSGW status.
+2001-09-11 22:04:46 Skytel [004125828] B SH/TONE 6294 (56
+2001-09-11 22:04:46 Skytel [007026054] B ST NUM  3) 306-4059    
+2001-09-11 22:04:46 Skytel [007582986] C ST NUM  508-771-6471-076    
+2001-09-11 22:04:47 Arch [0924725] B  ALPHA  2/02:half million dollars   09/11/01 22:02:57
+2001-09-11 22:04:47 Metrocall [1543449] C  ALPHA  18006812019  ID: PPISO Ticket: 527  PLUS Station \S is Marked DOWN  Request: 9 - Closed >
+2001-09-11 22:04:48 Skytel [007563536] A ST NUM  223732997814314322  
+2001-09-11 22:04:50 Skytel [003919784] C  ALPHA  Paul.Johnson@adelphia.com||All activity will return to 'business as usual' on Wednesday Sept. 12th.  
+2001-09-11 22:04:52 Skytel [004181426] A ST NUM  509-7382-31 (57
+2001-09-11 22:04:52 Skytel [004663743] D ST NUM  660-252-3038 (54    
+2001-09-11 22:04:53 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-11 22:04:53 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 189661. 
+2001-09-11 22:04:54 Skytel [008507076] B  ALPHA  01810h4b19b0100100002g
+2001-09-11 22:04:55 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-11 22:04:56 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-11 22:04:56 Skytel [007513050] C  ALPHA  Y! ||$499 deals on iPAQ Pocket PC Hijacked Planes Destroy Twin Towers, 1,000s Killed Reuters  
+2001-09-11 22:04:57 Metrocall [1540067] A  ALPHA  From: Burford, Jerrold F. Subj: ADCC Operation V2.0 ADCC Operation 21:55 ATLANTA WEST END A0758 1_-Oper LARGE WAREHOUSE FIRE AT 997 COX AVE SW OFF SYLVAN RD
+2001-09-11 22:04:57 Metrocall [0667845] B  ALPHA  From: Burford, Jerrold F. Subj: ADCC Operation 
+2001-09-11 22:04:57 Metrocall [0310072] C  ALPHA  2001-09-11 20:51:15 \JACS1TA.$S7O2A SSERIES.SSCPC02.D40 006397 IOAOUT process discarded 1 messages from SS7 router destined for unavailable DLC(s).
+2001-09-11 22:04:58 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-11 22:04:58 Skytel [005121505] A SH/TONE 769-6705
+2001-09-11 22:04:58 Skytel [004746346] C SH/TONE 000     
+2001-09-11 22:04:59 Metrocall [0667845] B  ALPHA  V2.0 ADCC Operation 21:55 ATLANTA WEST END A0758 1_-Oper LARGE WAREHOUSE FIRE AT 997 COX AVE SW OFF SYLVAN RD

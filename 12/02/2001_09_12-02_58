@@ -1,0 +1,78 @@
+2001-09-12 02:58:00 Arch [1619163] C  ALPHA  :Jeff, Please call ext 2470 thank you in reguards of servers
+2001-09-12 02:58:00 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-12 02:58:00 Skytel [?????????] C  ALPHA  Robert_Seaton@capgroup.com|E-Mail| 
+2001-09-12 02:58:00 Skytel [003074556] D  ALPHA  NOVL 3.99 UNCH MSFT 57.58 UNCH NSCP 0.00 UNCH IBM 96.47 UNCH (1
+2001-09-12 02:58:00 Skytel [007644540] D SH/TONE 235     
+2001-09-12 02:58:02 Skytel [005225860] B SH/TONE 125     
+2001-09-12 02:58:05 Skytel [007026605] D ST NUM  508-393-0317-65
+2001-09-12 02:58:06 Arch [0978397] D  ALPHA  jlwindh 75925-321--  6024 - Chris found onstat process that caused panic.  Please call.  Jimmie  Sent at 01:57      
+2001-09-12 02:58:09 Skytel [007567428] B ST NUM  70081681436969911187
+2001-09-12 02:58:11 Skytel [005390424] C  ALPHA  3284 Burlingame, CA      
+2001-09-12 02:58:11 Skytel [003482586] C ST NUM  660-213-6969   
+2001-09-12 02:58:12 Arch [0987275] C  ALPHA  s0191: 09/11 15:50:15 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:50:16
+2001-09-12 02:58:12 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcb-wbs01 Sev:4 # 36407 NoICAPDataForTooLong WBS 3.1.14.1 09/11/01 23:57:46 PDT7 Instance: WBSSched_|_VAL_|_Created:09/11/01_02:30:08 Module: GatewayConnection Details: PID=5553 TID=145 No data received in 3601 
+2001-09-12 02:58:13 Skytel [004688750] D SH/TONE 3614    
+2001-09-12 02:58:14 Arch [0987275] C  ALPHA  sb3: INFO0002 - Trade Count Mismatch Ora=825 Rec=0 (160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:52
+2001-09-12 02:58:14 Arch [1153676] D  ALPHA  (13)"WhatsUp" <jonat|10.165.33.21 WABWGP01 13241 NE 20th Street is UP at 01:59:11 
+2001-09-12 02:58:14 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.164.32.30 CABWGP01 Burlingame, CA is UP at 01:59:11 
+2001-09-12 02:58:14 Metrocall [0477913] C  ALPHA  s
+2001-09-12 02:58:15 Arch [0987275] C  ALPHA  s0191: 09/11 15:56:49 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:56:49
+2001-09-12 02:58:17 Skytel [007563399] B SH/TONE 771-4602
+2001-09-12 02:58:18 Skytel [002847128] C  ALPHA  ORCL 11.46 UNCH MSFT 57.58 UNCH NSCP 0.00 UNCH FMAGX 98.26 +0.50 (33
+2001-09-12 02:58:20 Skytel [005001895] B  ALPHA  [sps/1] 100 supplier.intel.com relay 1.680 Bad response from plug-in(/metrios/aspcheck.asp) 3:38:40
+2001-09-12 02:58:20 Skytel [004625450] C  ALPHA  PIN HP NNM   STATUS: Normal               LA INTERFACE Se0.1 DEL NODO 30628-30627 SE REESTABLECIO EL DIA 09/12/01 A LAS 01:50:14
+2001-09-12 02:58:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1070
+2001-09-12 02:58:21 Metrocall [1235838] D  ALPHA  From:Mark D Schemmer Subject:Test!
+2001-09-12 02:58:21 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs01 Sev:4 # 36407 NoICAPDataForTooLong WBS 3.1.14.1 09/11/01 23:57:46 PDT7 Instance: WBSSched_|_VAL_|_Created:09/11/01_02:30:09 Module: GatewayConnection Det
+2001-09-12 02:58:21 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE Tray Metrics Down   Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[005]  dev_err[056]
+2001-09-12 02:58:23 Metrocall [0477913] C  ALPHA  ails: PID=24127 TID=141 No data received in 3601
+2001-09-12 02:58:23 Skytel {1256008} 1 1200 EOG 32.73 UNCH EPP 0.00 UNCH ENE 32.76 UNCH..
+2001-09-12 02:58:30 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 193000. 
+2001-09-12 02:58:30 Arch [0987275] C  ALPHA  s0191: 09/11 16:02:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 16:02:48
+2001-09-12 02:58:30 Metrocall [002563153] A  ALPHA  F:WazzUp-Pager  S:spo-fs-main DOWN at 23:57:59 M:Address: 155.162.62.89 Date: 09/11/2001 Status: Timed Out ( 11010)
+2001-09-12 02:58:30 Metrocall [002588047] D  ALPHA  Frm: Muralidhar Devarakonda Sub: server status Txt: Machine 30kcerent1.nsf.att.com not up on Wed Sep 12 02:45:01 2001. 
+2001-09-12 02:58:30 Metrocall [1495978] C  ALPHA  (From ICON01) IR:1284189 JOB:DEDL075B ABD:U0403 P:3 ON DALA 09/11 21:01
+2001-09-12 02:58:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3326
+2001-09-12 02:58:32 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3326
+2001-09-12 02:58:32 Metrocall [002588047] D  ALPHA  status 256.Machine 30kcerent2.nsf.att.com not up on Wed Sep 12 02:45:01 2001 status 256.Machine mtcerent3.nsf.att.com not up on Wed Sep 12 02:45:01 2001 status 2
+2001-09-12 02:58:32 Skytel [004125839] D  ALPHA  1 (93
+2001-09-12 02:58:32 Skytel [002361863] B  ALPHA  PAGEING,1,Application DPIP Informational 4 0 4096 23:56  09/11/01
+2001-09-12 02:58:33 Skytel [004386457] C SH/TONE 2845    
+2001-09-12 02:58:34 Arch [0508023] B  ALPHA  Super-User <root|!BB - 2348510! hp3000.namins.com|[2348510] hp3000.namins.com.conn red Wed Sep 12 02:59:32 EDT 2001 bb-network.sh: Can't ping hp3000.namins.com... Please see: http://bass.namins.com/bb/html/hp3000.namins.com.conn.html 
+2001-09-12 02:58:35 Skytel [002279468] D ST NUM  918-435-5599   
+2001-09-12 02:58:36 Arch [1657188] B  ALPHA  NCAGBRMQ02:Device Accessible,Device Status:Ok
+2001-09-12 02:58:37 Skytel [005112125] D  ALPHA  MSFT 57.58 UNCH CBR 5.80 UNCH BEAS 13.97 UNCH
+2001-09-12 02:58:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:58:39 Skytel [008477645] D  ALPHA  PIN HP NNM  STATUS: Normal             EL NODO 30620-30619 SE REESTABLECIO EL DIA: 09/12/01  A LAS 01:50:14 (14 (14
+2001-09-12 02:58:39 Skytel [005211079] B SH/TONE 685-1001
+2001-09-12 02:58:40 Arch [0976491] C  ALPHA  806 472-8298
+2001-09-12 02:58:40 Metrocall [1544820] B  ALPHA  CRDC-GWY01 "Server CRDC-GWY01/GSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail2.box. "
+2001-09-12 02:58:41 Skytel [005361755] C  ALPHA  PLEASE CALL BEN 415 436 2161 ASAP.
+2001-09-12 02:58:42 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 76.13 43.09 34.27 Tue Sep 11 23:59:01 MST 2001 
+2001-09-12 02:58:43 Skytel [005178080] A SH/TONE 104     
+2001-09-12 02:58:43 Skytel [005342952] C SH/TONE 6400    
+2001-09-12 02:58:43 Skytel [005525355] C  ALPHA  Robin IMP13101 critical interlock. Thanks....Jose.
+2001-09-12 02:58:43 Skytel [005391208] C ST NUM  313-486-9975   
+2001-09-12 02:58:43 Skytel [007562983] B SH/TONE 101343  
+2001-09-12 02:58:43 Skytel [002406502] B  ALPHA  maillog@2waybeats.com|2waybeats.com VDE/CGI script output|1[!A0][D32801]!*+Jay-Z+NotGuilty\DJEv\;2,T097%LdLrD#sD#RRD#RRD#RRD#REldlrReRs7a7VLrLdGt-F#v--FEa4D#-D-C#Rsa9V9BsvRRV2Ee.vD#eVC#e.vRs7a7VGt-Fvld--FEa4D#-D-C#Rsa9VLd9BsvldRRV2Ee.vLdD#e
+2001-09-12 02:58:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #77-IX_T4510
+2001-09-12 02:58:44 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2591..
+2001-09-12 02:58:45 Skytel [002357369] C  ALPHA  002658 CYCLIC TEST 
+2001-09-12 02:58:45 Skytel [003327216] A  ALPHA  002658 CYCLIC TEST 
+2001-09-12 02:58:45 Skytel [002204536] C SH/TONE 1234 (58
+2001-09-12 02:58:45 Skytel [002139900] D SH/TONE 002658  
+2001-09-12 02:58:47 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 23:58:42 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 02:58:47 Skytel [004575752] C SH/TONE 3       
+2001-09-12 02:58:47 Skytel [003250311] B  ALPHA  SMT:VA:L3:GCPADMIN: 16777293: ERROR PROCESSING FILE /U/GCPP/GCPFILES/OKACHKS001.DAT /U/GCPP/GCPFILES:Call 8882917023:SENDID# 1973 : 
+2001-09-12 02:58:49 Metrocall [1544820] B  ALPHA  CRDC-GWY01 "Server CRDC-GWY01/GSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail2.box. "
+2001-09-12 02:58:51 Arch [0911290] C  ALPHA  :00330587 Severity: 3 Dunkers/3725/MJZXG) Did not give Machine Name.  He needs PAL, which may already be there, but please make sure it is working and show him how it works.
+2001-09-12 02:58:53 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.165.33.21 WABWGP01 13241 NE 20th Street is UP at 01:59:11 
+2001-09-12 02:58:54 Skytel [005361612] D ST NUM  1101091223340000000000   
+2001-09-12 02:58:56 Skytel [002384977] A  ALPHA  MAT 17.58 UNCH MCD 28.92 UNCH
+2001-09-12 02:58:57 Arch [1666850] A  ALPHA  3196
+2001-09-12 02:58:57 Arch [1657188] B  ALPHA  NCAGBRGQ01:Device Inaccessible
+2001-09-12 02:58:57 Arch [0927086] D  ALPHA  VPO - msadc01:5.6.012 utapao-mras-cis-pri.ae.ge.com IF Se0/0.1 down - 3.185.0.2 
+2001-09-12 02:58:58 Metrocall [1560488] C  ALPHA  MESSAGE WAITING * 675-6975
+2001-09-12 02:58:58 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4718
+2001-09-12 02:58:58 Skytel [005414638] D  ALPHA  AMD 11.85 UNCH INTC 26.07 UNCH TXN 28.61 UNCH MOT 15.04 UNCH (74
+2001-09-12 02:58:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8148

@@ -1,0 +1,65 @@
+2001-09-11 04:45:00 Arch [0870953] C  ALPHA  |Check Do_cycle .... Jeff  
+2001-09-11 04:45:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1992
+2001-09-11 04:45:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1992
+2001-09-11 04:45:01 Arch [0980910] D  ALPHA  ERIN MOVIN SLOWLY NORTHWARD & CONTINUING TO WEAKEN HURR ERIN NOW @ 37.2 N. LAT 65.9 W. LON MAX WIND ARE NEAR 90 MPH. MOVIN TOWARD THE NORTH NEAR 7 MPH. PRES. IS 976 MB...28.82 IN. 
+2001-09-11 04:45:01 Arch [1008334] D  ALPHA  25900
+2001-09-11 04:45:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6814
+2001-09-11 04:45:05 Skytel [005319845] B  ALPHA  oracle@playboy.com|CPU Load CR ads-chi.peiecommerce.com |ads-chi.peiecommerce.com  Node  ads-chi.peiecom
+2001-09-11 04:45:05 Skytel [005093539] A  ALPHA  ralsupport@mailer.ibsys.com|   Hurricane Erin Advisory Number  36 |Erin moving slowly northward and continuing to weaken,    At 5 am ast, 0900z, the center of hurricane erin was located near latitude 37.2 north, longitude 65.9 west or about
+2001-09-11 04:45:06 Skytel {0132085} 1 1200 0002C00000000006190100003C0700000000051C6124534F02000000.
+2001-09-11 04:45:09 Metrocall [1544820] B  ALPHA  IWHub ServerWatch Notification - Server GREN-ST1/CA/SSVR/KAIPERM is Responding Server GREN-ST1/CA/SSVR/KAIPERM is responding
+2001-09-11 04:45:09 Metrocall [1544818] A  ALPHA  IWHub ServerWatch Notification - Server GREN-ST1/CA/SSVR/KAIPERM is Responding Server GREN-ST1/CA/SSVR/KAIPERM is re
+2001-09-11 04:45:11 Metrocall [1544818] A  ALPHA  sponding
+2001-09-11 04:45:14 Arch [1355675] C  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 04:45:14 Arch [1423082] C  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 04:45:14 Arch [1080366] D  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 04:45:14 Arch [0917144] C  ALPHA  Z_SQL-SERVER <Z_|SQL Server Task System: 'LoadFro|TASK RUN: #60 - 'LoadFromProd_DB' - Executed on 9/11/2001 at 2:07:24 AM DURATION: 2 hours, 37 minutes, 54 seconds STATUS: Failed MESSAGES: Device drop
+2001-09-11 04:45:17 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177966. 
+2001-09-11 04:45:18 Metrocall [0864362] C  ALPHA  BMP1PAGE UPDATE TROPICAL WX CENTER / NHC: HURRICANE ERIN ADVISORY NUMBER 36HURRICANE ERIN ADVISORY NUMBER 36HURRICANE ERIN ADVISORY NUMBER 36
+2001-09-11 04:45:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9737
+2001-09-11 04:45:30 Metrocall [1363643] C  ALPHA  Frm: busintel@tickets.com Sub: =?iso-8859-1?Q?Load Plan Completion - Performance_Dim?=
+2001-09-11 04:45:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3385
+2001-09-11 04:45:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 01:44:27 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 04:45:31 Skytel [002844427] C  ALPHA  AP:VA:L1:V5MDUA10 FAILED WITH A JCL ERROR ON 3S03 - 03:42:Call 8005826218.
+2001-09-11 04:45:32 Arch [1034502] B  ALPHA  From root@espimi01.wal-mart.com: " TLOGS at 457(2500) behind, notify DUS/UUCOM beeper"  
+2001-09-11 04:45:33 Skytel [003261457] A  ALPHA  alert@msn.com||Hotmail Hotmail Special Offers:Home Planetarium: $32.00  
+2001-09-11 04:45:33 Skytel [007563679] D ST NUM  223-295-4041   
+2001-09-11 04:45:35 Skytel [004390436] B SH/TONE 17593   
+2001-09-11 04:45:36 Skytel [0001075] A  ALPHA  noncons complete at 0343
+2001-09-11 04:45:36 Skytel [0001074] A  ALPHA  noncons complete at 0343
+2001-09-11 04:45:36 Skytel [005382200] C  ALPHA  wwwadmin@carsmart.com||Request for 2001 Honda Accord EX V6 4-Dr from Jeanette Holley (323-931-9082 ext. 1)  
+2001-09-11 04:45:38 Skytel [004539594] C  ALPHA  noncons complete at 0343
+2001-09-11 04:45:40 Skytel [002359129] C  ALPHA  noncons complete at 0343
+2001-09-11 04:45:40 Skytel [007045593] C  ALPHA  GDT 33.90 -0.05
+2001-09-11 04:45:40 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job99614 SNYC10P00010 09/11 04:44 EVENTLOG
+2001-09-11 04:45:41 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs05 Sev:4 # 120012 Reconnect WBS 3.1.14.1 09/11/01 01:45:51 PDT7 Instance: tm-blmb Module: Transport Details: PID=10648 TID=11 Successfully reconnected.
+2001-09-11 04:45:41 Metrocall [002119221] B  ALPHA  5420*Event on machine FMSDEDNETIQ Problem is Text 
+2001-09-11 04:45:42 Arch [0282060] D  ALPHA   For your reference, UNICON has resolved all Internal Server Error problems on the Networking Academy Sites. This problem began at approximately (1:20 AM) and was resolved by (1:40 AM). If you would like more detailed information  -1/2
+2001-09-11 04:45:42 Arch [031403439] D  ALPHA   For your reference, UNICON has resolved all Internal Server Error problems on the Networking Academy Sites. This problem began at approximately (1:20 AM) and was resolved by (1:40 AM). If you would like more detailed information  -1/2
+2001-09-11 04:45:42 Arch [0841560] C  ALPHA   For your reference, UNICON has resolved all Internal Server Error problems on the Networking Academy Sites. This problem began at approximately (1:20 AM) and was resolved by (1:40 AM). If you would like more detailed information  -1/2
+2001-09-11 04:45:42 Skytel [007003616] A  ALPHA  PLEASE CALL ROBERT AT 626-282-8254. [2040
+2001-09-11 04:45:42 Skytel [005436525] D  ALPHA  Test Message #52-IX_T1702
+2001-09-11 04:45:42 Skytel [004524770] A  ALPHA  spr-UFYoung-ELongmeadowMA-01: CPE Up at 00:58:25 on 9/11
+2001-09-11 04:45:43 Metrocall [002119221] B  ALPHA  not found in: http://networkaccount.intel.com/service_status.asp Detailed message is URL: http://networkaccount.intel.com/service_status.asp ??does not contain: SFSA0005 SUCCEEDED
+2001-09-11 04:45:44 Arch [0282060] D  ALPHA  please contact your Account Manager.    -2/2
+2001-09-11 04:45:44 Arch [031403439] D  ALPHA  please contact your Account Manager.    -2/2
+2001-09-11 04:45:44 Skytel [003954036] B  ALPHA  ECCFTP01:Device Inaccessible
+2001-09-11 04:45:44 Skytel [004589171] A SH/TONE 00814   
+2001-09-11 04:45:44 Skytel [007109749] B SH/TONE 50400   
+2001-09-11 04:45:44 Skytel [007541750] B SH/TONE 1403    
+2001-09-11 04:45:44 Skytel [007528823] B  ALPHA  alert@msn.com||Aries: Sweep your dirt under the rug. You need a clean break. The pieces fall togethe
+2001-09-11 04:45:44 Skytel [005412592] A  ALPHA  6320 (31
+2001-09-11 04:45:44 Skytel [007041527] B  ALPHA  oncall:SEV 3: Rec#1546110(Open) USCA/HPLBJBDCL- HPPGJBDCL  program QSNDDTAQ ended in error
+2001-09-11 04:45:45 Arch [0911096] C  ALPHA   For your reference, UNICON has resolved all Internal Server Error problems on the Networking Academy Sites. This problem began at approximately (1:20 AM) and was resolved by (1:40 AM). If you would like more detailed information  -1/2
+2001-09-11 04:45:46 Arch [0841560] C  ALPHA  please contact your Account Manager.    -2/2
+2001-09-11 04:45:46 Arch [0869009] A  ALPHA   For your reference, UNICON has resolved all Internal Server Error problems on the Networking Academy Sites. This problem began at approximately (1:20 AM) and was resolved by (1:40 AM). If you would like more detailed information  -1/2
+2001-09-11 04:45:46 Arch [0860698] C  ALPHA   For your reference, UNICON has resolved all Internal Server Error problems on the Networking Academy Sites. This problem began at approximately (1:20 AM) and was resolved by (1:40 AM). If you would like more detailed information  -1/2
+2001-09-11 04:45:46 Skytel [004086922] C SH/TONE   (76   
+2001-09-11 04:45:47 Arch [0869009] A  ALPHA  please contact your Account Manager.    -2/2
+2001-09-11 04:45:47 Arch [0860698] C  ALPHA  please contact your Account Manager.    -2/2
+2001-09-11 04:45:48 Metrocall [1064375] B  ALPHA  /FTSE  5120.90  +087 NIKK  10292.95  +097 DAX    4768.48  +098 CAC40  4453.69  +069 MIB30  31888   +0324 HSI  10417.36  +0051 30 _99.02/03  5.438% GOLD271.25/175  -025 S 4.17/19  PL 439.00 PD 450.00/0.00  +000 JG 1.420%
+2001-09-11 04:45:48 Metrocall [002119472] A  ALPHA  Frm: WESH-Weather
+2001-09-11 04:45:50 Metrocall [002119472] A  ALPHA  Warn@eastern.weatherwarn.net Sub: From News CH 2 & Lowe's Txt: ERIN MOVIN SLOWLY NORTHWARD & CONTINUING TO WEAKEN HURR ERIN NOW @ 37.2 N. LAT 65.9 W. LON MAX WIND ARE NEAR 90 MPH. MOVIN TOWARD THE NORTH NEAR 7 MPH. PRES. IS
+2001-09-11 04:45:50 Metrocall [1064385] A  ALPHA  JY  8221/8290 
+2001-09-11 04:45:52 Metrocall [1064385] A  ALPHA   -055 EC  8982/8963 -0018 BP 14544/14490 -034 SF  5928/5932  -007 CD  6400/6392  +002 AD  5143/5126  +017 DM  4602/4591  -026 FES 9696/733/740/32 FDX 4770/4820  +083 PTB 8962/8880  -016 FGBS10358 FYB 13897 BDL 10806/10800-019 BDM 10717-011
+2001-09-11 04:45:57 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177973. 

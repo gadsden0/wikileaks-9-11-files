@@ -1,0 +1,85 @@
+2001-09-12 02:42:00 Arch [0901087] D  ALPHA  [01/02]:The Problem with ID 00330601 Severity 2 Description  moxagj.pitts.bayer.com- Interface Serial6/0/0.37 down. has not been resolved.It has been escalated to level 2 on...
+2001-09-12 02:42:00 Skytel [007641456] A SH/TONE 111     
+2001-09-12 02:42:00 Skytel [002752224] A SH/TONE 2481 (4 
+2001-09-12 02:42:02 Arch [0901087] D  ALPHA  [02/02] 09/11/2001 at 14:19:27.
+2001-09-12 02:42:02 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 23:41:01 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 02:42:03 Skytel [002401821] D  ALPHA  saspcd03 Distributed Monitoring PALM.dm.ussa17.Unix.saspcd03/Daemon status on host saspcd03 09/11/01 23:39:14 PDT  Status: >>> critical <<< ussa17.PALM 
+2001-09-12 02:42:04 Arch [0929039] D  ALPHA  asmith2| Fire Alarm Bldg 5 911 has been dispatched  
+2001-09-12 02:42:05 Skytel [005001895] B  ALPHA  [sps/187] 200 sps-apps1.cps.intel.com relay-ssl 0.705 Application isokay (/lift/healthcheck.asp) 3:44:09
+2001-09-12 02:42:05 Skytel [002279468] D ST NUM  918-435-5599   
+2001-09-12 02:42:08 Arch [0578031] D  ALPHA  ISHD1380870 - CTI-InternetSuite - SitMan Page: All Nashville users are again not receiving screen pops. App Adm and AD engaged. Sitman Mike Bruns 816-965-1559 . No ETC   - 220022 - 1.800.808.1058 opti
+2001-09-12 02:42:08 Arch [0960331] C  ALPHA  ISHD1380870 - CTI-InternetSuite - SitMan Page: All Nashville users are again not receiving screen pops. App Adm and AD engaged. Sitman Mike Bruns 816-965-1559 . No ETC   - 220022 - 1.800.808.1058 opti
+2001-09-12 02:42:09 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:42:09 Skytel [005225033] C SH/TONE 207     
+2001-09-12 02:42:10 Metrocall [004067549] D  ALPHA  CALL THE OFFICE
+2001-09-12 02:42:10 Metrocall [002272957] D  ALPHA  Frm: sfq@fw00mal1.statefarm.com Txt: Call ID 11398966:Medium:Reassigned:r09; need reque of last qn189i##, qn185i##, and iq450i## class7 fcb=6703.
+2001-09-12 02:42:11 Skytel [005080664] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:38      
+2001-09-12 02:42:11 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job113073 SSAO02302 09/12 02:40 DISK
+2001-09-12 02:42:11 Skytel [007563865] C ST NUM  809-599-9040-22
+2001-09-12 02:42:12 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-12 02:42:13 Skytel [005178080] A SH/TONE 104     
+2001-09-12 02:42:13 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #45-IX_T4206
+2001-09-12 02:42:14 Arch [1099272] C  ALPHA  (27)23:ABS:
+2001-09-12 02:42:14 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-12 02:42:14 Arch [0479381] B  ALPHA  (8)21:ABS:
+2001-09-12 02:42:14 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-12 02:42:14 Arch [1318703] D  ALPHA  (28)18:ABS:
+2001-09-12 02:42:15 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-12 02:42:15 Skytel [005094397] D  ALPHA  NTManage@bsmg.com|Message from NTManage|This Message is from NMS: Device Name: OC Address: 144.210.149.2 is Not Reachable Type: Windows NT Server/NOTES Ping: REQ Timed Out NMS: Device in severe error state - all other checks aborted.  IRVIN
+2001-09-12 02:42:15 Skytel [005367287] B SH/TONE 3499    
+2001-09-12 02:42:17 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-12 02:42:17 Skytel [005062410] C  ALPHA  owens@mdsiv3.jpl.nasa.gov||watch BOGUS 0 0 0 0  
+2001-09-12 02:42:19 Metrocall [1865024] A  ALPHA  Frm: SMTPPAGE@gulfaero.com Sub: SILO Txt: SUBPOOL STANDARD, 79 SCRATCH VOLUMES REMAINING 09/12/01 02:42:04
+2001-09-12 02:42:22 Skytel [0001461] B  ALPHA  GLOBEX   01:41     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 02:42:22 Skytel [003917363] A  ALPHA  Jess, thanks for mailing me back. We have been very busy today. Only about10-15 miles from the DC plane crash and many unis went there.  I am very upset about the FF's in New york
+2001-09-12 02:42:23 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-12 02:42:23 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1054
+2001-09-12 02:42:25 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   20628 OPEN suntvpa:20628 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 13131 OPEN sunapp1:13131 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat 
+2001-09-12 02:42:26 Skytel [1800019] A  ALPHA  GLOBEX   01:41     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 02:42:27 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-12 02:42:29 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   15199 OPEN suntvpa:15199 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 8048 OPEN sunapp1:8048 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-12 02:42:29 Arch [0977210] C  ALPHA  638-8100
+2001-09-12 02:42:30 Arch [0911134] D  ALPHA   equity71 SYBASE: check_db(PDS1_EQCSWLN) MAYBE OPEN TRANSACTION in syslogshold tempdb|71 - PDS1_EQCSWLN @02:42 09/12/01 
+2001-09-12 02:42:30 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-12 02:42:30 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192818. 
+2001-09-12 02:42:30 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcb-wbs05 Sev:4 # 700002 LowOnCPU WBS 3.1.14.1 09/11/01 23:42:02 PDT7 Instance: ChkSysRes Module: ChkSysRes Details: HostName=labcb-wbs05 Idl=0 usr=65 sys=35 io=0
+2001-09-12 02:42:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST
+2001-09-12 02:42:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3310
+2001-09-12 02:42:32 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34
+2001-09-12 02:42:32 Metrocall [0476499] A  ALPHA   PERIODIC PAGE SEQUENTIAL NUMBER  3310
+2001-09-12 02:42:32 Skytel [005507202] A  ALPHA  flashnet@intelcenter.com|FlashNet Event|Osama bin Laden says he has no hand in NYC/DC attacks but supports  them because they constitute a reaction of oppressed people against  atrocities of the cruel.  
+2001-09-12 02:42:32 Skytel [002361863] B  ALPHA  PAGEING,1,Application DPIP Informational 4 0 4096 23:40  09/11/01
+2001-09-12 02:42:33 Skytel [007035414] B SH/TONE 9444    
+2001-09-12 02:42:33 Skytel [005192087] B  ALPHA  flashnet@intelcenter.com|FlashNet Event|Osama bin Laden says he has no hand in NYC/DC attacks but supports  them because they constitute a reaction of oppressed people against  atrocities of the cruel.  
+2001-09-12 02:42:34 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-12 02:42:34 Arch [1090467] A  ALPHA  (19)18:ABS:
+2001-09-12 02:42:34 Arch [1421533] D  ALPHA  20:ABS:
+2001-09-12 02:42:34 Arch [1150826] C  ALPHA  (3)18:ABS:
+2001-09-12 02:42:34 Arch [0510256] A  ALPHA  (14)18:ABS:
+2001-09-12 02:42:34 Arch [0419404] D  ALPHA  02-PLS CALL DPM AT 973-716-2660.
+2001-09-12 02:42:35 Skytel [005211809] A  ALPHA  flashnet@intelcenter.com|FlashNet Event|Osama bin Laden says he has no hand in NYC/DC attacks but supports  them because they constitute a reaction of oppressed people against  atrocities of the cruel.  
+2001-09-12 02:42:36 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   4757 OPEN suntvpa:4757 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 5482 OPEN sunapp1:5482 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-12 02:42:36 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-12 02:42:38 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-12 02:42:38 Arch [0906075] C  ALPHA  ISHD1380870 - CTI-InternetSuite - SitMan Page: All Nashville users are again not receiving screen pops. App Adm and AD engaged. Sitman Mike Bruns 816-965-1559 . No ETC   - 220022 - 1.800.808.1058 opti
+2001-09-12 02:42:38 Arch [0893066] C  ALPHA  ISHD1380870 - CTI-InternetSuite - SitMan Page: All Nashville users are again not receiving screen pops. App Adm and AD engaged. Sitman Mike Bruns 816-965-1559 . No ETC   - 220022 - 1.800.808.1058 opti
+2001-09-12 02:42:40 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   16022 OPEN suntvpa:16022 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 14862 OPEN sunapp1:14862 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat 
+2001-09-12 02:42:42 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-12 02:42:48 Skytel [003949075] A  ALPHA  2139899911@airmessage.net||im tired so im going to bed now. guess ill talk to you tomorrow. good night!  vena  
+2001-09-12 02:42:49 Arch [0951631] D  ALPHA  :00330808 Severity: 1  Job EEHEVERY.UEPEHA14 failed, no recovery specified
+2001-09-12 02:42:49 Arch [0000101] B  ALPHA  MSN 093 hello Message from NOC PCB.
+2001-09-12 02:42:53 Arch [0987275] C  ALPHA  s0191: 09/11 15:14:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:14:21
+2001-09-12 02:42:53 Arch [0478072] C  ALPHA  (7)18:ABS:
+2001-09-12 02:42:53 Arch [1008429] D  ALPHA  (12)18:ABS:
+2001-09-12 02:42:53 Arch [1613879] B  ALPHA  (28)17:ABS:
+2001-09-12 02:42:53 Metrocall [1064374] B  ALPHA  9
+2001-09-12 02:42:54 Skytel [007100993] A SH/TONE 800-7121
+2001-09-12 02:42:55 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   28647 OPEN suntvpa:28647 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 13382 OPEN sunapp1:13382 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat 
+2001-09-12 02:42:55 Arch [0987275] C  ALPHA  sb3: INFO0021 - 2:45PM - POSI batch has not arrived(160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:15
+2001-09-12 02:42:56 Skytel [007660371] A SH/TONE 834-9626
+2001-09-12 02:42:56 Skytel [007102168] C SH/TONE 6023    
+2001-09-12 02:42:57 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-12 02:42:58 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-12 02:42:58 Metrocall [1421210] C  ALPHA  LAKEJob 378304/VSIOWNER/OMSJRNMGR has MSGW status.
+2001-09-12 02:42:58 Skytel [004688750] D SH/TONE 3614    
+2001-09-12 02:42:59 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   13970 OPEN suntvpa:13970 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 9147 OPEN sunapp1:9147 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 

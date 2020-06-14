@@ -1,0 +1,62 @@
+2001-09-11 06:23:00 Metrocall [1061722] C  ALPHA  Frm: Bbrother Sub: !BB - 2674410! beta.disk - 100208184226141 Txt: [2674410] purple Wed Sep 5 21:22:48 PDT 2001 - Disk on beta at WARNING level &yellow /home (87%) has reached the defined disk space WARNING level (85%) /dev/vg1/var 524268 7
+2001-09-11 06:23:00 Metrocall [1902004] B  ALPHA  Frm: Bbrother Sub: !BB - 2674410! beta.disk - 100208184226141 Txt: [2674410] purple Wed Sep 5 21:22:48 PDT 2001 - Disk on beta at WARNING level &yellow /home (87%) has reached the defined disk space WARNING level (85%) /dev/vg1/var 524268 7
+2001-09-11 06:23:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2090
+2001-09-11 06:23:01 Metrocall [002163060] B  ALPHA  INJURY FROM A FALL/ 9011 CENTREVILLE RD LOT35 MANASSAS MANASSAS MOBILE HOME PARK/ 8103/
+2001-09-11 06:23:01 Metrocall [1064378] C  ALPHA  GovPX HI-LO 30Y_100.03 -100.03  10Y_101.10 -101.06  5Y__101.10 -101.07+ 2Y__100.07+-100.06+
+2001-09-11 06:23:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2090
+2001-09-11 06:23:01 Skytel [005110785] A  ALPHA  Cris / Steve,  We have encountered a Prod problem with Ebook. All users are receiving a runtime error #6 Overflow when inputting trades. The DB, App svr and ODBC connection has been checked. Per Kev, Please come in ASAP. Call EW 7325123315
+2001-09-11 06:23:01 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 03:20:59 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 06:23:03 Skytel {1092655} 3 2400 002246    
+2001-09-11 06:23:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6912
+2001-09-11 06:23:04 Arch [0282438] B  ALPHA  Shan Daniels|3rd Shift Passdown |--=====================_250831206==_ Content-Type: text/plain; charset="us-ascii"; format=flowed --=====================_250831206==_ Content-Type: application/msword; name="Doc1.doc";  -1/3
+2001-09-11 06:23:04 Arch [0909854] D  ALPHA  WB09110036 516-541-3922 STOP & SHOP 0576 ISS400 LEO H/D SEV1
+2001-09-11 06:23:05 Skytel {1706167} 1 1200 251  
+2001-09-11 06:23:06 Arch [0282438] B  ALPHA  x-mac-type="42494E41"; x-mac-creator="4D535744" Content-Transfer-Encoding: base64 Content-Disposition: attachment; filename="Doc1.doc" 0M8R4KGxGuEAAAAAAAAAAAAAAAAAAAAAPgADAP7/CQAGAAAAAAAAAAAAAAABAAAANgAAAAAAAAAA  -2/3
+2001-09-11 06:23:07 Arch [0282438] B  ALPHA  EAAAOAAAAAEAAAD+////AAAAADUAAAD///////////////////////////////////////////// //////////////////////////////////////////////////////////////////////////// ////////////////////////////////////////////////////////|640   -3/3
+2001-09-11 06:23:07 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179017. 
+2001-09-11 06:23:11 Metrocall [1261323] C  ALPHA  Frm: fusasitescope@wingspan.com Txt: elgweb1 login content match error on step 2, http://192.168.67.181:7001/cmsonline/main/cmslogin.jsp
+2001-09-11 06:23:13 Metrocall [1401192] C  ALPHA  Frm: Misdept Sub: ICOM/400 notification Txt: 672813/QSPLJOB/PRT37 CPA3387 Device PRT37 not available. (C R)
+2001-09-11 06:23:13 Metrocall [1401492] B  ALPHA  708-346-5944 CHRISTHOSPITAL 6EASTWEST
+2001-09-11 06:23:15 Arch [1007737] C  ALPHA  613-4453
+2001-09-11 06:23:19 Arch [0419404] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_CAEngine_run.ksh 0 Body:Exited successfully.
+2001-09-11 06:23:20 Metrocall [002588047] D  ALPHA  Frm: Muralidhar Devarakonda Sub: server status Txt: Machine 30kcerent1.nsf.att.com not up on Tue Sep 11 06:10:01 2001. status 256.Machine 30kcerent2.nsf.att.com not up on Tue Sep 11 06:10:01 2001 status 256.Machine mtcerent3.nsf.att.com not up on T
+2001-09-11 06:23:22 Metrocall [002588047] D  ALPHA  ue Sep 11 06:10:01 2001 status 2
+2001-09-11 06:23:22 Metrocall [1064374] B  ALPHA  YEN  121.84/90 +091 EUR  0.8965/69 -016 CHF  1.6895/01 +016 GBP  1.4566/73 +003 CAD  1.5612/17 -014 AUD  0.5125/35 -008  NZD  0.4259/69 -048 DEM  2.1811/21 +041  E/C  1.5143/57 -012 E/Y  109.22/27 +057 E/S 
+2001-09-11 06:23:23 Arch [1087655] B  ALPHA  7927* TN is unavailable.  Reason: Unknown. Location: Third Party Vendor(CP).   Estimated time:  NO ETA CONTACTING THE VENDOR.....TLB /PROD
+2001-09-11 06:23:24 Metrocall [1064374] B  ALPHA   0.6151/53 -007 USD     114.98 +020
+2001-09-11 06:23:24 Metrocall [1064375] B  ALPHA  /FTSE  5085.40  +051 NIKK  10292.95  +097 DAX    4744.16  +074 CAC40  4447.06  +063 MIB30  31865   +0301 HSI  10417.36  +0051 30 _99.02/03  5.438% GOLD271.20/170  -030 S 4.18/20  PL 440.00 PD 450.0
+2001-09-11 06:23:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9835
+2001-09-11 06:23:28 Metrocall [1064375] B  ALPHA  0/0.00  +000 JG 1.420%
+2001-09-11 06:23:33 Metrocall [1064385] A  ALPHA  12
+2001-09-11 06:23:33 Skytel [005061905] A  ALPHA  f1721 ind blocked act 06:17am sch 06:01am +16 mins-am ctl 347
+2001-09-11 06:23:35 Skytel [005213601] A  ALPHA  Cris / Steve,  We have encountered a Prod problem with Ebook. All users are receiving a runtime error #6 Overflow when inputting trades. The DB, App svr and ODBC connection has been checked. Per Kev, Please come in ASAP. Call EW 7325123315
+2001-09-11 06:23:35 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb2 login content match error on step 2, http://192.168.67.182:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informat
+2001-09-11 06:23:35 Skytel [002266921] C SH/TONE 1       
+2001-09-11 06:23:35 Skytel [005009442] A  ALPHA  NETCON01_SiteScope@nhc.adp.com|| Triad TRIP connect error, ORA-01035: ORACLE only available to users with RESTRICTED SESSION privilege   
+2001-09-11 06:23:35 Skytel [003457197] D SH/TONE 6559    
+2001-09-11 06:23:37 Skytel [004569021] D  ALPHA  pdsdev@is051931.bell-atl.com||check rmacounts  
+2001-09-11 06:23:38 Skytel [002358223] D SH/TONE 8888    
+2001-09-11 06:23:39 Arch [0419404] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_delete_stage1.ksh 0 Body:Skipping stage1 deletion since it is not friday. Exiting successfully.
+2001-09-11 06:23:40 Skytel [005111765] B  ALPHA  f1721 ind blocked act 06:17am sch 06:01am +16 mins-am ctl 347
+2001-09-11 06:23:40 Skytel [002781780] B SH/TONE 65      
+2001-09-11 06:23:40 Skytel [005060569] C SH/TONE 5496    
+2001-09-11 06:23:40 Skytel [007557212] D  ALPHA  f1721 ind blocked act 06:17am sch 06:01am +16 mins-am ctl 347
+2001-09-11 06:23:41 Arch [0419404] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_mdrt_extract.ksh 0 Body:Skipping mdrt extract since it is not friday. Exiting successfully.
+2001-09-11 06:23:42 Skytel [005226605] D ST NUM  8685517774
+2001-09-11 06:23:43 Arch [0419404] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_pride_extract.ksh 0 Body:Skipping pride extract since it is not friday. Exiting successfully.
+2001-09-11 06:23:43 Arch [0333270] B  ALPHA  9/11/2001@6:23:04 AM 01USMDROAPS0011:Connection was aborted by the remote WINS
+2001-09-11 06:23:43 Arch [0979240] C  ALPHA  From Keith Fredericksen: Eztplus rollout is complete. Issue with Security exit. Causing S0C4. Removed and rolled without it without security.      
+2001-09-11 06:23:44 Skytel [002474612] B  ALPHA  T-PRE2 COMPLETE (4
+2001-09-11 06:23:44 Skytel [005093112] C  ALPHA  arcserve_memphis@baxter.com||MEMPHIS_5: Backup Operation Failed. Number of Errors/Warnings: 1/32  
+2001-09-11 06:23:44 Skytel [0000500] B  ALPHA  cbranch@us.ibm.com|SEV: 1 |Escalation Page: Sev: 1 Problem Closure! Pathmark 2374527 Summary: Store 568 has recovered.  Store currently running off of extension cords to power generator.  Per EM lowering severity to two, until main power has been rest
+2001-09-11 06:23:46 Skytel [0000500] B  ALPHA  ored.  First shift to follow up for closure.  
+2001-09-11 06:23:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179024. 
+2001-09-11 06:23:48 Skytel [007554713] C  ALPHA  cbranch@us.ibm.com|SEV: 1 |Escalation Page: Sev: 1 Problem Closure! Pathmark 2374527 Summary: Store 568 has recovered.  Store currently running off of extension cords to power generator.  Per EM lowering severity to two, until main power ha
+2001-09-11 06:23:50 Metrocall [1829921] A  ALPHA  Frm: MSN Txt: Hotmail Courtney-rbkpzn@yahoo.com:HOTTEST ADULT SITE - NO CREDIT CARD NEEDED, kokmvi
+2001-09-11 06:23:53 Skytel [007041221] B ST NUM  709-734-6911   
+2001-09-11 06:23:53 Skytel [005048779] C  ALPHA  cbranch@us.ibm.com|SEV: 1 |Escalation Page: Sev: 1 Problem Closure! Pathmark 2374527 Summary: Store 568 has recovered.  Store currently running off of extension cords to power generator.  Per EM lowering severity to two, until main power ha
+2001-09-11 06:23:55 Skytel [003951056] A  ALPHA  csaa-petaluma-sw1 Critical CSAA Node csaa-Petaluma-SW1 Down ussa11.SSMC 
+2001-09-11 06:23:57 Skytel [005132640] A  ALPHA  cbranch@us.ibm.com|SEV: 1 |Escalation Page: Sev: 1 Problem Closure! Pathmark 2374527 Summary: Store 568 has recovered.  Store currently running off of extension cords to power generator.  Per EM lowering severity to two, until main power ha
+2001-09-11 06:23:57 Skytel [003942633] C  ALPHA  dailybriefing+388923.41427496.2@topnews.usatoday.com|USATODAY.com Daily Briefing|<html> <head>  <base href="http://tm0.com/USATODAY/sbct.cgi?s=41427496&i=388923&d=1761989"/> <title>USATODAY.com - Daily Briefing</title> </head> <body leftmar
+2001-09-11 06:23:57 Skytel [007611244] D  ALPHA  cbranch@us.ibm.com|SEV: 1 |Escalation Page: Sev: 1 Problem Closure! Pathmark 2374527 Summary: Store 568 has recovered.  Store currently running off of extension cords to power generator.  Per EM lowering severity to two, until main power ha
+2001-09-11 06:23:59 Skytel [004541819] C  ALPHA  cbranch@us.ibm.com|SEV: 1 |Escalation Page: Sev: 1 Problem Closure! Pathmark 2374527 Summary: Store 568 has recovered.  Store currently running off of extension cords to power generator.  Per EM lowering severity to two, until main power ha

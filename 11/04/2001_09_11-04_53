@@ -1,0 +1,51 @@
+2001-09-11 04:53:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2000
+2001-09-11 04:53:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2000
+2001-09-11 04:53:03 Metrocall [1105339] C  ALPHA  05:00 NOXV SYSA SYSTEM          MAJ>NO  Network port recovered - Network port recovered
+2001-09-11 04:53:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6822
+2001-09-11 04:53:11 Metrocall [1081695] D  ALPHA  04:56 GRNB SYSA PORT4           MAJ>NO  Network port recovered - Network port recovered
+2001-09-11 04:53:11 Metrocall [1081695] D  ALPHA  04:56 GRNB SYSA SYSTEM          MAJ>NO  Network port recovered - Network port recovered
+2001-09-11 04:53:11 Metrocall [1587470] D  ALPHA  Frm: MSN Txt: Hotmail CellPhoneSignal.
+2001-09-11 04:53:11 Metrocall [002567097] C  ALPHA  Schleicher N-1: KFC Nashv AC 1 DISCH  COOLFAIL
+2001-09-11 04:53:11 Metrocall [1313980] D  ALPHA  04:53 GVSC SYSA PORT4           MAJ>NO  Network port recovered - Network port recovered
+2001-09-11 04:53:11 Metrocall [1313980] D  ALPHA  04:53 GVSC SYSA SYSTEM          MAJ>NO  Network port recovered - Network port re
+2001-09-11 04:53:13 Metrocall [1587470] D  ALPHA  com:Upgrade your Cellphone Signal!!!
+2001-09-11 04:53:13 Metrocall [1313980] D  ALPHA  covered
+2001-09-11 04:53:17 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178035. 
+2001-09-11 04:53:22 Metrocall [002567097] C  ALPHA  Whiteford Walmar: KFC Ander AC 2 DISCH  COOLFAIL
+2001-09-11 04:53:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9745
+2001-09-11 04:53:29 Arch [0964998] B  ALPHA  Hairy@honeywell.|Job completed normally: D0110WP-|Arcana Scheduler job "D0110WP- Daily webPLAN Shutdown-Restore" completed successfully with return code 0 Job Started: 9/11/01 3:30:01 AM Job Ended: 9/11/01 3:45:45 AM 
+2001-09-11 04:53:30 Arch [0320272] A  ALPHA  PATROLpatrol - ntmprd02.NSNETWORK-NSNETWORK-NETPingHrnais02 ALARM/ALARM 1<=1.000000<=1.Critical
+2001-09-11 04:53:30 Metrocall [1060550] B  ALPHA  Frm: DL-eBay-CS-Ewatch Sub: NEW CEI: 09/11/01 Register Confirmation Problems Txt: REMEDY: HD18047 55 complaints rec'd so far between 9:28 pm and 10:30 pm - have not been able to duplicate. NEW CEI: 09/11/01 Register Confirmation Prob
+2001-09-11 04:53:31 Metrocall [1544818] A  ALPHA  PLS-NS1:Device Inaccessible
+2001-09-11 04:53:31 Metrocall [1116477] D  ALPHA  HARK1      LINE UP :METROCAL
+2001-09-11 04:53:31 Metrocall [1060550] B  ALPHA  lems Ti
+2001-09-11 04:53:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3393
+2001-09-11 04:53:31 Skytel [005225860] B SH/TONE 125     
+2001-09-11 04:53:35 Metrocall [1116477] D  ALPHA  HARK1      LINE UP :METROCAL
+2001-09-11 04:53:35 Metrocall [0833479] B  ALPHA  N136MH RESPOND InterHospital Assig Southern Maryland H 275DG 3
+2001-09-11 04:53:35 Metrocall [0527977] C  ALPHA  N136MH RESPOND InterHospital Assig Southern Maryland H 275DG 38nm HHSO To: WHC 0109-0293-A
+2001-09-11 04:53:36 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2212 - 001DEB OCALA 6125, cnet lost sync, Clr
+2001-09-11 04:53:37 Metrocall [0833479] B  ALPHA  8nm HHSO To: WHC 0109-0293-A
+2001-09-11 04:53:38 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2212 - 001DEB OCALA 6125, high BER, Set
+2001-09-11 04:53:38 Skytel [003512136] C ST NUM  849-631-5474   
+2001-09-11 04:53:40 Arch [1060702] D  ALPHA  root: Ocala A96/A13/A86 001DE1 OK Link receive failure 09-11-01 08:52:10
+2001-09-11 04:53:40 Skytel [005338196] B SH/TONE 2888    
+2001-09-11 04:53:40 Skytel [003930581] B  ALPHA  apadmin1@household.com||T512740, PEAR4251 HAS ABENDED ON HCSA WITH A RETURN CODE OF:R-0016. JOB ABEND TIME: 11 SEP 2001 01:12:25   
+2001-09-11 04:53:41 Metrocall [1116477] D  ALPHA  HARK1      LINE UP :METROCAL
+2001-09-11 04:53:42 Skytel [004524770] A  ALPHA  sprmab01:  Trunk Alarm from sprmab01 reason ok: Status Fail Slot 13 Port 3 at 00:56:51 on 9/11
+2001-09-11 04:53:42 Skytel [005436525] D  ALPHA  Test Message #15-IX_T0712
+2001-09-11 04:53:42 Skytel [005197292] D  ALPHA  SGI 0.42 +0.01 MOT 14.32 +0.03 AMAT 40.44 +0.16 BHI 33.76 -0.19
+2001-09-11 04:53:42 Skytel [004477540] B  ALPHA  3) COMP 1688.51 +0.81 MOT 14.30 +0.01 DJX 0.00 UNCH IRID 0.00 UNCH
+2001-09-11 04:53:42 Skytel [005203941] B  ALPHA  8764*Host health.cch.com UP at 03:54:34  
+2001-09-11 04:53:44 Skytel [003475568] A SH/TONE 54238   
+2001-09-11 04:53:44 Skytel [007109749] B ST NUM  646-7743-17    
+2001-09-11 04:53:44 Skytel [003932285] D SH/TONE 3018    
+2001-09-11 04:53:49 Arch [0602772] B  ALPHA  Super-User <root|Trap Message|Time: Tue Sep 11 04:54:14 2001 Agent Address: 63.169.255.210 Specific Trap: Process Stop Trap (10) Description: qip-dhcpmsgd Regexp: qip-dhcpmsgd.* Current PID: 194 Time: Tue Sep 11 04:54:14 2001 Agent Address: 
+2001-09-11 04:53:51 Skytel [002848952] C  ALPHA  10136:Network Node LYRT160C201 (3.164.163.60) is Down @ 04:52 09/11/01
+2001-09-11 04:53:55 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6823
+2001-09-11 04:53:55 Arch [0935720] C  ALPHA  Chris YVETTE 59 w/area code 561-686-7496* WEST PALM BEACH FL POSTING DATE IS WRONG
+2001-09-11 04:53:55 Skytel [005138014] D  ALPHA  Cisco Systems, Verizon To Offer Advanced Teleworker Programs[DJ NEWS]
+2001-09-11 04:53:57 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178042. 
+2001-09-11 04:53:57 Skytel [005112809] C  ALPHA  B
+2001-09-11 04:53:57 Skytel [005226605] D ST NUM  8683241849
+2001-09-11 04:53:59 Skytel [002570865] A SH/TONE 54238   

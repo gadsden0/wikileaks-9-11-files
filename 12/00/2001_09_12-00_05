@@ -1,0 +1,121 @@
+2001-09-12 00:05:00 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7974
+2001-09-12 00:05:00 Skytel [005314303] D ST NUM  983-688-3688-36
+2001-09-12 00:05:01 Arch [0965263] D  ALPHA  janwilli|URGENT- Pls listen to my latest voicemail msg sent 9pm. Need everyone in ECC at 7:30am. If issues, call me at 408-623-2954   
+2001-09-12 00:05:01 Arch [1005404] D  ALPHA  9/11/2001 11:05 PM CDT RAHPROXY1 - System 'RAHPROXY1' is online
+2001-09-12 00:05:02 Skytel [003071883] C  ALPHA  IBM 96.47 UNCH NSCP 0.00 UNCH MSFT 57.58 UNCH EDS 56.00 UNCH (74
+2001-09-12 00:05:03 Arch [0925378] A  ALPHA  141814181418
+2001-09-12 00:05:03 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-12 00:05:03 Arch [1005404] D  ALPHA  9/11/2001 11:05 PM CDT RAHPROXY1 - Loss of redundancy: the system is not operating with redundancy .  Please check the system management processor error log for more information.
+2001-09-12 00:05:03 Arch [1619047] B  ALPHA  Process 9507 on ddcid06e0, module=MORCOM, terminated unexpectedly
+2001-09-12 00:05:03 Skytel [005072159] D  ALPHA  4lspt@belfast.wcomnet.com|2373003|TRSSACR1 DSI Suspended 110 CDPSAC01.ncdm  
+2001-09-12 00:05:03 Skytel [002163607] B ST NUM  00) 704-487-1507-911
+2001-09-12 00:05:03 Skytel [007464859] C  ALPHA  PLEASE CALL ERIC AT 212-627-2228.
+2001-09-12 00:05:04 Metrocall [002523421] D  ALPHA  1.
+2001-09-12 00:05:05 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 00:05:05 Arch [1005404] D  ALPHA  9/11/2001 11:05 PM CDT RAHPROXY1 - Exceeded maximum current: the system is operating above maximum specifications.  Please check the system management processor error log for more information.
+2001-09-12 00:05:05 Skytel [005115437] D ST NUM  872-527-9431   
+2001-09-12 00:05:05 Skytel [004584237] D ST NUM  333-3058 (1367 
+2001-09-12 00:05:06 Skytel {1092655} 3 2400 002600    
+2001-09-12 00:05:07 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-12 00:05:07 Arch [1005404] D  ALPHA  9/11/2001 11:05 PM CDT RAHPROXY1 - Power redundancy has been restored.  Please check the system management processor error log for more information.
+2001-09-12 00:05:08 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4544
+2001-09-12 00:05:09 Arch [1100122] C  ALPHA  Request Set Stage has an error with one of its processes - ora08 [9/11/0 21:04]
+2001-09-12 00:05:09 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-12 00:05:09 Arch [1008570] C  ALPHA  39441446-003-911
+2001-09-12 00:05:09 Arch [0852521] C  ALPHA  Compile value set hierarchies General Ledger Transfer Program has an error with one of its processes - ora08 [9/11/0 21:04]
+2001-09-12 00:05:11 Arch [1100122] C  ALPHA  IAC FTP Routine Analyzer - Extract Segment Values has an error with one of its processes - ora08 [9/11/0 21:04]
+2001-09-12 00:05:11 Arch [0852521] C  ALPHA  Request Set Stage has an error with one of its processes - ora08 [9/11/0 21:04]
+2001-09-12 00:05:13 Arch [0852521] C  ALPHA  IAC FTP Routine Analyzer - Extract Segment Values has an error with one of its processes - ora08 [9/11/0 21:04]
+2001-09-12 00:05:13 Arch [0905531] C  ALPHA  630 572-6454
+2001-09-12 00:05:14 Arch [0578226] A  ALPHA  " Big Info " <da|Package Parts Hold |
+2001-09-12 00:05:16 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 00:05:16 Arch [1619047] B  ALPHA  Process 9507 on ddcid06e0, module=MORCOM, terminated unexpectedly
+2001-09-12 00:05:16 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191012. 
+2001-09-12 00:05:18 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-12 00:05:18 Arch [1619047] B  ALPHA  5P03:58DBLIB me DBLIB-E-20003: SQL Server conection timed out., OS-E--1: no eror
+2001-09-12 00:05:19 Metrocall [1060056] C  ALPHA  2 SCRAP        Defect(s) for PRESS        H10L        on tire  M65F    Def 442 BUCKLED BLADDER OSS            Prev msg- 2001/09/11 21:51:24:86
+2001-09-12 00:05:19 Metrocall [1699569] A  ALPHA  PLEASE CALL JIM LEA WITH ABSAT IMMEDIATELY AT 252.619.7051. IF YOU CAN'T GET HIM TH
+2001-09-12 00:05:19 Metrocall [1544818] A  ALPHA  WDC-MAIL02 "Server WDC-MAIL02/MSVR/KAIPERM - The following pending documents in mail2.box are older than 30 minutes 186A6A"
+2001-09-12 00:05:19 Metrocall [0409580] D  ALPHA  48: TERESA ST MARY'S INFUSION 770 3264* ROBERT DEACON END MESSAGE ####
+2001-09-12 00:05:20 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 00:05:21 Metrocall [1699569] A  ALPHA  ERE, CALL HIS HOME AT 252.333.1414. ABC NEEDS YOUR TRUCK AT THE PENTAGON. THANKS! SVA
+2001-09-12 00:05:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0897
+2001-09-12 00:05:28 Arch [0632258] A  ALPHA   Brian Tanaka <btanaka@rivendell.rbn.com> abcnewsmon : found abcnews/abcnews/live/abclive1.rm on serverg2-63 (mtier-53) (Tue Sep 11 21:06:00 PDT 2001) 
+2001-09-12 00:05:28 Arch [0981744] A  ALPHA  root@u01fmom.us.|FONE ALERT|nmiautl2 CPU utilization at 90% for 60 seconds 
+2001-09-12 00:05:28 Arch [0916629] B  ALPHA  root@u01fmom.us.|FONE ALERT|nmiautl2 CPU utilization at 90% for 60 seconds 
+2001-09-12 00:05:28 Arch [0970437] B  ALPHA  From root@r3wmsar: Tue Sep 11 23:02  ID's Inactive > 2 Hrs  ID=27943~75521~69  ID=27943~75521~70  ID=29241~47272~61  ID=29241~47272~70  ID=29241~47272~74  
+2001-09-12 00:05:28 Arch [1746258] A  ALPHA  "PBS Support (PB|Overdue WO # 10077 - Password ch|Description: User changed password this morning and now her computer locked and she can not unlock with the old pw or the new. 
+2001-09-12 00:05:29 Metrocall [002664976] A  ALPHA  804-553-6341 Bomb Scare over as of 2350 EST. We are back on line and now accepting calls. <MRAPP-00:05ET INCVPG>
+2001-09-12 00:05:29 Metrocall [1078569] C  ALPHA  Medicine Made Easy:Don't forget to take your MEDS! : )
+2001-09-12 00:05:29 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIO
+2001-09-12 00:05:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3153
+2001-09-12 00:05:31 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-12 00:05:31 Metrocall [0476499] A  ALPHA  DIC PAGE SEQUENTIAL NUMBER  3153
+2001-09-12 00:05:32 Skytel [007101314] A  ALPHA  naetsrvr@naet.atl.hp.com|"CALLBK ON AMS01-0823-104836 / A. Malone PLS CALL 1-800-731-5544 TO CONFRM"|"CALLBK ON AMS01-0823-104836 / A. Malone PLS CALL 1-800-731-5544 TO CONFRM"  
+2001-09-12 00:05:32 Skytel [007023751] B ST NUM  619-544-4367 (47    
+2001-09-12 00:05:32 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 21:04:54 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 00:05:32 Skytel [004684423] B ST NUM  223-735-6985   
+2001-09-12 00:05:33 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-12 00:05:33 Skytel [005100695] B  ALPHA  |Problem on CRWPAPP1|"PRD059 ts full on 12 Sep 2001 at 00:05:08."  
+2001-09-12 00:05:33 Skytel [002995088] A SH/TONE 86 (73  
+2001-09-12 00:05:33 Skytel [005206684] D  ALPHA  Internet Traffic Slows, Web Sites Are Crowded Following Attacks[DJ NEWS]
+2001-09-12 00:05:33 Skytel [005100696] C  ALPHA  |Problem on CRWPAPP1|"PRD059 ts full on 12 Sep 2001 at 00:05:08."  
+2001-09-12 00:05:33 Skytel [007495325] D SH/TONE 422-5956
+2001-09-12 00:05:33 Skytel [007465749] B ST NUM  257-599-1119-91
+2001-09-12 00:05:33 Skytel [003449373] D ST NUM  2) 917-929-4429
+2001-09-12 00:05:35 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 00:05:35 Skytel [007109281] A SH/TONE 436-8704
+2001-09-12 00:05:35 Skytel [003948712] C  ALPHA  MYCITI P NJ19 mycnj19pweb1 ProcessCount ns-httpd Equal to 0. 
+2001-09-12 00:05:35 Skytel [007101098] C  ALPHA  415-436-3509 Richmond INC is back up and fully operational at 23:55EST/20:55pdt. TSC East/WESt,NHL Tempe/Charlotte and ANS West/East were notified to normalize all calls. <ECUANANG-21:04PT INCVPG>
+2001-09-12 00:05:35 Skytel [005001895] B  ALPHA  [sps/54] 200 supplier.intel.com relay-ssl 0.470 App MAR/SPS is okay!(/mar/healthcheck_sps.asp) 3:47:03
+2001-09-12 00:05:35 Skytel [003904813] D  ALPHA  Cluster resource Tra
+2001-09-12 00:05:37 Skytel [005481392] A SH/TONE 227     
+2001-09-12 00:05:37 Skytel [007540018] A ST NUM  702-882-8487   
+2001-09-12 00:05:37 Skytel [007524286] D ST NUM  18007598255    
+2001-09-12 00:05:37 Skytel [003051315] A SH/TONE 
+2001-09-12 00:05:37 Skytel [004717109] B SH/TONE 2322    
+2001-09-12 00:05:37 Skytel [005058097] A  ALPHA  SiteScopeMonitor@boi.hp.com|SiteScope Alert, good, URL:  http://CNEBC1.cup.hp.com/log.nsf, 60.59 sec (15.56.40.80)|This alert is from SiteScope at http://15.56.40.80:8888/SiteScope  Monitor:  LotusNotesCup:URL:  http://CNEBC1.cup.hp.com
+2001-09-12 00:05:37 Skytel [003954236] D  ALPHA  root@sp1501.idc.ikon.org|"National Lockbox Message"|Nightly LB reports for NED are present.  
+2001-09-12 00:05:37 Skytel [005087282] A  ALPHA  ServersAlive@vhf.org|BRMPRTSERVER is RUNNING|BRMPRTSERVER is RUNNING  Mail generated by Servers Alive at
+2001-09-12 00:05:38 Metrocall [1901869] D  ALPHA  804-553-6341 Bomb Scare over as of 2350 EST. We are back on line and now accepting calls. <MRAPP-00:05ET INCVPG>
+2001-09-12 00:05:39 Skytel [005212102] B  ALPHA  415-436-3509 Richmond INC is back up and fully operational at 23:55EST/20:55pdt. TSC East/WESt,NHL Tempe/Charlotte and ANS West/East were notified to normalize all calls. <ECUANANG-21:04PT INCVPG> (11
+2001-09-12 00:05:39 Skytel [005058097] A  ALPHA  /log
+2001-09-12 00:05:39 Skytel [005209288] C ST NUM  703-808-2041 (60    
+2001-09-12 00:05:39 Skytel [002815810] A  ALPHA  oracle@saturn.oak.zhone.com|Errors found in Alert log file of one or more databaes on saturn|==> Sent by <oracle> from saturn on Tue Sep 11 21:05:04 PDT 2001   Errors found in the alert log of BSBPROD   Change 'ORA-' to '#ORA-' in alert log
+2001-09-12 00:05:39 Skytel [005361221] B SH/TONE 4994    
+2001-09-12 00:05:39 Skytel [004570703] D SH/TONE 3342    
+2001-09-12 00:05:41 Skytel [007035485] D  ALPHA  547-1609
+2001-09-12 00:05:41 Skytel [003921630] D  ALPHA  netmon :mcfl1u29
+2001-09-12 00:05:43 Arch [1100027] C  ALPHA  IAC File Backup Routine has an error with one of its processes - ora08 [9/11/0 21:03]
+2001-09-12 00:05:43 Skytel [005524707] A  ALPHA  PBSS@NA2.US.ML.com|Overdue WO # 10054 - Cover Clams / LEMANS Start of Day|Description: Cover Clams / LEMANS Start of Day   
+2001-09-12 00:05:43 Skytel [007562983] B SH/TONE 555411  
+2001-09-12 00:05:43 Skytel [003772003] A  ALPHA  IBM 96.47 UNCH MSFT 57.58 UNCH NSCP 0.00 UNCH INTC 26.07 UNCH (35
+2001-09-12 00:05:43 Skytel [003474668] D ST NUM  943-577-3818   
+2001-09-12 00:05:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #17-IX_T1707
+2001-09-12 00:05:44 Arch [1100027] C  ALPHA  Request Set Stage has an error with one of its processes - ora08 [9/11/0 21:04]
+2001-09-12 00:05:45 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2418..
+2001-09-12 00:05:45 Skytel [007524604] D  ALPHA  healthplan4all@hotmail.com|BIG OPPORTUNITY, GET PAID DAILY!!| <div align="center">    <p><b><font fa
+2001-09-12 00:05:45 Skytel [007109749] B ST NUM  500-127-1177-3 
+2001-09-12 00:05:45 Skytel [005050102] B  ALPHA  My team-as of right now,the office will be closed tomorrow due to street closings,if this changes I will advise tomorrow morning,thank god this horrific day is almost over!   Marty Hickey Govt Sales Mgr
+2001-09-12 00:05:45 Skytel [007638399] D SH/TONE 7346    
+2001-09-12 00:05:45 Skytel [1293694] D  ALPHA  (sergiop): F3 CIUDAD/DEPORTES INICIO 23:04H
+2001-09-12 00:05:46 Skytel [005070465] A  ALPHA  webmaster@nationalcar.com||09/12/2001-03:54 [1]File check successful  
+2001-09-12 00:05:47 Skytel [005069064] C  ALPHA  webmaster@nationalcar.com||09/12/2001-03:54 [1]File check successful  
+2001-09-12 00:05:49 Metrocall [1283151] D  ALPHA  : CRDC-MAIL01 : "Server CRDC-MAIL01/MSVR/KAIPERM -  The following pending documents in  mail2.box are older than 30 minutes  1C527A "
+2001-09-12 00:05:50 Arch [1025942] B  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 04700334 from cluster 1082 to cluster 2028), status C3AE181B, extended status 00000032. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-12 00:05:50 Arch [1423779] A  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 04700334 from cluster 1082 to cluster 2028), status C3AE181B, extended status 00000032. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-12 00:05:52 Arch [1142036] B  ALPHA  "Compaq" <exjug@|MOSXS2 : Device Inaccessible|MOSXS2:Device Inaccessible
+2001-09-12 00:05:52 Arch [1398696] C  ALPHA  "Compaq" <exjug@|MOSXS2 : Device Inaccessible|MOSXS2:Device Inaccessible 
+2001-09-12 00:05:52 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-12 00:05:52 Arch [0921992] C  ALPHA  917 453-6706
+2001-09-12 00:05:52 Skytel [005384638] D  ALPHA  root@rifas23.desc.dla.mil|CRITICAL BACKUP FAILURE|rifas58-daily Veritas Backup failed, Sep 12 00:06:25.  Veritas     Error # 41.  Must contact On-Call SA before     taking any action.  network connection timed out The server did not receive
+2001-09-12 00:05:54 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-12 00:05:54 Skytel [004685131] C SH/TONE 441-9710
+2001-09-12 00:05:54 Skytel [005525323] C SH/TONE 208     
+2001-09-12 00:05:54 Skytel [003945678] D SH/TONE 312     
+2001-09-12 00:05:56 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-12 00:05:56 Skytel [005248722] A ST NUM  313-760-1234   
+2001-09-12 00:05:56 Skytel [005004368] A  ALPHA  Exchangemonitor: Check services on SRVRMON:One
+2001-09-12 00:05:56 Skytel [005069524] B SH/TONE 14      
+2001-09-12 00:05:58 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-12 00:05:59 Metrocall [1699569] A  ALPHA  SKEETA: PLEASE CALL JIM LEA WITH ABSAT IMMEDIATELY AT 252.619.7051. IF YOU CAN'T GET HIM THERE, CALL HIS HOME AT 252.333.1414. ABC NEEDS YOUR TRUCK AT THE PENTAGON. THANKS! SVA

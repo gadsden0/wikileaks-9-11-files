@@ -1,0 +1,47 @@
+2001-09-11 04:20:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1967
+2001-09-11 04:20:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1967
+2001-09-11 04:20:01 Skytel [005236495] D ST NUM  120010031 
+2001-09-11 04:20:03 Skytel [002401821] D  ALPHA  206.122.40.73 $HASP050 JES2 RESOURCE SHORTAGE OF JOES - 80% UTILIZATION REACHED ussa11.SSMC 
+2001-09-11 04:20:03 Skytel {1092655} 3 2400 002205    
+2001-09-11 04:20:04 Arch [1060630] B  ALPHA  CPA0701 S10A7478 CPF7306 received by CL3025C at 6100. (C D I R)
+2001-09-11 04:20:04 Arch [1005985] A  ALPHA  --- Equipment ID [2327 ] status change - interference Equipment ID [2327 ] Event
+2001-09-11 04:20:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6789
+2001-09-11 04:20:04 Arch [0989218] A  ALPHA  "WhatsUp" <whats|Host Global/Ucommand DOWN at 03:|Host Global/Ucommand DOWN at 03:22:12 Address: 209.130.223.8 Date: 09/11/2001 Status: Timed Out ( 11010) 
+2001-09-11 04:20:04 Arch [0917453] D  ALPHA  "HDMAIL" <HDMAIL|Order#8856/IT#136917|Tech CSI requests for Crestwood Hospi(1384000) via PDQ:1-Circuit = Breaker(102075).No Depot Items. Confidentiality Notice: This e-mail message, including any atta
+2001-09-11 04:20:04 Arch [0939437] D  ALPHA  CA Helpdesk <CAH|mc0300ux200|CR: 138117 Priority: 5 Assigned to: Marchionda, Joe Summary:: Planned.CA Unix.AccessChg 
+2001-09-11 04:20:04 Arch [1412026] C  ALPHA  CPA0701 S10A7478 CPF7306 received by CL3025C at 6100. (C D I R)
+2001-09-11 04:20:08 Arch [0911134] D  ALPHA   equity71 SYBASE: check_db(PDS1_EQGTWLN) too much PHYSICAL I/O - jpm     7180  256 @04:19 09/11/01 
+2001-09-11 04:20:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177684. 
+2001-09-11 04:20:09 Metrocall [0124392] C  ALPHA  37-PLEASE CALL: 8634
+2001-09-11 04:20:16 Skytel {1599702} 1 2400 3492 (5.
+2001-09-11 04:20:18 Skytel {1169678} 3 1200 490-9552  
+2001-09-11 04:20:20 Metrocall [1064391] B  ALPHA  LME FUTURES       MCU_1439/1442 -005 MAL 1373/1375 -003 MAA 1142/1147 -013 MNI 5085/5115 -045 MSN 3740/3760 -035 MPB 4780/4810 -020 MZN _829/_831 -006
+2001-09-11 04:20:20 Metrocall [1062690] A  ALPHA  12202 TIME 03:56 ACTIVE-Pitt  PA4098_NatHgt x25CircuitDown
+2001-09-11 04:20:21 Arch [1005985] A  ALPHA  --- Equipment ID [0426 ] status change - interference Equipment ID [0426 ] Event
+2001-09-11 04:20:23 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|mc0300ux202|CR: 143907 Priority: 3 Assigned to: Summary:: CPU warning or critical alert 
+2001-09-11 04:20:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9712
+2001-09-11 04:20:31 Skytel [002184975] D SH/TONE 3618 (34
+2001-09-11 04:20:32 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC$P.G..S..U..VY.L@.U.`ER. 3360
+2001-09-11 04:20:32 Metrocall [002178488] C  ALPHA  ello,
+2001-09-11 04:20:33 Arch [1318633] C  ALPHA  Chiller # 4 is ON  
+2001-09-11 04:20:33 Skytel [004534043] C SH/TONE 1       
+2001-09-11 04:20:33 Skytel [003505310] D SH/TONE 70261   
+2001-09-11 04:20:35 Skytel [005207087] D  ALPHA  FLT1011 ETA 0515, FLT1153 ETA 0444, FLT1702 ETA 0507, FLT1421 ETA 0458, FLT1703 ETA 0535
+2001-09-11 04:20:36 Skytel [004697392] A  ALPHA  ovmail@sexo4066.whq.ual.com||OpenView ITO alert. Node: skypath1.whq.ual.com  Msg: Old wind data for Skypath  
+2001-09-11 04:20:36 Skytel [005228862] D SH/TONE 2002    
+2001-09-11 04:20:37 Metrocall {1235917} 1 2400 Frm: WhatsUp2 Sub: Router 183 office UP at 01:19:19 Txt: Router 183 office UP at 01:19:19 Address: 10.126.9.1 Info 1: isdn router Info 2: Date: 09/11/2001 Status: Active and responding ( 0) Svcs: Notes: IOS (tm) 1000 Software (C1000-Y-M), V..
+2001-09-11 04:20:38 Skytel [005098183] B  ALPHA  mcit wcom  Frank
+2001-09-11 04:20:40 Arch [1612111] D  ALPHA  monitor@ccbill.c|VSCRUB Packet Loss|nulls=20 1017374410:1017374411:1017374412:1017374416:1017374417:1017374418:1017374422:1017374423:1017374424:1017374425:1017374433:1017374454:1017374455:1017374482:1017374484:1017374486:1017374487:10173744
+2001-09-11 04:20:42 Skytel [009992677] B  ALPHA  FLT1011 ETA 0515, FLT1153 ETA 0444, FLT1702 ETA 0507, FLT1421 ETA 0458, FLT1703 ETA 0535
+2001-09-11 04:20:42 Skytel [005111022] D  ALPHA  FLT1011 ETA 0515, FLT1153 ETA 0444, FLT1702 ETA 0507, FLT1421 ETA 0458, FLT1703 ETA 0535
+2001-09-11 04:20:44 Skytel [005385718] B  ALPHA  root@rifas23.desc.dla.mil|CRITICAL BACKUP FAILURE|rifas05-daily Veritas Backup failed, Sep 11 04:20:47.  Veritas     Error  # 25.  cannot connect on socket A process timed out while connecting to another process for a particular operation. 
+2001-09-11 04:20:45 Metrocall [0121395] A  ALPHA  Frm: System Attendant Sub: USNY10038MSX Alert since 9/11/2001 4:05 AM A message was due on Txt: USNY10038MSX Alert since 9/11/2001 4:05 AM A message was due on 9/11/2001 4:05 AM.
+2001-09-11 04:20:45 Metrocall [0089933] D  ALPHA  lert since 9/11/2001 4:05 AM A message was due on 9/11/2001 4:05 AM.
+2001-09-11 04:20:46 Arch [0976922] C  ALPHA  Sonja Kepko <SKe|As per your request!|Please find attached file for your review. I look forward to hear from you again very soon. Thank you. 
+2001-09-11 04:20:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177691. 
+2001-09-11 04:20:57 Skytel [005436525] D  ALPHA  Test Message #73-IX_T0302
+2001-09-11 04:20:57 Skytel [004524770] A  ALPHA  spr-DeWolfe-LongMeadow-01: CPE Up at 00:58:09 on 9/11
+2001-09-11 04:20:57 Skytel [005112809] C  ALPHA  03:16CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240432: Uncorrectable write error
+2001-09-11 04:20:57 Skytel [007589229] D SH/TONE 3366    
+2001-09-11 04:20:59 Skytel [003924989] D  ALPHA  HCPJob@spcorp.com|CMPS0136 (Populate Flash Web Table)|:0 Process Completed Successfully @03:25:17  ***************************************************************  This message and any attachments is solely for the intended recipient. If yo
+2001-09-11 04:20:59 Skytel [007109749] B ST NUM  053-396-4376   

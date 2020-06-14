@@ -1,0 +1,84 @@
+2001-09-12 01:06:00 Metrocall [0121419] C  ALPHA  (1/1) HR STC ERT Downtown Tunnel EB Vehicle Incident Blocking one`(`...$.@C.`..2#. ..81.!IG...@?.A..
+2001-09-12 01:06:00 Metrocall [0007690] C  ALPHA  ......................... >.0_.0..01.0..X1.0=  _ 4605
+2001-09-12 01:06:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8035
+2001-09-12 01:06:01 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-12 01:06:02 Skytel [007046275] A SH/TONE 2911    
+2001-09-12 01:06:03 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-12 01:06:05 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-12 01:06:05 Skytel [002161825] A ST NUM  313-819-2831   
+2001-09-12 01:06:07 Skytel [0001461] B  ALPHA  GLOBEX   00:05     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 01:06:09 Skytel [005112649] C  ALPHA  SFO Staff; Building is open, bring ATT ID, but back to normal.  BAU at 425 Market.  I Know you are working an install. Jesse
+2001-09-12 01:06:10 Metrocall [1466240] A  ALPHA  Frm: Tivoli - Do Not Reply Sub: sapprd - ORAID1 Txt: Hostname: sapprd Event ID: ORAID1 Message: ORA-1650: unable to extend rollback segment PRS_21 by 1280 in tablespace PSAPROLL
+2001-09-12 01:06:10 Metrocall [002612334] D  ALPHA  Frm: Tivoli - Do Not Reply Sub: sapprd - ORAID1 Txt: Hostna
+2001-09-12 01:06:10 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 144W MAJ=NONE
+2001-09-12 01:06:10 Metrocall [1031464] C  ALPHA  Frm: Y! Txt: Be mobile with Compaq Tokyo Stocks Below 10,000 After Attacks Reuters
+2001-09-12 01:06:11 Skytel [1800019] A  ALPHA  GLOBEX   00:05     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 01:06:12 Arch [0923733] B  ALPHA  Super-User <root|!BB - 2873710! sms3.un.org.msgs |[2873710] sms3.un.org.msgs red Wed Sep 12 01:06:52 EDT 2001 sms3,un,org - bad message(s) found: Sep 12 01:02:02 sms3 unix: NOTICE: alloc: /var/data: file system full Please see: http://sms3/b
+2001-09-12 01:06:12 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-12 01:06:12 Arch [1008350] D  ALPHA  25900
+2001-09-12 01:06:12 Metrocall [002612334] D  ALPHA  me: sapprd Event ID:
+2001-09-12 01:06:14 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-12 01:06:16 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-12 01:06:16 Arch [0971504] A  ALPHA  From-ROQUE....... FYI...Art called, it was some shrubbery that someone had purposely set on fire, No one was seen in the area.
+2001-09-12 01:06:18 Arch [0930868] B  ALPHA  Server MP240-Mail01 Lotus Notes SVCDOWN at 22:03:44
+2001-09-12 01:06:18 Arch [1635918] D  ALPHA  |MyVisto Alerts <aler|New Email at jt@visto.com|F: saverealbig@optinrealbig.com S: Help us support our Nation. >=20 |
+2001-09-12 01:06:19 Metrocall [1105453] D  ALPHA  10:07P 9/11/01 TO : WENDY PLEASE FIND PRINCE PHONE NUMBER AND PAGE ME -- BETH
+2001-09-12 01:06:19 Metrocall [1105453] D  ALPHA  THANK YOU
+2001-09-12 01:06:20 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0958
+2001-09-12 01:06:22 Arch [0739731] A  ALPHA  7200
+2001-09-12 01:06:27 Arch [0925366] B  ALPHA   318643;Sep 11 21:07:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-12 01:06:30 Metrocall [1544820] B  ALPHA  WDC-ARC1 Stubmaker HON Started on ARC1 Have a nice day
+2001-09-12 01:06:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3214
+2001-09-12 01:06:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3214
+2001-09-12 01:06:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 22:05:00 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 01:06:32 Skytel [007579147] C SH/TONE 1034    
+2001-09-12 01:06:33 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34
+2001-09-12 01:06:33 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191712. 
+2001-09-12 01:06:33 Skytel [007511699] A  ALPHA  Y! ||Be mobile with Compaq QQQ 0.00 0.00; tmol unavailable. Delayed Reuters  
+2001-09-12 01:06:33 Skytel [007641751] B SH/TONE 5827    
+2001-09-12 01:06:33 Skytel [004717595] C ST NUM  580-650-4238   
+2001-09-12 01:06:33 Skytel [005212176] A SH/TONE 839-7158
+2001-09-12 01:06:35 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-12 01:06:35 Arch [1046295] B  ALPHA  |ILS: Notes #B828481 for LOCKHEED MARTIN SERVICES, contract 1084099, P1 |This is an ILS summary notification for case B828481 Event: Notes #B828481, Priority 1 Event Time: 11 September 2001 22:06:27 Title: 9/11:US WORLD ATTACK PARTS  -1/3
+2001-09-12 01:06:35 Skytel [007512865] A  ALPHA  Y! ||$499 deals on iPAQ Pocket PC U.S. Reels From Twin Attacks, Thousands Die Reuters  
+2001-09-12 01:06:35 Skytel [005001895] B  ALPHA  [sps/179] 200 sps-apps1.cps.intel.com relay-ssl 0.439 Application isokay (/Ivep/healthcheck.asp) 2:58:08
+2001-09-12 01:06:35 Skytel [002374703] D  ALPHA  i@speedia.com||Two Kings Scouts Aboard Hijacked Flight; Major, Minor League Games Cancelled After Attacks; Top Sports Officials Shocked by U.S. Terror Attacks; Sent: 09/11@22:00 PST  
+2001-09-12 01:06:35 Skytel [007035563] C ST NUM  462-907-9082   
+2001-09-12 01:06:37 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-12 01:06:37 Arch [1046295] B  ALPHA  REQUEST Site: LOCKHEED MARTIN SERVICES * Contact: RANDY WOOD * Phone/Email: 703 484 5619 / rwoodiii@cisco.com * Contract: 1084099 Case Owner: SSEGAL @ 14085265744 ILS Subscription Information: * Subscriber: rosummey@cisco.com (Contact  -2/3
+2001-09-12 01:06:37 Skytel [005211824] A  ALPHA  562-6446
+2001-09-12 01:06:37 Skytel [003954236] D  ALPHA  root@sp1201.idc.ikon.org|"National Lockbox Message"|Nightly LB reports for MINN are present.  
+2001-09-12 01:06:39 Arch [1046295] B  ALPHA  this person to unsubscribe.) * ILS Event: Update * Conditions: Contract ID: 1084099 * Recipients: rosummey@epage.cisco.com * Send e-mails Always * Expires Never * Time Sent|640   -3/3
+2001-09-12 01:06:39 Arch [0986081] A  ALPHA  6829*9/12/01 12:02:59 AM ForeRunner POP_ATM02 UNI signalling down
+2001-09-12 01:06:39 Arch [0634239] D  ALPHA  6829*9/12/01 12:02:59 AM ForeRunner POP_ATM02 UNI signalling down
+2001-09-12 01:06:39 Arch [0810070] B  ALPHA  6829*9/12/01 12:02:59 AM ForeRunner POP_ATM02 UNI signalling down
+2001-09-12 01:06:39 Arch [1079409] A  ALPHA  6829*9/12/01 12:02:59 AM ForeRunner POP_ATM02 UNI signalling down
+2001-09-12 01:06:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:06:39 Skytel [007591622] B ST NUM  569-942-0742-7 
+2001-09-12 01:06:39 Skytel [005341518] D ST NUM  9007598255
+2001-09-12 01:06:40 Arch [0986081] A  ALPHA  8675*9/12/01 12:03:00 AM ForeRunner 9910_ATM02 UNI signalling down
+2001-09-12 01:06:40 Arch [1275092] B  ALPHA  ID: 215705 Host: I01550 Text: [FE09] AC Lost
+2001-09-12 01:06:40 Arch [1079409] A  ALPHA  8675*9..2..1..2..3J....M..n..........................gnalling down
+2001-09-12 01:06:40 Arch [0634239] D  ALPHA  8675*9/12/01 12:03:00 AM ForeRunner 9910_ATM02 UNI signalling down
+2001-09-12 01:06:40 Arch [0810070] B  ALPHA  8675*9/12/01..2..3.....M..n..R.@n..........................ng down
+2001-09-12 01:06:41 Skytel [005254108] D  ALPHA  root@sp1201.idc.ikon.org|"National Lockbox Message"|Nightly LB reports for OHO are present.  
+2001-09-12 01:06:41 Skytel [007579357] D ST NUM  455-5555-5
+2001-09-12 01:06:43 Skytel [007521519] D ST NUM  08007598255 2525    
+2001-09-12 01:06:43 Skytel [003945067] C ST NUM  827-292-8911   
+2001-09-12 01:06:43 Skytel [003973355] C  ALPHA  1) OM-SW:24:00hrs Ocupacion de interconexiones con AT&T es de 41% . (3
+2001-09-12 01:06:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #58-IX_T1705
+2001-09-12 01:06:43 Skytel [002369639] B SH/TONE 761-6980
+2001-09-12 01:06:43 Skytel [005043559] B  ALPHA  150.ARENER MANUFACT     
+2001-09-12 01:06:45 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2479..
+2001-09-12 01:06:45 Skytel [007610361] C SH/TONE 334-3467
+2001-09-12 01:06:45 Skytel [007459189] B ST NUM  410-215-9612   
+2001-09-12 01:06:45 Skytel [007655801] C ST NUM  811-781-7598   
+2001-09-12 01:06:50 Skytel [007588515] A SH/TONE 3372    
+2001-09-12 01:06:50 Skytel [007554722] A  ALPHA  MIKE, CALL ME @ 369-3505 IN THE CONTROL ROOM..........CEDRIC
+2001-09-12 01:06:50 Skytel [007035683] A  ALPHA  Insider@emcweb.com|SiteScope Alert, error, TranTrac1 URL Transaction, unable to reach server on  (step 1), https://209.64.62.245/trantrac/login?edtMID=601109999999015&edtUID=user0...|This alert is from SiteScope at http://insider.emcweb.com
+2001-09-12 01:06:56 Skytel [007102168] C SH/TONE 6023    
+2001-09-12 01:06:57 Arch [0987275] C  ALPHA  s0191: 09/11 15:14:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:14:21
+2001-09-12 01:06:58 Skytel [005330530] A ST NUM  8685222010
+2001-09-12 01:06:58 Skytel [003916141] D  ALPHA  pls call 213-989-6456 when in the area of HIDTA  Pole
+2001-09-12 01:06:58 Skytel [004451564] D ST NUM  0-818-882-7774-11   
+2001-09-12 01:06:59 Arch [0987275] C  ALPHA  sb3: INFO0021 - 2:45PM - POSI batch has not arrived(160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:15

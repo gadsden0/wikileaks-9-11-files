@@ -1,0 +1,50 @@
+2001-09-11 04:54:02 Arch [0971901] D  ALPHA  MSN <alert@msn.c|Hotmail Ree Ree:[mixxxedsignals] Countdown 
+2001-09-11 04:54:05 Skytel [005377455] D SH/TONE 266-4897
+2001-09-11 04:54:08 Skytel [004515650] A ST NUM  979-1922 U
+2001-09-11 04:54:10 Arch [1600758] B  ALPHA  (31)49:ABS: Tkt:5002931, Sev:3, Routed, Sname:, CIS Id:800120028, Contact:CONTROL CENTER @ 6158827100 Note:SEEING CKT BOUNCING @ ATL*HI1*U8 PORT: 3:1 FMS-55789660
+2001-09-11 04:54:10 Arch [0602772] B  ALPHA  Super-User <root|Trap Message|Time: Tue Sep 11 04:54:44 2001 Agent Address: 63.169.255.210 Specific Trap: Process Start Trap (11) Description: qip-dhcpmsgd Regexp: qip-dhcpmsgd.* Current PID: 3482 Time: Tue Sep 11 04:54:44 2001 Agent Address
+2001-09-11 04:54:10 Skytel [005338196] B SH/TONE 28877   
+2001-09-11 04:54:14 Skytel [007547004] D SH/TONE 555-1212
+2001-09-11 04:54:15 Arch [1060702] D  ALPHA  root: Ocala A58 001DE0 OK Link receive failure 09-11-01 08:52:10
+2001-09-11 04:54:16 Arch [0000101] B  ALPHA  MSN 103 hello Message from NOC PCB.
+2001-09-11 04:54:18 Skytel {0663827} 3 1200 62314
+2001-09-11 04:54:20 Metrocall [1188682] C  ALPHA  Node atlanta-eng.metrocall.com message: All interfaces restored on TNPP Router ~
+2001-09-11 04:54:20 Skytel {0132085} 1 1200 160160001C00000000006190100003E2600202244000000000001C00000000006190100003E260020224400000000.
+2001-09-11 04:54:21 Arch [0760644] B  ALPHA  123-4567
+2001-09-11 04:54:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9746
+2001-09-11 04:54:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178049. 
+2001-09-11 04:54:30 Metrocall [002589081] C  ALPHA  Frm: custserv@e-xpedient.com Sub: Core Router at 63.144.67.154 reports ifdescr(Vlan130) IP_Interface Broken Txt: Core Router at 63.144.67.154 reports ifdescr(Vlan130) IP_Interface Broken
+2001-09-11 04:54:30 Metrocall [002110473] C  ALPHA  Take your meds.
+2001-09-11 04:54:30 Metrocall [002110363] C  ALPHA  Time 
+2001-09-11 04:54:30 Metrocall [1363643] C  ALPHA  Frm: busintel@tickets.com Sub: =?iso-8859-1?Q?Load Plan Completion - Customer Stage Tables?= Txt: Load of customer_stage tables for merge purge completed successfully.
+2001-09-11 04:54:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3394
+2001-09-11 04:54:31 Metrocall [1180298] C  ALPHA  Node atlanta-eng.metrocall.com message: All interfaces restored on TNPP Router ~
+2001-09-11 04:54:31 Metrocall [1578603] C  ALPHA  Node atlanta-eng.metrocall.com message: All interfaces restored on TNPP Router ~
+2001-09-11 04:54:31 Metrocall [002110363] C  ALPHA  to take your medication.
+2001-09-11 04:54:31 Metrocall [1402531] A  ALPHA  Node atlanta-eng.metrocall.com mess
+2001-09-11 04:54:35 Metrocall [1402531] A  ALPHA  age: All interfaces restored on TNPP Router ~
+2001-09-11 04:54:35 Skytel [002279468] D ST NUM  918-435-5599   
+2001-09-11 04:54:36 Skytel [004697392] A  ALPHA  ovmail@sexo4066.whq.ual.com||OpenView ITO alert. Node: skypath1.whq.ual.com  Msg: Old wind data for Skypath  
+2001-09-11 04:54:37 Skytel [003466805] B ST NUM  900-826-5348   
+2001-09-11 04:54:39 Metrocall [0902989] D  ALPHA  WAKE UP
+2001-09-11 04:54:39 Metrocall [0848424] C  ALPHA  Frm: support@basystems.com Sub: New Incident Notification Txt: Number of UNRESOLVED incidents in the database: 857 Respond to UNRESOLVED incidents at http://basystems.custhelp.com/cgi-bin/basystems/lo
+2001-09-11 04:54:40 Arch [0915648] A  ALPHA  Good morning,PRD Docbase load completed.  Steve   
+2001-09-11 04:54:40 Skytel [002473429] B  ALPHA  migration.administration@verizon.com|Batch Errors|Errors were detected during the nmdbforward run!   (94
+2001-09-11 04:54:42 Skytel [007041897] C  ALPHA  SEV 2 - 03945247 - GLCSETW - UNEXPECTED FAXER ERROR
+2001-09-11 04:54:42 Skytel [005436525] D  ALPHA  Test Message #16-IX_T0515
+2001-09-11 04:54:42 Skytel [004524770] A  ALPHA  spf-GrandHotel-NConwayNH-3810f: CPE Up at 00:58:01 on 9/11
+2001-09-11 04:54:44 Arch [1210571] C  ALPHA  applmgr@gpsdba39|Error in Concurrent Prog|PROGRAM STARTED ENDED STATUS -------------------------------------------------------------------------------- -------------------- -------------------- ---------- GEPS PURGING 11-SEP-2001 02:00:25 11
+2001-09-11 04:54:44 Skytel [005257724] D ST NUM  868-324-1849   
+2001-09-11 04:54:44 Skytel [007109749] B ST NUM  601-7931-2
+2001-09-11 04:54:44 Skytel [003954036] B  ALPHA  NIMS01:Device Inaccessible
+2001-09-11 04:54:46 Skytel [005203215] D  ALPHA  DATAMART@FMR.COM|IDM Status|Retail Cycle Complete         
+2001-09-11 04:54:50 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs06 Sev:0 # 700016 ProcessesDown WBS 3.1.14.1 09/11/01 01:52:30 Instance: ChkSysRes Module: ChkSysRes Details: Processes Down or Restarted: psm_esni
+2001-09-11 04:54:50 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcb-wbs06 Sev:0 # 7
+2001-09-11 04:54:51 Skytel [005258806] B SH/TONE 28865   
+2001-09-11 04:54:51 Skytel [003054900] B  ALPHA  UP 31 DN 0 
+2001-09-11 04:54:51 Skytel [007469753] C SH/TONE 6305    
+2001-09-11 04:54:51 Skytel [005343543] B  ALPHA  PROBLEM: 16602395 WAS OPENED 
+2001-09-11 04:54:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1267..
+2001-09-11 04:54:52 Metrocall [0477913] C  ALPHA  00016 ProcessesDown WBS 3.1.14.1 09/11/01 01:59:27 Instance: ChkSysRes Module: ChkSysRes Details: Processes Down or Restarted: psm_esni
+2001-09-11 04:54:53 Skytel [003641413] B ST NUM  710-395-0580 (83    
+2001-09-11 04:54:57 Skytel [005330530] A ST NUM  8685222010

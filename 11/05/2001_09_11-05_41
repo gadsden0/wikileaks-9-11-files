@@ -1,0 +1,33 @@
+2001-09-11 05:41:01 Metrocall [1064374] B  ALPHA  8 -049 DEM  2.1814/24 +044  E/C  1.5150/52 -005 E/Y  109.13/16 +048 E/S  0.6152/58 -006 USD     115.02 +024
+2001-09-11 05:41:01 Skytel [007523084] D SH/TONE 223-6772
+2001-09-11 05:41:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6870
+2001-09-11 05:41:04 Arch [0923110] B  ALPHA  1160
+2001-09-11 05:41:04 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178549. 
+2001-09-11 05:41:05 Skytel [005207087] D  ALPHA  FLT1463 ARR 0541, *ADHOC FLT 1170 AFW-ATL ETA 0703, 3 POS M/S
+2001-09-11 05:41:05 Skytel [007461924] B SH/TONE 263-7107
+2001-09-11 05:41:05 Skytel {1092655} 3 2400 002232    
+2001-09-11 05:41:11 Metrocall [1261323] C  ALPHA  Frm: fusasitescope@wingspan.com Txt: elgweb1 login content match error on step 2, http://192.168.67.181:7001/cmsonline/main/cmslogin.jsp
+2001-09-11 05:41:17 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178556. 
+2001-09-11 05:41:17 Arch [0911134] D  ALPHA   cshprod0-adm.ny.jpmorgan.com SYBASE:PDS1_EQGTWLN(eq_gtw)-->PDS1_EQGTWTK(eq_gtw)latency > 30 secs - LAST= Sep 11 2001  9:35:01:170AM CURR= Sep 11 2001  9:41:18:530AM @05:41 09/11/01 
+2001-09-11 05:41:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9793
+2001-09-11 05:41:30 Arch [0925366] B  ALPHA   318643;Sep 11 01:42:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 05:41:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3441
+2001-09-11 05:41:35 Skytel [004417186] A ST NUM  370-0311-2
+2001-09-11 05:41:35 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb2 login content match error on step 2, http://192.168.67.182:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informat
+2001-09-11 05:41:38 Skytel [007438026] C SH/TONE 3333 (3 
+2001-09-11 05:41:40 Arch [0970454] B  ALPHA  (16)DO:-*Submit-Cust-JCL(4:38:39
+2001-09-11 05:41:40 Skytel [007467226] C ST NUM  11921680100151224211
+2001-09-11 05:41:41 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 151W MAJ=NONE
+2001-09-11 05:41:42 Skytel [005111022] D  ALPHA  FLT1463 ARR 0541, *ADHOC FLT 1170 AFW-ATL ETA 0703, 3 POS M/S
+2001-09-11 05:41:42 Skytel [004682599] B  ALPHA  mbcopeland@fedex.com|flt 1580 tail swap to N242FE at gate 122  
+2001-09-11 05:41:42 Skytel [005112809] C  ALPHA  04:36CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240400: Uncorrectable write error
+2001-09-11 05:41:42 Skytel [004524770] A  ALPHA  spr-MeriemGraves-WSpringfieldMA-: CPE Up at 01:00:01 on 9/11
+2001-09-11 05:41:42 Skytel [007600874] C SH/TONE 6128    
+2001-09-11 05:41:42 Skytel [005436525] D  ALPHA  Test Message #22-IX_T0411
+2001-09-11 05:41:42 Skytel [005057390] D  ALPHA  aug001dataaege:3.7.003 Service MSExchangeSA (Microsoft Exchange System Attendant) Is Not Running. Current state is Stopped.
+2001-09-11 05:41:44 Skytel [005328380] D SH/TONE 800-7902
+2001-09-11 05:41:45 Arch [1060702] D  ALPHA  NIU Sys 36/Dev 3604 - 002A4A JAX BEACH 56, cnet lost sync, Clr
+2001-09-11 05:41:56 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178563. 
+2001-09-11 05:41:57 Skytel [005197679] D  ALPHA  ns.mr.net is Up 4:40 AM, 9/11/01 (16
+2001-09-11 05:41:59 Metrocall [1064382] D  ALPHA  DKK   74411/18 +000 NOK  7.95..................................................................................................................................................................................................................
+2001-09-11 05:41:59 Skytel [004185333] B SH/TONE 101-0005

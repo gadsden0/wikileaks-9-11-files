@@ -1,0 +1,101 @@
+2001-09-12 01:04:00 Skytel [005138933] B ST NUM  0-310-635-3906 
+2001-09-12 01:04:00 Skytel [004391416] C SH/TONE 91      
+2001-09-12 01:04:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8033
+2001-09-12 01:04:02 Skytel [007603981] D SH/TONE 333-3333
+2001-09-12 01:04:03 Skytel [007118741] B ST NUM  377-4749-60    
+2001-09-12 01:04:05 Skytel [003436448] A SH/TONE 3992    
+2001-09-12 01:04:05 Skytel [007554722] A  ALPHA  MIKE, CALL ME @ 369-3505 IN THE CONTROL ROOM..........CEDRIC
+2001-09-12 01:04:05 Skytel [005437867] C SH/TONE 911281  
+2001-09-12 01:04:05 Skytel [005213845] B  ALPHA  rb210024@exchange.DAYTONOH.NCR.com|WGST|  Message : Site: 359; INFO ONLY; CRIT; SCOT; 12 Hour(+); 9/12/01 12:02:46 AM: 3 terms oper, parts for 4th-no flights-x768 becky   
+2001-09-12 01:04:06 Skytel {1243410} 3 1200 0-009-876-6665-4433221111  2  
+2001-09-12 01:04:10 Metrocall [0525954] A  ALPHA  HTTP:Chelmick at 10.17.1.52 is DOWN.
+2001-09-12 01:04:12 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191684. 
+2001-09-12 01:04:12 Arch [0987275] C  ALPHA  s0191: 09/11 12:20:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:20:24
+2001-09-12 01:04:14 Arch [0987275] C  ALPHA  s0191: 09/11 12:28:34 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:28:34
+2001-09-12 01:04:14 Arch [1100027] C  ALPHA  Request Set Stage has an error with one of its processes - ora08 [9/11/0 22:02]
+2001-09-12 01:04:16 Arch [0987275] C  ALPHA  s0191: 09/11 12:31:16 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:31:16
+2001-09-12 01:04:16 Arch [1100027] C  ALPHA  Planning Data Pull has an error with one of its processes - ora08 [9/11/0 22:03]
+2001-09-12 01:04:18 Arch [0987275] C  ALPHA  s0191: 09/11 12:36:48 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:36:48
+2001-09-12 01:04:18 Arch [1612317] D  ALPHA  BC_RTNASHVILLE  ARCserveIT:  E0015 Job 482: Backup Operation Failed
+2001-09-12 01:04:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0956
+2001-09-12 01:04:29 Metrocall [0897102] D  ALPHA  (MESSAGE WAITING)
+2001-09-12 01:04:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3212
+2001-09-12 01:04:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3212
+2001-09-12 01:04:32 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 22:04:19 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 01:04:32 Skytel [005134340] B ST NUM  673-714-3494   
+2001-09-12 01:04:32 Skytel [992202249] C  ALPHA  300919198 PgCnt: 06 Emp# 103233 ELECTRONIC DATA SYSYTEMS CORP EQ# 10017593 CONNIE MONCUR:9547844400 Due BY 0913 @ 0526 POMPANO BEACH 
+2001-09-12 01:04:32 Skytel [007518856] C ST NUM  616-649-6843   
+2001-09-12 01:04:33 Arch [0987275] C  ALPHA  s0191: 09/11 12:44:46 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:44:47
+2001-09-12 01:04:33 Arch [0911134] D  ALPHA   cshprod0-adm.ny.jpmorgan.com SYBASE: DATA MISMATCH : PDS1_EQGTWNY and SDS1_EROSNY Table t_fix_customer @01:04 09/12/01 
+2001-09-12 01:04:33 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 5.47 14.52 8.45 Tue Sep 11 22:05:00 MST 2001 
+2001-09-12 01:04:33 Skytel [002401821] D  ALPHA  sahblda2 Distributed Monitoring pf.ussa11.BLUE.dm.sahblda2/CPU time: user plus sys on host sahblda2 09/11/01 21:35:00 PDT  Status: >>> warn ussa11.SSMC 
+2001-09-12 01:04:35 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-12 01:04:35 Skytel [005137965] D  ALPHA  rb210024@exchange.DAYTONOH.NCR.com|WGST|  Message : Site: 359; INFO ONLY; CRIT; SCOT; 12 Hour(+); 9/12/01 12:02:46 AM: 3 terms oper, parts for 4th-no flights-x768 becky   
+2001-09-12 01:04:35 Skytel [005001895] B  ALPHA  [sps/74] 200 supplier.intel.com relay-ssl 0.822 Application OK.(/simi/healthcheck.asp) 2:57:19
+2001-09-12 01:04:35 Skytel [002374703] D  ALPHA  i@speedia.com||All 45 Believed Dead in Crash Near Pittsburgh; World Trade Center Attacked, Towers Collapse; Sent: 09/11@22:00 PST  
+2001-09-12 01:04:37 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-12 01:04:37 Arch [0944590] D  ALPHA  nms@eagle.jhanco|MhClient is DOWN 
+2001-09-12 01:04:37 Arch [0383950] D  ALPHA  "Meyer, Dwight W|Livelink (Intranet) is DOWN 
+2001-09-12 01:04:37 Skytel [004076349] D  ALPHA  I GOT THE ARTICLE. THANK YOU. FRANK (4
+2001-09-12 01:04:37 Skytel [005362367] D  ALPHA  rb210024@exchange.DAYTONOH.NCR.com|WGST|  Message : Site: 359; INFO ONLY; CRIT; SCOT; 12 Hour(+); 9/12/01 12:02:46 AM: 3 terms oper, parts for 4th-no flights-x768 becky   
+2001-09-12 01:04:38 Metrocall [002567097] C  ALPHA  Hannon's #10:           WI COOLER   COOL ON
+2001-09-12 01:04:39 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-12 01:04:39 Skytel [005109312] A  ALPHA  rb210024@exchange.DAYTONOH.NCR.com|WGST|  Message : Site: 359; INFO ONLY; CRIT; SCOT; 12 Hour(+); 9/12/01 12:02:46 AM: 3 terms oper, parts for 4th-no flights-x768 becky   
+2001-09-12 01:04:39 Skytel [007560389] B ST NUM  781-711-6877-86911  
+2001-09-12 01:04:39 Skytel [005484868] B ST NUM  459-2233-6
+2001-09-12 01:04:39 Skytel [004533958] B ST NUM  909-938-5988   
+2001-09-12 01:04:39 Skytel [007100993] A SH/TONE 800-7121
+2001-09-12 01:04:39 Skytel [008507076] B  ALPHA  01855h4b1ab010800002g
+2001-09-12 01:04:39 Skytel [005048779] C  ALPHA  LMNLAN1I RAMSES DAL1WF.NSSOUTH.IBM.COM Interface G_DAL1_AUS2 down.
+2001-09-12 01:04:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:04:39 Skytel [002840516] B  ALPHA  pager@the-watsons.com|*** Alert from SonicWALL *** [firewall.kevin.org]|09/11/2001 22:04:42.336 -  IP spoof detected -  Source:66.121.183.250, 2697, WAN -  Destination:66.121.183.244, 80, LAN -  MAC address: 00.10.67.00.B7.EB -    
+2001-09-12 01:04:41 Skytel [005191379] A  ALPHA  rb210024@exchange.DAYTONOH.NCR.com|WGST|  Message : Site: 359; INFO ONLY; CRIT; SCOT; 12 Hour(+); 9/12/01 12:02:46 AM: 3 terms oper, parts for 4th-no flights-x768 becky   
+2001-09-12 01:04:41 Skytel [004754397] D SH/TONE 568-6832
+2001-09-12 01:04:43 Skytel [003255402] C  ALPHA  whatsup@STATUS1.Aawsom.net|POP DOWN at 22:03:07 09/11/01| 
+2001-09-12 01:04:43 Skytel [007089255] B ST NUM  9888545212
+2001-09-12 01:04:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #56-IX_T1706
+2001-09-12 01:04:43 Skytel [002739566] D SH/TONE 507     
+2001-09-12 01:04:43 Skytel [005132640] A  ALPHA  1) LMNLAN1I RAMSES DAL1WF.NSSOUTH.IBM.COM Interface G_DAL1_AUS2 down.
+2001-09-12 01:04:44 Metrocall [1064374] B  ALPHA  YEN  119.30/45 -042 EUR  0.9109/14 +006 CHF  1.6445/60 +040 GBP  1.4725/45 -026 CAD  1.5640/50 +003 AUD  0.5180/85 -015 NZD  0.4275/82 -030 DEM  2.1460/71 -014  E/C  1.4984/89 -007 E/Y  108.70/75 -029 E/S  0.6168/71 -024 USD     113.31 -00
+2001-09-12 01:04:44 Metrocall [1064377] C  ALPHA  SED97040/97175/9708 9669/9627/9580/9549 SEY 99940/99915+000 99900/ 99905/ 99865 SSI _9265/_9245-103 JGB 13874/13714 -19 US  10514/10422 +00 SP107500/10140+0000 DJ _9630/_9665 +000 ND 13360/13820 +000 TY 10712+ FV 10616  TU 10328+
+2001-09-12 01:04:45 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2477..
+2001-09-12 01:04:45 Metrocall [1064374] B  ALPHA  7
+2001-09-12 01:04:45 Metrocall [1064385] A  ALPHA  JY  8317/8385  +042 EC  9067/9047 +0067 BP 14526/14300 +000 SF  6005/6010  +070 CD  6388/6380  -010 AD  5169/5152  +031 DM  4636/4626  +034 MP103750/10290 -550 PTB 9039/8942  +002 2YBA 9559/9577  +29 2YTT 9541/9530  +38 2YTC 9457/9453  +19
+2001-09-12 01:04:45 Skytel [007100277] B  ALPHA  rb210024@exchange.DAYTONOH.NCR.com|WGST|  Message : Site: 359; INFO ONLY; CRIT; SCOT; 12 Hour(+); 9/12/01 12:02:46 AM: 3 terms oper, parts for 4th-no flights-x768 becky   
+2001-09-12 01:04:45 Skytel [005243127] B SH/TONE 239     
+2001-09-12 01:04:45 Skytel [003261439] D  ALPHA  whatsup@STATUS1.Aawsom.net|NS2 DOWN at 22:03:13 09/11/01| 
+2001-09-12 01:04:45 Skytel [007109749] B ST NUM  869-760-4869-7604   
+2001-09-12 01:04:45 Skytel [005329524] B  ALPHA  Attn Managers,  There will be a conf call at 0700 local time with OPB to discuss the latest updates and plans to resume service.    DENOO - Dua
+2001-09-12 01:04:45 Skytel [005107064] C SH/TONE 248248  
+2001-09-12 01:04:45 Skytel [004592766] D  ALPHA  rb210024@exchange.DAYTONOH.NCR.com|WGST|  Message : Site: 359; INFO ONLY; CRIT; SCOT; 12 Hour(+); 9/12/01 12:02:46 AM: 3 terms oper, parts for 4th-no flights-x768 becky   
+2001-09-12 01:04:45 Skytel [005072766] D SH/TONE 211     
+2001-09-12 01:04:45 Skytel [002357369] C  ALPHA  002620 CYCLIC TEST 
+2001-09-12 01:04:45 Skytel [003327216] A  ALPHA  002620 CYCLIC TEST 
+2001-09-12 01:04:45 Skytel [002139900] D SH/TONE 002620  
+2001-09-12 01:04:45 Skytel [007574270] D ST NUM  1-431-381-3382-3415 
+2001-09-12 01:04:47 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2477..
+2001-09-12 01:04:47 Metrocall [1064385] A  ALPHA   CAC  3960/4025 +000
+2001-09-12 01:04:47 Skytel [003947534] D  ALPHA  Attn Managers,  There will be a conf call at 0700 local time with OPB to discuss the latest updates and plans to resume service.    DENOO - Duane Perry
+2001-09-12 01:04:47 Skytel [005329524] B  ALPHA  ne Perry
+2001-09-12 01:04:47 Skytel [002423055] D  ALPHA  B
+2001-09-12 01:04:48 Skytel [005065366] B  ALPHA  Attn Managers,  There will be a conf call at 0700 local time with OPB to discuss the latest updates and plans to resume service.    DENOO - Duane Perry
+2001-09-12 01:04:48 Skytel [004547346] A SH/TONE 69      
+2001-09-12 01:04:52 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-12 01:04:52 Arch [1050542] D  ALPHA  Server MP240-Mail01 Lotus Notes SVCDOWN at 22:03:44
+2001-09-12 01:04:52 Arch [0820596] B  ALPHA  10PM IAD COUNTS 9/12 BMG 7pm 000c/797p=797  10pm 3c/470p=473
+2001-09-12 01:04:52 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191691. 
+2001-09-12 01:04:52 Skytel [0000060] D  ALPHA  Anybody who has yellow truck seals to loan please call 797-7365. 
+2001-09-12 01:04:52 Skytel [002745532] D ST NUM  556-8396-8
+2001-09-12 01:04:54 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-12 01:04:54 Skytel [005208512] A  ALPHA  Attn Managers,  There will be a conf call at 0700 local time with OPB to discuss the latest updates and plans to resume service.    DENOO - Duane Perry
+2001-09-12 01:04:54 Skytel [002815810] A  ALPHA  oracle@saturn.oak.zhone.com|Errors found in Alert log file of one or more databaes on saturn|==> Sent by <oracle> from saturn on Tue Sep 11 22:05:04 PDT 2001   Errors found in the alert log of BSBPROD   Change 'ORA-' to '#ORA-' in alert log
+2001-09-12 01:04:55 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-12 01:04:56 Skytel [003250900] B  ALPHA  PLEASE CALL MANAGMENT BRIDGE LINE 888 447 1240, ID 511304, REGARDING FOX NEWS REPORT, GLORIA SHARRAR.
+2001-09-12 01:04:56 Skytel [005254108] D  ALPHA  root@sp1201.idc.ikon.org|"National Lockbox Message"|Nightly LB reports for MINN are present.  
+2001-09-12 01:04:57 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-12 01:04:58 Skytel [005092448] A  ALPHA  DOMINO I WILL BE WORKING TOMORROW GIVE ME A CALL AT 625 5526 IVE ME A CALL WHEN YOU GET THIS MESSAGE MIKE 
+2001-09-12 01:04:58 Skytel [005003367] B  ALPHA  root@bur-faxsvr.genuity.com|bur-faxsvr.genuity.com - /bbn is 91% full| 
+2001-09-12 01:04:58 Skytel [004399981] D SH/TONE 2042    
+2001-09-12 01:04:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8034
+2001-09-12 01:04:59 Metrocall [1422037] B  ALPHA  58172:Critical; TT677859; TR User Assign; NETRAC; AP_LOG_STAT; AP LOG STATISTICS 1; 09/11/01 22:04:43; ;SANTA C;logic id:AXE10 SJCT3AX APZ AP_LOG_STAT 1                                                                     _7
+2001-09-12 01:04:59 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4604

@@ -1,0 +1,53 @@
+2001-09-11 06:13:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2080
+2001-09-11 06:13:01 Metrocall [0277909] B  ALPHA  9-11-01 6:06 PAGE01 FAN 31 RETURN FAN IS IN FLOW ALARM CHECK ASAP. IF UNABLE TO CORRECT CONTACT GEORGE THORNE. ON
+2001-09-11 06:13:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2080
+2001-09-11 06:13:05 Skytel [002266921] C SH/TONE 1       
+2001-09-11 06:13:07 Skytel [002396731] C  ALPHA  wedan@fedex.com|0610 UPDATE|1731IND @ 0540 1437MEM @ 0557  
+2001-09-11 06:13:08 Arch [0902824] C  ALPHA  OCC DESK <OCC@pa|FYI: Good Morning, nothing to report. Have a nice day! Page sent 0615 hours - 09/11/01. 
+2001-09-11 06:13:08 Arch [0949031] B  ALPHA  OCC DESK <OCC@pa|FYI: Good Morning, nothing to report. Have a nice day! Page sent 0615 hours - 09/11/01. 
+2001-09-11 06:13:08 Arch [0936445] D  ALPHA  Super-User <root|filesystem (webdev) webdev:/ 89 webdev:/usr 99 webdev:/var 60 webdev:/nsr 63 webdev:/opt 52 webdev:/tmp 1 webdev:/opt/net 40 webdev:/opt/net 98 
+2001-09-11 06:13:08 Skytel [004570951] B  ALPHA  wedan@fedex.com|0610 UPDATE|1731IND @ 0540 1437MEM @ 0557  
+2001-09-11 06:13:09 Skytel {0770160} 3 1200 1-810-506-2140 
+2001-09-11 06:13:11 Arch [1604987] C  ALPHA  MSN <alert@msn.c|President's daughter has charges dropped*Stocks struggle*Jordan all but confirms return to 
+2001-09-11 06:13:11 Metrocall [1284073] C  ALPHA  09/11/2001  3:07:23AM No Response Alarm is ON; CB17-UPS#2 6469 Hidden Valley Rd.
+2001-09-11 06:13:14 Metrocall [1064388] B  ALPHA  0
+2001-09-11 06:13:19 Arch [1108075] C  ALPHA  MSN <alert@msn.c|Really smart phones*Assessing the Net's structural integrity*Cybercrime treaty may not cut 
+2001-09-11 06:13:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9825
+2001-09-11 06:13:26 Arch [0000101] B  ALPHA  MSN 014 hello Message from NOC PCB.
+2001-09-11 06:13:26 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178905. 
+2001-09-11 06:13:26 Arch [1244470] B  ALPHA  PAGE FROM lifeline:  alert 8931904 AMDB_CR PS1 prdsched.fw.gs.com AMDB_AM_CLRPT_PRD2_PstI1Sync job has failed 
+2001-09-11 06:13:28 Arch [1244470] B  ALPHA  PAGE FROM lifeline:  alert 8931903 AMDB_CR PS1 nyampsyb01.gsam.gs.com AMDB_AM_CLRPT_PRD2_DBsync job has failed 
+2001-09-11 06:13:31 Skytel [002473999] D  ALPHA  Access Status - Records: Not Complete Cycle: Ended 01.23 NGSS: Ended 00.13 Commitment Met   WEB: Ended 22.59 Commitment Met (1
+2001-09-11 06:13:33 Skytel [003436822] B SH/TONE 123     
+2001-09-11 06:13:35 Metrocall [1064376] C  ALPHA  .110/100      3M   3.172/162
+2001-09-11 06:13:35 Skytel [004417186] A SH/TONE 27003   
+2001-09-11 06:13:37 Skytel [002366006] B  ALPHA  alert@msn.com||President's daughter has charges dropped*Stocks struggle*Jordan all but confirms return to  
+2001-09-11 06:13:38 Skytel [007438026] C SH/TONE 3333 (5 
+2001-09-11 06:13:39 Arch [0320272] A  ALPHA  PATROLpatrol - hrnais01.NSQUEUE_PNS-NSQUEUE_PNS-NADIN ALARM/ALARM 200<=230.000000<=400.Critical
+2001-09-11 06:13:40 Skytel [005325918] D  ALPHA  09/11/01 06:08 RED TPFB PATH IPTI ISOPTIW1 CLOSED
+2001-09-11 06:13:40 Skytel [003050969] C SH/TONE         
+2001-09-11 06:13:40 Skytel [003492700] D SH/TONE 932-3516
+2001-09-11 06:13:41 Metrocall [0639948] D  ALPHA  Frm: Southwest Airlines Sub: southwest.com Weekly Internet Specials September 11, 2001 Txt: Southwest Airlines e-mail update for September 11, 2001
+2001-09-11 06:13:41 Metrocall [1933085] D  ALPHA  34: MIKE STACEY - NOT GOING TO MAKE IT IN TODAY - HAS TO GO TO DR
+2001-09-11 06:13:41 Metrocall [1698626] A  ALPHA  ALERT
+2001-09-11 06:13:42 Skytel [005256929] A  ALPHA  09/11/01 06:08 RED TPFB PATH IPTI ISOPTIW1 CLOSED
+2001-09-11 06:13:43 Metrocall [1698626] A  ALPHA  -SITE: 8324 - PORT ALLEN *   A4 LINK REF PWR * MAJ ALARM  * 22W MAJ=A34
+2001-09-11 06:13:44 Skytel [002357369] C  ALPHA  002243 CYCLIC TEST 
+2001-09-11 06:13:44 Skytel [003327216] A  ALPHA  002243 CYCLIC TEST 
+2001-09-11 06:13:44 Skytel [002381560] C  ALPHA  (ESC:COCPSS) CDCA: JOB #CMSZFW ABENDED. ABEND CODE WAS S000 
+2001-09-11 06:13:44 Skytel [002139900] D SH/TONE 002243  
+2001-09-11 06:13:44 Skytel [005328380] D SH/TONE 800-7902
+2001-09-11 06:13:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178912. 
+2001-09-11 06:13:47 Arch [1244470] B  ALPHA  PAGE FROM lifeline:  alert 8931905 AMDB_CR PS1 nyampsyb01.gsam.gs.com AMDB_AM_CLRPT_PRD2_FixUser job has failed 
+2001-09-11 06:13:48 Skytel [007035414] B SH/TONE 9444    
+2001-09-11 06:13:50 Metrocall [0752349] D  ALPHA  Frm: szmuda@email.usps.gov Sub: POSTER Missing on: ORLNFLSTAC1
+2001-09-11 06:13:50 Skytel [003420581] B SH/TONE 4051 (43
+2001-09-11 06:13:50 Skytel [005009442] A  ALPHA  NETCON01_SiteScope@nhc.adp.com|| Kaiser Aluminum (PCPW) results error, ORA-01013: user requested cancel of current operation   
+2001-09-11 06:13:50 Skytel [007555619] A  ALPHA  netrangr@hopewell.hew.us.ml.com|Alm: 5 1102:0 1|Tme: 2001/09/11 09:17:26 Src: O mlol.ml.com:0 Dst: O mlol.ml.com:0 NSX: [10008.31201.45] SID: 1102 "Impossible IP packet" Msg: " "    
+2001-09-11 06:13:52 Skytel [003846329] C  ALPHA   extend temp segment by 320 in tablespace CDW001A_IDX in cdwp .Pleae let us know
+2001-09-11 06:13:52 Skytel [003934518] B  ALPHA  netrangr@hopewell.hew.us.ml.com|Alm: 5 1102:0 1|Tme: 2001/09/11 09:17:26 Src: O mlol.ml.com:0 Dst: O mlol.ml.com:0 NSX: [10008.31201.45] SID: 1102 "Impossible IP packet" Msg: " "    
+2001-09-11 06:13:57 Skytel [004748771] A SH/TONE 3324    
+2001-09-11 06:13:57 Skytel [005436525] D  ALPHA  Test #14-IX_T0410
+2001-09-11 06:13:57 Skytel [004524770] A  ALPHA  wor-CentralNEEndodontics-Worcest: CPE Down at 01:30:09 on 9/11
+2001-09-11 06:13:57 Skytel [005112809] C  ALPHA  05:07CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240448: Uncorrectable write error
+2001-09-11 06:13:59 Skytel [005508471] B ST NUM  302-395-3483   

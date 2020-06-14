@@ -1,0 +1,53 @@
+2001-09-11 04:04:00 Metrocall [1363643] C  ALPHA  Frm: busintel@tickets.com Sub: =?iso-8859-1?Q?Load Plan Completion - Supplier_Dim?=
+2001-09-11 04:04:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1951
+2001-09-11 04:04:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1951
+2001-09-11 04:04:01 Skytel [003440396] D ST NUM  603-861-5025   
+2001-09-11 04:04:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6773
+2001-09-11 04:04:05 Skytel {1599702} 1 2400 3492 U (4..
+2001-09-11 04:04:06 Arch [0000101] B  ALPHA  MSN 079 hello Message from NOC PCB.
+2001-09-11 04:04:06 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope http://www.americanskandia.com/ns/ Production Web Sites (emt-4b) 191401 timed out reading, http://www.americanskandia.com/nsl/login_blank_nav.htm 
+2001-09-11 04:04:08 Arch [0978395] C  ALPHA  teckhard|Stage Complete Report MSJ 2pgs 1,441,999 SCM 1pg 161,498 TRN 1pg 482,182 Tom   
+2001-09-11 04:04:19 Arch [1236659] A  ALPHA  SolarWinds.Net N|209.131.212.1 up 9/11/01 03:05 
+2001-09-11 04:04:20 Metrocall [1224747] C  ALPHA  OOS RUN#A118028.UNIT9944.OOS TIME3821.OOS REASON02
+2001-09-11 04:04:23 Arch [1410805] B  ALPHA  (19)From Store Systems Data Capture: Stores With Potential Link Save Issues    Store 4933 has 22 movement files backed up.  
+2001-09-11 04:04:23 Arch [0916116] B  ALPHA  From Store Systems Data Capture: Stores With Potential Link Save Issues    Store 4933 has 22 movement files backed up.  
+2001-09-11 04:04:23 Arch [0915843] A  ALPHA  (16)From Store Systems Data Capture: Stores With Potential Link Save Issues    Store 4933 has 22 movement files backed up.  
+2001-09-11 04:04:29 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9696
+2001-09-11 04:04:29 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177514. 
+2001-09-11 04:04:31 Arch [1612111] D  ALPHA  monitor@ccbill.c|EPX PROBLEM WITH front4c.ccbill.|ALERT: No Connection to EPX port Tue Sep 11 01:02:30 MST 2001 
+2001-09-11 04:04:31 Skytel [003274507] C  ALPHA  Apollo:COLLATERALBATN2 Not Avail for scanning in the last 6 hours--Scanned by LOKI
+2001-09-11 04:04:31 Skytel [007556614] B  ALPHA  Call D4 Ops (212)449-9477 re: ibkdw-ds1-p SERIAL ID=1881292 message:/export/apps is 82% full
+2001-09-11 04:04:33 Arch [1612111] D  ALPHA  monitor@ccbill.c|SELECTCHECK PROBLEM WITH front4c|ALERT: No Connection to Selectcheck port 443 Tue Sep 11 01:02:30 MST 2001 
+2001-09-11 04:04:35 Arch [1612111] D  ALPHA  monitor@ccbill.c|SELECTCHECK PROBLEM WITH front9c|ALERT: No Connection to Selectcheck port 443 Tue Sep 11 01:02:35 MST 2001 
+2001-09-11 04:04:35 Skytel [005205422] D  ALPHA  y-weather@yahoo-inc.com||Be mobile with Compaq Baltimore, MD Sunny 63 - 82 F  WNI  
+2001-09-11 04:04:35 Skytel [005210286] D  ALPHA  julie.rodriguez@fritz.com||We have just been informed that Customs has gone manu
+2001-09-11 04:04:35 Skytel [005244073] C SH/TONE 823     
+2001-09-11 04:04:36 Arch [1612111] D  ALPHA  monitor@ccbill.c|SELECTCHECK PROBLEM WITH front7c|ALERT: No Connection to Selectcheck port 443 Tue Sep 11 01:05:00 MST 2001 
+2001-09-11 04:04:36 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope https://www.skandia.cl/CL_Transacciones Production Web Sites (emt-4b) 90352 insufficient encryption, probably needs 128 bit Internet Explorer 
+2001-09-11 04:04:36 Arch [1060702] D  ALPHA  root: Tallahassee_Liberty A58 002BD0 AL Sat Rx RSSI Low 09-11-01 08:02:51
+2001-09-11 04:04:36 Skytel [0000060] D  ALPHA  LAST PACKAGE KEYED ..... 2:59. FINAL SWEEPS THRU SPSS BY 3:05.
+2001-09-11 04:04:38 Skytel [004672718] D ST NUM  0-800-366-4123 
+2001-09-11 04:04:39 Metrocall [1421641] C  ALPHA  Job queue PRDDTA/CISJOBQ is RLS with 8 jobs waiting.
+2001-09-11 04:04:39 Metrocall [1543964] D  ALPHA  Job queue PRDDTA/CISJOBQ is RLS with 8 jobs waiting.
+2001-09-11 04:04:40 Arch [0929898] C  ALPHA  activewatch@merc|Topaz Alert: Transaction Logon_I|Profile Name: Prudential_PXB_POC Alert Name: Transaction Logon_ID_pxbknbo failed Severity: Normal Triggered by: Failed Transaction(s) User Message: Transaction Logon_ID_pxbknbo failed Additio
+2001-09-11 04:04:40 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job99604 SNYC10P00003 09/11 04:04 EVENTLOG
+2001-09-11 04:04:42 Skytel [002849642] C  ALPHA  julie.rodriguez@fritz.com|We have just been informed that Customs has gone manual as of 2:50am.  
+2001-09-11 04:04:42 Skytel [004682599] B  ALPHA  rddoyle@fedex.com| Can't call now, had a emergency landing in PHX.  Have fun....I'll miss ya....  
+2001-09-11 04:04:42 Skytel [003447784] C SH/TONE 695     
+2001-09-11 04:04:42 Skytel [002695782] B  ALPHA    SiteScope/Databases - Sacramento/Yuba - CPU Utilization Monitor/23988/no data/
+2001-09-11 04:04:42 Skytel [005254122] C  ALPHA  ecs@or2f06s80.whq.ual.com||FAILURE TESTSP2:PQFCO05B Start:09110257  
+2001-09-11 04:04:42 Skytel [005436525] D  ALPHA  Test #91
+2001-09-11 04:04:42 Skytel [004524770] A  ALPHA  wil-SymQuestgroup-SBurlingtonVT-: CPE Up at 00:58:21 on 9/11
+2001-09-11 04:04:44 Skytel [002357369] C  ALPHA  002200 CYCLIC TEST 
+2001-09-11 04:04:44 Skytel [007109749] B ST NUM  443-111-6177-5400   
+2001-09-11 04:04:44 Skytel [004535801] C SH/TONE 254     
+2001-09-11 04:04:44 Skytel [003327216] A  ALPHA  002200 CYCLIC TEST 
+2001-09-11 04:04:44 Skytel [007582590] D SH/TONE 486-1580
+2001-09-11 04:04:44 Skytel [002139900] D SH/TONE 002200  
+2001-09-11 04:04:46 Skytel [005479822] D ST NUM  67) 323-253-3968    
+2001-09-11 04:04:48 Skytel [002401821] D  ALPHA  206.122.40.74 Error occurred while processing a catalog management request to a VSAM catalog ussa11.SSMC 
+2001-09-11 04:04:50 Skytel [002279468] D ST NUM  918-435-5599   
+2001-09-11 04:04:51 Skytel [002847797] B  ALPHA  DUTYMGR> GWA: SEV1 RSCA application receiveing 404 errors after initial logon as of 01:40 MT. Support is working to resolve. - 1-866-814-2831
+2001-09-11 04:04:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1217..
+2001-09-11 04:04:53 Skytel [008507076] B  ALPHA  01117h4b1ab010800002g
+2001-09-11 04:04:53 Skytel [002400326] B  ALPHA  julie.rodriguez@fritz.com||We have just been informed that Customs has gone manual as of 2:50am.  

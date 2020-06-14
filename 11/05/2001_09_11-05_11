@@ -1,0 +1,72 @@
+2001-09-11 05:11:00 Metrocall [1585504] A  ALPHA  Frm: WhatsUp Sub: Router UUNet_Ser0/0.1_DAL UP at 04:08:36 Txt: Router UUNet_Ser0/0.1_DAL UP at 04:08:36 Address: 157.130.138.141 Info 1: Info 2: Date: 09/11/2001 Status: Active and responding ( 0) Svcs: Notes:
+2001-09-11 05:11:04 Arch [0980928] A  ALPHA  From Robin Geeding Sub:Please review the budget I sent you this morning and return deletions to me by 10:00-Thanks-Robin Msg:      
+2001-09-11 05:11:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6840
+2001-09-11 05:11:04 Arch [0978397] D  ALPHA  From Robin Geeding Sub:Please review the budget I sent you this morning and return deletions to me by 10:00-Thanks-Robin Msg:      
+2001-09-11 05:11:04 Arch [0976989] D  ALPHA  From Robin Geeding Sub:Please review the budget I sent you this morning and return deletions to me by 10:00-Thanks-Robin Msg:      
+2001-09-11 05:11:04 Arch [0968156] D  ALPHA  From Robin Geeding Sub:Please review the budget I sent you this morning and return deletions to me by 10:00-Thanks-Robin Msg:      
+2001-09-11 05:11:05 Skytel {1092655} 3 2400 002222    
+2001-09-11 05:11:12 Arch [0910057] C  ALPHA  pc999bot1: pc999bot1@PC999.hunterdonhealthcare.org 192.168.27.1 is down! -Contact HMC Immediately
+2001-09-11 05:11:14 Arch [1365811] A  ALPHA  grpMPESUPpri Remedy TT - (InPg) - 278010 MPEIX 09/11/01 04:06:00 HP1660 Job FUNCMGR, MGR.ITXXFMGR has errors
+2001-09-11 05:11:14 Arch [0634239] D  ALPHA  2430*NETLOGGER: IPRED message: Sep 11 02:04:10 oma-dmz01-in.wic.west.com %IPRED-I-STATE, Shutdwn, M->I, I/F IN, vid 7
+2001-09-11 05:11:14 Arch [0986081] A  ALPHA  2430*NETLOGGER: IPRED message: Sep 11 02:04:10 oma-dmz01-in.wic.west.com %IPRED-I-STATE, Shutdwn, M->I, I/F IN, vid 7
+2001-09-11 05:11:14 Arch [0810070] B  ALPHA  2430*NETLOGGER: IPRED message: Sep 11 02:04:10 oma-dmz01-in.wic.west.com %IPRED-I-STATE, Shutdwn, M->I, I/F IN, vid 7
+2001-09-11 05:11:14 Arch [1079409] A  ALPHA  2430*NETLOGGER: IPRED message: Sep 11 02:04:10 oma-dmz01-in.wic.west.com %IPRED-I-STATE, Shutdwn, M->I, I/F IN, vid 7
+2001-09-11 05:11:17 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178228. 
+2001-09-11 05:11:17 Arch [0944991] D  ALPHA  PAGE FROM lifeline:  alert 8931385 AMDB_FD PS1 nyfdpsyb01.gsam.gs.com AMDB_FD_PROD_PU_maint job has failed 
+2001-09-11 05:11:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9763
+2001-09-11 05:11:27 Arch [0000101] B  ALPHA  MSN 111 hello Message from NOC PCB.
+2001-09-11 05:11:30 Arch [0925366] B  ALPHA   318643;Sep 11 01:12:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 05:11:30 Metrocall [1544818] A  ALPHA  ALA-NS1:Device Inaccessible
+2001-09-11 05:11:30 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router Aevia-I-GW at 02:08:33 Txt: Router Aevia-I-GW UP at 02:08:33 Address: 166.90.48.82 Date: 09/11/2001 Status: Active 
+2001-09-11 05:11:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3411
+2001-09-11 05:11:31 Metrocall [1080319] D  ALPHA  and responding ( 0)
+2001-09-11 05:11:33 Skytel [003944209] A ST NUM  306-674-4605   
+2001-09-11 05:11:35 Skytel [007588514] A SH/TONE 3000    
+2001-09-11 05:11:35 Skytel [004024864] A  ALPHA  wingmon@firstusa.com||SiteScope nepxy101 cpu nepxy101 36168 no data    ********************************************************************** This transmission may contain information that is privileged, confidential and/or exempt from disc
+2001-09-11 05:11:35 Skytel [002376872] C  ALPHA  nms@svcanms.conxion.com|Sep11-02:11|server:db-sf-1:uptime Error retrieving uptime.  Possibly down  
+2001-09-11 05:11:35 Skytel [002279468] D ST NUM  918-435-5599   
+2001-09-11 05:11:38 Skytel [003929284] B SH/TONE 213     
+2001-09-11 05:11:38 Skytel [007098317] D  ALPHA  sitescope@mubu.com|SiteScope Alert, error, ns3a, unable to connect to server (10.10.10.200)|This alert is from SiteScope at http://10.10.10.200:8888/SiteScope  Monitor:  DNS:ns3a Group:    DNS Status:   unable to connect to server Sample #:
+2001-09-11 05:11:38 Skytel [007604044] D ST NUM  315-785-8260   
+2001-09-11 05:11:39 Metrocall [1261323] C  ALPHA  Frm: fusasitescope@wingspan.com Txt: elgweb8 login content match error on step 2, http://192.168.67.168:7001/cmsonline/main/cmslogin.jsp
+2001-09-11 05:11:39 Metrocall [1261323] C  ALPHA  Frm: wingmon@firstusa.com Txt: SiteScope nepxy101 cpu nepxy101 36168 no data
+2001-09-11 05:11:39 Metrocall [002178488] C  ALPHA  EMAIL weather@inbox.weather.com Charley, here is your weather forecast for Magnolia, MS <HTML> <HEAD> .<TITLE>Weather Inbox</TITLE>         <base HREF="http://www.weather.com/"> </HEAD> <body bgcolor="#FFFFFF" text="#000000" leftmargin=
+2001-09-11 05:11:40 Skytel [003926107] C  ALPHA  inboxweather@talk2.weather.com|Bryan, here is your weather forecast for Chicago, IL|Bryan's Weather for 9/11/2001  Know your racing?  Know your weather.  Before the flag drops, visit weather.com/events for the latest race-day weather condit
+2001-09-11 05:11:42 Skytel [005203941] B  ALPHA  4966*Host health.cch.com UP at 04:12:31  
+2001-09-11 05:11:42 Skytel [004687214] D  ALPHA  09/11/01-03:08:33 - Interface_Down den3640.emg-tv.com DEN-NYC-PRI.FR Hs1/0.39 Warning
+2001-09-11 05:11:42 Skytel [003664239] D  ALPHA  Oracle Buys Private Web-Based Communications Co. 3Cube[DJ NEWS]
+2001-09-11 05:11:44 Skytel [002695792] A  ALPHA  root@mbusa.com|mbusaholn1 is Down| Tue Sep 11 05:11:55 EDT 2001  mbusaholn1   
+2001-09-11 05:11:45 Arch [0634239] D  ALPHA  9253*2H252_25R 10.100.1.231 has lost connectivity
+2001-09-11 05:11:45 Arch [0986081] A  ALPHA  9253*2H252_25R 10.100.1.231 has lost connectivity
+2001-09-11 05:11:45 Arch [0810070] B  ALPHA  9253*2H252_25R 10.100.1.231 has lost connectivity
+2001-09-11 05:11:45 Arch [0921031] B  ALPHA  Rick,  Good Morning!  Backup 0544 Failed at 04:51.  Please call.  Thanks!  Tammy  569-6384.
+2001-09-11 05:11:45 Arch [1079409] A  ALPHA  9253*2H252_25R 10.100.1.231 has lost connectivity
+2001-09-11 05:11:47 Arch [0634239] D  ALPHA  1477*2H252_25R 10.100.0.231 has lost connectivity
+2001-09-11 05:11:47 Arch [0986081] A  ALPHA  1477*2..5..2..............1..as lost connectivity
+2001-09-11 05:11:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <
+2001-09-11 05:11:47 Arch [0810070] B  ALPHA  1477*2H252_25R 10.100.0.231 has lost connectivity
+2001-09-11 05:11:47 Arch [1079409] A  ALPHA  1477*2H252_2..............1..!..,..t connectivity
+2001-09-11 05:11:48 Metrocall [1064375] B  ALPHA  /FTSE  5127.50  +093 NIKK  10292.95  +097 DAX    4763.58  +093 CAC40  4461.08  +077 MIB30  31872   +0308 HSI  10417.36  +0051 30 _99.02/03  5.438% GOLD271.30/180  -020 S 4.17/19  PL 440.00 PD 450.00/0.00  +000 JG 1.420%
+2001-09-11 05:11:48 Metrocall [0133907] A  ALPHA  (0091100
+2001-09-11 05:11:48 Metrocall [1064378] C  ALPHA  FRENCH FABIUS HOPES FOR FRENCH GROWTH PICKUP IN LATTER PART OF YEAR
+2001-09-11 05:11:48 Metrocall [1064395] C  ALPHA  )?#`BAGHI@b@DRMRbsh\aAF`piMVf`dSzDVf`cSzRBMRbsh\aAGiSz}RP`hRX\nkPPRYrBYAjUHmIAP`tjbB_FPVXlFd`@RA@uwt`L
+2001-09-11 05:11:48 Skytel [003452432] A SH/TONE 3135    
+2001-09-11 05:11:48 Skytel [002401821] D  ALPHA  206.122.40.74  PLAGR.JOBSP.CVIEW DATA BASE IS AT 98% UTILIZATION ussa11.SSMC 
+2001-09-11 05:11:48 Skytel [003279361] A  ALPHA  8) PACE#4219369-3 alert stage 1-09/11/01 03:54EST MZ-KP1A Contact:ANTHONY RILEY @ 8-386-5212 Summary:Within ERP: Item:5.MFP.135, Quantity 531 & Item: 4.SEE-GENFIDB.115, 
+2001-09-11 05:11:49 Arch [0634239] D  ALPHA  5481*2H252_25R 10.100.1.232 has lost connectivity
+2001-09-11 05:11:49 Arch [1425048] C  ALPHA  SOCK_192.168.35.19> chunk 178235. 
+2001-09-11 05:11:49 Arch [0986081] A  ALPHA  7630*NETLOGGER: IPRED message: Sep 11 02:04:57 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:11:49 Arch [0810070] B  ALPHA  7630*NETLOGGER: IPRED message: Sep 11 02:04:57 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:11:50 Metrocall [0133907] A  ALPHA  21)20009110021,   A & P #0257 benny.hodge 631-324-6215 No ETA 2210-14T BOOKKEEPERS OFFICE HARDWARE check the 2210 config change the wan 2 cable (call Network) ( unable to telnet thru wan 2) 2210 WAN 2 CABLE
+2001-09-11 05:11:50 Metrocall [1064385] A  ALPHA  JY  8215/8283  -060 EC  8963/8943 -
+2001-09-11 05:11:50 Metrocall [0643797] B  ALPHA  Frm: siteseer@freshtech.com Sub: SiteScope Alert, error, AccountAccess, 1 out of 1 errors, unable to connect to server from all locations (siteseer5.freshwater.com) Txt: This alert is from SiteScope at http://siteseer5.freshwater.com
+2001-09-11 05:11:50 Skytel [005105954] A ST NUM  534-343-4343-434343187   
+2001-09-11 05:11:51 Arch [0910057] C  ALPHA  pc999bot1: pc999bot1@PC999.hunterdonhealthcare.org 192.168.27.1 is down! -Contact HMC Immediately
+2001-09-11 05:11:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1284..
+2001-09-11 05:11:52 Metrocall [1064385] A  ALPHA  0036 BP 14538/14484 -048 SF  5919/5923  -013 CD  6400/6396  +002 AD  5140/5123  +002 DM  4602/4591  -026 FES 9697/735/742/32 FDX 4770/4815  +083 PTB 8962/8880  -016 FGBS10357 FYB 13897 BDL 10807/10800-018 BDM 10716-012
+2001-09-11 05:11:52 Skytel [007588530] A SH/TONE 3391    
+2001-09-11 05:11:57 Skytel [005436525] D  ALPHA  Test Message #37-IX_T0512
+2001-09-11 05:11:57 Skytel [004524770] A  ALPHA  spr-AppliedPC-SpringfieldMA-01: CPE Up at 00:58:03 on 9/11
+2001-09-11 05:11:57 Skytel [003599337] C  ALPHA  Oracle Buys Private Web-Based Communications Co. 3Cube[DJ NEWS] (52
+2001-09-11 05:11:57 Skytel [002355687] B  ALPHA  noreply@ccomad3.uu.commissioner.com|NFL.com E-Reports for VA DOC 9/11/01|NFL League Manager 2001  Visa has teamed up with NFL players Brett Favre, Emmitt Smith, and Jerome Bettis to give you a chance to win all your Visa purchases! Find out
+2001-09-11 05:11:59 Skytel [007109749] B ST NUM  873-353-6677-1773   

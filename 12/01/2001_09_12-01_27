@@ -1,0 +1,91 @@
+2001-09-12 01:27:00 Skytel [007527412] B  ALPHA  "Interprod5 c$".The device \\interprod5\c$ (Type: Disk Space) is DOWN since Wed Sep 12 01:26:42 2001
+2001-09-12 01:27:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8056
+2001-09-12 01:27:01 Arch [0959910] B  ALPHA  5 hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:27:01 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-12 01:27:01 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191950. 
+2001-09-12 01:27:02 Metrocall [1423146] C  ALPHA  12|Process=ctmonitor Owner=foursrvr Needs=1-ge Has=0
+2001-09-12 01:27:02 Skytel [005307532] D ST NUM  723-247-0521   
+2001-09-12 01:27:03 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-12 01:27:04 Metrocall [1423146] C  ALPHA  F:root@swebap1. S:swebap1|09112246|ap0205|Process Errors M:swebap1|09112246|ap0205|Process=crserv -section=crserv Owner=thresrvr Needs=1-eq Has=0
+2001-09-12 01:27:04 Metrocall [1423146] C  ALPHA  F:root@swebap1. S:swebap1|09112246|ap0204|Process Errors M:swebap1|09112246|ap0204|Process=ctdi
+2001-09-12 01:27:05 Skytel [004516266] C  ALPHA  1/02:From:Sara_L_Rossberg Andy & Diane - We are pretty quiet at this time. Mike Berg is currently on a bridge regarding Wally issue for OST/CYA/SSD. Emergency changes are currently taking place. 
+2001-09-12 01:27:05 Skytel [002867623] B ST NUM  34949 (76 
+2001-09-12 01:27:05 Skytel [002779950] D ST NUM  607-429-6818   
+2001-09-12 01:27:06 Metrocall [1423146] C  ALPHA  sp -section=ctdisp Owner=foursrvr Needs=20-ge Has=0
+2001-09-12 01:27:07 Arch [1227827] A  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:27:07 Skytel [005200944] A SH/TONE 4       
+2001-09-12 01:27:10 Metrocall [1707375] D  ALPHA  Frm: 'aolnews@aol.com Sub: press digest - lebanon - sept 12 Txt: PRESS DIGEST - Lebanon - Sept 12 BEIRUT, Sept 12
+2001-09-12 01:27:11 Skytel [005041240] C SH/TONE 7415    
+2001-09-12 01:27:13 Skytel [005327203] A SH/TONE 222911  
+2001-09-12 01:27:13 Skytel [007656555] C SH/TONE 257-1441
+2001-09-12 01:27:13 Skytel [004185199] D ST NUM  9005760841
+2001-09-12 01:27:17 Skytel [005225860] B SH/TONE 125     
+2001-09-12 01:27:17 Skytel [004716300] D ST NUM  0-415-810-9580 
+2001-09-12 01:27:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0979
+2001-09-12 01:27:22 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-12 01:27:23 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-12 01:27:24 Skytel [005114828] D ST NUM  043-870-6143   
+2001-09-12 01:27:25 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-12 01:27:25 Arch [0931223] B  ALPHA  Jenny Wang|Case in WW-WAN-SW(strm) | P3 B828863 Comm Break with TRUNK alarm (WAN Switching (IGX/BPX/MGX)::IGX/BPX/MGX - Trunks #CC9EE1F2) from Tue Sep 11 22:26:54 2001|167  
+2001-09-12 01:27:29 Arch [1618070] B  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:27:29 Arch [0981201] A  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:27:29 Arch [0930870] B  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:27:29 Arch [0979240] C  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:27:29 Arch [0329167] D  ALPHA  From root at 01:28 AM EDT: "f3n1-en1 - 01000006 1 insert clntday failed: <-802>" [CC:db2group] 
+2001-09-12 01:27:29 Arch [0284292] B  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:27:30 Metrocall [1923558] B  ALPHA  Frm: SMTPPAGE@gulfaero.com Sub: SILO Txt: SUBPOOL STANDARD, 79 SCRATCH VOLUMES REMAINING 09/12/01 01:27:04
+2001-09-12 01:27:30 Metrocall [1284073] C  ALPHA  09-11-01 22:27:00 Spot not playing
+2001-09-12 01:27:30 Metrocall [1284194] A  ALPHA  09-11-01 22:27:00 Spot not playing
+2001-09-12 01:27:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST
+2001-09-12 01:27:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3235
+2001-09-12 01:27:30 Skytel [004215154] A  ALPHA  2300 (84
+2001-09-12 01:27:31 Arch [0329167] D  ALPHA  From root at 01:28 AM EDT: "f3n1-en1 - 01000024 1 ClntDay() Function failed -" [CC:db2group] 
+2001-09-12 01:27:32 Metrocall [0476499] A  ALPHA   PERIODIC PAGE SEQUENTIAL NUMBER  3235
+2001-09-12 01:27:33 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 12.83 23.16 17.85 Tue Sep 11 22:28:00 MST 2001 
+2001-09-12 01:27:33 Skytel [004592924] D ST NUM  1003869844
+2001-09-12 01:27:35 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 21.85 20.36 16.53 Tue Sep 11 22:28:00 MST 2001 
+2001-09-12 01:27:35 Skytel [005328293] B ST NUM  08007243624    
+2001-09-12 01:27:37 Skytel [003519923] A SH/TONE 685-1244
+2001-09-12 01:27:40 Arch [0987275] C  ALPHA  s0191: 09/11 15:41:26 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:41:26
+2001-09-12 01:27:40 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191957. 
+2001-09-12 01:27:40 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE:dbcc error - SERVER=PDSSPX_EQNY1:DATABASE=CERD_CORPORATE @01:27 09/12/01 
+2001-09-12 01:27:41 Skytel [005080664] C  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:27:42 Arch [0987275] C  ALPHA  s0191: 09/11 15:47:33 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:47:34
+2001-09-12 01:27:42 Arch [0917716] B  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:27:42 Arch [1044858] C  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:27:42 Arch [0294758] B  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:27:42 Arch [0903077] B  ALPHA  (**)hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:27:42 Arch [0029240] C  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:27:42 Arch [0967286] B  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:27:42 Arch [0945458] A  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:27:42 Arch [0935373] D  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - 
+2001-09-12 01:27:43 Skytel [002695782] B  ALPHA    SiteScope/Databases - Sacramento/Colusa - CPU Monitor/67610/no data/
+2001-09-12 01:27:43 Skytel [003857131] C ST NUM  900-227-3030   
+2001-09-12 01:27:44 Arch [0987275] C  ALPHA  s0191: 09/11 15:50:15 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:50:16
+2001-09-12 01:27:44 Arch [0926807] B  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:27:44 Arch [0966655] D  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:27      
+2001-09-12 01:27:44 Arch [0209124] B  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:27:44 Arch [1438901] B  ALPHA  OCC <netcool@oh1|Node oh02m13mux05.net.reyrey.com has problem; Mux DOWN Event Has Occurred : CARD A REPORTING: Channel # 0
+2001-09-12 01:27:45 Arch [0935373] D  ALPHA  No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:27:45 Arch [1660247] B  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:27      
+2001-09-12 01:27:45 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-12 01:27:47 Skytel [005006724] B ST NUM  900-838-2715   
+2001-09-12 01:27:48 Skytel [002398487] B ST NUM  5) 800-434-5767 U   
+2001-09-12 01:27:48 Skytel [004085140] B ST NUM  455-5555-55    
+2001-09-12 01:27:48 Skytel [007512989] D SH/TONE 729-9406
+2001-09-12 01:27:50 Skytel [005001895] B  ALPHA  [sps/52] 104 supplier.intel.com relay-ssl 0.0 FAILURE Server closedconnection immediately. (/infoweb/healthcheck.asp) 2:51:57
+2001-09-12 01:27:50 Skytel [005000868] B SH/TONE 0500    
+2001-09-12 01:27:52 Arch [0987275] C  ALPHA  sb3: INFO0002 - Trade Count Mismatch Ora=825 Rec=0 (160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:52
+2001-09-12 01:27:52 Arch [1438901] B  ALPHA  :With Status 0 - 1 - 4 - 0 Severity 5 Sent by OCC 
+2001-09-12 01:27:52 Skytel [007518523] C  ALPHA  DummiesDaily |Internet: eBay Shopping|<html> <head> <title>DummiesDaily eTips</title> </head> <body 
+2001-09-12 01:27:52 Skytel [003952825] C SH/TONE 357-1137
+2001-09-12 01:27:53 Arch [1438901] B  ALPHA  OCC <netcool@oh1|Node oh02m13mux05.net.reyrey.com has problem; Mux DOWN Event Has Occurred : ON-LINE CARD: Channel # 0:With Status 0 - 1 - 4 - 0 Severity 5 Sent by OCC 
+2001-09-12 01:27:54 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:27:56 Skytel [005338196] B SH/TONE 442-8999
+2001-09-12 01:27:56 Skytel [005390424] C  ALPHA  3284 TELECOMET INC       
+2001-09-12 01:27:56 Skytel [007003347] A  ALPHA  272-3444 U [4668.CHUNG THERESA       
+2001-09-12 01:27:58 Skytel [005436525] D  ALPHA  Test Lotus Notes #85-IX_T1707
+2001-09-12 01:27:59 Arch [0980928] A  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:27      
+2001-09-12 01:27:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8057
+2001-09-12 01:27:59 Arch [1438901] B  ALPHA  OCC <netcool@oh1|Node oh02m13mux05.net.reyrey.com has problem; Mux DOWN Event Has Occurred : MINOR ALARM: Channel # 0:With Status 0 - 1 - 4 - 0 Severity 5 Sent by OCC 
+2001-09-12 01:27:59 Arch [0970437] B  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:27      

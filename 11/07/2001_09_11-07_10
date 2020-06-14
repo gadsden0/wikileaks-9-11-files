@@ -1,0 +1,94 @@
+2001-09-11 07:10:01 Skytel [005491981] D SH/TONE 75076   
+2001-09-11 07:10:02 Arch [1421930] C  ALPHA  SD820270/06:00/SRC:TO/IMP:View2000 Equity Attrib page/STATUS:Some views on the Equity Attrib. page is showing no data, SI and FINS are addr./NOSI=?/RC: Being Investigated/NO ETA
+2001-09-11 07:10:02 Arch [0967806] D  ALPHA  lmbhux03 - Ping ERROR - 90.103.92.10_WIRLMBBDC01:Access Sellin
+2001-09-11 07:10:02 Arch [1269410] A  ALPHA  SD820270/06:00/SRC:TO/IMP:View2000 Equity Attrib page/STATUS:Some views on the Equity Attrib. page is showing no data, SI and FINS are addr./NOSI=?/RC: Being Investigated/NO ETA
+2001-09-11 07:10:02 Arch [1081567] D  ALPHA  Holly SmithN1-1 07:00 CMG - Files unavailable for GPrime rgns 
+2001-09-11 07:10:02 Arch [0973716] B  ALPHA  SD820270/06:00/SRC:TO/IMP:View2000 Equity Attrib page/STATUS:Some views on the Equity Attrib. page is showing no data, SI and FINS are addr./NOSI=?/RC: Being Investigated/NO ETA
+2001-09-11 07:10:02 Arch [1642388] B  ALPHA  WARNING AUTO MARK 8347-US WAITING FOR MARKS FILE FROM COUNTERPARTY 8347-US
+2001-09-11 07:10:02 Arch [0392267] C  ALPHA  ALERT-SITE: 2840 - ATOC * 4D4 TITAN MAJ        * MAJ ALARM  * L
+2001-09-11 07:10:02 Arch [0080523] C  ALPHA  0046631529   06/095 SUTTIN, ADAM        47 PALMER RD         WABA
+2001-09-11 07:10:03 Arch [0967806] D  ALPHA  g [The Berry Company]
+2001-09-11 07:10:03 Arch [0212657] A  ALPHA  ATA ON 1730 WAS 0551L ATA ON 1482 WAS 0606L -04. SEP11/7:04
+2001-09-11 07:10:03 Arch [1081567] D  ALPHA  CIMATPFR, CIMATPRB, D, E, & G due to prod job abend. PCS has contacted Appl Supt.
+2001-09-11 07:10:03 Arch [0951146] C  ALPHA  56730 TIME 23:01 ACTIVE-ECP3 CELL 106 (BCKE) CINGULAR TOWER BEACON LIGHT FAILURE
+2001-09-11 07:10:03 Arch [0939764] B  ALPHA  lmbhux03 - Ping ERROR - 90.103.92.10_WIRLMBBDC01:Access Selling [The Berry Company]
+2001-09-11 07:10:03 Arch [0080523] C  ALPHA  N MA 02468     (617)332-8416       TIC 1632531081 OOP  09/12  3@156 3@956 PLS DEL 3-156 PER MR. SUTTIN. -
+2001-09-11 07:10:03 Arch [0315286] B  ALPHA  ATA ON 1730 WAS 0551L ATA ON 1482 WAS 0606L -04. SEP11/7:04
+2001-09-11 07:10:03 Skytel [003414162] A SH/TONE 599-8480
+2001-09-11 07:10:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6959
+2001-09-11 07:10:05 Arch [0979086] D  ALPHA  Y! <y-weather@ya|iPAQ Pocket PC Now from $499 Louisville, KY Sunny 55 - 86 F WNI 
+2001-09-11 07:10:05 Skytel [005256100] B SH/TONE 911-7065
+2001-09-11 07:10:05 Skytel [007468077] D SH/TONE 911     
+2001-09-11 07:10:05 Skytel {0470360} 1 2400 Oracle Buys Private Web-Based Communications Company 3Cube[DJ NEWS] (13
+2001-09-11 07:10:08 Metrocall {1211573} 2 2400 77257958...
+2001-09-11 07:10:11 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2137
+2001-09-11 07:10:11 Metrocall [1261962] C  ALPHA  (GPD DISPATCH) 10-15 WITH S33 FEMALE FROM DETECTIVES.
+2001-09-11 07:10:11 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2137
+2001-09-11 07:10:11 Metrocall [1411737] C  ALPHA  AV9204.070645,STOP AND SHOP # 548,COMPUTER ROOM.3,C0.,/TAPE FAILURE,.,(631)589-9677.,S24,COD=N.7025,1027127,09/11/01,2.191
+2001-09-11 07:10:13 Metrocall [1411737] C  ALPHA   MONTAUK HWY,.SAYVILLE,NY,117822512
+2001-09-11 07:10:15 Arch [0944834] A  ALPHA  955-6510
+2001-09-11 07:10:17 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179541. 
+2001-09-11 07:10:17 Arch [0911134] D  ALPHA   comsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSHH_EQNY1) PDSHH_EQNY1 - HEDGEHOG_HIST: DATA -->> ALLOCATED = 400 MB, USED = 361 MB, FREE = 39 MB, PERCENT_USED = 90% @07:10 09/11/01 
+2001-09-11 07:10:18 Arch [0930546] A  ALPHA  Alarm: 03:51:18AM  Boiler Network connect   Site 4 Bldg 7 Hot water supply temp is out of range.
+2001-09-11 07:10:22 Arch [1006041] C  ALPHA  Holly SmithN1-1 07:00 CMG - Files unavailable for GPrime rgns CIMATPFR, CIMATPRB, D, E, & G due to prod job abend. PCS has contacted Appl Supt.
+2001-09-11 07:10:22 Arch [1666883] A  ALPHA  Holly SmithN1-1 07:00 CMG - Files unavailable for GPrime rgns CIMATPFR, CIMATPRB, D, E, & G due to prod job abend. PCS has contacted Appl Supt.
+2001-09-11 07:10:22 Arch [0976352] A  ALPHA  (23)rbmiddl 73073d-DCM-  Install of 7 PTF's to production for mainview components completed at 05:48. No current issues.  Sent at 06:10      
+2001-09-11 07:10:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9882
+2001-09-11 07:10:26 Arch [0000101] B  ALPHA  MSN 041 hello Message from NOC PCB.
+2001-09-11 07:10:28 Arch [0936154] C  ALPHA  JHFPROD03 <JHFPR|IMWB Batch Monitoring|Following Job(s) Failed in Batch 9: IDCSEC
+2001-09-11 07:10:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3530
+2001-09-11 07:10:31 Skytel [007522947] A  ALPHA  reminders@yahoo-inc.com|Take Medicine, 9/11/2001, 7:30 am| 
+2001-09-11 07:10:31 Skytel [004690184] C SH/TONE 1893    
+2001-09-11 07:10:33 Skytel [003917339] C SH/TONE 3) 4352 
+2001-09-11 07:10:33 Skytel [005343896] C SH/TONE 1 (47   
+2001-09-11 07:10:33 Skytel [003905944] C  ALPHA  ARDM 4.00 -0.02
+2001-09-11 07:10:33 Skytel [004751516] D ST NUM  854-424-5922   
+2001-09-11 07:10:35 Arch [0938960] A  ALPHA  32-CALL PATH, REF: SAFETY SEMINAR AND ESU TABLE.
+2001-09-11 07:10:35 Metrocall [0903626] C  ALPHA  T DIAGNOSTICS 6511 GOLDEN GATE DR QUEST DIAG.      CA 94568 D/L:SOUTHWEST FLT 1494 DEPT 0630 OAKLAND Wt:    0 Caller: SCHED JCode: PRESCH 467 Ref: BURBANK BOX
+2001-09-11 07:10:35 Metrocall [1064384] A  ALPHA  Y/C  72.15/25   +43 SGD 1.7551/558 +048 HKD 7.7995/003 -003 TWD 34650/4750 +050  ID
+2001-09-11 07:10:35 Metrocall [1160328] C  ALPHA  chnical support connectivty was restored for all ST LOUIS branches.....
+2001-09-11 07:10:35 Skytel [002405037] D  ALPHA  siebsup@us.conxion.com|New SR from Web|A New SR has just been received from the web.  SR#: 1-1295601 Account: CXN-Internal Abstract: E-mail sent about one of versatels devices Contact: Internal, Internal  Contact customer and confirm receip
+2001-09-11 07:10:37 Metrocall [1064384] A  ALPHA  R  9085/9095 +025 PHP 51.200/400 +100 PLN 4.2170/200 +092 THB 44.750/790 +140 KRW12900/13000 +100 ZAR 8.5353/433 +242 MXN  9.380/390 -014 BRR 25950/5960 +700
+2001-09-11 07:10:37 Skytel [005041726] D  ALPHA  Pm- Bdl/Mem f1235 +05 "o6"- lte ctv's x eht, Jfk/Ind f1612 +14- crew legality, Ewr/Mem f1202 dwn w/mx- f1314 +64,f1262 +54 held for regauge, f1202 rerouted to ind +321 due mx(f1314/1262 mem sort drivers). Am- Mem/Bdl f1435 +21,Bos f1406 +20
+2001-09-11 07:10:37 Skytel [005058234] C  ALPHA  CASSPROD Informix Database is down on call react immediately
+2001-09-11 07:10:37 Skytel [005228862] D SH/TONE 2002    
+2001-09-11 07:10:38 Skytel [002824527] D  ALPHA  AGTTEAST@emc.fedex.com|recap 9/11|Pm- Bdl/Mem f1235 +05 "o6"- lte ctv's x eht, Jfk/Ind f1612 +14- crew legality, Ewr/Mem f1202 dwn w/mx- f1314 +64,f1262 +54 held for regauge, f1202 rerouted to ind +321 due mx(f1314/1262 mem sort drivers). A
+2001-09-11 07:10:38 Skytel [002810191] D  ALPHA  Steve Cohen Case#2656252 -TSC
+2001-09-11 07:10:38 Skytel [004450123] C SH/TONE 290     
+2001-09-11 07:10:38 Skytel [002279627] C ST NUM  0-800-551-8088-1254 
+2001-09-11 07:10:38 Skytel [005098570] C SH/TONE 1       
+2001-09-11 07:10:40 Skytel [005416024] C  ALPHA  work comp mtg moved to 9:30 a.m. today FROM: sue engle (x19214)  (29
+2001-09-11 07:10:40 Skytel [003266515] A  ALPHA  MSFT 57.58 +2.18 IBM 96.47 -0.12 AAPL 17.37 +0.09
+2001-09-11 07:10:40 Skytel [004683729] A  ALPHA  VAR 65.20 +0.70
+2001-09-11 07:10:42 Skytel [002779744] A SH/TONE 250-7055
+2001-09-11 07:10:42 Skytel [004415716] B ST NUM  956-261-0114   
+2001-09-11 07:10:43 Arch [1131404] D  ALPHA  ATA ON 1730 WAS 0551L ATA ON 1482 WAS 0606L -04. SEP11/7:04
+2001-09-11 07:10:43 Arch [1622852] B  ALPHA  Holly SmithN1-1 07:00 CMG - Files unavailable for GPrime rgns CIMATPFR, CIMATPRB, D, E, & G due to prod job abend. PCS has contacted Appl Supt.
+2001-09-11 07:10:43 Arch [0917035] C  ALPHA  Holly SmithN1-1 07:00 CMG - Files unavailable for GPrime rgns CIMATPFR, CIMATPRB, D, E, & G due to prod job abend. PCS has contacted Appl Supt.
+2001-09-11 07:10:43 Arch [1009124] B  ALPHA  Holly SmithN1-1 07:00 CMG - Files unavailable for GPrime rgns CIMATPFR, CIMATPRB, D, E, & G due to prod job abend. PCS has contacted Appl Supt.
+2001-09-11 07:10:43 Metrocall [1844883] A  ALPHA  @
+2001-09-11 07:10:43 Metrocall [1064378] C  ALPHA  DOLLAR EXTENDS GAINS ABOVE 122 YEN
+2001-09-11 07:10:43 Metrocall [1064395] C  ALPHA  )?#`B@jHH}~@BNIOfSHMIAElUHlzISPQxLf]SP........................C
+2001-09-11 07:10:44 Skytel [003327216] A  ALPHA  002262 CYCLIC TEST 
+2001-09-11 07:10:44 Skytel [007109749] B ST NUM  701-1340-0
+2001-09-11 07:10:44 Skytel [002357369] C  ALPHA  002262 CYCLIC TEST 
+2001-09-11 07:10:44 Skytel [002139900] D SH/TONE 002262  
+2001-09-11 07:10:46 Skytel [005191053] D  ALPHA  MSFT 57.07 +1.67
+2001-09-11 07:10:46 Skytel [007542662] B ST NUM  690-111-1111   
+2001-09-11 07:10:46 Skytel [007437433] C  ALPHA   Still need the new meeting schedule. Check my calendar anddeliver hard copies t o wherever I am - Raj From: Raj Nair(313-3232945) (7
+2001-09-11 07:10:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 04:09:03 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 07:10:46 Skytel [005523962] C ST NUM  819-549-4092   
+2001-09-11 07:10:48 Arch [1612111] D  ALPHA  monitor@ccbill.c|EPX PROBLEM WITH front8c.ccbill.|ALERT: No Connection to EPX port Tue Sep 11 04:08:46 MST 2001 
+2001-09-11 07:10:48 Arch [1018152] C  ALPHA  (26)oraprod@mail.spr|File system /u21 on dapmdp01 exceeded 80% - Please investigate! 
+2001-09-11 07:10:48 Skytel [007649299] A SH/TONE 232     
+2001-09-11 07:10:48 Skytel [002847128] C  ALPHA  Oracle Buys Private Web-Based Communications Company 3Cube[DJ NEWS] (14
+2001-09-11 07:10:48 Skytel [007575575] B  ALPHA  lostux@limbstx1.att.com|0 ODMANAGER DAEMONS ARE UP|ODMANAGER DAEMON ALERT, PLEASE CHECK  
+2001-09-11 07:10:50 Arch [1612111] D  ALPHA  monitor@ccbill.c|SELECTCHECK PROBLEM WITH front11|ALERT: No Connection to Selectcheck port 443 Tue Sep 11 04:08:46 MST 2001 
+2001-09-11 07:10:50 Skytel [005009442] A  ALPHA  NETCON01_SiteScope@nhc.adp.com|| KB Home  KBHP results error, ORA-01013: user requested cancel of current operation   
+2001-09-11 07:10:50 Skytel [004390436] B SH/TONE 17593   
+2001-09-11 07:10:50 Skytel [005137197] D ST NUM  670-471-4050   
+2001-09-11 07:10:50 Skytel [005259174] B ST NUM  004-3010-2
+2001-09-11 07:10:52 Skytel [005243194] C ST NUM  310-695-4443   
+2001-09-11 07:10:55 Skytel [002818396] D SH/TONE 4000 (7 
+2001-09-11 07:10:57 Skytel [005436525] D  ALPHA  nMCI Test #39
+2001-09-11 07:10:57 Skytel [003948907] C  ALPHA  WUG@SP.COM||IW-Pomona-RTR DOWN at 07:10:52 Addr: 207.178.207.241   Date: 09/11/2001 Timed Out Svcs:  Notes:   

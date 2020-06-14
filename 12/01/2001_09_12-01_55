@@ -1,0 +1,69 @@
+2001-09-12 01:55:00 Metrocall [1362298] C  ALPHA  Frm: Optivity@harbortech.com Sub: Operator Attention Txt: Operator Attention is needed. (Server: "OPTIVITY-NJ" Job: "SNMPc & HPOV:Diff" Device: "HP 1") Please insert overwritable media into the drive.
+2001-09-12 01:55:00 Metrocall [0007837] D  ALPHA  Frm: redalert@redalert.com Sub: Txt: RED ALERT! http://lorax.vcampus.com/redalert/index.cfm Err#3: No data sent within 30 secs 23:55 GMT-0600 support@redalert.com +1-972-509-5479
+2001-09-12 01:55:00 Skytel [007527412] B  ALPHA  "Interprod5 c$".The device \\interprod5\c$ (Type: Disk Space) is DOWN since Wed Sep 12 01:56:42 2001
+2001-09-12 01:55:00 Skytel [007608825] C  ALPHA  Robert_Seaton@capgroup.com|E-Mail| 
+2001-09-12 01:55:01 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-12 01:55:01 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192272. 
+2001-09-12 01:55:02 Skytel [003516678] B ST NUM  860-046-8911   
+2001-09-12 01:55:03 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-12 01:55:05 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-12 01:55:05 Skytel [007459874] A ST NUM  08007243624    
+2001-09-12 01:55:05 Skytel [003269678] D  ALPHA  Batch job still executing MPE #J2770 Job name: TURBOFSB System: Host
+2001-09-12 01:55:06 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-12 01:55:09 Skytel [007009733] B  ALPHA  TourLA@aol.com|wednesday|I hope that you, or Noah, or Suzi has the consideration to tell me where yo
+2001-09-12 01:55:09 Skytel [002153679] D SH/TONE 4048    
+2001-09-12 01:55:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4654
+2001-09-12 01:55:11 Skytel [004547038] D SH/TONE 800-7473
+2001-09-12 01:55:13 Skytel [005342952] C SH/TONE 6400    
+2001-09-12 01:55:17 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 22:53:16 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 01:55:17 Skytel [007617548] D  ALPHA  MSN ||Hotmail Erika Litvin:re: Gosh, maybe this one worked?  
+2001-09-12 01:55:17 Skytel [003261425] A  ALPHA  (1 of 2) Please watch the mailbags coming down to the exception slide.  Use the 
+2001-09-12 01:55:20 Skytel {0005398} 1 1200 (1 OF 6): FROM: Curt Powers,+1(425)704-4635SUB: RE: Premier UAT site appears down, cannot wait until WednesdayMSG: As I said, I cannot say cause and effect, but something died   -----Original Message----- From: Byron Prather.
+2001-09-12 01:55:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1007
+2001-09-12 01:55:21 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 01:55:21 Arch [0739731] A  ALPHA  7200
+2001-09-12 01:55:23 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-12 01:55:23 Arch [1272423] B  ALPHA  (25)bb:1: [5975010] red Tue Sep 11 22:55:15 PDT 2001 - Disk onssc-sac-p1,corp,sprint,com at PANIC level &red /var (95%) hasreached the defined disk space PANIC level (95%)/dev/vx/dsk/p1_unix/p1sybase 2879972 895227 1696748 35%
+2001-09-12 01:55:25 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 01:55:27 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-12 01:55:30 Metrocall [1060915] A  ALPHA  PAGE FROM lstprod: @nblspsn01.fi.gs.com: The batch job has finished...
+2001-09-12 01:55:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3263
+2001-09-12 01:55:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3263
+2001-09-12 01:55:35 Skytel [005001895] B  ALPHA  [sps/140] 200 sps-apps1.cps.intel.com relay-rialto105 2.807Intel&#174; Web Invoice appears to be working fine.(/web_invoice/healthcheck.asp) 3:26:15
+2001-09-12 01:55:35 Skytel [005061029] B SH/TONE 5466    
+2001-09-12 01:55:37 Skytel [003054910] D ST NUM  900-227-3030   
+2001-09-12 01:55:38 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-12 01:55:38 Metrocall [1421210] C  ALPHA  LAKEJob 378304/VSIOWNER/OMSJRNMGR has MSGW status.
+2001-09-12 01:55:38 Metrocall [0295497] C  ALPHA  IRENE ESCOBAR (281)240-1707 PARK PLACE OF STAFFORD PT: AVA LICHEY HAS BEEN TRANSFERRED TO
+2001-09-12 01:55:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:55:39 Skytel [005378379] C ST NUM  0-177-155-0623-8    
+2001-09-12 01:55:41 Skytel [004692694] B SH/TONE 334-6568
+2001-09-12 01:55:41 Skytel [007546197] B SH/TONE 977-2779
+2001-09-12 01:55:42 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-12 01:55:42 Arch [0932407] B  ALPHA  428-5845
+2001-09-12 01:55:42 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192279. 
+2001-09-12 01:55:43 Skytel [005341542] B SH/TONE 963-2012
+2001-09-12 01:55:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #4-IX_T4016
+2001-09-12 01:55:44 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 01:55:44 Metrocall [1261729] A  ALPHA  Frm: netiq@compassbnk.com Sub: NetIQ Event from ALHQFW01 - 30 NT Events from System - batch 763 Txt: JobID = 4626 KSName = OFXlogMonitor_NtStopOrFailEvent MC MachineName = ALHQFW01 Object Name = <NT_MachineFolder = ALHQFW01> EventMsg = 30 N
+2001-09-12 01:55:44 Metrocall [1261729] A  ALPHA  Frm: netiq@compassbnk.com Sub: NetIQ Event from ALHQFW01 - 30 NT Events from System - batch 785 Txt: JobID = 4626 KSName = OFXlogMonitor_NtStopOrFailEvent MC MachineName = ALHQFW01 Object Name = <NT_MachineFolder = ALHQFW01> EventMsg = 30 N
+2001-09-12 01:55:45 Metrocall [1064382] D  ALPHA  DKK   74425/30 +005 NOK  7.9550/00 +..  .ES.0..5..0'.0..2...0..R..P.....A..X..@..`;.................@.@.A....... X`.HA.(@.X@@.@@.`..5..2..0..D!.0.. ..,....O.._. /.TOE....U.._R.HIN..2A ...QA XA._.0F@..@.. .........(.. .........660/776 -930
+2001-09-12 01:55:45 Skytel [003327216] A  ALPHA  002637 CYCLIC TEST 
+2001-09-12 01:55:45 Skytel [002357369] C  ALPHA  002637 CYCLIC TEST 
+2001-09-12 01:55:45 Skytel [007491583] D SH/TONE 577-5992
+2001-09-12 01:55:45 Skytel [002204536] C SH/TONE 1234 (56
+2001-09-12 01:55:45 Skytel [002139900] D SH/TONE 002637  
+2001-09-12 01:55:46 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-12 01:55:46 Arch [1272423] B  ALPHA  (26)bb:2: /p1sybase/dev/vx/dsk/p1_unix/logs 287982 122946 136238 48% /logs/dev/vx/dsk/rootdg/nsr 983020 434347 450371 50% /nsr/dev/vx/dsk/rootdg/usr 508039 264130 193106 58% /usr/dev/vx/dsk/p1_unix/autosys 287982 149644 109540
+2001-09-12 01:55:47 Skytel [005044104] C  ALPHA  scott.thomas@lamrc.com|Lab DB - Hitachi 4 used more than allowable time limit.|The next user is waiting to use Hitachi 4. You have been using the tool for 312 minutes and your allowable time on the tool has expired, please end your session 
+2001-09-12 01:55:48 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 01:55:48 Arch [1272423] B  ALPHA  (27)bb:3: 58%/usr/vendor/autotree/autosys3_4 /dev/vx/dsk/p1_unix/export-home471414 264231 160042 63% /export/home /dev/vx/dsk/rootdg/opt 23999741360116 799861 63% /opt /dev/vx/dsk/p1_unix/production 383982 237409108175 69% /production
+2001-09-12 01:55:50 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-12 01:55:50 Arch [1272423] B  ALPHA  (28)bb:4: /dev/vx/dsk/p1_unix/datafiles 6711388 42202191820031 70% /datafiles /dev/vx/dsk/rootdg/openwin 288326 20475754737 79% /usr/openwin /dev/vx/dsk/p1_unix/oracle-new 287982 22335335831 87% /oracle /dev/vx/dsk/rootdg/rootvol
+2001-09-12 01:55:50 Skytel [004717731] A SH/TONE 324-0635
+2001-09-12 01:55:50 Skytel [005106221] D SH/TONE 236 (40 
+2001-09-12 01:55:51 Arch [1272423] B  ALPHA  (29)bb:e: 52015 41586 5228 89% //dev/vx/dsk/rootdg/var 1071871 957837 60441 95% /var Please see:http://ssc-sac-bs1.west.sprint.com/bb/html/ssc-sac-p1.corp.sprint.com.disk.html -oo-
+2001-09-12 01:55:56 Skytel [005223643] C SH/TONE 4466    
+2001-09-12 01:55:56 Skytel [005004368] A  ALPHA  Exchangemonitor: Check services on SRVRMON:One
+2001-09-12 01:55:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8085
+2001-09-12 01:55:59 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4655

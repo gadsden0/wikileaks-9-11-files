@@ -1,0 +1,80 @@
+2001-09-12 02:45:00 Arch [0000101] B  ALPHA  MSN 094 hello Message from NOC PCB.
+2001-09-12 02:45:00 Metrocall [0477913] C  ALPHA  e: labcp-wbs05 Module: 10776 Details: too few/many quotes
+2001-09-12 02:45:02 Skytel [004731138] A ST NUM  504-714-9404 U 
+2001-09-12 02:45:02 Skytel [007046275] A SH/TONE 2911    
+2001-09-12 02:45:03 Skytel [002401821] D  ALPHA  saspcd02 Distributed Monitoring PALM.dm.ussa17.Unix.saspcd02/Daemon status on host saspcd02 09/11/01 23:40:25 PDT  Status: >>> critical <<< ussa17.PALM 
+2001-09-12 02:45:03 Skytel [007109525] B ST NUM  0-619-948-2209 
+2001-09-12 02:45:05 Skytel [003781807] D ST NUM  701-845-8744   
+2001-09-12 02:45:05 Skytel [005338280] C SH/TONE 28869   
+2001-09-12 02:45:05 Skytel [005001895] B  ALPHA  [sps/92] 100 supplier.intel.com relay-rialto105 0 Error:relay-rialto105.mpi did not return a valid Metrios API response coderunning (sps/92) 4:33:46
+2001-09-12 02:45:05 Skytel [003934628] B  ALPHA  ATTN ORD:  PLS CALL HWT @ 797-4809
+2001-09-12 02:45:05 Skytel [002405037] D  ALPHA  nms@svcanms.conxion.com|Sep11-23:45|All RED alarms have cleared  
+2001-09-12 02:45:07 Skytel [0000060] D  ALPHA  ATTN ORD:  PLS CALL HWT @ 797-4809
+2001-09-12 02:45:07 Skytel [004076350] D  ALPHA  i-am-never@home.com|page|can you call me at home please... erika   (3
+2001-09-12 02:45:09 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:45:09 Skytel [005258313] C  ALPHA  SDAL320TERM Server 172.31.33.68 DOWN at 01:33:15
+2001-09-12 02:45:11 Skytel [002777050] C ST NUM  516-425-0994   
+2001-09-12 02:45:12 Arch [0919044] B  ALPHA  :Mike, I have a full staff that came in for the 4-12 shift . Unless there are further problems, midnight should not have any problems either. Thanks, Rich
+2001-09-12 02:45:12 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192846. 
+2001-09-12 02:45:12 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-12 02:45:12 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1057
+2001-09-12 02:45:13 Skytel [004132072] C  ALPHA  [IS-HQ DOWN] bogota-gw (59
+2001-09-12 02:45:13 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #100-IX_T4112
+2001-09-12 02:45:14 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-12 02:45:14 Arch [1423399] B  ALPHA  (6)17:ABS:
+2001-09-12 02:45:14 Arch [1255018] C  ALPHA  18:ABS:
+2001-09-12 02:45:14 Arch [1254310] B  ALPHA  (2)22:ABS:
+2001-09-12 02:45:14 Arch [0624707] A  ALPHA  (32)18:ABS:
+2001-09-12 02:45:15 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-12 02:45:17 Skytel [005236495] D ST NUM  110005052 
+2001-09-12 02:45:17 Skytel [007579147] C SH/TONE 1034    
+2001-09-12 02:45:17 Skytel [005543817] C SH/TONE 727-6928
+2001-09-12 02:45:21 Arch [0949746] A  ALPHA  1/02:****CHG-TKT**** TYPE: Major  OP: 09/12/01 01:29:39 Tkt: NOC000000084892 STAT: WIP  COMPANY NAME: RESIDENTIAL   SITE: Biloxi  LOG: SMS00BHM reports all circuits back up.  No customers affected now
+2001-09-12 02:45:23 Arch [0949746] A  ALPHA  2/02:Juckins at FastAccess  1.800.317.3343 opt 3,2
+2001-09-12 02:45:24 Skytel [005187777] A SH/TONE 890-6557
+2001-09-12 02:45:28 Skytel [007512559] D  ALPHA  alert@msn.com||Taurus: Give others reason to thrive. Stretch a deadline and take the scenic route.**
+2001-09-12 02:45:30 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-12 02:45:30 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192853. 
+2001-09-12 02:45:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3313
+2001-09-12 02:45:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3313
+2001-09-12 02:45:30 Skytel [003258865] A SH/TONE 335-7356
+2001-09-12 02:45:32 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-12 02:45:32 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router 611FP-1Tendo at 23:43:05 Txt: Router 611FP-1Tendo UP at 23:43:05 Address: 209.247.46.97 Date: 09/11/2001 Status: Active and responding ( 0)
+2001-09-12 02:45:32 Skytel [003937285] B  ALPHA  OPB Conf call at 0800-12 to discuss current updates and plans to resume svc.  800-857-3412,  8-888-0484.  Passcode 14290#. Joe
+2001-09-12 02:45:32 Skytel [007062667] C ST NUM  410-205-3485   
+2001-09-12 02:45:32 Skytel [005483912] C ST NUM  425-337-7750   
+2001-09-12 02:45:34 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-12 02:45:34 Arch [0508924] D  ALPHA  (19)24:ABS:
+2001-09-12 02:45:34 Arch [1401230] D  ALPHA  (14)18:ABS:
+2001-09-12 02:45:34 Arch [1028107] C  ALPHA  (9)18:ABS:
+2001-09-12 02:45:34 Arch [0326562] A  ALPHA  (23)18:ABS:
+2001-09-12 02:45:36 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-12 02:45:36 Arch [0983856] A  ALPHA  |ILS: Case Close #B810375 for INTEL CORPORATION, contract 1344576, P3 |This is an ILS summary notification for case B810375 Event: Case Close #B810375, Priority 3 Event Time: 11 September 2001 23:44:28 Title: NBD - *ANS*ESPE: BAD FAN  -1/3
+2001-09-12 02:45:37 Skytel [005110712] C SH/TONE 106     
+2001-09-12 02:45:38 Arch [0983856] A  ALPHA  - POWER SUPPLY (CAT6000 FAMILY #47971AEC) Site: INTEL CORPORATION * Contact: ANKITA KALATH * Phone/Email: 703-855-1529 / ankita.j.kalath@intel.com * Contract: 1344576 Case Owner: PGEORGEL @ +61 2 8448 7253 ILS Subscription  -2/3
+2001-09-12 02:45:38 Arch [0948697] C  ALPHA  Automation <Auto|Auto Alert: FYI- HALLIBURTON NET|Auto Alert: FYI- HALLIBURTON NETWORK CONNECTIVITY ISSUE RRT invoked 1-877-206-8518 Code 4319* :A 
+2001-09-12 02:45:40 Arch [0983856] A  ALPHA  Information: * Subscriber: chebrown@cisco.com (Contact this person to unsubscribe.) * ILS Event: Create/Close/Reopen * Conditions: Contract ID: 1344576 * Recipients: chebrown@epage.ci|640   -3/3
+2001-09-12 02:45:40 Metrocall [1932858] C  ALPHA  37: For.: DR WANG O/C : DR BRADSHAW From: REDLANDS DLU Tel#: 909 335 5632 V Msg.: PT-EDDIE MOORE NEED A CALL AGAIN PLEASE
+2001-09-12 02:45:41 Skytel [005331289] C  ALPHA  OPB Conf call at 0800-12 to discuss current updates and plans to resume svc.  800-857-3412,  8-888-0484.  Passcode 14290#. Joe
+2001-09-12 02:45:43 Skytel [004748771] A SH/TONE 2756    
+2001-09-12 02:45:43 Skytel [005326574] D  ALPHA  OPB Conf call at 0800-12 to discuss current updates and plans to resume svc.  800-857-3412,  8-888-0484.  Passcode 14290#. Joe
+2001-09-12 02:45:43 Skytel [005050733] D  ALPHA  Node down on server lru3b at 02:02 ET. Please look into. Thanks,  Bld Ops. 303-924-3556
+2001-09-12 02:45:45 Skytel [005131388] D  ALPHA  If you were just here come back we are up.  Try knocking on the door.
+2001-09-12 02:45:47 Skytel [005044104] C  ALPHA  scott.thomas@lamrc.com|Lab DB - Hitachi 4 used more than allowable time limit.|The next user is waiting to use Hitachi 4. You have been using the tool for 362 minutes and your allowable time on the tool has expired, please end your session 
+2001-09-12 02:45:51 Arch [0978608] A  ALPHA  :00330778 Severity: 2  mocpdu.pitts.bayer.com- UPS- Switched to battery backup power- utility power failure.
+2001-09-12 02:45:51 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 02:45:53 Arch [1145485] D  ALPHA  (25)19:ABS:
+2001-09-12 02:45:53 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-12 02:45:53 Arch [0775709] D  ALPHA  18:ABS:
+2001-09-12 02:45:53 Arch [0509136] A  ALPHA  (2)32:ABS:
+2001-09-12 02:45:53 Arch [1396555] C  ALPHA  (6)15:ABS:
+2001-09-12 02:45:53 Arch [1082628] B  ALPHA  (6)syswatch: HOST/PROCESS - resswext.sec.sprint.net:CLIENT PROBLEM ID -HOSTFAIL1~resswext.sec.sprint.net~lddcsd-kc-fw.corp.sprint.comPROBLEM AREA - HOST FAIL DESCRIPTION - lddcsd-kc-fw.corp.sprint.com:2 min NO RESPONSE (P
+2001-09-12 02:45:54 Skytel [003280448] A  ALPHA  wsmith@wordsmith.org|A.Word.A.Day--tommy atkins|tommy atkins (TOM-ee AT-kinz) noun     1. A British soldier.     2. One of the rank and file of any organization.  [From Thomas Atkins, a fictitious name used in sample forms in British army.]
+2001-09-12 02:45:55 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 02:45:55 Arch [1082628] B  ALPHA  ING FAIL)
+2001-09-12 02:45:57 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-12 02:45:57 Arch [0905780] B  ALPHA  ISHD1380870 - AACCtest - SitMan Page: Please disregard last page-out. The issue is related to CTI Genesys users. Sorry for the inconvenience Sitman Mike Bruns 816-965-1559 . No ETC   - 220022 - 1.800.
+2001-09-12 02:45:58 Skytel [005252967] B SH/TONE 1       
+2001-09-12 02:45:58 Skytel [007578473] C ST NUM  900-487-5183   
+2001-09-12 02:45:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8135
+2001-09-12 02:45:59 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4705

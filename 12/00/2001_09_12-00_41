@@ -1,0 +1,78 @@
+2001-09-12 00:41:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8010
+2001-09-12 00:41:02 Metrocall [1695661] D  ALPHA  ou all over the world, we watched today in stunned
+2001-09-12 00:41:03 Arch [1046295] B  ALPHA  |ILS: Notes #B828481 for LOCKHEED MARTIN SERVICES, contract 1084099, P1 |This is an ILS summary notification for case B828481 Event: Notes #B828481, Priority 1 Event Time: 11 September 2001 21:41:29 Title: 9/11:US WORLD ATTACK PARTS  -1/3
+2001-09-12 00:41:03 Skytel [004690321] A ST NUM  723-478-0409   
+2001-09-12 00:41:03 Skytel [002861584] A ST NUM  8685429395
+2001-09-12 00:41:04 Skytel {0938619} 3 1200 604-272-1480   
+2001-09-12 00:41:05 Arch [1046295] B  ALPHA  REQUEST Site: LOCKHEED MARTIN SERVICES * Contact: RANDY WOOD * Phone/Email: 703 484 5619 / rwoodiii@cisco.com * Contract: 1084099 Case Owner: SSEGAL @ 14085265744 ILS Subscription Information: * Subscriber: rosummey@cisco.com (Contact  -2/3
+2001-09-12 00:41:05 Skytel {1092655} 3 2400 002612    
+2001-09-12 00:41:07 Arch [1046295] B  ALPHA  this person to unsubscribe.) * ILS Event: Update * Conditions: Contract ID: 1084099 * Recipients: rosummey@epage.cisco.com * Send e-mails Always * Expires Never * Time Sent|640   -3/3
+2001-09-12 00:41:08 Metrocall [1699569] A  ALPHA  CRYSTAL CITY MARRIOTT OR CRYSTAL GATEWAY MARRIOTT? PLEASE CALL. I AM SORRY ABOUT THAT.... SVA
+2001-09-12 00:41:08 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4580
+2001-09-12 00:41:09 Arch [1046295] B  ALPHA  |ILS: Notes #B828481 for LOCKHEED MARTIN SERVICES, contract 1084099, P1 |This is an ILS summary notification for case B828481 Event: Notes #B828481, Priority 1 Event Time: 11 September 2001 21:41:31 Title: 9/11:US WORLD ATTACK PARTS  -1/3
+2001-09-12 00:41:09 Arch [0480339] A  ALPHA  (1/2) CA1668647> 1st> ISSUE>IPD40GA6  job abended   BRIDGE>704-590-6792  IMPACT>Missed 12:30am SLA.  XT is waiting to release at this time. Downstream impact will occur if XT releases without this
+2001-09-12 00:41:11 Arch [1046295] B  ALPHA  REQUEST Site: LOCKHEED MARTIN SERVICES * Contact: RANDY WOOD * Phone/Email: 703 484 5619 / rwoodiii@cisco.com * Contract: 1084099 Case Owner: SSEGAL @ 14085265744 ILS Subscription Information: * Subscriber: rosummey@cisco.com (Contact  -2/3
+2001-09-12 00:41:11 Arch [0480339] A  ALPHA  (2/2) job   ETR>unknown  START>23:09 <From Gene 704-590-9325 SRT>
+2001-09-12 00:41:12 Arch [1046295] B  ALPHA  this person to unsubscribe.) * ILS Event: Update * Conditions: Contract ID: 1084099 * Recipients: rosummey@epage.cisco.com * Send e-mails Always * Expires Never * Time Sent|640   -3/3
+2001-09-12 00:41:12 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-12 00:41:14 Arch [1046295] B  ALPHA  |ILS: Notes #B828481 for LOCKHEED MARTIN SERVICES, contract 1084099, P1 |This is an ILS summary notification for case B828481 Event: Notes #B828481, Priority 1 Event Time: 11 September 2001 21:41:30 Title: 9/11:US WORLD ATTACK PARTS  -1/3
+2001-09-12 00:41:14 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-12 00:41:16 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-12 00:41:18 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34
+2001-09-12 00:41:20 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0933
+2001-09-12 00:41:20 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-12 00:41:24 Skytel {0861687} 3 1200 832-597-1622   
+2001-09-12 00:41:27 Arch [0925366] B  ALPHA   318643;Sep 11 20:42:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-12 00:41:30 Metrocall [0125187] A  ALPHA  GOODNIGHT,BECAREFUL, SWEET DREAMS, AND I AM THINKING ABOUT YOU LOVE NICK FF96
+2001-09-12 00:41:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3189
+2001-09-12 00:41:31 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3189
+2001-09-12 00:41:32 Skytel [005059470] D ST NUM  730-855-4376   
+2001-09-12 00:41:32 Skytel [007559566] D ST NUM  809-384-1126   
+2001-09-12 00:41:33 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-12 00:41:33 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191425. 
+2001-09-12 00:41:33 Skytel [005100565] B  ALPHA  mailerror@z-tel.com|Voice Mail Message Received| Voice Mail Message Received    (26
+2001-09-12 00:41:35 Arch [0987275] C  ALPHA  s0191: 09/11 15:14:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:14:21
+2001-09-12 00:41:35 Skytel [007061794] A ST NUM  719-772-4503   
+2001-09-12 00:41:35 Skytel [004390436] B SH/TONE 17591   
+2001-09-12 00:41:35 Skytel [005437867] C SH/TONE 911281  
+2001-09-12 00:41:35 Skytel [005507886] D  ALPHA  please call the bridge concerning obpmgmt2 var:/var: Filesystem diskspace utilization exceeds 95% threshold 96% actual
+2001-09-12 00:41:35 Skytel [005001895] B  ALPHA  [sps/54] 104 supplier.intel.com relay-ssl 0.0 FAILURE Server closedconnection immediately. (/mar/healthcheck_sps.asp) 2:47:08
+2001-09-12 00:41:35 Skytel [007060782] D SH/TONE 83166   
+2001-09-12 00:41:35 Skytel [002401821] D  ALPHA  ssmcscsm13 N/A CBB0RAD00:Agent:caiW2kOs:w2kLVolInst:Critical Logical Disk/File System C:.  
+2001-09-12 00:41:37 Arch [0987275] C  ALPHA  sb3: INFO0021 - 2:45PM - POSI batch has not arrived(160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:15
+2001-09-12 00:41:37 Arch [0900779] C  ALPHA   Sub:WTC UPDATE #12c  Msg:      WTC UPDATE #12c BEGINS AT midnight (12:00am) ON WED SEP 12, 2001           <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />    12:37a       
+2001-09-12 00:41:37 Arch [1328799] D  ALPHA  Insight <Insight|MIAMIPROJECT7 : Backup Exec Job |'Backup Exec Job Failed' alarm received from MIAMIPROJECT7 at 12:42AM on 9/12/01 A 'Backup Exec Job Failed' trap signifies a job has failed. Job Name 
+2001-09-12 00:41:39 Arch [1046295] B  ALPHA  this person to unsubscribe.) * ILS Event: Update * Conditions: Contract ID: 1084099 * Recipients: rosummey@epage.cisco.com * Send e-mails Always * Expires Never * Time Sent|640   -3/3
+2001-09-12 00:41:39 Arch [1052209] A  ALPHA  kbenson|Rod, do you mean tha backorder report ( AGING ) or the OSS QUE? Tell Scott or Joe to AIM me  
+2001-09-12 00:41:39 Skytel [005132482] A SH/TONE 3032    
+2001-09-12 00:41:39 Skytel [005403597] D  ALPHA  T5781 [CCDDB1] Offline (24 chan): Ann Arbor/TBS:1, Ann Arbor/ESPN2:1, Ann Arbor/FAM:1, Ann Arbor/CNN:2, Ann Arbor/USA:1, Ann Arbor/VH1:2, Ann Arbor/CMDY:1, Ann Arbor/TNT:1, Ann Arbor/FX:3, Ann Arbor/TDC:1, Ann Arbor/FSD:1, Ann Arbor/MTV:2, 
+2001-09-12 00:41:39 Skytel [007653066] C ST NUM  744-309-0696-969    
+2001-09-12 00:41:41 Arch [1046295] B  ALPHA  |ILS: Notes #B828481 for LOCKHEED MARTIN SERVICES, contract 1084099, P1 |This is an ILS summary notification for case B828481 Event: Notes #B828481, Priority 1 Event Time: 11 September 2001 21:41:55 Title: 9/11:US WORLD ATTACK PARTS  -1/3
+2001-09-12 00:41:41 Skytel [005322068] B  ALPHA  949-887-2701 [9840.Gardena, CA         
+2001-09-12 00:41:42 Arch [1046295] B  ALPHA  REQUEST Site: LOCKHEED MARTIN SERVICES * Contact: RANDY WOOD * Phone/Email: 703 484 5619 / rwoodiii@cisco.com * Contract: 1084099 Case Owner: SSEGAL @ 14085265744 ILS Subscription Information: * Subscriber: rosummey@cisco.com (Contact  -2/3
+2001-09-12 00:41:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #30-IX_T1705
+2001-09-12 00:41:43 Skytel [007101291] C ST NUM  677-777-7777-777777777777777777
+2001-09-12 00:41:43 Skytel [002276714] C SH/TONE 6666    
+2001-09-12 00:41:45 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2454..
+2001-09-12 00:41:45 Skytel [005343224] C ST NUM  011-1111-11    
+2001-09-12 00:41:45 Skytel [007109749] B ST NUM  500-812-3615   
+2001-09-12 00:41:45 Skytel [007094134] B  ALPHA  8002407897.SCHAAK AL           
+2001-09-12 00:41:45 Skytel [007558008] C  ALPHA  275-8013
+2001-09-12 00:41:47 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2454..
+2001-09-12 00:41:48 Skytel [004534043] C SH/TONE 1       
+2001-09-12 00:41:49 Metrocall [1048131] A  ALPHA  10-CALL 818-708-5280. -BORIS
+2001-09-12 00:41:50 Arch [0971504] A  ALPHA  From-ROQUE....... FYI...Art reports that Lugo Sub had a small fire just outside the gate. Fire Dept put fire out, Code-4. Art is departing area.
+2001-09-12 00:41:50 Arch [0969346] A  ALPHA  845-7900
+2001-09-12 00:41:50 Skytel [002844967] B SH/TONE 7373    
+2001-09-12 00:41:52 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-12 00:41:52 Arch [0492587] C  ALPHA  STALL DNS54EEZ.DBF R       3000
+2001-09-12 00:41:52 Skytel [004709432] C ST NUM  320-220-2244-726841132   
+2001-09-12 00:41:54 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-12 00:41:54 Skytel [005386315] C  ALPHA  Buenas noches...  Ricardo Rodriguez 9443282
+2001-09-12 00:41:54 Skytel [005127496] C ST NUM  63) 894-116-8911    
+2001-09-12 00:41:56 Skytel [007035485] D  ALPHA  I've paged you twice before this one. If I don't hear from you soon, should I assume you aren't coming home?
+2001-09-12 00:41:56 Skytel [007556702] D SH/TONE 366-7203
+2001-09-12 00:41:58 Arch [1408106] C  ALPHA  20010911:23:41:51:WARNING:tr01011b is not running !!!
+2001-09-12 00:41:58 Arch [1657188] B  ALPHA  NCAGBREACL:Device Accessible,Device Status:Ok
+2001-09-12 00:41:58 Arch [1370529] A  ALPHA  20010911:23:41:51:WARNING:tr01011b is not running !!!
+2001-09-12 00:41:58 Arch [0545241] C  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 04700314 from cluster 1095 to cluster 2028), status C3AE181B, extended s

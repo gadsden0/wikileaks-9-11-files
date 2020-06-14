@@ -1,0 +1,120 @@
+2001-09-12 00:16:00 Skytel [007602289] A ST NUM  566-364-4482-22914  
+2001-09-12 00:16:01 Arch [0241791] D  ALPHA  (31)REQQ time limit exceeded for:PASSPORT_KC_A:12-sep-2001 00:03
+2001-09-12 00:16:02 Skytel [002267653] B SH/TONE 891-1188
+2001-09-12 00:16:03 Arch [0241791] D  ALPHA  (32)REQQ time limit exceeded for:PASSPORT_KC_G:12-sep-2001 00:04
+2001-09-12 00:16:03 Skytel [007660191] D ST NUM  430-662-8057   
+2001-09-12 00:16:04 Skytel {0743995} 1 2400 800-344-8041   
+2001-09-12 00:16:05 Skytel {1241778} 3 1200 616-243-4417   
+2001-09-12 00:16:07 Arch [1036133] B  ALPHA  Terrorist attack update:  1-All app except SpeedPay and CTI Genesis reporting OK.  2-Network and firewalls reporting OK.  3-RAS and ERAS at 35% of capacity.
+2001-09-12 00:16:07 Arch [0905780] B  ALPHA  Terrorist attack update:  1-All app except SpeedPay and CTI Genesis reporting OK.  2-Network and firewalls reporting OK.  3-RAS and ERAS at 35% of capacity.
+2001-09-12 00:16:08 Metrocall [1710284] D  ALPHA  Dispatch E1, E2, E3, A1, B1 RESPONDING TO 171 OAK, POSS 179 OAK ST, CHURH OF VIET MARTYR FOR FIRE ALARM
+2001-09-12 00:16:09 Arch [0927727] D  ALPHA  db_update@factse|VMS PAGE|NY UPDATE PAST DUE: JOB_KEY=EDI_TRANS 
+2001-09-12 00:16:10 Metrocall [002589906] A  ALPHA  Frm: NPG@alert.cs Sub: Warn-MH1@0h Txt: A~65-3~0.70%~6220F. A~72-3~13.68%~1874F. A~56-3~10.19%~1780F. A~65-1~15.26%~1615F. A~65-2~15.60%~1606F. A~116-2~30.98%~686F. A~18-1~73.59%~417F. A~6-3~76.11%~289F. A~95-1~77.0
+2001-09-12 00:16:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4555
+2001-09-12 00:16:10 Metrocall [0645989] B  ALPHA  WhatsUp Alert : (21:16) - Server EMSS02C05-DEN DOWN (Timed Out), see http://lmmdeming.lmms.lmco.com:8080
+2001-09-12 00:16:12 Metrocall [002589906] A  ALPHA  6%~208F. A~97-1~73.19%~197F. A~98-1~57.02%~156F. A~62-1~75.69%~12
+2001-09-12 00:16:13 Arch [1265683] A  ALPHA  2/02:Contact: FastAccess 1.800.317.3343 opt 3,2
+2001-09-12 00:16:13 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-12 00:16:13 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: ERROR    Program=Sybase_dumper  Server=PDSTRD_EDGNY1  Database=eq_program  Mode=Incremental_Dump         # Our PID=8854    time='09/12/01 00:15:03'    sy
+2001-09-12 00:16:13 Arch [0949746] A  ALPHA  1/02:****NEW-TKT**** TYPE: Major  OP: 09/12/01 00:15:00 Tkt: NOC000000084886 STAT: WIP      SITE: Atlanta - Stone Mountain PROB: ADSL-ASM-DSG reports DSLAM outage in Norcross, GA area. Cu affected: 50
+2001-09-12 00:16:14 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-12 00:16:14 Arch [0949746] A  ALPHA  2/02:Contact: FastAccess 1.800.317.3343 opt 3,2
+2001-09-12 00:16:14 Arch [0241791] D  ALPHA  (1)REQQ time limit exceeded for:PASSPORT_ORL_I:12-sep-2001 00:04
+2001-09-12 00:16:14 Arch [0478129] A  ALPHA  (32)09-PASS 1 COMPLETE.  SALES 65 (83%).  SVC 159 (96%), PCS 48 (96%), TOTAL 272 (93%).  TICKETS SEV 1-61, SEV 2-63, SEV 3-36.  PASS 2 COMPLETE.  SALES 10 (12%), SVC 89 (54%), PCS 34 (68%), TOTAL 133 (44%).  TICKETS SEV 1-9, SEV 2-14, !1/2 009
+2001-09-12 00:16:14 Metrocall [002589906] A  ALPHA  Frm: NPG@alert.sw Sub: MSC-MH1@0h Txt: Access for Manhattan 1 is 73.87% at 0000 hrs
+2001-09-12 00:16:16 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34
+2001-09-12 00:16:16 Arch [0241791] D  ALPHA  (2)REQQ time limit exceeded for:PASSPORT_FTW_L:12-sep-2001 00:04
+2001-09-12 00:16:16 Arch [0478129] A  ALPHA  (1)09- SEV 3-10.  JD. !2/2 009
+2001-09-12 00:16:18 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-12 00:16:18 Arch [0241791] D  ALPHA  (3)REQQ time limit exceeded for:PASSPORT_NYC_A:12-sep-2001 00:04
+2001-09-12 00:16:20 Arch [0241791] D  ALPHA  (4)REQQ time limit exceeded for:PASSPORT_AKR_F:12-sep-2001 00:04
+2001-09-12 00:16:21 Metrocall [0599126] B  ALPHA  WhatsUp Alert : (21:16) - Server EMSS02C05-DEN DOWN (Timed Out), see http://lmmdeming.lmms.lmco.com:8080
+2001-09-12 00:16:21 Metrocall [1414448] A  ALPHA  WhatsUp Alert : (21:16) - Server EMSS02C05-DEN DOWN (Timed Out), see http://l
+2001-09-12 00:16:21 Metrocall [002588047] D  ALPHA  Frm: Muralidhar Devarakonda Sub: server status Txt: Machine 30kcerent1.nsf.att.com not up on Wed Sep 12 00:03:00 2001. status 256.Machine 30kcerent2.nsf.att.com not up on Wed Sep 12 00:03:00 2001 status 256.Ma
+2001-09-12 00:16:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0908
+2001-09-12 00:16:22 Arch [0241791] D  ALPHA  (5)REQQ time limit exceeded for:PASSPORT_DET_B:12-sep-2001 00:04
+2001-09-12 00:16:23 Metrocall [1414448] A  ALPHA  mmdeming.lmms.lmco.com:8080
+2001-09-12 00:16:23 Metrocall [002588047] D  ALPHA  chine mtcerent3.nsf.att.com not up on Wed Sep 12 00:03:00 2001 status 2
+2001-09-12 00:16:26 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-12 00:16:26 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191138. 
+2001-09-12 00:16:26 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDSTRD_EDGNY1  Database=CERD_CORPORATE  Mode=Incremental_Dump         # Our PID=9065    time='09/12/01 00:15:05'  
+2001-09-12 00:16:28 Arch [0987275] C  ALPHA  s0191: 09/11 15:14:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:14:21
+2001-09-12 00:16:28 Arch [0925366] B  ALPHA   318643;Sep 11 20:17:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-12 00:16:29 Arch [0987275] C  ALPHA  sb3: INFO0021 - 2:45PM - POSI batch has not arrived(160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:15
+2001-09-12 00:16:29 Arch [0899367] B  ALPHA  Terrorist attack update:  1-All app except SpeedPay and CTI Genesis reporting OK.  2-Network and firewalls reporting OK.  3-RAS and ERAS at 35% of capacity.
+2001-09-12 00:16:29 Arch [1657188] B  ALPHA  NCAGBRMQ02:Device Inaccessible
+2001-09-12 00:16:29 Arch [0945338] C  ALPHA  "Green, Robert C|RE: Test|> ---------- > From: Green, Robert CW5 CECOM LRC DRE[SMTP:ROBERT.GREEN@MAIL1.MONMOUTH.ARMY.MIL] > Sent: Wednesday, September 12, 2001 12:16:57 AM > To: 'Fox, Richard W. LTC' 
+2001-09-12 00:16:31 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3164
+2001-09-12 00:16:31 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3164
+2001-09-12 00:16:32 Skytel [002267777] A SH/TONE 6969    
+2001-09-12 00:16:32 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 21:16:14 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 00:16:33 Skytel [004052628] B  ALPHA  IDMC 0.00 UNCH NSM 31.05 UNCH INTC 26.07 UNCH AMD 11.85 UNCH (3
+2001-09-12 00:16:35 Skytel [007556385] A  ALPHA  PIR 10.00 UNCH ZQK 15.92 UNCH AEOS 21.50 UNCH THC 56.77 UNCH
+2001-09-12 00:16:35 Skytel [005326762] C  ALPHA  root@hilpcw01.production.wcom.net||sp01cws: GPFS NOT operational on Node 1 (s01f1n1).  
+2001-09-12 00:16:35 Skytel [004751406] D SH/TONE 217     
+2001-09-12 00:16:37 Skytel [003464626] A ST NUM  751-222-1921   
+2001-09-12 00:16:37 Skytel [007064757] B SH/TONE 347-0196
+2001-09-12 00:16:37 Skytel [005189179] C SH/TONE 50538   
+2001-09-12 00:16:37 Skytel [0001461] B  ALPHA  GLOBEX   23:15     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 00:16:38 Metrocall [1849796] B  ALPHA  09/12 00:21 EDT  Wright, Dennis    .518.9619         Alt=TIR Unit=265341
+2001-09-12 00:16:38 Metrocall [002587506] A  ALPHA  Frm: NPG@alert.sw Sub: MSC-MH1@0h Txt: Access for Manhattan 1 is 73.87% at 0000 hrs
+2001-09-12 00:16:39 Skytel [004477510] B  ALPHA  Lehman Cuts Earnings Estimates On Nokia, Ericsson[DJ NEWS]
+2001-09-12 00:16:39 Skytel [005127498] C ST NUM  918-501-9428   
+2001-09-12 00:16:41 Arch [0928417] A  ALPHA  540-5517
+2001-09-12 00:16:41 Arch [0000101] B  ALPHA  MSN 024 hello Message from NOC PCB.
+2001-09-12 00:16:41 Skytel [007457618] A  ALPHA  kelly@tahoenetworks.com|944-8663| ------_=_NextPart_001_01C13B41.AE509086 Content-Type: text/html;  charset="iso-8859-1" Content-Transfer-Encoding: quoted-printable  <META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; = charset=3Diso-88
+2001-09-12 00:16:41 Skytel [006531672] C  ALPHA  3) 2) FRANCISCO: COMUNICATE URGENTEMENTE AL TEL. DE SOPORTE. ALBERTO SANDOVAL.
+2001-09-12 00:16:41 Skytel [007563991] B ST NUM  696-969-6969-411    
+2001-09-12 00:16:41 Skytel [007529050] C SH/TONE 123     
+2001-09-12 00:16:41 Skytel [003435867] C ST NUM  214-533-1920   
+2001-09-12 00:16:41 Skytel [003779419] C ST NUM  222-8118-11    
+2001-09-12 00:16:41 Skytel [1800019] A  ALPHA  GLOBEX   23:15     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 00:16:42 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: ERROR    Program=Sybase_dumper  Server=PDSTRD_EDGNY1  Database=CERD_CORPORATE  Mode=Incremental_Dump         # Our PID=9065    time='09/12/01 00:15:06'  
+2001-09-12 00:16:43 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-12 00:16:43 Skytel [002394085] B  ALPHA  AD
+2001-09-12 00:16:43 Skytel [003267040] A ST NUM  0-250-935-8559 
+2001-09-12 00:16:43 Skytel [007491946] C SH/TONE 889-2789
+2001-09-12 00:16:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #33-IX_T1707
+2001-09-12 00:16:43 Skytel [004747885] D ST NUM  412-750-2473   
+2001-09-12 00:16:44 Arch [1184776] C  ALPHA  (17)36-PASS 1 COMPLETE.  SALES 65 (83%).  SVC 159 (96%), PCS 48 (96%), TOTAL 272 (93%).  TICKETS SEV 1-61, SEV 2-63, SEV 3-36.  PASS 2 COMPLETE.  SALES 10 (12%), SVC 89 (54%), PCS 34 (68%), TOTAL 133 (44%).  TICKETS SEV 1-9, SE
+2001-09-12 00:16:44 Arch [0515501] D  ALPHA  (6)29-PASS 1 COMPLETE.  SALES 65 (83%).  SVC 159 (96%), PCS 48 (96%), TOTAL 272 (93%).  TICKETS SEV 1-61, SEV 2-63, SEV 3-36.  PASS 2 COMPLETE.  SALES 10 (12%), SVC 89 (54%), PCS 34 (68%), TOTAL 133 (44%).  TICKETS SEV 1-9, SEV
+2001-09-12 00:16:45 Skytel [003481713] A SH/TONE 9881    
+2001-09-12 00:16:45 Skytel [003950591] D  ALPHA  UAL 30.82 UNCH DAL 37.25 UNCH U 11.62 UNCH AMR 29.70 UNCH
+2001-09-12 00:16:45 Skytel [003327216] A  ALPHA  002604 CYCLIC TEST 
+2001-09-12 00:16:45 Skytel [007109749] B ST NUM  681-201-5317   
+2001-09-12 00:16:45 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Disk used % for /clients/IVR/home/rswwwp/work is 86; > than 80
+2001-09-12 00:16:45 Skytel [004417147] C SH/TONE 25854   
+2001-09-12 00:16:45 Skytel [002357369] C  ALPHA  002604 CYCLIC TEST 
+2001-09-12 00:16:45 Skytel [004550512] A SH/TONE 99      
+2001-09-12 00:16:45 Skytel [1293694] D  ALPHA  (sergiop): F1 PARO 23:17H
+2001-09-12 00:16:45 Skytel [002139900] D SH/TONE 002604  
+2001-09-12 00:16:48 Arch [1184776] C  ALPHA  V 2-14, SEV...
+2001-09-12 00:16:48 Arch [0515501] D  ALPHA   2-14, SEV...
+2001-09-12 00:16:48 Skytel [002401821] D  ALPHA  ssmcscsm13 N/A CBB0SMS00:Agent:caiW2kOs:w2kLVolInst:Critical Logical Disk/File System C:.  
+2001-09-12 00:16:48 Skytel [002694547] A  ALPHA  4) PROBLEM: 16608789 WAS OPENED ACCT#: A775S AT PRIO: 1 ON 09/12/01 AT 00:14 DESC/1: -NODE DOWN EQFDE469 WITH IP ADDRESS: 10.124.2.69 DESC/2: 
+2001-09-12 00:16:49 Metrocall [1429971] A  ALPHA  ** IPL Completed normally. Monitor has been started. ** 09/11/01 23:13 QPGMR      HELPSYS
+2001-09-12 00:16:49 Metrocall [002589906] A  ALPHA  Frm: NPG@alert.cs Sub: Warn-MH2@0h Txt: A~127-3~45.39%~800F. A~18-2~65.05%~627F. A~65-1~67.78%~461F. A~5-1~13.84%~367F. A~127-1~
+2001-09-12 00:16:49 Metrocall [1192076] D  ALPHA  LP-SWAT: LP application server (re2xlpf) went down at 11:50 pm with the USA support we brought re2xlpf back up.  We are in the process of clean shut down.  Case#511098
+2001-09-12 00:16:50 Arch [0899493] B  ALPHA  ammsprod2 AMMSVersionSvc Broken
+2001-09-12 00:16:50 Arch [0927727] D  ALPHA  db_update@factse|VMS PAGE|NY UPDATE PAST DUE: JOB_KEY=IDC_BOND_TRANSMISSION 
+2001-09-12 00:16:50 Arch [1184776] C  ALPHA  (18)2...3-10.  JD.
+2001-09-12 00:16:50 Arch [0515501] D  ALPHA  (7)2...3-10.  JD.
+2001-09-12 00:16:50 Arch [1608085] B  ALPHA  ammsprod2 AMMSVersionSvc Broken
+2001-09-12 00:16:50 Skytel [005001895] B  ALPHA  [sps/182] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/asrf2/healthcheck.asp) 2:44:55
+2001-09-12 00:16:50 Skytel [005369004] D ST NUM  0-818-365-2957 
+2001-09-12 00:16:50 Skytel [004448813] D ST NUM  31431431431435214309
+2001-09-12 00:16:51 Metrocall [002589906] A  ALPHA  78.48%~205F.
+2001-09-12 00:16:52 Arch [0927727] D  ALPHA  db_update@factse|VMS PAGE|NY UPDATE PAST DUE: JOB_KEY=IDC_BULLETIN_TRANSMISSION 
+2001-09-12 00:16:52 Skytel [007022140] D ST NUM  203-2010-1
+2001-09-12 00:16:54 Arch [0927727] D  ALPHA  db_update@factse|VMS PAGE|NY UPDATE PAST DUE: JOB_KEY=IDC_STOCK 
+2001-09-12 00:16:56 Arch [0927727] D  ALPHA  db_update@factse|VMS PAGE|NY UPDATE PAST DUE: JOB_KEY=IDC_STOCK_TRANSMISSION 
+2001-09-12 00:16:56 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-12 00:16:56 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDSTRD_EDGNY1  Database=PYR_TRADE  Mode=Incremental_Dump         # Our PID=9276    time='09/12/01 00:15:08'    syb
+2001-09-12 00:16:56 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191145. 
+2001-09-12 00:16:56 Skytel [007639899] C SH/TONE 9999    
+2001-09-12 00:16:56 Skytel [002779742] D ST NUM  0-177-501-2124-88831
+2001-09-12 00:16:58 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-12 00:16:58 Skytel [007602538] C ST NUM  301-804-9679   
+2001-09-12 00:16:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7986
+2001-09-12 00:16:59 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-12 00:16:59 Metrocall [002589906] A  ALPHA  Frm: NPG@alert.sw Sub: MSC-MH2@0h Txt: Access for Manhattan 2 is 89.20% at 0000 hrs

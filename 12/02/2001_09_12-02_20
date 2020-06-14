@@ -1,0 +1,79 @@
+2001-09-12 02:20:00 Metrocall [0450318] D  ALPHA  Frm: Remedy ARSystem Sub: AR System Notification Txt: Case 728966 was reassigned to MESA LIMS at Critical
+2001-09-12 02:20:00 Metrocall [1401376] A  ALPHA  /:DDC/: AT 0015 IN CS, ALL LOAD RESTORED ON 4KV CKT EXCH043, CAUSE CABLE TERMINATION FAILURE IN 21
+2001-09-12 02:20:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4679
+2001-09-12 02:20:00 Skytel [007524604] D  ALPHA  papazog@fas.harvard.edu|Re: yo| > I just got kicked out of the Grille by two girls who demanded to s
+2001-09-12 02:20:00 Skytel [007527412] B  ALPHA  "Fileprint c$".The device \\fileprint\c$ (Type: Disk Space) is DOWN since Wed Sep 12 02:21:42 2001. 
+2001-09-12 02:20:00 Skytel [005107580] D ST NUM  900-735-2778   
+2001-09-12 02:20:00 Skytel [007638399] D SH/TONE 7346    
+2001-09-12 02:20:01 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-12 02:20:01 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192559. 
+2001-09-12 02:20:02 Metrocall [1401376] A  ALPHA  00 BLOCK OF E 68TH ST.  JPB
+2001-09-12 02:20:02 Skytel [007582986] C ST NUM  359-770-5911   
+2001-09-12 02:20:03 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-12 02:20:04 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-12 02:20:04 Arch [1242684] D  ALPHA  (15)17:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:20:05 Skytel [007099695] D  ALPHA  wfinley@hotwire.com|1 Weblogic servers responding beyond 5000 ms|09/11/01-23:20:00  as04m.hotwire.com:7003    Not OK!  
+2001-09-12 02:20:06 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-12 02:20:06 Skytel {0743995} 1 2400 800-344-8041   
+2001-09-12 02:20:06 Skytel {1092655} 3 2400 002645    
+2001-09-12 02:20:08 Metrocall [1282410] C  ALPHA  Frm: OSHEROFF,STEVE D (HP-USA,ex1) Sub: FW: INVOICE DELAY ON SYSTEM59
+2001-09-12 02:20:11 Skytel {0570177} 3 1200 0500 
+2001-09-12 02:20:16 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-12 02:20:16 Arch [0911134] D  ALPHA   cshprod1-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGTWNY_HIST  Database=sequence  Mode=Full_Dump         # Our PID=27172    time='09/12/01 02:18:44'    sybas
+2001-09-12 02:20:17 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 02:20:17 Arch [0911134] D  ALPHA   cshprod1-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGTWNY_HIST  Database=sequence  Mode=Full_Dump         # Our PID=27172    time='09/12/01 02:18:46'    sybas
+2001-09-12 02:20:17 Arch [0844432] A  ALPHA  root <root@local|Host COM-e0/1 is DOWN!|***** NetSaint 0.0.4 *****\n\nHost "e0/1 63.167.57.145" is DOWN!\n\nDate/Time: Wed Sep 12 02:10:52 2001 \n 
+2001-09-12 02:20:18 Arch [0555028] B  ALPHA  root <root@local|Host COM-e0/1 is DOWN!|***** NetSaint 0.0.4 *****\n\nHost "e0/1 63.167.57.145" is DOWN!\n\nDate/Time: Wed Sep 12 02:10:54 2001 \n 
+2001-09-12 02:20:19 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-12 02:20:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1032
+2001-09-12 02:20:21 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 02:20:25 Arch [1625046] B  ALPHA  t: pkao@yahoo-inc.com (Subj: DGENTCL FAILED: gentcl_tw[ALL][TEST][6744]) Argument "1,2" isn't numeric in numeric ne (!=)at gen_cons.pm line 634. WARNING: ycons_translate_cons: Erroropening cons/p57344.c for writing WARNING:
+2001-09-12 02:20:29 Arch [0936036] B  ALPHA  'lon-sls-rtr-s0' is unreachable. Circuit down?
+2001-09-12 02:20:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3288
+2001-09-12 02:20:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3288
+2001-09-12 02:20:32 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-12 02:20:32 Arch [0911134] D  ALPHA   cshprod1-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGTWNY_HIST  Database=exchanges  Mode=Full_Dump         # Our PID=27716    time='09/12/01 02:19:01'    syba
+2001-09-12 02:20:32 Skytel [002392460] D  ALPHA  1) Electrical power has been restored to Corporate Headquarters, Learning Center, and Northcastle.  The network and servers have been checked and are OK. AVM-LAN John Werkema
+2001-09-12 02:20:32 Skytel [007118349] D SH/TONE 565-0224
+2001-09-12 02:20:33 Skytel [005041938] A SH/TONE 7013    
+2001-09-12 02:20:33 Skytel [002375579] C  ALPHA  1) Electrical power has been restored to Corporate Headquarters, Learning Center, and Northcastle.  The network and servers have been checked and are OK. AVM-LAN John Werkema
+2001-09-12 02:20:34 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-12 02:20:35 Skytel [005359140] B  ALPHA  ATTN ORD, MKE, & ATW: PLS CALL 686-1758, ASAP!!!
+2001-09-12 02:20:35 Skytel [007561381] B ST NUM  552-1212-1
+2001-09-12 02:20:35 Skytel [003934628] B  ALPHA  ATTN ORD, MKE, & ATW: PLS CALL 686-1758, ASAP!!!
+2001-09-12 02:20:35 Skytel [005209768] C SH/TONE 7171    
+2001-09-12 02:20:36 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 02:20:37 Skytel [003510067] A ST NUM  825-371-2760   
+2001-09-12 02:20:37 Skytel [002406719] D SH/TONE 0500    
+2001-09-12 02:20:37 Skytel [0000060] D  ALPHA  ATTN ORD, MKE, & ATW: PLS CALL 686-1758, ASAP!!!
+2001-09-12 02:20:37 Skytel [002843442] A  ALPHA  Electrical power has been restored to Corporate Headquarters, Learning Center, and Northcastle.  The network and servers have been checked and are OK. AVM-LAN John Werkema
+2001-09-12 02:20:38 Arch [0951146] C  ALPHA  TX Kyle BU815172 - Line busy.
+2001-09-12 02:20:38 Arch [1657188] B  ALPHA  NCAGBRWS02:Device Inaccessible
+2001-09-12 02:20:38 Arch [0981539] A  ALPHA  FYI: HD000508939 Pri: High Group: Revenue Mgmt Status: Assigned Type: REVENUE MANAGEMENT Sum: RO - PROD004 Phone: (214) 792-7250 Loc: HDQ
+2001-09-12 02:20:39 Skytel [004538828] D SH/TONE 6127    
+2001-09-12 02:20:40 Arch [1272423] B  ALPHA  (18)bb:1: [1468510] red Tue Sep 11 23:20:20 PDT 2001 - Disk onssc-sac-p1,corp,sprint,com at PANIC level &red /var (95%) hasreached the defined disk space PANIC level (95%)/dev/vx/dsk/p1_unix/p1sybase 2879972 895228 1696747 35%
+2001-09-12 02:20:41 Skytel [004755805] D SH/TONE 222-6080
+2001-09-12 02:20:42 Arch [1272423] B  ALPHA  (19)bb:2: /p1sybase/dev/vx/dsk/p1_unix/logs 287982 123271 135913 48% /logs/dev/vx/dsk/rootdg/nsr 983020 434347 450371 50% /nsr/dev/vx/dsk/rootdg/usr 508039 264139 193097 58% /usr/dev/vx/dsk/p1_unix/autosys 287982 149644 109540
+2001-09-12 02:20:43 Skytel [005050733] D  ALPHA  Node down on server lru3b at 02:02 ET. Please look into. Thanks,  Bld Ops. 303-924-3556
+2001-09-12 02:20:43 Skytel [004720229] B SH/TONE 2677    
+2001-09-12 02:20:43 Skytel [004543328] A  ALPHA  Electrical power has been restored to Corporate Headquarters, Learning Center, and Northcastle.  The network and servers have been checked and are OK. AVM-LAN John Werkema
+2001-09-12 02:20:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #24-IX_T3902
+2001-09-12 02:20:44 Arch [1272423] B  ALPHA  (20)bb:3: 58%/usr/vendor/autotree/autosys3_4 /dev/vx/dsk/p1_unix/export-home471414 264234 160039 63% /export/home /dev/vx/dsk/rootdg/opt 23999741360260 799717 63% /opt /dev/vx/dsk/p1_unix/datafiles 67113884078929 1961321 68%
+2001-09-12 02:20:45 Skytel [003486707] A SH/TONE 70796   
+2001-09-12 02:20:46 Arch [1272423] B  ALPHA  (21)bb:4: /datafiles /dev/vx/dsk/p1_unix/production 383982237409 108175 69% /production /dev/vx/dsk/rootdg/openwin 288326204757 54737 79% /usr/openwin /dev/vx/dsk/p1_unix/oracle-new 287982223353 35831 87% /oracle
+2001-09-12 02:20:46 Arch [0911134] D  ALPHA   cshprod1-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGTWNY_HIST  Database=exchanges  Mode=Full_Dump         # Our PID=27716    time='09/12/01 02:19:02'    syba
+2001-09-12 02:20:46 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-12 02:20:46 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192566. 
+2001-09-12 02:20:47 Skytel [005044104] C  ALPHA  scott.thomas@lamrc.com|Lab DB - Hitachi 4 used more than allowable time limit.|The next user is waiting to use Hitachi 4. You have been using the tool for 337 minutes and your allowable time on the tool has expired, please end your session 
+2001-09-12 02:20:47 Skytel [007046275] A SH/TONE 2911    
+2001-09-12 02:20:48 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 02:20:48 Skytel [004421786] C ST NUM  410-444-8353   
+2001-09-12 02:20:49 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-12 02:20:50 Skytel [005001895] B  ALPHA  [sps/53] 200 sps-apps1.cps.intel.com relay-ssl 0.240 Application isokay (/infoweb/healthcheck.asp) 2:41:31
+2001-09-12 02:20:50 Skytel [004397995] C  ALPHA  IntelliWatch Monitor: WARNING - Server CVGNA05.US.Schneider-Electric.com/A/SVR/Schneider MAY HAVE crashed. Waiting 240 seconds...
+2001-09-12 02:20:52 Skytel [005058097] A  ALPHA  WARNING: Server PANNSC01/PaloAlto/HP/US is Not Responding. Reason: Server not responding
+2001-09-12 02:20:54 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:20:54 Skytel [003481167] D ST NUM  614-431-4302   
+2001-09-12 02:20:55 Arch [0508023] B  ALPHA  Super-User <root|!BB - 2145210! hp3000.namins.com|[2145210] hp3000.namins.com.conn red Wed Sep 12 02:21:48 EDT 2001 bb-network.sh: Can't ping hp3000.namins.com... Please see: http://bass.namins.com/bb/html/hp3000.namins.com.conn.html 
+2001-09-12 02:20:55 Arch [1272423] B  ALPHA  (22)bb:e: /dev/vx/dsk/rootdg/rootvol 52015 41586 522889% / /dev/vx/dsk/rootdg/var 1071871 958470 59808 95% /var Pleasesee:http://ssc-sac-bs1.west.sprint.com/bb/html/ssc-sac-p1.corp.sprint.com.disk.html -oo-
+2001-09-12 02:20:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8110

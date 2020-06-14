@@ -1,0 +1,43 @@
+2001-09-11 05:23:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2030
+2001-09-11 05:23:00 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: crb-wbs01 Sev:4 # 36407 NoICAPDataForTooLong WBS 3.1.14.1 09/11/01 03:22:30 MDT6 Instance: WBSSched_|_TBS_|_Created:09/05/01_03:21:52 Module: Gatew
+2001-09-11 05:23:00 Metrocall [0000329] C  ALPHA  ..I..I..........R............................. 2030
+2001-09-11 05:23:01 Metrocall [0477913] C  ALPHA  ayConnection Details: PID=333 TID=142 No data received in 43201 sec
+2001-09-11 05:23:01 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 02:20:53 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:23:03 Skytel {1092655} 3 2400 002226    
+2001-09-11 05:23:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6852
+2001-09-11 05:23:04 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178356. 
+2001-09-11 05:23:04 Arch [1654898] A  ALPHA  netsaint <netsai|** PROBLEM: alert - SnappsMain/C|*** Server Alert *** Alert Type: PROBLEM Service: CheckHTTP Host: SnappsMain Address: 209.15.192.200 State: CRITICAL Date/Time: Tue Sept 11 05:24:16 EDT 2001 Additional Info: Connection refu
+2001-09-11 05:23:04 Arch [1427708] D  ALPHA  netsaint <netsai|** PROBLEM: alert - SnappsMain/C|*** Server Alert *** Alert Type: PROBLEM Service: CheckHTTP Host: SnappsMain Address: 209.15.192.200 State: CRITICAL Date/Time: Tue Sept 11 05:24:16 EDT 2001 Additional Info: Connection refu
+2001-09-11 05:23:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9775
+2001-09-11 05:23:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178363. 
+2001-09-11 05:23:27 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSTRD_EDGNY1) *** VERY SERIOUS Blocking in PDSTRD_EDGNY1 - block time=3171 > 600 secs - Tue Sep 11 05:23:24 EDT 2001 @05:23 09/11/01 
+2001-09-11 05:23:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3423
+2001-09-11 05:23:35 Skytel [004686635] C  ALPHA  hhsims@fedex.com|ad hoc|ad hoc flt1170 eta 0644 w/ 4.5 pos m/s. will update on movement. thks hs  
+2001-09-11 05:23:35 Skytel [002555555] A SH/TONE 163     
+2001-09-11 05:23:35 Skytel [007602086] B ST NUM  315-518-3427   
+2001-09-11 05:23:35 Skytel [004024864] A  ALPHA  wingmon@firstusa.com||SiteScope neweb105 cpu neweb105 28700 no data    ********************************************************************** This transmission may contain information that is privileged, confidential and/or exempt from disc
+2001-09-11 05:23:35 Skytel [005414063] D ST NUM  634-7180-0 (83 
+2001-09-11 05:23:35 Skytel [007554732] D  ALPHA  esldb@us.ibm.com|TBCRAL|FSGW- CUST OWNED > 30 MIN .  Please call T/L 650-3205 or 1-800-664-6895 PC 145134  
+2001-09-11 05:23:36 Skytel [002382771] A  ALPHA  Solutia Sev2 Vantive #19500086.  Problem is with User in Europe experiencing problems sending CC mail to Lotus Notes.  Support engaged. Non-penalty environment. -- From: SYS MANAGEMENT 248-370-1995
+2001-09-11 05:23:38 Skytel [004451650] A ST NUM  351-355-1596   
+2001-09-11 05:23:38 Skytel [003267907] A  ALPHA  hhsims@fedex.com|ad hoc flt1170 eta 0644 w/ 4.5 pos m/s. will update on movement. thks hs  
+2001-09-11 05:23:39 Metrocall [1261323] C  ALPHA  Frm: wingmon@firstusa.com Txt: SiteScope neweb105 cpu neweb105 28700 no data
+2001-09-11 05:23:40 Skytel [999991636] B  ALPHA  esldb@us.ibm.com|TBCRAL|FSGW- CUST OWNED > 30 MIN .  Please call T/L 650-3205 or 1-800-664-6895 PC 145134  
+2001-09-11 05:23:42 Skytel [005436525] D  ALPHA  Test Message #46-IX_T0604
+2001-09-11 05:23:42 Skytel [004524770] A  ALPHA  spr-Whalley-Springfield-01: CPE Up at 00:58:15 on 9/11
+2001-09-11 05:23:42 Skytel [003497451] C SH/TONE   (71   
+2001-09-11 05:23:42 Skytel [005132640] A  ALPHA  14) esldb@us.ibm.com|TBCRAL|FSGW- CUST OWNED > 30 MIN .  Please call T/L 650-3205 or 1-800-664-6895 PC 145134  
+2001-09-11 05:23:42 Skytel [005197679] D  ALPHA  ns.mr.net is Down 4:21 AM, 9/11/01 (15
+2001-09-11 05:23:44 Skytel [005524217] C  ALPHA  hhsims@fedex.com|ad hoc|ad hoc flt1170 eta 0644 w/ 4.5 pos m/s. will update on movement. thks hs  
+2001-09-11 05:23:44 Skytel [005257724] D ST NUM  868-324-1850   
+2001-09-11 05:23:45 Arch [0000101] B  ALPHA  MSN 117 hello Message from NOC PCB.
+2001-09-11 05:23:46 Skytel [005103105] A  ALPHA  wedan@fedex.com|0520 UPDATE|1731IND DUE AT 0542 1437MEM DUE AT 0558  
+2001-09-11 05:23:46 Skytel [002395916] D  ALPHA  wedan@fedex.com|0520 UPDATE|1731IND DUE AT 0542 1437MEM DUE AT 0558  
+2001-09-11 05:23:50 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE Mux 4 Down          Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[026]  dev_err[239]
+2001-09-11 05:23:51 Arch [0760644] B  ALPHA  123-4567
+2001-09-11 05:23:52 Skytel [002396731] C  ALPHA  wedan@fedex.com|0520 UPDATE|1731IND DUE AT 0542 1437MEM DUE AT 0558  
+2001-09-11 05:23:52 Skytel [005171263] D SH/TONE 99      
+2001-09-11 05:23:53 Skytel [005048779] C  ALPHA  esldb@us.ibm.com|TBCRAL|FSGW- CUST OWNED > 30 MIN .  Please call T/L 650-3205 or 1-800-664-6895 PC 145134  
+2001-09-11 05:23:53 Skytel [003903560] C  ALPHA  wedan@fedex.com|0520 UPDATE|1731IND DUE AT 0542 1437MEM DUE AT 0558  
+2001-09-11 05:23:59 Skytel [007109749] B ST NUM  912-4591-1
+2001-09-11 05:23:59 Skytel [003915379] A  ALPHA  wedan@fedex.com|0520 UPDATE|1731IND DUE AT 0542 1437MEM DUE AT 0558  

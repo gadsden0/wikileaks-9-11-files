@@ -1,0 +1,64 @@
+2001-09-11 03:20:00 Metrocall [0450319] D  ALPHA  Frm: Remedy ARSystem Sub: AR System Notification Txt: Case 728512 was reassigned to MESA PIMS at Critical
+2001-09-11 03:20:00 Metrocall [1422894] D  ALPHA  114 [128431], 00:05, 346, H008199130, N, JAZZERCISE, 2460 IMPALA DR, CARLSBAD, CA, , , , AL, , PERIMETER DOOR, N,
+2001-09-11 03:20:00 Metrocall [0476499] A  ALPHA  THIS IS A T
+2001-09-11 03:20:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1907
+2001-09-11 03:20:01 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   16786 OPEN suntvpa:16786 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 22508 OPEN sunapp1:22508 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat 
+2001-09-11 03:20:02 Metrocall [0476499] A  ALPHA  EST PERIODIC PAGE SEQUENTIAL NUMBER  1907
+2001-09-11 03:20:03 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   4519 OPEN suntvpa:4519 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 5945 OPEN sunapp1:5945 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj
+2001-09-11 03:20:03 Skytel [007035414] B SH/TONE 9444    
+2001-09-11 03:20:04 Skytel {1169678} 3 1200 490-9552  
+2001-09-11 03:20:04 Skytel {1551415} 3 1200 4444 
+2001-09-11 03:20:05 Skytel {1092655} 3 2400 002185    
+2001-09-11 03:20:07 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6729
+2001-09-11 03:20:07 Metrocall [1580909] D  ALPHA  EMAIL importantinfo@www40.net Rates may NEVER be Lowe"@........................................... ...............B! %.......................................................................................................is the last time!)
+2001-09-11 03:20:09 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router 611FP-1Tendo at 00:17:47 Txt: Router 611FP-1Tendo UP at 00:17:47 Address: 209.247.46.97 Date: 09/11/2001 Status: Active and responding ( 0)
+2001-09-11 03:20:09 Metrocall [1062690] A  ALPHA  12172 TIME 03:06 ACTIVE-Pitt  PA4098_NatHgt x25Cir
+2001-09-11 03:20:09 Metrocall [002178488] C  ALPHA  EMAIL importantinfo@www40.net Rates may NEVER be Lower !!                                                   xjvrj Don't waste money EVERY SINGLE MONTH!!                Home Mortgage Rates have DROPPED! (And they say this is the last time!)
+2001-09-11 03:20:11 Metrocall [1062690] A  ALPHA  cuitDown
+2001-09-11 03:20:11 Metrocall [002178508] D  ALPHA  EMAIL goodtining@www40.net Rates............%../........................................................................................................................................................................................................
+2001-09-11 03:20:12 Arch [0920999] B  ALPHA  <support@myersin|Borrower Loan Application|The following borrower has completed an application. Please log on and download the application. Loan Number: ace0109437 Borrower Name: Dolores Daphne Daub 
+2001-09-11 03:20:12 Arch [1050814] D  ALPHA  <support@myersin|Borrower Loan Application|The following borrower has completed an application. Please log on and download the application. Loan Number: ace0109437 Borrower Name: Dolores Daphne Daub 
+2001-09-11 03:20:13 Metrocall [002178508] D  ALPHA      Sim
+2001-09-11 03:20:20 Arch [1082628] B  ALPHA  (20)syswatch: HOST/PROCESS - resswext.sec.sprint.net:CLIENT PROBLEM ID -HOSTFAIL1~resswext.sec.sprint.net~resunfw PROBLEM AREA - HOST FAILDESCRIPTION - resunfw: 2 min NO RESPONSE (PING FAIL)
+2001-09-11 03:20:20 Metrocall [1062690] A  ALPHA  12173 TIME 03:16 CLEARED-Pitt  PA4124_Shldbg CELL IMPAIRED
+2001-09-11 03:20:27 Arch [1026292] B  ALPHA  Backup@NYED.usco|Operator Attention|(Server: "NYEPSROGUE" Job: "Monday backup" Device: "HP 1") Please inser t overwritable media into the changer using the slot import command. 
+2001-09-11 03:20:27 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   4161 OPEN suntvpa:4161 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 11088 OPEN sunapp1:11088 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:20:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9652
+2001-09-11 03:20:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177010. 
+2001-09-11 03:20:29 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:20:30 Metrocall [1580909] D  ALPHA  EMAIL importantinfo@www40.net Rates may NEVER be Lower !!  ........................................................................................................................................................................ last time!)
+2001-09-11 03:20:31 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   22192 OPEN suntvpa:22192 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 31517 OPEN sunapp1:31517 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat 
+2001-09-11 03:20:31 Skytel [002559104] A SH/TONE 76245   
+2001-09-11 03:20:31 Skytel [005225860] B SH/TONE 125     
+2001-09-11 03:20:31 Skytel [007646475] C SH/TONE 9999    
+2001-09-11 03:20:33 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:20:33 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3300
+2001-09-11 03:20:35 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   19793 OPEN suntvpa:19793 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 5229 OPEN sunapp1:5229 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj
+2001-09-11 03:20:36 Skytel [002839867] C  ALPHA  23985@emc.fedex.com|attention second floor: please move your exception bags asap
+2001-09-11 03:20:36 Skytel [003270973] D  ALPHA  23985@emc.fedex.com||attention second floor: please move your exception bags asap  
+2001-09-11 03:20:36 Skytel [005228862] D SH/TONE 2002    
+2001-09-11 03:20:37 Arch [1060702] D  ALPHA  root: St.Augustine_South A96/A13/A86 002460 AL Link receive failure 09-11-01 07:18:50
+2001-09-11 03:20:37 Arch [0000101] B  ALPHA  MSN 058 hello Message from NOC PCB.
+2001-09-11 03:20:38 Skytel [008507076] B  ALPHA  01109h4f1ab01010400002g
+2001-09-11 03:20:38 Skytel [003641413] B ST NUM  710-395-0580 (80    
+2001-09-11 03:20:38 Skytel [004538828] D SH/TONE 6127    
+2001-09-11 03:20:39 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router Aevia-I-GW at 00:17:48 Txt: Router Aevia-I-GW UP at 00:17:48 Address: 166.90.48.82 Date: 09/11/2001 Status: Active and responding ( 0)
+2001-09-11 03:20:39 Metrocall [002119221] B  ALPHA  9542*Event on machine FMSDEDNETIQ Problem is Text not found in: http://
+2001-09-11 03:20:39 Metrocall [002178488] C  ALPHA  EMAIL Super-User  Output from "cron" command Your "cron" job on thor /rootstuff/backup_publik.job  produced the following output:  0.0u 0.0s 0:01 0% 0+0k 0+0io 0pf+0w 1.0u 5.0s 0:12 46% 0+0k 0+0io 0pf+0w 0.0u 12.0s 0:49 24% 0+0k 0+0io 0pf+
+2001-09-11 03:20:40 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-11 03:20:40 Arch [1184493] D  ALPHA  [IS-RTP UP] rtp8-21-1-ap1
+2001-09-11 03:20:40 Arch [0283793] A  ALPHA  [IS-RTP UP] rtp8-21-1-ap1
+2001-09-11 03:20:40 Arch [0927369] C  ALPHA  [IS-RTP UP] rtp8-21-1-ap1
+2001-09-11 03:20:40 Arch [0960635] C  ALPHA  acadambi|Brian, I have re-started the Q as there were nearly 4k records, wanted to keep u informed thanks -Aru   
+2001-09-11 03:20:40 Arch [0932748] D  ALPHA  [IS-RTP UP] rtp8-21-1-ap1
+2001-09-11 03:20:40 Skytel [007491551] D SH/TONE 4721    
+2001-09-11 03:20:40 Skytel [003050969] C SH/TONE         
+2001-09-11 03:20:41 Metrocall [002119221] B  ALPHA  networkaccount.intel.com/service_status.asp Detailed message is URL: http://networkaccount.intel.com/service_status.asp ??does not contain: SFSA0005 SUCCEEDED
+2001-09-11 03:20:41 Metrocall [002178488] C  ALPHA  0w 4.0u 23.0s 3:
+2001-09-11 03:20:42 Skytel [007589229] D SH/TONE 3366    
+2001-09-11 03:20:44 Skytel [007552633] C ST NUM  203-924-2521   
+2001-09-11 03:20:44 Skytel [002750709] B SH/TONE 76245   
+2001-09-11 03:20:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1173..
+2001-09-11 03:20:53 Skytel [005129797] B SH/TONE 690666  
+2001-09-11 03:20:57 Skytel [005436525] D  ALPHA  Test #15
+2001-09-11 03:20:57 Skytel [004524770] A  ALPHA  mannhb01:  Trunk Alarm from mannhb01 reason path-yellow: Status Fail Slot 1 Port 1 at 00:53:40 on 9/11

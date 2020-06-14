@@ -1,0 +1,115 @@
+2001-09-12 02:56:00 Arch [0976352] A  ALPHA       
+2001-09-12 02:56:00 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8145
+2001-09-12 02:56:00 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-12 02:56:00 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192972. 
+2001-09-12 02:56:02 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 02:56:02 Metrocall [1455397] B  ALPHA  roval.....   after start-up but prior to pulling pitch....  pk
+2001-09-12 02:56:02 Skytel [003274507] C  ALPHA  Apollo:INVBATN Not Avail for scanning in the last 2 hours--Scanned by APOLLO
+2001-09-12 02:56:03 Skytel [007513246] D  ALPHA  flare@cohort.cc|New Private Message at Message Forums|Tirram Thunderspirit,  You
+2001-09-12 02:56:04 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-12 02:56:04 Skytel {1599702} 1 2400 3492 (76
+2001-09-12 02:56:04 Skytel {1092655} 3 2400 002657    
+2001-09-12 02:56:05 Skytel {1608777} 1 1200 GNET 0.00 UNCH BCST 0.00 UNCH LCOS 0.00 UNCH AMZN 8.63 UNCH.
+2001-09-12 02:56:06 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-12 02:56:13 Arch [0551509] B  ALPHA  (20)31:ABS:
+2001-09-12 02:56:13 Arch [1153676] D  ALPHA  (7)"WhatsUp" <jonat|10.165.88.21 CABWGP02 is UP at 01:59:10 
+2001-09-12 02:56:13 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.129.233.21 FLBWGP01 is UP at 01:59:10 
+2001-09-12 02:56:13 Arch [1373829] B  ALPHA  (26)WhatsUp@mail.spr|10.146.129.21 TXIVGRAPP01 is UP at 01:59:10 
+2001-09-12 02:56:15 Arch [1373829] B  ALPHA  (27)WhatsUp@mail.spr|10.146.129.22 TXIVGRAPP02 is UP at 01:59:10 
+2001-09-12 02:56:15 Arch [0922216] C  ALPHA  jlwindh 75925-321-DIV1-  6024 - informix failed over to ds1 from ds2 box.  DBA engaged.  No impact.  Sent at 01:55      
+2001-09-12 02:56:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1068
+2001-09-12 02:56:21 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 02:56:21 Arch [1455185] A  ALPHA  INCIDENT: PARAMEDICS RESPONDING TO DLH RM 2122 FOR AN UNKNOWN AGE MALE GUEST FOR AN UKNOWN SITUATION. DMW...
+2001-09-12 02:56:23 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-12 02:56:25 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-12 02:56:25 Arch [0925366] B  ALPHA   318643;Sep 11 22:57:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-12 02:56:27 Arch [0886285] D  ALPHA  jlwindh 75925-321-DIV1-  6024 - informix failed over to ds1 from ds2 box.  DBA engaged.  No impact.  Sent at 01:56      
+2001-09-12 02:56:27 Arch [0284292] B  ALPHA  jlwindh 75925-321-DIV1-  6024 - informix failed over to ds1 from ds2 box.  DBA engaged.  No impact.  Sent a
+2001-09-12 02:56:27 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-12 02:56:27 Arch [1629007] D  ALPHA  jlwindh 75925-321-DIV1-  6024 - informix failed over to ds1 from ds2 box.  DBA engaged.  No impact.  Sent at 01:56      
+2001-09-12 02:56:27 Arch [0975978] C  ALPHA  jlwindh 75925-321-DIV1-  6024 - informix failed over to ds1 from ds2 box.  DBA engaged.  No impact.  Sent at 01:56      
+2001-09-12 02:56:27 Arch [1618070] B  ALPHA  jlwindh 75925-321-DIV1-  6024 - informix failed over to ds1 from ds2 box.  DBA engaged.  No impact.  Sent at 01:56     
+2001-09-12 02:56:27 Arch [0927086] D  ALPHA  VPO - msadc01:5.6.012 utapao-mras-cis-pri.ae.ge.com IF Lo0 down - 3.185.3.6 
+2001-09-12 02:56:27 Arch [1044858] C  ALPHA  jlwindh 75925-321-DIV1-  6024 - informix failed over to ds1 from ds2 box.  DBA engaged.  No impact.  Sent at 01:56      
+2001-09-12 02:56:27 Arch [0707894] B  ALPHA  ZEUS.TELCORDIA.COM HRTB MISSING 
+2001-09-12 02:56:28 Metrocall [0497643] C  ALPHA  1:00 ON HAND COUNT 1C 326 2C 72 3C 57.`C.R..N..aP.S .2..Sg.S 7
+2001-09-12 02:56:29 Arch [0284292] B  ALPHA  t 01:56      
+2001-09-12 02:56:29 Arch [1618070] B  ALPHA   
+2001-09-12 02:56:29 Arch [0707894] B  ALPHA  HEARTBEATS SECFIRE ITC REPEAT0 TECNJ Sent@02:56
+2001-09-12 02:56:30 Arch [0911005] D  ALPHA  (13)"WhatsUp" <jonat|144.223.98.3 FON_MIN1 Bloomington, MN BSG Office is DOWN at 01:58:45 
+2001-09-12 02:56:30 Arch [1430258] A  ALPHA  (28)19:ABS:
+2001-09-12 02:56:30 Arch [1153676] D  ALPHA  (8)"WhatsUp" <jonat|10.129.233.21 FLBWGP01 is UP at 01:59:10 
+2001-09-12 02:56:30 Arch [1369072] A  ALPHA  (20)18:ABS:
+2001-09-12 02:56:30 Arch [0329001] C  ALPHA  (10)18:ABS:
+2001-09-12 02:56:30 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.148.10.21 COBWGP01 Colorado Springs, CO is UP at 01:59:10 
+2001-09-12 02:56:30 Arch [0799855] D  ALPHA  (26)18:ABS:
+2001-09-12 02:56:30 Arch [0566907] C  ALPHA  (4)21:ABS:
+2001-09-12 02:56:30 Arch [1302832] A  ALPHA  (14)"WhatsUp" <jonat|10.160.48.21 WABWGP02 933 Third Street is UP at 01:59:10 
+2001-09-12 02:56:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3324
+2001-09-12 02:56:30 Metrocall [0956833] A  ALPHA  ** Escalation PM197611 Sev: 2 Grp: afs a/r rx Loc: brookfield corporate Name: alvin Ph: 864-987-5620 Descr: xp1nrxbm no jcl
+2001-09-12 02:56:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3324
+2001-09-12 02:56:32 Arch [0911005] D  ALPHA  (14)"WhatsUp" <jonat|10.160.48.21 WABWGP02 933 Third Street is UP at 01:59:10 
+2001-09-12 02:56:32 Arch [1153676] D  ALPHA  (9)"WhatsUp" <jonat|10.148.18.21 COBWGP02 Englewood, CO is UP at 01:59:10 
+2001-09-12 02:56:32 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.160.48.21 WABWGP02 933 Third Street is UP at 01:59:10 
+2001-09-12 02:56:32 Skytel [007030285] D SH/TONE 84425   
+2001-09-12 02:56:32 Skytel [007563399] B SH/TONE 771402  
+2001-09-12 02:56:34 Arch [1153676] D  ALPHA  (10)"WhatsUp" <jonat|10.148.10.21 COBWGP01 Colorado Springs, CO is UP at 01:59:10 
+2001-09-12 02:56:34 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 64.86 26.14 27.76 Tue Sep 11 23:57:00 MST 2001 
+2001-09-12 02:56:35 Skytel [007492514] A SH/TONE 293-1039
+2001-09-12 02:56:35 Skytel [005001895] B  ALPHA  [sps/171] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/ifm/healthcheck.asp) 6:30:45
+2001-09-12 02:56:35 Skytel [004625450] C  ALPHA  PIN HP NNM   STATUS: Normal               LA INTERFACE Se0.1 DEL NODO 30622-30621 SE REESTABLECIO EL DIA 09/12/01 A LAS 01:50:14
+2001-09-12 02:56:37 Skytel [0001461] B  ALPHA  GLOBEX   01:55     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 02:56:37 Skytel [003328569] C  ALPHA  OCTL 0.00 UNCH CSCO 14.47 UNCH COMS 3.60 UNCH USRX 0.00 UNCH (21
+2001-09-12 02:56:37 Skytel [005058363] C SH/TONE 84526   
+2001-09-12 02:56:38 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-12 02:56:38 Arch [1373829] B  ALPHA  (28)WhatsUp@mail.spr|10.130.174.41 GAATLDAPP01 is UP at 01:59:10 
+2001-09-12 02:56:38 Arch [1413494] B  ALPHA  (30)36:ABS:
+2001-09-12 02:56:38 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192979. 
+2001-09-12 02:56:38 Arch [0911134] D  ALPHA   equity71 SYBASE: check_db(PDS1_EQCSWLN) MAYBE OPEN TRANSACTION in syslogshold tempdb|85 - PDS1_EQCSWLN @02:56 09/12/01 
+2001-09-12 02:56:38 Arch [0927792] A  ALPHA  57-PLEASE CALL DPM AT 973-716-2660.
+2001-09-12 02:56:38 Arch [1421973] B  ALPHA  (11)18:ABS:
+2001-09-12 02:56:38 Arch [0966655] D  ALPHA  jlwindh 75925-321-DIV1-  6024 - informix failed over to ds1 from ds2 box.  DBA engaged.  No impact.  Sent at 01:56      
+2001-09-12 02:56:38 Arch [1272423] B  ALPHA  (21)bb:1: [2732210] red Tue Sep 11 23:56:22 PDT 2001 - Disk onssc-sac-p1,corp,sprint,com at PANIC level &red /var (95%)
+2001-09-12 02:56:39 Skytel [007438026] C SH/TONE 3333 (71
+2001-09-12 02:56:39 Skytel [007031244] D SH/TONE 84466   
+2001-09-12 02:56:39 Skytel [002845771] C  ALPHA  PHA 40.15 UNCH MRK 66.10 UNCH PFE 38.17 UNCH
+2001-09-12 02:56:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:56:39 Skytel [008477645] D  ALPHA  PIN HP NNM   STATUS: Normal               LA INTERFACE Se1 DEL NODO Mexico_Jackson SE REESTABLECIO EL DIA 09/12/01 A LAS 01:50:14 (12 (16
+2001-09-12 02:56:39 Skytel [005258313] C  ALPHA  SDAL319TERM Server 172.31.33.67 UP at 01:45:04
+2001-09-12 02:56:40 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-12 02:56:40 Arch [1373829] B  ALPHA  (29)WhatsUp@mail.spr|10.130.174.42 GAATLDAPP02 is UP at 01:59:10 
+2001-09-12 02:56:40 Arch [1272423] B  ALPHA   hasreached the defined disk space PANIC level (95%)/dev/vx/dsk/p1_unix/p1sybase 2879972 895228 1696747 35%
+2001-09-12 02:56:41 Skytel [007591378] A SH/TONE 6773    
+2001-09-12 02:56:41 Skytel [002472278] B SH/TONE 285 (80 
+2001-09-12 02:56:41 Skytel [003641413] B ST NUM  710-395-0580 (98    
+2001-09-12 02:56:41 Skytel [005249751] B SH/TONE 301     
+2001-09-12 02:56:41 Skytel [1800019] A  ALPHA  GLOBEX   01:55     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 02:56:41 Skytel [007047007] D SH/TONE 3605    
+2001-09-12 02:56:42 Arch [1272423] B  ALPHA  (22)bb:2: /p1sybase/dev/vx/dsk/p1_unix/logs 287982 123300 135884 48% /logs/dev/vx/dsk/rootdg/nsr 983020 434347 450371 50% /nsr/dev/vx/dsk/rootdg/usr 508039 264133 193103 58% /usr/dev/vx/dsk/p1_unix/autosys 287982 149644 109540
+2001-09-12 02:56:42 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-12 02:56:43 Skytel [005178080] A SH/TONE 104     
+2001-09-12 02:56:43 Skytel [005110114] A SH/TONE 228     
+2001-09-12 02:56:43 Skytel [005197292] D  ALPHA  SGI 0.42 UNCH MOT 15.04 UNCH AMAT 40.03 UNCH BHI 34.55 UNCH
+2001-09-12 02:56:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #99-IX_T3705
+2001-09-12 02:56:43 Skytel [004529512] C SH/TONE 208     
+2001-09-12 02:56:43 Skytel [002406502] B  ALPHA  maillog@2waybeats.com|2waybeats.com VDE/CGI script output|1[!A0][D32801]!*+Iconz+FunkedUp-2WayBeats.com;2,T113%5VLdD#svldLra5D#a2D#a9lrVLdDvldLra5Da2Da9lrVLdD#vldLra5D#a2D#a99RlrLdVBvldLrRlrLdVBvldLrRBBlr5VLdD#vldLra5D#a2D#a9lrVLdDvldLra5Da
+2001-09-12 02:56:44 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34
+2001-09-12 02:56:45 Skytel [002862711] B ST NUM  908-834-6600   
+2001-09-12 02:56:45 Skytel [005059705] C SH/TONE 1229    
+2001-09-12 02:56:45 Skytel [004548850] A SH/TONE 84691   
+2001-09-12 02:56:47 Skytel [004398337] A SH/TONE 83077   
+2001-09-12 02:56:49 Metrocall [1064374] B  ALPHA  YEN  119.00/08 -072 EUR  0.9117/22 +014 CHF  1.6478/98 +073 GBP  1.4740/45 -011 CAD  1.5627/33 -010 AUD  0.5183/88 -012 NZD  0.4295/15 -010 DEM  2.1441/53 -033  E/C  1.5037/50 +046 E/Y  108.59/71 -040 E/S  0.6189/91 -003 USD     113.22 -016
+2001-09-12 02:56:50 Skytel [004417186] A ST NUM  370-0311-2
+2001-09-12 02:56:50 Skytel [002738094] D SH/TONE 83719   
+2001-09-12 02:56:51 Arch [0578226] A  ALPHA  davem@actel.com|Automatic Etest Notification|> ---------- > From: davem@actel.com[SMTP:DAVEM@ACTEL.COM] > Sent: Tuesday, September 11, 2001 4:45:06 PM > To: davem@actel.com; davem@actel.com > Subject: Automatic Etest Notification > Auto forw
+2001-09-12 02:56:51 Arch [1625046] B  ALPHA  t: pkao@yahoo-inc.com (Subj: DGENTCL FAILED: gentcl_tw[ALL][TEST][6748]) Argument "1,2" isn't numeric in numeric ne (!=)at gen_cons.pm line 634. WARNING: ycons_translate_cons: Erroropening cons/p57344.c for writing WARNING:
+2001-09-12 02:56:51 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-12 02:56:53 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-12 02:56:55 Arch [1153676] D  ALPHA  (11)"WhatsUp" <jonat|10.164.152.21 AZBWGP07 is UP at 01:59:11 
+2001-09-12 02:56:55 Arch [1272423] B  ALPHA  (23)bb:3: 58%/usr/vendor/autotree/autosys3_4 /dev/vx/dsk/p1_unix/export-home471414 264234 160039 63% /export/home /dev/vx/dsk/rootdg/opt 23999741351940 808037 63% /opt /dev/vx/dsk/p1_unix/production 383982 237409108175 69% /production
+2001-09-12 02:56:55 Arch [1242684] D  ALPHA  (16)18:ABS:
+2001-09-12 02:56:55 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.148.26.21 UTBWGP01 2233 S Presidents Dr is UP at 01:59:10 
+2001-09-12 02:56:56 Skytel [004681567] D  ALPHA  D04NMS69 - what did you do?  800-4264252
+2001-09-12 02:56:57 Arch [1272423] B  ALPHA  (24)bb:4: /dev/vx/dsk/p1_unix/datafiles 6711388 41969871843263 70% /datafiles /dev/vx/dsk/rootdg/openwin 288326 20475754737 79% /usr/openwin /dev/vx/dsk/p1_unix/oracle-new 287982 22335335831 87% /oracle /dev/vx/dsk/rootdg/rootvol
+2001-09-12 02:56:58 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8146
+2001-09-12 02:56:58 Arch [1272423] B  ALPHA  (25)bb:e: 52015 41586 5228 89% //dev/vx/dsk/rootdg/var 1071871 959321 58957 95% /var Please see:http://ssc-sac-bs1.west.sprint.com/bb/html/ssc-sac-p1.corp.sprint.com.disk.html -oo-

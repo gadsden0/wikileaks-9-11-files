@@ -1,0 +1,84 @@
+2001-09-11 05:38:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2045
+2001-09-11 05:38:00 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage on HBO ended after 752 seconds 09/11/01 02:35:48 PDT7 623056
+2001-09-11 05:38:00 Metrocall [002106845] D  ALPHA  BTMNA Network: Server NJHR2022 DOWN at 05:34:33
+2001-09-11 05:38:00 Metrocall [1064385] A  ALPHA  JY  8214/8282  -059 EC 
+2001-09-11 05:38:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2045
+2001-09-11 05:38:01 Metrocall [1064385] A  ALPHA   8957/8937 -0046 BP 14554/14502 -036 SF  5913/5917  -024 CD  6400/6396  +002 AD  5134/5116  +002 DM  4602/4591  -026 FES 9696/734/742/32 FDX 4775/4826  +088 PTB 8963/8880  -015 FGBS10354 FYB 13897 BDL 10799/10800-026 BDM 10710-018
+2001-09-11 05:38:02 Arch [1410805] B  ALPHA  (21)Host UNIX Mvmnt problem logged to /movement/beep/hmv0004b.log file has been resolved.  :)
+2001-09-11 05:38:02 Arch [0916116] B  ALPHA  Host UNIX Mvmnt problem logged to /movement/beep/hmv0004b.log file has been resolved.  :)
+2001-09-11 05:38:03 Skytel [005424662] B  ALPHA  ** Escalation PM196376 Sev: 2 Grp: ais pos Loc: store 021 Name: chris Ph: 716-439-4366 Descr: wtg for release (97
+2001-09-11 05:38:03 Skytel {1578497} 1 2400 WCOM 12.92.
+2001-09-11 05:38:03 Skytel {1092655} 3 2400 002231    
+2001-09-11 05:38:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6867
+2001-09-11 05:38:10 Arch [0418533] B  ALPHA  (29)42:ABS: Tkt:4999959, Sev:4, TIQ:139min, Sname:XXX, CIS Id:13098661, Contact:OLIVER BANTA @ 4024388322 Note:SL-GW7-CHE, SERIAL6/1/0/17:0 IS UP, LINE PROTOCOL IS UP BUT HAS BEEN BOUNCING. IT HAS ACCRUED PHYSICL ERRORS SINCE LAST INT CLEARING.
+2001-09-11 05:38:10 Arch [1238892] D  ALPHA  (6)79:ABS: Tkt:4999959, Sev:4, TIQ:139min, Sname:XXX, CIS Id:13098661, Contact:OLIVER BANTA @ 4024388322 Note:SL-GW7-CHE, SERIAL6/1/0/17:0 IS UP, LINE PROTOCOL IS UP BUT HAS BEEN BOUNCING. IT HAS ACCRUED PHYSICL ERRORS SINCE LAST INT CLEARING.
+2001-09-11 05:38:11 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage on SCIF ended after 748 seconds 09/11/01 02:36:11 PDT7 623035
+2001-09-11 05:38:11 Metrocall [1064388] B  ALPHA  LCO 2740/2733  -005 CL 2760/780/788-003 2752/2716/2678/2655 2623/2591/2560/2530 HO 7956/015/050-005 HU 8180/770/560-007 NG2400/2
+2001-09-11 05:38:12 Arch [0418533] B  ALPHA  (30)43:ABS: Tkt:5002608, Sev:4, TIQ:141min, Sname:XXX, CIS Id:13077749, Contact:DONAL FAGAN @ 8149460451 Note:SL-GW33-PEN,SERIAL4/0:4 IS UP, LINE PROTOCOL IS UP,MONITOR FOR BOUNCIN G 1 HOUR....... JEDWARDS/PMC
+2001-09-11 05:38:12 Arch [1238892] D  ALPHA  (7)80:ABS: Tkt:5002608, Sev:4, TIQ:141min, Sname:XXX, CIS Id:13077749, Contact:DONAL FAGAN @ 8149460451 Note:SL-GW33-PEN,SERIAL4/0:4 IS UP, LINE PROTOCOL IS UP,MONITOR FOR BOUNCIN G 1 HOUR....... JEDWARDS/PMC
+2001-09-11 05:38:13 Metrocall [1064388] B  ALPHA  681/003+013 3153/3120/3050/2960 965/010/040/055/065 LGO 23925/4100-0300 PL v4390/f4320 +007 EC _3300/_3150+0150 PAm45600+000
+2001-09-11 05:38:15 Arch [0000101] B  ALPHA  MSN 124 hello Message from NOC PCB.
+2001-09-11 05:38:17 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178526. 
+2001-09-11 05:38:17 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSTRD_EDGNY1) *** VERY SERIOUS Blocking in PDSTRD_EDGNY1 - block time=4068 > 600 secs - Tue Sep 11 05:38:20 EDT 2001 @05:38 09/11/01 
+2001-09-11 05:38:19 Arch [0320272] A  ALPHA  PATROLpatrol - hrnais01.NSQUEUE_PNS-NSQUEUE_PNS-USNS ALARM/ALARM 30<=129.000000<=400.Critical
+2001-09-11 05:38:20 Metrocall [1064379] C  ALPHA   LONDON GOLD 1030 FIX - SEP 11 - 271.40 DLRS
+2001-09-11 05:38:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9790
+2001-09-11 05:38:30 Arch [1604354] A  ALPHA  (10)06:ABS: Tkt:5003048, Sev:2, Opened, Sname:SYM, CIS Id:13100506, Contact:IS SUPPORT @ 6317384731 Note:LINE DOWN: PROACTIVE TICKET CREATED BY NEXUS FOR SPECTRUM. |MODEL|0x1939868|bangalore.symbol.com|Rtr_Cisco|0x10009|
+2001-09-11 05:38:30 Arch [0970454] B  ALPHA  (12)SO:-*Submit-Cust-JCL(4:36:12
+2001-09-11 05:38:30 Metrocall [1104994] A  ALPHA  Frm: jmizzi@bidcom.com Sub: Excess Oracle processes in Production - 408 Txt: Total no. of processes : 408
+2001-09-11 05:38:30 Metrocall [1064391] B  ALPHA  LME FUTURES       MCU_1438/1440 -006 MAL 1370/1372 -006 MAA 1143/1148 -012 MNI 5060/5090 -070 MSN 3745/3760 -030 MPB
+2001-09-11 05:38:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3438
+2001-09-11 05:38:31 Metrocall [1064391] B  ALPHA   4790/4800 -010 MZN _829/_831 -006
+2001-09-11 05:38:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 02:38:14 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:38:33 Skytel [007035414] B SH/TONE 9444    
+2001-09-11 05:38:33 Skytel [003915157] B  ALPHA  drtaylor3@fedex.com|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:33 Skytel [005108501] B  ALPHA  OO 14.05 -0.20 RAYS 0.00 UNCH (31
+2001-09-11 05:38:33 Skytel [002358802] A  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:33 Skytel [003949075] A  ALPHA  2139899911@airmessage.net||you still awake?  vena  
+2001-09-11 05:38:35 Skytel [1287077] B  ALPHA  MI AMOR: VINE AL DEPTO. TU CEL. ESTA APAGADO. TE AMA ARMANDO. (1 (2
+2001-09-11 05:38:35 Skytel [003937574] B  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:35 Skytel [005210412] D  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:35 Skytel [005354409] C  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:36 Skytel [005108412] D  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:36 Skytel [002356409] C  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:38 Arch [0915934] D  ALPHA  |Case in SPSG-WW |P3 *ANS*Program Configuration (NMS (Network Management Services)- Service Provider: from 05:38|112  
+2001-09-11 05:38:38 Arch [1184493] D  ALPHA  [IS-RTP UP] rtp8-21-1-ap1
+2001-09-11 05:38:38 Arch [1749363] A  ALPHA  |P2 NOTICE #4243071 |Concert link from Madrid to Lisbon flapping. No user impact due to ISDN backup. EMEA WAN opened ticket with Concert. OUTAGE START: 11 Sep 7:30 CET NO ETU. walho x4112 |188  
+2001-09-11 05:38:38 Arch [0805210] C  ALPHA  |P2 NOTICE #4243071 |Concert link from Madrid to Lisbon flapping. No user impact due to ISDN backup. EMEA WAN opened ticket with Concert. OUTAGE START: 11 Sep 7:30 CET NO ETU. walho x4112 |188  
+2001-09-11 05:38:38 Arch [0918725] B  ALPHA  |P2 NOTICE #4243071 |Concert link from Madrid to Lisbon flapping. No user impact due to ISDN backup. EMEA WAN opened ticket with Concert. OUTAGE START: 11 Sep 7:30 CET NO ETU. walho x4112 |188  
+2001-09-11 05:38:38 Skytel [003918277] B  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:38 Skytel [003915334] B  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:39 Metrocall [002589906] A  ALPHA  Frm: ams4tt@amsapp01-c1.sc.attws.com Sub: AMS-TT: TT677188 Txt: Major; TT677188; TR User Assign; CELL; HARDWARE; RTU; 09/11/01 02:38:14; NRKT2LU;P103 - ;RTU and TRTU take dnld but fail restoral. Short Description : Web view of this AMS Ticket: http
+2001-09-11 05:38:40 Skytel [005256917] B  ALPHA  ETMS ESC Tkt#: 2001091002861  P1  Ckt ID: ZABD6MY80001  Cust: DEPT HEALTH & HUMAN SVCS/FTS  I1  WG: MACHA.ORCDSP  Sev: DEGRADED  OutTm: 2:21  Date: 09/11/2001 09:38
+2001-09-11 05:38:40 Skytel [003915739] C  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:40 Skytel [003914712] C  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:40 Skytel [003915356] D  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:40 Skytel [003050969] C SH/TONE         
+2001-09-11 05:38:40 Skytel [005354970] C  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:40 Skytel [003914708] B  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:40 Skytel [003914718] D  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:41 Metrocall [002589906] A  ALPHA  ://amsweb.sc.attws.com/arcgi-bin
+2001-09-11 05:38:42 Skytel [005436525] D  ALPHA  nMCI Test #14
+2001-09-11 05:38:42 Skytel [004524770] A  ALPHA  wor-SFMedical-HubsonMA-01: CPE Up at 00:59:27 on 9/11
+2001-09-11 05:38:42 Skytel [005112809] C  ALPHA  04:36CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240432: Uncorrectable write error
+2001-09-11 05:38:42 Skytel [005057390] D  ALPHA  aug001bdcaege:3.7.003 Service UPS (Uninterruptible Power Supply) Is Not Running. Current state is Stopped.
+2001-09-11 05:38:44 Skytel [004696828] D  ALPHA  WHERE ARE YOU? GET TO TEDS NOW. MOM
+2001-09-11 05:38:44 Skytel [003076470] B  ALPHA  NOVL 3.99 +0.07 NSCP 0.00 UNCH MSFT 57.58 +2.18 IBM 96.47 -0.12 (47
+2001-09-11 05:38:44 Skytel [007518833] A  ALPHA  "etulloch"|standard cv|Hi! How are you=3F   I send you this file in order to have your advice   See 
+2001-09-11 05:38:44 Skytel [005043705] C  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:46 Skytel [005524994] A SH/TONE 1       
+2001-09-11 05:38:46 Skytel [005103105] A  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:49 Arch [0931795] A  ALPHA  |P2 NOTICE #4243071 |Concert link from Madrid to Lisbon flapping. No user impact due to ISDN backup. EMEA WAN opened ticket with Concert. OUTAGE START: 11 Sep 7:30 CET NO ETU. walho x4112 |188  
+2001-09-11 05:38:50 Metrocall [002116951] B  ALPHA  Frm: wn@solutions.att.com Sub: AT&T Tkt#0060142-(877) 833-2770:Honeywell Txt: Teterboro NJ site UP. Power restored (was out). Neil Franklin on site restoring servers, all network equipment is up. Paul x4049
+2001-09-11 05:38:50 Metrocall [0626007] B  ALPHA  35-BRANCH 1292 SALES $5,033.
+2001-09-11 05:38:50 Skytel [005061927] B  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:50 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb1 login content match error on step 2, http://192.168.67.181:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informat
+2001-09-11 05:38:50 Skytel [004399652] B  ALPHA  drtaylor3@fedex.com|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:50 Skytel [004690208] A  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:51 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1311..
+2001-09-11 05:38:52 Skytel [004687933] D  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:53 Skytel [005062728] C  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:53 Skytel [004406989] D  ALPHA  mbcopeland@fedex.com||1580 has been downgraded to a 727-100 call inside.  
+2001-09-11 05:38:53 Skytel [004403151] D  ALPHA  2) MU 32.18 -0.57 IBM 96.45 -0.14
+2001-09-11 05:38:55 Skytel [003918037] B  ALPHA  drtaylor3@fedex.com|update|ind jet ata 0534 adhoc flt comming from mem 0900??? with 100 pcs of minisort.  
+2001-09-11 05:38:57 Skytel [004682599] B  ALPHA  mbcopeland@fedex.com|1580 has been downgraded to a 727-100 call inside.  

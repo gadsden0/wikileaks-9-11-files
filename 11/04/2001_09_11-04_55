@@ -1,0 +1,53 @@
+2001-09-11 04:55:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2002
+2001-09-11 04:55:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2002
+2001-09-11 04:55:01 Metrocall [002567097] C  ALPHA  Hannon's #10:           WI FREEZER  COOL ON
+2001-09-11 04:55:01 Metrocall [1064374] B  ALPHA  YEN  121.73/79 +080 EUR  0.8976/78 -005 CHF  1.6878/88 -001 GBP  1.4544/51 -019 CAD  1.5616/22 -010 AUD  0.5140/45 +007  NZD  0.4259/64 -048 DEM  2.1790/94 +020  E/C  1.5146/58 -009 E/Y  109.23/
+2001-09-11 04:55:01 Metrocall [002110657] A  ALPHA  Take medications.
+2001-09-11 04:55:03 Metrocall [1064374] B  ALPHA  29 +058 E/S  0.6168/74 +010 USD     114.93 +015
+2001-09-11 04:55:03 Skytel [003905173] B ST NUM  942-4834 U
+2001-09-11 04:55:03 Skytel [004534043] C SH/TONE 1       
+2001-09-11 04:55:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6824
+2001-09-11 04:55:05 Skytel [002357676] D SH/TONE 449-8888
+2001-09-11 04:55:05 Skytel [007573156] B ST NUM  08007243624872205558
+2001-09-11 04:55:05 Skytel {1599702} 1 2400 3492 U (7..
+2001-09-11 04:55:06 Arch [1652523] C  ALPHA  blhg: autonotify process ora_dbw0_dwdev is not operating at this time  
+2001-09-11 04:55:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178056. 
+2001-09-11 04:55:09 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs06 Sev:4 # 120011 DisconnectError WBS 3.1.14.1 09/11/01 01:52:45 PDT7 Instance: tm-esni Module: Transport Details: PID=22663 TID=11 tm-esni disconnected from Ticker=labcp-wbs06, 5555; 720 reconnect attempt
+2001-09-11 04:55:09 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs06 Sev:4 # 120002 ReadError WBS 3.1.1..1..;.1.1..1.02..5.................................................. PID=2266 0TID= . file closed
+2001-09-11 04:55:14 Arch [0782097] A  ALPHA  OPEN:Link TRGR54A (Tarragona, Spain) --> BLR54A (Bilbao, Spain) is down again. TOP:04:37. TKT#1484962 -- From: SMT - 248.528.7000
+2001-09-11 04:55:14 Arch [0949118] D  ALPHA  Bell Catherine A|FW: TAWG Update|> ---------- > From: coby.kieft@nl.abnamro.com[SMTP:COBY.KIEFT@NL.ABNAMRO.COM] > Sent: Tuesday, September 11, 2001 4:44:17 AM > To: O004135@mellon.com > Subject: TAWG 
+2001-09-11 04:55:22 Metrocall [1362298] C  ALPHA  Frm: Optivity@harbortech.com Sub: Operator Attention Txt: Operator Attention is needed. (Server: "OPTIVITY-NJ" Job: "SNMPc & HPOV:Diff" Device: "HP 1") Please insert overwritable media into the drive.
+2001-09-11 04:55:24 Skytel {1328275} 1 1200 19030
+2001-09-11 04:55:24 Skytel {0132085} 1 1200 160160001C00000000006190100003E2600202244000000000001C00000000006190100003E260020224400000000.
+2001-09-11 04:55:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9747
+2001-09-11 04:55:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE S..U.....L@....E.....9..
+2001-09-11 04:55:31 Metrocall [1064377] C  ALPHA  .......................................................................8.....$.....D .$.....4................................................................................................
+2001-09-11 04:55:31 Skytel [003947407] D  ALPHA  NIMS01:Device Inaccessible
+2001-09-11 04:55:35 Skytel [007527335] B  ALPHA  y-alerts@yahoo-inc.com||Fr: freeyankee@lists.postmastergeneral.com *$400 in FREE Travel Agency Coupo
+2001-09-11 04:55:35 Skytel [002376872] C  ALPHA  svcaem1@conxion.net|onl-sf-2.symantec.com, HTTP, 206.204.52.77:80, Server Recovered, | 
+2001-09-11 04:55:37 Skytel [002848952] C  ALPHA  10125:Network Node LYRT160C201D (3.164.163.64) is Down @ 04:50 09/11/01
+2001-09-11 04:55:38 Skytel [004391759] D SH/TONE 1       
+2001-09-11 04:55:38 Skytel [005000134] B ST NUM  890-911-2114   
+2001-09-11 04:55:40 Skytel [004593755] C SH/TONE 445-6579
+2001-09-11 04:55:40 Skytel [005338196] B SH/TONE 28886   
+2001-09-11 04:55:42 Skytel [005436525] D  ALPHA  Test Message #17-IX_T0302
+2001-09-11 04:55:42 Skytel [005203941] B  ALPHA  6864*Host business.cch.com UP at 03:54:34  
+2001-09-11 04:55:42 Skytel [004524770] A  ALPHA  wil-BlakeEquipment-RutlandVT-01: CPE Up at 00:58:45 on 9/11
+2001-09-11 04:55:42 Skytel [005226605] D ST NUM  8683241849
+2001-09-11 04:55:44 Arch [1034502] B  ALPHA  r4adkin 75925-331   -  hodfxdb01 - TLOGS at 457(2500) behind- Please call Ray UNX Ops  Sent at 03:55      
+2001-09-11 04:55:44 Arch [1213254] B  ALPHA  From root at 04:56 AM EDT: "PageMike Jobset cardlnk Job cardlnk_data.pl Started at 04.56.11 on hpm"  
+2001-09-11 04:55:44 Arch [0942473] C  ALPHA  RD Job SAPSRPT950 is in a failed status!
+2001-09-11 04:55:44 Skytel [002357369] C  ALPHA  002217 CYCLIC TEST 
+2001-09-11 04:55:44 Skytel [007109749] B SH/TONE 140-1112
+2001-09-11 04:55:44 Skytel [003327216] A  ALPHA  002217 CYCLIC TEST 
+2001-09-11 04:55:44 Skytel [007009399] B ST NUM  08007598255    
+2001-09-11 04:55:44 Skytel [002139900] D SH/TONE 002217  
+2001-09-11 04:55:44 Skytel [003938556] D  ALPHA  telalerts restarted on SVUtil0 09/11/01 04:55:28
+2001-09-11 04:55:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178063. 
+2001-09-11 04:55:47 Arch [1026292] B  ALPHA  ny_pretrial@nysd|Job Succeeded|SDNY NT Backup (Server: "PSOHUDSON4") Job "Daily Monday" completed successfully.:::logfi lenameC:\PROGRAM FILES\VERITAS\BACKUP EXEC\NT\DATA\BEX63.txt 
+2001-09-11 04:55:48 Skytel [004052628] B  ALPHA  KPNQwest, Intel In E-Business Network Alliance[DJ NEWS] (96
+2001-09-11 04:55:50 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcb-wbs06 Sev:4 # 910302 Error handler error recovery update sent DSMServer 3.1.14.1 09/11/01 02:00:19 PDT7 Instance: ErrorHandler Module: DSMServer Details: PID=23204 TID=7 SendErrorRecoveryUpdate : Text update
+2001-09-11 04:55:50 Metrocall [002119221] B  ALPHA  0812*Event on machine FMSDEDNETIQ Problem is Text not found in: http://networkaccount.intel.com/service_status.asp Detailed message is URL: http://networkaccount.intel.com/service_status.asp ??does not contain: SFSA0005 SUCCEEDED
+2001-09-11 04:55:50 Metrocall [0497643] C  ALPHA  3:00 ON 
+2001-09-11 04:55:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1268..
+2001-09-11 04:55:52 Metrocall [0497643] C  ALPHA  HAND MAIL COUNT 1C 307 2C 121 3C 584 %R..N..4..ER.O..6..RI.............P...........APCS SEC 8

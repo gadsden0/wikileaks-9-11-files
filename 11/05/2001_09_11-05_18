@@ -1,0 +1,70 @@
+2001-09-11 05:18:00 Arch [0810070] B  ALPHA  7325*Rtr_Cisco inet_cust01 alarm cleared
+2001-09-11 05:18:00 Metrocall [1064374] B  ALPHA  YEN  121.72/77 +079 EUR  0.8964/66 -017 CHF  1.6895/01 +016 GBP  1.4545/51 -018 CAD  1.5616/21 -010 AUD  0.5139/44 +006  NZD  0.4257/67 -050 DEM  2.1816/28 +046  E/C  1.5147/49 -008 E/Y  109.06/19 +041 E/S  0.6159/65 +001 USD     115.02 +024
+2001-09-11 05:18:00 Metrocall [1064378] C  ALPHA  ECB ALLOTS REFIS AT 4.27 PCT WEIGHTED AVERAGE RATE VS 4.28 PCT LAST WEEK
+2001-09-11 05:18:00 Metrocall [1064395] C  ALPHA  )?#`BAKHI@^@DfKCaHHLrYOjTtEJKFdttDFh`ZKfS]APauDE^KIcrJdVH``uhmJCGbhJTFiEPUjZAhnYNDEBGTPSHMNh`kqXlm@D`PM^S|C
+2001-09-11 05:18:00 Metrocall [1064377] C  ALPHA  US 10514/10421 +000 SP109870/10140+0300 FEI95785/9
+2001-09-11 05:18:01 Metrocall [1902004] B  ALPHA  Frm: Bbrother Sub: !BB - 1120810! beta.disk - 100208184226141 Txt: [1120810] purple Wed Sep 5 21:22:48 PDT 2001 - Disk on beta at WARNING level &yellow /home (87%) has reached the defined disk space WARNING level (85%) /dev/vg1/var 524268 
+2001-09-11 05:18:01 Metrocall [1064377] C  ALPHA  6080/9625 9623/9613/9594/9586 SED 96657/6705/6620 96330/9596/9553/528 SEY9993/991/990/990 FSS9510/524/521/501 FLG 11457/11386 -66 FFI  5117/5157 +084 ND 13780/13820 +095 TY 10710  FV 10616+
+2001-09-11 05:18:01 Metrocall [1064376] C  ALPHA  GOVPX TREASURY 30__99.04+/05+5.434 10_101.06
+2001-09-11 05:18:01 Skytel [003937421] D  ALPHA  [iciuser]: start_coc.pl: Step 5: Failed CALL of coc_map_pkg.setup_cob_date [COB=
+2001-09-11 05:18:01 Skytel [007046275] A SH/TONE 3411    
+2001-09-11 05:18:02 Arch [1079409] A  ALPHA  7325*Rtr_Cisco inet_cust01 alarm cleared
+2001-09-11 05:18:02 Arch [0634239] D  ALPHA  7325*Rtr_Cis.....e. c..t.....aP....eared
+2001-09-11 05:18:02 Arch [0986081] A  ALPHA  3749*Rtr_Cisco inet_cust02 alarm cleared
+2001-09-11 05:18:02 Arch [0810070] B  ALPHA  3749*Rtr_Cis....e. c..t.....a.....eared
+2001-09-11 05:18:03 Metrocall [1902004] B  ALPHA  7
+2001-09-11 05:18:03 Metrocall [1061722] C  ALPHA  Frm: Bbrother Sub: !BB - 1120810! beta.disk - 100208184226141 Txt: [1120810] purple Wed Sep 5 21:22:48 PDT 2001 - Disk on beta at WARNING level &yellow /home (87%) has reached the defined disk space WARNING level (85%) /dev/vg1/var 524268 
+2001-09-11 05:18:03 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2025
+2001-09-11 05:18:03 Metrocall [1064376] C  ALPHA  +/07 4.845 5Y_101.07+/09 4.331 2Y_100.06+/07 3.517   6M   3.110/100      3M   3.170/160
+2001-09-11 05:18:03 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage detected on HBO: 221 seconds so far 09/11/01 02:15:43 PDT
+2001-09-11 05:18:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6847
+2001-09-11 05:18:04 Arch [1079409] A  ALPHA  3749*Rtr_Cisco inet_cust02 alarm cleared
+2001-09-11 05:18:04 Arch [0810070] B  ALPHA  8000*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:59 OMA-PIXIN01 %PIX-1-105004: Secondary Monitoring on interface 2 normal
+2001-09-11 05:18:04 Arch [0634239] D  ALPHA  8000*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:59 OMA-PIXIN01 %PIX-1-105004: Secondary Monitoring on interface 2 normal
+2001-09-11 05:18:04 Arch [0986081] A  ALPHA  8000*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:59 OMA-PIXIN01 %PIX-1-105004: Secondary Monitoring on interface 2 normal
+2001-09-11 05:18:05 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2025
+2001-09-11 05:18:05 Metrocall [1061722] C  ALPHA  7
+2001-09-11 05:18:05 Metrocall [0477913] C  ALPHA  7 621056
+2001-09-11 05:18:05 Skytel [004024864] A  ALPHA  wingmon@firstusa.com||SiteScope nepxy101 cpu nepxy101 36169 no data    ********************************************************************** This transmission may contain information that is privileged, confidential and/or exempt from disc
+2001-09-11 05:18:05 Skytel {0554059} 3 1200 8007593293     
+2001-09-11 05:18:06 Arch [1079409] A  ALPHA  8000*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:59 OMA-PIXIN01 %PIX-1-105004: Secondary Monitoring on interface 2 normal
+2001-09-11 05:18:06 Arch [0634239] D  ALPHA  3749*Rtr_Cisco inet_cust02 alarm cleared
+2001-09-11 05:18:06 Skytel {0132085} 1 1200 0001C00000000006190100003C0700000000051C6124534F02000000.
+2001-09-11 05:18:10 Arch [0986081] A  ALPHA  4543*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:59 OMA-PIXIN01 %PIX-1-105004: Secondary Monitoring on interface 0 normal
+2001-09-11 05:18:10 Arch [0810070] B  ALPHA  4543*NETLOGG..:..n..c..e. e. ..............................................................................interface 0 normal
+2001-09-11 05:18:10 Arch [1079409] A  ALPHA  4543*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:59 OMA-PIXIN01 %PIX-1-105004: Secondary Monitoring on interface 0 normal
+2001-09-11 05:18:10 Arch [0634239] D  ALPHA  4543*NETLOGG..:..n..c..e..e. P.............................................................................interface 0 normal
+2001-09-11 05:18:11 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage detected on SCIF: 241 seconds so far 09/11/01 02:16:06 PDT7 621035
+2001-09-11 05:18:11 Metrocall [1064378] C  ALPHA  ECB ALLOTS 61 BLN EUROS IN REFIS, DRAINS 9 BLN EUROS WITH REFI ALLOCATION
+2001-09-11 05:18:11 Metrocall [1064395] C  ALPHA  )?#`BALHI@]@DjKCaHHLrYOjTtCYb`aSIrBKUiSzZBSNPThlZSSVHHeJC..T..e. .....R..t..S..........................WeM@p
+2001-09-11 05:18:12 Arch [0986081] A  ALPHA  3061*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:59 OMA-PIXIN01 %PIX-1-105004: Secondary Monitoring on interface 1 normal
+2001-09-11 05:18:12 Arch [0810070] B  ALPHA  3061*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:59 OMA-PIXIN01 %PIX-1-105004: Secondary Monitoring on interface 1 normal
+2001-09-11 05:18:17 Arch [0949746] A  ALPHA  1/02:****CHG-TKT**** TYPE: Major  OP: 08/31/01 11:05:55 Tkt: NOC000000083771 STAT: Monitor  COMPANY NAME: BellSouth.Net Inc.   SITE: Atlanta 1100  LOG: This is just a TELEALERT test.  Please do not re
+2001-09-11 05:18:18 Metrocall [1261323] C  ALPHA  Frm: wingmon@firstusa.com Txt: SiteScope neweb102 /webs neweb102 2563 no data
+2001-09-11 05:18:19 Arch [0949746] A  ALPHA  2/02:678-441-8377
+2001-09-11 05:18:20 Metrocall [1064375] B  ALPHA  /FTSE  5127.50  +093 NIKK  10292.95  +097 DAX    4756.92  +086 CAC40  4461.26  +077 MIB30  31845   +0281 HSI  10417.36  +0051 30 _99.02/03  5.438% GOLD271.05/155  -045 S 4.17/19  PL 440.00 PD 450.00/0.00  +000 JG 1.420%
+2001-09-11 05:18:21 Arch [1079409] A  ALPHA  3061*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:59 OMA-PIXIN01 %PIX-1-105004: Secondary Monitoring on interface 1 normal
+2001-09-11 05:18:21 Arch [0634239] D  ALPHA  3061*NETLOGG..:..n..c..e. e. P.............................................................................interface 1 normal
+2001-09-11 05:18:21 Arch [0986081] A  ALPHA  4129*NETLOGGER: Undocumented PIX Error: Sep 11 05:17:01 OMA-PIXIN02 %PIX-1-105004: Primary Monitoring on interface 0 normal
+2001-09-11 05:18:21 Arch [0810070] B  ALPHA  4129*NETLOGG..:..n..c..e. e. P.............................................................................terface 0 normal
+2001-09-11 05:18:23 Arch [1079409] A  ALPHA  4129*NETLOGGER: Undocumented PIX Error: Sep 11 05:17:01 OMA-PIXIN02 %PIX-1-105004: Primary Monitoring on interface 0 normal
+2001-09-11 05:18:23 Arch [0634239] D  ALPHA  4129*NETLOGGER: Undocumented PIX Error: Sep 11 05:17:01 OMA-PIXIN02 %PIX-1-105004: Primary Monitoring on interface 0 normal
+2001-09-11 05:18:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9770
+2001-09-11 05:18:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3418
+2001-09-11 05:18:32 Arch [0280341] B  ALPHA  netsaint <netsai|PROBLEM alert - Host LasVegas-2 |Host 'SBG_LasVegas-2' is DOWN Info: CRITICAL - Plugin timed out after 10 seconds Time: Tue Sept 11 05:20:14 EDT 2001 
+2001-09-11 05:18:33 Metrocall [1064385] A  ALPHA  12
+2001-09-11 05:18:33 Skytel [002401821] D  ALPHA  saspcd00 Distributed Monitoring PALM.dm.ussa17.Unix.saspcd00/CPU time: user plus sys on host saspcd00 09/10/01 00:17:00 PDT  Status: >>> se ussa17.PALM 
+2001-09-11 05:18:37 Skytel [004688058] C  ALPHA  Rodrigo,  The system may be down when you get in.  Let me know.  Digital & EDS just paged me.  Let me know.  THKS (63
+2001-09-11 05:18:38 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSTRD_EDGNY1) *** VERY SERIOUS Blocking in PDSTRD_EDGNY1 - block time=2870 > 600 secs - Tue Sep 11 05:18:23 EDT 2001 @05:18 09/11/01 
+2001-09-11 05:18:38 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178312. 
+2001-09-11 05:18:42 Skytel [007641961] C SH/TONE 17      
+2001-09-11 05:18:44 Skytel [004757744] A ST NUM  U    *         * *  
+2001-09-11 05:18:44 Skytel [002695792] A  ALPHA  root@mbusa.com|mbusaholn1 is Up| Tue Sep 11 05:18:12 EDT 2001   
+2001-09-11 05:18:46 Skytel [002423055] D  ALPHA  B
+2001-09-11 05:18:49 Arch [0950741] B  ALPHA  312 FLSCHOWDM01:Device Inaccessible
+2001-09-11 05:18:49 Arch [0320272] A  ALPHA  PATROLpatrol - ntmprd02.NSNETWORK-NSNETWORK-NETPingHrnais02 ALARM/ALARM 1<=1.000000<=1.Critical
+2001-09-11 05:18:57 Skytel [005330530] A ST NUM  8685222010
+2001-09-11 05:18:57 Skytel [005436525] D  ALPHA  Test Message #43-IX_T0209
+2001-09-11 05:18:57 Skytel [004524770] A  ALPHA  wil-PorterMedicalcenter-Middlebu: CPE Up at 00:58:07 on 9/11
+2001-09-11 05:18:57 Skytel [005112809] C  ALPHA  04:16CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240432: Uncorrectable write error
+2001-09-11 05:18:59 Skytel [007109749] B ST NUM  570-337-8812-45911  

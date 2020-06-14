@@ -1,0 +1,74 @@
+2001-09-11 06:04:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2071
+2001-09-11 06:04:01 Metrocall [1829660] D  ALPHA  Frm: root@sentinel.uvsg.com Txt: dct-mon.prevuenet.com - DataWatch - COX:DW_RESTORED Day: 11 Hour: 4 Min: 3
+2001-09-11 06:04:01 Metrocall [1064385] A  ALPHA  JY  8204/8272  -071 EC  8959/8939 -0036 BP 1455
+2001-09-11 06:04:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2071
+2001-09-11 06:04:01 Metrocall [1421210] C  ALPHA  LAKEJob 378304/VSIOWNER/OMSJRNMGR has MSGW status.
+2001-09-11 06:04:01 Metrocall [1421210] C  ALPHA  LAKEJob 385471/BGILMOUR/PRINTFORM has MSGW status.
+2001-09-11 06:04:01 Skytel [005131786] C ST NUM  670-463-5772   
+2001-09-11 06:04:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6893
+2001-09-11 06:04:04 Arch [0915843] A  ALPHA  (18)From Store Systems Data Capture: Stores With Potential Link Save Issues    Store 4933 has 26 movement files backed up.  
+2001-09-11 06:04:04 Arch [0916116] B  ALPHA  From Store Systems Data Capture: Stores With Potential Link Save Issues    Store 4933 has 26 movement files backed up.  
+2001-09-11 06:04:04 Arch [1427816] C  ALPHA  Wholesale Custom|STATUS on CUSTDW JOB custdw_load|CUTSDW JOB /usr/local/custdw/sh/custdw_kb_load.parm FAILED! ERROR - Cannot load data for file kb_acct.dat into table t_custdw_kb_account 
+2001-09-11 06:04:04 Arch [1410805] B  ALPHA  (22)From Store Systems Data Capture: Stores With Potential Link Save Issues    Store 4933 has 26 movement files backed up.  
+2001-09-11 06:04:05 Skytel {1599702} 1 2400 3492 U (11.
+2001-09-11 06:04:05 Skytel {1102375} 1 2400 57266  18 
+2001-09-11 06:04:08 Arch [0936445] D  ALPHA  Super-User <root|filesystem (intsvc-bk) intsvc-bk:/ 53 intsvc-bk:/usr 65 intsvc-bk:/var 2 intsvc-bk:/opt 96 intsvc-bk:/tmp 1 
+2001-09-11 06:04:11 Metrocall [0652637] D  ALPHA  Frm: SqlServer Titan Sub: SQL Server Message Txt: MW Nightly Failed
+2001-09-11 06:04:11 Metrocall [1064374] B  ALPHA  YEN  121.93/98 +100 EUR  0.8956/60 -025 CHF  1.6907/17 +028 GBP  1.4555/60 -008 CAD  1.5621/27 -005 AUD  0.5126/36 -007  NZD  0.4259/69 -
+2001-09-11 06:04:13 Metrocall [1064374] B  ALPHA  048 DEM  2.1828/33 +058  E/C  1.5143/55 -012 E/Y  109.10/15 +045 E/S  0.6152/57 -006 USD     115.08 +030
+2001-09-11 06:04:19 Arch [1227925] B  ALPHA  RPM: VIRUS Fun Love has infiltrated Sprint. Conference bridge 888-282-5528 or 816-650-0799 #93612.  Fun Love virus has infected 30 michines at KC-Mart during a software push.  SitMan/Brad
+2001-09-11 06:04:19 Arch [1239732] B  ALPHA  (1)Please call the PMC regarding excessive Clustra alarms in Orlando and Chicago.  Thanks, Jason Tinsley 
+2001-09-11 06:04:20 Metrocall [002568740] B  ALPHA  I 157.238.27.46 up @0503 pge to verio T1 72hcgl26093 800-GET-VERIO
+2001-09-11 06:04:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9816
+2001-09-11 06:04:30 Metrocall [1227403] C  ALPHA  Frm: Alert Sub: BRE-IISL3-2K HTTP SVCDOWN at 03:04:35 Txt: Address: 208.21.60.136 XMLS IIS Server
+2001-09-11 06:04:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3464
+2001-09-11 06:04:31 Skytel [005110785] A  ALPHA  Hey Kev,  I just arrived in the office. Vinod did encounter the runtime error in Ebook and is debugging. I will begin to check some of the envir. checks.  Eric
+2001-09-11 06:04:33 Skytel [002786455] B ST NUM  0) 123-4567-8  
+2001-09-11 06:04:36 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178812. 
+2001-09-11 06:04:37 Skytel [005000628] B  ALPHA  MEETING.....NOW, PLZ ...GARY
+2001-09-11 06:04:37 Skytel [002405310] D  ALPHA  cjulian@Intrado.com|Qwest|16 PSAP's down in CO, 2-HD, 15-1Sided. Qwest is aware/investigating the issue.  Chuck Julian PSOC Night-Lead INTRADO (303)581-5782 cjulian@intrado.com   
+2001-09-11 06:04:37 Skytel [0000060] D  ALPHA  ADHOC FLIGHT 1584 ORD IS SCHEDULED TO DEPART AT 12:15Z ON A/C 147 AT GATE 112.-hub dispatch
+2001-09-11 06:04:38 Arch [0909517] D  ALPHA  Y! <y-weather@ya|Be mobile with Compaq Amarillo, TX Sunny 55 - 90 F WNI 
+2001-09-11 06:04:38 Metrocall {1254881} 2 2400 Frm: Root Sub: !BB! hq-to-bank.cpu red Txt: hq-to-bank.cpu red Tue Sep 11 06:04:05 EDT 2001 <br>Kein snmp-Ergebnis Please see: http://uucom6.fbr.com/bb/html/hq-to-bank.cpu.html....
+2001-09-11 06:04:38 Skytel [007524289] A  ALPHA  Y! ||$499 deals on iPAQ Pocket PC New York, NY Sunny 63 - 81 F  WNI  
+2001-09-11 06:04:38 Skytel [007030085] B  ALPHA  y-news@yahoo-inc.com||iPAQ Pocket PC Now from $499 Jordan 'All but Confirms' Comeback as Player Reuters  
+2001-09-11 06:04:38 Skytel [007027145] C SH/TONE 16784   
+2001-09-11 06:04:38 Skytel [002367821] D ST NUM  730-753-6677-911    
+2001-09-11 06:04:39 Arch [0909517] D  ALPHA  Y! <y-weather@ya|$499 deals on iPAQ Pocket PC Arlington, TX Sunny 63 - 88 F WNI 
+2001-09-11 06:04:39 Arch [1621448] C  ALPHA  YMV009 HAS COMPLETED 
+2001-09-11 06:04:39 Arch [0901208] C  ALPHA  |ILS: Case Create,B826313,P3,Title:*ANS*FLEX WAN HAS FAILED. (HARDWARE::HARDWARE FAILURE, NEED REPLACEMENT #E79DE1A,Owner:TACDOCS,Site/ Contract:SPRINT PCS FOR COMDISCO/1022865,Contact:JEREMY THOMPSON@913-859-1 438 |--
+2001-09-11 06:04:39 Arch [0623385] C  ALPHA  YMV009 HAS COMPLETED 
+2001-09-11 06:04:40 Arch [0578226] A  ALPHA  " Big Info " <da|Package Parts Hold |
+2001-09-11 06:04:40 Skytel [003448531] A SH/TONE 1127    
+2001-09-11 06:04:40 Skytel [003262294] B  ALPHA  Subject: FYI - FSGW 8120  - Issue Resolved IP: 0.0.0.0 Problem Type: AdminServer Start: 04:35 on 09-11 Resolved: 05:50 on 09-11 
+2001-09-11 06:04:40 Skytel [005051613] D  ALPHA  (1 of 2) Case  064408 MA1BAM    Tucson, AZ      Alltel          100% Out, Cum=00:32 Unplanned Outage    09/11 05:03 Note#2  P1: CDMA-MM         There are processing calls on mm8b ( ( primary node). performing a scsiim-init mm8a level=2 acti
+2001-09-11 06:04:40 Skytel [007463896] C  ALPHA  alert@msn.com||Libra: Take your part in the story. Think and act. Lucky coincidence is a prime mover.**  
+2001-09-11 06:04:41 Arch [0901208] C  ALPHA   ILS ID:  -1/2
+2001-09-11 06:04:42 Skytel [003973355] C  ALPHA  6) OM-SW EN SERVICIO ENLACES DE LEON. TRAFICO CURSANDO NORMALMENTE. (6
+2001-09-11 06:04:42 Skytel [005436525] D  ALPHA  Test Message #94-IX_T1703
+2001-09-11 06:04:42 Skytel [003447784] C SH/TONE 695     
+2001-09-11 06:04:42 Skytel [004524770] A  ALPHA  spr-WoroncoSavingsBnk-WSpringfie: CPE Up at 01:00:19 on 9/11
+2001-09-11 06:04:43 Arch [0901208] C  ALPHA  A125966288-S71894|244   -2/2
+2001-09-11 06:04:43 Metrocall [1560616] C  ALPHA  09/11@05:03:45 WNTPRIME:The server has encountered a network error.
+2001-09-11 06:04:43 Metrocall [1423721] C  ALPHA  09/11@05:03:45 WNTPRIME:The server has encountered a network error.
+2001-09-11 06:04:43 Metrocall [002118707] A  ALPHA  09/11@05:03:45 WNTPRIME:The server has encountered a network error.
+2001-09-11 06:04:43 Metrocall [002460590] D  ALPHA  THE IMREX MORNING PROCESSING HAS COMPLETED.
+2001-09-11 06:04:43 Metrocall [002178508] D  ALPHA  EMAIL "AnchorDesk"  More of the straight dope about Windows XP--direct from MS  ______________________________________.________U__E__E__.__T_______            *** A
+2001-09-11 06:04:43 Metrocall {1254881} 2 2400 Frm: Root Sub: !BB! bank-to-hq.conn red Txt: bank-to-hq.conn red Tue Sep 11 06:03:42 EDT 2001 bb-network.sh: Can't ping bank-to-hq... Please see: http://uucom6.fbr.com/bb/html/bank-to-hq.conn.html....
+2001-09-11 06:04:44 Metrocall {1254881} 2 2400 Frm: Root Sub: !BB! baystackMD253.conn red Txt: baystackMD253.conn red Tue Sep 11 06:04:35 EDT 2001 bb-network.sh: Can't ping baystackMD253... Please see: http://uucom6.fbr.com/bb/html/baystackMD253.c..
+2001-09-11 06:04:44 Skytel [003954036] B  ALPHA  NIMS01:Device Accessible,Device Status:Ok
+2001-09-11 06:04:44 Skytel [002357369] C  ALPHA  002240 CYCLIC TEST 
+2001-09-11 06:04:44 Skytel [003327216] A  ALPHA  002240 CYCLIC TEST 
+2001-09-11 06:04:44 Skytel [002139900] D SH/TONE 002240  
+2001-09-11 06:04:44 Skytel [007603454] D SH/TONE 101-0005
+2001-09-11 06:04:45 Metrocall {1254881} 2 2400 Frm: Root Sub: !BB! bank-to-hq.cpu red Txt: bank-to-hq.cpu red Tue Sep 11 06:04:11 EDT 2001 <br>Kein snmp-Ergebnis Please see: http://uucom6.fbr.com/bb/html/bank-to-hq.cpu.html....
+2001-09-11 06:04:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 03:02:57 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 06:04:47 Arch [0981828] B  ALPHA   Sep 11 06:00 Checking 0910 files Book Hdge Vega Sens pdio -Yes -Yes -Yes dofp -Yes -Yes -Yes xofp -Yes -Yes -Yes ofp2 -Yes -Yes -Yes dmcr -Yes -Yes -Yes Missing P&L for: tob3 cn10 Missing hedge for: 
+2001-09-11 06:04:47 Arch [0908071] B  ALPHA   Sep 11 06:00 Checking 0910 files Book Hdge Vega Sens pdio -Yes -Yes -Yes dofp -Yes -Yes -Yes xofp -Yes -Yes -Yes ofp2 -Yes -Yes -Yes dmcr -Yes -Yes -Yes Missing P&L for: tob3 cn10 Missing hedge for: 
+2001-09-11 06:04:50 Skytel [005213352] C  ALPHA  SAM74 CONNECTED
+2001-09-11 06:04:52 Metrocall [1830608] A  ALPHA  Frm: IPSentryMonitor@eroom.com Sub: Alert Update KBWeb - Processor is (DOWN) Txt: Monitor CPU % is (DOWN).
+2001-09-11 06:04:52 Metrocall [1830606] D  ALPHA  Frm: IPSentryMonitor@eroom.com Sub: Alert Update KBWeb - Processor is (DOWN) Txt: Monitor CPU % is (DOWN).
+2001-09-11 06:04:52 Metrocall [1064378] C  ALPHA  US/HK DOLLAR FORWARDS FIRM ON WEAKER YEN
+2001-09-11 06:04:52 Metrocall [1064395] C  ALPHA  )?#`B@oHI@J@BfkSWrIZBIOfSHMIAFgtj|FeDihHtfeMPSyrBoE`rxmIAYbsd@RA@vDNPL
+2001-09-11 06:04:52 Metrocall [1260987] C  ALPHA  Frm: IPSentpy.oN.tO.@E.oo.,3.m..}..........................................................................
+2001-09-11 06:04:59 Skytel [002377208] C SH/TONE 4444    

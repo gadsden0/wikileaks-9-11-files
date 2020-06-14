@@ -1,0 +1,69 @@
+2001-09-11 05:14:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2021
+2001-09-11 05:14:01 Metrocall [1423721] C  ALPHA  Frm: netiq@tisi.com Sub: TISIEXCHG01 : Overall CPU Overloaded Txt: Overall CPU Overloaded
+2001-09-11 05:14:01 Metrocall [002118707] A  ALPHA  Frm: netiq@tisi.com Sub: TISIEXCHG01 : Overall CPU Overloaded Txt: Overall
+2001-09-11 05:14:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2021
+2001-09-11 05:14:01 Metrocall [1560616] C  ALPHA  Frm: netiq@tisi.com Sub: TISIEXCHG01 : Overall CPU Overloaded Txt: Overall CPU Overloaded
+2001-09-11 05:14:01 Metrocall [1064378] C  ALPHA  FABIUS - Q2 GDP BELOW WHAT SOME EXPECTED, BUT ABOVE EUROPEAN PEER
+2001-09-11 05:14:01 Skytel [007588611] A SH/TONE 3316    
+2001-09-11 05:14:01 Skytel [003937421] D  ALPHA  [iciuser]: coc parsed COB=20010910. SID=zeta0
+2001-09-11 05:14:03 Metrocall [002118707] A  ALPHA   CPU Overloaded
+2001-09-11 05:14:03 Metrocall [1064395] C  ALPHA  )?#`BAFHI@a@DNMAaRZmM@mPTVRBODhHHTVYOkhJ|bCTPTy................................................CWaM@p
+2001-09-11 05:14:03 Metrocall [1064378] C  ALPHA  S
+2001-09-11 05:14:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6843
+2001-09-11 05:14:04 Arch [1079409] A  ALPHA  4348*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:10 OMA-PIXIN02 %PIX-1-105007: Secondary Link status 'Down' on interface 0
+2001-09-11 05:14:04 Arch [0910057] C  ALPHA  pc999bot1: pc999bot1@PC999.hunterdonhealthcare.org 192.168.27.1 is down! -Contact HMC Immediately
+2001-09-11 05:14:04 Arch [0634239] D  ALPHA  4348*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:10 OMA-PIXIN02 %PIX-1-105007: Secondary Link status 'Down' on interface 0
+2001-09-11 05:14:04 Arch [0986081] A  ALPHA  4348*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:10 OMA-PIXIN02 %PIX-1-105007: Secondary Link status 'Down' on interface 0
+2001-09-11 05:14:04 Arch [0810070] B  ALPHA  4348*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:10 OMA-PIXIN02 %PIX-1-105007: Secondary Link status 'Down' on interface 0
+2001-09-11 05:14:06 Arch [0986081] A  ALPHA  8596*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:10 OMA-PIXIN02 %PIX-1-104003: Secondary Switching to FAILED.
+2001-09-11 05:14:06 Arch [0810070] B  ALPHA  8596*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:10 OMA-PIXIN02 %PIX-1-104003: Secondary Switching to FAILED.
+2001-09-11 05:14:06 Arch [0924000] A  ALPHA  479-8842
+2001-09-11 05:14:08 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSTRD_EDGNY1) *** VERY SERIOUS Blocking in PDSTRD_EDGNY1 - block time=2568 > 600 secs - Tue Sep 11 05:13:20 EDT 2001 @05:13 09/11/01 
+2001-09-11 05:14:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178263. 
+2001-09-11 05:14:09 Metrocall [1064374] B  ALPHA  YEN  121.79/84 +086 EUR  0.8958/60 -023 CHF  1.6898/08 +019 GBP  1.4538/44 -025 CAD  1.5611/21 -015 AUD  0.5139/44 +006  NZD  0.4258/68 -049 DEM  2.1821/28 +051  E/C  1.5139/51 -016 E/Y  109.13/18 +048 E/S  0.6163/65 +005 USD     115.07 +029
+2001-09-11 05:14:09 Metrocall [1421210] C  ALPHA  LAKEJob 383688/SCLAUSSON/I$LLOF has MSGW status.
+2001-09-11 05:14:09 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-11 05:14:10 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSTRD_EDGNY1) MAYBE OPEN TRANSACTION in syslogshold PYR_ARCHIVE|72 - PDSTRD_EDGNY1 @05:13 09/11/01 
+2001-09-11 05:14:11 Metrocall [1421210] C  ALPHA  LAKEJob 378304/VSIOWNER/OMSJRNMGR has MSGW status.
+2001-09-11 05:14:11 Metrocall [1421210] C  ALPHA  LAKEJob 385471/BGILMOUR/PRINTFORM has MSGW status.
+2001-09-11 05:14:11 Metrocall [1363643] C  ALPHA  Frm: busintel@tickets.com Sub: =?iso-8859-1?Q?Load Plan Completion - Dimensions?= Txt: DAILY Dimension Update & Audit Successfully 
+2001-09-11 05:14:13 Metrocall [1363643] C  ALPHA  Completed.
+2001-09-11 05:14:20 Metrocall [1064391] B  ALPHA  LME FUTURES       MCU_1440/1442 -004 MAL 1370/1372 -006 MAA 1143/1147 -012 MNI 5080/5100 -050 MSN 3745/3760 -030 MPB 4790/4800 -010 MZN _829/_832 -006
+2001-09-11 05:14:25 Arch [1079409] A  ALPHA  8596*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:10 OMA-PIXIN02 %PIX-1-104003: Secondary Switching to FAILED.
+2001-09-11 05:14:25 Arch [0634239] D  ALPHA  8596*NETLOGG..:..n..c..e. e. P.............................................................................AILED.
+2001-09-11 05:14:25 Arch [0986081] A  ALPHA  3357*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:10 OMA-PIXIN02 %PIX-1-104004: Secondary Switching to OK.
+2001-09-11 05:14:25 Arch [0810070] B  ALPHA  3357*NETLOGG..:..n..c..e. e. P.............................................................................K.
+2001-09-11 05:14:27 Arch [1619813] B  ALPHA  2760
+2001-09-11 05:14:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9766
+2001-09-11 05:14:27 Arch [1079409] A  ALPHA  3357*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:10 OMA-PIXIN02 %PIX-1-104004: Secondary Switching to OK.
+2001-09-11 05:14:27 Arch [0634239] D  ALPHA  3357*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:10 OMA-PIXIN02 %PIX-1-104004: Secondary Switching to OK.
+2001-09-11 05:14:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC..............................
+2001-09-11 05:14:30 Metrocall [1064378] C  ALPHA  .............................................
+2001-09-11 05:14:30 Metrocall [1064395] C  ALPHA  ...............................................................VeOP@D`PM^FtC
+2001-09-11 05:14:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 02:14:11 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:14:31 Skytel [005225860] B SH/TONE 125     
+2001-09-11 05:14:31 Skytel [004539904] A SH/TONE 642190  
+2001-09-11 05:14:32 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|mc0300ux200|CR: 143669 Priority: 1 Assigned to: Summary:: File system critical /u100 capacity @ 96% 
+2001-09-11 05:14:35 Skytel [002812715] C  ALPHA  storm-advisory@lists.hurricanecentral.com|Tropical Weather Advisory|See photos from Bermuda or track Erin and other systems with satellite and radar images, forecast maps and message board: http://GoPBI.com/storm?tag=e_0910   000 WTNT32 KNH
+2001-09-11 05:14:36 Skytel [002399025] A SH/TONE 22857   
+2001-09-11 05:14:40 Arch [0602772] B  ALPHA  Super-User <root|Trap Message|Time: Tue Sep 11 05:15:02 2001 Agent Address: 63.169.242.226 Specific Trap: Process Stop Trap (10) Description: in.named Regexp: named.* Current PID: 17301 
+2001-09-11 05:14:40 Skytel [003448531] A SH/TONE 1127    
+2001-09-11 05:14:42 Skytel [003466095] D SH/TONE 101-0005
+2001-09-11 05:14:44 Skytel [004431985] A ST NUM  900-224-2724   
+2001-09-11 05:14:45 Arch [1079409] A  ALPHA  7873*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:10 OMA-PIXIN01 %PIX-1-103005: Primary Other firewall reporting failure.
+2001-09-11 05:14:45 Arch [0634239] D  ALPHA  7873*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:10 OMA-PIXIN01 %PIX-1-103005: Primary Other firewall reporting failure.
+2001-09-11 05:14:45 Arch [0986081] A  ALPHA  7873*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:10 OMA-PIXIN01 %PIX-1-103005: Primary Other firewall reporting failure.
+2001-09-11 05:14:45 Arch [0810070] B  ALPHA  7873*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:10 OMA-PIXIN01 %PIX-1-103005: Primary Other firewall reporting failure.
+2001-09-11 05:14:46 Skytel [007579147] C SH/TONE 1034    
+2001-09-11 05:14:47 Arch [0986081] A  ALPHA  0651*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:23 OMA-PIXIN01 %PIX-1-105005: Primary Lost Failover communications with mate on interface 0
+2001-09-11 05:14:47 Arch [0810070] B  ALPHA  0651*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:23 OMA-PIXIN01 %PIX-1-105005: Primary Lost Failover communications with mate on interface 0
+2001-09-11 05:14:50 Skytel [004024864] A  ALPHA  wingmon@firstusa.com||SiteScope neweb102 /webs neweb102 2562 no data    ********************************************************************** This transmission may contain information that is privileged, confidential and/or exempt from dis
+2001-09-11 05:14:51 Arch [1079409] A  ALPHA  0651*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:23 OMA-PIXIN01 %PIX-1-105005: Primary Lost Failover communications with mate on interface 0
+2001-09-11 05:14:51 Arch [0634239] D  ALPHA  0651*NETLOGG..:..n..c..e. e. P.............................................................................mmunications with mate on interface 0
+2001-09-11 05:14:51 Arch [0986081] A  ALPHA  1437*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:23 OMA-PIXIN01 %PIX-1-105008: Primary Testing Interface 0
+2001-09-11 05:14:51 Arch [0810070] B  ALPHA  1437*NETLOGG..:..n..c..e. e. ..............................................................................e 0
+2001-09-11 05:14:52 Skytel [0000060] D  ALPHA  FLIGHT 1445 CAE WILL TRANS LOAD FROM A/C 410 AT GATE 823 TO A/C 679 AT GATE 463.-hub dispatch
+2001-09-11 05:14:53 Skytel [007555790] D SH/TONE 831-2036
+2001-09-11 05:14:57 Skytel [005436525] D  ALPHA  Test Message #40-IX_T1712
+2001-09-11 05:14:57 Skytel [004524770] A  ALPHA  spf-LSHDAdvertising-ChicopeeMA-3: CPE Up at 00:59:01 on 9/11
+2001-09-11 05:14:59 Skytel [007109749] B SH/TONE 533400  

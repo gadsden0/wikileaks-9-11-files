@@ -1,0 +1,83 @@
+2001-09-12 01:37:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PA......I..Q..............36
+2001-09-12 01:37:00 Skytel [007563895] B ST NUM  234-535-4911-911    
+2001-09-12 01:37:00 Skytel [004550512] A  ALPHA  WE DID NOT RECEIVE THE FXIMU FILE FOR INVEST 1. CALL ME AT 201 662 1202. ROM
+2001-09-12 01:37:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8066
+2001-09-12 01:37:01 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-12 01:37:01 Arch [1316364] D  ALPHA  fusive/em|Birmingham-BHAMSERV1 has encount|------=_NextPart_000_0035_01BE01C7.112C2CE0-- 
+2001-09-12 01:37:02 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 22:35:14 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 01:37:02 Skytel [004397838] D  ALPHA  TO:feed FROM:Data SQL Support SUB: Prod03 has not yet been published to \\SINDATA01\EnterpriseData and is stil MSG: (7
+2001-09-12 01:37:03 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-12 01:37:04 Skytel [002401821] D  ALPHA  saspcd02 Job SAP_BASIS_DAILY.SAP_REORG_SPOOL failed, no recovery specified ussa17.PALM 
+2001-09-12 01:37:04 Skytel [005206421] B  ALPHA  TO:rsamail FROM:NTBatch Account Reporting Alternate,+1(425)936-7749 SUB: mpq.usprice  MSG:Failed - ntmail failed , see logs   
+2001-09-12 01:37:05 Skytel [007588515] A SH/TONE 3372    
+2001-09-12 01:37:05 Skytel [005001895] B  ALPHA  [sps/16] 104 supplier.intel.com relay-ssl 0.0 FAILURE Server closedconnection immediately. (/seem/healthcheck.asp) 3:20:14
+2001-09-12 01:37:07 Skytel [003664693] B  ALPHA   Pager System    Subject: RE: Premier UAT site appears down, cannot wait until W
+2001-09-12 01:37:07 Skytel [007573437] D SH/TONE 1143    
+2001-09-12 01:37:09 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:37:09 Skytel [002936906] C SH/TONE 86285   
+2001-09-12 01:37:09 Skytel [007462092] D ST NUM  08776533510    
+2001-09-12 01:37:09 Skytel {0619497} 1 2400 31740
+2001-09-12 01:37:10 Metrocall [1413997] D  ALPHA  naitou-kun, gennki? Buji de naniyori. Seal plt,PHX no training-ki kara Yosida-san ga hazusite okuru. Syousai ha E-mail yonde. Mori
+2001-09-12 01:37:10 Metrocall [1707375] D  ALPHA  Frm: 'aolnews@aol.com Sub: deaths at pentagon 100 to 800, fire official says Txt: Deaths at Pen
+2001-09-12 01:37:12 Arch [1142036] B  ALPHA  312 MOSXS2:Device Inaccessible
+2001-09-12 01:37:12 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0989
+2001-09-12 01:37:12 Arch [1398696] C  ALPHA  "Compaq" <exjug@|MOSXS2 : Device Accessible|MOSXS2:Device Accessible,Device Status:Ok 
+2001-09-12 01:37:12 Arch [1008350] D  ALPHA  25900
+2001-09-12 01:37:12 Metrocall [1707375] D  ALPHA  tagon 100 to 800,
+2001-09-12 01:37:14 Arch [1142036] B  ALPHA  "Compaq" <exjug@|MOSXS2 : Device Accessible|MOSXS2:Device Accessible,Device Status:Ok
+2001-09-12 01:37:14 Arch [0931795] A  ALPHA  |OPC: mcoolap-sj-1: /dev/vx/dsk/mcoolapdg/misc, mounted at /fs/misc, is at 97  
+2001-09-12 01:37:20 Arch [0000101] B  ALPHA  MSN 062 hello Message from NOC PCB.
+2001-09-12 01:37:21 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-12 01:37:21 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192069. 
+2001-09-12 01:37:23 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-12 01:37:25 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-12 01:37:30 Metrocall [002567097] C  ALPHA  KFC Flowood MS: KFC 25 LA DINE DISCH  COOLFAIL
+2001-09-12 01:37:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3245
+2001-09-12 01:37:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3245
+2001-09-12 01:37:33 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 38.75 27.92 21.62 Tue Sep 11 22:38:00 MST 2001 
+2001-09-12 01:37:33 Skytel [005345821] D  ALPHA  8883372867  ID: NY061013 Ticket: 354  001Comm. Line Failure
+2001-09-12 01:37:33 Skytel [004534043] C SH/TONE 1       
+2001-09-12 01:37:35 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 13.12 18.82 18.68 Tue Sep 11 22:38:04 MST 2001 
+2001-09-12 01:37:35 Skytel [003436448] A SH/TONE 3992    
+2001-09-12 01:37:35 Skytel [004576171] C SH/TONE 709-1989
+2001-09-12 01:37:37 Skytel [007585585] A ST NUM  764-892-7727-272    
+2001-09-12 01:37:37 Skytel [002839867] C  ALPHA  23985@emc.fedex.com|Fred Jacob call 797-7235  
+2001-09-12 01:37:37 Skytel [003270973] D  ALPHA  23985@emc.fedex.com||Fred Jacob call 797-7235  
+2001-09-12 01:37:41 Skytel [002377811] A  ALPHA  gwsho@exchange.ml.com|IPCAPPS3 : Device Inaccessible|'Device Inaccessible' alarm received from IPCAPPS3 at 1:15AM on 9/12/01  A 'Device Inaccessible' alarm signifies that Compaq Insight Manager is not currently receiving network responses f
+2001-09-12 01:37:42 Arch [0987275] C  ALPHA  s0191: 09/11 15:41:26 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:41:26
+2001-09-12 01:37:42 Arch [0901694] D  ALPHA  Franklin.McColli|Lisa Booze 09/11/2001 10:36 PM To: FRANKLIN.MCCOLLIN@UBOC.COM cc: Dee Tran/STIP/UBOC@UBOC, Shirley Waggoner/STIP/UBOC@UBOC, Ann Oh/STIP/UBOC@UBOC Subject: IMAGE PASSWORDS Michael Phan employee # 27583, Image # 540 access is
+2001-09-12 01:37:42 Metrocall [1544818] A  ALPHA  ODC-MAIL01 "Server ODC-MAIL01/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail3.box. "
+2001-09-12 01:37:42 Metrocall [1899053] D  ALPHA  Please Call-2-6844 5459
+2001-09-12 01:37:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #91-IX_T1708
+2001-09-12 01:37:43 Skytel [005330530] A ST NUM  8685222010
+2001-09-12 01:37:43 Skytel [007640553] C ST NUM  588-939-6126   
+2001-09-12 01:37:43 Skytel [007461352] C ST NUM  18007243624    
+2001-09-12 01:37:43 Skytel [007640428] D SH/TONE 876-1318
+2001-09-12 01:37:44 Arch [1359851] C  ALPHA  XLadmin Account |Host Error Notification (laqahos|LA Caribbean Satellite images have not been received for an excessive amount of time (85 minutes). Please check it out -- data is not flowing! 
+2001-09-12 01:37:44 Arch [0987275] C  ALPHA  s0191: 09/11 15:47:33 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:47:34
+2001-09-12 01:37:45 Skytel [002357369] C  ALPHA  002631 CYCLIC TEST 
+2001-09-12 01:37:45 Skytel [003925629] D ST NUM  0-201-242-2240 
+2001-09-12 01:37:45 Skytel [003327216] A  ALPHA  002631 CYCLIC TEST 
+2001-09-12 01:37:45 Skytel [002139900] D SH/TONE 002631  
+2001-09-12 01:37:45 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-12 01:37:46 Arch [1359851] C  ALPHA  XLadmin Account |Host Error Notification (laqahos|LA Mexican Satellite images have not been received for an excessive amount of time (85 minutes). Please check it out -- data is not flowing!
+2001-09-12 01:37:46 Arch [0987275] C  ALPHA  s0191: 09/11 15:50:15 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:50:16
+2001-09-12 01:37:47 Skytel [005361153] A  ALPHA  363200 652dr s2a652 322310 tat on 652dr not found
+2001-09-12 01:37:47 Skytel [004406028] D SH/TONE 832-4450
+2001-09-12 01:37:48 Arch [0987275] C  ALPHA  sb3: INFO0002 - Trade Count Mismatch Ora=825 Rec=0 (160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:52
+2001-09-12 01:37:49 Skytel [007512341] B  ALPHA  ksmith@flypaper.com|WebServerManager down |66.35.211.10 10:37PM Tue 09.11 prod WebServerManager down
+2001-09-12 01:37:49 Skytel [005209110] B SH/TONE 70720   
+2001-09-12 01:37:49 Skytel [002694547] A  ALPHA  12) PROBLEM: 16609076 WAS OPENED ACCT#: A775S AT PRIO: 1 ON 09/12/01 AT 01:35 DESC/1: -NODE DOWN EQFDE215 WITH IP ADDRESS: 10.124.3.15 ISDN DESC/2: FAILED 
+2001-09-12 01:37:50 Arch [1398696] C  ALPHA  312 MOSXS1:Device Inaccessible
+2001-09-12 01:37:50 Skytel [007457570] A SH/TONE 305-5650
+2001-09-12 01:37:50 Skytel [005225637] B SH/TONE 250     
+2001-09-12 01:37:50 Skytel [003934628] B  ALPHA  23985@emc.fedex.com||Fred Jacob call 797-7235  
+2001-09-12 01:37:50 Skytel [005205420] D ST NUM  61) 221-7484   
+2001-09-12 01:37:54 Skytel [005332045] D ST NUM  913-639-4578   
+2001-09-12 01:37:54 Skytel [007100993] A SH/TONE 800-7121
+2001-09-12 01:37:54 Skytel [005180366] D ST NUM  556-2913 (57   
+2001-09-12 01:37:56 Skytel [005338196] B SH/TONE 442-8500
+2001-09-12 01:37:56 Skytel [005043796] B ST NUM  3) 632-277-4321 U   
+2001-09-12 01:37:58 Skytel [007545449] C SH/TONE 262-3506
+2001-09-12 01:37:58 Skytel [007649260] D SH/TONE 949-9520
+2001-09-12 01:37:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8067

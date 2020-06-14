@@ -1,0 +1,67 @@
+2001-09-11 06:16:01 Metrocall [1363643] C  ALPHA  Frm: busintel@tickets.com Sub: =?iso-8859-1?Q?Load Plan Failure - Prologue TOF?= Txt: Check Automation Log for Errors
+2001-09-11 06:16:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2083
+2001-09-11 06:16:01 Metrocall [0134037] B  ALPHA  Frm: NetworkEye S
+2001-09-11 06:16:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2083
+2001-09-11 06:16:01 Metrocall [1928588] D  ALPHA  Frm: NetworkEye Sub: Server Charlotte2 DOWN at 06:15:33
+2001-09-11 06:16:01 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 03:14:38 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 06:16:03 Metrocall [0134037] B  ALPHA  ub: Server Charlotte2 DOWN at 06:15:33
+2001-09-11 06:16:03 Skytel [003944209] A ST NUM  306-674-4605   
+2001-09-11 06:16:03 Skytel [003066645] B ST NUM  669-9722 (2    
+2001-09-11 06:16:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6905
+2001-09-11 06:16:04 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2201 - 0028DB FL MIN 6125, cnet lost sync, Clr
+2001-09-11 06:16:04 Arch [0903829] B  ALPHA  ISHD 1378415  Sev4 ATL-TCS  User is unable to access. Jennifer Shirk  404.649.2601 
+2001-09-11 06:16:04 Arch [0978397] D  ALPHA  bdfenne 75925-305--  Roby Pantell needs to speak with you about informix issues in pharmacies.  Please call Brian F.  Thank you.  Sent at 05:15      
+2001-09-11 06:16:07 Arch [0944991] D  ALPHA  PAGE FROM lifeline:  alert 8931905 AMDB_CR PS1 nyampsyb01.gsam.gs.com AMDB_AM_CLRPT_PRD2_FixUser job has failed 
+2001-09-11 06:16:07 Skytel [005328176] A ST NUM  56636676464    
+2001-09-11 06:16:07 Skytel [003329328] A  ALPHA  MSFT 56.82 +1.42 SUNW 10.46 -0.13 CSCO 14.43 +0.07 IBM 96.25 -0.34 (39
+2001-09-11 06:16:08 Skytel [004539584] A SH/TONE 312-1530
+2001-09-11 06:16:09 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE Tray Metrics Down   Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[000]  dev_err[239]
+2001-09-11 06:16:09 Metrocall [0277909] B  ALPHA  9-11-01 6:09 PAGE01 FAN 31 RETURN FAN IS IN FLOW ALARM CHECK ASAP. IF UNABLE TO CORRECT CONTACT
+2001-09-11 06:16:10 Skytel [007030100] B  ALPHA  y-horoscope@yahoo-inc.com||Ari Protect yourself as personal space dwindles. Your own good works will save you.  Astrology  
+2001-09-11 06:16:11 Arch [0732953] C  ALPHA  ALERTMON2 has detected a delay in the nightly schedule.
+2001-09-11 06:16:11 Metrocall [0277909] B  ALPHA   GEORGE THORNE. ON
+2001-09-11 06:16:14 Skytel [003949183] D  ALPHA  ENS - Problem ID = 01000281 tdapps01 - Solaris Server Processes trade_money_net_bo_daemon,,, is CRITICAL down 
+2001-09-11 06:16:14 Skytel [005508471] B  ALPHA  Please call the data center at (202)395-3483.
+2001-09-11 06:16:18 Skytel [005071517] D SH/TONE 1       
+2001-09-11 06:16:20 Metrocall [0247513] C  ALPHA  Frm: Y! Txt: $499 deals on iPAQ Pocket PC Chicago, IL Sunny 52 - 81 F WNI
+2001-09-11 06:16:20 Skytel [003497387] C SH/TONE 8907    
+2001-09-11 06:16:23 Skytel [004547268] B  ALPHA  TPCB $SSQDPGM - MHT1 QUEUE HAS EXCEEDED ITS LIMIT.
+2001-09-11 06:16:24 Arch [1008334] D  ALPHA  25900
+2001-09-11 06:16:25 Skytel [007009370] C SH/TONE 1       
+2001-09-11 06:16:25 Skytel [003262294] B  ALPHA  fain@us.ibm.com|E-COMMERCE ALERT|Macys.com not serving product images. IHS recycled on all six webservers to resolve. Ticket: FSGW 8120 -- ETA: Resolved  
+2001-09-11 06:16:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9828
+2001-09-11 06:16:26 Arch [1063094] B  ALPHA  Router  DOWN at 04:54:28
+2001-09-11 06:16:26 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178940. 
+2001-09-11 06:16:28 Arch [0930546] A  ALPHA  Alarm: 03:14:57AM  Boiler Network connect   Site 4 Bldg 7 Hot water supply temp is out of range.
+2001-09-11 06:16:28 Arch [0931795] A  ALPHA  [IS-HQ DOWN] [mexclstr1a, mexclstr1b]
+2001-09-11 06:16:28 Arch [0602772] B  ALPHA  Super-User <root|Trap Message|Time: Tue Sep 11 06:16:51 2001 Agent Address: 63.169.232.226 Specific Trap: Process Stop Trap (10) Description: in.named Regexp: named.* Current PID: 9151 
+2001-09-11 06:16:29 Skytel [003950591] D  ALPHA  UAL 30.82 -0.73 DAL 37.25 -0.24 U 11.62 -0.28 AMR 29.70 -0.45
+2001-09-11 06:16:30 Arch [0925366] B  ALPHA   318643;Sep 11 02:17:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 06:16:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3476
+2001-09-11 06:16:33 Skytel [007512210] A  ALPHA  y-weather@yahoo-inc.com||$499 deals on iPAQ Pocket PC Asheville, NC Sunny 61 - 79 F  WNI  
+2001-09-11 06:16:33 Skytel [004690331] C  ALPHA  netrangr@hopewell.hew.us.ml.com|Alm: 5 1102:0 1|Tme: 2001/09/11 09:17:42 Src: O mlol.ml.com:0 Dst: O mlol.ml.com:0 NSX: [10008.31201.45] SID: 1102 "Impossible IP packet" Msg: " "     
+2001-09-11 06:16:35 Skytel [007556385] A  ALPHA  PIR 10.00 -0.05 ZQK 15.92 +0.02 AEOS 21.50 -0.74 THC 56.77 -1.21
+2001-09-11 06:16:35 Skytel [002390824] C  ALPHA  TPCB $SSQDPGM - MHT1 QUEUE HAS EXCEEDED ITS LIMIT.
+2001-09-11 06:16:35 Skytel [007555619] A  ALPHA  netrangr@hopewell.hew.us.ml.com|Alm: 5 1102:0 1|Tme: 2001/09/11 09:17:42 Src: O mlol.ml.com:0 Dst: O mlol.ml.com:0 NSX: [10008.31201.45] SID: 1102 "Impossible IP packet" Msg: " "     
+2001-09-11 06:16:37 Skytel [003934518] B  ALPHA  netrangr@hopewell.hew.us.ml.com|Alm: 5 1102:0 1|Tme: 2001/09/11 09:17:42 Src: O mlol.ml.com:0 Dst: O mlol.ml.com:0 NSX: [10008.31201.45] SID: 1102 "Impossible IP packet" Msg: " "     
+2001-09-11 06:16:44 Skytel [002357369] C  ALPHA  002244 CYCLIC TEST 
+2001-09-11 06:16:44 Skytel [003327216] A  ALPHA  002244 CYCLIC TEST 
+2001-09-11 06:16:44 Skytel [002139900] D SH/TONE 002244  
+2001-09-11 06:16:48 Skytel [005206684] D  ALPHA  MSFT 57.58 +2.18 ICOR 0.00 UNCH IBM 96.47 -0.12 AOL 34.41 +2.13
+2001-09-11 06:16:48 Skytel [007641751] B SH/TONE 5827    
+2001-09-11 06:16:48 Skytel [005331344] A  ALPHA  y-alerts@yahoo-inc.com|Fr: findit@classifieds.excitecorp.com *Excite Classifieds found 4 personals ads*     Excit Mail  
+2001-09-11 06:16:48 Skytel [005102877] D ST NUM  201-613-6114   
+2001-09-11 06:16:50 Metrocall [1903323] C  ALPHA  [IS    03:10:25 NormalIS:RRPR99CIM NORMAL]
+2001-09-11 06:16:50 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb2 login content match error on step 2, http://192.168.67.182:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informat
+2001-09-11 06:16:50 Skytel [003477031] B SH/TONE 8017    
+2001-09-11 06:16:52 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1349..
+2001-09-11 06:16:52 Metrocall [1064375] B  ALPHA  /FTSE  5085.40  +051 NIKK  10292.95  +097 DAX    4741.18  +071 CAC40  4448.08  +064 MIB30  31870   +0306 HSI  10417.36  +0051 30 _99.02/03  5.438% GOLD271.20/170  -030 S 4.18/20  PL 440.00 PD 450.00/0.00  +000 JG 1.420%
+2001-09-11 06:16:52 Metrocall [1064378] C  ALPHA  UPDATE 1-EICHEL REAFFIRMS DEFICIT GOAL DESPITE SLOWER GROWTH
+2001-09-11 06:16:52 Metrocall [1064395] C  ALPHA  )?#`BAAHI@H@CvkPbPZdU@qVqYLNQEfHJTVCFcRZTvf`bQXtfGIjHH|~CLPQHmNaIjQTENYOkqZRBORguzda@@RA@vGB@L
+2001-09-11 06:16:52 Skytel [005112125] D  ALPHA  MSFT 57.58 +2.18 CBR 5.80 -0.09 BEAS 13.97 +0.31
+2001-09-11 06:16:52 Skytel [0001461] B  ALPHA  GLOBEX   05:15     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109850   275+   SPU  109820B  250+   NDU  137800   750+   6JZ    8280B   63-   6EZ    8945    35-   6SZ    5922B   18-   6BZ   14510B   18-   6CZ    6394B    4+   
+2001-09-11 06:16:53 Skytel [004538828] D SH/TONE 6127    
+2001-09-11 06:16:55 Skytel [1800019] A  ALPHA  GLOBEX   05:15     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109850   275+   SPU  109820B  250+   NDU  137800   750+   6JZ    8280B   63-   6EZ    8945    35-   6SZ    5922B   18-   6BZ   14510B   18-   6CZ    6394B    4+   
+2001-09-11 06:16:57 Skytel [005436525] D  ALPHA  Test Message #59-IX_T1614
+2001-09-11 06:16:57 Skytel [004524770] A  ALPHA  spf-KeepsakeQuiltin-CenterHarber: CPE Down at 01:30:11 on 9/11
+2001-09-11 06:16:59 Skytel [002842744] C SH/TONE 99      

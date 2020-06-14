@@ -1,0 +1,65 @@
+2001-09-12 01:44:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4643
+2001-09-12 01:44:00 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Error reading connection information for Ivr Tcp ports.
+2001-09-12 01:44:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8073
+2001-09-12 01:44:01 Arch [0987275] C  ALPHA  s0191: 09/11 11:42:59 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:42:59
+2001-09-12 01:44:01 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192146. 
+2001-09-12 01:44:02 Skytel [007638666] C SH/TONE 4217    
+2001-09-12 01:44:03 Arch [0987275] C  ALPHA  s0191: 09/11 11:48:17 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:48:18
+2001-09-12 01:44:03 Skytel [002401821] D  ALPHA  146.22.45.220 DFS0840I  INDEX ERROR SISRSHS2 NI                                                    COPR ussa11.SSMC 
+2001-09-12 01:44:05 Arch [0987275] C  ALPHA  s0191: 09/11 11:56:22 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:56:22
+2001-09-12 01:44:05 Skytel [002867623] B ST NUM  34949 (77 
+2001-09-12 01:44:05 Skytel [003447845] B ST NUM  603-524-4498 (35    
+2001-09-12 01:44:05 Skytel [005001895] B  ALPHA  [sps/52] 104 supplier.intel.com relay-ssl 0.0 FAILURE Server closedconnection immediately. (/infoweb/healthcheck.asp) 3:19:46
+2001-09-12 01:44:05 Skytel [003934628] B  ALPHA  23985@emc.fedex.com||fred jacobs call 797-7235  
+2001-09-12 01:44:06 Skytel {0005398} 1 1200 (2 OF 5): think this is related to that.  -----Original Message----- From: Chris Kafader  Sent: Tuesday, September 11, 2001 8:23 PM To: John Callan; GSA Production Team Cc: Curt Powers; Global Support Automation Help; Premier
+2001-09-12 01:44:09 Skytel {1891159} 3 1200 4444 
+2001-09-12 01:44:10 Skytel {1092655} 3 2400 002633    
+2001-09-12 01:44:19 Metrocall [1932964] B  ALPHA  Frm: emoster@arsc.uscg.mil Sub: Portal Application Error on Portal UTML Redirection Txt: Total alerts: 3 HTTP response 500: Server Error for URL: "http://10.40.42.102/eal/flight_schedule.asp" (9/12/01 1:39 AM) Event: Portal Application Error Web Appli
+2001-09-12 01:44:21 Arch [0976114] A  ALPHA  76-PLEASE CALL YOUR UNCLE JEESE WALLACE, 318-932-0008.
+2001-09-12 01:44:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0996
+2001-09-12 01:44:21 Arch [0987275] C  ALPHA  s0191: 09/11 11:59:03 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:59:03
+2001-09-12 01:44:21 Metrocall [1932964] B  ALPHA  cation: Portal Monitor: Portal UTML Redirection Metric: Retrieval time of URL Sequence for http://10.40.42.102/eal/flight_schedule.asp Description: Time to retrieve all URL Sequences
+2001-09-12 01:44:23 Arch [0987275] C  ALPHA  s0191: 09/11 12:04:03 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:04:03
+2001-09-12 01:44:25 Arch [0987275] C  ALPHA  s0191: 09/11 12:12:06 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:12:07
+2001-09-12 01:44:27 Arch [0987275] C  ALPHA  s0191: 09/11 12:14:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:14:49
+2001-09-12 01:44:32 Skytel [007119620] B ST NUM  08007243624    
+2001-09-12 01:44:33 Skytel [002736923] C SH/TONE 421-4401
+2001-09-12 01:44:34 Skytel [002566556] D ST NUM  508-887-7067   
+2001-09-12 01:44:35 Skytel [002376872] C  ALPHA  nms@svcanms.conxion.com|Sep11-22:44|There are 3 active alarms including server:inttra4:memory Virtual memory more than 90% consumed  
+2001-09-12 01:44:36 Arch [1428040] C  ALPHA   Sub:WTC UPDATE #1a  Msg:      WTC UPDATE #1a BEGINS AT 1:00am ON WED SEP 12, 2001  <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />              1:40a               CNN   
+2001-09-12 01:44:37 Skytel [003412019] A SH/TONE 110     
+2001-09-12 01:44:37 Skytel [004663743] D ST NUM  607-455-0285-11 (58 
+2001-09-12 01:44:37 Skytel [003664693] B  ALPHA  TO:a-byronp FROM:Curt Powers,+1(425)704-4635 SUB: RE: Premier UAT site appears d
+2001-09-12 01:44:37 Skytel [005258806] B SH/TONE 28871   
+2001-09-12 01:44:37 Skytel [003447996] D SH/TONE 637-2269
+2001-09-12 01:44:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:44:39 Skytel [007574981] B ST NUM  581-217-2911   
+2001-09-12 01:44:39 Skytel [005048779] C  ALPHA  LMNLAN1I RAMSES BOUNSS3 Interface TKR/0 down.
+2001-09-12 01:44:40 Metrocall [1544820] B  ALPHA  IWHub ServerWatch Notification - Server KPNC-HUB2/HSVR/KAIPERM is NOT Responding WARNING:Server KPNC-HUB2/HSVR/KAIPERM is not responding. Reason:Unable to find path to server
+2001-09-12 01:44:41 Skytel [007660371] A SH/TONE 834-9626
+2001-09-12 01:44:41 Skytel [005322068] B  ALPHA  949-887-2701 [9834.Gardena, CA         
+2001-09-12 01:44:41 Skytel [004107474] A SH/TONE 13 (1   
+2001-09-12 01:44:41 Skytel [003951056] A  ALPHA  csaa-192.168.202.9 Critical CSAA Node csaa-192.168.202.9 Down ussa11.SSMC 
+2001-09-12 01:44:41 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job99609 SNYC10P00005 09/12 01:43 EVENTLOG
+2001-09-12 01:44:41 Skytel [004387035] C SH/TONE 320     
+2001-09-12 01:44:41 Skytel [002377811] A  ALPHA  gwsho@exchange.ml.com|IPCAPPS3 : Device Accessible|'Device Accessible' alarm received from IPCAPPS3 at 1:20AM on 9/12/01  A 'Device Accessible' alarm indicates a device that was previously inaccessible is now accessible. Compaq Insight Mana
+2001-09-12 01:44:42 Arch [0987275] C  ALPHA  s0191: 09/11 12:20:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:20:24
+2001-09-12 01:44:42 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192153. 
+2001-09-12 01:44:42 Arch [0967517] D  ALPHA  636
+2001-09-12 01:44:43 Skytel [004720225] A SH/TONE 307     
+2001-09-12 01:44:43 Skytel [005324758] B ST NUM  100-000-0000   
+2001-09-12 01:44:43 Skytel [007596901] B SH/TONE 85450   
+2001-09-12 01:44:43 Skytel [005235823] D  ALPHA  VOICE MESSAGE [4963.MOHAMMAD M          
+2001-09-12 01:44:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #76-IX_T1706
+2001-09-12 01:44:43 Skytel [005132640] A  ALPHA  2) LMNLAN1I RAMSES BOUNSS3 Interface TKR/0 down.
+2001-09-12 01:44:44 Arch [0987275] C  ALPHA  s0191: 09/11 12:28:34 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:28:34
+2001-09-12 01:44:45 Skytel [007026426] C SH/TONE 932-3520
+2001-09-12 01:44:47 Skytel [004449421] D SH/TONE 218     
+2001-09-12 01:44:49 Metrocall [1544818] A  ALPHA  IWHub ServerWatch Notification - Server KPNC-HUB2/HSVR/KAIPERM is NOT Responding WARNING:Server KPNC-HUB2/HSVR/KAIPERM is not responding. Reason:Unable to find path to server
+2001-09-12 01:44:50 Skytel [004576171] C SH/TONE 709-1989
+2001-09-12 01:44:51 Arch [0987275] C  ALPHA  s0191: 09/11 12:31:16 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:31:16
+2001-09-12 01:44:53 Arch [0987275] C  ALPHA  s0191: 09/11 12:36:48 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:36:48
+2001-09-12 01:44:54 Skytel [005098183] B  ALPHA  1245 list -Plano 2 Way Ops
+2001-09-12 01:44:58 Skytel [005003367] B  ALPHA  root@bur-faxsvr.genuity.com|bur-faxsvr.genuity.com - /bbn is 91% full| 
+2001-09-12 01:44:58 Skytel [002275812] B ST NUM  214-892-6690 (39    
+2001-09-12 01:44:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8074

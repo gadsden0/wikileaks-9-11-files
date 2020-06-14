@@ -1,0 +1,47 @@
+2001-09-11 04:42:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1989
+2001-09-11 04:42:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1989
+2001-09-11 04:42:02 Arch [1060630] B  ALPHA  PLEASE CALL 817-317-8094.
+2001-09-11 04:42:02 Arch [1318633] C  ALPHA  Chiller # 5 is ON  
+2001-09-11 04:42:03 Metrocall [1064388] B  ALPHA  LCO 2740/2728  -005 CL 2764/784/788+001 2752/2718/2680/2655 2623/2591/2560/2530 HO 7956/015/050-005 HU 8180/770/560-007 NG2390/2672/993+008 3150/3120/3050/2960 965/010/040/055/065 LGO 23975/4125-0250 PL v4390/f4320 +007 EC _3300/_3150+0150 PAm45600+00
+2001-09-11 04:42:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6811
+2001-09-11 04:42:04 Arch [1275092] B  ALPHA  ID: 215349 Host: I01188-prt1 Text: DTA021 8  
+2001-09-11 04:42:05 Metrocall [1064388] B  ALPHA  0
+2001-09-11 04:42:06 Arch [0000101] B  ALPHA  MSN 097 hello Message from NOC PCB.
+2001-09-11 04:42:18 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177931. 
+2001-09-11 04:42:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9734
+2001-09-11 04:42:27 Arch [1619813] B  ALPHA  2760
+2001-09-11 04:42:29 Arch [1304332] D  ALPHA  JT SCL ERROR 
+2001-09-11 04:42:30 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs05 Sev:4 # 120011 DisconnectError WBS 3.1.14.1 09/11/01 01:42:49 PDT7 Instance: tm-blmb Module: Transport Details: PID=10648 TID=11 tm-blmb disconnected from Ticker=labcp-wbs05, 5555; 720 reconnect attempt
+2001-09-11 04:42:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3382
+2001-09-11 04:42:30 Metrocall [1423721] C  ALPHA  Frm: netiq@tisi.com Sub: TISIEXCHG01 : Overall CPU Overloaded Txt: Overall CPU Overloaded
+2001-09-11 04:42:30 Metrocall [002118707] A  ALPHA  Frm: netiq@tisi.com Sub: TISIEXCHG01 : Overall CPU Overloaded 
+2001-09-11 04:42:31 Metrocall [1560616] C  ALPHA  Frm: netiq@tisi.com Sub: TISIEXCHG01 : Overall CPU Overloaded Txt: Overall CPU Overloaded
+2001-09-11 04:42:31 Metrocall [0478205] D  ALPHA  PROV 633-1052  RE: MARY BURNS (2ND PAGE) SEP11/3:42
+2001-09-11 04:42:31 Metrocall [002118707] A  ALPHA  Txt: Overall CPU Overloaded
+2001-09-11 04:42:31 Metrocall [1064378] C  ALPHA  JAPAN REVISED CURRENT ACCOUNT DEPOSITS/BOJ OPERATIONS(SEPT/11) - BOJ
+2001-09-11 04:42:31 Metrocall [1064395] C  ALPHA  )?#`BAHHI@m@DVUAhPYrBeEkRZ\VH`auZUJKNjHHLNGOjsjbBIEhSz\fiSWpi|iAOhQZTFiIgsjZbgEhUE{EbiPKTDJ_JP@D`PM\N|C
+2001-09-11 04:42:33 Skytel [007575575] B  ALPHA  [MINOR] dijon: File-system "/biller/wnet/data/parser" is now 86% full.
+2001-09-11 04:42:35 Skytel [002376872] C  ALPHA  hevaem@conxion.net|oracleheva2.conxion.net, HTTP, 206.204.210.197:80, Server Recovered, | 
+2001-09-11 04:42:35 Skytel [004551086] D  ALPHA  ibgbos001nts / OK / Host ping successful for ibgbos015nts  / 09/11/2001/04:42:29 /
+2001-09-11 04:42:36 Skytel [005133629] D  ALPHA  ipmonitor@parsons.com|2001-9-11, 01:50:51, SACDC01 (SERVER), SERVICE, Server failed to handle request|2001-9-11, 01:50:51, SACDC01 (SERVER), SERVICE, Server failed to handle request  
+2001-09-11 04:42:36 Skytel [004697392] A ST NUM  947-700-7239   
+2001-09-11 04:42:36 Skytel [003921203] A  ALPHA  infobeat@list.euniverse.com|SPORTS: Bonds Smacks Three Homers in Pursuit of Record|This is a multipart message in MIME format.  --ffff Content-Type: text/plain    INFOBEAT Don't Miss A Beat!  ===========================  SPORTS NEWSLETTER T
+2001-09-11 04:42:39 Metrocall [1875897] C  ALPHA  Frm: MSN Txt: Hotmail jan042@jjhpxh.loanedme.com:Increase Sales.
+2001-09-11 04:42:39 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs05 Sev:4 # 120002 ReadError WBS 3.1.14.1 09/11/01 01:42:49 PDT7 Instance: tm-blmb Module: Transport Detai
+2001-09-11 04:42:40 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job113073 SSAO02302 09/11 04:40 DISK
+2001-09-11 04:42:40 Skytel [007009625] C  ALPHA  Yahoo! Calendar |Daily Calendar, 9/11/2001, 1 Event Today|Yahoo! Calendar for Tuesday September 11, 
+2001-09-11 04:42:41 Metrocall [0477913] C  ALPHA  ls: PID=10648 TID=11 file closed
+2001-09-11 04:42:42 Skytel [005178080] A SH/TONE 104     
+2001-09-11 04:42:42 Skytel [005436525] D  ALPHA  Test #71
+2001-09-11 04:42:42 Skytel [004524770] A  ALPHA  wil-NorthCountyFCU-BurlingtonVT-: CPE Up at 00:58:25 on 9/11
+2001-09-11 04:42:42 Skytel [005203941] B  ALPHA  8979*Host health.cch.com HTTP Content Scan DOWN at 03:41:55  
+2001-09-11 04:42:44 Skytel [005477235] A SH/TONE 640-7326
+2001-09-11 04:42:44 Skytel [007109749] B ST NUM  613-0217-73    
+2001-09-11 04:42:44 Skytel [005382778] C  ALPHA  alert@msn.com||Hotmail MSNBC News:msnbc: Bush warms to capital gains cut  
+2001-09-11 04:42:44 Skytel [002377208] C SH/TONE 4444    
+2001-09-11 04:42:51 Skytel [0001461] B  ALPHA  GLOBEX   03:41     GEH  9662.5    .5-   GEM    ----   ----   ESU  109900   325+   SPU  109900   330+   NDU  137800   750+   6JZ    8290A   53-   6EZ    8961    19-   6SZ    5933A    7-   6BZ   14498    30-   6CZ    6395B    5+   
+2001-09-11 04:42:52 Metrocall [1902004] B  ALPHA  r 524268 7
+2001-09-11 04:42:52 Metrocall [1064378] C  ALPHA  JAPAN PROJECTED CURRENT ACCOUNT DEPOSITS/BOJ OPERATION.......& .).....
+2001-09-11 04:42:52 Metrocall [1064395] C  ALPHA  ...................................................................................................RA@uq@pL
+2001-09-11 04:42:55 Skytel [1800019] A  ALPHA  GLOBEX   03:41     GEH  9662.5    .5-   GEM    ----   ----   ESU  109900   325+   SPU  109900   330+   NDU  137800   750+   6JZ    8290A   53-   6EZ    8961    19-   6SZ    5933A    7-   6BZ   14498    30-   6CZ    6395B    5+   
+2001-09-11 04:42:57 Skytel [005330530] A ST NUM  8685222010

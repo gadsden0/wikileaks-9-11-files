@@ -1,0 +1,54 @@
+2001-09-11 03:18:00 Metrocall [0088087] B  ALPHA  F:oracleadm@sig.com (Oracle Admin) S:MON-1031 Disk Storage Alert on /rockies/archive-phys-rockies-a B:/dev/vx/dsk/oradg/archive 32249632 28967496 2959640 91% /rockies/archive
+2001-09-11 03:18:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1905
+2001-09-11 03:18:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1905
+2001-09-11 03:18:03 Skytel [007098397] D SH/TONE 999     
+2001-09-11 03:18:04 Skytel [007494821] B ST NUM  078-6367-97    
+2001-09-11 03:18:05 Skytel {0152808} 3 2400 3441 
+2001-09-11 03:18:07 Metrocall [0088087] B  ALPHA  F:oracleadm@sig.com (Oracle Admin) S:MON-1031 Disk Storage Alert on /rockies/archive-phys-rockies-a B:/dev/vx/dsk/oradg/archive 32249632 28967496 2959640 91% /rockies/archive
+2001-09-11 03:18:10 Arch [0464173] D  ALPHA  John Hopprich|12.2M bug summary |This is a multi-part message in MIME format. --------------E97DDB3B1ECEFF5AE9032B54 Content-Type: text/plain; charset=us-ascii Content-Transfer-Encoding: 7bit All, Included is one of the bug reports  -1/3
+2001-09-11 03:18:12 Arch [0464173] D  ALPHA  from Franks Fields. Several notes: - we have a low incoming rate compared to other ITD groups - we have the lowest average age - great work everyone! - we have by far the worst percentage change of S123/P123s since July!-( Part of  -2/3
+2001-09-11 03:18:14 Arch [0464173] D  ALPHA  this is because we have such a low number but we've almost doubled since July and most of it has happened since mid-August (see the last sheet "Summary By 1st Level Mgr" growing|640   -3/3
+2001-09-11 03:18:16 Arch [0000101] B  ALPHA  MSN 057 hello Message from NOC PCB.
+2001-09-11 03:18:18 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router 611FP-1Tendo at 00:16:44 Txt: Router 611FP-1Tendo DOWN at 00:16:44 Address: 209.247.46.97 Date: 09/11/2001 Status: Host Unreachable ( 11003)
+2001-09-11 03:18:19 Metrocall [1105960] C  ALPHA  jax PV 47 vid RESOLVED
+2001-09-11 03:18:19 Metrocall [1064381] D  ALPHA  NIGERIA SAYS 80 DIE IN JOS ETHNIC RIOTING
+2001-09-11 03:18:20 Arch [0942144] A  ALPHA  TESTING
+2001-09-11 03:18:20 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:18:22 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   6630 OPEN suntvpa:6630 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 15273 OPEN sunapp1:15273 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:18:24 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   21469 OPEN suntvpa:21469 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 31203 OPEN sunapp1:31203 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat 
+2001-09-11 03:18:24 Arch [0280341] B  ALPHA  netsaint <netsai|PROBLEM alert - Host LasVegas-2 |Host 'SBG_LasVegas-2' is DOWN Info: CRITICAL - Plugin timed out after 10 seconds Time: Tue Sept 11 03:20:14 EDT 2001 
+2001-09-11 03:18:24 Arch [0927086] D  ALPHA  VPO - msadc01:5.6.003 geaso-ss2200-dfic-1.ae.ge.com Node Down 
+2001-09-11 03:18:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9650
+2001-09-11 03:18:25 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   8957 OPEN suntvpa:8957 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 5058 OPEN sunapp1:5058 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:18:27 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-11 03:18:29 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   22537 OPEN suntvpa:22537 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 14354 OPEN sunapp1:14354 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat 
+2001-09-11 03:18:31 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:18:31 Skytel [002384012] D  ALPHA  WARNING 1 - DSI EXEC Suspended 131 JANUS_NYPRD_SQL2.fe_nyprd
+2001-09-11 03:18:33 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   23170 OPEN suntvpa:23170 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 3077 OPEN sunapp1:3077 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj
+2001-09-11 03:18:35 Skytel [002376872] C  ALPHA  nms@svcanms.conxion.com|Sep11-00:18|There are 4 active alarms including server:mailspool:disk:var 90% full  
+2001-09-11 03:18:36 Skytel [007045950] D SH/TONE 834-7220
+2001-09-11 03:18:36 Skytel [002553148] D SH/TONE         
+2001-09-11 03:18:37 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 176989. 
+2001-09-11 03:18:38 Skytel [002380618] C  ALPHA  WARNING 1 - DSI EXEC Suspended 131 JANUS_NYPRD_SQL2.fe_nyprd
+2001-09-11 03:18:38 Skytel [002691791] D ST NUM  508-283-0715   
+2001-09-11 03:18:38 Skytel [003481167] D ST NUM  614-431-4302   
+2001-09-11 03:18:40 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:18:40 Arch [0433823] D  ALPHA  (9)33:ABS: OTTO 4874380 to level 2 need update or escalation on this tkt. thanks...sonya trimble/smc 800 877 5045 x4667
+2001-09-11 03:18:40 Skytel [005004368] A  ALPHA  sysNETIQsvc: LON job(s) 223261 SLON00507 2001/09/11 08:18 SYS_CHK
+2001-09-11 03:18:40 Skytel [002365520] A  ALPHA  WARNING 1 - DSI EXEC Suspended 131 JANUS_NYPRD_SQL2.fe_nyprd
+2001-09-11 03:18:41 Metrocall [0905883] C  ALPHA  tails: /opt/resmon/bin/resdata -R 87162916 -r /storage/events/tapes/SCSI_tape/0_3_0_1.0.0
+2001-09-11 03:18:42 Skytel [003941474] A  ALPHA  DLLS/CHCG RSC OMPWAY4 PC 211  199  254-Tulsa LSCC
+2001-09-11 03:18:42 Skytel [007641961] C SH/TONE 17      
+2001-09-11 03:18:42 Skytel [005350248] C SH/TONE 1914    
+2001-09-11 03:18:42 Skytel [003451501] D SH/TONE 409     
+2001-09-11 03:18:44 Skytel [004757744] A SH/TONE 220     
+2001-09-11 03:18:44 Skytel [002377208] C SH/TONE 4444    
+2001-09-11 03:18:44 Skytel [005046399] D  ALPHA  400100381225 71080 2 7023832583 UNIV MED CTR OF SOUTHERN NEVADA CHRIS GALLGOS DAN DEL ZOPPO /=HAVING A BI PLANE-HAVE FLOURO BUT THEY CANNOT GET AN IMAGE TO COME
+2001-09-11 03:18:48 Metrocall [002178488] C  ALPHA  EMAIL goodtining@www40.net Rates may NEVER be Lower !!  ................................................................................................................................................................................................
+2001-09-11 03:18:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1171..
+2001-09-11 03:18:55 Skytel [002349522] A  ALPHA  DUTYMGR> FRANKLIN: SEV2 San Mateo, CA, Svr SMOR01EXC17 is able to send/receive mail as of 12:13 PT. Support restored servers to recover. -
+2001-09-11 03:18:55 Skytel [004547038] D SH/TONE 800-7473
+2001-09-11 03:18:57 Skytel [005436525] D  ALPHA  Test #14
+2001-09-11 03:18:57 Skytel [004524770] A  ALPHA  wil-NorthCountyFCU-BurlingtonVT-: CPE Down at 00:36:41 on 9/11
+2001-09-11 03:18:57 Skytel [005112809] C  ALPHA  02:15CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240416: Uncorrectable write error
+2001-09-11 03:18:57 Skytel [005330530] A ST NUM  8685222010

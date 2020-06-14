@@ -1,0 +1,64 @@
+2001-09-11 04:25:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1972
+2001-09-11 04:25:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1972
+2001-09-11 04:25:01 Skytel [007609344] A  ALPHA  AMNapNot@eds.com|Trouble Ticket NV00536609 has an expected response date of 09/10/ 01 00:00:00, this has been exceeded. NV00536609|Trouble Ticket NV00536609 has an expected response date of 09/10/01 00:00:00, this has been exceeded.  Unable
+2001-09-11 04:25:01 Skytel [007109749] B ST NUM  0-116-177-4312 
+2001-09-11 04:25:02 Arch [0960047] D  ALPHA  [214 566-8848] 495-0848
+2001-09-11 04:25:02 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|wb0300ux114|CR: 143912 Priority: 1 Assigned to: Summary:: Agent not responding 
+2001-09-11 04:25:03 Skytel [005328157] D SH/TONE 3700    
+2001-09-11 04:25:03 Skytel [002401821] D  ALPHA  206.122.40.73 Code =  JOES  - Job Output Elements ussa11.SSMC 
+2001-09-11 04:25:03 Skytel [004687644] D  ALPHA  TM125303@anacomp.com||<1/2:DtaTrnsmssnSrvcsFlsTrnsmttdByRbrtsnStv F:<TM125303@anacomp.com>> HrndnTrnstMngr#3RprtOnFlsRcvdByTrnstMngr125303Btwn9/11 8:01:00AM&9/11   
+2001-09-11 04:25:04 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|wb0300ux114|CR: 143913 Priority: 1 Assigned to: Summary:: Agent not responding 
+2001-09-11 04:25:06 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6794
+2001-09-11 04:25:06 Arch [0000101] B  ALPHA  MSN 089 hello Message from NOC PCB.
+2001-09-11 04:25:06 Skytel [0001075] A  ALPHA  I/B Flt. 3902/LAX-AFW-IND is on deck
+2001-09-11 04:25:06 Skytel [0001074] A  ALPHA  I/B Flt. 3902/LAX-AFW-IND is on deck
+2001-09-11 04:25:08 Skytel [004539594] C  ALPHA  I/B Flt. 3902/LAX-AFW-IND is on deck
+2001-09-11 04:25:09 Metrocall [1222246] B  ALPHA  From notify: PRD backit Ended successfully. RC= 0
+2001-09-11 04:25:09 Metrocall [1064392] C  ALPHA  LME HI-LO       MCU_1445.0 - 1441.0  MAL 1374.0 - 1373.0  MAA 1145.0 - 1147.0  MNI .....................#. ................................................_831.0
+2001-09-11 04:25:09 Skytel {1002384} 3 2400 629-702-5757-5  18  
+2001-09-11 04:25:12 Arch [0977467] C  ALPHA  2/02: 09/11/01 03:21:49
+2001-09-11 04:25:12 Arch [0924725] B  ALPHA  1/02:Sev1 open S3040690 PRAPHANT PAVASANT 857-2525 BANGKOK1 GLOBAL INVESTMENT BANKING GLBINTERNET Customer is trying to logon to the following web site :  http://creditsystems.chase.com to select the following options Portfolio
+2001-09-11 04:25:14 Arch [0924725] B  ALPHA  2/02: 09/11/01 03:21:49
+2001-09-11 04:25:19 Arch [0930546] A  ALPHA  Alarm: 01:24:53AM  Boiler Network connect   Site 4 Bldg 7 Hot water supply temp is out of range.
+2001-09-11 04:25:20 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 2 outage detected on ENT: 1461 seconds so far 09/11/01 01:22:48 PDT7 622033
+2001-09-11 04:25:22 Metrocall [1064393] C  ALPHA  LME C/S CU_14120/_2350/-100 AL 13400/.3$.0/.1.. A. 1.27./..........................................................................37100/_4750/-120
+2001-09-11 04:25:23 Arch [0939437] D  ALPHA  CA Helpdesk <CAH|wb0300ux114: CR#: 143913 Transfe|Summary : Agent not responding Assigned to: CA Unix Group, Doud, Walter Description: ""Host:Solaris Solaris HpxAgent Poll Agent:HpxAgent N/A DOWN NT/UNIX Heartbeat args= Source: tng SendMsg 
+2001-09-11 04:25:23 Arch [1015100] D  ALPHA  MSN <alert@msn.c|Hotmail Monster Job Search Agent:Monster Agent Results - 09/11/2001 
+2001-09-11 04:25:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9717
+2001-09-11 04:25:30 Metrocall [1064377] C  ALPHA  US 10514/10422 +000 SP109910/10140+0. ...EI.57.0.6..5..6..........................................................................................................................................................................2  FV 10615+
+2001-09-11 04:25:31 Arch [1082360] C  ALPHA  (29)AS400B: SERS: SA9526C, Load/Merge/Grouping has began.
+2001-09-11 04:25:31 Skytel [005226372] B SH/TONE 58526   
+2001-09-11 04:25:35 Skytel [004690086] B SH/TONE 23      
+2001-09-11 04:25:36 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177747. 
+2001-09-11 04:25:36 Arch [1439547] C  ALPHA  "Demott, Curt" <|Alerts|We're checking on these alerts. We believe its maintenance. <<Untitled>> <<Untitled>> <<Untitled>> <<Untitled>> <<Untitled>> <<Untitled>> <<Untitled>> <<Untitled>> <<Untitled>> <<Untitled>> <<Untitled>> <<Untitled>> <
+2001-09-11 04:25:36 Skytel [005208500] B  ALPHA  mike  pdcgl21 went down again after all environments came up bassam 973 253 9590
+2001-09-11 04:25:36 Skytel [003464122] C SH/TONE 551-9444
+2001-09-11 04:25:38 Arch [1612111] D  ALPHA  monitor@ccbill.c|VSCRUB Packet Loss|nulls=11 1017375560:1017375571:1017375576:1017375585:1017375589:1017375595:1017375603:1017375640:1017375653:1017375654:1017375662 
+2001-09-11 04:25:38 Skytel [005098183] B  ALPHA  SKYGRAM
+2001-09-11 04:25:38 Skytel [003481167] D ST NUM  614-431-4302   
+2001-09-11 04:25:40 Arch [1612111] D  ALPHA  front8c.ccbill.c|VSCRUB Taken Offline|Vscrub Has Been Taken Offline 
+2001-09-11 04:25:40 Skytel [003448531] A SH/TONE 1127    
+2001-09-11 04:25:40 Skytel [005107544] C  ALPHA  OPEN/CLOSE:Link TRGR54A (Tarragona, Spain) --> BLR54A (Bilbao, Spain) is down. TOP:03:21 TOR:03:45. TKT#1484962 -- From: SMT - 248.528.7000
+2001-09-11 04:25:40 Skytel [002359129] C  ALPHA  I/B Flt. 3902/LAX-AFW-IND is on deck
+2001-09-11 04:25:40 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job72494 STOK00330 09/11 04:24 QUEUES
+2001-09-11 04:25:40 Skytel [003492700] D SH/TONE 932-3516
+2001-09-11 04:25:41 Metrocall [002572748] D  ALPHA  Frm: Richard Dong Sub: Network Failure Txt: Obviously, there are several network failure since 2:10 am. This 2nd time we had network failure for the past few days. We have not been experienced similar
+2001-09-11 04:25:42 Skytel [005203941] B  ALPHA  3003*Host health.cch.com UP at 03:26:02  
+2001-09-11 04:25:42 Skytel [002867432] C SH/TONE 47247   
+2001-09-11 04:25:42 Skytel [007596901] B SH/TONE 85450   
+2001-09-11 04:25:42 Skytel [005436525] D  ALPHA  Test #86
+2001-09-11 04:25:42 Skytel [004524770] A  ALPHA  spr-Catuogno-SpringfieldMA-02: CPE Up at 00:58:47 on 9/11
+2001-09-11 04:25:44 Skytel [002389746] A  ALPHA  50) alert@msn.com||Hotmail MSNBC News:msnbc: Bush warms to capital gains cut  
+2001-09-11 04:25:44 Skytel [004754935] B SH/TONE 435-5845
+2001-09-11 04:25:44 Skytel [002357369] C  ALPHA  002207 CYCLIC TEST 
+2001-09-11 04:25:44 Skytel [002860023] B SH/TONE 951-2817
+2001-09-11 04:25:44 Skytel [003327216] A  ALPHA  002207 CYCLIC TEST 
+2001-09-11 04:25:44 Skytel [002377208] C SH/TONE 4444    
+2001-09-11 04:25:44 Skytel [002139900] D SH/TONE 002207  
+2001-09-11 04:25:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 01:25:46 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 04:25:50 Skytel [003347245] D SH/TONE 421705  
+2001-09-11 04:25:51 Skytel [004403771] C  ALPHA  303-708-5761
+2001-09-11 04:25:53 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|wb0300ux114|CR: 143914 Priority: 2 Assigned to: Summary:: System availability warning or critical alert 
+2001-09-11 04:25:55 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|wb0300ux114|CR: 143915 Priority: 2 Assigned to: Summary:: System availability warning or critical alert 
+2001-09-11 04:25:55 Skytel [004727514] C  ALPHA  nytdirect@nytimes.com|Today's Headlines from NYTimes.com Tuesday, September 11, 2001|TODAY'S HEADLINES The New York Times on the Web Tuesday, September 11, 2001 ------------------------------------------------------------ For news updated t
+2001-09-11 04:25:59 Arch [1051867] C  ALPHA  |AUTOSYS New From Date:10-SEP-2001 and New To Date:11-SEP-2001 ||64  

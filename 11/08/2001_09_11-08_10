@@ -1,0 +1,195 @@
+2001-09-11 08:10:01 Arch [1020676] B  ALPHA  "Minnie Locke" <|LNS: MSAG outage taken from 07:08 to 07:37 ET when the app. stopped responding. ACTT 0911-334886. Resolved with reset of ORBIX. IUMs to be calculated later once Support arrives at office. M. Locke 
+2001-09-11 08:10:01 Arch [1345825] A  ALPHA  1: NewCall 3740205 THD0004127 08:08 24R
+2001-09-11 08:10:01 Metrocall [002106377] C  ALPHA  Frm: Gorman, Sherri Sub: Txt: Beaverton, OR. CriticalTT#1368460. EBC-A pair failed and have been reset. Customers are back up.
+2001-09-11 08:10:01 Metrocall [0498535] B  ALPHA  hErr (3 chan): Jackson/COURT INS3 TC9:1, Jackson/TVLAND INS3 TC:1, Jackson/ANIMAL INS3 TC:1. .
+2001-09-11 08:10:01 Metrocall [002562693] B  ALPHA  Sub: Frm: Minnie Locke Txt: LNS: MSAG outage taken from 07:08 to 07:37 ET when the app. stopped responding. ACTT 0911-334886. Resolved with reset of ORBIX. IUMs to be calculated later once Support arrives at office. M. Lo
+2001-09-11 08:10:01 Skytel [005081729] A SH/TONE 526     
+2001-09-11 08:10:01 Skytel [005179393] A SH/TONE 9513    
+2001-09-11 08:10:01 Skytel [005058057] C  ALPHA  root@avm1.scc911.com|AVM1|User Processes are taking up a large percentage of CPU. Login and use top to see if there is a problem.  
+2001-09-11 08:10:03 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7019
+2001-09-11 08:10:03 Arch [0983684] B  ALPHA  PLEASE CALL EXT#6160.THANKS SEP11/8:12 [07:59]
+2001-09-11 08:10:03 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2197
+2001-09-11 08:10:03 Metrocall [0544296] C  ALPHA  T7742 [LCJDB1] SwitchErr (3 chan): Jackson/COURT INS3 TC9:1, Jackson/TVLAND INS3 TC:1, Jackson/ANIMAL INS3 TC:1. .
+2001-09-11 08:10:03 Metrocall [002562693] B  ALPHA  cke
+2001-09-11 08:10:03 Metrocall [1145893] B  ALPHA  Frm: 
+2001-09-11 08:10:03 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2197
+2001-09-11 08:10:03 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 144W MAJ=NONE
+2001-09-11 08:10:03 Skytel [005106715] C  ALPHA  alert@msn.com||Libra: Others break rules. Telepathy warns you away from excess. Restraint is your friend.**  
+2001-09-11 08:10:03 Skytel [005108883] A ST NUM  302-757-8478   
+2001-09-11 08:10:03 Skytel [005367705] C SH/TONE 76887   
+2001-09-11 08:10:03 Skytel [005195802] C SH/TONE 75076   
+2001-09-11 08:10:03 Skytel [004429852] D ST NUM  632-855-5523   
+2001-09-11 08:10:05 Arch [0330356] B  ALPHA  UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days updates on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:05 Arch [1642388] B  ALPHA  WARNING AUTO MARK 6304-US WAITING FOR MARKS FILE FROM
+2001-09-11 08:10:05 Arch [1412366] D  ALPHA  UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days updates on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:05 Arch [0982801] A  ALPHA  UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days updates on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:05 Arch [0960479] D  ALPHA  62-PLEASE CALL HOME, STEPHANIE.
+2001-09-11 08:10:05 Arch [0625635] A  ALPHA  UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days updates on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:05 Arch [0272654] D  ALPHA  212 778-1400
+2001-09-11 08:10:05 Skytel [004690086] B SH/TONE 23      
+2001-09-11 08:10:05 Skytel {1660749} 3 2400 427-4944  
+2001-09-11 08:10:06 Skytel {1078968} 1 1200 355-1CC-1172-83..
+2001-09-11 08:10:06 Skytel {0552562} 1 1200 3122660404
+2001-09-11 08:10:07 Arch [1642388] B  ALPHA   COUNTERPARTY 6304-US
+2001-09-11 08:10:07 Metrocall [1145893] B  ALPHA  MSN Txt: messyjessie12@hotmail.com: ,m,j,
+2001-09-11 08:10:09 Arch [0905541] B  ALPHA  AQM@bayer.com|Cafeteria Menu Update Failed - c|Cafeteria Menu Update Failed Please Consult Your E-Mail for Details. 
+2001-09-11 08:10:09 Arch [1411171] A  ALPHA  AQM@bayer.com|DNEWS_Log_Archive_AQM.cmd Job Fa|DNEWS_Log_Archive_AQM.cmd Failed. Please Consult Your E-Mail for Details. 
+2001-09-11 08:10:09 Arch [0928461] D  ALPHA  82236 TIME 07:04 ACTIVE-LKM1 DOOR OPEN ,SITE=  D095
+2001-09-11 08:10:11 Arch [0905541] B  ALPHA  AQM@bayer.com|DNEWS_Log_Archive_AQM.cmd Job Fa|DNEWS_Log_Archive_AQM.cmd Failed. Please Consult Your E-Mail for Details. 
+2001-09-11 08:10:11 Arch [1411171] A  ALPHA  AQM@bayer.com|WebServer Log Check Failed - Exi|WebServer Log File Check Failed Please Consult Your E-Mail for Details.
+2001-09-11 08:10:11 Metrocall [002106361] C  ALPHA  Sub: Frm: Minnie Locke Txt: LNS: MSAG outage taken from 07:08 to 07:37 ET when the app. stopped responding. ACTT 0911-334886. Resolved with reset of ORBIX. IUMs to be calculated later once Support arrives at office. M. Locke
+2001-09-11 08:10:11 Metrocall [1308561] A  ALPHA  AK428.080810.DI250.317651.ZZZ.Med.Chg Serv.ROPHO SALES, INC.4626 MACCORKLE AVE.SOUTH CHARLESTON.WV.25309.(000) 000-0000.09/11/01.DEMO PREP.SHOP REPAIR.Exp 00/00/00
+2001-09-11 08:10:12 Arch [0905541] B  ALPHA  AQM@bayer.com|WebServer Log Check Failed - Exi|WebServer Log File Check Failed Please Consult Your E-Mail for Details. 
+2001-09-11 08:10:14 Arch [0931670] B  ALPHA  UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days updates on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:14 Arch [0909847] B  ALPHA  (15)UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days updates on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:14 Arch [1607286] B  ALPHA  (25)HQ#307644 Vilynne Jackson (404)527-3430 Having printing problems again Steve/NSS (404)658-2902
+2001-09-11 08:10:14 Arch [1072384] A  ALPHA  (9)UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days upda
+2001-09-11 08:10:14 Arch [0763198] D  ALPHA  UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days updates on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:16 Arch [1607352] C  ALPHA  BXLYGAES BAXLEY DRYER/FUSE ALARMS//003 DRYER   B   FAILURE ALARM//Clear//09/11/01//08:11
+2001-09-11 08:10:16 Arch [1072384] A  ALPHA  tes on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:18 Arch [0930546] A  ALPHA  1008
+2001-09-11 08:10:22 Arch [1403004] D  ALPHA  "Ameritrade Aler|Analyst Rec Changes|CIEN changed from 2.34 to 2.39 (Hold) ERICY changed from 2.57 to 2.59 (Hold) LU changed from 2.72 to 2.67 (Hold) MOT changed from 2.30 to 2.36 (Hold) QCOM changed from 1.63 to 1.60 (Moderate Buy) 
+2001-09-11 08:10:22 Metrocall [1456755] A  ALPHA  Frm: Ameritrade Alert Sub: Consensus Estimate Changes Txt: PUMA quarter ending 1/02 up by $0.01 to -$0.12 from -$0.13
+2001-09-11 08:10:22 Metrocall [0474739] A  ALPHA  ALEXANDRIA: TODAY...SUNNY. HIGHS IN THE LOWER 80S. NORTHWEST WIND 10 TO 15 MPH.
+2001-09-11 08:10:22 Metrocall [0815094] B  ALPHA  Frm: SDGAOC1B@AEP.COM Sub: AOC S
+2001-09-11 08:10:22 Metrocall [0775185] A  ALPHA  VIENNA: TODAY...SUNNY. HIGHS IN THE LOWER 80S. NORTHWEST WIND 10 TO 15 MPH.
+2001-09-11 08:10:24 Arch [0911777] A  ALPHA  Please Call 740-0070
+2001-09-11 08:10:24 Metrocall [0815094] B  ALPHA  DG Txt: SDGAOC1B at AOC is now Online
+2001-09-11 08:10:26 Arch [0861538] A  ALPHA  "Ameritrade Aler|Analyst Rec Changes|.LOR changed from 2.57 to 2.38 (Hold). 
+2001-09-11 08:10:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9942
+2001-09-11 08:10:29 Arch [1018152] C  ALPHA  (32)oraprod@mail.spr|File system /u21 on dapmdp01 exceeded 80% - Please investigate! 
+2001-09-11 08:10:29 Arch [0925415] B  ALPHA  UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days updates on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:31 Metrocall [1361405] D  ALPHA  Event OJULIOV:DiskFull HRS2 SAD15 Dump CRITICAL Node:hurhost2.iadb.org Disk Full
+2001-09-11 08:10:31 Metrocall [002105030] B  ALPHA  Frm: IPN Txt: IND| Monroe County (Bloomington)| Major Accident| 154.995/155.325| SR45@Leonard Springs|MVA W entrapment. 2nd transport req to scene. B
+2001-09-11 08:10:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3590
+2001-09-11 08:10:31 Skytel [005081730] A SH/TONE 216     
+2001-09-11 08:10:31 Skytel [007007750] B  ALPHA  y-weather@yahoo-inc.com||$499 deals on iPAQ Pocket PC Waterbury CT Sunny 52 - 79 F  WNI  
+2001-09-11 08:10:31 Skytel [005368071] B ST NUM  947-360-2128   
+2001-09-11 08:10:31 Skytel [007528577] A SH/TONE 15599   
+2001-09-11 08:10:31 Skytel [007600648] C SH/TONE 002     
+2001-09-11 08:10:31 Skytel [004696708] B  ALPHA  IAD STATS 9/10: Load-70, Arr OT0-68.4, Dep Sta-59.4, N.A.-58.5, Intl-66.7, Priority-66.7, Star-77.8, Lt Wt- 3.0, MBTA-7.0, Holdoff: M-0, Frt-1. DELAYS: 9 WX, 7 LA, 6 XLD. Only 2 N.A. CLEAR TODAY. Rick-Rick
+2001-09-11 08:10:33 Arch [0927727] D  ALPHA  db_update@factse|VMS PAGE|CT UPDATE PAST DUE: JOB_KEY=CUJO_JAMS_CRITICAL 
+2001-09-11 08:10:33 Metrocall [002105030] B  ALPHA  HAS, VBFD O/S ATT. NFI.| IND000| 07:09
+2001-09-11 08:10:33 Skytel [007511449] C  ALPHA  Y! ||Be mobile with Compaq Jackson, MS Sunny 64 - 90 F  WNI  
+2001-09-11 08:10:33 Skytel [002347798] B  ALPHA  neon@swift-clust1-pb.swift.ml.com|Alert|Tue Sep 11 08:10:33 2001 : 2 incomplete US GCS To-SWIFT message(s);  
+2001-09-11 08:10:35 Skytel [002374827] C SH/TONE 794-9400
+2001-09-11 08:10:35 Skytel [005236002] A ST NUM  9002866559
+2001-09-11 08:10:35 Skytel [004752170] C ST NUM  477-4812-99    
+2001-09-11 08:10:35 Skytel [004437785] C SH/TONE 1003    
+2001-09-11 08:10:37 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 180206. 
+2001-09-11 08:10:37 Arch [0949855] D  ALPHA  From Helpdesk: 245963: Multiple users experiencing intermittent problems accessing their home directories. This is an ongoing issue; LAN W/G and Network Infrastructure are still investigating. NO ETU (1/1)
+2001-09-11 08:10:37 Skytel [005082416] A SH/TONE 527     
+2001-09-11 08:10:37 Skytel [005328188] D  ALPHA   09/11/01 08:00:20 All Netware servers are OK. All Unix boxes are OK. All Hubs are OK. All Routers are OK.
+2001-09-11 08:10:37 Skytel [005355830] B ST NUM  0-888-695-6966 
+2001-09-11 08:10:37 Skytel [005190463] D SH/TONE 554-8309
+2001-09-11 08:10:37 Skytel [003273915] C  ALPHA  kvilme@us.ibm.com|8008940429 S1275798 S3 Printer Fuser error on printer.  Please
+2001-09-11 08:10:37 Skytel [004755773] D SH/TONE 6969    
+2001-09-11 08:10:37 Skytel [005228862] D SH/TONE 2002    
+2001-09-11 08:10:38 Skytel [007553993] C  ALPHA  Gorman.Sherri@broadband.att.com||Beaverton, OR. CriticalTT#1368460. EBC-A pair failed and have been reset. Customers are back up.   
+2001-09-11 08:10:38 Skytel [002380618] C  ALPHA  URGENT /var/adm/messages error in gfs-db1-p
+2001-09-11 08:10:39 Skytel [007522625] A SH/TONE 1       
+2001-09-11 08:10:39 Skytel [005362370] A SH/TONE 1234    
+2001-09-11 08:10:39 Skytel [004680387] A  ALPHA  CAN'T GET INTO CONF CALL. GET MSG PLEASE VERIFY PASS CODE.  CALLING KNET 650  -0602 USING 486360 FOR PASSCODE...RAY
+2001-09-11 08:10:39 Skytel [002370502] B  ALPHA  minniel@us.ibm.com||LNS: MSAG outage taken from 07:08 to 07:37 ET when the app. stopped responding.  ACTT 0911-334886.  Resolved with reset of ORBIX.  IUMs to be calculated later once Support arrives at office.  M. Locke  
+2001-09-11 08:10:39 Skytel [002393161] C SH/TONE 357-7693
+2001-09-11 08:10:39 Skytel [005362624] A  ALPHA  sitescope@afterburner.net|| SiteScope akomail.us.army.mil.smtp.pop3.mailtest Army Knowledge Online 263983 send failed: java.net.ProtocolException: 421 Internal configuration error  
+2001-09-11 08:10:40 Skytel [003447248] A ST NUM  900-227-3030   
+2001-09-11 08:10:40 Skytel [002351454] D  ALPHA  neon@swift-clust1-pb.swift.ml.com|Alert|Tue Sep 11 08:10:33 2001 : 2 incomplete US GCS To-SWIFT message(s);  
+2001-09-11 08:10:40 Skytel [002565078] B SH/TONE 4898    
+2001-09-11 08:10:40 Skytel [003206870] B SH/TONE 505     
+2001-09-11 08:10:40 Skytel [002819679] D  ALPHA  (04357836)2:800-222-9172
+2001-09-11 08:10:40 Skytel [002365520] A  ALPHA  URGENT /var/adm/messages error in gfs-db1-p
+2001-09-11 08:10:40 Skytel [007552083] A SH/TONE 56074   
+2001-09-11 08:10:40 Skytel [005107159] B ST NUM  603-929-9486 (99    
+2001-09-11 08:10:40 Skytel [003785300] B  ALPHA  URGENT /var/adm/messages error in gfs-db1-p
+2001-09-11 08:10:40 Skytel [003924574] D  ALPHA  IAD STATS 9/10: Load-70, Arr OT0-68.4, Dep Sta-59.4, N.A.-58.5, Intl-66.7, Priority-66.7, Star-77.8, Lt Wt- 3.0, MBTA-7.0, Holdoff: M-0, Frt-1. DELAYS: 9 WX, 7 LA, 6 XLD. Only 2 N.A. CLEAR TODAY. Rick-Rick
+2001-09-11 08:10:41 Arch [0383927] B  ALPHA  (23)UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days updates on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:41 Arch [0475899] C  ALPHA  UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days updates on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:41 Arch [0777006] D  ALPHA  (14)36:ABS: Tkt:5000544, Sev:2, Cust Note, Note Dur:282min, Queue:NATL##, Cust Name: METRO ONE - SUNRISE
+2001-09-11 08:10:41 Arch [0911626] C  ALPHA  UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days updates on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:41 Metrocall [1105674] C  ALPHA  I read over it, and it's just a few lines Robin needs. I'll email it to
+2001-09-11 08:10:41 Metrocall [0278573] D  ALPHA  <68> SUSAN MELBA MATRIX 803 957-0733= PLS CL REF: U KNOW.
+2001-09-11 08:10:42 Arch [0931828] B  ALPHA  55-PLEASE CALL PAUL 917-613-4610
+2001-09-11 08:10:42 Arch [1378726] B  ALPHA  Karen Ries <krie|TEST PAGE 9-11 @ 7:11|
+2001-09-11 08:10:42 Arch [0950818] A  ALPHA  From Reminder: Reminder - Subject:  Springdale SAMS - Target Marketing  Location:    Start Time:  7:30:00 AM
+2001-09-11 08:10:42 Arch [0967806] D  ALPHA  lmbhux03 - Ping ERROR - 90.103.92.10_WIRLMBBDC01:Access Selling [The Berry Company]
+2001-09-11 08:10:42 Arch [0939764] B  ALPHA  lmbhux03 - Ping ERROR - 90.103.92.10_WIRLMBBDC01:Access Selling [The Berry Company]
+2001-09-11 08:10:42 Arch [0623515] C  ALPHA  Karen Ries <krie|TEST PAGE 9-11 @ 7:11|
+2001-09-11 08:10:42 Skytel [004524770] A  ALPHA  wor-AffordableInteriorSys-Hudson: CPE Down at 01:47:43 on 9/11
+2001-09-11 08:10:42 Skytel [004752740] B SH/TONE 219     
+2001-09-11 08:10:42 Skytel [003495013] B SH/TONE 62982   
+2001-09-11 08:10:42 Skytel [005135713] A  ALPHA  CMS-MSGS@wcom.com|CMS-Tkt Escalation| Ticket Number:349835 Srvc ID:67410  00100 Control Site: IMS Escalation Level: 4 Cust Name:CISCO SYSTEMS           Comments:ESC 3rd lvl, IMS checked with SNF/Omar who advised ticket out t
+2001-09-11 08:10:42 Skytel [002367715] A ST NUM  504-498-0615   
+2001-09-11 08:10:42 Skytel [004087144] C SH/TONE 3245 (27
+2001-09-11 08:10:42 Skytel [004729445] B ST NUM  599-5199-11 U  
+2001-09-11 08:10:42 Skytel [005436525] D  ALPHA  LNotes #17-IX_T1705
+2001-09-11 08:10:42 Skytel [003948773] B SH/TONE 8499    
+2001-09-11 08:10:42 Skytel [003950055] B  ALPHA  RDowdall@moneynet.com|IBEEP CLOSED| STOP 09/11/2001 07:55:00 AM | TOTAL OUTAGE: 32 hrs 48 min | Mesirow | ISSUE: JSM Not Stopping and Starting Properly for Mesirow website  | WS2 Back in Rotation  
+2001-09-11 08:10:42 Skytel [005226605] D ST NUM  9683241876
+2001-09-11 08:10:43 Arch [0975978] C  ALPHA  From Reminder: Reminder - Subject:  Security and Network meeting  Location:    Start Time:  7:30:00 AM
+2001-09-11 08:10:43 Arch [1372920] C  ALPHA  "Ameritrade Aler|Analyst Rec Changes|.FON changed from 2.45 to 2.43 (Hold).LU changed from 2.72 to 2.67 (Hold).MOT changed from 2.30 to 2.36 (Hold).PCLN changed from 2.72 to 2.74 (Hold).PCS changed fr
+2001-09-11 08:10:43 Metrocall [1105674] C  ALPHA   you. Muc
+2001-09-11 08:10:43 Metrocall [1064374] B  ALPHA  YEN  121.89/94 +096 EUR  0.8962/67 -019 CHF  1.6890/00 +011 GBP  1.4553/56 -010 CAD  1.5598/04 -028 AUD  0.5134/39 +001  NZD  0.4263/68 -044 DEM  2.1809/21 +039  E/C  1.5141/55 -014 E/Y  109.26/31 +061 E/S  0.6156/62 -002 USD     115
+2001-09-11 08:10:44 Metrocall [1064374] B  ALPHA  .00 +022
+2001-09-11 08:10:44 Skytel [002148723] A  ALPHA  254-1711 (92
+2001-09-11 08:10:44 Skytel [002357369] C  ALPHA  002282 CYCLIC TEST 
+2001-09-11 08:10:44 Skytel [005135713] A  ALPHA  o OSC (MFS) and 
+2001-09-11 08:10:44 Skytel [004414070] B ST NUM  800-942-0311   
+2001-09-11 08:10:44 Skytel [003327216] A  ALPHA  002282 CYCLIC TEST 
+2001-09-11 08:10:44 Skytel [004678013] D SH/TONE 669511  
+2001-09-11 08:10:44 Skytel [002359037] D  ALPHA  neon@swift-clust1-pb.swift.ml.com|Alert|Tue Sep 11 08:10:33 2001 : 2 incomplete US GCS To-SWIFT message(s);  
+2001-09-11 08:10:44 Skytel [005481467] C SH/TONE 448-8577
+2001-09-11 08:10:44 Skytel [005363316] B  ALPHA  ARS: TR3, 562730, 05:10:30, APPLICATION-LABELING-HARDWARE, 88227
+2001-09-11 08:10:44 Skytel [002139900] D SH/TONE 002282  
+2001-09-11 08:10:46 Arch [0905541] B  ALPHA  AQM@bayer.com|DNEWS_Log_Archive_AQM.cmd Job Fa|DNEWS_Log_Archive_AQM.cmd Failed. Please Consult Your E-Mail for Details. 
+2001-09-11 08:10:46 Arch [0697588] B  ALPHA  (29)45:ABS: Tkt:4994385, Sev:2, TIQ:49min, Queue:PLSO, Cust Name: DEPT OF VETERANS AFFAIRS
+2001-09-11 08:10:46 Arch [0733631] D  ALPHA  UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days updates on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:46 Arch [1405844] B  ALPHA  IPN <IPN@IPN911.|MAS| Norfolk County (Weymouth)
+2001-09-11 08:10:46 Arch [0597753] C  ALPHA  UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days updates on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:46 Arch [1411171] A  ALPHA  AQM@bayer.com|DNEWS_Log_Archive_AQM.cmd Job Fa|DNEWS_Log_Archive_AQM.cmd Failed. Please Consult Your E-Mail for Details.
+2001-09-11 08:10:46 Arch [1426513] A  ALPHA  UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10
+2001-09-11 08:10:46 Skytel [002384012] D  ALPHA  URGENT /var/adm/messages error in gfs-db1-p
+2001-09-11 08:10:46 Skytel [005136263] B SH/TONE 3081    
+2001-09-11 08:10:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 05:08:55 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 08:10:48 Arch [1405844] B  ALPHA  | 2 Alarm Fire| Overnite| Box 6622: 215 Winter St|Fire in a Condo Complex - Quick K/D| MAS001| 08:10 
+2001-09-11 08:10:48 Arch [1426513] A  ALPHA  :00am EST to discuss prior days updates on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:48 Skytel [005202331] C ST NUM  508-524-6400   
+2001-09-11 08:10:50 Metrocall [002568740] B  ALPHA  eoliss1 port scan 192.216.56.104:80 -> 208.147.222.99:51 @07:10:19
+2001-09-11 08:10:50 Metrocall [002568740] B  ALPHA  eoliss2 port scan 192.216.56.144:80 -> 208.147.222.99:51 @07:12:11
+2001-09-11 08:10:50 Metrocall [1361587] A  ALPHA  Jill, I may be late coming to the meeting bu
+2001-09-11 08:10:50 Skytel [005098283] C  ALPHA  Please call USF Command Center 866-828-8063 or 376-4763
+2001-09-11 08:10:50 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb1 redirect unable to connect to server    ********************************************************************** This transmission may contain information that is privileged, confidential and/or exempt from
+2001-09-11 08:10:52 Metrocall [1401397] B  ALPHA  SYSUSER TREVORMOOR  Dly Shp:    1 Dly Rev:$532.40 Dly Pft:$220.59 Pft%:041% MTH Rev:$15480.60 MTH Pft:$4419.80 MTH Pft%:029%
+2001-09-11 08:10:52 Metrocall [1361587] A  ALPHA  t I will be there. Glenn will also be coming. Annette
+2001-09-11 08:10:52 Metrocall [1393721] C  ALPHA  <108> ITS JUDY AT WAYNE CENTER CENSUS 14 VACANCIES 7 IN HOSPITAL
+2001-09-11 08:10:52 Skytel [005313200] A ST NUM  893-7077-34    
+2001-09-11 08:10:52 Skytel [002848952] C  ALPHA  gefa.lyncwarerobot1@gecapital.com|compuware robot|hello,  The robot   is not running.  thanks  
+2001-09-11 08:10:52 Skytel [005004722] A  ALPHA  R HOELTER    1 S BROADWAY #    3JWP761-3549 IS THE ONLY ONE THAT4146 925
+2001-09-11 08:10:52 Skytel [005004720] A  ALPHA  B MORRIS     40 OLIVER AVE       WP946-8688 CC 1 PATHMARK       4142 917
+2001-09-11 08:10:52 Skytel [005121208] C SH/TONE 111111  
+2001-09-11 08:10:52 Skytel [002282302] D ST NUM  413-584-7837   
+2001-09-11 08:10:53 Skytel [005201603] A  ALPHA  5757563 DEL RIKFLO BAPTIST HOSPITAL 8504344871 J DRADBURN 115 227
+2001-09-11 08:10:53 Skytel [004695364] B ST NUM  498-6479-99 U  
+2001-09-11 08:10:53 Skytel [003846479] D  ALPHA  ameritrade@strategy.com|Analyst Rec Changes| ARBA changed from 2.88 to 2.91 (Hold)    
+2001-09-11 08:10:55 Skytel [007102171] C ST NUM  710-299-6135   
+2001-09-11 08:10:55 Skytel [005112531] A SH/TONE 6245    
+2001-09-11 08:10:55 Skytel [003938006] B  ALPHA  HOME EQUITY/KIM. #42188. 612381. SEVERAL USERS ARE UNABLE TO TRANSFER LOANS. MESSAGE-FILE LOCKED IN USE. LS.
+2001-09-11 08:10:55 Skytel [002854234] C  ALPHA  Problem 02107836 Sev4 P/C-GCTNC DANIEL, STEVEN T. 1-252-726-4238 Primary Customer Contact: Steve Daniel (34
+2001-09-11 08:10:56 Arch [0453271] B  ALPHA  (26)18:ABS: Tkt:5000544, Sev:2, Cust Note, Note Dur:283min, Queue:NATL##, Cust Name: METRO ONE - SUNRISE
+2001-09-11 08:10:56 Arch [0968451] A  ALPHA  UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days u
+2001-09-11 08:10:56 Arch [1006074] C  ALPHA  (31)UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days updates on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:56 Arch [0979570] A  ALPHA  RSO Sales made available at 7:55 AM after the application was recycled to clear a hung condition. Remedy# 2305761 Tony/OCC    
+2001-09-11 08:10:56 Arch [0326522] C  ALPHA  UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days updates on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:57 Arch [0968451] A  ALPHA  pdates on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:57 Skytel [002400485] B SH/TONE 449-8888
+2001-09-11 08:10:57 Skytel [003462889] C ST NUM  801-387-2612   
+2001-09-11 08:10:59 Arch [0716653] D  ALPHA  UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days updates on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:59 Arch [1619813] B  ALPHA  2760
+2001-09-11 08:10:59 Arch [0931795] A  ALPHA  |OPC: mrpowers: /dev/vx/dsk/dgmrpowers/vrec5, mounted at /rec5, is at 95  
+2001-09-11 08:10:59 Arch [1629162] C  ALPHA  UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days updates on 877-494-5165 Pin# 20
+2001-09-11 08:10:59 Arch [1009426] A  ALPHA  (29)Gil.Kersz@mail.s|OOTO|Date: Tue, 11 Sep 2001 07:05:42 -0500 Message-Id: <H0001e2f13f1bcd5.1000209881.kcopmp01@MHS> Subject: OOTO MIME-Version: 1.0 From: carla.haight@openmail.mail.sprint.com TO: tracy.a.creeden@openmail.mail.sprint.com, will
+2001-09-11 08:10:59 Arch [0828297] C  ALPHA  UPD CSO SEV1: IFS #15972/ Clarify database is available with write capability. Checkpoint teleconf. @ 10:00am EST to discuss prior days updates on 877-494-5165 Pin# 205033 Schutoro @4CSO 
+2001-09-11 08:10:59 Arch [0803528] C  ALPHA  |OPC: mrpowers: /dev/vx/dsk/dgmrpowers/vrec5, mounted
+2001-09-11 08:10:59 Skytel [004757744] A SH/TONE 220     
+2001-09-11 08:10:59 Skytel [007606768] A ST NUM  9776747050
+2001-09-11 08:10:59 Skytel [003783162] C SH/TONE 312     

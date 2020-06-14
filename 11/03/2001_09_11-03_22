@@ -1,0 +1,47 @@
+2001-09-11 03:22:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1909
+2001-09-11 03:22:00 Metrocall [0000329] C  ALPHA  THIS IS A TE....R. D.....G..S..U..TIAL NUMBER  1909
+2001-09-11 03:22:01 Skytel [004397835] C SH/TONE 648-2000
+2001-09-11 03:22:01 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 00:20:01 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 03:22:03 Skytel [004743441] A SH/TONE 200-9819
+2001-09-11 03:22:03 Skytel {0619497} 1 2400 31740
+2001-09-11 03:22:03 Skytel {0153138} 3 2400 648-2000  
+2001-09-11 03:22:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6731
+2001-09-11 03:22:07 Arch [0944834] A  ALPHA  58880
+2001-09-11 03:22:10 Arch [1436368] A  ALPHA  (19)20:ABS: Tkt:5002783, Sev:2, Opened, Sname:INC, CIS Id:429743645, Contact:QUINCY/NE1 @ 5123403400 Note:REMOTE DOWN/PWR VER/NO ALRMS/NO CHGS/NO DBU/NO DEMARCS/OK TO TEST ROTI: DOWN-TRAFFIC LOSS...SONYA/SMC X4667
+2001-09-11 03:22:10 Arch [0509573] B  ALPHA  (25)13:ABS: Tkt:4996084, Sev:2, Int Escl, EL:3, Queue:WEMAEB, Cust Name: KINDERCARE/1255
+2001-09-11 03:22:16 Arch [1063094] B  ALPHA  Router  DOWN at 02:24:28
+2001-09-11 03:22:18 Arch [1619813] B  ALPHA  2760
+2001-09-11 03:22:18 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177031. 
+2001-09-11 03:22:18 Metrocall [1423055] D  ALPHA  Frm: Matthew Beebe Sub: Have you seen a Miracle Txt: Hi! How are youO I send you this file in order to have your advice See you later. Thanks
+2001-09-11 03:22:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9654
+2001-09-11 03:22:30 Metrocall [0848424] C  ALPHA  Frm: support@basystems.com Sub: New Incident Notification Txt: Number of UNRESOLVED incidents in the database: 857 Respond to UNRESOLVED incidents at http://basystems.custhelp.com/cgi-bin/basystems/lo
+2001-09-11 03:22:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3302
+2001-09-11 03:22:33 Skytel [004397329] A ST NUM  899-140-2372-1126   
+2001-09-11 03:22:35 Skytel [005240623] D  ALPHA   DOWN (SS) Germany Firewall (satyr-de) failed
+2001-09-11 03:22:35 Skytel [004415663] D ST NUM  032-342-8754   
+2001-09-11 03:22:35 Skytel [002164526] D SH/TONE 2) 6311 
+2001-09-11 03:22:36 Skytel [005323187] A  ALPHA  943-7801 [5698
+2001-09-11 03:22:36 Skytel [0001461] B  ALPHA  GLOBEX   02:21     GEH  9663.5A   .5+   GEM    ----   ----   ESU  109500    75-   SPU  109500    70-   NDU  137400B  350+   6JZ    8296A   47-   6EZ    8973     7-   6SZ    5938B    2-   6BZ   14502    26-   6CZ    6388B    2-   
+2001-09-11 03:22:39 Metrocall [0125880] C  ALPHA  SendID: 6694 md03s09.md...p..k,.....H.../..e........................................................
+2001-09-11 03:22:39 Metrocall [0527020] D  ALPHA  .........................................................
+2001-09-11 03:22:40 Skytel [1800019] A  ALPHA  GLOBEX   02:21     GEH  9663.5A   .5+   GEM    ----   ----   ESU  109500    75-   SPU  109500    70-   NDU  137400B  350+   6JZ    8296A   47-   6EZ    8973     7-   6SZ    5938B    2-   6BZ   14502    26-   6CZ    6388B    2-   
+2001-09-11 03:22:42 Arch [0888558] D  ALPHA  <'blbarney@emmyc|life enhancement! diet pills, gh|CLICK HERE TO ENTER! - Lose weight without dieting! - Build muscle without exercise! - Increase sexual pleasure 
+2001-09-11 03:22:42 Arch [1433347] A  ALPHA  alerts@alertsite|Jobbank (Web Server) [0 Site is OK Now! 09-11 03:23] 
+2001-09-11 03:22:42 Skytel [005436525] D  ALPHA  Test #17
+2001-09-11 03:22:42 Skytel [004524770] A  ALPHA  cammab02:  Trunk Alarm from cammab02 reason ok: Status Fail Slot 3 Port 1 at 00:53:51 on 9/11
+2001-09-11 03:22:44 Skytel [002357369] C  ALPHA  002186 CYCLIC TEST 
+2001-09-11 03:22:44 Skytel [003862901] B  ALPHA  BTY 50.67 -1.28 NWS 30.81 +0.10 WCOM 12.88 -0.10 DJIA 9654.71 +48.86 (1
+2001-09-11 03:22:44 Skytel [003327216] A  ALPHA  002186 CYCLIC TEST 
+2001-09-11 03:22:44 Skytel [003862900] B  ALPHA  WCOM 12.88 -0.10 NWS 30.81 +0.10 BTY 50.67 -1.28 DJIA 9654.71 +48.86 (35
+2001-09-11 03:22:44 Skytel [003862899] A  ALPHA  WCOM 12.88 -0.10 BTY 50.67 -1.28 DJIA 9654.71 +48.86 NWS 30.81 +0.10 (50
+2001-09-11 03:22:44 Skytel [002139900] D SH/TONE 002186  
+2001-09-11 03:22:44 Skytel [003862898] A  ALPHA  NWS 30.81 +0.10 WCOM 12.88 -0.10 BTY 50.67 -1.28 DJIA 9654.71 +48.86 (61
+2001-09-11 03:22:46 Arch [0000101] B  ALPHA  MSN 059 hello Message from NOC PCB.
+2001-09-11 03:22:46 Skytel [002401802] C  ALPHA  scott.thomas@lamrc.com|PSR#843 PENDING CLOSE.|PSR#843 status has become PENDING CLOSE.  Kindly approve or reject the close.  Please click here to login - http://engweb.eng.lamrc.com/labref/index.jsp  
+2001-09-11 03:22:48 Skytel [002401821] D  ALPHA  vaccs001:server_11 Filesystem Utilization Threshold exceeded. ussa11.SSMC 
+2001-09-11 03:22:50 Metrocall [002197333] B  ALPHA  MEMPHIS OVERDUE ACTION - 09801254 500 JEFFERSON - PLEASE CALL DISPATCH
+2001-09-11 03:22:50 Skytel [004390436] B SH/TONE 17593   
+2001-09-11 03:22:50 Skytel [003447845] B ST NUM  466-5133 (23   
+2001-09-11 03:22:51 Skytel [004546356] B  ALPHA  support@redalert.com|Monitoring Statistics from Red Alert for 10 Sep 2001 [Acct#20000300]|Monitoring Statistics for 10 Sep 2001 ===================================== Red Alert account #20000300: ADT   Overall Account Performance -----------
+2001-09-11 03:22:51 Skytel [0000060] D  ALPHA  MSY CALL SUSAN IN HEAVYWEIGHT. 
+2001-09-11 03:22:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1175..

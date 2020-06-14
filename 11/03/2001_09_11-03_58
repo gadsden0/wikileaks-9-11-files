@@ -1,0 +1,51 @@
+2001-09-11 03:58:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1945
+2001-09-11 03:58:00 Metrocall [1543969] A  ALPHA  Frm: svr01@SVR01.WNINS.COM Sub: Get your .tv web address now!
+2001-09-11 03:58:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1945
+2001-09-11 03:58:01 Arch [1155958] B  ALPHA  (8)37:ABS: Tkt:5002838, Sev:2, Opened, Sname:BOEN, CIS Id:13015703, Contact:JOHN MCMAHON @ 6127262691 Note:LINE DOWN: PROACTIVE TICKET CREATED BY NEXUS FOR SPECTRUM. |MODEL|0x4b18207|minneapolis-sunair.boeingds.com|Rtr_Cisco|0x10009|
+2001-09-11 03:58:01 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 03:58:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6767
+2001-09-11 03:58:05 Skytel [002360107] C ST NUM  410-574-2468 (2
+2001-09-11 03:58:05 Skytel [002405037] D  ALPHA  nms@svcanms.conxion.com|Sep11-00:58|There are 6 active alarms  
+2001-09-11 03:58:05 Skytel [002846369] A  ALPHA  333 U
+2001-09-11 03:58:05 Skytel [005437867] C SH/TONE 911281  
+2001-09-11 03:58:06 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177444. 
+2001-09-11 03:58:06 Arch [0000101] B  ALPHA  MSN 076 hello Message from NOC PCB.
+2001-09-11 03:58:12 Skytel [009992677] B  ALPHA  FLT1011 ETA 0515, FLT1153 ETA 0444
+2001-09-11 03:58:20 Arch [1612111] D  ALPHA  monitor@ccbill.c|EPX PROBLEM WITH front5c.ccbill.|ALERT: No Connection to EPX port Tue Sep 11 00:56:15 MST 2001 
+2001-09-11 03:58:20 Metrocall [1064381] D  ALPHA  UPDATE 1-NORWAY'S CONSERVATIVES HOPE TO WIN POWER
+2001-09-11 03:58:20 Skytel [005207087] D  ALPHA  FLT1011 ETA 0515, FLT1153 ETA 0444
+2001-09-11 03:58:21 Arch [1612111] D  ALPHA  monitor@ccbill.c|SELECTCHECK PROBLEM WITH front5c|ALERT: No Connection to Selectcheck port 443 Tue Sep 11 00:56:15 MST 2001 
+2001-09-11 03:58:21 Arch [1008539] C  ALPHA  (26)omcops.admin@mai|Job Message: SYSMAN:OTTOPROD Inc|Job Name: OTTOPROD Incr Backup Owner: SYSMAN Service Name: OTTOPROD.WORLD Service Type: Database Node Name: atorcnp301-2.corp.sprint.com Status: STARTED Timestamp: 11-Sep-01 4:00:01 AM 
+2001-09-11 03:58:21 Arch [0873660] D  ALPHA  16:ABS: Tkt:4889214, Sev:2, Opened, Sname:SOI, CIS Id:13083815, Contact:MRN DSOC @ 8005466770 Note:LINE DOWN: PROACTIVE TICKET CREATED BY NEXUS FOR SPECTRUM. |MODEL|0x1db09aaa|jasper-bmv.soi.gov_5|FrameRelayPort|0x220002|
+2001-09-11 03:58:21 Arch [0545165] D  ALPHA  (14)19:ABS: Tkt:5000544, Sev:2, Cust Note, Note Dur:30min, Queue:NATL##, Cust Name: METRO ONE - SUNRISE
+2001-09-11 03:58:21 Skytel [002398398] D  ALPHA  netserver@networktwo.net|Network Operations Alert|<Closed: Tuesday, Sep 11 2001 07:57:54 GMT>  Off Dial Backup  -  Node: 469.5.4   Location: Titus   City: Sacramemto, CA   Time On Backup:  .13 Hours  
+2001-09-11 03:58:23 Arch [0707781] B  ALPHA  30-PLEASE CALL ALEX W/IBM AT 1-877-344-4094.
+2001-09-11 03:58:23 Skytel [005330890] C SH/TONE 3303    
+2001-09-11 03:58:25 Arch [1060702] D  ALPHA  root: Ocala A96/A13/A86 001DE1 AL Link receive failure 09-11-01 07:54:44
+2001-09-11 03:58:25 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope Staging Ping (emt-7b) UUNet Web Hosting Servers 254638 failed 
+2001-09-11 03:58:25 Skytel [007563865] C ST NUM  809-599-9040-22
+2001-09-11 03:58:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9690
+2001-09-11 03:58:27 Skytel [005111022] D  ALPHA  FLT1011 ETA 0515, FLT1153 ETA 0444
+2001-09-11 03:58:27 Skytel [005043559] B  ALPHA  150.ARENER MANUFACT     
+2001-09-11 03:58:35 Skytel [005240623] D  ALPHA   DOWN (SS) Italy Firewall (beowulf-it) failed
+2001-09-11 03:58:40 Arch [0873660] D  ALPHA  17:ABS: Tkt:4929828, Sev:2, Opened, Sname:SOI, CIS Id:13083815, Contact:MRN DSOC @ 8005466770 Note:***EVANSVILLE-1-BMV.SOI.GOV*** SERIAL 0 IS UP/DOWN.... FR TERM # DTRTMIPMBBA, FR NET ADD 3822100153, FMS # 8030946,
+2001-09-11 03:58:42 Skytel [002695782] B  ALPHA    SiteScope/Databases - Sacramento/Colusa - Disk Space on D Drive/67480/no data/
+2001-09-11 03:58:42 Skytel [005436525] D  ALPHA  Test #70
+2001-09-11 03:58:42 Skytel [004524770] A  ALPHA  wil-NationlGardningC-SBurlington: CPE Up at 00:58:49 on 9/11
+2001-09-11 03:58:42 Skytel [005112809] C  ALPHA  02:55CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240464: Uncorrectable write error
+2001-09-11 03:58:44 Skytel [003327216] A  ALPHA  002198 CYCLIC TEST 
+2001-09-11 03:58:44 Skytel [005081714] A SH/TONE 308     
+2001-09-11 03:58:44 Skytel [004728304] A  ALPHA  wn@solutions.att.com|Tkt#0570912-CITICORP|MEXMONT-01-CU-DL3800-E1 up after manual restore-monitoring-GCSC 9194741488  
+2001-09-11 03:58:44 Skytel [002750709] B SH/TONE 76245   
+2001-09-11 03:58:44 Skytel [002357369] C  ALPHA  002198 CYCLIC TEST 
+2001-09-11 03:58:44 Skytel [002139900] D SH/TONE 002198  
+2001-09-11 03:58:44 Skytel [003779836] D  ALPHA    SiteScope/Databases - Sacramento/Colusa - Disk Space on C Drive/67483/no data/
+2001-09-11 03:58:46 Skytel [002559104] A SH/TONE 76245   
+2001-09-11 03:58:48 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177451. 
+2001-09-11 03:58:48 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs02 Sev:4 # 120012 Reconnect WBS 3.1.14.1 09/11/01 00:58:18 PDT7 Instance: tm-fox/kttv Module: Transport Details: PID=23333 TID=17 Successfully reconnected.
+2001-09-11 03:58:48 Skytel [002401821] D  ALPHA  ondprod.racca.chevron.com The interface en0; on ondprod.racca.chevron.com is Down. ussa11.SSMC 
+2001-09-11 03:58:48 Skytel [004397329] A ST NUM  322-209-1141-873    
+2001-09-11 03:58:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1211..
+2001-09-11 03:58:53 Skytel [003950157] D  ALPHA  wn@solutions.att.com|Tkt#0570912-CITICORP|MEXMONT-01-CU-DL3800-E1 up after manual restore-monitoring-GCSC 9194741488  
+2001-09-11 03:58:55 Skytel [003939803] C  ALPHA  wn@solutions.att.com|Tkt#0570912-CITICORP|MEXMONT-01-CU-DL3800-E1 up after manual restore-monitoring-GCSC 9194741488  
+2001-09-11 03:58:57 Skytel [004732386] A  ALPHA  wn@solutions.att.com|Tkt#0570912-CITICORP|MEXMONT-01-CU-DL3800-E1 up after manual restore-monitoring-GCSC 9194741488  

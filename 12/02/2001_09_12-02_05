@@ -1,0 +1,117 @@
+2001-09-12 02:05:00 Metrocall [002357672] C  ALPHA  Frm: IPN Txt: DFW| Dallas| Car Chase| 460.5| Highway 310|Air 1 Enroute And Will Call Chase Upon Arrival| DFW068| 01:03
+2001-09-12 02:05:00 Metrocall [0228502] B  ALPHA  Frm: IPN Txt: DFW| Dallas| Car Chase| 460.5| Highway 310|Air 1 Enroute And Will Call Chase Upon Ar
+2001-09-12 02:05:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4664
+2001-09-12 02:05:00 Skytel [004527605] B SH/TONE 1599    
+2001-09-12 02:05:01 Arch [0000101] B  ALPHA  MSN 075 hello Message from NOC PCB.
+2001-09-12 02:05:02 Metrocall [0228502] B  ALPHA  rival| DFW068| 01:03
+2001-09-12 02:05:03 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 66 processes on report1.ccbill.com. Timestamp key: 20010911230301 
+2001-09-12 02:05:04 Arch [1333284] B  ALPHA  (29)17:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH
+2001-09-12 02:05:05 Arch [1446757] B  ALPHA  (5)44:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:05:05 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 67 processes on report1.ccbill.com. Timestamp key: 20010911230301 
+2001-09-12 02:05:05 Skytel [007648801] A ST NUM  809-888-5570   
+2001-09-12 02:05:05 Skytel [002376872] C  ALPHA  nms@svcanms.conxion.com|Sep11-23:05|There are 3 active alarms including server:inttra4:memory Virtual memory more than 90% consumed  
+2001-09-12 02:05:05 Skytel [004397995] C  ALPHA  IntelliWatch Monitor: WARNING - Server CVGNA05.US.Schneider-Electric.com/A/SVR/Schneider MAY HAVE crashed. Waiting 300 seconds...
+2001-09-12 02:05:06 Arch [1333284] B  ALPHA   A PL
+2001-09-12 02:05:06 Arch [1446757] B  ALPHA  (6)44:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:05:06 Skytel {1092655} 3 2400 002640    
+2001-09-12 02:05:07 Skytel {0358727} 1 1200 3333 
+2001-09-12 02:05:08 Arch [1333284] B  ALPHA  (30)17:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:05:12 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-12 02:05:12 Arch [0975773] D  ALPHA  "rnDOYLE74961@qu|[spam score 10.00/10.0 -pobox] E|Easily Lose Weight, Build Muscle and Reverse Aging With all natural "Growth Hormone" therapy supplements. Click for our FREE bottle offer and to learn more: http://64.118.5.33/foreveryoung TH
+2001-09-12 02:05:14 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-12 02:05:14 Arch [0480302] D  ALPHA  (13)17:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:05:14 Arch [1372333] D  ALPHA  (31)21:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:05:14 Arch [0801351] B  ALPHA  (30)27:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:05:16 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-12 02:05:16 Arch [0480302] D  ALPHA  (14)17:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:05:16 Arch [1372333] D  ALPHA  (32)21:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:05:18 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 02:05:19 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-12 02:05:19 Skytel {0005398} 1 1200 (1 OF 6): FROM: Curt Powers,+1(425)704-4635SUB: RE: Premier UAT site appears down, cannot wait until WednesdayMSG: As I said, I cannot say cause and effect, but something died   -----Original Message----- From: Byron Prather.
+2001-09-12 02:05:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1017
+2001-09-12 02:05:25 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192391. 
+2001-09-12 02:05:25 Arch [0801351] B  ALPHA  (31)27:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:05:25 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=xot  Mode=Full_Dump         # Our PID=5984    time='09/12/01 02:04:12'    
+2001-09-12 02:05:25 Arch [0472942] D  ALPHA  (20)17:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:05:25 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 02:05:27 Arch [0472942] D  ALPHA  (21)17:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:05:27 Arch [0911134] D  ALPHA  sybase on edgsyb2
+2001-09-12 02:05:27 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-12 02:05:29 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-12 02:05:29 Arch [0939437] D  ALPHA  CA Helpdesk <CAH|mc0300xd006|CR: 100235 Priority: 5 Assigned to: Ahern, Mark Summary:: Erik needs legato installed on mc0300xd006 
+2001-09-12 02:05:29 Metrocall [0122329] C  ALPHA  FROM:         BreakingNews@CNN.COM SUBJ:      AMERICA UNDER ATTACK MSG:DEVELOPING STORY  WASHINGTON (CNN) -- Government sources say senior administration officials told members of Congress that they believe the hijacked airliner that crashed in Pennsy
+2001-09-12 02:05:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3273
+2001-09-12 02:05:30 Metrocall [0122329] C  ALPHA  lvania was headed for another government target, possibly the White House, the Capitol or the Camp David presidential retreat.   For complete coverag
+2001-09-12 02:05:30 Metrocall [1064387] A  ALPHA  GB 6171/6178+000 CT_3650/773/962 +000 KC_4835/5130/510+000 SB _787/_761/745+000 SE 2095/2117
+2001-09-12 02:05:32 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3273
+2001-09-12 02:05:32 Metrocall [1064387] A  ALPHA  /241+000 CC _865/922/935 +000 OJ 8025/8250/835+000 YX 56900/57150 +0000 CR 19820/19970 +0000 DX 11464/11501  +000 EJ 10872/10761  +000  RK 95565/95625  +000
+2001-09-12 02:05:32 Skytel [002822538] C  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- Government sources say senior administration officials told members of Congress that they believe the hijacked airliner that crashed in Pennsylvania was he
+2001-09-12 02:05:33 Arch [1000258] A  ALPHA  (17)15:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:05:33 Arch [1272423] B  ALPHA  (3)bb:1: [9498010] red Tue Sep 11 23:05:15 PDT 2001 - Disk onssc-sac-p1,corp,sprint,com at PANIC level &red /var (95%) hasreached the defined disk space PANIC level (95%)/dev/vx/dsk/p1_unix/p1sybase 2879972 895228 1696747 35%
+2001-09-12 02:05:33 Skytel [005100696] C  ALPHA  |Problem on CRWPAPP1|"PRD059 ts full on 12 Sep 2001 at 02:05:08."  
+2001-09-12 02:05:33 Skytel [005100695] B  ALPHA  |Problem on CRWPAPP1|"PRD059 ts full on 12 Sep 2001 at 02:05:08."  
+2001-09-12 02:05:33 Skytel [004542612] B SH/TONE 6351    
+2001-09-12 02:05:33 Skytel [004547346] A ST NUM  809-016-2555-911    
+2001-09-12 02:05:33 Skytel [007520664] C  ALPHA  ulf@sdl.sri.com||  WASHINGTON (CNN) -- Government sources say senior administration officials told m
+2001-09-12 02:05:35 Arch [1000258] A  ALPHA  (18)15:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:05:35 Arch [1272423] B  ALPHA  (4)bb:2: /p1sybase/dev/vx/dsk/p1_unix/logs 287982 123101 136083 48% /logs/dev/vx/dsk/rootdg/nsr 983020 434347 450371 50% /nsr/dev/vx/dsk/rootdg/usr 508039 264133 193103 58% /usr/dev/vx/dsk/p1_unix/autosys 287982 149644 109540
+2001-09-12 02:05:35 Skytel [005001895] B  ALPHA  [sps/18] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/seem/healthcheck.asp) 3:23:37
+2001-09-12 02:05:35 Skytel [005361965] D  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- Government sources say senior administration officials told members of Congress that they believe the hijacked airliner that crashed in Pennsylvania was he
+2001-09-12 02:05:35 Skytel [007608237] D  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- Government sources say senior administration officials told members of Congress that they believe the hijacked airliner that crashed in Pennsylvania was he
+2001-09-12 02:05:37 Skytel [003051186] A ST NUM  0-800-551-8088-1214 
+2001-09-12 02:05:37 Skytel [003952825] C SH/TONE 357-1137
+2001-09-12 02:05:37 Skytel [002793012] B ST NUM  675-359-2891   
+2001-09-12 02:05:37 Skytel [004717109] B SH/TONE 2322    
+2001-09-12 02:05:37 Skytel [0000060] D  ALPHA  STL & TPA CALL HEAVYWEIGHT AT 686-4823.
+2001-09-12 02:05:37 Skytel [003259708] D SH/TONE 3889 (4 
+2001-09-12 02:05:37 Skytel [005342524] D  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- Government sources say senior administration officials told members of Congress that they believe the hijacked airliner that crashed in Pennsylvania wa
+2001-09-12 02:05:38 Arch [1302046] D  ALPHA  From root at 02:06 AM EDT: Input file missing for spindown audit. [CC:loock] 
+2001-09-12 02:05:38 Arch [0632258] A  ALPHA   Brian Tanaka <btanaka@rivendell.rbn.com> abcnewsmon : found abcnews/abcnews/live/abclive1.rm on serverg2-63 (mtier-53) (Tue Sep 11 23:06:00 PDT 2001) 
+2001-09-12 02:05:39 Skytel [005104589] D  ALPHA  ZEILSTRADL@NT.QUANTICO.USMC.MIL||Cpl Ramos and I switched over at 0000.  Working on web page.  Er-Cpl Z  
+2001-09-12 02:05:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:05:39 Skytel [005344198] B  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- Government sources say senior administration officials told members of Congress that they believe the hijacked airliner that crashed in Pennsylvania was he
+2001-09-12 02:05:39 Skytel [005342524] D  ALPHA  s he
+2001-09-12 02:05:40 Metrocall [1466326] B  ALPHA  Frm: IPN Txt: DFW| Dallas| Car Chase| 460.5| Highway 310|Air 1 Enroute And Will Call Chase Upon Arrival| DFW068| 01:03
+2001-09-12 02:05:40 Metrocall [1064391] B  ALPHA  LME FUTURES       MCU_1463/1468 -009 MAL 1380/1390 -005 MAA 1155/1165 -010 MNI 5300/5400 -060 MSN 3800/3875 -050 
+2001-09-12 02:05:41 Skytel [003941587] A SH/TONE 743-1641
+2001-09-12 02:05:41 Skytel [0001114] C  ALPHA  FM Ticket Assigned High Case HD0000000301683 for TIVOLI AUTOSUBMIT NONE tibr1wis0 Server tibr1wis0 not responding
+2001-09-12 02:05:41 Skytel [003921630] D  ALPHA  netmon :mcfl1u29
+2001-09-12 02:05:41 Skytel [005485529] C ST NUM  675-359-2891   
+2001-09-12 02:05:41 Skytel [007568601] C ST NUM  408-507-6844-9111   
+2001-09-12 02:05:41 Skytel [005390424] C  ALPHA  3284 TELECOMET INC       
+2001-09-12 02:05:42 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=xot  Mode=Full_Dump         # Our PID=5984    time='09/12/01 02:04:11'    sybase on edgsyb2
+2001-09-12 02:05:42 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 02:05:42 Metrocall [1064391] B  ALPHA  MPB 4910/4960 -040 MZN _841/_846 -004
+2001-09-12 02:05:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #20-IX_T4104
+2001-09-12 02:05:43 Skytel [007553888] A  ALPHA  262-6050No Answer Bethesda 301-803
+2001-09-12 02:05:43 Skytel [003777774] D SH/TONE 6805    
+2001-09-12 02:05:44 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-12 02:05:45 Skytel [007100919] B  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- Government sources say senior administration officials told members of Congress that they believe the hijacked airliner that crashed in Pennsylvania was he
+2001-09-12 02:05:45 Skytel [007638399] D SH/TONE 7346    
+2001-09-12 02:05:47 Skytel [005044104] C  ALPHA  scott.thomas@lamrc.com|Lab DB - Hitachi 4 used more than allowable time limit.|The next user is waiting to use Hitachi 4. You have been using the tool for 322 minutes and your allowable time on the tool has expired, please end your session 
+2001-09-12 02:05:47 Skytel [005328903] B ST NUM  477-957-7911 (14    
+2001-09-12 02:05:47 Skytel [007046275] A SH/TONE 2911    
+2001-09-12 02:05:48 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 02:05:48 Arch [1272423] B  ALPHA  (5)bb:3: 58%/usr/vendor/autotree/autosys3_4 /dev/vx/dsk/p1_unix/export-home471414 264231 160042 63% /export/home /dev/vx/dsk/rootdg/opt 23999741360180 799797 63% /opt /dev/vx/dsk/p1_unix/datafiles 67113884086455 1953795 68%
+2001-09-12 02:05:48 Arch [1082628] B  ALPHA  (4)syswatch: HOST/PROCESS - resswext.sec.sprint.net:CLIENT PROBLEM ID -HOSTFAIL1~resswext.sec.sprint.net~parl.primedica.com PROBLEM AREA -HOST FAIL DESCRIPTION - parl.primedica.com: 1 min NO RESPONSE (PINGFAIL)
+2001-09-12 02:05:49 Arch [1272423] B  ALPHA  (6)bb:4: /datafiles /dev/vx/dsk/p1_unix/production 383982237409 108175 69% /production /dev/vx/dsk/rootdg/openwin 288326204757 54737 79% /usr/openwin /dev/vx/dsk/p1_unix/oracle-new 287982223353 35831 87% /oracle
+2001-09-12 02:05:49 Metrocall [1036376] C  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY WASHINGTON (CNN) -- Government sources say senior administration officials told members of Congress that they believe the hijacked airliner that crashed in Pennsylvan
+2001-09-12 02:05:49 Metrocall [1401678] D  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY WASHINGTON (CNN) -- Government sources say senior administration officials told members of Congress that they believe the hijacked airliner that crashed in Pennsylva
+2001-09-12 02:05:50 Skytel [005100458] C  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- Government sources say senior administration officials told members of Congress that they believe the hijacked airliner that crashed in Pennsylvania was he
+2001-09-12 02:05:51 Arch [1272423] B  ALPHA  (7)bb:e: /dev/vx/dsk/rootdg/rootvol 52015 41586 522889% / /dev/vx/dsk/rootdg/var 1071871 958174 60104 95% /var Pleasesee:http://ssc-sac-bs1.west.sprint.com/bb/html/ssc-sac-p1.corp.sprint.com.disk.html -oo-
+2001-09-12 02:05:51 Metrocall [1401678] D  ALPHA  n
+2001-09-12 02:05:51 Metrocall [1695645] D  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY WASHINGTON (CNN) -- Government sources say senior administration officials told members of Congress that they believe the hijacked airliner that
+2001-09-12 02:05:53 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 95 processes on report2.ccbill.com. Timestamp key: 20010911230301 
+2001-09-12 02:05:53 Metrocall [1695645] D  ALPHA   crashed in Pennsylvania was headed for another government tar
+2001-09-12 02:05:54 Skytel [005209281] A  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- Government sources say senior administration officials told members of Congress that they believe the hijacked airliner that crashed in Pennsylvania was he
+2001-09-12 02:05:54 Skytel [002279627] C ST NUM  0-800-551-8088-1254 
+2001-09-12 02:05:55 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 109 processes on report2.ccbill.com. Timestamp key: 20010911230301 
+2001-09-12 02:05:56 Skytel [002359129] C  ALPHA  MSY Truck Route TV996 will leave at 1800Z
+2001-09-12 02:05:56 Skytel [002844508] D  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- Government sources say senior administration officials told members of Congress that they believe the hijacked airliner that crashed in Pennsylvania was he
+2001-09-12 02:05:57 Arch [0479381] B  ALPHA  (6)20:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:05:57 Arch [1318703] D  ALPHA  (26)17:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:05:57 Arch [1099272] C  ALPHA  (25)22:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:05:58 Skytel [003451501] D SH/TONE 409     
+2001-09-12 02:05:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8095
+2001-09-12 02:05:59 Arch [0479381] B  ALPHA  (7)20:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:05:59 Arch [1318703] D  ALPHA  (27)17:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.

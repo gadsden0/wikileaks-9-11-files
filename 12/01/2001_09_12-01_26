@@ -1,0 +1,133 @@
+2001-09-12 01:26:00 Metrocall [1400958] D  ALPHA  EDGEWATER//E.R. 773 878 6000 EXT 3121 ASK FOR DR ALBANOS  0:15-5-12/09
+2001-09-12 01:26:00 Metrocall [0923828] B  ALPHA  692- From MAIN Security Coordinator Sub:TLR Initiated Msg:NERC TLR declared at 9/11/01 12:23:00 AM by ATC  NERC TLR Level: 4  Limit: Perkins-Ministique  Cont: None  FG #:
+2001-09-12 01:26:00 Metrocall [002567097] C  ALPHA  KFC Petal MS: C-Store   AC 2 DISCH  SNS FAIL
+2001-09-12 01:26:00 Skytel [007527412] B  ALPHA  "Fileprint d$".The device \\fileprint\d$ (Type: Disk Space) is DOWN since Wed Sep 12 01:26:12 2001. 
+2001-09-12 01:26:00 Skytel [007109749] B ST NUM  500-111-1064-376    
+2001-09-12 01:26:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8055
+2001-09-12 01:26:02 Metrocall [1283151] D  ALPHA  : ODC-MAIL01 : "Server ODC-MAIL01/MSVR/KAIPERM -  There are no longer any pending  documents older than 30 Minutes minutes in mail1.box. "
+2001-09-12 01:26:02 Metrocall [0923828] B  ALPHA   3521  ()
+2001-09-12 01:26:02 Metrocall [1283151] D  ALPHA  : ODC-MAIL01 : "Server ODC-MAIL01/M
+2001-09-12 01:26:02 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4625
+2001-09-12 01:26:02 Skytel [002163970] A SH/TONE 6516    
+2001-09-12 01:26:03 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 01:26:03 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191936. 
+2001-09-12 01:26:03 Skytel [007586964] B ST NUM  071-4314-3
+2001-09-12 01:26:04 Metrocall [1283151] D  ALPHA  SVR/KAIPERM -  There are no longer any pending  documents older than 30 Minutes minutes in mail2.box. "
+2001-09-12 01:26:04 Skytel {1092655} 3 2400 002627    
+2001-09-12 01:26:05 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-12 01:26:07 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-12 01:26:08 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-12 01:26:10 Metrocall [1283151] D  ALPHA  : ODC-MAIL01 : "Server ODC-MAIL01/MSVR/KAIPERM -  There are no longer any pending  documents older than 30 Minutes minutes in mail2.box. "
+2001-09-12 01:26:14 Metrocall [002588677] B  ALPHA  Frm: SWEBAP1-Root Sub: swebap1|09112246|ap0201|Process Errors Txt: swebap1|09112246|ap0201|Process=nodeserv -section=nodeserv Owner=thresrvr Needs=40-ge Has=0
+2001-09-12 01:26:14 Metrocall [002588677] B  ALPHA  Frm: SWEBAP1-Root Sub: swebap1|09112246|ap0202|Process Errors Txt: swebap1|09
+2001-09-12 01:26:15 Metrocall [002588677] B  ALPHA  112246|ap0202|Process=nodeserv -section=nodeserv Owner=foursrvr Needs=40-ge Has=0
+2001-09-12 01:26:17 Metrocall [002588677] B  ALPHA  Frm: SWEBAP1-Root Sub: swebap1|09112246|ap0203|Process Errors Txt: swebap1|09112246|ap0203|Process=ctdisp -section=ctdisp Owner=thresrvr Needs=20-ge Has=0
+2001-09-12 01:26:17 Metrocall [002588677] B  ALPHA  Frm: SWEBAP1-Root Sub: swebap1|09112246|ap0204|Process Errors Txt: swebap1|09112
+2001-09-12 01:26:18 Arch [0978397] D  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:18 Arch [1050266] C  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:18 Arch [1657188] B  ALPHA  NCAGBRGQ02:Device Accessible,Device Status:Ok
+2001-09-12 01:26:18 Arch [1629007] D  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:18 Arch [0901224] C  ALPHA  HQ P1:GPG02 rebooted per request by SAP SYS ADMIN;HCC/PSA;case#2597230; Further Updates in 1hr.
+2001-09-12 01:26:18 Arch [1164259] A  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:18 Arch [0823355] C  ALPHA  HQ P1:GPG02 rebooted per request by SAP SYS ADMIN;HCC/PSA;case#2597230; Further Updates in 1hr.
+2001-09-12 01:26:19 Metrocall [002588677] B  ALPHA  246|ap0204|Process=ctdisp -section=ctdisp Owner=foursrvr Needs=20-ge Has=0
+2001-09-12 01:26:19 Metrocall [1423146] C  ALPHA  F:root@swebap1. S:swebap1|09112246|ap0203|Process Errors M:swebap1|09112246|ap0203|Process=c
+2001-09-12 01:26:20 Skytel {1891159} 3 1200 4444 
+2001-09-12 01:26:20 Skytel {0143279} 3 1200 202-685-7650   
+2001-09-12 01:26:21 Metrocall [002588677] B  ALPHA  Frm: SWEBAP1-Root Sub: swebap1|09112246|ap0205|Process Errors Txt: swebap1|09112246|ap0205|Process=crserv -section=crserv Owner=thresrvr Needs=1-eq Has=0
+2001-09-12 01:26:21 Metrocall [1423146] C  ALPHA  tdisp -section=ctdisp Owner=thresrvr Needs=20-ge Has=0
+2001-09-12 01:26:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0978
+2001-09-12 01:26:22 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-12 01:26:22 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191943. 
+2001-09-12 01:26:23 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-12 01:26:23 Metrocall [1423146] C  ALPHA  F:root@swebap1. S:swebap1|09112246|ap0202|Process Errors M:swebap1|09112246|ap0202|Process=nodeserv -section=nodeserv Owner=foursrvr Needs=40-ge Has=0
+2001-09-12 01:26:23 Metrocall [1423146] C  ALPHA  F:root@swebap1. S:swebap1|09112246|ap0201|Process Errors M:swebap1|09112246|ap0201|Proces
+2001-09-12 01:26:25 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-12 01:26:25 Metrocall [1423146] C  ALPHA  s=nodeserv -section=nodeserv Owner=thresrvr Needs=40-ge Has=0
+2001-09-12 01:26:27 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34
+2001-09-12 01:26:27 Arch [0925366] B  ALPHA   318643;Sep 11 21:27:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-12 01:26:28 Metrocall [002588677] B  ALPHA  Frm: SWEBAP1-Root Sub: swebap1|09112246|ap0212|Process Errors Txt: swebap1|09112246|ap0212|Process=ctmonitor Owner=foursrvr Needs=1-ge Has=0
+2001-09-12 01:26:28 Metrocall [002588677] B  ALPHA  Frm: SWEBAP1-Root Sub: swebap1|09112246|ap0216|Process Errors Txt: swebap1|09112
+2001-09-12 01:26:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3234
+2001-09-12 01:26:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3234
+2001-09-12 01:26:30 Metrocall [002588677] B  ALPHA  246|ap0216|Process=ctlstnr -section=ctlstnr Owner=foursrvr Needs=1-ge Has=0
+2001-09-12 01:26:33 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 19.36 25.91 18.35 Tue Sep 11 22:27:00 MST 2001 
+2001-09-12 01:26:33 Skytel [007062687] D ST NUM  0-431-431-4314-3143 
+2001-09-12 01:26:35 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 36.09 22.04 16.81 Tue Sep 11 22:27:00 MST 2001 
+2001-09-12 01:26:35 Arch [0983275] C  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:35 Arch [0926767] D  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:35 Arch [1034476] D  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:35 Arch [0076486] B  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - 
+2001-09-12 01:26:35 Arch [0975978] C  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:35 Arch [0976352] A  ALPHA  (20)hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:35 Arch [0976989] D  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:35 Arch [0163974] B  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:35 Skytel [003442208] A ST NUM  223-442-8571   
+2001-09-12 01:26:35 Skytel [005437867] C SH/TONE 911281  
+2001-09-12 01:26:35 Skytel [003439913] C SH/TONE 438-2300
+2001-09-12 01:26:37 Arch [0076486] B  ALPHA  No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:37 Skytel [0001461] B  ALPHA  GLOBEX   00:25     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 01:26:37 Skytel [005480885] B SH/TONE 9       
+2001-09-12 01:26:37 Skytel [003514170] C SH/TONE 9184    
+2001-09-12 01:26:37 Skytel [005211824] A  ALPHA  562-6446
+2001-09-12 01:26:38 Arch [1131960] C  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:38 Arch [0915843] A  ALPHA  (30)hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:38 Arch [0948216] C  ALPHA  (31)hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:38 Arch [0909547] C  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:38 Arch [0929241] C  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:38 Arch [1284371] A  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:38 Arch [0922216] C  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:38 Arch [0507846] B  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:39 Skytel [004735301] B  ALPHA  VOICE MESSAGE [3651
+2001-09-12 01:26:40 Metrocall [002596705] A  ALPHA  MESSAGE WAITING-664-3346
+2001-09-12 01:26:40 Metrocall [1544818] A  ALPHA  ODC-MAIL01 "Server ODC-MAIL01/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail1.box. "
+2001-09-12 01:26:41 Skytel [007518930] A SH/TONE 944-6772
+2001-09-12 01:26:41 Skytel [002472278] B SH/TONE 285 (77 
+2001-09-12 01:26:41 Skytel [1800019] A  ALPHA  GLOBEX   00:25     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 01:26:41 Skytel [007047007] D SH/TONE 3605    
+2001-09-12 01:26:42 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-12 01:26:42 Arch [0920915] A  ALPHA  516 938-9077
+2001-09-12 01:26:43 Skytel [003669223] B  ALPHA  eotprod@ksop20a.ims.att.com|C:D Error Alert!|There was a problem sending file EOTNDM1D.PROD.FULFILL.HBT.S000228 Return Code is 8  
+2001-09-12 01:26:43 Skytel [007648869] B SH/TONE 22411   
+2001-09-12 01:26:43 Skytel [005330530] A ST NUM  8685222010
+2001-09-12 01:26:43 Skytel [007459820] D ST NUM  293-0197-15    
+2001-09-12 01:26:43 Skytel [003496428] D ST NUM  800-600-1613   
+2001-09-12 01:26:44 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-12 01:26:44 Arch [1284332] D  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:44 Arch [1408029] D  ALPHA  (19)hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:44 Arch [0900159] D  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:44 Arch [1611003] C  ALPHA  (26)hpmille
+2001-09-12 01:26:44 Arch [0769433] C  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:44 Arch [0968156] D  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:44 Arch [0978734] D  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:44 Arch [1410805] B  ALPHA  (18)hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:45 Skytel [005253748] B  ALPHA  eotprod@ksop20a.ims.att.com|C:D Error Alert!|There was a problem sending file EOTNDM1D.PROD.FULFILL.HBT.S000228 Return Code is 8  
+2001-09-12 01:26:45 Skytel [002382588] D SH/TONE 99      
+2001-09-12 01:26:45 Skytel [005101308] D SH/TONE 2750    
+2001-09-12 01:26:45 Skytel [005059705] C SH/TONE 1229    
+2001-09-12 01:26:45 Skytel [004535801] C SH/TONE 254     
+2001-09-12 01:26:45 Skytel [007582587] C SH/TONE 929-2885
+2001-09-12 01:26:45 Skytel [003949183] D  ALPHA  ENS - Unable to open ticket intrdp02 - HPUnix Server - CPU1 is in a CRITICAL state 
+2001-09-12 01:26:48 Skytel [002739732] B ST NUM  0) 847-622-1855
+2001-09-12 01:26:50 Skytel [005001895] B  ALPHA  [sps/97] 104 supplier.intel.com relay-ssl 0.0 FAILURE Server closedconnection immediately. (/lift/healthcheck.asp) 2:52:11
+2001-09-12 01:26:52 Arch [0987275] C  ALPHA  s0191: 09/11 15:14:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:14:21
+2001-09-12 01:26:52 Arch [0922669] D  ALPHA  |WARNING: pingservers - no DNS entry for tisu-view1, tokra, tonka, trinium, tuvoks-view, unagi, twinkie, vscnm-view1, uzura, warroom1  
+2001-09-12 01:26:52 Arch [1611003] C  ALPHA   75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:52 Arch [1657889] A  ALPHA  |WARNING: pingservers - no DNS entry for tisu-view1, tokra, tonka, trinium, tuvoks-view, unagi, twinkie, vscnm-view1, uzura, warroom1  
+2001-09-12 01:26:52 Arch [1621529] C  ALPHA  ||goodnight my David! i look forward to lying with you in my arms this time tomorrow! happy sleeps and sweat dreams. love Martha|128  
+2001-09-12 01:26:52 Arch [1048141] D  ALPHA  |WARNING: pingservers - no DNS entry for tisu-view1, tokra, tonka, trinium, tuvoks-view, unagi, twinkie, vscnm-view1, uzura, warroom1  
+2001-09-12 01:26:52 Arch [0000101] B  ALPHA  MSN 057 hello Message from NOC PCB.
+2001-09-12 01:26:53 Arch [0899386] C  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:53 Arch [0950818] A  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:53 Arch [0967263] D  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - 
+2001-09-12 01:26:53 Arch [1612942] D  ALPHA  (17)hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:53 Arch [0725743] D  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:53 Arch [0987275] C  ALPHA  sb3: INFO0021 - 2:45PM - POSI batch has not arrived(160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:15
+2001-09-12 01:26:53 Arch [0648251] C  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:53 Arch [0988031] D  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:53 Arch [1046041] C  ALPHA  hpmille 75734-B/L-  MB Upd - Mid-night - No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:54 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:26:55 Arch [0967263] D  ALPHA  No changes from the 23:00 update.  Sent at 00:26      
+2001-09-12 01:26:58 Skytel [005436525] D  ALPHA  Test Lotus Notes #82-IX_T1705
+2001-09-12 01:26:58 Skytel [005043559] B  ALPHA  150.ARENER MANUFACT     
+2001-09-12 01:26:58 Skytel [003973355] C  ALPHA  4) OMI:SE HACEN PRUEBAS CON DID DE PUEBLA Y LAS LLAMADAS SE COMPLETAN SIN PROBLEMAS, ACCESANDO A INTERNET. (6

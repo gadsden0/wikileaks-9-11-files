@@ -1,0 +1,102 @@
+2001-09-11 03:15:01 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-11 03:15:01 Arch [0970437] B  ALPHA  cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication issue is due to a missing file in GB chain. Sent down change record 536677 that uses this missing file.Causing bogus ...
+2001-09-11 03:15:01 Arch [0948216] C  ALPHA  (25)cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication issue is due to a missing file in GB chain. Sent down change record 536677 that uses this missing file.Causing bogus ...
+2001-09-11 03:15:01 Skytel [007046275] A SH/TONE 2411    
+2001-09-11 03:15:01 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 00:13:20 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 03:15:02 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1902
+2001-09-11 03:15:02 Metrocall [0000329] C  ALPHA  THIS IS A TE....R..D.....G..S..U..TIAL NUMBER  1902
+2001-09-11 03:15:03 Arch [0899386] C  ALPHA  cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication issue is due to a missing file in GB chain. Sent down change record 536677 that uses this missing file.Causing bogus ...
+2001-09-11 03:15:03 Arch [1423082] C  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|
+2001-09-11 03:15:03 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   24278 OPEN suntvpa:24278 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 712 OPEN sunapp1:712 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj
+2001-09-11 03:15:03 Arch [0970437] B  ALPHA  communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:03 Arch [1612942] D  ALPHA  (8)cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communicati
+2001-09-11 03:15:03 Arch [0948216] C  ALPHA  (26)communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:03 Arch [1355675] C  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free 
+2001-09-11 03:15:03 Skytel [007582994] A SH/TONE 81111   
+2001-09-11 03:15:03 Skytel [007567765] B ST NUM  0-701-131-1177-8487 
+2001-09-11 03:15:03 Skytel [004397329] A ST NUM  322-209-1141-873    
+2001-09-11 03:15:03 Skytel [005506970] C  ALPHA  'SailorEminence@aol.com|Theres something in my heart.................|hello Outta school for a while. I am so relieved the day is over. TODAY we had a suprise practical exam. I had no i  
+2001-09-11 03:15:05 Arch [1423082] C  ALPHA  TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 03:15:05 Arch [0899386] C  ALPHA  communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:05 Arch [1612942] D  ALPHA  on issue is due to a missing file in GB chain. Sent down change record 536677 that uses this missing file.Causing bogus ...
+2001-09-11 03:15:05 Arch [1355675] C  ALPHA  Space in MB INVD 75 250.070313 
+2001-09-11 03:15:07 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6724
+2001-09-11 03:15:07 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 176947. 
+2001-09-11 03:15:09 Arch [0987022] D  ALPHA  FTT GCSC: N460437 NG: Server Support has reported that exchange servers 17 and 19 are back up. Service Restored.
+2001-09-11 03:15:09 Arch [0922216] C  ALPHA  cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication issue is due to a missing file in GB chain. Sent
+2001-09-11 03:15:09 Arch [1372758] B  ALPHA  FTT GCSC: N460437 NG: Server Support has reported that exchange servers 17 and 19 are back up. Service Restored.
+2001-09-11 03:15:09 Arch [1080366] D  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 03:15:09 Arch [0978734] D  ALPHA  cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication issue is due to a missing file in GB chain. Sent do
+2001-09-11 03:15:09 Arch [1612942] D  ALPHA  (9)communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:09 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE Tray Metrics Down   Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[001]  dev_err[239]
+2001-09-11 03:15:10 Arch [0922216] C  ALPHA   down change record 536677 that uses this missing file.Causing bogus ...
+2001-09-11 03:15:10 Arch [0978734] D  ALPHA  wn change record 536677 that uses this missing file.Causing bogus ...
+2001-09-11 03:15:12 Arch [0978734] D  ALPHA  communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:12 Skytel {0470360} 1 2400 Oracle Buys Private Web-Based Communications Co. 3Cube[DJ NEWS] (6..
+2001-09-11 03:15:14 Arch [0922216] C  ALPHA  communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:14 Arch [1284371] A  ALPHA  cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication issue is due to a missing file in GB chain. Sent down change record 536677 that uses this missing file.Causing bogus ...
+2001-09-11 03:15:14 Arch [0988031] D  ALPHA  cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication issue is due to a missing file in GB chain. Sent down change record 536677 that uses this missing file.Causing bogus ...
+2001-09-11 03:15:16 Arch [1284371] A  ALPHA  communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:16 Arch [1428056] C  ALPHA  FTT GCSC: N460437 NG: Server Support has reported that exchange servers 17 and 19 are back up. Service Restored.
+2001-09-11 03:15:16 Arch [0988031] D  ALPHA  communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:22 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   686 OPEN suntvpa:686 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 26440 OPEN sunapp1:26440 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:15:22 Arch [1034476] D  ALPHA  cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication issue is due to a missing file in GB chain. Sent down change record 536677 that uses this missing file.Causing bogus ...
+2001-09-11 03:15:22 Arch [0900159] D  ALPHA  cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication issue is due to a missing file in GB chain. Sent down change record 536677 that uses this missing file.Causing bogus ...
+2001-09-11 03:15:22 Arch [1164259] A  ALPHA  From Heath Noland: Change Control # 537950. Stop and Restart EPWFFST on P1. Change Successful, Completed at 02:05.        
+2001-09-11 03:15:24 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:15:24 Arch [1034476] D  ALPHA  communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:24 Arch [0900159] D  ALPHA  communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9647
+2001-09-11 03:15:25 Arch [1227827] A  ALPHA  cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication issue is due to a missing file in GB chain. Sent down change record 536677 that uses this missing file.Causi
+2001-09-11 03:15:25 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   29982 OPEN suntvpa:29982 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 15796 OPEN sunapp1:15796 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat 
+2001-09-11 03:15:25 Arch [1408029] D  ALPHA  (21)cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication issue is due to a missing file in GB chain. Sent down change record 536677 that uses this missing file.Causing bogus ...
+2001-09-11 03:15:25 Arch [0976352] A  ALPHA  (32)From Heath Noland: Change Control # 537950. Stop and Restart EPWFFST on P1. Change Successful, Completed at 02:05.        
+2001-09-11 03:15:27 Arch [1227827] A  ALPHA  ng bogus ...
+2001-09-11 03:15:27 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:15:27 Arch [1408029] D  ALPHA  (22)communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:29 Arch [1227827] A  ALPHA  communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:29 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   31247 OPEN suntvpa:31247 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 6345 OPEN sunapp1:6345 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj
+2001-09-11 03:15:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3295
+2001-09-11 03:15:31 Arch [0650125] D  ALPHA  404-322-4675
+2001-09-11 03:15:33 Arch [0903077] B  ALPHA  (**)cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication issue is due to a missing file in GB chain. Sent down change record 536677 that uses this missing file.Causing bogus ...
+2001-09-11 03:15:33 Arch [0975978] C  ALPHA  cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication issue is due to a missing file in GB chain. Sent down change record 536677 that uses this missing file.Causing bogus ...
+2001-09-11 03:15:33 Skytel [002847128] C  ALPHA  Oracle Buys Private Web-Based Communications Co. 3Cube[DJ NEWS] (1
+2001-09-11 03:15:33 Skytel [002394391] B  ALPHA  Oracle Buys Private Web-Based Communications Co. 3Cube[DJ NEWS]
+2001-09-11 03:15:34 Skytel [005353645] D  ALPHA  FYI:PROB136426 Status Is Transfer : To: bloomington support: User is getting a security error when trying to search - contact Mike at:952 841-5740- ex 71527
+2001-09-11 03:15:34 Skytel [005047463] B  ALPHA  FYI:PROB136426 Status Is Transfer : To: bloomington support: User is getting a security error when trying to search - contact Mike at:952 841-5740- ex 71527
+2001-09-11 03:15:34 Skytel [002279468] D ST NUM  918-435-5599   
+2001-09-11 03:15:35 Arch [0903077] B  ALPHA  (**)communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:35 Arch [0975978] C  ALPHA  communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:36 Skytel [002270524] D SH/TONE 906-0638
+2001-09-11 03:15:37 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 176954. 
+2001-09-11 03:15:38 Skytel [005525323] C  ALPHA  B
+2001-09-11 03:15:39 Arch [1410805] B  ALPHA  (16)cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication issue is due to a missing file in GB chain. Sent down change record 536677 that uses this missing file.Causing bogus ...
+2001-09-11 03:15:39 Arch [1660247] B  ALPHA  cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication issue is due to a missing file in GB chain. Sent down change record 536677 that uses this missing file.Causing bogus ...
+2001-09-11 03:15:40 Arch [1410805] B  ALPHA  (17)communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:40 Arch [1660247] B  ALPHA  communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:42 Arch [0976352] A  ALPHA  (1)cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication issue is due to a missing file in GB chain. Sent down change record 536677 that uses this missing file.Causing bogus ...
+2001-09-11 03:15:42 Arch [0929241] C  ALPHA  cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication issue is due to a missing file in GB chain. Sent down change record 536677 that uses this missing file.Causing bogus ...
+2001-09-11 03:15:42 Skytel [002826593] A ST NUM  210-263-7232   
+2001-09-11 03:15:42 Skytel [007573223] B SH/TONE 2828    
+2001-09-11 03:15:42 Skytel [003599337] C  ALPHA  Oracle Buys Private Web-Based Communications Co. 3Cube[DJ NEWS] (49
+2001-09-11 03:15:43 Metrocall [002588702] D  ALPHA   Ticket: http://amsweb.sc.attws.
+2001-09-11 03:15:43 Metrocall [1466337] A  ALPHA  er received an incorrectly formatted request from //DALBK01.
+2001-09-11 03:15:44 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start restor
+2001-09-11 03:15:44 Arch [0976352] A  ALPHA  (2)communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:44 Arch [0929241] C  ALPHA  communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:44 Skytel [007541750] B SH/TONE 1403    
+2001-09-11 03:15:46 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   18562 OPEN suntvpa:18562 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 6416 OPEN sunapp1:6416 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:15:48 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-11 03:15:48 Arch [1131960] C  ALPHA  cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication issue is due to a missing file in GB chain. Sent down change record 536677 that uses this missing file.Causing bogus ...
+2001-09-11 03:15:48 Arch [0929940] B  ALPHA  cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication issue is due to a missing file in GB chain. Sent down change record 536677 that uses this missing file.Causing bogus ...
+2001-09-11 03:15:50 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   591 OPEN suntvpa:591 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 14304 OPEN sunapp1:14304 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:15:50 Arch [1131960] C  ALPHA  communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:50 Arch [0929940] B  ALPHA  communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:50 Skytel [005105954] A SH/TONE 825-3526
+2001-09-11 03:15:52 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:15:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1168..
+2001-09-11 03:15:55 Skytel [003951056] A  ALPHA  snvc02 Resource: SNVC02:/NT_CPU/CPU__Total/CPUprcrProcessorTimePercent,current state is : CRITICAL ussa11.SSMC 
+2001-09-11 03:15:55 Skytel [005080664] C  ALPHA  communications messages to display in the Store Notices Screen on SMART. Store Item Team sending out E-Change in the a.m. All scales are working. |Sent at 02:12
+2001-09-11 03:15:57 Skytel [005436525] D  ALPHA  Test #76
+2001-09-11 03:15:57 Skytel [004524770] A  ALPHA  spr-AppliedPC-SpringfieldMA-01: CPE Down at 00:36:33 on 9/11
+2001-09-11 03:15:57 Skytel [005112809] C  ALPHA  02:15CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240384: Uncorrectable write error

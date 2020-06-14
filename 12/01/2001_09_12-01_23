@@ -1,0 +1,68 @@
+2001-09-12 01:23:00 Skytel [007046004] B  ALPHA  Duane: Per Curtis, please call Sec Control
+2001-09-12 01:23:00 Skytel [002154487] B SH/TONE 6360    
+2001-09-12 01:23:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8052
+2001-09-12 01:23:03 Arch [0926604] D  ALPHA  NM CALLING - Compaq Environmental failure HealthStatFSM occurred on MRDAP10
+2001-09-12 01:23:03 Skytel [002849561] C  ALPHA  afms@net.com|The node didn't respond to a ping| 
+2001-09-12 01:23:05 Arch [0960761] C  ALPHA  344-7200
+2001-09-12 01:23:05 Skytel [002376872] C  ALPHA  nms@svcanms.conxion.com|Sep11-22:23|There are 3 active alarms including server:inttra4:memory Virtual memory more than 90% consumed  
+2001-09-12 01:23:05 Skytel [004390436] B SH/TONE 17591   
+2001-09-12 01:23:05 Skytel [007653295] D SH/TONE 693-3206
+2001-09-12 01:23:06 Skytel {1092655} 3 2400 002626    
+2001-09-12 01:23:07 Arch [0922216] C  ALPHA  slallen 47239--  Availability update - No impacting minutes for Tuesday  Sent at 00:22      
+2001-09-12 01:23:07 Arch [1611003] C  ALPHA  (25)slallen 47239--  Availability update - No impacting minutes for Tuesday  Sent at 00:22      
+2001-09-12 01:23:10 Arch [0987275] C  ALPHA  s0191: 09/11 16:02:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 16:02:48
+2001-09-12 01:23:10 Metrocall [002589351] B  ALPHA  111/ 4 hr/ 253191632/ 3260/ Florida Health Scien/ Davis Islands/ Tampa/ Dina Paz/ 813-844-7463/ 09/11/2001 19:17 erangel - SS Screens are black and units not working. Does not know the type of unit. She w
+2001-09-12 01:23:10 Metrocall [1064378] C  ALPHA  GLOBAL MARKETS-TOKYO SLIDES, "SAFE" ASSETS UP AFTER ATTACK
+2001-09-12 01:23:10 Metrocall [1064395] C  ALPHA  )?#`B@?HHup@CnOLgphLqAM`ti\ViSVuI|nsOPTydfIEikDBJgAcQTRBCSiqZeMAUhHHLZiEiHHMRiAart@D`PNd{dC
+2001-09-12 01:23:12 Arch [0869481] C  ALPHA  YOU WILL BE IN THIS EXTENDED 11PM SHOW IN SOME CAPACITY...SO DONT BREAK DOWN!!!!! MATT HILL
+2001-09-12 01:23:19 Metrocall [0497643] C  ALPHA  TOUR 3 9/11/01 895 30 885 (FCM) 82 885 (STD) 26 RTS 8...................................... ...........................................................................
+2001-09-12 01:23:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0975
+2001-09-12 01:23:27 Arch [0978734] D  ALPHA  slallen 47239--  Availability update - No impacting minutes for Tuesday  Sent at 00:22      
+2001-09-12 01:23:30 Metrocall [002588047] D  ALPHA  Frm: Muralidhar Devarakonda Sub: server status Txt: Machine 30kcerent1.nsf.att.com not up on Wed Sep 12 01:10:01 2001. status 256.Machine 30kcerent2.nsf.att.com not up on Wed Sep 12 01:10:01 2001 status 256.Machine mtcerent3.nsf.att.com not up on W
+2001-09-12 01:23:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3231
+2001-09-12 01:23:32 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3231
+2001-09-12 01:23:32 Metrocall [002588047] D  ALPHA  ed Sep 12 01:10:01 2001 status 2
+2001-09-12 01:23:32 Skytel [003250311] B  ALPHA  SMT:VA:L3:GCPADMIN: 83886541: ERROR PROCESSING FILE /U/GCPP/GCPFILES/OKACHGA001.DAT /U/GCPP/GCPFILES:Call 8882917023:SENDID# 1958 : 
+2001-09-12 01:23:35 Skytel [003457197] D SH/TONE 6559    
+2001-09-12 01:23:37 Skytel [007503156] B SH/TONE 6309    
+2001-09-12 01:23:37 Skytel [002841789] D SH/TONE 2       
+2001-09-12 01:23:37 Skytel [007120830] D SH/TONE 292-4177
+2001-09-12 01:23:39 Skytel [005307331] A SH/TONE 563-9005
+2001-09-12 01:23:41 Skytel [004687192] C  ALPHA  FROM LOEWS HOTEL FRONT DESK MANAGER GHAZA. MR THACKER HAS ARRIVED TO THE HOTEL. HE'S IN ROOM 464
+2001-09-12 01:23:42 Arch [0987275] C  ALPHA  s0191: 09/11 11:42:59 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:42:59
+2001-09-12 01:23:42 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191908. 
+2001-09-12 01:23:43 Skytel [004720225] A SH/TONE 307     
+2001-09-12 01:23:43 Skytel [005355367] B ST NUM  223-933-4400   
+2001-09-12 01:23:43 Skytel [005120356] B ST NUM  44) 11111 
+2001-09-12 01:23:43 Skytel [005136736] A SH/TONE 323-8070
+2001-09-12 01:23:43 Skytel [005342952] C SH/TONE 6400    
+2001-09-12 01:23:43 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job112902 SNYC00301 09/12 01:23 CPU
+2001-09-12 01:23:43 Skytel [005132112] A  ALPHA  United@ua2go.com|Paging error|User: 05001010134520_aa.ezweb.ne.jp of carrier: ne.jp  look up failed!    
+2001-09-12 01:23:44 Arch [0987275] C  ALPHA  s0191: 09/11 11:48:17 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:48:18
+2001-09-12 01:23:44 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 18.58 21.93 16.12 Tue Sep 11 22:24:01 MST 2001 
+2001-09-12 01:23:45 Skytel [007563890] A ST NUM  05791157911911911911
+2001-09-12 01:23:45 Skytel [007109749] B ST NUM  0-571-777-4117-15   
+2001-09-12 01:23:45 Skytel [005436525] D  ALPHA  Test Lotus Notes #79-IX_T1708
+2001-09-12 01:23:47 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 22:23:02 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 01:23:47 Skytel [007561353] C ST NUM  0-431-436-3714-3    
+2001-09-12 01:23:48 Arch [0987275] C  ALPHA  s0191: 09/11 11:56:22 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:56:22
+2001-09-12 01:23:48 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 46.24 28.75 17.10 Tue Sep 11 22:24:00 MST 2001 
+2001-09-12 01:23:48 Arch [1051959] B  ALPHA  Raymond Tavarez|California Hotels |Sharon, What a terrible day. I hope all is well with your family and friends. Here is the on Hotels: Santa Monica http://www.shuttersonthebeach.com/ http://www.loewshotels. -1/3
+2001-09-12 01:23:48 Arch [1438901] B  ALPHA  OCC <netcool@oh1|Node oh02m13mux05.net.reyrey.com has problem; Mux DOWN Event Has Occurred : ADJACENT CARD ALARM: Channel # 0:With Status 0 - 1 - 4 - 0 Severity 5 Sent by OCC 
+2001-09-12 01:23:48 Skytel [007465749] B ST NUM  872-395-3575   
+2001-09-12 01:23:49 Metrocall [1466337] A  ALPHA  09/11@23:41:00 DALBK01:An attempt to establish a network connection to //DALNT11/Haybooks failed. Error: 67
+2001-09-12 01:23:49 Metrocall [1111466] C  ALPHA  09/11@23:41:00 DALBK01:An attempt to establish a network connection to //DALNT11/Haybooks failed. Error: 67
+2001-09-12 01:23:50 Arch [0987275] C  ALPHA  s0191: 09/11 11:59:03 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:59:03
+2001-09-12 01:23:50 Arch [1051959] B  ALPHA  com/hotels/losangeles/default.asp San Franscisco http://www.hyatt.com/usa/san_francisco/hotels/hotel_sfofw.html http://hotels.san-francisco.interconti.com/ http://www.marriott.com/epp/default.asp?MarshaCode=SFODT Palo Alto (Where we  -2/3
+2001-09-12 01:23:50 Skytel [003261476] B  ALPHA  SmartAlerts@etrade.com||[01:23AM ET]:  Buy 350 KEG @ Mkt Expired  
+2001-09-12 01:23:50 Skytel [005001895] B  ALPHA  [sps/16] 200 supplier.intel.com relay-ssl 0.678 OK Application isalive (/seem/healthcheck.asp) 2:55:09
+2001-09-12 01:23:50 Skytel [007656491] C SH/TONE 867-2443
+2001-09-12 01:23:50 Skytel [007035815] B  ALPHA  paging@ualpaging.com|| UA 0267 ORD-DEN on Sep 12 is cancelled  
+2001-09-12 01:23:52 Arch [1051959] B  ALPHA  live) 1st Choice http://www.woodsidehotels.com/wlodging/sph.html 2nd Choice Sheraton Palo Alto Hotel 625 El Camino Real Palo Alto , CA 94301 650-328-2800 3rd Choice Crowne Plaza Cabana Palo Alto 4290 |640   -3/3
+2001-09-12 01:23:52 Skytel [005325115] C  ALPHA  784-182-0331-43 [563
+2001-09-12 01:23:54 Skytel [007560642] A ST NUM  60447462045973069692
+2001-09-12 01:23:54 Skytel [007572913] A ST NUM  1-415-760-1938 
+2001-09-12 01:23:54 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:23:56 Skytel [004387035] C SH/TONE 320     
+2001-09-12 01:23:56 Skytel [007579357] D SH/TONE 55555   
+2001-09-12 01:23:58 Skytel [002558574] D SH/TONE 1078    

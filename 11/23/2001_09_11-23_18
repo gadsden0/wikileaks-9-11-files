@@ -1,0 +1,95 @@
+2001-09-11 23:18:00 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7927
+2001-09-11 23:18:00 Arch [1605015] B  ALPHA  Event POINDER:Dsbora02UpDown NOD|
+2001-09-11 23:18:02 Arch [0987275] C  ALPHA  s0191: 09/11 11:42:59 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:42:59
+2001-09-11 23:18:02 Arch [1605015] B  ALPHA  Event POINDER:WESUpDown NODE UNR|
+2001-09-11 23:18:02 Arch [0000101] B  ALPHA  MSN 123 hello Message from NOC PCB.
+2001-09-11 23:18:02 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190480. 
+2001-09-11 23:18:05 Skytel [003914923] C ST NUM  917-291-6154   
+2001-09-11 23:18:05 Skytel [003938327] B  ALPHA  jbuckovic@ci.pleasanton.ca.us|Cancel SWAT Standby|The Lawrence Livermore Lab has sufficeint manpower on hand to handle security.  We will not be needed at this time.  Cancel all further plans and return to normal procedures.  Personnel are 
+2001-09-11 23:18:08 Skytel {1345281} 1 1200 HD 40.55 UNCH MOT 15.04 UNCH GE 39.35 UNCH INTC 26.07 UNCH..
+2001-09-11 23:18:08 Skytel {0394189} 3 1200 2222 
+2001-09-11 23:18:09 Skytel {0662431} 1 1200 1710575   
+2001-09-11 23:18:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4497
+2001-09-11 23:18:10 Metrocall [0007837] D  ALPHA  Frm: red%@.b .Z .a..rr.C.. ..R0.........................X...@...............(.....A.....H........@.#. ..L .(`........ ..P@P`..b.1-972-509-5479
+2001-09-11 23:18:19 Arch [1035917] D  ALPHA  431-1820
+2001-09-11 23:18:19 Arch [0915936] A  ALPHA  NDMLATE NDMLATE ih accounting - File transmission is late
+2001-09-11 23:18:19 Arch [005020121] C  ALPHA  NDMLATE NDMLATE ih accounting - File transmission is late
+2001-09-11 23:18:19 Arch [0976531] A  ALPHA  09/11/2001 11:18:11 pm: GTWSMTP-02 changed to Tardy.
+2001-09-11 23:18:19 Arch [1603244] D  ALPHA  NDMLATE NDMLATE ih accounting - File transmission is late
+2001-09-11 23:18:19 Skytel {0099592} 1 1200 1    
+2001-09-11 23:18:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0850
+2001-09-11 23:18:22 Arch [0987275] C  ALPHA  s0191: 09/11 11:48:17 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:48:18
+2001-09-11 23:18:24 Arch [0987275] C  ALPHA  s0191: 09/11 11:56:22 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:56:22
+2001-09-11 23:18:26 Arch [0987275] C  ALPHA  s0191: 09/11 11:59:03 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:59:03
+2001-09-11 23:18:28 Arch [0987275] C  ALPHA  s0191: 09/11 12:04:03 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:04:03
+2001-09-11 23:18:29 Metrocall [0902990] D  ALPHA  PAGE FROM lifeline:  alert 8942592 CHGSAM PS1 amfdny101a.gsam.gs.com FDCOMM_TASender_Start_P1 job has failed
+2001-09-11 23:18:29 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3106
+2001-09-11 23:18:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3106
+2001-09-11 23:18:31 Skytel [002361863] B  ALPHA  PAGEING,1,Application DPIP Informational 4 0 4096 20:16  09/11/01
+2001-09-11 23:18:31 Skytel [002384130] A ST NUM  05) 518-580-6411    
+2001-09-11 23:18:33 Skytel [004706973] D ST NUM  309-810-3336-11
+2001-09-11 23:18:33 Skytel [005120405] B ST NUM  762-429-8671   
+2001-09-11 23:18:33 Skytel [002159128] C SH/TONE 413     
+2001-09-11 23:18:34 Arch [005020121] C  ALPHA  CHW NDMLATE NDMLATE ih accounting - File transmission is late
+2001-09-11 23:18:34 Arch [1657188] B  ALPHA  NCAGBRMQ02:Device Accessible,Device Status:Ok
+2001-09-11 23:18:34 Arch [1603244] D  ALPHA  CHW NDMLATE NDMLATE ih accounting - File transmission is late
+2001-09-11 23:18:34 Arch [0545241] C  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 0470022F from cluster 2034 to cluster 1013), status C3AE181B, extended s
+2001-09-11 23:18:34 Arch [0915936] A  ALPHA  CHW NDMLATE NDMLATE ih accounting - File transmission is late
+2001-09-11 23:18:34 Arch [0932078] D  ALPHA  29-PLEASE CALL BILL AT 925-709-8533.
+2001-09-11 23:18:34 Arch [0900779] C  ALPHA   Sub:WTC UPDATE #11a  Msg:      WTC UPDATE #11a BEGINS AT 11PM ON TUE SEP 11, 2001               <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />    11:16p                 
+2001-09-11 23:18:35 Arch [1408093] D  ALPHA  (19)05:ABS: SSO-SS7 IMPAIRMENT;  INFORMATION  70 SS7 LINKS TO PCS  VIC NY AFFECTED ATT, 34 FROM AKR 36 FROM NY STP BIG IMPACT VERIZON CO ON FIRE IN MANHATTEN, SS7 TEAMS 2041251  BILL PLETCHER
+2001-09-11 23:18:35 Arch [1641901] D  ALPHA  Please call OCC ASAP concerning VPN access issue, 973-716-5051.   
+2001-09-11 23:18:35 Arch [0938387] A  ALPHA  Please call OCC ASAP concerning VPN access issue, 973-716-5051.   
+2001-09-11 23:18:35 Arch [1300649] C  ALPHA  (23)04:ABS: SSO-SS7 IMPAIRMENT;  INFORMATION  70 SS7 LINKS TO PCS  VIC NY AFFECTED ATT, 34 FROM AKR 36 FROM NY STP BIG IMPACT VERIZON CO ON FIRE IN MANHATTEN, SS7 TEAMS 2041251  BILL PLETCHER
+2001-09-11 23:18:35 Skytel [002376872] C  ALPHA  nms@svcanms.conxion.com|Sep11-20:18|There are 3 active alarms including server:inttra4:memory Virtual memory more than 90% consumed  
+2001-09-11 23:18:35 Skytel [004390436] B SH/TONE 17591   
+2001-09-11 23:18:35 Skytel [005205922] A ST NUM  614-969-8266   
+2001-09-11 23:18:35 Skytel [003930156] D SH/TONE 354-5117
+2001-09-11 23:18:37 Arch [1398261] B  ALPHA  443-1661
+2001-09-11 23:18:37 Skytel [005058097] A  ALPHA  WARNING: Server CNApp1/Cupertino/HP/US is Not Responding. Reason: Server not responding
+2001-09-11 23:18:39 Skytel [003278401] A ST NUM  681-233-5717   
+2001-09-11 23:18:39 Skytel [002781127] B ST NUM  508-370-3195   
+2001-09-11 23:18:39 Skytel [007594566] B ST NUM  732-868-1538   
+2001-09-11 23:18:39 Skytel [003641413] B ST NUM  610-395-0580 (94    
+2001-09-11 23:18:40 Metrocall [1544818] A  ALPHA  Server 'HAY-NS2 Disk.E.Free = 152260608, min allowable: (300000000)
+2001-09-11 23:18:40 Metrocall [1283914] C  ALPHA  Frm: Phone Plus Sub: Txt: Martin, Lisa 323-290-9547 08:19 PM
+2001-09-11 23:18:41 Skytel [004437586] A SH/TONE 7736 (16
+2001-09-11 23:18:41 Skytel [004728287] D  ALPHA  jbuckovic@ci.pleasanton.ca.us|Cancel SWAT Standby|The Lawrence Livermore Lab has sufficeint manpower on hand to handle security.  We will not be needed at this time.  Cancel all further plans and return to normal procedures.  Personnel are 
+2001-09-11 23:18:41 Skytel [007098331] C SH/TONE 734-4595
+2001-09-11 23:18:43 Arch [0987275] C  ALPHA  s0191: 09/11 12:12:06 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:12:07
+2001-09-11 23:18:43 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190487. 
+2001-09-11 23:18:43 Skytel [002774753] A ST NUM  08007598255    
+2001-09-11 23:18:43 Skytel [007596901] B SH/TONE 85450   
+2001-09-11 23:18:43 Skytel [005343341] D  ALPHA  800-228-0580 (31
+2001-09-11 23:18:43 Skytel [003451501] D SH/TONE 409     
+2001-09-11 23:18:43 Skytel [005436525] D  ALPHA  Test #16
+2001-09-11 23:18:45 Arch [0987275] C  ALPHA  s0191: 09/11 12:14:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:14:49
+2001-09-11 23:18:45 Arch [1438920] C  ALPHA  plynch|FYI - American Airlines confirmed this PM with F.Jensen that S.Calley was on the plane that crashed.   
+2001-09-11 23:18:45 Skytel [004755827] A SH/TONE 210-8911
+2001-09-11 23:18:45 Skytel [005175664] A ST NUM  510-265-5379   
+2001-09-11 23:18:45 Skytel [005094397] D  ALPHA  NTManage@bsmg.com|Message from NTManage|This Message is from NMS: Device Name: PORTLAND Router Address: 144.210.159.246 is Up Type: Router Ping: Success  PORTLAND ROUTER IS UP  
+2001-09-11 23:18:45 Skytel [004391669] B  ALPHA  jbuckovic@ci.pleasanton.ca.us|Cancel SWAT Standby|The Lawrence Livermore Lab has sufficeint manpower on hand to handle security.  We will not be needed at this time.  Cancel all further plans and return to normal procedures.  Personnel are 
+2001-09-11 23:18:45 Skytel [005521523] A  ALPHA  jbuckovic@ci.pleasanton.ca.us|Cancel SWAT Standby|The Lawrence Livermore Lab has sufficeint manpower on hand to handle security.  We will not be needed at this time.  Cancel all further plans and return to normal procedures.  Personnel are 
+2001-09-11 23:18:45 Skytel [004185333] B SH/TONE 101-0005
+2001-09-11 23:18:45 Skytel [007563388] D ST NUM  08007243624    
+2001-09-11 23:18:47 Arch [0987275] C  ALPHA  s0191: 09/11 12:20:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:20:24
+2001-09-11 23:18:47 Metrocall {1138530} 4 2400 333-9420-407..
+2001-09-11 23:18:47 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 20:16:49 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 23:18:47 Skytel [007109749] B ST NUM  646-7811-7
+2001-09-11 23:18:47 Skytel [005119739] C ST NUM  620-4341-77    
+2001-09-11 23:18:47 Skytel [004754830] D SH/TONE 1394    
+2001-09-11 23:18:48 Arch [0987275] C  ALPHA  s0191: 09/11 12:28:34 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:28:34
+2001-09-11 23:18:48 Skytel [003272095] D ST NUM  9002091369 5   
+2001-09-11 23:18:48 Skytel [007561497] C SH/TONE 412-3660
+2001-09-11 23:18:48 Skytel [005126558] D ST NUM  35) 562-599-7558-911
+2001-09-11 23:18:50 Skytel [005001895] B  ALPHA  [sps/182] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/asrf2/healthcheck.asp) 2:14:55
+2001-09-11 23:18:50 Skytel [002844967] B SH/TONE 7373    
+2001-09-11 23:18:50 Skytel [002867623] B ST NUM  34949 (68 
+2001-09-11 23:18:50 Skytel [005106221] D SH/TONE 236 (33 
+2001-09-11 23:18:50 Skytel [007560236] D SH/TONE 253-7184
+2001-09-11 23:18:52 Skytel [005361335] B  ALPHA  alert@msn.com||RAD 8.39 Merrill Lynch - Be Bullish  
+2001-09-11 23:18:56 Arch [0828452] B  ALPHA  (27)04:ABS: SSO-SS7 IMPAIRMENT;  INFORMATION  70 SS7 LINKS TO PCS  VIC NY AFFECTED ATT, 34 FROM AKR 36 FROM NY STP BIG IMPACT VERIZON CO ON FIRE IN MANHATTEN, SS7 TEAMS 2041251  BILL PLETCHER
+2001-09-11 23:18:56 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 23:18:56 Arch [0621662] D  ALPHA  04:ABS: SSO-SS7 IMPAIRMENT;  INFORMATION  70 SS7 LINKS TO PCS  VIC NY AFFECTED ATT, 34 FROM AKR 36 FROM NY STP BIG IMPACT VERIZON CO ON FIRE IN MANHATTEN, SS7 TEAMS 2041251  BILL PLETCHER
+2001-09-11 23:18:58 Skytel [002558574] D SH/TONE 1078    
+2001-09-11 23:18:59 Metrocall [1409634] A  ALPHA  5060>>>>>

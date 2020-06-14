@@ -1,0 +1,369 @@
+2001-09-11 18:09:00 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-11 18:09:00 Arch [0330466] A  ALPHA  root: ALERT print/printq: qms86032s queue is stuck : 2>/dev/null
+2001-09-11 18:09:00 Arch [0975773] D  ALPHA  BreakingNews@CNN|AMERICA UNDER ATTACK|DEVELOPING STORY WASHINGTON (CNN) -- The first-ever grounding of all flights in the United States will remain in effect until at least noon EDT Wednesday due to security concerns following Tuesday's hija
+2001-09-11 18:09:00 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 186954. 
+2001-09-11 18:09:00 Arch [0083395] A  ALPHA    KIM W/ METHODIST  [9: 713-790-5705 #]   PT STANLEY, IRENE RM 743 A 
+2001-09-11 18:09:00 Arch [0906973] D  ALPHA  86-HONEY, I LOVE YOU. LETS KISS AND MAKE UP.
+2001-09-11 18:09:00 Arch [0284292] B  ALPHA  I just sent the return email with DC numbers. Anything else? Tim
+2001-09-11 18:09:01 Skytel [005524994] A SH/TONE 1       
+2001-09-11 18:09:01 Skytel [003483917] D ST NUM  0-213-244-1081 
+2001-09-11 18:09:02 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7618
+2001-09-11 18:09:02 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-11 18:09:03 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-11 18:09:03 Arch [0167678] D  ALPHA  710-1893
+2001-09-11 18:09:03 Skytel [002356508] D  ALPHA  stanley.siu@lamrc.com|Lab DB - metqueue Prometrix 1 ready|Prometrix 1 is ready.  Please click here to login - http://engweb.eng.lamrc.com/labref/index.jsp  
+2001-09-11 18:09:03 Skytel [003471513] C ST NUM  903-808-2502   
+2001-09-11 18:09:05 Metrocall [002552046] D  ALPHA  -7495437- [MSG WAITING]
+2001-09-11 18:09:05 Skytel [005069351] B ST NUM  373-9169-91    
+2001-09-11 18:09:05 Skytel [007610655] D  ALPHA  TreasNT2@gecapital.com|TREASNT27 : Device Inaccessible|TREASNT27:Device Inaccessible  
+2001-09-11 18:09:05 Skytel [004395164] D ST NUM  222-6455 (2    
+2001-09-11 18:09:06 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4188
+2001-09-11 18:09:06 Skytel {0175632} 3 1200 648-5000  
+2001-09-11 18:09:06 Skytel {1687513} 1 1200 LARRY, CALL MELISSA AT HOME. ..
+2001-09-11 18:09:06 Skytel {0105176} 3 1200 648-5000  
+2001-09-11 18:09:06 Skytel {0938619} 3 1200 517-351-9040   
+2001-09-11 18:09:06 Skytel {1622614} 3 1200 1234 
+2001-09-11 18:09:07 Skytel {1601576} 3 1200 1234 
+2001-09-11 18:09:07 Skytel {1329987} 3 1200 1234 
+2001-09-11 18:09:07 Skytel {1882204} 3 1200 67800
+2001-09-11 18:09:07 Skytel {1329966} 3 1200 1234 
+2001-09-11 18:09:07 Skytel {1326468} 3 1200 1234 
+2001-09-11 18:09:09 Arch [1009421] D  ALPHA  (2)NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outage count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:09 Arch [0866915] A  ALPHA  (20)C08170901921: TR-TM-NOTIF-ERR 000000  LINE 0000  PROGRAM 09-11-01 17:08:12 SYSV CICAPA1V     
+2001-09-11 18:09:09 Arch [1008406] B  ALPHA  (4)NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outage count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tk
+2001-09-11 18:09:09 Arch [0967483] C  ALPHA  (8)NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outage count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:09 Arch [1119609] C  ALPHA  (14)NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outage count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:11 Arch [1008406] B  ALPHA  t# 2041237 dlh
+2001-09-11 18:09:14 Metrocall [1261729] A  ALPHA  Frm: netiq@compassbnk.com Sub: NetIQ Event from ALHQTRN01 - 1 NT Events from Application - batch 47 Txt: JobID = 4621 KSName = OFXlogMonitor_NtStopOrFailEvent MC MachineName = ALHQTRN01 Ob
+2001-09-11 18:09:14 Skytel {0742067} 3 1200 216-363-2665   
+2001-09-11 18:09:15 Arch [1359851] C  ALPHA  root <root@janus|Message from DataMon-MEXSAT: laxlstr4: 200109112200: 0 files instead of 1 of type *.mex.sat.wxl arrived in laxlstr4:/home/monitor/mounts/laxlstr/laxlstr4/twc/wxl_satellite_clips in th
+2001-09-11 18:09:15 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-11 18:09:15 Skytel {0474939} 1 1200 29   
+2001-09-11 18:09:15 Skytel {1256132} 3 1200 1234 
+2001-09-11 18:09:15 Skytel {0393411} 1 1200 092  
+2001-09-11 18:09:16 Arch [1359851] C  ALPHA  root <root@janus|Message from DataMon-CARSAT: laxlstr1: 200109112200: 0 files instead of 1 of type *.car.sat.wxl arrived in laxlstr1:/home/monitor/mounts/laxlstr/laxlstr1/twc/wxl_satellite_clips in th
+2001-09-11 18:09:16 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-11 18:09:16 Metrocall [002180115] A  ALPHA   DR WHITES  LORNA W RANKIN MED CENTER  8248433  CONSULT ON SHELBY, HARROLD
+2001-09-11 18:09:16 Metrocall [1261729] A  ALPHA  ject Name = <NT_MachineFolder = ALHQTRN01> EventMsg
+2001-09-11 18:09:18 Arch [1359851] C  ALPHA  Generic Monitor |Message from DataMon-MEXSAT: laxlstr4: 200109112200: 0 files instead of 1 of type *.mex.sat.wxl arrived in laxlstr4:/home/monitor/mounts/laxlstr/laxlstr4/twc/wxl_satellite_clips in th
+2001-09-11 18:09:18 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-11 18:09:18 Metrocall [0122329] C  ALPHA  FROM:         BreakingNews@CNN.COM SUBJ:      AMERICA UNDER ATTACK MSG:DEVELOPING STORY  WASHINGTON (CNN) -- The first-ever grounding of all flights in the Unite
+2001-09-11 18:09:18 Metrocall [0525708] D  ALPHA  36-PLEASE CALL TC AT 917-833-5679.
+2001-09-11 18:09:18 Skytel {1090371} 1 2400 8883218001  9  
+2001-09-11 18:09:20 Arch [1359851] C  ALPHA  Generic Monitor |Message from DataMon-CARSAT: laxlstr1: 200109112200: 0 files instead of 1 of type *.car.sat.wxl arrived in laxlstr1:/home/monitor/mounts/laxlstr/laxlstr1/twc/wxl_satellite_clips in th
+2001-09-11 18:09:20 Metrocall [0122329] C  ALPHA  d States will remain in effect until at least noon EDT Wednesday due to security concerns following Tuesday's hijackings of airliners that were then crashed into buildings, the Federal Aviation Administration said.   For complete coverage
+2001-09-11 18:09:21 Metrocall [1338323] A  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY WASHINGTON (CNN) -- The first-ever grounding of all flights in the United States will remain in effect until at least noon EDT Wednesday due to securi
+2001-09-11 18:09:22 Arch [0908929] A  ALPHA  8886514452@pagen|Chris/Tammy:be preparing for special order trasmissions in a few minutes. Get Plessinger and Marsh mobilized/ready if needed to accomplish this! Steve Zebrasky 
+2001-09-11 18:09:22 Arch [0983140] B  ALPHA  485-1552
+2001-09-11 18:09:22 Arch [0965721] C  ALPHA  NTMETAFRAME5:Application Exception,Error Message:The Compaq Management Agents have detected a process exception: PID: 98 - DESC: spoolss
+2001-09-11 18:09:22 Arch [0949088] A  ALPHA  emscmgr3: 27-vnc-es.n28.dps interface Compaq is up 
+2001-09-11 18:09:22 Arch [0935565] D  ALPHA  [925 689-6051] 710-3601
+2001-09-11 18:09:22 Arch [0182963] A  ALPHA  Daniel Harkins W/ Southwestern Bell 713-807-1476 please call and leave a #  where I can directly reach you
+2001-09-11 18:09:22 Arch [0945489] A  ALPHA  Chris.Mohrman@CO|FW: jawad visit--update|>---------- >From: Albert Jee[SMTP:ALJEE@WINDOWS.MICROSOFT.COM] >Sent: Tuesday, September 11, 2001 5:09:00 PM >To: Mohrman, Chris >Subject: jawad visit--update
+2001-09-11 18:09:24 Arch [0508342] B  ALPHA  (9)NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outage count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:24 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0541
+2001-09-11 18:09:24 Arch [0624854] B  ALPHA  (11)NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outage count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:24 Arch [0321447] B  ALPHA  NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outage count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:24 Arch [1414445] D  ALPHA  (1)NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outage
+2001-09-11 18:09:24 Arch [0622104] C  ALPHA  (25)NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outage count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:25 Metrocall [1338323] A  ALPHA  ty concerns foll
+2001-09-11 18:09:25 Metrocall [1062336] A  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY WASHINGTON (CNN) -- The first-ever grounding of all flights in the United States will remain in eff
+2001-09-11 18:09:25 Metrocall [1283151] D  ALPHA  : CRDC-MAIL04 : "Server CRDC-MAIL04/MSVR/KAIPERM -  The following pending documents in  mail2.box are older than 30 minutes  14F066,14F06A,14F08E,14F0CA "
+2001-09-11 18:09:25 Metrocall [1430081] A  ALPHA  We are staged to 
+2001-09-11 18:09:26 Arch [0931145] C  ALPHA  Zulfiqar Ahmed|dude check out B828326. Should not have been in our q. ||71  
+2001-09-11 18:09:26 Arch [1414445] D  ALPHA   count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:27 Metrocall [0848957] D  ALPHA  CALL ED
+2001-09-11 18:09:27 Metrocall [1062336] A  ALPHA  ect until at least noon EDT Wednesday due to security concerns foll
+2001-09-11 18:09:27 Metrocall [1430081] A  ALPHA  work on C-104A run in tomorrow through Friday - I still want to
+2001-09-11 18:09:27 Metrocall [1415450] C  ALPHA  [FW04]:FYI - CHIEF, JOHN VOLLMER IS AT ALEX. HOSPITAL, HOWEVER HE IS NOT READY TO BE PICKED UP.  FAHC
+2001-09-11 18:09:27 Metrocall [002460912] A  ALPHA  call cheif pope at rescue one station        703 361 2030//eoc traci ann
+2001-09-11 18:09:31 Arch [1407135] D  ALPHA  573 392-1491
+2001-09-11 18:09:31 Skytel [004548739] A SH/TONE 648-5000
+2001-09-11 18:09:31 Skytel [005352717] D SH/TONE 3922    
+2001-09-11 18:09:31 Skytel [004527104] A SH/TONE 949-3535
+2001-09-11 18:09:31 Skytel [004423168] A SH/TONE 675     
+2001-09-11 18:09:31 Skytel [0001027] A  ALPHA  DJIA 9605.51 UNCH COMP 1695.37 -0.01
+2001-09-11 18:09:31 Skytel [002863626] C SH/TONE 0643    
+2001-09-11 18:09:31 Skytel [007101317] B SH/TONE 99      
+2001-09-11 18:09:31 Skytel [007617542] B  ALPHA  An alert has been generated for profile "Telford frame rtr".
+2001-09-11 18:09:31 Skytel [002364684] D ST NUM  235-1983 U (1  
+2001-09-11 18:09:31 Skytel [002566021] B ST NUM  0007356945
+2001-09-11 18:09:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 15:09:37 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 18:09:31 Skytel [007546375] B SH/TONE 1411    
+2001-09-11 18:09:31 Skytel [002822538] C  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- The first-ever grounding of all flights in the United States will remain in effect until at least noon EDT Wednesday due to security concerns following Tue
+2001-09-11 18:09:31 Skytel [002574860] D SH/TONE 296-4561
+2001-09-11 18:09:31 Skytel [007552772] B SH/TONE 733-0712
+2001-09-11 18:09:31 Skytel [007648012] D SH/TONE 123456  
+2001-09-11 18:09:31 Skytel [002361863] B  ALPHA  PAGEING,1,Application DPIP Informational 4 0 4096 13:15  09/11/01
+2001-09-11 18:09:33 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-11 18:09:33 Arch [0485844] B  ALPHA  508 398-4363
+2001-09-11 18:09:33 Arch [0936445] D  ALPHA  Super-User <root|From: root Subject: filesystem (webprim) webprim:/ 83 webprim:/usr 98 webprim:/var 55 webprim:/opt 62 webprim:/tmp 1 webprim:/tempfs 1 webprim:/oraapps 80 webprim:/oradata 76 webprim:/opt/net 42 
+2001-09-11 18:09:33 Metrocall [1430081] A  ALPHA   talk to you about this. - Donny
+2001-09-11 18:09:33 Metrocall [1400958] D  ALPHA  BALMORIAL 773 561 8661 PT COLLINS ,QUINCY 16:58-6-11/09
+2001-09-11 18:09:33 Metrocall [1293609] C  ALPHA  (ID: 3547) From Comm: PLEA
+2001-09-11 18:09:33 Metrocall [002580794] C  ALPHA  2698/MOE /CV ASSOC/504-871-0735/No Msg./Trsfr from:REYES,SUSAN/PER STATUS
+2001-09-11 18:09:33 Skytel [005325854] D  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- The first-ever grounding of all flights in the United States will remain in effect until at least noon EDT Wednesday due to security concerns following Tue
+2001-09-11 18:09:33 Skytel [007520664] C  ALPHA  ulf@sdl.sri.com||  WASHINGTON (CNN) -- The first-ever grounding of all flights in the United States 
+2001-09-11 18:09:33 Skytel [005327768] C  ALPHA  CALL STEVE HOVEY AT 773-404-4625. ARBO
+2001-09-11 18:09:33 Skytel [002860318] D  ALPHA  CALL ME I HAVE BEES AT HOME   CINDY CALL ME ASAP I AM LEAVE SOON 
+2001-09-11 18:09:33 Skytel [005106712] C SH/TONE 61750   
+2001-09-11 18:09:33 Skytel [005190686] D  ALPHA  F: alias-adm; S: Client-tvpak_releasec  12267  176726 --> Successful!; 
+2001-09-11 18:09:33 Skytel [005384724] B SH/TONE 7211    
+2001-09-11 18:09:33 Skytel [002401821] D  ALPHA  206.122.40.73 $HASP050 JES2 RESOURCE SHORTAGE OF JOES - 82% UTILIZATION REACHED ussa11.SSMC 
+2001-09-11 18:09:35 Arch [1379701] B  ALPHA  (10)NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outage count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:35 Arch [1408165] B  ALPHA  (8)NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 out
+2001-09-11 18:09:35 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-11 18:09:35 Arch [0796913] A  ALPHA  (29)NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outage count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:35 Arch [0128040] C  ALPHA  514-7214
+2001-09-11 18:09:35 Arch [0916163] A  ALPHA  602 550-6040
+2001-09-11 18:09:35 Arch [1212783] D  ALPHA  (8)NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outage count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:35 Arch [0333463] B  ALPHA  64-PLEASE CALL MISS BEVERLY AT 443-996-41
+2001-09-11 18:09:35 Arch [0936445] D  ALPHA  Super-User <root|filesystem (intranet) intranet:/ 23 intranet:/usr 93 intranet:/var 46 intranet:/export/ 32 intranet:/opt 69 intranet:/tmp 1 intranet:/apps1 71 intranet:/apps2 65 intranet:/opt/net 13 intranet:/vol02 29 intranet:/vol01 56 
+2001-09-11 18:09:35 Metrocall [1293609] C  ALPHA  SE CALL PHIL WILLIAMS WITH CH.5 AT 948-3386.  THANKS.09/11/01..1710..VS
+2001-09-11 18:09:35 Skytel [005250594] A SH/TONE 56      
+2001-09-11 18:09:35 Skytel [005361965] D  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- The first-ever grounding of all flights in the United States will remain in effect until at least noon EDT Wednesday due to security concerns following
+2001-09-11 18:09:35 Skytel [004405548] D SH/TONE 99      
+2001-09-11 18:09:35 Skytel [005203747] A  ALPHA  5759046 PLS CALL MS  LAVRAR@ HM  408 778-5480 RE PURCHASE OF TRICELL
+2001-09-11 18:09:35 Skytel [003493541] B ST NUM  510-435-7138 (7
+2001-09-11 18:09:35 Skytel [004682657] A ST NUM  720-941-8009   
+2001-09-11 18:09:35 Skytel [002358319] D  ALPHA  {autoexec}AE2-16:17:17-Unable to connect to 160.43.94.109 (No route to host)
+2001-09-11 18:09:35 Skytel [007035683] A  ALPHA  scrutinize@emcweb.com|| TRG U
+2001-09-11 18:09:35 Skytel [005100458] C  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- The first-ever grounding of all flights in the United States will remain in effect until at least noon EDT Wednesday due to security concerns following Tue
+2001-09-11 18:09:35 Skytel [004704807] B SH/TONE 3555    
+2001-09-11 18:09:35 Skytel [002387374] D  ALPHA  972-672-6904
+2001-09-11 18:09:35 Skytel [007588526] D SH/TONE 4375    
+2001-09-11 18:09:35 Skytel [004568365] D SH/TONE 3) 61700
+2001-09-11 18:09:35 Skytel [005353638] B  ALPHA  call me. 978-670-9055  M Bradanese 3-5648
+2001-09-11 18:09:35 Skytel [005429291] C  ALPHA  Bang Tran|Pls advise the qual results sofar... | Bang N Tran Cisco System, Inc. Phone: 408-526-5919 Fax : 408-527-0301 email: bangt
+2001-09-11 18:09:37 Arch [1408165] B  ALPHA  age count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:37 Arch [0622657] A  ALPHA  NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outage count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:37 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-11 18:09:37 Arch [0333463] B  ALPHA  48. VERY IMPORTANT.
+2001-09-11 18:09:37 Arch [0909828] B  ALPHA  skapp|Give me a call at 720-875-1294 - thanks.   
+2001-09-11 18:09:37 Arch [1052209] A  ALPHA  bwerle| Rod, Dillard and Paul are in Fendi waiting for you. Bene  
+2001-09-11 18:09:37 Arch [1339701] B  ALPHA  Ed Valle <EVALLE|FW: Lunchtime!!|I'm game. I'm kinda burned out on Indian. I haven't been to Maria Elena's in a while. We can also consider the Chinese buffet in
+2001-09-11 18:09:37 Skytel [005361965] D  ALPHA   Tue
+2001-09-11 18:09:37 Skytel [002348984] C ST NUM  203-5905 U
+2001-09-11 18:09:37 Skytel [007511864] C  ALPHA  [!A0][D33419]45790102N2277|Calafiore, Craig|RE: Position type  |Motorola and Bob Corrado will roll u
+2001-09-11 18:09:37 Skytel [002743713] A ST NUM  864-297-0099   
+2001-09-11 18:09:37 Skytel [007035683] A  ALPHA  ptime 0% OK, 1 monitor checked, 1 in error  
+2001-09-11 18:09:37 Skytel [004477114] C SH/TONE 965-9200
+2001-09-11 18:09:37 Skytel [003948731] C SH/TONE 322-8462
+2001-09-11 18:09:37 Skytel [005099697] A ST NUM  202-646-4022 (32    
+2001-09-11 18:09:37 Skytel [002366527] D  ALPHA  96) {sts}/home/sts/bin/check_hosts.ksh Can't connect to STS_PRD_OS1. Please check.
+2001-09-11 18:09:37 Skytel [005188024] C SH/TONE 4730    
+2001-09-11 18:09:37 Skytel [005173051] C SH/TONE 225-4250
+2001-09-11 18:09:37 Skytel [005491258] C ST NUM  210-215-3099-12
+2001-09-11 18:09:37 Skytel [005172409] C SH/TONE 28855   
+2001-09-11 18:09:37 Skytel [007588521] C SH/TONE 3364    
+2001-09-11 18:09:37 Skytel [005121579] C SH/TONE 431-2224
+2001-09-11 18:09:37 Skytel [005429291] C  ALPHA  @cisco.com |142   (56
+2001-09-11 18:09:37 Skytel [005367357] D SH/TONE 346-6709
+2001-09-11 18:09:37 Skytel [002792892] D ST NUM  972-296-4357   
+2001-09-11 18:09:37 Skytel [002820280] C  ALPHA  96) {sts}/home/sts/bin/check_hosts.ksh Can't connect to STS_PRD_OS1. Please check.
+2001-09-11 18:09:38 Metrocall [1283151] D  ALPHA  ver CRDC-MAIL04/MSVR/KAIPERM -  The following pending documents in  mail1.box are older than 30 minutes  1541DA,1541FE,15420E "
+2001-09-11 18:09:38 Metrocall [1695645] D  ALPHA  ts in the United States will remain in effect until at least noon EDT Wednesday due to security con
+2001-09-11 18:09:38 Metrocall [0048159] D  ALPHA  (1/1) The vehicle accident in the Nova District I-95NB @ Triangle is clear and all the lanes have been reopened./eoc/cmm 9/11/01 6:04:42 PM
+2001-09-11 18:09:39 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34
+2001-09-11 18:09:39 Arch [1339701] B  ALPHA   Milpitas. Let me know your thoughts. Michelle -----Original Message----- From: 
+2001-09-11 18:09:39 Skytel [005362252] D SH/TONE 99      
+2001-09-11 18:09:39 Skytel [005332045] D ST NUM  913-639-4578   
+2001-09-11 18:09:39 Skytel [005043532] D  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- The first-ever grounding of all flights in the United States will remain in effect until at least noon EDT Wednesday due to security 
+2001-09-11 18:09:39 Skytel [005363656] C SH/TONE 439-3431
+2001-09-11 18:09:39 Skytel [003061957] B  ALPHA  60252 (73
+2001-09-11 18:09:39 Skytel [007593030] B ST NUM  439-299-9911   
+2001-09-11 18:09:39 Skytel [008507076] B  ALPHA  01678h4b19b0100100002g
+2001-09-11 18:09:39 Skytel [005427648] A  ALPHA  2458 (99
+2001-09-11 18:09:39 Skytel [003594826] C ST NUM  779-2200 (82   
+2001-09-11 18:09:39 Skytel [005427650] A  ALPHA  2439 (67
+2001-09-11 18:09:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-11 18:09:39 Skytel [005209281] A  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- The first-ever grounding of all flights in the United States will remain in effect until at
+2001-09-11 18:09:39 Skytel [005226061] D SH/TONE 2035    
+2001-09-11 18:09:39 Skytel [004591436] D SH/TONE 237     
+2001-09-11 18:09:39 Skytel [002868673] A  ALPHA  The device salmon.fujitsu.com Device "133.164.254.162"(Type: HTTP) is UP since Tue Sep 11 14:58:38 2001.
+2001-09-11 18:09:39 Skytel [004422478] D ST NUM  143-143-8611   
+2001-09-11 18:09:40 Metrocall [0502865] A  ALPHA  90- From Cassity, Robert L. Sub:PLEASE MAKE SURE STATION WATCHERS ARE ...
+2001-09-11 18:09:40 Metrocall [0502865] A  ALPHA  CONTACTING THE BPO STANDARD TRANSMISSION DISPATCHER BY RADIO.  IF OUT OF ...
+2001-09-11 18:09:40 Metrocall [1695645] D  ALPHA  cerns following Tuesday's hijackings of airliners
+2001-09-11 18:09:40 Metrocall [1401492] B  ALPHA  ANGELA RE: ANGELA SEBASTIANO 7082336338GRANDDGHTR NEEDS TOKNOW WHAT'S GOING ON
+2001-09-11 18:09:41 Arch [0935632] A  ALPHA  Hope Tschappat  Cycle is still being reviewed by AWS. ETA: N/A
+2001-09-11 18:09:41 Arch [1033132] D  ALPHA  Stephen Schaniel|Reschedule SpecJBB talk to Tech |
+2001-09-11 18:09:41 Arch [0625685] B  ALPHA  (15)Nov01 FMS PT Status. PT 31, PT41, PT43 On hold due to Web OE issues. No ETC at this time. P
+2001-09-11 18:09:41 Arch [1133269] B  ALPHA  14-I AM HOME.
+2001-09-11 18:09:41 Arch [1100122] C  ALPHA  Lbx wacd File Transfer Failed - ora08 [9/11/0 15:09]
+2001-09-11 18:09:41 Arch [1666502] B  ALPHA  The picture went back - what gives?  f-y-i, Ray Joysen (sp), from the CRM team, after he left USAA, he went back into the military and was s
+2001-09-11 18:09:41 Arch [0329167] D  ALPHA  From mcdowell at 06:10 PM EDT: 2585 files on f3n1 phoenixwrk1 [CC:db2group] 
+2001-09-11 18:09:41 Arch [0764502] B  ALPHA  NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outage count in NY is 25 DS3s dow
+2001-09-11 18:09:41 Arch [1436211] A  ALPHA  ccgillis@fore.co|FBGRX Sep 10 40.32 +0.28 +0.70% _______ FDEGX Sep 10 17.32 -0.06 -0.35% _______ PLCVX Sep 10 13.44 +0.02 +0.15% _______ RSEGX Sep 10 27.56 -0.28 -1.01% _______ 
+2001-09-11 18:09:41 Arch [0510204] D  ALPHA  (2)NCC Update 9/11 New York, NY 60 Hudson switc
+2001-09-11 18:09:41 Skytel [005043532] D  ALPHA  concerns following Tue
+2001-09-11 18:09:41 Skytel [005479378] A ST NUM  410-251-4021   
+2001-09-11 18:09:41 Skytel [004730711] B  ALPHA  WHERE ARE YOU AT? CALL RIGHT AWAY AT 303 238 3420. DORTHY
+2001-09-11 18:09:41 Skytel [002377821] D  ALPHA  Hey scott... this is bill dodson,  call me 919-345-2673... i am in calgary
+2001-09-11 18:09:41 Skytel [005115072] A SH/TONE 1234 (91
+2001-09-11 18:09:41 Skytel [003204288] A SH/TONE 1234 (46
+2001-09-11 18:09:41 Skytel [002273748] B ST NUM  455-555-5555   
+2001-09-11 18:09:41 Skytel [007101275] C SH/TONE 281-9346
+2001-09-11 18:09:41 Skytel [002844508] D  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- The first-ever grounding of all flights in the United States will remain in effect until at least noon EDT Wednesday due to security 
+2001-09-11 18:09:41 Skytel [005209281] A  ALPHA   least noon EDT Wednesday due to security concerns following Tue
+2001-09-11 18:09:41 Skytel [005508439] B  ALPHA  F: alias-adm; S: Client-tvpak_releasec  12267  176726 --> Successful!; 
+2001-09-11 18:09:41 Skytel [002740441] C SH/TONE 1234 (21
+2001-09-11 18:09:41 Skytel [003923420] D ST NUM  702-460-7927   
+2001-09-11 18:09:41 Skytel [002734684] D SH/TONE 081898  
+2001-09-11 18:09:41 Skytel [004002394] C  ALPHA  2/2 ESTAMOS EN CONTACTO. MARTHA.
+2001-09-11 18:09:41 Skytel [002863195] C SH/TONE 99      
+2001-09-11 18:09:41 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job112910 SNYC11306 09/11 17:52 CPU
+2001-09-11 18:09:41 Skytel [002384987] C  ALPHA  SRyerson@c-bridge.com|Armageddon|What the hell is going on here. We just started bombing the Kabul 10 minutes ago
+2001-09-11 18:09:43 Arch [0625685] B  ALPHA  T44 on hold due to FM sev2 12005 and VS386, ETC 2 hours Jay Minnick 913-433-8684 
+2001-09-11 18:09:43 Arch [0622111] D  ALPHA  (24)NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outage count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:43 Arch [1666502] B  ALPHA  tationed at the pentagon. D.
+2001-09-11 18:09:43 Arch [0986324] B  ALPHA  [2 of 2] TZO. [VCFD\SHIRK]
+2001-09-11 18:09:43 Arch [1849875] A  ALPHA  "PA_NOTES1" <"PA|Subject = Page test - ignore 09/11/01 15:00 QAS SAP Alert on rhydon: Page test - please ignore 
+2001-09-11 18:09:43 Arch [0764502] B  ALPHA  n. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:43 Arch [0866915] A  ALPHA  (21)C08170937574: TR-TM-NOTIF-ERR 000000  LINE 0000  PROGRAM 09-11-01 17:08:12 SYSV CICAPA1V     
+2001-09-11 18:09:43 Arch [0936445] D  ALPHA  Super-User <root|filesystem (intranet) intranet:/ 23 intranet:/usr 93 intranet:/var 46 in
+2001-09-11 18:09:43 Arch [0510204] D  ALPHA  h site completely evacuated. DS3 outage count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:43 Arch [1164255] D  ALPHA  92-PLEASE CALL ME AT HOME. KAVI
+2001-09-11 18:09:43 Skytel [007610725] B SH/TONE 723-9912
+2001-09-11 18:09:43 Skytel [004396256] A ST NUM  841-492-6135 (8
+2001-09-11 18:09:43 Skytel [005410401] A SH/TONE 214 (56 
+2001-09-11 18:09:43 Skytel [002813804] D ST NUM  909-296-2393   
+2001-09-11 18:09:43 Skytel [007600737] A SH/TONE 402-1156
+2001-09-11 18:09:43 Skytel [002844508] D  ALPHA  concerns following Tue
+2001-09-11 18:09:43 Skytel [007553888] A  ALPHA  925-6075Busy Costa Mesa 714-438
+2001-09-11 18:09:43 Skytel [005306084] B ST NUM  485-738-4123   
+2001-09-11 18:09:43 Skytel [003918571] C SH/TONE 413-5200
+2001-09-11 18:09:43 Skytel [005375339] C SH/TONE 584-2908
+2001-09-11 18:09:43 Skytel [003493099] C ST NUM  313-413-8363   
+2001-09-11 18:09:43 Skytel [007058409] C SH/TONE 632-0879
+2001-09-11 18:09:43 Skytel [007568617] C SH/TONE 476-3300
+2001-09-11 18:09:43 Skytel [003203307] C ST NUM  459-3065-69 (7 
+2001-09-11 18:09:43 Skytel [002384987] C  ALPHA  . WWIII is on. Call my cell ASAP or send a message to the id I gave you yesterday.  Scott  Scott Ryerson C-bridge Diagnostics C
+2001-09-11 18:09:43 Skytel [002750060] D ST NUM  909-0065-69    
+2001-09-11 18:09:43 Skytel [004424557] D ST NUM  214-926-0085   
+2001-09-11 18:09:43 Skytel [004529134] D SH/TONE 3360    
+2001-09-11 18:09:43 Skytel [005180908] D ST NUM  303-881-3697   
+2001-09-11 18:09:43 Skytel [005436525] D  ALPHA  Jackson Test (40) #16-IX_T4004
+2001-09-11 18:09:44 Skytel [005182832] A ST NUM  947-205-0206-90
+2001-09-11 18:09:44 Skytel [005345528] C  ALPHA  LA LINEA DE CAPTURA DE LA COLEGIATURA DE CARLOS ES B072915033680951137236 POR $4.191.75. ESTE ES SOLO PARA EL MES DE SEP. YA TRAJO CARLOS LOS RECIBOS. GRACIAS. GABRIELA.
+2001-09-11 18:09:44 Skytel [005479156] B SH/TONE 6026    
+2001-09-11 18:09:44 Skytel [002742646] B SH/TONE 421-4401
+2001-09-11 18:09:44 Skytel [004593269] B  ALPHA  5744492 DEL WNDVAC LUIS, MANUEL 4135929948 M LUIS HOME CSD 208 (7
+2001-09-11 18:09:44 Skytel [003451125] B ST NUM  202-646-4287   
+2001-09-11 18:09:44 Skytel [007602679] B SH/TONE 734-1600
+2001-09-11 18:09:44 Skytel [005000311] B SH/TONE 336-5813
+2001-09-11 18:09:44 Skytel [002155001] C SH/TONE 1234 (46
+2001-09-11 18:09:44 Skytel [004390393] C SH/TONE 442-1756
+2001-09-11 18:09:44 Skytel [004541168] A SH/TONE 
+2001-09-11 18:09:44 Skytel [007521147] C ST NUM  614-402-9958   
+2001-09-11 18:09:44 Skytel [004589819] C ST NUM  914-793-6666   
+2001-09-11 18:09:45 Arch [0986324] B  ALPHA  [1 of 2] All personnel who worked today beyond the normal staffing are required to report their time on an ETR through the appropriate reporting point. All hours are to be reported to code [Cont.] 
+2001-09-11 18:09:45 Arch [0936445] D  ALPHA  tranet:/export/ 32 intranet:/opt 69 intranet:/tmp 1 intranet:/apps1 71 intranet:/apps2 65 intranet:/opt/net 13 intranet:/vol02 29 intranet:/vol01 56 
+2001-09-11 18:09:45 Arch [1849875] A  ALPHA  "PA_NOTES1" <"PA|Subject = Page test - ignore 09/11/01 15:00 PRD SAP Alert on mewtwo: Page test - please ignore 
+2001-09-11 18:09:45 Skytel [003252595] A ST NUM  0003863499
+2001-09-11 18:09:45 Skytel [002776825] C ST NUM  602-664-5898-911    
+2001-09-11 18:09:45 Skytel [004745080] C SH/TONE 722-1766
+2001-09-11 18:09:45 Skytel [007457526] B SH/TONE 305-5650
+2001-09-11 18:09:45 Skytel [007008380] D  ALPHA  MSN ||Hotmail POSTMASTER@lintng2.hewitt.com:Undeliverable message  
+2001-09-11 18:09:45 Skytel [002282600] C SH/TONE 328-9143
+2001-09-11 18:09:45 Skytel [002396156] D SH/TONE 4359    
+2001-09-11 18:09:45 Skytel [007551478] B ST NUM  440-898-5550-420    
+2001-09-11 18:09:45 Skytel [005202672] A  ALPHA  5760115 PCK KA3KA3 REGIONAL WEST MEDICAL  3086301619 D KEPLER 312 176
+2001-09-11 18:09:45 Skytel [004450173] D ST NUM  561-287-3407   
+2001-09-11 18:09:45 Skytel [003252854] B SH/TONE 936-8327
+2001-09-11 18:09:46 Arch [1849875] A  ALPHA  "PA_NOTES1" <"PA|Subject = Page test - ignore 09/11/01 15:00 DEV SAP Alert on pikachu: Page test - please ignore 
+2001-09-11 18:09:46 Metrocall [0502865] A  ALPHA  RANGE CONTACT TRANSMISSION DISPATCHER BY PHONE [630] 932-3702 Msg:
+2001-09-11 18:09:46 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2797
+2001-09-11 18:09:46 Metrocall [0983898] C  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY WASHINGTON (CNN) -- The first-ever grounding of all flights in the United States will remain in effect until at least noon EDT Wednesday due to security concerns following Tues
+2001-09-11 18:09:46 Skytel [004538249] C  ALPHA  {autoexec}AE1-16:17:17-Unable to connect to 160.43.166.17 (Connection timed out)
+2001-09-11 18:09:46 Skytel [007027970] A ST NUM  01010911836400000000
+2001-09-11 18:09:46 Skytel [005347464] C  ALPHA  Bomb Threat/Evacuation/Box 28-11/8024 Telegraph Rd/ Harvey Ave/Map 06K10/TAC 1A/
+2001-09-11 18:09:46 Skytel [002778631] B ST NUM  312-222-5174   
+2001-09-11 18:09:46 Skytel [005241734] B SH/TONE 48304   
+2001-09-11 18:09:46 Skytel [005408650] C ST NUM  087-1871-87 (37
+2001-09-11 18:09:46 Skytel [002336779] C SH/TONE 99      
+2001-09-11 18:09:46 Skytel [005362438] B SH/TONE 232     
+2001-09-11 18:09:46 Skytel [004086922] C SH/TONE   (89   
+2001-09-11 18:09:46 Skytel [002817933] D  ALPHA  {autoexec}AE2-16:17:17-Unable to connect to 160.43.94.109 (No route to host)
+2001-09-11 18:09:46 Skytel [007491980] D SH/TONE 773-4911
+2001-09-11 18:09:48 Metrocall [0476898] A  ALPHA  Frm: Ellenberger, Steve Sub: Txt: Art Gonzalez is my source, he said he is watching the bombing on CNN. Steve
+2001-09-11 18:09:48 Metrocall [1036205] D  ALPHA  Frm: Ellenberger, Steve Sub: Txt: Art Gonzalez is my source, he said he is watching the bombing on CNN. Steve
+2001-09-11 18:09:48 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2797
+2001-09-11 18:09:48 Metrocall [0599145] C  ALPHA  Frm: Salmorin, Marge Sub: #73 Txt: Pls call marge X7409
+2001-09-11 18:09:48 Skytel [003455251] A ST NUM  508-945-7350   
+2001-09-11 18:09:48 Skytel [0001026] A  ALPHA  NEWS BY AP: * Terrorists Crash Jets Into World Trade Center, Both Towers Collapse; Thousands Could Be Dead. * Pentagon Takes Devastating Hit From Aircraft in Apparent Terrorist Attack. *
+2001-09-11 18:09:48 Skytel [005119766] B ST NUM  214-589-3361   
+2001-09-11 18:09:48 Skytel [002824217] C  ALPHA  {autoexec}AE1-16:19:01-TWClient:Can t connect to the TWFireWall 208.226.148.82/1
+2001-09-11 18:09:48 Skytel [002231063] B  ALPHA  630-7191-1 (42
+2001-09-11 18:09:48 Skytel [007551507] A SH/TONE 577-5000
+2001-09-11 18:09:48 Skytel [004694023] B  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- The first-eve
+2001-09-11 18:09:48 Skytel [005437851] C ST NUM  511-411-4114-11
+2001-09-11 18:09:48 Skytel [007524379] C  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- The first-ever 
+2001-09-11 18:09:48 Skytel [005361308] D SH/TONE 99      
+2001-09-11 18:09:48 Skytel [005507073] A SH/TONE 577-5000
+2001-09-11 18:09:48 Skytel [002713884] D  ALPHA  NEWS@2: Tragedy Hits Wall Street, Washington in Worst Terror Attack Against United States. New York's Twin Towers - GONE! Hijacked jets topple World Trade Center; Pentagon also hit by plane. - Brought to you by Wireless Week and i3 Mobile.
+2001-09-11 18:09:50 Skytel [007608237] D  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- The first-ever grounding of all flights in the United States will remain in effect until at least noon EDT Wednesday due to security concerns following Tue
+2001-09-11 18:09:50 Skytel [004694023] B  ALPHA  r grounding of all flights in the United States will remain in effect until at least noon EDT Wednesday due to security concerns following Tue
+2001-09-11 18:09:50 Skytel [007007136] A ST NUM  990-9085-11    
+2001-09-11 18:09:50 Skytel [003923490] A ST NUM  262-639-1165   
+2001-09-11 18:09:50 Skytel [004684318] D  ALPHA  FYI SOP bkup hung - killed and restarted....sapcov. -  
+2001-09-11 18:09:50 Skytel [003204264] C SH/TONE 1234 (65
+2001-09-11 18:09:50 Skytel [004448424] C ST NUM  809-352-7695   
+2001-09-11 18:09:50 Skytel [005103137] A  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- The first-ever grounding of all flights in the United States will remain in effect until at least noon EDT Wednesday due to security 
+2001-09-11 18:09:50 Skytel [005342757] B  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- The first-ever grounding of all flights in the United States will remain in effect until at least noon EDT Wednesday due to security concerns following Tue
+2001-09-11 18:09:51 Arch {2088047} 4 2400 +.
+2001-09-11 18:09:51 Arch {0850577} 1 2400 Wb|;G
+2001-09-11 18:09:52 Arch {2058899} 1 2400 wb\[g
+2001-09-11 18:09:52 Skytel [005342524] D  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- The first-ever grounding of all flights in the United States will remain in effect until at least noon EDT Wednesday due to security concerns following Tue
+2001-09-11 18:09:52 Skytel [004536372] B SH/TONE 215     
+2001-09-11 18:09:52 Skytel [004407602] A ST NUM  825-675-2072   
+2001-09-11 18:09:52 Skytel [004687549] D SH/TONE 601     
+2001-09-11 18:09:52 Skytel [005103137] A  ALPHA  concerns following Tue
+2001-09-11 18:09:52 Skytel [002776888] C SH/TONE 1234 (75
+2001-09-11 18:09:52 Skytel [005112241] A SH/TONE 38924   
+2001-09-11 18:09:52 Skytel [002738345] C SH/TONE 1234 (1 
+2001-09-11 18:09:52 Skytel [005360950] B SH/TONE 88065   
+2001-09-11 18:09:52 Skytel [005062712] C  ALPHA  wtn99@att.net||dettie wrote she is really scared that u and all of us are ok
+2001-09-11 18:09:54 Arch [1373686] B  ALPHA  (5)Nov01 FMS PT Status. PT 31, PT41, PT43 On hold due to Web OE issues. No ETC at this time. PT44 on hold due to FM sev2 12005 and VS386, ETC 2 hours Jay Minnick 913-433-8684 
+2001-09-11 18:09:54 Arch [0632080] A  ALPHA  3115
+2001-09-11 18:09:54 Arch [1304007] B  ALPHA  (30)Nov01 FMS PT Status. PT 31, PT41, PT43 On hold due to Web OE issues. No ETC at this time. PT44 on hold due to FM sev2 12005 and VS386, ETC 2 hours Jay Minnick 913-433-8684 
+2001-09-11 18:09:54 Arch [1408093] D  ALPHA  (11)NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outage count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:54 Arch [0419887] D  ALPHA  02-PLS CALL JOE IMMEDIATELY.
+2001-09-11 18:09:54 Arch [1107083] C  ALPHA  32-PLEASE CALL SCOTT ANDERSON AT 972-317-2672.
+2001-09-11 18:09:54 Arch [0555913] C  ALPHA  (3)NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outage count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:54 Skytel [005344198] B  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- The first-ever grounding of all flights in the United States will remain in effect until at least noon EDT Wednesday due to security concerns following Tue
+2001-09-11 18:09:54 Skytel [002555845] B SH/TONE 1234 (17
+2001-09-11 18:09:54 Skytel [004688070] B SH/TONE 1234    
+2001-09-11 18:09:54 Skytel [003783372] D  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  WASHINGTON (CNN) -- The first-ever grounding of all flights in the United States will remain in effect until at least noon EDT Wednesday due to security concerns following Tue
+2001-09-11 18:09:55 Metrocall [1544818] A  ALPHA  KPNC-PG2 Test from KPNC-PG2  It is working..09/11/2001 03:08:07 PM
+2001-09-11 18:09:55 Metrocall [1544820] B  ALPHA  KPNC-PG2 Test from KPNC-PG2  It is working..09/11/2001 03:08:07 PM
+2001-09-11 18:09:55 Metrocall [1036376] C  ALPHA  l
+2001-09-11 18:09:55 Metrocall [002589323] C  ALPHA  BTMNA Network Router PORR1-Lo1 DOWN at 13:57:07
+2001-09-11 18:09:55 Metrocall [1078831] D  ALPHA  Frm: risman@firstusa.com Sub: TPS Day One PM Incremental Score - Score has completed successfully.0 Txt: ******************** This transmiss
+2001-09-11 18:09:56 Arch [1389426] A  ALPHA  469-1993
+2001-09-11 18:09:56 Arch [0904958] D  ALPHA  #UBOC_NewAccount|Your Application|eNable Mail Error: No Secure email to Send. ******************************************************************************* This communication (including any attachments) may contain privileged or confident
+2001-09-11 18:09:56 Skytel [002777682] A SH/TONE 38511   
+2001-09-11 18:09:56 Skytel [007551448] C SH/TONE 99      
+2001-09-11 18:09:56 Skytel [005190728] C SH/TONE 1234    
+2001-09-11 18:09:56 Skytel [005190745] C SH/TONE 1234    
+2001-09-11 18:09:56 Skytel [005367240] C ST NUM  917-223-5993   
+2001-09-11 18:09:56 Skytel [005135055] D ST NUM  210-447-5707   
+2001-09-11 18:09:57 Metrocall [0025050] C  ALPHA  The service on 13787 at CYD INTERNATIONAL INC, call ID 124453 has been removed from your schedule.
+2001-09-11 18:09:57 Metrocall [1078831] D  ALPHA  ion may contain information that is privileged, confidential
+2001-09-11 18:09:57 Metrocall [0088900] B  ALPHA  Frm: risman@firstusa.com Sub: TPS Day 
+2001-09-11 18:09:57 Metrocall [0439711] D  ALPHA  APRIL 353-9205 RE:PHONES AT 3HC OF FAYETTEVILLE HAVE NOT BEEN TRANSFERRED
+2001-09-11 18:09:57 Metrocall [0544296] C  ALPHA  T7856 [LCJDB1] NoTone (14 chan): Monroe/CNN H3 TC0:*, Brandon/CMT H1-3 TC7:*, Brandon/COURT H1-3 TC9:*, Brandon/FOX NEW
+2001-09-11 18:09:58 Arch [0796660] B  ALPHA  (17)Nov01 FMS PT Status. PT 31, PT41, PT43 On hold due to Web OE issues. No ETC at this time. PT44 on hold due to FM sev2 12005 and VS386, ETC 2 hours Jay Minnick 913-433-8684 
+2001-09-11 18:09:58 Arch [0722741] B  ALPHA  (**)Nov01 FMS PT Status. PT 31, PT41, PT43 On hold due to Web OE issues. No ETC at this time. PT44 on hold due to FM sev2 12005 and VS386, ETC 2 hours Jay Minnick 913-433-8684 
+2001-09-11 18:09:58 Arch [1223415] B  ALPHA  (17)NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outage count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:58 Arch [0621662] D  ALPHA  NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outage count in NY is 25 DS3s down. SMC=273 BC=4,110,394 NCC tkt# 2041237 dlh
+2001-09-11 18:09:58 Arch [1184247] B  ALPHA  (10)NCC Update 9/11 New York, NY 60 Hudson switch site completely evacuated. DS3 outag
+2001-09-11 18:09:58 Skytel [005049316] B  ALPHA  Robot.ALERT@ELSEG400|Robot ALERT ID-000089788|Simulated order record count difference: 13431 - 13500   
+2001-09-11 18:09:58 Skytel [005130342] B SH/TONE 368-9232
+2001-09-11 18:09:58 Skytel [005136736] A SH/TONE 86      
+2001-09-11 18:09:58 Skytel [002406381] D  ALPHA  Phone Networks Report Heavy Volume, Clogged Cells Circuits[DJ NEWS]
+2001-09-11 18:09:59 Metrocall [0088900] B  ALPHA  One PM Incremental Score - Score has completed successfully.0 Txt: ******************** This transmission may contain information that is privileged, confidential
+2001-09-11 18:09:59 Metrocall [0498535] B  ALPHA  T7856 [LCJDB1] NoTone (14 chan): Monroe/CNN H3 TC0:*, Brandon/CMT H1
+2001-09-11 18:09:59 Metrocall [1306622] D  ALPHA  18:16 HUB1 SYSA PORT6           NO >MAJ Network port UDP fault - Network port UDP fault
+2001-09-11 18:09:59 Metrocall [0544296] C  ALPHA  S H1-2:*, Jackson/CMT INS3 TC7:*, Jackson/COURT INS3 TC9:*, Jackson/CNN INS1 TC0:*, Natchez/CNN H8 TC0:*, Monroe/FOX NEWS
+2001-09-11 18:09:59 Metrocall [0897977] C  ALPHA  18:16 HUB1 SYSA PORT

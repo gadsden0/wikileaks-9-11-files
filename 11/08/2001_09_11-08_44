@@ -1,0 +1,282 @@
+2001-09-11 08:44:00 Metrocall {1174094} 2 2400 6621621....
+2001-09-11 08:44:01 Arch [0545241] C  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 0470022A from cluster 1095 to cluster 2028), status C3AE181B, extended status 00000032. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-11 08:44:01 Arch [1635918] D  ALPHA  |MyVisto Alerts <aler|New Email at jt@visto.com|F: ckly2.15@lists.postmastergeneral.com S: APPLY NOW for VISA Futu |
+2001-09-11 08:44:01 Arch [0788454] B  ALPHA  215-5285
+2001-09-11 08:44:01 Arch [0225917] D  ALPHA  Super-User <root|NerveCenter DOWN!|Failed to receive Nervecenter heartbeat! Customer/Device: 108399 - 169.144.2.187 Event ID: 286397 This message sent by netcool1-marconi-0-pit 
+2001-09-11 08:44:01 Arch [0588844] D  ALPHA  <322> MAX N/ 770-294-1156 WOULD LIKE TO MEET WITH YOU AT YOUR EARLIEST CONVINENCE PLS CALL
+2001-09-11 08:44:01 Arch [0903622] B  ALPHA  Super-User <root|NerveCenter DOWN!|Failed to receive Nervecenter heartbeat! Customer/Device: 108399 - 169.144.2.187 Event ID: 286397 This
+2001-09-11 08:44:01 Skytel [005426959] D  ALPHA  @08:35 CMC/VZ ECHOS/A SO CICS SUPPORT REPORTED NO CONNECTION FROM XCICPD00 (AOR) TO VIMSLU01(PDVI). SUPPORT ARE INVESTIGATING.STARTING 08:21(813-272-9206)(T1677905)(EOM) (83
+2001-09-11 08:44:01 Skytel [005074566] B ST NUM  900-922-0049   
+2001-09-11 08:44:01 Skytel [007578245] B ST NUM  410-854-7676   
+2001-09-11 08:44:01 Skytel [005132167] B SH/TONE 6300    
+2001-09-11 08:44:03 Arch [0903622] B  ALPHA   message sent by netcool1-marconi-0-pit 
+2001-09-11 08:44:03 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2231
+2001-09-11 08:44:03 Metrocall [0815484] D  ALPHA  Frm: Dallas Simmons Sub: FW: ADV5808-advance sign Txt: I have issued a work order for the repairs needed at your store. Please allow up t
+2001-09-11 08:44:03 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2231
+2001-09-11 08:44:03 Metrocall [0121134] D  ALPHA  New voice mail received.
+2001-09-11 08:44:03 Metrocall [1145309] D  ALPHA  48-I HAVE TO GO TO WAL-MART AND DO MY 
+2001-09-11 08:44:03 Skytel [004677264] A  ALPHA  mcdl3u0s:  run_tripwire: ALERT: Detected 2 filesystem changes on 09/11/01:08:35:47.  2026319,2025973 Page Internet Unix and Internet Security.  added:   -rw------- root         1204 Sep 11 07:43:36 2001 /usr/local/bin/nohup.out  changed: dr
+2001-09-11 08:44:03 Skytel [004746519] B ST NUM  348-203-2505   
+2001-09-11 08:44:03 Skytel [002464788] B SH/TONE 8854 (60
+2001-09-11 08:44:03 Skytel [007573279] D SH/TONE 8224    
+2001-09-11 08:44:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7053
+2001-09-11 08:44:05 Metrocall [0815484] D  ALPHA  o Three (3)days for the repairs to be completed. Before approvi
+2001-09-11 08:44:05 Metrocall [1145309] D  ALPHA  ORIENTATION. I'LL CALL YOU WHEN !1/2 048
+2001-09-11 08:44:05 Skytel [004398508] D  ALPHA  WILL HAVE PERPOSIL AFTER 10AM.  ANYTIME BETWEEN 2PM AMD 5PM  WOULD BE GREAT.
+2001-09-11 08:44:05 Skytel [004452268] D SH/TONE 238-0666
+2001-09-11 08:44:05 Skytel {1092655} 3 2400 002293    
+2001-09-11 08:44:06 Skytel {0152736} 3 1200 806-477-3016   
+2001-09-11 08:44:06 Skytel {0388483} 1 1200 424-4990  
+2001-09-11 08:44:06 Skytel {0439133} 3 1200 406  
+2001-09-11 08:44:06 Skytel {1551415} 3 1200 4444 
+2001-09-11 08:44:07 Arch [0915357] D  ALPHA  Super-User <root|NerveCenter DOWN!|Failed to receive Nervecenter heartbeat! Customer/Device: 108399 - 169.144.2.187 Event ID: 286397 This message sent by netcool1-marconi-0-pit 
+2001-09-11 08:44:07 Arch [0038170] C  ALPHA  Super-User <root|NerveCenter DOWN!|Failed to receive Nervecent
+2001-09-11 08:44:07 Arch [0282998] B  ALPHA  Super-User <root|NerveCenter DOWN!|Failed to receive Nervecenter heartbeat! Customer/Device: 108399 - 169.144.2.187 Event ID: 286397 This message sent by netcool1-marconi-0-pit 
+2001-09-11 08:44:07 Arch [0028074] C  ALPHA  Super-User <root|NerveCenter DOWN!|Failed to receive Nervecent
+2001-09-11 08:44:07 Arch [1427773] D  ALPHA  Super-User <root|NerveCenter DOWN!|Failed to receive Nervecenter heartbeat! Customer/Device: 108399 - 169.144.2.187 Event ID: 286397 This message sent by netcool1-marconi-0-pit 
+2001-09-11 08:44:07 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 180555. 
+2001-09-11 08:44:07 Arch [1071865] C  ALPHA  From: PS
+2001-09-11 08:44:07 Skytel {1495079} 3 1200 637-4748  
+2001-09-11 08:44:09 Arch [0038170] C  ALPHA  er heartbeat! Customer/Device: 108399 - 169.144.2.187 Event ID: 286397 This message sent by netcool1-marconi-0-pit 
+2001-09-11 08:44:09 Arch [0028074] C  ALPHA  er heartbeat! Customer/Device: 108399 - 169.144.2.187 Event ID: 286397 This message sent by netcool1-marconi-0-pit 
+2001-09-11 08:44:09 Arch [0605900] D  ALPHA  Update X4236083. PROB: Funlove Virus at KCMART IMP: Affecting 33 workstations. STATUS: Desktop technicians are on site and addressing individual workstations. No servers infected at this time. Peoplesoft has been ch
+2001-09-11 08:44:09 Arch [1071865] C  ALPHA  0MDA@WSPVM4.WORLDSPAN.COM From: Mike Agosta 770-563-6577 Good Morning. Give me a call when you get a chance. Thanks.
+2001-09-11 08:44:10 Arch [0605900] D  ALPHA  ecked and cleared. Bridge
+2001-09-11 08:44:11 Metrocall [1396913] A  ALPHA  RE: FSE Dsptch: Subcase:c58307-1   sn:2684  CM-CORRECTIVE MAINT  ENT:Reagent Rental    rLAV Viromed Laboratories, Inc.  57687000  Minnetonka MN  Ann  Reuter  952-931-0077/5011  CD:09/11/01 05:40:35  PO#: Nancy_Rodgers
+2001-09-11 08:44:11 Metrocall [1830195] A  ALPHA  From: kevin   .Date: Sep 11 08:45.Subject: GOOD MORNING. DO YOU HAVE WHEELS TODAY? PLEASE CALL
+2001-09-11 08:44:11 Metrocall [1639104] A  ALPHA  (From AUTO01) IR:1283760 JOB:FLDL568Z ABD:JCLERROR P:3 ON D
+2001-09-11 08:44:12 Arch [0605900] D  ALPHA  is in progress with Sitman(Anita) 800-733-4822*3. NXTUPD: 09:37 9/11/2001...Chris/EM
+2001-09-11 08:44:13 Metrocall [0049479] B  ALPHA  #06 PLS CALL RICHARD @ 949-737-2056 RE; I WILL NOT BE IN TODAY STILL SICK
+2001-09-11 08:44:13 Metrocall [002534573] D  ALPHA  CALL ME - 354- 1404
+2001-09-11 08:44:13 Metrocall [1560464] A  ALPHA  MESSAGE WAITING * 460-9004
+2001-09-11 08:44:13 Metrocall [1639104] A  ALPHA  ALA 09/11 07:41
+2001-09-11 08:44:13 Metrocall [1064377] C  ALPHA  US 10513/10421 -001 USH 10514 USL 10510 SP110150/10140+0580 SPH110280 SPL109420 DJ _9680/_9710 +050 ND 13840/13820 +145 ED 96645/96690/6595 629/592/550/525/496 TY 10709  FV 
+2001-09-11 08:44:14 Arch [0971036] D  ALPHA  1
+2001-09-11 08:44:14 Metrocall [0728246] B  ALPHA  19JD18510(CD-MYB) S5 17193 TERESA TAYLOR PRINTER HP LASER JET 1100 IS FEED
+2001-09-11 08:44:14 Metrocall [0725739] C  ALPHA  (141544)01:PLS TAKE TKTS 1394220 & 1394221 - Flagler Hospital ON DEAN/42137 BOARD - HE'S NOT RESPNDG TO P1 PGS - YOU SHOW AS B/U - THANKS - P1 - MLW
+2001-09-11 08:44:14 Metrocall [1064377] C  ALPHA  10612+ FSS9511/523/520/501 FLG 11462/11401 -61 FEI9578/607/624/623
+2001-09-11 08:44:14 Skytel {0717237} 1 2400 RF BUENOS DIAS, NOS REPORTAN USUARIOS PINES 5672230 Y 5672232 F2 NAL NO RECEPCION DE MJES. EN COL. SAN PEDRO GARZA GARCIA A UNA CUADRA DE LAS OFNAS. MTY. PODRIAN VERIFICAR SI HAY ALGUN PROBLEMA. NOS COMENTAN QUE HA LLOVIDO MUCHO. GRACIAS. ALICIA M. CC 7777777.
+2001-09-11 08:44:16 Arch [1004636] D  ALPHA  520-8812
+2001-09-11 08:44:16 Arch [0923675] C  ALPHA  Exchange Adminis|PCA4210_SOFTDEV : Backup Exec Jo|'Backup Exec Job Aborted' alarm received from PCA4210_SOFTDEV at 8:38AM on 9/11/01 A 'Backup Exec Job Aborted' trap signifies a job has been aborted. Job Name : Full Backup User Account : PC
+2001-09-11 08:44:16 Arch [1033426] A  ALPHA  'Backup Exec Job Aborted' alarm received from PCA4210_SOFTDEV at 8:38AM on 9/11/01 A 'Backup Exec Job Aborted' trap signifies a job has been aborted. Job Name : Full Backup User Account : PCA4210_SOFT
+2001-09-11 08:44:16 Arch [1030028] D  ALPHA  829
+2001-09-11 08:44:18 Arch [1047373] D  ALPHA  ccorning|working from home. will dial in at 9:30. thanks. Cathy   
+2001-09-11 08:44:18 Arch [0926389] B  ALPHA  45-PLEASE CALL STEVE PLANT ON CELL PHONE AT 401-255-5484 BEFORE 9 AM. IF POSSIBLE.
+2001-09-11 08:44:18 Arch [1049538] A  ALPHA  wboehmle|If found, please call John Boehmler at 610.348.8774. Thank you.   
+2001-09-11 08:44:20 Arch [1008813] D  ALPHA  (22)Update X4236083. PROB: Funlove Virus at KCMART IMP: Affecting 33 workstations. STATUS: Desktop technicians are on site and addressing individual workstations. No servers infected at this time. Peoplesoft has been checked and cleared. Bridge
+2001-09-11 08:44:20 Arch [1407837] D  ALPHA  (26)Update X4236083. PROB: Funlove Virus at KCMART IMP: Affecting 33 workstations. STATUS: Desktop technicians are on site and addressing individual workstations. No servers infected at this time. Peoplesoft has been checked and cleared. Bridge
+2001-09-11 08:44:20 Metrocall [1696985] C  ALPHA  Frm: Super-User Sub: No Response Txt: Ping from adsa1000 to silverstream(144.11.101.44) failed
+2001-09-11 08:44:20 Metrocall [1457370] C  ALPHA  Frm: Super-User Sub: No Response Txt: Ping from adsa1000 to silverstream(144.11.101.44) failed
+2001-09-11 08:44:22 Arch [1407837] D  ALPHA  (27)is in progress with Sitman(Anita) 800-733-4822*3. NXTUPD: 09:37 9/11/2001...Chris/EM
+2001-09-11 08:44:22 Arch [1008813] D  ALPHA  (23)is in progress with Sitman(Anita) 800-733-4822*3. NXTUPD: 09:37 9/11/2001...Chris/EM
+2001-09-11 08:44:22 Arch [0931847] B  ALPHA  TOM.KELLY@chase.|Hello Tony, Your going to miss Tom Fogarty's meeting....... Tom... 
+2001-09-11 08:44:22 Arch [0971520] A  ALPHA  35-PLS CALL LEEANN RE: GLADSTONE AT 803-322-1592.
+2001-09-11 08:44:22 Metrocall [1225273] C  ALPHA  Please start keying. Thanks :)
+2001-09-11 08:44:22 Metrocall [0668457] C  ALPHA  From: PS0MDA@WSPVM4.WORLDSPAN.COM From: Mike Agosta 770-563-6577 Good Morning. Give me a call when you get a chance. Thanks.
+2001-09-11 08:44:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9976
+2001-09-11 08:44:27 Arch [0187632] A  ALPHA  (31)Update X4236083. PROB: Funlove Virus at KCMART IMP: Affecting 33 workstations. STATUS: Desktop technicians are on site and addressing individual workstations. No servers infected at this time. Peoplesoft has been checked and cleared. Bridge
+2001-09-11 08:44:27 Arch [0464112] A  ALPHA  (15)Update X4236083. PROB: Funlove Virus at KCMART IMP: Affecting 33 workstations. STATUS: Desktop technicians are on site and addressing individual workstations. No servers infected at this time. Peoplesoft has been checked and cleared. Bridge
+2001-09-11 08:44:27 Arch [1123642] C  ALPHA  (28)monitor.sprintco|Load External Internet Orders|AMOS INTERNET ORDERS: MYPOINTS_BATCH 54 
+2001-09-11 08:44:29 Arch [0187632] A  ALPHA  (32)is in progress with Sitman(Anita) 800-733-4822*3. NXTUPD: 09:37 9/11/2001...Chris/EM
+2001-09-11 08:44:29 Arch [0464112] A  ALPHA  (16)is in progress with Sitman(Anita) 800-733-4822*3. NXTUPD: 09:37 9/11/2001...Chris/EM
+2001-09-11 08:44:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3624
+2001-09-11 08:44:31 Skytel [002853252] B  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:31 Skytel [007100810] C ST NUM  202-307-4242 U (1   
+2001-09-11 08:44:31 Skytel [003947521] A ST NUM  732-245-0037   
+2001-09-11 08:44:31 Skytel [005225860] B SH/TONE 125     
+2001-09-11 08:44:31 Skytel [003943687] B ST NUM  956-982-3971   
+2001-09-11 08:44:31 Skytel [003268232] C  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:31 Skytel [005484809] C ST NUM  510-863-1900   
+2001-09-11 08:44:31 Skytel [005362446] D  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 05:44:38 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 08:44:31 Skytel [004386825] C SH/TONE 229     
+2001-09-11 08:44:31 Skytel [005095169] A  ALPHA  SSIADMIN@labs.wyeth.com|Fwd:WEBST3 FTP Service is RUNNING.|Received: from wyeth-mail.labs.wyeth.com  by labs2.labs.wyeth.com; Tue, 11 Sep 2001 08:42:03 -0400 Received: from wyeth-mail.labs.wyeth.com ([10.229.13.102])  by wyeth-mail.labs.wye
+2001-09-11 08:44:33 Arch [0971119] D  ALPHA  0425871472 * 15/393 SOUTH SIDE ELECTRIC 60 HUDSON ST 9TH    FLR XO- MANHATTAN N (201)487-8050       TIC 1631171657 NEXT 09/11  5@156 5@956 TT PETER ***** OOP NOW ***156-5 AT EAST NEEDED THANX -  Order Changed
+2001-09-11 08:44:33 Metrocall [002460595] A  ALPHA  029302.084146,KROGER # 202,5X10 COVERAGE, LANE 2.3,R5.,/PRTS DARK LINES ON CK,//FRONT,CAROLYN 584084.,(304)277-3260.,K24,COD=N.I4694,00KZC14,09/11/01,2.1211 WARWOOD AVE,.
+2001-09-11 08:44:33 Metrocall [0923494] B  ALPHA  618- From Thomas, Scott E. Sub:Tripuka is done!
+2001-09-11 08:44:33 Skytel [004527634] A ST NUM  603-633-8433   
+2001-09-11 08:44:33 Skytel [003055115] C ST NUM  732-805-7378   
+2001-09-11 08:44:33 Skytel [004743829] B ST NUM  201-586-8873   
+2001-09-11 08:44:33 Skytel [007461399] B ST NUM  510-477-2299   
+2001-09-11 08:44:33 Skytel [004686108] D  ALPHA  vantive.1024566@getronics.com|'.Vantive.'|PR:1581503;Esc1;pri2;ph:614430-2308;per:Taguiam;loc:Worthin;Solver needs to have user's GEMMS password reset;;asgn:Oracle - GEMMS;log:Sep 11;srvr:RES3WNT336;prog:Kelloggs                            
+2001-09-11 08:44:33 Skytel [002347798] B SH/TONE 236-7777
+2001-09-11 08:44:33 Skytel [005353887] D SH/TONE 704-9033
+2001-09-11 08:44:33 Skytel [003924628] B SH/TONE 5768    
+2001-09-11 08:44:33 Skytel [004435596] D ST NUM  9006095352
+2001-09-11 08:44:35 Metrocall [1064391] B  ALPHA  LME FUTURES       MCU_1446/1447 +002 MAL 1369/1371 -007 MAA 1146/1148 -009 MNI 5090/5100 -040 MSN 3775/3780 +000 MPB 4800/4810 +000 MZN _831/_833 -004
+2001-09-11 08:44:35 Metrocall [002460595] A  ALPHA  WHEELING,WV,26003
+2001-09-11 08:44:35 Metrocall [0528304] A  ALPHA  Hi, Do you want me to cancel Campbell Hill scheduled at 11 
+2001-09-11 08:44:35 Skytel [005524391] B  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:35 Skytel [004625450] C  ALPHA  RF BUENOS DIAS, NOS REPORTAN USUARIOS PINES 5672230 Y 5672232 F2 NAL NO RECEPCION DE MJES. EN COL. SAN PEDRO GARZA GARCIA A UNA CUADRA DE LAS OFNAS. MTY
+2001-09-11 08:44:35 Skytel [004071718] B ST NUM  380-7965 (1    
+2001-09-11 08:44:35 Skytel [005095330] A SH/TONE 479068  
+2001-09-11 08:44:35 Skytel [004680353] A SH/TONE 573-7444
+2001-09-11 08:44:35 Skytel [005114031] D ST NUM  698-4738 U
+2001-09-11 08:44:35 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb12 login content match error on step 2, https://192.168.67.89/cmsonline/main/cmslogin.jsp    ****************************************************************
+2001-09-11 08:44:35 Skytel [003904813] D  ALPHA  Cluster resource MSD
+2001-09-11 08:44:35 Skytel [007551277] D  ALPHA  "Please call Pat (404) 648-3414 re AMS01-0910-084550. Pat"  
+2001-09-11 08:44:35 Skytel [007610277] B  ALPHA  oraerp@gpsd003a.corporate.ge.com|gpsorp77 has Long Holding Sessions Tue Sep 11 08:39:10 EDT 2001|             87                            
+2001-09-11 08:44:35 Skytel [004751406] D SH/TONE 217     
+2001-09-11 08:44:35 Skytel [007513123] A  ALPHA  DUTYMGR> SOLECTRON EAST: SEV1 Users in bldg 5 unable to access internet from server PRXNC1 at 06:11 
+2001-09-11 08:44:37 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 180562. 
+2001-09-11 08:44:37 Arch [0044467] A  ALPHA  89340
+2001-09-11 08:44:37 Arch [0927835] C  ALPHA  48-I FOUND THE SHOES ON THE COUCH. SORRY, KAREN.
+2001-09-11 08:44:37 Skytel [004625450] C  ALPHA  . PODRIAN VERIFICAR SI HAY ALGUN PROBLEMA. NOS COMENTAN QUE HA LLOVIDO MUCHO. GRACIAS. ALICIA M. CC 7777777
+2001-09-11 08:44:37 Skytel [003472947] A SH/TONE 18      
+2001-09-11 08:44:37 Skytel [003051058] A ST NUM  301-440-1301 (95    
+2001-09-11 08:44:37 Skytel [004541627] C  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:37 Skytel [003857470] D SH/TONE 372-6413
+2001-09-11 08:44:37 Skytel [004024864] A  ALPHA  ****** This transmission may contain information 
+2001-09-11 08:44:37 Skytel [003896497] A SH/TONE 331-9087
+2001-09-11 08:44:37 Skytel [004447281] A  ALPHA  516-647-7892 U
+2001-09-11 08:44:37 Skytel [005354302] D ST NUM  619-526-9958   
+2001-09-11 08:44:37 Skytel [007556018] A  ALPHA  LORRAINE MARCHAND RETURNING YOUR CALL 252 4596. SHE IS FREE BEFORE 10:30AM OR AFTER 12NOON AND AWAITING YOUR CALL. CINDY
+2001-09-11 08:44:37 Skytel [007610277] B  ALPHA                               
+2001-09-11 08:44:37 Skytel [007511996] D  ALPHA  sstone@Intrado.com|Qwest Update:|Incident has been escalated to 2nd level at Qwest at 4:46 am MT. No
+2001-09-11 08:44:37 Skytel [002558651] C SH/TONE 505     
+2001-09-11 08:44:37 Skytel [004433337] C ST NUM  351-  1-1336-47
+2001-09-11 08:44:37 Skytel [005004722] A  ALPHA  R CALEF      500 HIGH POIN#   714HD682-2277 CC 1 TUES           4146 971
+2001-09-11 08:44:37 Skytel [004731824] A  ALPHA  can you call me real quick at work?  thanks  Tom - Thomas Madigan * wcomnet.com paging
+2001-09-11 08:44:39 Metrocall [0528304] A  ALPHA  a.m. today? tx, bon
+2001-09-11 08:44:39 Skytel [005170497] A SH/TONE 4216    
+2001-09-11 08:44:39 Skytel [002352437] B  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:39 Skytel [003704624] A SH/TONE 2657 (33
+2001-09-11 08:44:39 Skytel [005507529] C  ALPHA  Need u to sign in and need u to work with Emmanuel on the 10th Floor Today - Jim
+2001-09-11 08:44:39 Skytel [002350257] A  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:39 Skytel [004416711] B ST NUM  888-447-3824-598242 
+2001-09-11 08:44:39 Skytel [002781637] B ST NUM  712-334-4123   
+2001-09-11 08:44:39 Skytel [002791371] C SH/TONE 796-6666
+2001-09-11 08:44:39 Skytel [005201603] A  ALPHA  5757646 PCK WNDMIN KELL, WALTER 8509948191 W KELL HOME 227
+2001-09-11 08:44:39 Skytel [007045940] B  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:39 Skytel [005254849] A SH/TONE 362-0919
+2001-09-11 08:44:39 Skytel [005044289] A SH/TONE 71001   
+2001-09-11 08:44:39 Skytel [003512394] C SH/TONE 65400   
+2001-09-11 08:44:39 Skytel [002688969] C  ALPHA  wendy.johnson@steritech.com||ESR: Robert, Ray Taylor w/Sunrise Grill 352-343-7744 cockroaches still in kitchen, wants problem eliminated. Thanks.  
+2001-09-11 08:44:39 Skytel [002268365] D SH/TONE 2036334 
+2001-09-11 08:44:39 Skytel [003437519] D ST NUM  617-634-5350   
+2001-09-11 08:44:39 Skytel [005059783] B SH/TONE 225-1255
+2001-09-11 08:44:39 Skytel [007555908] B SH/TONE 42894   
+2001-09-11 08:44:40 Arch [0976000] A  ALPHA  /: 09/11 09:00 am - 10:00 am Candidate LTS Session (Harrelson Rm) 
+2001-09-11 08:44:40 Arch [0478154] C  ALPHA  (26)Update X4236083. PROB: Funlove Virus at KCMART IMP: Affecting 33 workstations. STATUS: Desktop technicians are on site and addressing individual workstations. No servers infected at this time. Peoplesoft has been checked and cleared. Bridge
+2001-09-11 08:44:40 Arch [0936800] A  ALPHA  FYI: new brazilian members w/cash option are unable to log in. Investigating. Ph
+2001-09-11 08:44:40 Arch [1425204] B  ALPHA  (7)Update X4236083. PROB: Funlove Virus at KCMART IMP: Affecting 33 workstations. STATUS: Desktop technicians are on site and addressing individual workstations. No servers infected at this time. Peoplesoft has been checked and cleared. Bridge
+2001-09-11 08:44:40 Skytel [005363280] A  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:40 Skytel [005508691] A  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:40 Skytel [005251794] A ST NUM  1-800-573-1960-2021 
+2001-09-11 08:44:40 Skytel [005362519] B  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:40 Skytel [005508703] D  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:40 Skytel [002740183] B ST NUM  941-275-8288   
+2001-09-11 08:44:40 Skytel [007554523] C  ALPHA  TR#C1196039 custs unable to access ese
+2001-09-11 08:44:40 Skytel [005000405] B  ALPHA  8045537118 911/ INC/ TSD 1706373/ switch/ no incoming or outgoing/ 6160 14th St NW/ Bradenton,FL/ dispatched Bell South Equipment <BROMAN-05:43PT NBCAV>
+2001-09-11 08:44:40 Skytel [003950297] C SH/TONE 5767    
+2001-09-11 08:44:40 Skytel [007610333] D  ALPHA  oraerp@gpsd003a.corporate.ge.com|gpsorp77 has Long Holding Sessions Tue
+2001-09-11 08:44:40 Skytel [007610454] B ST NUM  916-201-1777   
+2001-09-11 08:44:40 Skytel [002352349] D  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:40 Skytel [002374366] D  ALPHA  mcdl3u0s:  run_tripwire: ALERT: Detected 2 filesystem changes on 09/11/01:08:35:47.  2026319,2025973 Page Internet Unix and Internet S
+2001-09-11 08:44:42 Arch [0478154] C  ALPHA  (27)is in progress with Sitman(Anita) 800-733-4822*3. NXTUPD: 09:37 9/11/2001...Chris/EM
+2001-09-11 08:44:42 Arch [1425204] B  ALPHA  (8)is in progress with Sitman(Anita) 800-733-4822*3. NXTUPD: 09:37 9/11/2001...Chris/EM
+2001-09-11 08:44:42 Skytel [003260513] A  ALPHA  kr@ansmtp.ariba.com|prod crit ANErrorDispatcher-1691105@app17.snv died quickly.  Check /tmp/an/keepRunning-ANErrorDispatcher-1691105@app17.snv-27130.1-DEAD |<EOM>  
+2001-09-11 08:44:42 Skytel [002673263] D  ALPHA  kr@ansmtp.ariba.com|prod crit ANErrorDispatcher-1741105@app20.snv died 
+2001-09-11 08:44:42 Skytel [007554523] C  ALPHA  rvices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:42 Skytel [007610735] D SH/TONE 11400   
+2001-09-11 08:44:42 Skytel [005259375] D ST NUM  703-808-4353   
+2001-09-11 08:44:42 Skytel [005343062] B  ALPHA  (04357892)RA:2423382:GOOD SAMARITAN HOS:Bob:631 376 3048:RXLRH:TRBH:Wants fse for ongoing Sampler problems.  ASAP.
+2001-09-11 08:44:42 Skytel [005436525] D  ALPHA  IBM Multimedia 6676-IX_T2107
+2001-09-11 08:44:42 Skytel [007610333] D  ALPHA   Sep 11 08:39:10 EDT 2001|             87                                                         
+2001-09-11 08:44:42 Skytel [005202415] D SH/TONE 406-9600
+2001-09-11 08:44:42 Skytel [004569187] A  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:42 Skytel [003260497] A ST NUM  800-538-2244   
+2001-09-11 08:44:42 Skytel [004199652] B  ALPHA  @08:35 CMC/
+2001-09-11 08:44:42 Skytel [002374366] D  ALPHA  ecurity.  added:   -rw------- root         1204 Sep 11 07:43:36 2001 /usr/local/bin/nohup.out  changed: dr
+2001-09-11 08:44:42 Skytel [005508706] A  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:42 Skytel [004419421] D SH/TONE 234     
+2001-09-11 08:44:42 Skytel [002820462] D ST NUM  1) 555555 
+2001-09-11 08:44:42 Skytel [002820201] C  ALPHA  jpall
+2001-09-11 08:44:43 Metrocall [0903053] D  ALPHA  2698/LISA /BILOXI REG/228 436 1241/No Msg.
+2001-09-11 08:44:43 Metrocall [1457072] A  ALPHA  CALL ME WHEN YOU GET A CHANCE BOGGS 6380
+2001-09-11 08:44:43 Metrocall [1560616] C  ALPHA  09/11@07:41:37 WNTPRIME:The server has encountered a network error.
+2001-09-11 08:44:43 Metrocall [1423721] C  ALPHA  09/11@07:41:37 WNTPRIME:The server has encou
+2001-09-11 08:44:43 Metrocall [002118707] A  ALPHA  09/11@07:41:37 WNTPRIME:The server has encountered a network error.
+2001-09-11 08:44:43 Metrocall [002563102] D  ALPHA  John McFadden: LSWICLS IR#489235/300 -John Lowe 920-426-7670 -Oshkosh WI - Ops Cntr - User is receiving an error 
+2001-09-11 08:44:44 Arch [0982189] D  ALPHA  410 993-6654
+2001-09-11 08:44:44 Arch [0935720] C  ALPHA  Chris AMY TEST PAGE
+2001-09-11 08:44:44 Metrocall [1785380] B  ALPHA  cancel confined space
+2001-09-11 08:44:44 Metrocall [1423721] C  ALPHA  ntered a network error.
+2001-09-11 08:44:44 Metrocall [002563102] D  ALPHA  msg when they click on Notes Icon on desktop 09-11-01 07:40AM CDT
+2001-09-11 08:44:44 Metrocall [0493765] B  ALPHA  A.D. holding on 1224. pd
+2001-09-11 08:44:44 Metrocall [0572362] C  ALPHA  PNA 352 2622 5TH AVE *MC KEESPORT* WANTS COKE HOOKED UP
+2001-09-11 08:44:44 Skytel [002673263] D  ALPHA  quickly. Check /tmp/an/keepRunning-ANErrorDispatcher-1741105@app20.snv-28690.1-DEAD|<EOM>  
+2001-09-11 08:44:44 Skytel [005508605] D  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:44 Skytel [002554465] A ST NUM  8007598255
+2001-09-11 08:44:44 Skytel [007605600] A SH/TONE 563-6000
+2001-09-11 08:44:44 Skytel [004431587] A SH/TONE 799-8000
+2001-09-11 08:44:44 Skytel [003782648] C  ALPHA  PLEASE C
+2001-09-11 08:44:44 Skytel [007481974] B SH/TONE 07734   
+2001-09-11 08:44:44 Skytel [004569599] D  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:44 Skytel [005351419] C  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:44 Skytel [003066870] B SH/TONE 99 (52  
+2001-09-11 08:44:44 Skytel [004524770] A  ALPHA  wor-PegasusSatelliteTV-MarlboroM
+2001-09-11 08:44:44 Skytel [004199652] B  ALPHA  VZ ECHOS/A SO CICS SUPPORT REPORTED NO CONNECTION FROM XCICPD00 (AOR) TO VIMSLU01(PDVI). SUPPORT ARE INVESTIGATING.STARTING 08:21(813-272-9206)(T1677905)(EOM) (34
+2001-09-11 08:44:44 Skytel [007560696] C ST NUM  877-611-6088   
+2001-09-11 08:44:44 Skytel [005352821] B ST NUM  609-364-0571   
+2001-09-11 08:44:44 Skytel [004400614] B SH/TONE 2309    
+2001-09-11 08:44:44 Skytel [002352634] C ST NUM  732-562-4221   
+2001-09-11 08:44:44 Skytel [005039350] B  ALPHA  TR#C1196
+2001-09-11 08:44:44 Skytel [002820201] C  ALPHA  @stepan.com|Re: Air itinerary change required| Change itinerary as appropriate - your decision.  $100 not an issue.  JSP                                                                                                                   
+2001-09-11 08:44:44 Skytel [005199737] C SH/TONE 8686    
+2001-09-11 08:44:45 Metrocall {1078849} 1 2400 |.3~L.?f
+2001-09-11 08:44:46 Arch [1255307] C  ALPHA  80-I'M SENDING THE FAX RIGHT NOW. LIMOR
+2001-09-11 08:44:46 Arch [0706952] C  ALPHA  (21)Update X4236083. PROB: Funlove Virus at KCMART IMP: Affecting 33 workstations. STATUS: Desktop technicians are on site and addressing individual workstations. No servers infected at this time. Peoplesoft has been checked
+2001-09-11 08:44:46 Skytel [003782648] C  ALPHA  ALL DEBBIE KAIN 263 8666
+2001-09-11 08:44:46 Skytel [002937347] A ST NUM  371123 (20
+2001-09-11 08:44:46 Skytel [005509874] A  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:46 Skytel [004524770] A  ALPHA  : CPE Down at 01:47:37 on 9/11
+2001-09-11 08:44:46 Skytel [004754055] B ST NUM  18007598255 (2 
+2001-09-11 08:44:46 Skytel [004411781] B ST NUM  713-2122 U
+2001-09-11 08:44:46 Skytel [004129284] B SH/TONE 13001   
+2001-09-11 08:44:46 Skytel [005239549] D ST NUM  58) 99999 
+2001-09-11 08:44:46 Skytel [005039350] B  ALPHA  039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:46 Skytel [004689277] D  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:46 Skytel [005352824] C  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:48 Arch [0624117] B  ALPHA  Update X4236083. PROB: Funlove Virus at KCMART IMP: Affecting 33 workstations. STATUS: Desktop technicians are on site and addressing individual workstations. No servers infected at this time. Peoplesoft has been checked and cleared. Bridge
+2001-09-11 08:44:48 Arch [0706952] C  ALPHA   and cleared. Bridge
+2001-09-11 08:44:48 Skytel [004085140] B ST NUM  455-5555-55    
+2001-09-11 08:44:48 Skytel [005101587] A  ALPHA  (0270319274)(E) CaseId: 1576868 From: Will Susko Please call customer Will Susko with Bank of America at 1-800-467-6050 opt 2, opt 0
+2001-09-11 08:44:48 Skytel [003411096] C SH/TONE 2125    
+2001-09-11 08:44:48 Skytel [004539283] A  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:50 Arch [0706952] C  ALPHA  (22)is in progress with Sitman(Anita) 800-733-4822*3. NXTUPD: 09:37 9/11/2001...Chris/EM
+2001-09-11 08:44:50 Arch [0624117] B  ALPHA  is in progress with Sitman(Anita) 800-733-4822*3. NXTUPD: 09:37 9/11/2001...Chris/EM
+2001-09-11 08:44:50 Skytel [002738594] A ST NUM  204-264-5424   
+2001-09-11 08:44:50 Skytel [005354281] C  ALPHA  TR#C1196039 custs unable to access eservices.metdental.com. Esc to Admin PRC. -CSD 
+2001-09-11 08:44:50 Skytel [005004717] D  ALPHA  M SCARCELLA  123 FREMONT ST      HS835-3078 CC 1 COMPL SUN PAP..4111 951
+2001-09-11 08:44:50 Skytel [004690086] B SH/TONE 23      
+2001-09-11 08:44:52 Arch [0905006] D  ALPHA  IVR ALERT <_IVRA|IVR Alert from SH IVR|This is an alert from SH IVR running on ntivr1.conseco.com (192.168.1.65). On Sep 11, 2001 at 07:41:37AM, 2 occurrences of "Host Problem or Error From Greeting" were logged. 
+2001-09-11 08:44:52 Arch [0922120] C  ALPHA  43-PLEASE CALL DAN AT 410-925-6968.
+2001-09-11 08:44:52 Skytel [005004732] D  ALPHA  W SHUM       2 MCCANDLESS CT     WN624-0539 CC 1 TUESDAY        5156 942
+2001-09-11 08:44:52 Skytel [0717237] B  ALPHA  RF BUENOS DIAS, NOS REPORTAN USUARIOS PINES 5672230 Y 5672232 F2 NAL NO RECEPCION DE MJES. EN COL. SAN PEDRO GARZA GARCIA A UNA CUADRA DE LAS OFNAS. MTY. PODRIAN VERIFICAR SI HAY ALGUN PROBLEMA. NOS COMENTAN QUE HA LLOVIDO MUCHO. GRACIAS. ALICIA M. CC
+2001-09-11 08:44:52 Skytel [005507132] D SH/TONE 22      
+2001-09-11 08:44:52 Skytel [005066430] D  ALPHA  root@athena.abaton.com|athena rebooted @ Tue Sep 11 07:45:00 CDT 2001|see /var/adm/messages  
+2001-09-11 08:44:52 Skytel [005093695] D SH/TONE 309-9717
+2001-09-11 08:44:53 Skytel [0717237] B  ALPHA   7777777
+2001-09-11 08:44:53 Skytel [004591436] D SH/TONE 237     
+2001-09-11 08:44:55 Arch [0470730] C  ALPHA  (19)Update X4236083. PROB: Funlove Virus at KCMART IMP: Affecting 33 workstations. STATUS: Desktop technicians are on site and addressing individual workstations. No servers infected at this time. Peoplesoft has been checked and cleared. Bridge
+2001-09-11 08:44:55 Arch [1008813] D  ALPHA  (24)Update X4236083. PROB: Funlove Virus at KCMART IMP: Affecting 33 workstations. STATUS: Desktop technicians are on site and addressing individual workstations. No servers infected at this time. Peoplesoft has been checked and cleared. Bridge
+2001-09-11 08:44:55 Arch [1617628] D  ALPHA  GPMS# 01705262 P3 reassigned portable luttinger,jeanne 1-212-783-5357.  Description:  718-248-3085 LIC/21 -- will not turn on even   after undocking and redocking it
+2001-09-11 08:44:55 Arch [1401115] C  ALPHA  Please call Ops @ 212-623-0710
+2001-09-11 08:44:55 Arch [0924212] B  ALPHA  277-9061
+2001-09-11 08:44:55 Skytel [005191379] A  ALPHA  rb210024@exchange.DAYTONOH.NCR.com|WGST|  Message : Site: 6414; INFO ONLY; CRIT; CC/DD; New; 9/11/2001 7:40:02 AM: ...per brian roath  all but 2 regs are up...thanks,alm   
+2001-09-11 08:44:57 Arch [1008813] D  ALPHA  (25)is in progress with Sitman(Anita) 800-733-4822*3. NXTUPD: 09:37 9/11/2001...Chris/EM
+2001-09-11 08:44:57 Arch [1276419] A  ALPHA  CANT BRING IT DOWN EVERYONE WILL KNOW :( 096
+2001-09-11 08:44:57 Arch [0470730] C  ALPHA  (20)is in progress with Sitman(Anita) 800-733-4822*3. NXTUPD: 09:37 9/11/2001...Chris/EM
+2001-09-11 08:44:57 Skytel [005379296] A SH/TONE 28840   
+2001-09-11 08:44:57 Skytel [004398949] B SH/TONE 513     
+2001-09-11 08:44:57 Skytel [004090221] D SH/TONE 9315 (19
+2001-09-11 08:44:57 Skytel [002786924] D SH/TONE 7406    
+2001-09-11 08:44:59 Arch [0925717] B  ALPHA  |ILS: Case Close,B704546,P3,Title:9/11/01-TA: CMS: CAT6000- TACACSPROBLEM WITH THE CUT AND PASTE,Owner:JGORHAM,Site/Contract:TRAVELERS PROPERTY CASUALTY/1013841,Contact:DAVID FROST@860-636-7474 |-- ILS ID: A125976723-S60621|223  
+2001-09-11 08:44:59 Arch [0986052] B  ALPHA  |Reminder- CMB/UOne support 877-526-8245-147741 | ** Calendar Appointment ** Date: 9/11/01 Start: 9:00 am End: 9:00 am What: CMB/UOne support 877-526-8245-147741|161  
+2001-09-11 08:44:59 Arch [0945069] D  ALPHA  "RCDN Campus" <a|RCDN6 Bldg 6 - 1st Floor FIRE_ALM Bldg 6 - 1st Floor Fire panel general alarm. * 
+2001-09-11 08:44:59 Skytel [005523455] D ST NUM  904-819-3506   
+2001-09-11 08:44:59 Skytel [004592766] D  ALPHA  rb210024@exchange.DAYTONOH.NCR.com|WGST|  Message : Site: 6414; INFO ONLY; CRIT; CC/DD; New; 9/11/2001 7:40:02 AM: ...per brian roath  all but 2 regs are up...thanks,alm   
+2001-09-11 08:44:59 Skytel [007100277] B  ALPHA  rb210024@exchange.DAYTONOH.NCR.com|WGST|  Message : Site: 6414; INFO ONLY; CRIT; CC/DD; New; 9/11/2001 7:40:02 AM: ...per brian roath  all but 2 regs are up...thanks,alm   
+2001-09-11 08:44:59 Skytel [005208061] D  ALPHA  893-6760
+2001-09-11 08:44:59 Skytel [003998964] B  ALPHA  PAPA: POR FAVOR COMUNICATE A LA CASA. MARISOL. (2 (4

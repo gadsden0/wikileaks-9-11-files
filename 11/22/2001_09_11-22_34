@@ -1,0 +1,201 @@
+2001-09-11 22:34:00 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7883
+2001-09-11 22:34:00 Arch [0930127] D  ALPHA  626 351-8403
+2001-09-11 22:34:00 Skytel [003454579] A ST NUM  761-945-5915   
+2001-09-11 22:34:00 Skytel [007641456] A SH/TONE 111     
+2001-09-11 22:34:00 Skytel [007109749] B ST NUM  0-940-000-1179 
+2001-09-11 22:34:01 Skytel [005319813] B ST NUM  210-729-7644   
+2001-09-11 22:34:01 Skytel [002361863] B  ALPHA  PAGEING,1,Application TODI ERROR 1 0 4096 19:32  09/11/01
+2001-09-11 22:34:01 Skytel [002401551] D  ALPHA  PLEASE CALL OWEN DUFFY AT 212-620-5414.
+2001-09-11 22:34:01 Skytel [002153481] C ST NUM  312-628-3933   
+2001-09-11 22:34:01 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 19:34:04 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 22:34:03 Skytel [003918236] D  ALPHA  3148.A T T COMPANY       
+2001-09-11 22:34:03 Skytel [002464788] B SH/TONE 8854 (66
+2001-09-11 22:34:03 Skytel [007009695] D ST NUM  9002009168
+2001-09-11 22:34:03 Skytel [002849561] C  ALPHA  afms@net.com|The node didn't respond to a ping| 
+2001-09-11 22:34:04 Arch [1150227] A  ALPHA  02-THERE WILL BE NO TRAINING TOMORROW. I WILL PAGE TOMORROW WITH FURTHER DETAILS. CARRIE. !1/2 002
+2001-09-11 22:34:04 Arch [1238892] D  ALPHA  (6)68:ABS: Tkt:5003985, Sev:3, TIQ:137min, Sname:XXX, CIS Id:13097293, Contact:MIN HWANG/CUST @ 6093450500 Note:SLOW RESPONSE/ORIG IP ADDRESS 144.232.8.93/TERM IP 151.164.72.234/ CURRENT RESPONSE 800-1500//NORMAL RES UNDER 100///NON-INTRUSIVE
+2001-09-11 22:34:04 Metrocall [002106623] D  ALPHA  SEV:2 RESTORE:GA IDXRad Trans Reports Down -Attachmate Problem?*LOC:ROC Georgia*STATUS:Service has been restored, severity downgraded to SEV2 due to user impact*END:18:58 PT*DURATION:Hrs: 10 Min: 38*PM:1247017
+2001-09-11 22:34:04 Metrocall [1282850] A  ALPHA  SEV:2
+2001-09-11 22:34:04 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4453
+2001-09-11 22:34:04 Metrocall [002583816] C  ALPHA  SEV:2 RESTORE:GA IDXRad Trans Reports Down -Attachmate Problem?*LOC:ROC Georgia*STATUS:Service has been restored, severity downgraded to SEV2 due to user impact*END:18:58 PT*DURATION:Hr
+2001-09-11 22:34:05 Skytel [005001895] B  ALPHA  [sps/170] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/mar/healthcheck_sps.asp) 2:09:53
+2001-09-11 22:34:05 Skytel [005230123] C ST NUM  730-548-3964   
+2001-09-11 22:34:06 Arch [1150227] A  ALPHA  02- IF QUESTIONS, PLEASE CALL 917-273-8776. !2/2 002
+2001-09-11 22:34:06 Metrocall [002583816] C  ALPHA  s: 10 Min: 38*PM:1247017
+2001-09-11 22:34:06 Metrocall [1282850] A  ALPHA   RESTORE:GA IDXRad Trans Reports Down -Attachmate Problem?*LOC:ROC Georgia*STATUS:Service has been restored, severity downgraded to SEV2 due to user impact*END:18:58 PT*DURATION:Hrs: 10 Min: 38*PM:1247017
+2001-09-11 22:34:06 Skytel {0710235} 1 1200 429-1477  
+2001-09-11 22:34:06 Skytel {1891159} 3 1200 4444 
+2001-09-11 22:34:10 Skytel {1108233} 3 2400 512-267-4756   
+2001-09-11 22:34:11 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 189997. 
+2001-09-11 22:34:11 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-11 22:34:11 Arch [1184418] A  ALPHA  GOOD EVENING... FUNDS(04) HAS CLOSED ITS BUSINESS DAY.... AT 10:33 PM ET..
+2001-09-11 22:34:13 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-11 22:34:13 Arch [0072864] A  ALPHA  1260-002-002
+2001-09-11 22:34:15 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-11 22:34:15 Arch [1242173] D  ALPHA  80882360000-911
+2001-09-11 22:34:15 Arch [1050348] D  ALPHA  swellnit|can we kill the backups on nirvana for cco-sj-3.ccodg, as they are going 24 hours and todays backups have started but the diskgroup can't be deported   
+2001-09-11 22:34:16 Metrocall [1903245] D  ALPHA  N: WH SERVER SAA-NDM02 DOWN 1641 CTL
+2001-09-11 22:34:16 Metrocall [002292748] D  ALPHA  N: WH SERVER SAA-NDM02 DOWN 1641 CTL
+2001-09-11 22:34:16 Metrocall [002471972] B  ALPHA  SEV:2 RESTORE:GA IDXRad Trans Reports Down -Attachmate Problem?*LOC:ROC Georgia*STATUS:Service has been restored, sever
+2001-09-11 22:34:16 Metrocall [1544391] B  ALPHA  SEV:2 RESTORE:GA IDXRad Trans Reports Down -Attachmate Problem?*LOC:ROC Georgia*STATUS:Service has been restored, severity downgraded to SEV2 due to user impact*END:18:58 PT*DURATION:Hrs: 10 Min: 38*PM:1247017
+2001-09-11 22:34:17 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-11 22:34:17 Metrocall [002462321] A  ALPHA  77-PLS CALL MY MOM AS SOON AS YOU GET THE CHANCE. NO MATTER THE HR.  !1/2 077
+2001-09-11 22:34:17 Metrocall [002471972] B  ALPHA  ity downgraded to SEV2 due to user impact*END:18:58 PT*DURATION:Hrs: 10 Min: 38*PM:1247017
+2001-09-11 22:34:17 Metrocall [002462321] A  ALPHA  77- -BRICA (229)435-8650 !2/2 07
+2001-09-11 22:34:17 Metrocall [1064377] C  ALPHA  SED96980/97130/9703 9665/9628/9582/9528 SEY9994/991/991/990 SSI _9735/_9715-565 JGB 13881/13714 -12 US  10514/10422 +00 SP107500/10140+0000 DJ _9630/_9665 +000 ND 13360/13820 +000 TY 10712+ FV 10616  TU 103
+2001-09-11 22:34:19 Arch [0930818] A  ALPHA  "Tristan Reeve" |hope dinner's going well, clearly talent & hard work has been recognized. call me for debrief at ENDEX. TR 
+2001-09-11 22:34:19 Arch [0966655] D  ALPHA  hpmille 75734-B/L-  MB Upd 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am per customer.  NO CHANGE.  Sen
+2001-09-11 22:34:19 Arch [0900779] C  ALPHA   Sub:WTC UPDATE #10b  Msg:      WTC UPDATE #10b BEGINS AT 10PM ON TUE SEP 11, 2001                                                             <?xml:namespace prefix = o ns = "urn:schemas-microsoft-co
+2001-09-11 22:34:19 Arch [1660247] B  ALPHA  hpmille 75734-B/L-  MB Upd 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am per customer.  NO CHANGE.  Sent at 21:31      
+2001-09-11 22:34:19 Arch [0926807] B  ALPHA  hpmille 75734-B/L-  MB Upd 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am per customer.  NO CHANGE.  Sent at 21:31      
+2001-09-11 22:34:19 Arch [0951184] A  ALPHA  481-5196
+2001-09-11 22:34:19 Metrocall [0551861] B  ALPHA  INNS-AP:CLMBMSMA   ;254IC0035;;M1/HCGS/359915    /SC
+2001-09-11 22:34:19 Metrocall [002462321] A  ALPHA  7
+2001-09-11 22:34:19 Metrocall [1064377] C  ALPHA  28+
+2001-09-11 22:34:21 Arch [0966655] D  ALPHA  t at 21:31      
+2001-09-11 22:34:23 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0806
+2001-09-11 22:34:24 Arch [0980928] A  ALPHA  hpmille 75734-B/L-  MB Upd 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am per customer.  NO CHANGE.  Sent at 21:31      
+2001-09-11 22:34:24 Arch [0978397] D  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK 
+2001-09-11 22:34:24 Arch [1359851] C  ALPHA  root <root@janus|Message from DataMon-SASAT: laxlstr2: 200109120230: 0 files instead of 1 of type *.sa.sat.wxl arrived in laxlstr2:/home/monitor/mounts/laxlstr/laxlstr2/twc/wxl_satellite_clips in the
+2001-09-11 22:34:24 Arch [1050266] C  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:25 Arch [0926767] D  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baske
+2001-09-11 22:34:25 Arch [1629007] D  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:26 Arch [0978397] D  ALPHA  for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:26 Arch [0926767] D  ALPHA  ts - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:28 Arch [0942110] D  ALPHA  GOOD EVENING... FUNDS(04) HAS CLOSED ITS BUSINESS DAY.... AT 10:33 PM ET..
+2001-09-11 22:34:28 Arch [1403489] A  ALPHA  GOOD EVENING... FUNDS(04) HAS CLOSED ITS BUSINESS DAY.... AT 10:33 PM ET..
+2001-09-11 22:34:28 Arch [0971081] C  ALPHA  GOOD EVENING... FUNDS(04) HAS CLOSED ITS BUSINESS DAY.... AT 10:33 PM ET..
+2001-09-11 22:34:28 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-11 22:34:28 Arch [1275056] A  ALPHA  GOOD EVENING... FUNDS(04) HAS CLOSED ITS BUSINESS DAY.... AT 10:33 PM ET..
+2001-09-11 22:34:28 Arch [1378809] C  ALPHA  GOOD EVENING... FUNDS(04) HAS CLOSED ITS BUSINESS DAY.... AT 10:33 PM ET..
+2001-09-11 22:34:29 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3062
+2001-09-11 22:34:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3062
+2001-09-11 22:34:30 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-11 22:34:31 Skytel [004678281] C  ALPHA  J: Call 718-802-9734 re Sarver or cell
+2001-09-11 22:34:31 Skytel [004677894] B  ALPHA  yellowst@soco.agilent.com||HUNG: stang64 (ET51607) testing ESG-D4000B US41312573 at SOURCES_YSII Slot #24  
+2001-09-11 22:34:31 Skytel [003932173] D ST NUM  204-648-8551-911    
+2001-09-11 22:34:31 Skytel [004517382] B ST NUM  657-329-2044   
+2001-09-11 22:34:32 Arch [0983275] C  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:32 Arch [0976989] D  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baske
+2001-09-11 22:34:32 Arch [0916116] B  ALPHA  Host UNIX Mvmnt problem.  /movement/seq/verify/0308/STORESEQ not updated in 87868 seconds  See details in file: /movement/beep/hmv0004b.log on the item movement box(s). :( 
+2001-09-11 22:34:32 Arch [1410805] B  ALPHA  (10)Host UNIX Mvmnt problem.  /movement/seq/verify/0308/STORESEQ not updated in 87868 seconds  See details in file: /movement/beep/hmv0004b.log on the item movement box(s). :( 
+2001-09-11 22:34:32 Arch [1034476] D  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:32 Arch [0770346] C  ALPHA  PLS CALL MARC SILVER AT EXT 5020
+2001-09-11 22:34:33 Skytel [007567760] A SH/TONE 265-2170
+2001-09-11 22:34:33 Skytel [003070998] B SH/TONE 1277 (78
+2001-09-11 22:34:33 Skytel [007040275] A  ALPHA  ddecore@us.ibm.com||UNUM BI=Y FYI <MVS2 IPL problem  - automation problem>  
+2001-09-11 22:34:33 Skytel [005066253] D  ALPHA  NJT says,"As crews&equipment become avail, NJT will operate a load&go rail service out PennStation NY on the NortheastCorridor toTrenton.At this time&until further notice there is NO inbound service into Newark on the NE Corridor."  
+2001-09-11 22:34:34 Arch [0976989] D  ALPHA  ts - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:35 Skytel [005000868] B SH/TONE 0500    
+2001-09-11 22:34:35 Skytel [004756264] C ST NUM  719-473-8128   
+2001-09-11 22:34:35 Skytel [007659433] C SH/TONE 9000    
+2001-09-11 22:34:35 Skytel [007588521] C SH/TONE 3364    
+2001-09-11 22:34:35 Skytel [005124652] D ST NUM  388-8691-1
+2001-09-11 22:34:36 Arch [0969251] A  ALPHA  Peter Phares|got your page with Val's number- THANKS!!! Peter ||63  
+2001-09-11 22:34:37 Skytel [0001336] C  ALPHA  ]!z00]"AX];0a]<4Breaking News:  ]<2Latest reports indicate that at least 800 people were killed in the Pentagon with another 100-800 missing...]$ (14
+2001-09-11 22:34:37 Skytel [007578550] B SH/TONE 373-8999
+2001-09-11 22:34:37 Skytel [005209013] B  ALPHA  TwoWay.2408762944@messaging.nextel.com|Nextel Two-Way Message|81/66   (23
+2001-09-11 22:34:37 Skytel [003473722] C SH/TONE 2309    
+2001-09-11 22:34:37 Skytel [002847797] B  ALPHA  DUTYMGR> NCO ALL: SEV1 D03DB025 has notes unavailable as of 20:15 MT. Support has been contacted and is working to resolve. No ETR. - 1-866-814-2831
+2001-09-11 22:34:37 Skytel [004413502] D ST NUM  U    *         * *  
+2001-09-11 22:34:37 Skytel [004532157] D SH/TONE 1 (6    
+2001-09-11 22:34:38 Arch [0948216] C  ALPHA  (22)hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:38 Arch [0163974] B  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:38 Arch [1131960] C  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baske
+2001-09-11 22:34:38 Arch [0976352] A  ALPHA  (12)hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:38 Arch [0294023] B  ALPHA  HELLO.. PLEASE CALL THE REPORTER'S LINE.. RE: 11 PM.. MIKE
+2001-09-11 22:34:38 Arch [0076486] B  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:38 Metrocall [1064374] B  ALPHA  YEN  119.40/50 -032 EUR  0.9097/02 -006 CHF  1.6460/80 +055 GBP  1.4725/35 -026 CAD  1.5627/37 -010 AUD  0.5165/70 -030  NZD  0.4285/92 -020 DEM  2.1488/00 +014  E/C  1.4991/96 -164 E/Y  108.99/09 +034 E
+2001-09-11 22:34:39 Arch [1131960] C  ALPHA  ts - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:39 Skytel [007555918] D  ALPHA  ddecore@us.ibm.com||UNUM BI=Y FYI <MVS2 IPL problem  - automation problem>  
+2001-09-11 22:34:39 Skytel [007115074] A ST NUM  661-513-0965   
+2001-09-11 22:34:39 Skytel [005109961] C  ALPHA  NT Service LOTUS DOMINO SERVER on ukmeeting01c has Stopped @ 22:32 09/11/01
+2001-09-11 22:34:39 Skytel [005004865] A  ALPHA  SSeer Err: SiteScope/Web Servers/BroadVision Login for Host2 Akamai On/7269/10.92 sec, 10 steps, 69K total/
+2001-09-11 22:34:39 Skytel [002936906] C SH/TONE 86285   
+2001-09-11 22:34:39 Skytel [002553162] C SH/TONE 2       
+2001-09-11 22:34:39 Skytel [002390344] C  ALPHA  mepdqfs@hotmail.com|Girls With Animals: What the other sites won't show you!        jfeveussf|   Girls With Animals: What the other sites won't show you! Girls with Dogs, Cats, Horses, Donkeys, Snakes, Pigs, Sheep Goats, Rat
+2001-09-11 22:34:39 Skytel [003943744] A  ALPHA  auntqq@yahoo.com||Its great! From Q Q  __________________________________________________ Do You Yahoo!? Get email alerts & NEW webcam video instant messaging with Yahoo! Messenger http://im.yahoo.com  
+2001-09-11 22:34:40 Metrocall [1064374] B  ALPHA  /S  0.6163/66 -029 USD     113.41 +003
+2001-09-11 22:34:40 Metrocall [1283042] A  ALPHA  SEV:2 RESTORE:GA IDXRad Trans Reports Down -Attachmate Problem?*LOC:ROC Georgia*STATUS:Service has been restored, severity downgraded to SEV2 due to user impact*END:18:58 PT*DURAT
+2001-09-11 22:34:41 Arch [1426759] B  ALPHA  67
+2001-09-11 22:34:41 Skytel [003952599] B ST NUM  459-584-4665   
+2001-09-11 22:34:41 Skytel [007491551] D SH/TONE 5063    
+2001-09-11 22:34:41 Skytel [005051613] D  ALPHA  NACNRC2@motorola.com||P1 Elmsford System Case 064414 Update: nysys: all GPROCs' utilization are under 42%;  nysys4: all GPROCs' utilization are under 47%;   ffsys:  all GPROCs' utilization are under 47%;  gcsys:  GPROCs' utilization are und
+2001-09-11 22:34:41 Skytel [002390344] C  ALPHA  s, Elephants, an
+2001-09-11 22:34:41 Skytel [004107867] C ST NUM  *    *         * *  
+2001-09-11 22:34:41 Skytel [005059295] D  ALPHA  DUTYMGR> NCO ALL: SEV1 D03DB025 has notes unavailable as of 20:15 MT. Support has been contacted and is working to resolve. No ETR. - 1-866-814-2831
+2001-09-11 22:34:41 Skytel [002812885] B  ALPHA  NACNRC2@motorola.com||-CRITICAL Elmsford System Case 064414 Update: nysys: all GPROCs' utilization are under 42%;  nysys4: all GPROCs' utilization are under 47%;   ffsys:  all GPROCs' utilization are under 47%;  gcsys:  GPROCs' utilization 
+2001-09-11 22:34:42 Metrocall [1283042] A  ALPHA  ION:Hrs: 10 Min: 38*PM:1247017
+2001-09-11 22:34:43 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-11 22:34:43 Arch [0920915] A  ALPHA  516 681-8877
+2001-09-11 22:34:43 Skytel [007553888] A  ALPHA  896-6731No Answer Southfield Backup 248-552
+2001-09-11 22:34:43 Skytel [007589225] C SH/TONE 3375    
+2001-09-11 22:34:45 Arch [0507846] B  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:45 Arch [0900159] D  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items wi
+2001-09-11 22:34:45 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-11 22:34:45 Arch [1284371] A  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10
+2001-09-11 22:34:45 Arch [0769433] C  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:45 Arch [0509235] A  ALPHA  (23)This is a test page. C
+2001-09-11 22:34:45 Arch [0922216] C  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:45 Skytel [002382588] D SH/TONE 99      
+2001-09-11 22:34:45 Skytel [003940721] A  ALPHA  AUTOPAGER@dm4fa2.de.sc.ti.com|AEX10 to SPCD|AEX10 moved TO SPCD from LBQU on 01/09/11 at 21:34:37 COMMENTS: MOVED TO STATE SPCD BY SPC CHART PQ-OLRROT  
+2001-09-11 22:34:45 Skytel [005100153] C  ALPHA  yellowst@soco.agilent.com||HUNG: stang64 (ET51607) testing ESG-D4000B US41312573 at SOURCES_YSII Slot #24  
+2001-09-11 22:34:45 Skytel [007491583] D ST NUM  U    *         * *  
+2001-09-11 22:34:45 Skytel [004701816] C ST NUM  219-757-6023   
+2001-09-11 22:34:45 Skytel [003327216] A  ALPHA  002570 CYCLIC TEST 
+2001-09-11 22:34:45 Skytel [005345524] B SH/TONE 304-7806
+2001-09-11 22:34:45 Skytel [002357369] C  ALPHA  002570 CYCLIC TEST 
+2001-09-11 22:34:45 Skytel [0001403] C  ALPHA  ]!z00]"AX];0a]<4Breaking News:  ]<2Latest reports indicate that at least 800 people were killed in the Pentagon with another 100-800 missing...]$ (68
+2001-09-11 22:34:45 Skytel [002139900] D SH/TONE 002570  
+2001-09-11 22:34:46 Skytel [007541378] A SH/TONE 474-0714
+2001-09-11 22:34:46 Skytel [007494020] B ST NUM  544-077-3414-32
+2001-09-11 22:34:47 Arch [0900159] D  ALPHA  th "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:47 Arch [1284371] A  ALPHA  pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:47 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-11 22:34:47 Arch [0509235] A  ALPHA  all 9135345916 to verify please.
+2001-09-11 22:34:47 Metrocall [1898727] B  ALPHA  SEV:2 RESTORE:GA IDXRad Trans Reports Down -Attachmate Problem?*LOC:ROC Georgia*STATUS:Service has been restored, severity downg
+2001-09-11 22:34:47 Metrocall [1786373] B  ALPHA  Frm: System Attendant Sub: LHREXCHANGE Running since 9/11/01 10:34 PM The server is running Txt: LHREXCHANGE Running since 9/11/01 10:34 PM The server is running.
+2001-09-11 22:34:48 Skytel [004677264] A  ALPHA  SSeer Err: SiteScope/Web Servers/BroadVision Login for Host2 Akamai On/7269/10.92 sec, 10 steps, 69K total/
+2001-09-11 22:34:48 Skytel [005311771] C SH/TONE 850395  
+2001-09-11 22:34:49 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-11 22:34:49 Metrocall [1898727] B  ALPHA  raded to SEV2 due to user impact*END:18:58 PT*DURATION:Hrs: 10 Min: 38*PM:1247017
+2001-09-11 22:34:50 Skytel [007588515] A SH/TONE 3372    
+2001-09-11 22:34:51 Arch [0978734] D  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:51 Arch [0282275] A  ALPHA  59-PLEASE CALL MANNY AT 323-469-4332.
+2001-09-11 22:34:51 Arch [1329820] D  ALPHA  212 778-1400
+2001-09-11 22:34:51 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-11 22:34:51 Arch [1612942] D  ALPHA  (10)hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand k
+2001-09-11 22:34:51 Arch [1284332] D  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:51 Arch [1611003] C  ALPHA  (17)hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" B
+2001-09-11 22:34:51 Arch [0968156] D  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:51 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 c
+2001-09-11 22:34:52 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-11 22:34:52 Skytel [007588530] A SH/TONE 3391    
+2001-09-11 22:34:52 Skytel [002406719] D SH/TONE 0500    
+2001-09-11 22:34:52 Skytel [002559417] C SH/TONE 99      
+2001-09-11 22:34:52 Skytel [003703593] C ST NUM  225-9937 (36   
+2001-09-11 22:34:52 Skytel [003927355] C SH/TONE 3207    
+2001-09-11 22:34:53 Arch [1373817] C  ALPHA  TR#629632  CCS/ACCT HISTORY IS UNAVAILABLE```SEV/1 NCC TR#S3041460```SERVER OPS ALSO INVEST, ISSUE    bmoore   ext/7962
+2001-09-11 22:34:53 Arch [1612942] D  ALPHA  eyed.  Sent at 21:32      
+2001-09-11 22:34:53 Arch [1047712] A  ALPHA  TR#629632  CCS/ACCT HISTORY IS UNAVAILABLE```SEV/1 NCC TR#S3041460```SERVER OPS ALSO INVEST, ISSUE    bmoore   ext/7962
+2001-09-11 22:34:53 Arch [0068306] A  ALPHA  512-1195
+2001-09-11 22:34:53 Arch [1611003] C  ALPHA  askets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:53 Arch [0908049] A  ALPHA  TR#629632  CCS/ACCT HISTORY IS UNAVAILABLE```SEV/1 NCC TR#S3041460```SERVER OPS ALSO INVEST, ISSUE    bmoore   ext/7962
+2001-09-11 22:34:53 Arch [1425048] C  ALPHA  onnectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190004. 
+2001-09-11 22:34:53 Arch [1398238] D  ALPHA  knox6060(161.44.216.60): failed ifDescr check, expected: hme0, got: timeout for hme0
+2001-09-11 22:34:54 Arch [0950818] A  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:54 Arch [1046041] C  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:54 Arch [0648251] C  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:54 Arch [0988031] D  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:54 Arch [0967263] D  ALPHA  hpmille 75734-B/L-  MB Upd 3 of 3 - Top Selling Items with "Disaster Item" Baske
+2001-09-11 22:34:54 Skytel [008507076] B  ALPHA  01825h4b1ab01400004g
+2001-09-11 22:34:54 Skytel [007572036] B ST NUM  374-159-1254-11
+2001-09-11 22:34:54 Skytel [005374790] B SH/TONE 460-1585
+2001-09-11 22:34:56 Arch [0967263] D  ALPHA  ts - draft report ON TRACK for 10pm.  GM items hand keyed.  Sent at 21:32      
+2001-09-11 22:34:56 Skytel [004550353] A ST NUM  543-822-5876   
+2001-09-11 22:34:56 Skytel [004747222] B ST NUM  941-1052 (80   
+2001-09-11 22:34:56 Skytel [004679508] B  ALPHA  DSL1115,NEW/HOLD (PRI 0) NO CONF NEEDED, NewYorkMetro(G), (F), (I), & (D) OC3s down as of 21:34, causing 10K user drop. Part of NewYork Disaster. AOL notified. Franck 
+2001-09-11 22:34:56 Skytel [007552087] B ST NUM  749-5870 (94   
+2001-09-11 22:34:58 Skytel [002565985] A ST NUM  804-239-1132   
+2001-09-11 22:34:58 Skytel [005436525] D SH/TONE 50      
+2001-09-11 22:34:58 Skytel [005109476] B  ALPHA  (1 of 2) I wish I may, I wish you might, find some time when you sleep tonight to think of me and I'll appear before your eyes. It's my paradise, you're the one in my heart, my life, my girl. Oh, can't wait to go to sleep cuz there's a poss

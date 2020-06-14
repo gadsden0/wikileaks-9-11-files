@@ -1,0 +1,86 @@
+2001-09-12 01:09:00 Skytel [005170801] A ST NUM  9773327660
+2001-09-12 01:09:00 Skytel [007641456] A SH/TONE 111     
+2001-09-12 01:09:08 Arch [1046295] B  ALPHA  this person to unsubscribe.) * ILS Event: Update * Conditions: Contract ID: 1084099 * Recipients: rosummey@epage.cisco.com * Send e-mails Always * Expires Never * Time Sent|640   -3/3
+2001-09-12 01:09:10 Arch [1046295] B  ALPHA  |ILS: Notes #B828481 for LOCKHEED MARTIN SERVICES, contract 1084099, P1 |This is an ILS summary notification for case B828481 Event: Notes #B828481, Priority 1 Event Time: 11 September 2001 22:09:17 Title: 9/11:US WORLD ATTACK PARTS  -1/3
+2001-09-12 01:09:12 Arch [1359851] C  ALPHA  Generic Monitor |Message from DataMon-SASAT: laxlstr2: 200109120500: 0 files instead of 1 of type *.sa.sat.wxl arrived in laxlstr2:/home/monitor/mounts/laxlstr/laxlstr2/twc/wxl_satellite_clips in the 
+2001-09-12 01:09:12 Arch [1046295] B  ALPHA  REQUEST Site: LOCKHEED MARTIN SERVICES * Contact: RANDY WOOD * Phone/Email: 703 484 5619 / rwoodiii@cisco.com * Contract: 1084099 Case Owner: SSEGAL @ 14085265744 ILS Subscription Information: * Subscriber: rosummey@cisco.com (Contact  -2/3
+2001-09-12 01:09:12 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191740. 
+2001-09-12 01:09:12 Arch [0987275] C  ALPHA  s0191: 09/11 12:20:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:20:24
+2001-09-12 01:09:14 Arch [1359851] C  ALPHA  root <root@janus|Message from DataMon-SASAT: laxlstr2: 200109120500: 0 files instead of 1 of type *.sa.sat.wxl arrived in laxlstr2:/home/monitor/mounts/laxlstr/laxlstr2/twc/wxl_satellite_clips in the
+2001-09-12 01:09:14 Arch [0987275] C  ALPHA  s0191: 09/11 12:28:34 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:28:34
+2001-09-12 01:09:16 Arch [0987275] C  ALPHA  s0191: 09/11 12:31:16 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:31:16
+2001-09-12 01:09:18 Arch [0987275] C  ALPHA  s0191: 09/11 12:36:48 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:36:48
+2001-09-12 01:09:18 Arch [1303204] B  ALPHA  bill_genzoli@adc|Job Succeeded|Backup On PROMPT2 Succeeded (Server: "PROMPT2") Job "Diff" completed successfully. 
+2001-09-12 01:09:19 Metrocall [002589854] D  ALPHA  Frm: sms_alarm@hsmtmr01.entp.attws.com Txt: MF8 not connected to Mainframe application.(swmgr_we)--Sep 11, 2001 22:08
+2001-09-12 01:09:20 Skytel {0554820} 3 1200 8003195569
+2001-09-12 01:09:20 Skytel {0143279} 3 1200 202-685-7650   
+2001-09-12 01:09:20 Skytel {1891159} 3 1200 4444 
+2001-09-12 01:09:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0961
+2001-09-12 01:09:29 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 144W MAJ=NONE
+2001-09-12 01:09:30 Metrocall [002589854] D  ALPHA  Frm: sms_alarm@hsmtmr01.entp.attws.com Txt: MF10 not connected to Mainframe application.(swmgr_sw)--Sep 11, 2001 22:09
+2001-09-12 01:09:30 Metrocall [002589854] D  ALPHA  Frm: sms_alarm@hsmtmr01.entp.attws.com Txt: MF9 not connected to Mainframe application.(swmgr_we)--Sep 11, 2001 22:0
+2001-09-12 01:09:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3217
+2001-09-12 01:09:30 Metrocall [1223431] B  ALPHA  PLEASE CALL DISPATCH NOW
+2001-09-12 01:09:32 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3217
+2001-09-12 01:09:32 Metrocall [002589854] D  ALPHA  9
+2001-09-12 01:09:32 Skytel [005352717] D SH/TONE 3922    
+2001-09-12 01:09:33 Arch [0987275] C  ALPHA  s0191: 09/11 12:44:46 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:44:47
+2001-09-12 01:09:33 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191747. 
+2001-09-12 01:09:33 Skytel [003914134] B  ALPHA  M17EMALL@maillist2001.mot.com|Communication letter from Joe & Nelan| From:         Gao Holly-a11440 > Sent: Wednesday, September 12, 2001 12:55 PM > To:   M17List MOS17 All-M17EMALL > Subject:      Communication metter from Joe & Nelan > Im
+2001-09-12 01:09:33 Skytel [002401821] D  ALPHA  146.22.45.220 DFS047A - UNABLE TO OBTAIN AUTHORIZATION FOR DATA BASE SISRSHDB. REASON CODE = 15.               COPR ussa11.SSMC 
+2001-09-12 01:09:34 Metrocall [002589854] D  ALPHA  Frm: sms_alarm@hsmtmr01.entp.attws.com Txt: MF18 not connected to Mainframe application.(swmgr_we)--Sep 11, 2001 22:09
+2001-09-12 01:09:35 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-12 01:09:35 Skytel [004704807] B SH/TONE 3555    
+2001-09-12 01:09:35 Skytel [005001895] B  ALPHA  [sps/18] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/seem/healthcheck.asp) 2:43:38
+2001-09-12 01:09:35 Skytel [005242798] D SH/TONE 249     
+2001-09-12 01:09:37 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-12 01:09:37 Skytel [005110077] D  ALPHA  wwwsecur@vdom3.netcorps.com||From: Ed Carlson <eeca@chevron.com> To: Cesar <order@koolshirts.com> Subject: Order for shirt!  -------------------------------------- Payment information: Bill to..........: Ed Carlson Billing Address..: 23135 
+2001-09-12 01:09:37 Skytel [005366197] B SH/TONE 75338   
+2001-09-12 01:09:37 Skytel [003954236] D  ALPHA  root@sp1201.idc.ikon.org|"National Lockbox Message"|Nightly PLB reports for OHO are present.  
+2001-09-12 01:09:37 Skytel [005117245] D SH/TONE 728     
+2001-09-12 01:09:37 Skytel [007461693] D SH/TONE 534-7177
+2001-09-12 01:09:39 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-12 01:09:39 Arch [0782097] A  ALPHA  STR21A (Stade, Germany) --> OHR21A (Ohrensen, Germany) is down. TOP-00:24EDT NO ETR. FS dispatched. -- From: SMT - 248.528.7000
+2001-09-12 01:09:39 Arch [1612317] D  ALPHA  RT_CHESTERFIELD  ARCserveIT:  E0015 Job 479: Backup Operation Failed
+2001-09-12 01:09:39 Skytel [005412175] D  ALPHA  42) 703-684-5164-3.MIYAKE MICHELLE     
+2001-09-12 01:09:39 Skytel [004395712] A  ALPHA  pls call 213-989-6456 when in area of HIDTA  Pole
+2001-09-12 01:09:39 Skytel [005002438] B  ALPHA  Watcher: snyc12723: FaxSr_Mailgate4 service has Stopped
+2001-09-12 01:09:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:09:40 Metrocall [002589358] D  ALPHA  111/ 4 hr/ 253191632/ 3260/ Florida Health Scien/ Davis Islands/ Tampa/ Dina Paz/ 813-844-7463/ 09/11/2001 19:17 erangel - SS Screens are black and units not working. Does not know the type of unit. She w
+2001-09-12 01:09:40 Metrocall [1283151] D  ALPHA  : ODC-MAIL02 : "Server ODC-MAIL0
+2001-09-12 01:09:41 Skytel [005254108] D  ALPHA  root@sp1201.idc.ikon.org|"National Lockbox Message"|Nightly PLB reports for OHO are present.  
+2001-09-12 01:09:41 Skytel [005192409] C  ALPHA  DELL 22.57 UNCH EMC 13.95 UNCH AMGN 64.13 UNCH MSFT 57.58 UNCH
+2001-09-12 01:09:41 Skytel [005138014] D  ALPHA  EGRP 0.00 UNCH MSFT 57.58 UNCH CSCO 14.47 UNCH INKT 3.15 UNCH
+2001-09-12 01:09:41 Skytel [007579357] D SH/TONE 555555  
+2001-09-12 01:09:42 Metrocall [1283151] D  ALPHA  2/MSVR/KAIPERM -  There are no longer any pending  documents older than 30 Minutes minutes in mail1.box. "
+2001-09-12 01:09:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #23-IX_T4207
+2001-09-12 01:09:43 Skytel [003973355] C  ALPHA  2) OMI:Falla DID Puebla, solucionado ,se hacen pruebas desde Mty, y la llamada se completa sin problemas..... (4
+2001-09-12 01:09:43 Skytel [005076708] B SH/TONE 329     
+2001-09-12 01:09:43 Skytel [008479203] A  ALPHA  1) 1/2 AMORCITO: AUNQUE CUESTE ESTE MENSAJE. SOLO QUIERO QUE SEPAS QUE DESEO QUE YA ESTES BIEN. QUE TE SIENTAS MEJOR Y
+2001-09-12 01:09:43 Skytel [004571232] A  ALPHA  INTC 26.07 UNCH AMZN 8.63 UNCH DELL 22.57 UNCH MSFT 57.58 UNCH
+2001-09-12 01:09:45 Arch [0918411] C  ALPHA  82-843-509-3070. - REGINA.
+2001-09-12 01:09:45 Metrocall [1283151] D  ALPHA  than 30 Minutes minutes in mail3.box. "
+2001-09-12 01:09:45 Skytel [002382588] D SH/TONE 99      
+2001-09-12 01:09:45 Skytel [005138933] B ST NUM  0-310-635-3906 
+2001-09-12 01:09:45 Skytel [004589819] C SH/TONE 33123   
+2001-09-12 01:09:47 Skytel [005329285] B SH/TONE 2947    
+2001-09-12 01:09:47 Skytel [003587596] D SH/TONE 110 (40 
+2001-09-12 01:09:48 Skytel [004751249] A ST NUM  736-389-5143-6941191
+2001-09-12 01:09:48 Skytel [002847128] C  ALPHA  ORCL 11.46 UNCH MSFT 57.58 UNCH NSCP 0.00 UNCH FMAGX 98.26 UNCH (31
+2001-09-12 01:09:48 Skytel [005212176] A SH/TONE 839-7158
+2001-09-12 01:09:48 Skytel [003045659] C SH/TONE 705-0581
+2001-09-12 01:09:50 Arch [009996141] D  ALPHA  New voice mail received.
+2001-09-12 01:09:50 Skytel [002790438] B ST NUM  622-2843 (43   
+2001-09-12 01:09:51 Metrocall [002589854] D  ALPHA  Frm: sms_alarm@hsmtmr01.entp.attws.com Txt: MF8 not connected to Mainframe application.(swmgr_sw)--Sep 11, 2001 22:09
+2001-09-12 01:09:51 Metrocall [002589854] D  ALPHA  Frm: sms_alarm@hsmtmr01.entp.attws.com Txt: MF13 not connected to Mainframe application.(swmgr_sw)--Sep 
+2001-09-12 01:09:51 Metrocall [1544818] A  ALPHA  ODC-MAIL02 "Server ODC-MAIL02/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail1.box. "
+2001-09-12 01:09:52 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-12 01:09:53 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-12 01:09:53 Metrocall [002589854] D  ALPHA  11, 2001 22:09
+2001-09-12 01:09:54 Skytel [004730819] A SH/TONE 721     
+2001-09-12 01:09:55 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-12 01:09:55 Metrocall [002589854] D  ALPHA  Frm: sms_alarm@hsmtmr01.entp.attws.com Txt: MF5 not connected to Mainframe application.(swmgr_sw)--Sep 11, 2001 22:09
+2001-09-12 01:09:56 Skytel [007040607] D ST NUM  410-547-0997-11
+2001-09-12 01:09:57 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-12 01:09:58 Skytel [005003367] B  ALPHA  root@bur-faxsvr.genuity.com|bur-faxsvr.genuity.com - /bbn is 91% full| 
+2001-09-12 01:09:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8039

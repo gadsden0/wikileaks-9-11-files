@@ -1,0 +1,56 @@
+2001-09-11 05:50:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2057
+2001-09-11 05:50:01 Metrocall [002589906] A  ALPHA  Frm: NPG@alert.sw Sub: MSC-WP3@21h Txt: Access for White Plains 3 is 88.80% at 2100 hrs
+2001-09-11 05:50:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2057
+2001-09-11 05:50:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6879
+2001-09-11 05:50:04 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE N
+2001-09-11 05:50:04 Arch [0418533] B  ALPHA  (31)44:ABS: Tkt:5002626, Sev:2, TIQ:142min, Sname:XXXX, CIS Id:13096525, Contact:CRAIG WINOGRAD @ 5614879692 Note:SL-GW14-ATL,SERIAL5/1/0/3:0 IS DOWN, LINE PROTOCOL IS DOWN, RNA....... ........CJONES/PMC
+2001-09-11 05:50:04 Arch [1238892] D  ALPHA  (8)81:ABS: Tkt:5002626, Sev:2, TIQ:142min, Sname:XXXX, CIS Id:13096525, Contact:CRAIG WINOGRAD @ 5614879692 Note:SL-GW14-ATL,SERIAL5/1/0/3:0 IS DOWN, LINE PROTOCOL IS DOWN, RNA....... ........CJONES/PMC
+2001-09-11 05:50:04 Arch [0479381] B  ALPHA  (8)05:ABS: Tkt:5002722, Sev:2, Dur:3hr, Sname:MERD, CIS Id:13105894, Contact:HAYES RAY @ 8287548441 Note:LINE DOWN: PROACTIVE TICKET CREATED BY NEXUS FOR SPECTRUM. |MODEL|0x12c338ab|lenior.meridian.com|Rtr_Cisco|0x10009|
+2001-09-11 05:50:05 Skytel [003457197] D SH/TONE 6559    
+2001-09-11 05:50:06 Arch [0526654] D  ALPHA  OT  OPEN
+2001-09-11 05:50:06 Skytel {1092655} 3 2400 002235    
+2001-09-11 05:50:19 Arch [1018152] C  ALPHA  (18)oraprod@mail.spr|File system /u21 on dapmdp01 exceeded 80% - Please investigate! 
+2001-09-11 05:50:19 Arch [0970454] B  ALPHA  (27)DO:-*Calculating-Summaries(4:47:30
+2001-09-11 05:50:26 Arch [0000101] B  ALPHA  MSN 003 hello Message from NOC PCB.
+2001-09-11 05:50:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9802
+2001-09-11 05:50:26 Arch [0911134] D  ALPHA   comsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSHH_EQNY1) PDSHH_EQNY1 - HEDGEHOG_HIST: DATA -->> ALLOCATED = 400 MB, USED = 361 MB, FREE = 39 MB, PERCENT_USED = 90% @05:50 09/11/01 
+2001-09-11 05:50:26 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178656. 
+2001-09-11 05:50:31 Metrocall [1064391] B  ALPHA  LME FUTURES       MCU_1440/1442 -004 MAL 1370/1372 -006 MAA 1143/1148 -012 MNI 5070/5100 -060 MSN 3750/3770 -025 MPB 4780/4800 -020 MZN _830/_833 -005
+2001-09-11 05:50:31 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 148W MAJ=NONE
+2001-09-11 05:50:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3450
+2001-09-11 05:50:31 Metrocall [1064379] C  ALPHA   MANILA'S NAPOCOR TO SEEK COAL TENDERS NEXT MONTH
+2001-09-11 05:50:31 Skytel [002384012] D  ALPHA  sybase@iorsnydb-p1.etsd.ml.com|[Warning 1] Blocking process on NYIORS_PRD_SQL1|                     S E R V E R    L O C K    R E P O R T  TIME:   Tue Sep 11 05:50:00 EDT 2001    SERVER: NYIORS_PRD_SQL1   SUMMARY SECTION: ----------------  
+2001-09-11 05:50:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 02:50:15 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:50:31 Skytel [003346696] C SH/TONE 896-0349
+2001-09-11 05:50:31 Skytel [005083404] D SH/TONE 1889    
+2001-09-11 05:50:35 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb8 login content match error on step 2, http://192.168.67.168:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informat
+2001-09-11 05:50:36 Arch [0929338] C  ALPHA  Dina Bailey <DBa|As per your request!|Please find attached file for your review. I look forward to hear from you again very soon. Thank you. 
+2001-09-11 05:50:37 Skytel [005228862] D SH/TONE 2002    
+2001-09-11 05:50:38 Skytel [002380618] C  ALPHA  sybase@iorsnydb-p1.etsd.ml.com|[Warning 1] Blocking process on NYIORS_PRD_SQL1|                     S E R V E R    L O C K    R E P O R T  TIME:   Tue Sep 11 05:50:00 EDT 2001    SERVER: NYIORS_PRD_SQL1   SUMMARY SECTION: ----------------  
+2001-09-11 05:50:38 Skytel [005525323] C SH/TONE 208     
+2001-09-11 05:50:40 Skytel [003945559] B ST NUM  8683241859
+2001-09-11 05:50:40 Skytel [005422295] B ST NUM  627-343-3884   
+2001-09-11 05:50:40 Skytel [002365520] A  ALPHA  sybase@iorsnydb-p1.etsd.ml.com|[Warning 1] Blocking process on NYIORS_PRD_SQL1|                     S E R V E R    L O C K    R E P O R T  TIME:   Tue Sep 11 05:50:00 EDT 2001    SERVER: NYIORS_PRD_SQL1   SUMMARY SECTION: ----------------  
+2001-09-11 05:50:40 Skytel [003785300] B  ALPHA  Warning:Blocking activity at NYIORS_PRD_SQL1.TradeServ, spid=124. Remains for 380 sec.
+2001-09-11 05:50:41 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage detected on CNN: 307 seconds so far 09/11/01 02:48:37 PDT7 621025
+2001-09-11 05:50:42 Skytel [005135973] B  ALPHA  apadmin1@household.com||T512758, THE TNG CAIUXOS AGENT ON PHILDCAP58, HAS DETECTED THAT PROCESS NSPERL,,,KANA HAS FAILED.   
+2001-09-11 05:50:42 Skytel [003481061] B SH/TONE 83      
+2001-09-11 05:50:42 Skytel [004524770] A  ALPHA  spr-WoroncoSavingsBank44-Westfie: CPE Up at 00:59:01 on 9/11
+2001-09-11 05:50:42 Skytel [005436525] D  ALPHA  Test #3-IX_T0602
+2001-09-11 05:50:42 Skytel [005112809] C  ALPHA  04:46CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240416: Uncorrectable write error
+2001-09-11 05:50:42 Skytel [005057390] D  ALPHA  al001dataaege:3.7.002 Service ScanMail_RealTimeScan (ScanMail_RealTimeScan) Has Just Started.
+2001-09-11 05:50:42 Skytel [005226605] D ST NUM  9683241859
+2001-09-11 05:50:43 Arch [0951146] C  ALPHA  811664 .MAXRETRY-PAGE NOC 09/11/01 06:51:06
+2001-09-11 05:50:43 Arch [0976352] A  ALPHA  (12)rbmiddl 73073-DCM-  TCPIP bounce at DC's 6003, 08, 27 and 35 completed at 03:25. IPL of WMP4 on SAH res completed at 04:09. No impacting issues.  Sent at 04:50      
+2001-09-11 05:50:44 Skytel [002382588] D SH/TONE 99      
+2001-09-11 05:50:44 Skytel [004730232] C SH/TONE 394-5263
+2001-09-11 05:50:44 Skytel [003954036] B  ALPHA  ECCFTP01:Device Inaccessible
+2001-09-11 05:50:46 Skytel [003261704] C  ALPHA  greg@tiaranetworks.com|b091101 Failure(s)!|   NCM IC   ~~~ Tue Sep 11 02:50:29 2001 
+2001-09-11 05:50:48 Skytel [005060255] D  ALPHA  From:pokibmxtelb01 Host:aixafs4 Event:errlogactive 
+2001-09-11 05:50:51 Skytel [004041776] A ST NUM  233102 (31
+2001-09-11 05:50:51 Skytel [005258806] B SH/TONE 28871   
+2001-09-11 05:50:52 Metrocall [1064375] B  ALPHA  /FTSE  5116.50  +082 NIKK  10292.95  +097 DAX    4742.40  +072 CAC40  4444.81  +061 MIB30  31850   +0286 HSI  10417.36  +0051 30 _99.02/03  5.438% GOLD271.20/170  -030 S 4.18/20  PL 440.00 PD 450.00/0.00  +000 JG 1.420%
+2001-09-11 05:50:59 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2058
+2001-09-11 05:50:59 Metrocall [1064385] A  ALPHA  JY  8211/8279  -063 EC  8962/8941 -0038 BP 14564/14510 -022 SF  5915/5920  -021 CD  6401/6396  +003 AD  5131/5114  +002 DM  4602/4591  -026 FES 9696/734/74
+2001-09-11 05:50:59 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2058
+2001-09-11 05:50:59 Skytel [005507327] D  ALPHA  strays@Exchange.Microsoft.com|Operations Manager Service Unavailable Alert on APPS-WGA\DF-CLUSA1|One or more services required for Exchange on this server is not running.  To determine all the services presently not running, look at the eve

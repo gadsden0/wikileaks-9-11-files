@@ -1,0 +1,50 @@
+2001-09-11 04:40:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1987
+2001-09-11 04:40:00 Metrocall [0000329] C  ALPHA  THI.I....E....R..D.............................87
+2001-09-11 04:40:03 Skytel [005061905] A  ALPHA  f1700 ind eta 05:20am...f1402 mem eta 06:01am....f1514 mem eta 06:44am-am ctl 347
+2001-09-11 04:40:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6809
+2001-09-11 04:40:04 Arch [0968156] D  ALPHA  From Michael Trace Sub:UKNTS700 currently not processing status messages. Bouncing executive to start logging on Status Manager.  mttrace Msg:
+2001-09-11 04:40:05 Skytel [002405037] D  ALPHA  nms@svcanms.conxion.com|Sep11-01:40|There are 6 active alarms  
+2001-09-11 04:40:06 Arch [0000101] B  ALPHA  MSN 096 hello Message from NOC PCB.
+2001-09-11 04:40:06 Skytel [004754611] A SH/TONE 5225    
+2001-09-11 04:40:09 Metrocall [1544818] A  ALPHA  REG-NS3:Device Inaccessible
+2001-09-11 04:40:09 Metrocall [1397873] A  ALPHA  flame failure #1 main flare.
+2001-09-11 04:40:10 Skytel [005111765] B  ALPHA  f1700 ind eta 05:20am...f1402 mem eta 06:01am....f1514 mem eta 06:44am-am ctl 347
+2001-09-11 04:40:10 Skytel [007557212] D  ALPHA  f1700 ind eta 05:20am...f1402 mem eta 06:01am....f1514 mem eta 06:44am-am ctl 347
+2001-09-11 04:40:14 Skytel [003954036] B  ALPHA  ECCFTP01:Device Accessible,Device Status:Ok
+2001-09-11 04:40:16 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 01:38:42 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 04:40:16 Skytel [007588621] D SH/TONE 3354    
+2001-09-11 04:40:25 Skytel [005436371] A  ALPHA   For your reference, UNICON is currently experiencing difficulty with the Instructor and Student Community Sites. We are receiving an Internal Server Error message when accessing the sites. We are troubleshooting the problem and will  -1/2
+2001-09-11 04:40:25 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job99617 SPAL10P00001 09/11 04:40 EVENTLOG
+2001-09-11 04:40:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9732
+2001-09-11 04:40:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177910. 
+2001-09-11 04:40:27 Skytel [005436525] D  ALPHA  Test Message #33-IX_T0112
+2001-09-11 04:40:27 Skytel [004524770] A  ALPHA  spf-PeterPanBus-SpringfieldMA-38: CPE Up at 00:57:59 on 9/11
+2001-09-11 04:40:27 Skytel [005112809] C  ALPHA  03:36CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240464: Uncorrectable write error
+2001-09-11 04:40:27 Skytel [005226605] D ST NUM  8684241848
+2001-09-11 04:40:29 Skytel [007109749] B SH/TONE 1564    
+2001-09-11 04:40:30 Metrocall [1362298] C  ALPHA  Frm: Optivity@harbortech.com Sub: Operator Attention Txt: Operator Attention is needed. (Server: "OPTIVITY-NJ" Job: "SNMPc & HPOV:Diff" Device: "HP 1") Please insert overwritable media into the drive.
+2001-09-11 04:40:30 Metrocall [1064377] C  ALPHA  US 10514/10422 +000 SP109900/10140+0330 FEI95785/96075/9625 9624/9614/9594/9587 SED 96660/6705/6620 96330/9596/9553/528 SEY9993/991/990/990 FSS9511/526/523/503 FLG 11486/11424 -37 FFI  5106/5150 +073 ND 13795/13820 +090 TY 10712  FV 10615+
+2001-09-11 04:40:32 Metrocall [1282007] B  ALPHA  Frm: DiscountRay@aol.com Sub: Realtors Promotional Gift Calendar Sale Txt: Advertising Specialties & Promotional Gifts 3 SUPER SPECIALS #1 Magnetic Business Card 15 Month Calendar #2 Computer Keyboard / Monitor Calendar #3 Business Card Zippy Letter O
+2001-09-11 04:40:32 Metrocall [1064376] C  ALPHA  GOVPX TREASURY 30__99.03 /05+5.437 10_101.08+/09+4.836 5Y_101.07+/08+4.327 2Y_100.06+/07 3.513   6M   3.110/100      3M   3.170/160
+2001-09-11 04:40:32 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3380
+2001-09-11 04:40:33 Metrocall [1282007] B  ALPHA  pener Serving Real Estate Age
+2001-09-11 04:40:36 Skytel [005228862] D SH/TONE 2002    
+2001-09-11 04:40:38 Skytel [004538828] D SH/TONE 6127    
+2001-09-11 04:40:39 Metrocall [002619200] A  ALPHA  Frm: NC1@enron.com Sub: Txt: pge2verio Node is UP ( Wan-Router ) 198.107.240.98 Tue Sep 11 03:41:08 2001
+2001-09-11 04:40:40 Skytel [005044436] B ST NUM  410-624-5850   
+2001-09-11 04:40:44 Skytel [005094770] A  ALPHA  ORA@csm@netwpro1  
+2001-09-11 04:40:44 Skytel [002357369] C  ALPHA  002212 CYCLIC TEST 
+2001-09-11 04:40:44 Skytel [003327216] A  ALPHA  002212 CYCLIC TEST 
+2001-09-11 04:40:44 Skytel [002139900] D SH/TONE 002212  
+2001-09-11 04:40:46 Skytel [003947407] D  ALPHA  ECCFTP01:Device Accessible,Device Status:Ok
+2001-09-11 04:40:49 Arch [1082628] B  ALPHA  (22)syswatch: HOST/PROCESS - athens:CLIENT DESCRIPTION -tucsfp01-hme0.corp.sprint.com sbd[487]: went online by peer request
+2001-09-11 04:40:50 Metrocall [0776055] B  ALPHA  Medical Box 39-2 13017 MARQUETTE LN (MINETTA & RACE TRACK); A399,MD18 alerted for PARAMEDIC LOCAL; 71 YO MALE PAININ THE CHEST, ARM, UPPER SHOULDER/ HAVING T/B/SWEATY CONSCIOUS AND ALERT; Map 10 @ 044
+2001-09-11 04:40:50 Skytel [005060140] D  ALPHA  ORA@csm@netwpro1  
+2001-09-11 04:40:50 Skytel [005358755] A  ALPHA  Karen_Ritter@Mastercard.com||From:Karen RitterDecision made to fail over BOS to the Lake.  
+2001-09-11 04:40:50 Skytel [002357676] D SH/TONE 449-8888
+2001-09-11 04:40:51 Skytel [005003958] B SH/TONE 04982   
+2001-09-11 04:40:53 Skytel [002357955] A  ALPHA  carolyn.mcnulty@eds.com||Sev 1 Palm - Siebel line down in the UK.  WorldCom escalations are in progress.  #103077  
+2001-09-11 04:40:53 Skytel [003929284] B SH/TONE 213     
+2001-09-11 04:40:55 Skytel [003945950] D  ALPHA  carolyn.mcnulty@eds.com||Sev 1 Palm - Siebel line down in the UK.  WorldCom escalations are in progress.  #103077  
+2001-09-11 04:40:55 Skytel [003276510] D  ALPHA  carolyn.mcnulty@eds.com||Sev 1 Palm - Siebel line down in the UK.  WorldCom escalations are in progress.  #103077  
+2001-09-11 04:40:59 Skytel [002382588] D SH/TONE 99      

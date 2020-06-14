@@ -1,0 +1,63 @@
+2001-09-11 04:13:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1960
+2001-09-11 04:13:00 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs04 Sev:4 # 120012 Reconnect WBS 3.1.14.1 09/11/01 01:12:37 PDT7 Instance: tm-fox/ktvu Module: Transport Details: PID=17121 TID=27 Successfull
+2001-09-11 04:13:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1960
+2001-09-11 04:13:01 Metrocall [0477913] C  ALPHA  y reconnected.
+2001-09-11 04:13:01 Metrocall [1064378] C  ALPHA  FOREX-YEN SKIDS AS RATINGS JITTERS COMPOUND.JA.AN.GL..MB
+2001-09-11 04:13:01 Metrocall [1064395] C  ALPHA  ..# @....................................................................................
+2001-09-11 04:13:02 Metrocall [1064378] C  ALPHA  ...................................................
+2001-09-11 04:13:02 Metrocall [1064395] C  ALPHA  ...........................
+2001-09-11 04:13:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6782
+2001-09-11 04:13:05 Arch [0927369] C  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 04:13:05 Arch [0932748] D  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 04:13:05 Arch [0283793] A  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 04:13:05 Skytel [005437867] C SH/TONE 911281  
+2001-09-11 04:13:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177607. 
+2001-09-11 04:13:20 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage detected on NBC/KPRC: 320 seconds so far 09/11/01 01:11:00 PDT7 621021
+2001-09-11 04:13:20 Metrocall [1064375] B  ALPHA  /FTSE  5107.60  +073 NIKK  10292.95  +097 DAX    4765.83  +095 CAC40  4457.84  +074 MIB30  31842   +0278 HSI  10417.36  +0051 30 _99.0
+2001-09-11 04:13:22 Metrocall [1064375] B  ALPHA  2/03  5.438% GOLD271.35/185  -015 S 4.17/19  PL 439.00 PD 450.00/0.00  +000 JG 1.420%
+2001-09-11 04:13:22 Metrocall [1064385] A  ALPHA  JY  8218/8286  -057 EC  8996/8976 -0007 BP 14562/14508 -018 SF  5935/5940  +000 CD  6398/6390  +000 AD  5150/5133  +017 DM  4602/4591  -026 FES 9695/733/74
+2001-09-11 04:13:23 Arch [0922216] C  ALPHA  tfkelly 47240--  We have no impacting minutes.  Sent at 03:13      
+2001-09-11 04:13:23 Arch [0949088] A  ALPHA  emscmgr3: 45-hkd-c201.s01.dps interface Fa0/21 is down 
+2001-09-11 04:13:23 Arch [0960047] D  ALPHA  [214 566-8848] 495-0848
+2001-09-11 04:13:24 Metrocall [1064385] A  ALPHA  0/32 FDX 4772/4809  +085 PTB 8964/8880  -014 FGBS10356 FYB 13897 BDL 10804/10800-021 BDM 10714-014
+2001-09-11 04:13:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9705
+2001-09-11 04:13:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3353
+2001-09-11 04:13:31 Skytel [002356494] D  ALPHA  : canada lockbox was bypassed - transmission never came across  
+2001-09-11 04:13:31 Skytel [005190658] A  ALPHA  atlanta usc  1166755m  ponyxpress   - Pri  1,  yuho mashimo -  372-4416 or 81-426-60-8514,  Cant access to ponyXpress
+2001-09-11 04:13:33 Skytel [005039640] C  ALPHA  : canada lockbox was bypassed - transmission never came across  
+2001-09-11 04:13:33 Skytel [002675229] D  ALPHA  : canada lockbox was bypassed - transmission never came across  
+2001-09-11 04:13:33 Skytel [005056146] A  ALPHA  : canada lockbox was bypassed - transmission never came across  
+2001-09-11 04:13:36 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177614. 
+2001-09-11 04:13:36 Skytel [0001461] B  ALPHA  GLOBEX   03:11     GEH  9662.5    .5-   GEM    ----   ----   ESU  109825   250+   SPU  109840   270+   NDU  138050B 1000+   6JZ    8284B   59-   6EZ    8971A    9-   6SZ    5938A    2-   6BZ   14508A   20-   6CZ    6389A    1-   
+2001-09-11 04:13:36 Skytel [002365503] D  ALPHA  : canada lockbox was bypassed - transmission never came across  
+2001-09-11 04:13:36 Skytel [003253433] C  ALPHA  : canada lockbox was bypassed - transmission never came across  
+2001-09-11 04:13:36 Skytel [002363198] D  ALPHA  : canada lockbox was bypassed - transmission never came across  
+2001-09-11 04:13:38 Skytel [003055941] B  ALPHA  : canada lockbox was bypassed - transmission never came across  
+2001-09-11 04:13:39 Metrocall [002589700] B  ALPHA  3 Node Up. 2001/09/11 03:09:38
+2001-09-11 04:13:40 Skytel [1800019] A  ALPHA  GLOBEX   03:11     GEH  9662.5    .5-   GEM    ----   ----   ESU  109825   250+   SPU  109840   270+   NDU  138050B 1000+   6JZ    8284B   59-   6EZ    8971A    9-   6SZ    5938A    2-   6BZ   14508A   20-   6CZ    6389A    1-   
+2001-09-11 04:13:40 Skytel [004396511] D  ALPHA  : canada lockbox was bypassed - transmission never came across  
+2001-09-11 04:13:40 Skytel [004398677] B  ALPHA  : canada lockbox was bypassed - transmission never came across  
+2001-09-11 04:13:42 Skytel [003785701] B  ALPHA  : canada lockbox was bypassed - transmission never came across  
+2001-09-11 04:13:42 Skytel [005203941] B  ALPHA  0798*Host health.cch.com HTTP Content Scan DOWN at 03:14:20  
+2001-09-11 04:13:42 Skytel [002814055] B  ALPHA  : canada lockbox was bypassed - transmission never came across  
+2001-09-11 04:13:42 Skytel [002348262] B  ALPHA  : canada lockbox was bypassed - transmission never came across  
+2001-09-11 04:13:42 Skytel [002365935] D  ALPHA  : canada lockbox was bypassed - transmission never came across  
+2001-09-11 04:13:44 Arch [1611003] C  ALPHA  (20)tfkelly 47240--  We have no impacting minutes.  Sent at 03:13      
+2001-09-11 04:13:44 Arch [0978734] D  ALPHA  tfkelly 47240--  We have no impacting minutes.  Sent at 03:13      
+2001-09-11 04:13:44 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|mc0300ux202|CR: 143904 Priority: 3 Assigned to: Summary:: CPU warning or critical alert 
+2001-09-11 04:13:44 Skytel [005450875] C  ALPHA  www.xacct.com: HTTP  Server Recovered [01:17:22]
+2001-09-11 04:13:44 Skytel [004679799] B  ALPHA  : canada lockbox was bypassed - transmission never came across  
+2001-09-11 04:13:44 Skytel [002357369] C  ALPHA  002203 CYCLIC TEST 
+2001-09-11 04:13:44 Skytel [002139900] D SH/TONE 002203  
+2001-09-11 04:13:44 Skytel [003327216] A  ALPHA  002203 CYCLIC TEST 
+2001-09-11 04:13:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 01:13:34 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 04:13:48 Metrocall [0478205] D  ALPHA  PROV 633-1052  RE: MARY BURNS SEP11/3:13
+2001-09-11 04:13:50 Skytel [005047463] B  ALPHA  FYI:PROB136426 Status Is Transfer : To: compass support: User is getting a security error when trying to search - contact Mike at:952 841-5740- ex 71527
+2001-09-11 04:13:50 Skytel [005244073] C ST NUM  638-114-7907-5 
+2001-09-11 04:13:53 Skytel [005127497] C ST NUM  80) 323-697-5698-911
+2001-09-11 04:13:55 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job50691 SLON00300 09/11 04:12 EVENTLOG
+2001-09-11 04:13:57 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope http://www.americanskandia.com/ns/ Production Web Sites (emt-4b) 191406 timed out reading, http://www.americanskandia.com/nsl/login_blank_nav.htm 
+2001-09-11 04:13:57 Skytel [005436525] D  ALPHA  Test Message #34-IX_T1715
+2001-09-11 04:13:57 Skytel [004524770] A  ALPHA  wor-IntransitContainer-Worcester: CPE Up at 00:58:21 on 9/11
+2001-09-11 04:13:59 Arch [0464090] C  ALPHA  PSI Notification-T:32-bit Middleware is now ok - 04:13-09/11/2001-From Test System
+2001-09-11 04:13:59 Skytel [007109749] B ST NUM  0-116-177-1773-4    

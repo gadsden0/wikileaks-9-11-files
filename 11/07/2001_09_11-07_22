@@ -1,0 +1,75 @@
+2001-09-11 07:22:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2149
+2001-09-11 07:22:01 Metrocall [0121395] A  ALPHA  Frm: System Attendant Sub: USNY10038MSX Alert since 9/11/2001 7:05 AM A message was due on Txt: USNY10038MSX Alert since 9/11/2001 7:05 AM A message was due o
+2001-09-11 07:22:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2149
+2001-09-11 07:22:01 Metrocall [0089933] D  ALPHA  Frm: System Attendant Sub: USNY10038MSX Alert since 9/11/2001 7:05 AM A message was due on Txt: USNY10038MSX Alert since 9/11/2001 7:05 AM A message was due on 9/11/2001 7:05 AM.
+2001-09-11 07:22:01 Skytel [007465731] A SH/TONE 1105    
+2001-09-11 07:22:01 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 04:20:49 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 07:22:03 Arch [0015149] D  ALPHA  atn0 severe atn0 PT031 4 resync/test after ipt stopped/started: RESYNC:FAIL TESTIPT:FAIL Possible Comm problem!! AT Tue Sep 11 11:21:58 GMT 2001
+2001-09-11 07:22:03 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6971
+2001-09-11 07:22:03 Arch [0903829] B  ALPHA  ISHD 1378437  Sev4 FTW-TCS  User is unable to access. Jacob Golden 8173003159 
+2001-09-11 07:22:03 Arch [0183689] C  ALPHA  atn0 severe atn0 PT031 4 resync/test after ipt stopped/started: RESYNC:FAIL TESTIPT:FAIL Possible Comm problem!! at Tue Sep 11 11:21:58 GMT 2001
+2001-09-11 07:22:03 Arch [1052328] C  ALPHA  |Trainx Audit |SQL> SQL> select user from dual; USER |53  
+2001-09-11 07:22:03 Metrocall [0121395] A  ALPHA  n 9/11/2001 7:05 AM.
+2001-09-11 07:22:03 Metrocall [002588490] C  ALPHA  Frm: weather@inbox.weather.com Sub: Felix, here is your weather forecast for Bronx, NY Txt: Felix's Weather for 9/11/2001 Why pay more for Life Insurance? You can save 50% - 70% on Term Life Insurance at Et
+2001-09-11 07:22:03 Skytel [003452432] A SH/TONE 3135    
+2001-09-11 07:22:05 Metrocall [002588490] C  ALPHA  erm. We offer Fast, Free Quotes on Quality Term Life Insurance. Get your Q
+2001-09-11 07:22:05 Metrocall [0476406] B  ALPHA  DSDOWN: DATASOURCE DOWN NOTIFICATION REQUEST (BCBS: Datasource Down Notification Request:  Contact Name: Martha Hesson Contact via email at: martha.hesson@tenetheal
+2001-09-11 07:22:05 Skytel [004755751] B SH/TONE 1788    
+2001-09-11 07:22:05 Skytel [002848296] C ST NUM  1-201-091-1220-80000000000     
+2001-09-11 07:22:05 Skytel [005039526] B  ALPHA  oracle@lucent.COM|Backup completed successfully on buildsrv1| Begining of backup script Tue Sep 11 04:05:00 PDT 2001   ************************************   The List of instances which are backedup =        ORACLE_SID =   SCPROD **********
+2001-09-11 07:22:07 Metrocall [0476406] B  ALPHA  th.com -------------------- Datasource Name: BCBS TN Conne--<martha.h
+2001-09-11 07:22:07 Metrocall [1064385] A  ALPHA  JY  8206/8273  -068 EC  8969/8949 -0031 BP 14558/14504 -014 SF  5921/5924  -015 CD  6407/6398  +009 AD  5139/5121  +002 DM  4602/4591  -026 FES 9696/733/740/33 FDX 4779/4830
+2001-09-11 07:22:08 Skytel [004591436] D SH/TONE 237     
+2001-09-11 07:22:09 Metrocall [1544818] A  ALPHA  SAC-AACC01:Device Inaccessible
+2001-09-11 07:22:09 Metrocall [1064385] A  ALPHA    +092 PTB 8962/8867  -016 FGBS10355 FYB 13902 BDL 10793/10800-032 BDM 10708-020
+2001-09-11 07:22:10 Skytel [004419421] D SH/TONE 234     
+2001-09-11 07:22:11 Metrocall [002460623] D  ALPHA  Eddie, I saw you on the news last night. You look terrific, your attitude excellent, and your goals outstanding. If I can do anything for you, do not hesitate to call me. <DSIDDERS>
+2001-09-11 07:22:12 Skytel [005043559] B  ALPHA  150.ARENER MANUFACT     
+2001-09-11 07:22:13 Arch [0968379] C  ALPHA  862-1719
+2001-09-11 07:22:14 Skytel [005343730] A ST NUM  0) 804-382-6700
+2001-09-11 07:22:17 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179676. 
+2001-09-11 07:22:18 Skytel [004732694] B  ALPHA  Noelle's Autex Plus link is red...I am going to call Autex. - Craig 
+2001-09-11 07:22:18 Skytel [002392598] B  ALPHA  07:22:12 AM
+2001-09-11 07:22:20 Skytel [005115951] D ST NUM  817-912-3134   
+2001-09-11 07:22:20 Skytel {0619497} 1 2400 31740
+2001-09-11 07:22:21 Skytel {0471791} 3 1200 8226 
+2001-09-11 07:22:22 Arch [0904393] C  ALPHA  Defiant@circuitc|Server may be down|
+2001-09-11 07:22:24 Metrocall [1401041] A  ALPHA  LD - load following.
+2001-09-11 07:22:24 Metrocall [0114093] D  ALPHA  ORTHWEST WINDS 5 TO 15 MPH.
+2001-09-11 07:22:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9894
+2001-09-11 07:22:30 Arch [1373829] B  ALPHA  (5)WhatsUp@mail.spr|10.146.129.23 TXIVGRAPP03 is DOWN at 06:34:35 
+2001-09-11 07:22:30 Arch [0485957] B  ALPHA  (6)WhatsUp@mail.spr|10.146.129.23 TXIVGRAPP03 is DOWN at 06:34:35 
+2001-09-11 07:22:31 Skytel [004680066] A ST NUM  500-100-3812-33339642    
+2001-09-11 07:22:31 Skytel [003947407] D SH/TONE 684-8855
+2001-09-11 07:22:31 Skytel [002184975] D SH/TONE 3618 (36
+2001-09-11 07:22:33 Metrocall [002510393] C  ALPHA  Frm: Matthew, Donald (FUSA) Sub: FUSA Nevada PayCourier process date 09/11/01 4:00 am Txt: Chris/Howard PC extract completed 4:00 am 09/11/01 File ex004238.int Items 17,794 amount 14,381,726.63 Don Ma
+2001-09-11 07:22:33 Metrocall [1401557] B  ALPHA  FYI; BILL GOETZ NEEDS TO B
+2001-09-11 07:22:33 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3542
+2001-09-11 07:22:33 Skytel [005171999] D SH/TONE 649-5069
+2001-09-11 07:22:35 Metrocall [1401557] B  ALPHA  E OFF @ 7AM
+2001-09-11 07:22:35 Skytel [004433830] B SH/TONE 450     
+2001-09-11 07:22:35 Skytel [005242798] D SH/TONE 249     
+2001-09-11 07:22:37 Skytel [004389297] A ST NUM  201-227-3908 (83    
+2001-09-11 07:22:37 Skytel [0001461] B  ALPHA  GLOBEX   06:21     GEH    9660     3-   GEM  9630.5B    3-   ESU  110200   625+   SPU  110190   620+   NDU  138900B 1850+   6JZ    8273B   70-   6EZ    8949A   31-   6SZ    5924    16-   6BZ   14504A   24-   6CZ    6396A    6+   
+2001-09-11 07:22:37 Skytel [005003838] D  ALPHA  NetIQ@daimlerchrysler.com|NetIQ Event from SHPMON01 - Machine Down - 162.12.190.18|Ping Failed  
+2001-09-11 07:22:40 Skytel [1800019] A  ALPHA  GLOBEX   06:21     GEH    9660     3-   GEM  9630.5B    3-   ESU  110200   625+   SPU  110190   620+   NDU  138900B 1850+   6JZ    8273B   70-   6EZ    8949A   31-   6SZ    5924    16-   6BZ   14504A   24-   6CZ    6396A    6+   
+2001-09-11 07:22:40 Skytel [003050969] C SH/TONE         
+2001-09-11 07:22:42 Skytel [005187817] C SH/TONE 1 (69   
+2001-09-11 07:22:42 Skytel [005119855] D SH/TONE 263     
+2001-09-11 07:22:44 Skytel [003046385] A ST NUM  900-336-6955   
+2001-09-11 07:22:44 Skytel [002357369] C  ALPHA  002266 CYCLIC TEST 
+2001-09-11 07:22:44 Skytel [003327216] A  ALPHA  002266 CYCLIC TEST 
+2001-09-11 07:22:44 Skytel [002139900] D SH/TONE 002266  
+2001-09-11 07:22:45 Arch [0764090] C  ALPHA  585-5419
+2001-09-11 07:22:45 Arch [0916469] B  ALPHA  All servers up GWI clear
+2001-09-11 07:22:46 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2212 - 001DEB OCALA 6125, high BER, Set
+2001-09-11 07:22:46 Skytel [005337988] B  ALPHA  (0129257500)408640-00 VILLAGE PAINT SHOP DAVE 407-328-0908 SYS DWN LD 4086400001
+2001-09-11 07:22:48 Skytel [007552922] C  ALPHA  I'll meet you at Sea Bright at 9:30ish. I'll page Chris with the same msg. If you want call me on my cell 908-803-8779. Urine
+2001-09-11 07:22:52 Skytel [007509300] B  ALPHA  'nunfcanio234118@bxllswqnunfcanio234118.com|free tape! dr. wallach's "trust me, i'm a doctor!"      
+2001-09-11 07:22:52 Skytel [004449466] C SH/TONE 251     
+2001-09-11 07:22:57 Skytel [004524770] A  ALPHA  spf-USINewEngland-ManchesterNH-3: CPE Down at 01:47:17 on 9/11
+2001-09-11 07:22:57 Skytel [005436525] D  ALPHA  nMCI Test #56
+2001-09-11 07:22:57 Skytel [003497451] C SH/TONE 2800 (78
+2001-09-11 07:22:58 Metrocall [002567045] B  ALPHA  Frm: L/ANS Operator Txt: MultiUpload.sh normal exit for TALI transfer Tue Sep 11 04:22:54 PDT 2001
+2001-09-11 07:22:58 Metrocall [002589345] A  ALPHA  111/ / 253041548/ 101139/ Wakemed/ 3000 New Bern Ave/ Raleigh/ Shannon Debruhl / Debbie/ 919-350-8414/ ms 2k l
+2001-09-11 07:22:58 Metrocall [0570316] D  ALPHA  Frm: admin@web.expresstel.net Sub: Scheduled backup failed Txt: backupset: complete target: complete protocol: ftp resource: expresstel@ftp.expresstel.com increment: 1

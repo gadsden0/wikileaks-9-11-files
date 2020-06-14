@@ -1,0 +1,76 @@
+2001-09-11 05:10:00 Arch [1005985] A  ALPHA  --- Equipment ID [0425 ] status change - interference Equipment ID [0425 ] Event
+2001-09-11 05:10:02 Arch [0976352] A  ALPHA  (9)bjcarr 34907-DCM-  FLASH WAS DELIVERED AT 4:03 A.M. AND FI0139D was also delivered at 4:03 a.m.  Sent at 04:09      
+2001-09-11 05:10:03 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2017
+2001-09-11 05:10:03 Metrocall [002589558] B  ALPHA  NMC-link showing errors-refer back to LEC GCSC 8002268054
+2001-09-11 05:10:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6839
+2001-09-11 05:10:05 Skytel [004534432] A SH/TONE 62) 140 
+2001-09-11 05:10:05 Skytel [005093670] B  ALPHA  The TA extract completed!
+2001-09-11 05:10:05 Skytel [004551086] D  ALPHA  ibgbos001nts / OK / Host ping successful for ibgbos015nts  / 09/11/2001/05:10:02 /
+2001-09-11 05:10:08 Skytel [003414592] A ST NUM  977-865-8649   
+2001-09-11 05:10:08 Skytel [007638088] C SH/TONE 551     
+2001-09-11 05:10:11 Metrocall [1104994] A  ALPHA  Frm: jmizzi@bidcom.com Sub: Excess Oracle processes in Production - 406 Txt: Total no. of processes : 406
+2001-09-11 05:10:11 Metrocall [1064388] B  ALPHA  0
+2001-09-11 05:10:11 Metrocall [1188682] C  ALPHA  Interface Serial0/0.102 ** ENG PVC to Augusta_C ** on savannah-rtr-c.metrocall.com is Down. Reason: HPOV
+2001-09-11 05:10:11 Metrocall [1180298] C  ALPHA  Interface Serial0/0.102 ** ENG PVC to Augusta_C ** on savannah-rtr-c.metrocall.com is Down. Reason: HPOV cannot ping interface ~
+2001-09-11 05:10:11 Metrocall [1578603] C  ALPHA  Interface Serial0/0.102 ** ENG PVC to Augusta_C ** on savannah-rtr-c.metrocall.com is Down. Reason: HPOV cannot p
+2001-09-11 05:10:13 Metrocall [1188682] C  ALPHA   cannot ping interface ~
+2001-09-11 05:10:13 Metrocall [1578603] C  ALPHA  ing interface ~
+2001-09-11 05:10:14 Skytel [003954036] B  ALPHA  ECCFTP01:Device Accessible,Device Status:Ok
+2001-09-11 05:10:16 Skytel [003279361] A  ALPHA  7) PACE#4219369-3 alert stage 1-09/11/01 03:54EST MZ-KP1A Contact:ANTHONY RILEY @ 8-386-5212 Summary:Within ERP: Item:5.MFP.135, Quantity 531 & Item: 4.SEE-GENFIDB.115, 
+2001-09-11 05:10:17 Arch [0911134] D  ALPHA   comsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSHH_EQNY1) PDSHH_EQNY1 - HEDGEHOG_HIST: DATA -->> ALLOCATED = 400 MB, USED = 361 MB, FREE = 39 MB, PERCENT_USED = 90% @05:10 09/11/01 
+2001-09-11 05:10:20 Metrocall [002588047] D  ALPHA  Frm: Muralidhar Devarakonda Sub: server status Txt: Machine 30kcerent1.nsf.att.com not up on Tue Sep 11 04:57:00 2001. status 256.Machine 30kcerent2.nsf.att.com not up on Tue Sep 11 04:57:00 2001 status 256.Machine mtcerent3.nsf.att.com not up on T
+2001-09-11 05:10:20 Metrocall [1402531] A  ALPHA  Interface Serial0/0.102 ** ENG PVC to Augusta_C ** on savannah-rtr-c.metrocall.com is Down. Reason: HPOV cannot ping interface ~
+2001-09-11 05:10:20 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router 611FP-1MBT at 02:07:35 Txt: Router 611FP-1MBT DOWN at 02:07:35 A
+2001-09-11 05:10:22 Metrocall [002588047] D  ALPHA  ue Sep 11 04:57:00 2001 status 2
+2001-09-11 05:10:22 Metrocall [1080319] D  ALPHA  ddress: 209.247.46.226 Date: 09/11/2001 Status: Host Unreachable ( 11003)
+2001-09-11 05:10:22 Metrocall [1064383] D  ALPHA  FOREX HIGH -  LOW YEN_121.82 - 121.01 EUR 0.9007 - 0.8965 CHF 1.6894 - 1.6830 GBP 1.4583 - 1.4533 CAD 1.5650 - 1.5615 AUD 0.5159 - 0.5128 NZD 0.4307 - 0.42........................................................................3 - 114.13
+2001-09-11 05:10:23 Arch [0951146] C  ALPHA  812395 .MAXRETRY-CHECK CATCHER 09/11/01 05:36:10
+2001-09-11 05:10:24 Metrocall [1064374] B  ALPHA  YEN  121.78/83 +085 EUR  0.8967/68 -014 CHF  1.6887/97 +008 GBP  1.4539/45 -024 CAD  1.5610/20 -016 AUD  0.5139/44 +006  NZD  0.4261/66 -046 DEM  2.1802/19 +032  E/C  1.5144/57 -011 E/Y  109.23/28 +058 E/S  0.6165/70 +007 USD     115.00 +022
+2001-09-11 05:10:24 Metrocall [1362298] C  ALPHA  Frm: Optivity@harbortech.com Sub: Operator Attention Txt: Operator Attention is needed. (Server: "OPTIVITY-NJ" Job: "SNMPc & HPOV:Diff" Device: "HP 1") Please insert overwritable media into the drive.
+2001-09-11 05:10:25 Skytel [003248982] B  ALPHA  1) cbranch@us.ibm.com||NSEM/Pathmark/2374527/1-888-212-5447/Assistance needed for Pathmark store that has been down for 5 hrs.  Please call ADVNETO.  
+2001-09-11 05:10:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9762
+2001-09-11 05:10:27 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2219 - 00246B ST_AUG_S_6125, cnet lost sync, Clr
+2001-09-11 05:10:27 Skytel [005132640] A  ALPHA  9) cbranch@us.ibm.com||NSEM/Pathmark/2374527/1-888-212-5447/Assistance needed for Pathmark store that has been down for 5 hrs.  Please call ADVNETO.  
+2001-09-11 05:10:27 Skytel [004428264] C SH/TONE 295-4810
+2001-09-11 05:10:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3410
+2001-09-11 05:10:31 Metrocall [1064377] C  ALPHA  US 10514/10420 +000 SP109850/10140+42.0".EI)5/ 5..6..5/ 62 ........................................................................................................................................................................0  FV 10616+
+2001-09-11 05:10:33 Metrocall [1064376] C  ALPHA  GOVPX TREASURY 30__99.03+/04+5.436 10.10 .0"+/.7 ..8.5 .Y..........................................................................
+2001-09-11 05:10:33 Skytel [002393620] B SH/TONE 4685    
+2001-09-11 05:10:36 Skytel [005228862] D SH/TONE 2002    
+2001-09-11 05:10:38 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178221. 
+2001-09-11 05:10:38 Skytel [005048779] C  ALPHA  cbranch@us.ibm.com||NSEM/Pathmark/2374527/1-888-212-5447/Assistance needed for Pathmark store that has been down for 5 hrs.  Please call ADVNETO.  
+2001-09-11 05:10:39 Metrocall [1903323] C  ALPHA  [IS    03:10:25 Alarm IS:RRPR99CIM Down]
+2001-09-11 05:10:39 Metrocall [1830239] D  ALPHA  Y DR IRANIHA KATHY /HOAG /RECOVERY 949 760-5710 PT: WADSWORTH
+2001-09-11 05:10:44 Skytel [002357369] C  ALPHA  002222 CYCLIC TEST 
+2001-09-11 05:10:44 Skytel [003327216] A  ALPHA  002222 CYCLIC TEST 
+2001-09-11 05:10:44 Skytel [002405367] B  ALPHA  SkyFax: :1 Page
+2001-09-11 05:10:44 Skytel [002139900] D SH/TONE 002222  
+2001-09-11 05:10:45 Metrocall [1585504] A  ALPHA  Frm: WhatsUp Sub: Router UUNET_Ser0/1.1_DAL DOWN at 04:07:43 Txt: Router UUNET_Ser0/1.1_DAL DOWN at 04:07:43 Address: 157.130.138.137 Info 1: Info 2: Date: 09/11/2001 Status: Timed Out ( 11010) Svcs: Notes:
+2001-09-11 05:10:45 Metrocall [1585504] A  ALPHA  Frm: Wha
+2001-09-11 05:10:46 Metrocall [1585504] A  ALPHA  tsUp Sub: Router Intraport2_WIL DOWN at 04:07:43 Txt: Router Intraport2_WIL DOWN at 04:07:43 Address: 10.200.10.2 Info 1: Info 2: Date: 09/11/2001 Status: Timed Out ( 11010) Svcs: Notes:
+2001-09-11 05:10:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 02:08:31 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:10:46 Skytel [003947407] D  ALPHA  ECCFTP01:Device Accessible,Device Status:Ok
+2001-09-11 05:10:48 Metrocall [1585504] A  ALPHA  Frm: WhatsUp Sub: Router UUNet_Ser0/0.1_WIL DOWN at 04:07:44 Txt: Router UUNet_Ser0/0.1_WIL DOWN at 04:07:44 Address: 157.130.223.225 Info 1: Info 2: Date: 09/11/2001 Status: Timed Out ( 11010) Svcs: Notes:
+2001-09-11 05:10:48 Metrocall [1585504] A  ALPHA  Frm: WhatsUp Sub: Server FW1__HME0_
+2001-09-11 05:10:48 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router 611FP-1Tendo at 02:08:32 Txt: Router 611FP-1Tendo UP at 02:08:32 Address: 209.247.46.97 Date: 09/11/2001 Status: Active and responding ( 0)
+2001-09-11 05:10:48 Skytel [002861584] A ST NUM  8685227799
+2001-09-11 05:10:48 Skytel [002401821] D  ALPHA  206.122.40.74  PLAGR.JOBSP.CVIEW DATA BASE IS AT 97% UTILIZATION ussa11.SSMC 
+2001-09-11 05:10:50 Metrocall [1585504] A  ALPHA  WIL DOWN at 04:07:43 Txt: Server FW1__HME0_WIL DOWN at 04:07:43 Address: 208.239.162.2 Info 1: Info 2: Date: 09/11/2001 Status: Timed Out ( 11010) Svcs: Notes:
+2001-09-11 05:10:50 Metrocall [1165746] A  ALPHA  EMAIL Paula Ford-Martin - About Guide to Diabetes  ABOUT DIABETES -- Bush 
+2001-09-11 05:10:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1283..
+2001-09-11 05:10:52 Metrocall [1165746] A  ALPHA  RX Plan Blocked, Hypo Horrors, Your e-mail reader does not support MIME. Please upgrade.  ---892222071-940147120-978605369=:2749 Content-Type: text/plain  ABOUT DIABETES >From Paula
+2001-09-11 05:10:52 Metrocall [1585504] A  ALPHA  Frm: WhatsUp Sub: Server www.adobe.com DOWN at 04:07:41 Txt
+2001-09-11 05:10:53 Skytel [005555279] D  ALPHA  05:10:45 BY05D96Z HAS NOT ENDED. PLEASE INVESTIGATE. CONTACT ONCALL.
+2001-09-11 05:10:54 Metrocall [1585504] A  ALPHA  : Server www.adobe.com DOWN at 04:07:41 Address: 192.150.14.120 Info 1: Info 2: Date: 09/11/2001 Status: Timed Out ( 11010) Svcs: Notes:
+2001-09-11 05:10:57 Skytel [005436525] D  ALPHA  Test Message #32-IX_T0708
+2001-09-11 05:10:57 Skytel [004524770] A  ALPHA  wil-VTFederal-BurlingtonVT-01: CPE Up at 00:58:25 on 9/11
+2001-09-11 05:10:57 Skytel [005111011] A  ALPHA  netgpro1 05:00 Multiple Application admin errors  
+2001-09-11 05:10:57 Skytel [005181546] C SH/TONE 1111    
+2001-09-11 05:10:57 Skytel [005112809] C  ALPHA  04:06CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240400: Uncorrectable write error
+2001-09-11 05:10:58 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2018
+2001-09-11 05:10:58 Metrocall [1585504] A  ALPHA  at 04:08:36 Txt: Router UUNET_Ser0/1.1_DAL UP at 04:08:36 Address: 157.130.138.137 Info 1: Info 2: Date: 09/11/2001 Status: Active and responding ( 0) Svcs: Notes:
+2001-09-11 05:10:58 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2018
+2001-09-11 05:10:58 Metrocall [1397690] C  ALPHA  dino:-->Sep 11 05:10 'oracle-autosys AUTA-AUTB problem' detected
+2001-09-11 05:10:59 Skytel [002751986] A SH/TONE 3461    
+2001-09-11 05:10:59 Skytel [007109749] B ST NUM  500-976-4431-2 
+2001-09-11 05:10:59 Skytel [003932285] D SH/TONE 3018    

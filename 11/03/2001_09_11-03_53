@@ -1,0 +1,58 @@
+2001-09-11 03:53:00 Metrocall [1064388] B  ALPHA  LCO 2740/2730  -005 CL 2767/787/788+004 2752/2718/2680/2655 2623/2591/2560/2530 HO 7965/015/050+004 HU 8180/770/560-007 NG2390/2672/993+008 3150/3120/3050/2960 965/010/040/055/065 LGO 24050/4175-0175 PL v4390/f4320 +00
+2001-09-11 03:53:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1940
+2001-09-11 03:53:02 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1940
+2001-09-11 03:53:02 Metrocall [1064388] B  ALPHA  7 EC _3300/_3150+0150 PAm45600+000
+2001-09-11 03:53:03 Skytel {1092655} 3 2400 002196    
+2001-09-11 03:53:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6762
+2001-09-11 03:53:09 Metrocall [1499406] D  ALPHA  Frm: support@paytrust.com Sub: Paytrust Bill Center - Awaiting Payment Instructions Txt: G
+2001-09-11 03:53:09 Metrocall [0776055] B  ALPHA  Local Box 39-10: 3103 TWISTING LN (TEMPO & TRAYMORE); E391 alerted for HOUSE NON-EMGY; HUSBAND HAS FALLEN,NEEDS HELP GETTING UP; see HAZARD note(s); 
+2001-09-11 03:53:11 Metrocall [0776055] B  ALPHA  Map 15 @ 0352 Hrs
+2001-09-11 03:53:11 Metrocall [1064374] B  ALPHA  YEN  121.49/59 +056 EUR  0.8995/00 +014 CHF  1.6847/57 -032 GBP  1.4560/67 -003 CAD  1.5629/34 +003 AUD  0.5143/53 +010 NZD  0.4260/70 -047 DEM  2.1729/46 -041  E/C  1.5158/61 +003 E/Y  109.34/39 +069 E/S  0.6
+2001-09-11 03:53:13 Metrocall [1064374] B  ALPHA  176/79 +018 USD     114.71 -007
+2001-09-11 03:53:13 Skytel {1551415} 3 1200 4444 
+2001-09-11 03:53:18 Arch [0951146] C  ALPHA  811065                         .MAXRETRY-PAGE NOC 09/10/2001 13:42:02
+2001-09-11 03:53:18 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfet
+2001-09-11 03:53:18 Arch [0648251] C  ALPHA  From E-FLASH Sub:FLASH SALES Msg:DIV_A 12.2%,11.3%,7.5%,7.8% DIV_B 9.2%,5.7%,7.7%,7.8% DIV_D 13.8%,10.8%,7.3%,  7.6% DIV_E 13.1%,10.3%,7.5%,7.8% DIV_T 10.8%,8.1%,7.7%,7.9% DIV_U ...
+2001-09-11 03:53:18 Arch [0769433] C  ALPHA  From E-FLASH Sub:FLASH SALES Msg:WM_GM 10.2%,7.3% WM_SPEC 10.3%,8.1% WM_TOT_BOX 10.2%,7.4%,7.6%,7.7% SC_GM 11.3%,  7.6% SC_FOOD 15.2%,12.5% SC_SPEC 11.1%,8.9% SC_TOT_BOX ...
+2001-09-11 03:53:18 Arch [0903077] B  ALPHA  (**)From E-FLASH Sub:FLASH SALES Msg:DIV_A 12.2%,11.3%,7.5%,7.8% DIV_B 9.2%,5.7%,7.7%,7.8% DIV_D 13.8%,10.8%,7.3%,  7.6% DIV_E 13.1%,10.3%,7.5%,7.8% DIV_T 10.8%,8.1%,7.7%,7.9% DIV_U ...
+2001-09-11 03:53:18 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcb-wbs05 Sev:5 # 600039 too few/many quotes ./bbsm 3.1.9.5 09/11/01 00:52:49 PDT7 Instance: labcb-wbs05 Module: 5316 Details: too few/many quotes
+2001-09-11 03:53:20 Arch [1425048] C  ALPHA  chData.pl line 342, <SOCK_192.168.35.19> chunk 177388. 
+2001-09-11 03:53:20 Arch [0648251] C  ALPHA  9.8%,5.9%,7.6%  ,7.6%  AT 02:39  
+2001-09-11 03:53:20 Arch [0769433] C  ALPHA  12.6%,9.6%,7.6%,7.8%  NM_TOT_BOX 21.1%,15.8%,6.7%,6.8% WM/SC_TOT_BOX 11.3%,8.5%,7.6%,7.7% $301,527,607   $1,157,891,507 SAMS_TOT_BOX 8.4%,7.2%,3.7%,3.7%  AT 02:39  
+2001-09-11 03:53:20 Arch [0903077] B  ALPHA  (**)9.8%,5.9%,7.6%  ,7.6%  AT 02:39  
+2001-09-11 03:53:23 Arch [1050266] C  ALPHA  From E-FLASH Sub:FLASH SALES Msg:WM_GM 10.2%,7.3% WM_SPEC 10.3%,8.1% WM_TOT_BOX 10.2%,7.4%,7.6%,7.7% SC_GM 11.3%,  7.6% SC_FOOD 15.2%,12.5% SC_SPEC 11.1%,8.9% SC_TOT_BOX ...
+2001-09-11 03:53:23 Arch [0978397] D  ALPHA  From E-FLAS...}..F..S..S..E.M.:.._GM 10.2%,7.3% WM_SPEC 10.3%,8.1% WM_TOT_BOX 10.2%,7.4%,7.6%,7.7% SC_GM 11.3%,  7.6% SC_FOOD 15.2%,12.5% SC_SPEC 11.1%,8.9% SC_TOT_BOX ...
+2001-09-11 03:53:23 Arch [0732953] C  ALPHA  Robot job IVRTRANSFR exceeded its maximum run time.
+2001-09-11 03:53:23 Arch [1060630] B  ALPHA  Robot job I...R..S.P ..c..d.....s.@aximum run time.
+2001-09-11 03:53:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9685
+2001-09-11 03:53:25 Arch [1050266] C  ALPHA  12.6%,9.6%,7.6%,7.8%  NM_TOT_BOX 21.1%,15.8%,6.7%,6.8% WM/SC_TOT_BOX 11.3%,8.5%,7.6%,7.7% $301,527,607   $1,157,891,507 SAMS_TOT_BOX 8.4%,7.2%,3.7%,3.7%  AT 02:39  
+2001-09-11 03:53:25 Arch [0978397] D  ALPHA  12.6%,9.6%,7.6%,7.8%  NM_TOT_BOX 21.1%,15.8%,6.7%,6.8% WM/SC_TOT_BOX 11.3%,8.5%,7.6%,7.7% $301,527,607   $1,157,891,507 SAMS_TOT_BOX 8.4%,7.2%,3.7%,3.7%  AT 02:39  
+2001-09-11 03:53:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PER..D.....G..S..U..T..L@.UMBER  3333
+2001-09-11 03:53:31 Skytel [005352709] B  ALPHA  PI IPRO (http://10.10.2.200/servlet/OK) is Down (00:39:29)
+2001-09-11 03:53:33 Skytel [002401821] D  ALPHA  206.122.40.74 Code =  JOES  - Job Output Elements ussa11.SSMC 
+2001-09-11 03:53:33 Skytel [004693143] B ST NUM  023-1231-23    
+2001-09-11 03:53:35 Arch [0976458] C  ALPHA  From E-FLASH Sub:FLASH SALES Msg:WM_GM 10.2%,7.3% WM_SPEC 10.3%,8.1% WM_TOT_BOX 10.2%,7.4%,7.6%,7.7% SC_GM 11.3%,  7.6% SC_FOOD 15.2%,12.5% SC_SPEC 11.1%,8.9% SC_TOT_BOX ...
+2001-09-11 03:53:35 Arch [0948216] C  ALPHA  (29)From E-FLASH Sub:FLASH SALES Msg:WM_GM 10.2%,7.3% WM_SPEC 10.3%,8.1% WM_TOT_BOX 10.2%,7.4%,7.6%,7.7% SC_GM 11.3%,  7.6% SC_FOOD 15.2%,12.5% SC_SPEC 11.1%,8.9% SC_TOT_BOX ...
+2001-09-11 03:53:35 Skytel [005213352] C  ALPHA  SAM87 IS DOWN!
+2001-09-11 03:53:35 Skytel [005329577] C SH/TONE 1       
+2001-09-11 03:53:36 Arch [0976458] C  ALPHA  12.6%,9.6%,7.6%,7.8%  NM_TOT_BOX 21.1%,15.8%,6.7%,6.8% WM/SC_TOT_BOX 11.3%,8.5%,7.6%,7.7% $301,527,607   $1,157,891,507 SAMS_TOT_BOX 8.4%,7.2%,3.7%,3.7%  AT 02:39  
+2001-09-11 03:53:36 Arch [0948216] C  ALPHA  (30)12.6%,9.6%,7.6%,7.8%  NM_TOT_BOX 21.1%,15.8%,6.7%,6.8% WM/SC_TOT_BOX 11.3%,8.5%,7.6%,7.7% $301,527,607   $1,157,891,507 SAMS_TOT_BOX 8.4%,7.2%,3.7%,3.7%  AT 02:39  
+2001-09-11 03:53:36 Arch [1026292] B  ALPHA  corey_nguyen@nys|PVNetMon |pacts Device is not responding . Exceeded 3 attempts @ 3 seconds. 
+2001-09-11 03:53:36 Skytel [007511864] C  ALPHA  [!A0][D33419]43690107N2362|Gus Dulaney|Congratulations! e-motivation Winners! (TCAE  | Calling all s
+2001-09-11 03:53:36 Skytel [007559861] B ST NUM  816-973-0729-4111   
+2001-09-11 03:53:36 Skytel [005359793] A  ALPHA  root@isffin01.internal.merial.com|/home full|/dev/vg00/lvol4 /home filesystem inode 99 full    ---------------------------------------------------------------------------- This email and any files transmitted with it are confidential and in
+2001-09-11 03:53:36 Skytel [002553148] D SH/TONE         
+2001-09-11 03:53:38 Skytel [005054539] C  ALPHA  root@isffin01.internal.merial.com|/home full|/dev/vg00/lvol4 /home filesystem 100 full    ---------------------------------------------------------------------------- This email and any files transmitted with it are confidential and intende
+2001-09-11 03:53:39 Metrocall [1064382] D  ALPHA  DKK   74412/17 +001 NOK  7.9590/40 -260 SEK  9.5320/70 -257...K.................G..................................................................................................................................................117/237 -407
+2001-09-11 03:53:42 Skytel [002695782] B  ALPHA    SiteScope/Databases - Sacramento/Colusa - Disk Space on E Drive/67484/no data/
+2001-09-11 03:53:42 Skytel [004524770] A  ALPHA  wil-VermontEnergyInvest-Burlingt: CPE Up at 00:58:05 on 9/11
+2001-09-11 03:53:42 Skytel [005436525] D  ALPHA  Test #61
+2001-09-11 03:53:42 Skytel [003926118] B SH/TONE 6270 U  
+2001-09-11 03:53:50 Arch [0915934] D  ALPHA  |Case in SPSG-WW |P3 *SPACS*RMA needed for bad GigE card (Hardware::Hardware failure, Need Replacement from 03:53|113  
+2001-09-11 03:53:50 Metrocall [1064375] B  ALPHA  /FTSE  5071.80  +038 NIKK  10292.95  +097 DAX    4766.88  +096 CAC40  4454.91  +071 MIB30  31822   +0258 HSI  10383.84  +0017 30 _99.02/03  5.438% GOLD271.50/200  +000 S 4.17/19  PL 440.00 PD 450.00/0.00  +000 JG 1.420%
+2001-09-11 03:53:50 Metrocall [1064385] A  ALPHA  JY  8230/8298  -043 
+2001-09-11 03:53:51 Skytel [004415419] C ST NUM  0-213-235-8417 
+2001-09-11 03:53:52 Metrocall [1064385] A  ALPHA  EC  8996/8978 -0004 BP 14562/14508 -016 SF  5937/5941  +007 CD  6397/6390  -001 AD  5147/5130  +017 DM  4602/4591  -026 FES 9696/733/740/32 FDX 4771/4822  +084 PTB 8972/8880  -006 FGBS10357 FYB 13897 BDL 10807/10800-018 BDM 10715-013
+2001-09-11 03:53:55 Arch [0000101] B  ALPHA  MSN 074 hello Message from NOC PCB.
+2001-09-11 03:53:57 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177395. 
+2001-09-11 03:53:57 Arch [0391843] A  ALPHA  775-8011

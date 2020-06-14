@@ -1,0 +1,45 @@
+2001-09-11 04:28:00 Metrocall [1064388] B  ALPHA  LCO 2738/2730  -007 CL 2764/784/788+001 2752/2718/2680/2655 2623/2591/2560/2530 HO 7956/015/050-005 HU 8180/770/560-007 NG2390/2672/993+008 3150/3120/3050/2960 965/010/040/055/065 LGO 23950/4100-0275 PL v4390/f4320 +007 EC _3300/_3150+0150 PAm45600+00
+2001-09-11 04:28:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1975
+2001-09-11 04:28:02 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1975
+2001-09-11 04:28:02 Metrocall [1064388] B  ALPHA  0
+2001-09-11 04:28:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6797
+2001-09-11 04:28:04 Arch [0981230] D  ALPHA  Sonja Kepko <SKe|As per your request!|Please find attached file for your review. I look forward to hear from you again very soon. Thank you. 
+2001-09-11 04:28:05 Skytel [005437867] C SH/TONE 911281  
+2001-09-11 04:28:06 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177770. 
+2001-09-11 04:28:09 Metrocall [1064374] B  ALPHA  YEN  121.72/77 +079 EUR  0.8991/94 +010 CHF  1.6851/59 -028 GBP  1.4564/69 +001 CAD  1.5624/29 -002 AUD  0.5147/52 +014  NZD  0.4261/66 -046 DEM  2.1746/51 -024  E/C  1.5156/58 +001 E/Y  109.48/51 +083 E/S  0.6171/75 +013 USD     114.76 -002
+2001-09-11 04:28:10 Skytel [003944538] C  ALPHA  Alert Number: 1546191 - MVSISGA - Call 3790 Say CMB206I NO LINES AVAILABLE NA NA NA NA
+2001-09-11 04:28:12 Skytel [005436525] D  ALPHA  Test #74
+2001-09-11 04:28:12 Skytel [004524770] A  ALPHA  spf-VillageVentur-WilliamstownMA: CPE Up at 00:58:19 on 9/11
+2001-09-11 04:28:12 Skytel [005112809] C  ALPHA  03:26CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240416: Uncorrectable write error
+2001-09-11 04:28:12 Skytel [005342059] C  ALPHA  lbihbci1 CRITICAL File size (c:/cinfo/odbcsupt/cinfo.mdb, -c) is 15003648(size) (was 14979072) Sep 11, 2001 03:24
+2001-09-11 04:28:14 Skytel [007109749] B ST NUM  946-417-7117   
+2001-09-11 04:28:16 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 01:26:29 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 04:28:18 Metrocall [1587414] B  ALPHA  MESSAGE WAITING355-0346
+2001-09-11 04:28:18 Skytel [007035414] B SH/TONE 9444    
+2001-09-11 04:28:20 Skytel [007465257] C  ALPHA  cauni@usmlsu12.arrow.com||There is a  priority - problem on Unknown. Problem ID Code is . Page ID#2vi4y1XX Jobset GISP_TD_MAINT_POST has Completed   
+2001-09-11 04:28:21 Skytel [007069367] B  ALPHA  no_reply@katewwdb.com|CommuniKate voice 01:28|78 sec voice msg from Steve Limber 1-888-297-9288 in m
+2001-09-11 04:28:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9720
+2001-09-11 04:28:30 Metrocall [1898681] C  ALPHA  SLCDBS05:PATROL Alarm,Information:Alarm #1 of global parameter 'CACcachCopyReadHitsPercent' triggered on 'NT_CACHE.NT_CACHE'.  0 <= 0.00 <= 19,Object Name:/NT_CACHE/NT_CACHE/CACcachCopyReadHitsPercent,Extra Information:
+2001-09-11 04:28:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3368
+2001-09-11 04:28:31 Skytel [007492353] A SH/TONE 685-3490
+2001-09-11 04:28:31 Skytel [005211276] D  ALPHA  LTC 5.34 +0.04 VTR 11.30 +0.02 LTITX 15.81 +0.01 VCRI 0.00 UNCH
+2001-09-11 04:28:36 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177777. 
+2001-09-11 04:28:36 Skytel [0000060] D  ALPHA  SLC RETRIEVE YOUR FREIGHT FROM THE EXTRA HOURS FLIGHT.
+2001-09-11 04:28:36 Skytel [005110712] C SH/TONE 106     
+2001-09-11 04:28:38 Arch [1612111] D  ALPHA  monitor@ccbill.c|VSCRUB Packet Loss|nulls=1 1017376038 
+2001-09-11 04:28:40 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 04:28:40 Skytel [007657937] A ST NUM  872-221-5125   
+2001-09-11 04:28:40 Skytel [002377819] C  ALPHA  Martin.Monson@sun.com|T+30 minutes 01:55mst : Console Outage Notification|Console Down. Backup email working. Sacramento on backup email. Failover has  been done but cannot log in as Bill and Bob are being restarted.  Please call  RMC @ (30
+2001-09-11 04:28:40 Skytel [002376667] C  ALPHA  Martin.Monson@sun.com|T+30 minutes 01:55mst : Console Outage Notification|Console Down. Backup email working. Sacramento on backup email. Failover has  been done but cannot log in as Bill and Bob are being restarted.  Please call  RMC @ (30
+2001-09-11 04:28:44 Arch [0951146] C  ALPHA  95831 TIME 18:22 ACTIVE-ECP1 CELL 53 <BEELINE> CINGULAR TOWER BEACON LIGHT FAILURE
+2001-09-11 04:28:44 Arch [0931087] D  ALPHA  KKTV@kktv.com|KKTV Tue, Sep 11, 2001|=================================== KKTV Coverage You Can Count On Tue, Sep 11, 2001 =================================== =================================== 11 New
+2001-09-11 04:28:44 Skytel [003327216] A  ALPHA  002208 CYCLIC TEST 
+2001-09-11 04:28:44 Skytel [002357369] C  ALPHA  002208 CYCLIC TEST 
+2001-09-11 04:28:44 Skytel [002139900] D SH/TONE 002208  
+2001-09-11 04:28:48 Metrocall [1064378] C  ALPHA  U.S., CHINA SEEK MORE HARMONY ON ECONOMIC ISSUES
+2001-09-11 04:28:48 Metrocall [1064395] C  ALPHA  ..c..@..I..@.j..k. ...................................................D`PM[[XC
+2001-09-11 04:28:48 Skytel [003944209] A ST NUM  306-674-4605   
+2001-09-11 04:28:50 Skytel [007523232] A  ALPHA  alert@msn.com||Hotmail MSNBC News:msnbc: Bush warms to capital gains cut  
+2001-09-11 04:28:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1241..
+2001-09-11 04:28:55 Skytel [004683729] A  ALPHA  VAR 64.75 +0.25
+2001-09-11 04:28:59 Skytel [007641456] A SH/TONE 111     

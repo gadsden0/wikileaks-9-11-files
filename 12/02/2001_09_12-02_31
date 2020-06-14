@@ -1,0 +1,79 @@
+2001-09-12 02:31:00 Metrocall [1064378] C  ALPHA  EURO DEBT FUTURES OPE........E.......................
+2001-09-12 02:31:00 Metrocall [1064395] C  ALPHA  .....................@.........................................$....!........".D..@p
+2001-09-12 02:31:01 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-12 02:31:02 Metrocall [1466337] A  ALPHA  09/12@01:20:21 DALDC01:The master browser has received a server announcement from the computer HB-ICONECT that believes that it is the master browser for the domain on transport NetBT_Tcpip_{E7CD7022-9C94-48E. The master 
+2001-09-12 02:31:02 Metrocall [1111466] C  ALPHA  09/12@01:20:21 DALDC01:The master browser has received a server announcement from the computer HB-ICONECT that believes that it is the master browser for the domain on transport NetBT_Tcpip_{E7CD7022-9C94-48E. The master browser is stopping or an
+2001-09-12 02:31:02 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 23:29:19 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 02:31:02 Skytel [002746374] B SH/TONE 505     
+2001-09-12 02:31:04 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 71.61 76.38 73.92 Tue Sep 11 23:31:27 MST 2001 
+2001-09-12 02:31:04 Metrocall [1466337] A  ALPHA  browser is stopping or
+2001-09-12 02:31:04 Metrocall [1111466] C  ALPHA  CONT:election is being forced.
+2001-09-12 02:31:04 Metrocall [0007690] C  ALPHA  THIS IS A TEST PE.......................UMBER  4690
+2001-09-12 02:31:06 Arch [0921312] A  ALPHA  EHS-PKCCM132:    CPU# 0 Overloaded CPU# 0 utilization% is 100.00; >TH = 90   AND CPU queue length is 3; >TH = 2
+2001-09-12 02:31:06 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 165 processes on report1.ccbill.com. Timestamp key: 20010911232901 
+2001-09-12 02:31:08 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 166 processes on report1.ccbill.com. Timestamp key: 20010911232901 
+2001-09-12 02:31:08 Metrocall [1466337] A  ALPHA  CONT:an election is being forced.
+2001-09-12 02:31:12 Arch [1088752] A  ALPHA  :The Problem with ID 00330734 Severity 2 Description  mopf21.pitts.bayer.com- Node Down. has not been resolved.It has been escalated to level 3 on 09/11/2001 at 19:51:39.
+2001-09-12 02:31:12 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192685. 
+2001-09-12 02:31:12 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 02:31:12 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1043
+2001-09-12 02:31:14 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-12 02:31:16 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 02:31:16 Arch [0908699] C  ALPHA  F2 APP Ocean down 2:25 -- Lost unit 13 -- est. restart 2:35 -- 7,000 remaining
+2001-09-12 02:31:17 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-12 02:31:23 Arch [1607175] B  ALPHA  (22)Please call PMC floor. 913-534-7200 Ryan/PMC 
+2001-09-12 02:31:25 Arch [0925366] B  ALPHA   318643;Sep 11 22:32:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-12 02:31:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3299
+2001-09-12 02:31:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3299
+2001-09-12 02:31:31 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-12 02:31:31 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192692. 
+2001-09-12 02:31:31 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=lbs  Mode=Incremental_Dump         # Our PID=22336    time='09/12/01 02:30:03'    sybase on
+2001-09-12 02:31:32 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 02:31:34 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-12 02:31:35 Skytel [004397995] C  ALPHA  IntelliWatch Monitor: WARNING - Server CVGNA05.US.Schneider-Electric.com/A/SVR/Schneider MAY HAVE crashed. Waiting 280 seconds...
+2001-09-12 02:31:35 Skytel [005105186] A  ALPHA  dahljf@attens.com||Please join a bridge at 877 322 9648 904044 in regards to 75 broad power, Marty Ashley requests this.  
+2001-09-12 02:31:35 Skytel [004209192] C  ALPHA  udb@london.sps.mot.com|UDB Monitor died on London|UDB Monitor died on London  
+2001-09-12 02:31:36 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-12 02:31:36 Arch [0284968] C  ALPHA  UPCABLE IN TC0Y
+2001-09-12 02:31:39 Skytel [004477510] B  ALPHA  ERICY 3.94 UNCH NXTL 10.55 UNCH NOK 13.75 UNCH MOT 15.04 UNCH
+2001-09-12 02:31:39 Skytel [007574981] B ST NUM  852-105-3143   
+2001-09-12 02:31:40 Metrocall [1424509] D  ALPHA  Frm: FUNCTIONAL
+2001-09-12 02:31:40 Metrocall [0848090] C  ALPHA  F:fvs S:Servers Alive keep alive mail (DSFVS) M:Servers Alive keep alive mail (D
+2001-09-12 02:31:41 Skytel [004073309] D  ALPHA  4219 (47
+2001-09-12 02:31:42 Metrocall [1064384] A  ALPHA  Y/C  72.07/17   -46 SGD 1.7340/360 -020 HKD 7.7982/992 -012 TWD 34370/4470 -250  IDR  9030/9070 -055 PHP 51.140/240 -060 MYR 3.7995/005 +000 THB 44.230/300 -070 KRW12845/12851 -015 ZAR 8.5900/100 -100 MXN  9.510/530 +116 BRR 26600/6620 +06
+2001-09-12 02:31:42 Metrocall [1064377] C  ALPHA  US 10514/10422 +000 SP107500/10140+0000 FEI95955/96320/9653 9649/9638/9617/9607 SED 97005/7160/7130 96710/9630/9580/549 SEY9994/991/990/990 FSS9523/552/551/528 FLG 11594/11561 +76 FFI  4736/4776 -736 ND 13360/13820 +000 TY 10712+ FV 10616
+2001-09-12 02:31:43 Skytel [005203942] B ST NUM  918-267-5050   
+2001-09-12 02:31:45 Skytel [002357369] C  ALPHA  002649 CYCLIC TEST 
+2001-09-12 02:31:45 Skytel [003936496] A  ALPHA  SUN 37.84 UNCH LU 5.95 UNCH MOT 15.04 UNCH KMG 59.70 UNCH
+2001-09-12 02:31:45 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Error reading connection information for Ivr Tcp ports.
+2001-09-12 02:31:45 Skytel [003327216] A  ALPHA  002649 CYCLIC TEST 
+2001-09-12 02:31:45 Skytel [002139900] D SH/TONE 002649  
+2001-09-12 02:31:47 Metrocall [1064384] A  ALPHA  5
+2001-09-12 02:31:47 Skytel [005413894] B ST NUM  55188 (83 
+2001-09-12 02:31:49 Metrocall [1064375] B  ALPHA  NIKK _9610.10   -682 30 _99.02/03  5.438% GOLD 285.00/200 -100 S 4.23/33  PL 452.00 KS11   475.60 -64.97 HSI  _9315.20 -102.1 SSI   1435.75  -13.0 ORD   3051.30  -13.9 TWII  4176.93 -112.1 PD 455.00  JG 1.435%
+2001-09-12 02:31:50 Skytel [007571106] A ST NUM  275-035-2911   
+2001-09-12 02:31:50 Skytel [003897381] B  ALPHA  oncall:SEV 3: Rec#1547662(Assigned) SIEB:SC1 INTERFACE SIE HOSP NO ACTIVITY FOR 01 HOUR(S)
+2001-09-12 02:31:50 Skytel [002861584] A ST NUM  8685227799
+2001-09-12 02:31:51 Arch [0951631] D  ALPHA  :00330781 Severity: 1  Job UNPFEFA.UNPBWBEA failed, no recovery specified
+2001-09-12 02:31:51 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-12 02:31:51 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDSSPX_EQNY1  Database=eq_program  Mode=Incremental_Dump         # Our PID=22313    time='09/12/01 02:30:02'    sy
+2001-09-12 02:31:52 Skytel [005211966] D  ALPHA  (2 of 2) RQUE, POST 1 PSS'ER TIMOTHY WATEZ NOTIFIED AND CONDUCTING SEARCH. UPDATES WILL FOLLOW. FLOYD DISPATCHER.-Denver MegaCenter
+2001-09-12 02:31:53 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-12 02:31:53 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 172 processes on report2.ccbill.com. Timestamp key: 20010911232901 
+2001-09-12 02:31:54 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:31:54 Skytel [005362373] B  ALPHA  (1 of 2) INFORMED BY ALBUQUERE PD 911 OPERATOR OF A SPANISH MALE, APPROX 35 YRS, GREEN HAT, GRAY BLACK CLOTHING, WITH BLACK BACK PACK WHICH REPORTEDLY CONTAINS AN EXPLOSIVE IS BETWEEN THE US COURTHOUSE AND DENTENTION CENTER DOWNTOWN ALBUQUE
+2001-09-12 02:31:55 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-12 02:31:55 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 172 processes on report2.ccbill.com. Timestamp key: 20010911232700 
+2001-09-12 02:31:56 Skytel [004548825] C  ALPHA  (1 of 2) INFORMED BY ALBUQUERE PD 911 OPERATOR OF A SPANISH MALE, APPROX 35 YRS, GREEN HAT, GRAY BLACK CLOTHING, WITH BLACK BACK PACK WHICH REPORTEDLY CONTAINS AN EXPLOSIVE IS BETWEEN THE US COURTHOUSE AND DENTENTION CENTER DOWNTOWN ALBUQUE
+2001-09-12 02:31:56 Skytel [007047515] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 02:31:57 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-12 02:31:57 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 172 processes on report2.ccbill.com. Timestamp key: 20010911232801 
+2001-09-12 02:31:57 Arch [0899693] D  ALPHA  Please call Dave from the OSSC @ 913-859-1800 option 6. Thank you.
+2001-09-12 02:31:57 Arch [1604608] A  ALPHA  ISHD 1380870-Genesys Internet Suite- Please join Sitman bridge pin 220022. Users again not receiving screen pops. App Adm and AD engaged. Sitman Mike Bruns 816-965-1559
+2001-09-12 02:31:58 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #29-IX_T4211
+2001-09-12 02:31:58 Skytel [007494500] B SH/TONE 911     
+2001-09-12 02:31:58 Skytel [007543526] B ST NUM  0-562-693-4820-411  
+2001-09-12 02:31:58 Skytel [003663585] A  ALPHA  (1 of 2) INFORMED BY ALBUQUERE PD 911 OPERATOR OF A SPANISH MALE, APPROX 35 YRS, GREEN HAT, GRAY BLACK CLOTHING, WITH BLACK BACK PACK WHICH REPORTEDLY CONTAINS AN EXPLOSIVE IS BETWEEN THE US COURTHOUSE AND DENTENTION CENTER DOWNTOWN ALBUQUE
+2001-09-12 02:31:58 Skytel [003663591] B  ALPHA  (2 of 2) RQUE, POST 1 PSS'ER TIMOTHY WATEZ NOTIFIED AND CONDUCTING SEARCH. UPDATES WILL FOLLOW. FLOYD DISPATCHER.-Denver MegaCenter (54
+2001-09-12 02:31:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8121
+2001-09-12 02:31:59 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34

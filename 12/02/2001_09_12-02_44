@@ -1,0 +1,88 @@
+2001-09-12 02:44:00 Arch [0987275] C  ALPHA  s0191: 09/11 11:56:22 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:56:22
+2001-09-12 02:44:00 Arch [0739731] A  ALPHA  7200
+2001-09-12 02:44:00 Metrocall [1086280] C  ALPHA  P-1 PM255552 Store: 0714 COMPUTER Is store computer down? 09/12/01 01:36:02
+2001-09-12 02:44:00 Metrocall [1561386] C  ALPHA  Frm: MSN Txt: Hotmail Kevin Goddard:re: 908262
+2001-09-12 02:44:02 Arch [0987275] C  ALPHA  s0191: 09/11 11:59:03 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:59:03
+2001-09-12 02:44:02 Skytel [005329285] B SH/TONE 2947    
+2001-09-12 02:44:03 Skytel [002401821] D  ALPHA  saspcd02 Distributed Monitoring PALM.dm.ussa17.Unix.saspcd02/Daemon status on host saspcd02 09/11/01 23:40:23 PDT  Status: >>> critical <<< ussa17.PALM 
+2001-09-12 02:44:04 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-12 02:44:04 Arch [0987275] C  ALPHA  s0191: 09/11 12:04:03 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:04:03
+2001-09-12 02:44:04 Skytel {1092655} 3 2400 002653    
+2001-09-12 02:44:06 Arch [1625046] B  ALPHA  pkao@yahoo-inc.com (Subj: DGENTCL FAILED: gentcl_tw [ALL][PUSHIN])ORA-24324: service handle not initialized
+2001-09-12 02:44:08 Metrocall [0007690] C  ALPHA  THIS IS A TeSP PERIOTIK PAGE SEQUENTIAL NUMBER  4703
+2001-09-12 02:44:10 Arch [0492587] C  ALPHA  STALL DNS54EEZ.DBF R       3000
+2001-09-12 02:44:12 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router Aevia-I-GW at 23:42:07 Txt: Router Aevia-I-GW DOWN at 23:42:07 Address: 166.90.48.82 Date: 09/11/2001 Status: Timed Out ( 11010)
+2001-09-12 02:44:14 Arch [0510204] D  ALPHA  (20)84:ABS:
+2001-09-12 02:44:14 Arch [0516304] A  ALPHA  (31)18:ABS:
+2001-09-12 02:44:19 Metrocall [002534882] A  ALPHA  PM197744 Sev: 2 Grp: pya prod svcs Loc: headquarters Name: tivoli Ph: 866-479-2873 Descr: pts1cto1
+2001-09-12 02:44:19 Metrocall [002534882] A  ALPHA  PM197745 Sev: 2 Grp: pya prod svcs Loc: headquarters Name: tivoli Ph: 866-479-2873 Descr: pts1ctov
+2001-09-12 02:44:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1056
+2001-09-12 02:44:21 Arch [0901087] D  ALPHA  [01/02]:The Problem with ID 00330182 Severity 2 Description  moxagj.pitts.bayer.com- Interface Serial6/0/0.37 down. has not been resolved.It has been escalated to level 2 on...
+2001-09-12 02:44:21 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192839. 
+2001-09-12 02:44:21 Arch [0939437] D  ALPHA  CA Helpdesk <CAH|wb0300ux114: CR#: 144232 Transfe|Summary : Agent not responding Assigned to: CA Unix Group, Doud, Walter Description: "Host:Solaris Solaris HpxAgent Poll Agent:HpxAgent N/A DOWN NT/UNIX Heartbeat args= Source: tng SendMsg S
+2001-09-12 02:44:21 Arch [0987275] C  ALPHA  s0191: 09/11 12:12:06 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:12:07
+2001-09-12 02:44:23 Arch [0901087] D  ALPHA  [02/02] 09/11/2001 at 15:27:52.
+2001-09-12 02:44:23 Arch [0987275] C  ALPHA  s0191: 09/11 12:14:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:14:49
+2001-09-12 02:44:25 Arch [0987275] C  ALPHA  s0191: 09/11 12:20:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:20:24
+2001-09-12 02:44:27 Arch [0987275] C  ALPHA  s0191: 09/11 12:28:34 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:28:34
+2001-09-12 02:44:30 Metrocall [1422900] B  ALPHA  PLEASE DRIVE BY ON TIVERTON AND LOOK FOR SUSPICIOUS PEOPLE
+2001-09-12 02:44:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3312
+2001-09-12 02:44:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3312
+2001-09-12 02:44:34 Arch [1122197] B  ALPHA  18:ABS:
+2001-09-12 02:44:34 Arch [1020721] A  ALPHA  (24)18:ABS:
+2001-09-12 02:44:34 Arch [1413750] B  ALPHA  (7)18:ABS:
+2001-09-12 02:44:34 Arch [0555773] D  ALPHA  (5)24:ABS:
+2001-09-12 02:44:34 Arch [0907850] C  ALPHA  (25)18:ABS:
+2001-09-12 02:44:34 Arch [1107578] C  ALPHA  (23)17:ABS:
+2001-09-12 02:44:35 Skytel [005001895] B  ALPHA  [sps/18] 200 sps-apps1.cps.intel.com relay-ssl 0.679 OK Applicationis alive (/seem/healthcheck.asp) 3:43:38
+2001-09-12 02:44:35 Skytel [005242799] D SH/TONE 25598   
+2001-09-12 02:44:36 Arch [0908108] D  ALPHA  1/02:****CHG-TKT**** TYPE: Major  OP: 09/12/01 01:29:39 Tkt: NOC000000084892 STAT: WIP  COMPANY NAME: RESIDENTIAL   SITE: Biloxi  LOG: SMS00BHM reports all circuits back up.  No customers affected now
+2001-09-12 02:44:36 Arch [1265683] A  ALPHA  1/02:****CHG-TKT**** TYPE: Major  OP: 09/12/01 01:29:39 Tkt: NOC000000084892 STAT: WIP  COMPANY NAME: RESIDENTIAL   SITE: Biloxi  LOG: SMS00BHM reports all circuits back up.  No customers affected now
+2001-09-12 02:44:37 Skytel [003412019] A SH/TONE 110     
+2001-09-12 02:44:38 Arch [0908108] D  ALPHA  2/02:Juckins at FastAccess  1.800.317.3343 opt 3,2
+2001-09-12 02:44:39 Skytel [005211079] B SH/TONE 685-1100
+2001-09-12 02:44:39 Skytel [004587207] B SH/TONE 1289    
+2001-09-12 02:44:39 Skytel [005048779] C  ALPHA  LMNLAN1I RAMSES PTBT2 Interface Serial0 down.
+2001-09-12 02:44:39 Skytel [004405068] D  ALPHA  B U.Pleasanton, CA      
+2001-09-12 02:44:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:44:40 Metrocall [1587470] D  ALPHA  Frm: MSN Txt: Hotmail Admissions@U_D_Program.net:Your diploma is ready
+2001-09-12 02:44:40 Metrocall [1543322] C  ALPHA  MAXM WDHL_T TRANSCPT kPATHNAMEo WDHL_RX1000 HAS NO CONNECTION TO SERVER, PLEASE INVESTIGATE 09/11/0123:41:26
+2001-09-12 02:44:40 Metrocall [1064378] C  ALPHA  DOLLAR STRUGGLES IN EUROPE IN US ATTACK AFTERMATH
+2001-09-12 02:44:40 Metrocall [1064395] C  ALPHA  )?#`B@wHHu^@CJIOfSHMIASjTjl^OLbttDf\`buZT~aEPRYrBkSPPZeRCCehHLZiEiSXMRP`AHDCj[T@p
+2001-09-12 02:44:40 Metrocall [1064378] C  ALPHA  FRENCH AUGUST EU-NORM CONSUMER PRICES FLAT (0.0) M/M, GIVING r/ "PCT."..........
+2001-09-12 02:44:40 Metrocall [1064395] C  ALPHA  .........
+2001-09-12 02:44:41 Skytel [007563091] A ST NUM  0-818-993-3003 
+2001-09-12 02:44:41 Skytel [005345243] C  ALPHA  John please call Stamford NCC ;  video setups requested.  Jerry x4410
+2001-09-12 02:44:42 Metrocall [1064395] C  ALPHA  Hu]@EBMRbsh\aAAjqzmNh`buUlz_RfhH\~]Sj3@-...)@X\.f..S..Q@@X.x-X."@..`".@./@..@. `."@*o..p.5........;..!..+8.
+2001-09-12 02:44:43 Skytel [002752224] A SH/TONE 2481 (5 
+2001-09-12 02:44:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #46-IX_T4607
+2001-09-12 02:44:43 Skytel [005132640] A  ALPHA  4) LMNLAN1I RAMSES PTBT2 Interface Serial0 down.
+2001-09-12 02:44:44 Arch [0987275] C  ALPHA  s0191: 09/11 12:31:16 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:31:16
+2001-09-12 02:44:44 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2577..
+2001-09-12 02:44:45 Skytel [002264307] A SH/TONE 6801    
+2001-09-12 02:44:45 Skytel [1293694] D  ALPHA  COMUNIDAD TERMINA 1:42 HRS. DESP. 2000 FERNANDO.
+2001-09-12 02:44:45 Skytel [005040245] B ST NUM  468-707-4568-0 
+2001-09-12 02:44:45 Skytel [003258865] A SH/TONE 3357    
+2001-09-12 02:44:49 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router 611FP-1MBT at 23:42:08 Txt: Router 611FP-1MBT DOWN at 23:42:08 Address: 209.247.46.226 Date: 09/11/2001 Status: Host Unreachable ( 11003)
+2001-09-12 02:44:49 Skytel [004690331] C  ALPHA  netrangr@prodrubdir.hew.us.ml.com|Alm: 4 3150:0 1|Tme: 2001/09/12 01:45:03 Src: I 216.35.81.40:32015 Dst: O wstc.westplex.ml.com:21 NSX: [10008.17001.41] SID: 3150 "FTP SITE" Msg: "SITE"    
+2001-09-12 02:44:50 Skytel [007555619] A  ALPHA  netrangr@prodrubdir.hew.us.ml.com|Alm: 4 3150:0 1|Tme: 2001/09/12 01:45:03 Src: I 216.35.81.40:32015 Dst: O wstc.westplex.ml.com:21 NSX: [10008.17001.41] SID: 3150 "FTP SITE" Msg: "SITE"    
+2001-09-12 02:44:51 Arch [1265683] A  ALPHA  2/02:Juckins at FastAccess  1.800.317.3343 opt 3,2
+2001-09-12 02:44:51 Arch [0987275] C  ALPHA  s0191: 09/11 12:36:48 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:36:48
+2001-09-12 02:44:52 Skytel [003934518] B  ALPHA  netrangr@prodrubdir.hew.us.ml.com|Alm: 4 3150:0 1|Tme: 2001/09/12 01:45:03 Src: I 216.35.81.40:32015 Dst: O wstc.westplex.ml.com:21 NSX: [10008.17001.41] SID: 3150 "FTP SITE" Msg: "SITE"    
+2001-09-12 02:44:52 Skytel [003917363] A  ALPHA  (2 of 2) f I sounded mean just worried
+2001-09-12 02:44:53 Arch [0987275] C  ALPHA  s0191: 09/11 12:44:46 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:44:47
+2001-09-12 02:44:55 Arch [1407124] B  ALPHA  (19)NT Server KCMSEP01 UP at 01:56:07
+2001-09-12 02:44:55 Arch [0929039] D  ALPHA  asmith2| IC is Mohammad Yassini IC is in the main lobby of building 5 SOC AS  
+2001-09-12 02:44:55 Arch [0788813] D  ALPHA  (1)10:ABS:
+2001-09-12 02:44:55 Arch [1008323] A  ALPHA  (10)17:ABS:
+2001-09-12 02:44:55 Arch [0733453] D  ALPHA  From:Credit Systems/PI/Prudential@PRUDENTIAL Subject:XPORT STMUNI FILE HAS BEEN CREATED 09/12/2001
+2001-09-12 02:44:55 Arch [0241791] D  ALPHA  (22)REQQ time limit exceeded for:PASSPORT_FTW_O:12-sep-2001 00:02
+2001-09-12 02:44:55 Arch [1071526] B  ALPHA  From:Credit Systems/PI/Prudential@PRUDENTIAL Subject:XPORT STMUNI FILE HAS BEEN CREATED 09/12/2001
+2001-09-12 02:44:57 Arch [0241791] D  ALPHA  (23)REQQ time limit exceeded for:PASSPORT_CHA_A:12-sep-2001 00:02
+2001-09-12 02:44:57 Arch [1618116] B  ALPHA  F:cltbld@netscape.com (Client Account) S:[2001-09-11-22-0.9.2ec] Win32 Build done! SeaMonkey windows build done: rheeet!    
+2001-09-12 02:44:58 Metrocall [002534882] A  ALPHA  PM197764 Sev: 2 Grp: pya prod svcs Loc: headquarters Name: tivoli Ph: 866-479-2873 Descr: pts1cdel
+2001-09-12 02:44:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8134
+2001-09-12 02:44:59 Arch [0241791] D  ALPHA  (24)REQQ time limit exceeded for:PASSPORT_SAT_D:12-sep-2001 00:02
+2001-09-12 02:44:59 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs05 Sev:5 # 600039 too few/many quotes ./bbsm 3.1.14.1 09/11/01 23:45:24 PDT7 Instanc
+2001-09-12 02:44:59 Metrocall [1064381] D  ALPHA  KEY GULF OIL PRODUCERS CONTINUE U.S. EXPORTS
+2001-09-12 02:44:59 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4704

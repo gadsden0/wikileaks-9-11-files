@@ -1,0 +1,129 @@
+2001-09-12 00:15:00 Skytel [0001403] C  ALPHA  ]!z00]"AB]$ (1
+2001-09-12 00:15:00 Skytel [007604212] B SH/TONE 545     
+2001-09-12 00:15:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7984
+2001-09-12 00:15:01 Arch [0578031] D  ALPHA  Terrorist attack update:  1-All app except SpeedPay and CTI Genesis reporting OK.  2-Network and firewalls reporting OK.  3-RAS and ERAS at 35% of capacity.
+2001-09-12 00:15:01 Arch [0333409] A  ALPHA  Terrorist attack update:  1-All app except SpeedPay and CTI Genesis reporting OK.  2-Network and firewalls reporting OK.  3-RAS and ERAS at 35% of capacity.
+2001-09-12 00:15:01 Arch [1398238] D  ALPHA  knox6060(161.44.216.60): failed ifDescr check, expect
+2001-09-12 00:15:01 Arch [0960331] C  ALPHA  Terrorist attack update:  1-All app except SpeedPay and CTI Genesis reporting OK.  2-Network and firewalls reporting OK.  3-RAS and ERAS at 35% of capacity.
+2001-09-12 00:15:01 Arch [0893066] C  ALPHA  Terrorist attack update:  1-All app except SpeedPay and CTI Genesis reporting OK.  
+2001-09-12 00:15:01 Arch [0044360] C  ALPHA  29-PLS CALL MARIE AT 973-771-1442.
+2001-09-12 00:15:01 Arch [0915289] C  ALPHA  Terrorist attack update:  1-All app except SpeedPay and CTI Genesis reporting OK.  2-Network and firewalls reporting OK.  3-RAS and ERAS at 35% of capacity.
+2001-09-12 00:15:01 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Rebo
+2001-09-12 00:15:03 Arch [1398238] D  ALPHA  ed: hme0, got: timeout for hme0
+2001-09-12 00:15:03 Arch [0893066] C  ALPHA  2-Network and firewalls reporting OK.  3-RAS and ERAS at 35% of capacity.
+2001-09-12 00:15:03 Arch [0987275] C  ALPHA  ot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 00:15:03 Skytel [005105051] C  ALPHA  HI LOVE, I CALLED. YOU MUST BE ONLINE. I'M FEELING SICK AND I'M GOING TO BED. I LOVE YOU AND WILL CALL YOU TOMORROW. GOOD NIGHT.
+2001-09-12 00:15:05 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-12 00:15:05 Arch [100158415] D  ALPHA  818 384-0051
+2001-09-12 00:15:06 Skytel {1256008} 1 1200 Power Trading Ceases as Utilities Step Up Security After Attacks[DJ NEWS].
+2001-09-12 00:15:07 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 00:15:07 Skytel {0153115} 3 1200 5001 
+2001-09-12 00:15:07 Skytel {0597643} 3 1200 765  62   
+2001-09-12 00:15:08 Metrocall [1146083] A  ALPHA  LP-SWAT: LP application server (re2xlpf) went down at 11:50 pm with the USA support we brought re2xlpf back up.  We are in the process of clean shut down.  Case#511098
+2001-09-12 00:15:08 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4554
+2001-09-12 00:15:09 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-12 00:15:09 Arch [0927727] D  ALPHA  db_update@factse|VMS PAGE|NY UPDATE PAST DUE: JOB_KEY=BATCH_CLIENT 
+2001-09-12 00:15:11 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-12 00:15:13 Arch [0987900] D  ALPHA  If you need a hug, or a pillow to rest I'm here.  No pressure and I understand.  Just wanted you to know I care, I love you, and I appreciate the phone calls today. xxoo sushi
+2001-09-12 00:15:14 Arch [0241791] D  ALPHA  (15)REQQ time limit exceeded for:PASSPORT_KC_B:12-sep-2001 00:04
+2001-09-12 00:15:14 Arch [1272423] B  ALPHA  (26)sybase: (20)Holding User: sbps_batch Waiting User: sa Time Blocked: 0minutes on Server D1_SYBASE
+2001-09-12 00:15:16 Arch [0241791] D  ALPHA  (16)REQQ time limit exceeded for:PASSPORT_SPR_M:12-sep-2001 00:03
+2001-09-12 00:15:18 Arch [0241791] D  ALPHA  (17)REQQ time limit exceeded for:PASSPORT_AKR_F:12-sep-2001 00:03
+2001-09-12 00:15:18 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 00:15:18 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDSTRD_EDGNY1  Database=eq_program  Mode=Incremental_Dump         # Our PID=8854    time='09/12/01 00:15:01'    sy
+2001-09-12 00:15:18 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191124. 
+2001-09-12 00:15:19 Metrocall [0671845] B  ALPHA  1-712130-70-6877-17-10-21-1-87-17701775-823-21
+2001-09-12 00:15:19 Metrocall [0814658] A  ALPHA  CSC reporting terminals and printers @ 215 Park Ave RJE room unavailable @ 22:30 HRS. Net Mgmt Support pursuing resolution.
+2001-09-12 00:15:20 Arch [0241791] D  ALPHA  (18)REQQ time limit exceeded for:PASSPORT_SAT_I:12-sep-2001 00:04
+2001-09-12 00:15:20 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-12 00:15:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0907
+2001-09-12 00:15:22 Arch [1265683] A  ALPHA  1/02:****NEW-TKT**** TYPE: Major  OP: 09/12/01 00:15:00 Tkt: NOC000000084886 STAT: WIP      SITE: Atlanta - Stone Mountain PROB: ADSL-ASM-DSG reports DSLAM outage in Norcross, GA area. Cu 
+2001-09-12 00:15:22 Arch [0908108] D  ALPHA  1/02:****NEW-TKT**** TYPE: Major  OP: 09/12/01 00:15:00 Tkt: NOC000000084886 STAT: WIP      SITE: Atlanta - Stone Mountain PROB: ADSL-ASM-DSG reports DSLAM outage in Norcross, GA area. Cu affected: 50
+2001-09-12 00:15:22 Arch [0241791] D  ALPHA  (19)REQQ time limit exceeded for:PASSPORT_FTW_O:12-sep-2001 00:02
+2001-09-12 00:15:22 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 00:15:24 Arch [1265683] A  ALPHA  affected: 50
+2001-09-12 00:15:24 Arch [0908108] D  ALPHA  2/02:Contact: FastAccess 1.800.317.3343 opt 3,2
+2001-09-12 00:15:24 Arch [0241791] D  ALPHA  (20)REQQ time limit exceeded for:PASSPORT_CHA_A:12-sep-2001 00:02
+2001-09-12 00:15:24 Arch [1052209] A  ALPHA  kbenson|I can be at work in 15 minutes, Joe and Scott said they dont need me, I wanna help if I can. Cant do que from home, but willing to go into work, Please, I cant sleep. Karl Page or email me.   
+2001-09-12 00:15:30 Metrocall [002117677] D  ALPHA  Frm: executive@ny0585bapp02.als.att.com Sub: SC_ASR_DS_FAILED Txt: Wed Sep 12 00:15:14 EDT 2001 Error, ext_asradm desmiadb, ret_code = 1
+2001-09-12 00:15:30 Metrocall [002119223] B  ALPHA  Frm: executive@ny0585bapp02.als.att.com Sub: SC_ASR_DS_FAILED Txt: Wed Sep 12 00:15:14 EDT 2
+2001-09-12 00:15:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3163
+2001-09-12 00:15:31 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-12 00:15:31 Arch [1025609] C  ALPHA  70-PLEASE CALL 47.
+2001-09-12 00:15:31 Skytel [005350539] C ST NUM  719-596-2769   
+2001-09-12 00:15:31 Skytel [005236495] D ST NUM  110005052 
+2001-09-12 00:15:31 Skytel [007579147] C SH/TONE 1034    
+2001-09-12 00:15:31 Skytel [005328903] B ST NUM  477-9577 U (13 
+2001-09-12 00:15:32 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3163
+2001-09-12 00:15:32 Metrocall [002119223] B  ALPHA  001 Error, ext_asradm desmiadb, ret_code = 1
+2001-09-12 00:15:32 Skytel [002675341] D  ALPHA  oracle@cfs.capital.ge.com|Twice Daily CMLD MetaData Export.|Export Failed: status=127.  2001Sep12/001504-EDT  
+2001-09-12 00:15:33 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-12 00:15:33 Skytel [002995088] A SH/TONE 86 (74  
+2001-09-12 00:15:33 Skytel [002401821] D  ALPHA  ssmcscsm13 N/A CBB0DC01:Agent:caiW2kOs:w2kLVolInst:Critical Logical Disk/File System C:.  
+2001-09-12 00:15:33 Skytel [002736665] C ST NUM  988-630-9333   
+2001-09-12 00:15:35 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 00:15:35 Arch [0241791] D  ALPHA  (21)REQQ time limit exceeded for:PASSPORT_SAT_D:12-sep-2001 00:02
+2001-09-12 00:15:35 Skytel [007607721] C ST NUM  7) 800-877-9220
+2001-09-12 00:15:35 Skytel [002777763] A ST NUM  818-981-3717-11
+2001-09-12 00:15:35 Skytel [005205418] C ST NUM  69) 559-7544   
+2001-09-12 00:15:35 Skytel [004434983] B SH/TONE 546-7940
+2001-09-12 00:15:35 Skytel [005049770] C ST NUM  0-216-761-4242 
+2001-09-12 00:15:35 Skytel [007041316] B SH/TONE 727-6891
+2001-09-12 00:15:35 Skytel [005329574] B  ALPHA  13R: FRANK DARMIENTO 887 W.15TH NEWPORT BEACH 92663 949 631 6060 OXYGEN TROUBLESHOOT GIVE TO B/U PER CHONITO
+2001-09-12 00:15:37 Arch [0241791] D  ALPHA  (22)REQQ time limit exceeded for:PASSPORT_NYC_U:12-sep-2001 00:03
+2001-09-12 00:15:37 Arch [0940126] D  ALPHA  Y! <y-finance@ya|$499 deals on iPAQ Pocket PC ICOS 0.00 0.00; ^BTK 500.59 0.00; ^DJI 0.00 0.00; Delayed Reuters 
+2001-09-12 00:15:37 Skytel [002868925] D  ALPHA  Internet Traffic Slows, Web Sites Are Crowded Following Attacks[DJ NEWS]
+2001-09-12 00:15:37 Skytel [005003958] B SH/TONE 06166   
+2001-09-12 00:15:37 Skytel [003329328] A  ALPHA  Internet Traffic Slows, Web Sites Are Crowded Following Attacks[DJ NEWS] (57
+2001-09-12 00:15:37 Skytel [004685754] C  ALPHA  CALL ME      
+2001-09-12 00:15:37 Skytel [002360882] A  ALPHA  PLEASE CALL RAJ CHOJAR AT 516-938-0311.
+2001-09-12 00:15:39 Arch [0241791] D  ALPHA  (23)REQQ time limit exceeded for:PASSPORT_FTW_H:12-sep-2001 00:03
+2001-09-12 00:15:39 Skytel [005209669] B ST NUM  726-487-4531-411    
+2001-09-12 00:15:39 Skytel [002554444] D SH/TONE 5555 (58
+2001-09-12 00:15:40 Metrocall [1577957] B  ALPHA  PLEASE CHECK VOICE MAILBOX...6692775
+2001-09-12 00:15:40 Metrocall [0646042] C  ALPHA  08-SUZANNE CALLED. 310-822-5819.
+2001-09-12 00:15:41 Arch [0241791] D  ALPHA  (24)REQQ time limit exceeded for:PASSPORT_SEA_B:12-sep-2001 00:03
+2001-09-12 00:15:41 Skytel [005390424] C  ALPHA  3284 TELECOMET INC       
+2001-09-12 00:15:41 Skytel [005042522] C  ALPHA  Production Alert from mcfl1y01 : DISPLAY:HPOVMSG:FTPFRWMS-WMS FTP UPLOAD FAILURE FOR PHARM 09.
+2001-09-12 00:15:41 Skytel [003435867] C SH/TONE 53318   
+2001-09-12 00:15:41 Skytel [004547038] D SH/TONE 800-7473
+2001-09-12 00:15:41 Skytel [003266515] A  ALPHA  MSFT 57.58 +2.18 IBM 96.47 -0.12 AAPL 17.37 +0.09
+2001-09-12 00:15:42 Metrocall [1064374] B  ALPHA  YEN  119.30/40 -042 EUR  0.9099/04 -004 CHF  1.6400/50 -005 GBP  1.4735/50 -016 CAD  1.5620/30 -017 AUD  0.5169/74 -026 NZD  0.4266/73 -039 DEM  2.1483/95 +009  E/C  1.4991/96 +000 E/Y  108.99/09 +000 E/S  0.6168/75 -024 USD
+2001-09-12 00:15:42 Metrocall [1064377] C  ALPHA  SED97000/97175/9710 9671/9627/9579/9550 SEY 99940/99915+000 99900/ 99905/ 99865 SSI _9395/_9360-905 JGB 13876/13714 -17 US  10514/10422 +00 SP107500/10140+0000 DJ _9630/_9665 +000 ND 13360/13820 +000 TY 10712+ FV 10616  TU 10328+
+2001-09-12 00:15:43 Arch [0241791] D  ALPHA  (25)REQQ time limit exceeded for:PASSPORT_ATL_N:12-sep-2001 00:03
+2001-09-12 00:15:43 Skytel [005042918] B ST NUM  947-700-5458   
+2001-09-12 00:15:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #12-IX_T1706
+2001-09-12 00:15:43 Skytel [005316972] D SH/TONE 585-8218
+2001-09-12 00:15:44 Arch [0241791] D  ALPHA  (26)REQQ time limit exceeded for:PASSPORT_SPR_N:12-sep-2001 00:03
+2001-09-12 00:15:44 Metrocall [1064374] B  ALPHA       113.36 -002
+2001-09-12 00:15:44 Metrocall [1064385] A  ALPHA  JY  8317/8385  +042 EC  9067/9047 +0067 BP 14526/14300 +000 SF  6005/6010  +070 CD  6388/6380  -010 AD  5169/5152  +031 DM  4636/4626  +034 MP103750/10290 -550 PTB 9039/8942  +059 2YBA 9557/9576  +27 2YTT 9542/9530  +39 2YTC
+2001-09-12 00:15:45 Metrocall [1064385] A  ALPHA   9459/9456  +21 CAC  3960/4025 +000
+2001-09-12 00:15:45 Skytel [005066358] B  ALPHA  153115@emc.fedex.com||Please cancel all AM shuttles  OAKH/OAKRS for 9/12. It will be trucked to you via RTD!  
+2001-09-12 00:15:45 Skytel [007109749] B SH/TONE 4312    
+2001-09-12 00:15:45 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Error reading connection information for Ivr Tcp ports.
+2001-09-12 00:15:45 Skytel [002381560] C  ALPHA  (ESC:COCPSS) CDCA: JOB @CMSZ78 HAS A JCL ERROR. 
+2001-09-12 00:15:47 Metrocall [0656518] B  ALPHA  12-Sep-2001/00:15:27/SICB/7492 PRINCESS CAROL CT ,PWC /08/A08 /SPANISH LANG LINE #3413 /HUSBAND HAS BEEN VOMITTING ALL DAY
+2001-09-12 00:15:48 Arch [1318633] C  ALPHA  Chiller # 7 is ON  
+2001-09-12 00:15:48 Skytel [002694547] A  ALPHA  3) PROBLEM: 16608787 WAS OPENED ACCT#: A775S AT PRIO: 1 ON 09/12/01 AT 00:13 DESC/1: -NODE DOWN EQFDE215 WITH IP ADDRESS: 10.124.3.15 ISDN DESC/2: FAILED 
+2001-09-12 00:15:48 Skytel [004707990] B  ALPHA  Manjit581@cs.com|(no subject)|but i cant help it and since u said it makes u smile well... i miss u
+2001-09-12 00:15:50 Arch [0927727] D  ALPHA  db_update@factse|VMS PAGE|NY UPDATE PAST DUE: JOB_KEY=CUJO_JAMS_CRITICAL 
+2001-09-12 00:15:50 Skytel [005001895] B  ALPHA  [sps/1] 100 supplier.intel.com relay 1.729 Bad response from plug-in(/metrios/aspcheck.asp) 2:44:31
+2001-09-12 00:15:50 Skytel [007593006] D SH/TONE 412-1934
+2001-09-12 00:15:52 Arch [0927727] D  ALPHA  db_update@factse|VMS PAGE|NY UPDATE PAST DUE: JOB_KEY=EDI_ADR_DB 
+2001-09-12 00:15:52 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-12 00:15:52 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191131. 
+2001-09-12 00:15:52 Arch [0969387] C  ALPHA  212 778-1400
+2001-09-12 00:15:52 Skytel [003066288] A ST NUM  514-586-9434 (85    
+2001-09-12 00:15:54 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-12 00:15:54 Arch [0241791] D  ALPHA  (27)REQQ time limit exceeded for:PASSPORT_AKR_F:12-sep-2001 00:03
+2001-09-12 00:15:54 Arch [0509800] C  ALPHA  (17)CU0231542573: PSAM PCS PRELIMINARY ROLLFORWARD REPORTS HAVE COMPLETED.     
+2001-09-12 00:15:54 Skytel [004587207] B SH/TONE 1289    
+2001-09-12 00:15:54 Skytel [007107529] C ST NUM  459-264-4625   
+2001-09-12 00:15:54 Skytel [003409612] D SH/TONE 513-0902
+2001-09-12 00:15:56 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-12 00:15:56 Arch [0241791] D  ALPHA  (28)REQQ time limit exceeded for:PASSPORT_REL_D:12-sep-2001 00:03
+2001-09-12 00:15:58 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-12 00:15:58 Arch [0241791] D  ALPHA  (29)REQQ time limit exceeded for:PASSPORT_ORL_A:12-sep-2001 00:03
+2001-09-12 00:15:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7985
+2001-09-12 00:15:59 Arch [0241791] D  ALPHA  (30)REQQ time limit exceeded for:PASSPORT_ATL_L:12-sep-2001 00:03
+2001-09-12 00:15:59 Metrocall [1560754] A  ALPHA  Mary 2332401

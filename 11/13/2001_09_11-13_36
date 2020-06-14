@@ -1,0 +1,642 @@
+2001-09-11 13:36:00 Metrocall {1044695} 2 2400 Please call Perry Pennison in Morgan City - 504-385-6400 or 800-685-4228..
+2001-09-11 13:36:00 Weblink_B [0002655] D  ALPHA  ubject: Safety Fair - Greensboro - Expecting 3-4 hundred Saturday. Should they cancel. Call Al in Rodney's office or me. Linda Clark Safety Team 404-841-2275 Safety 24-7 lclark@colpipe.com [71]
+2001-09-11 13:36:01 Arch [0624039] B  ALPHA  229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:01 Arch [0968204] D  ALPHA  (4)Initial 
+2001-09-11 13:36:01 Arch [1613921] A  ALPHA  941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:01 Arch [1152100] B  ALPHA  (8)In
+2001-09-11 13:36:01 Arch [0509989] B  ALPHA   in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:01 Arch [1236660] B  ALPHA  (24)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application err
+2001-09-11 13:36:01 Arch [0509889] A  ALPHA  n/Babette 800-733-4822*
+2001-09-11 13:36:01 Arch [1303015] B  ALPHA  (14)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Si
+2001-09-11 13:36:01 Skytel [005108328] C  ALPHA   SERVICE RECAP  Inbound Van Scans: 5494   LATES:       SERVICE:   .   A.M
+2001-09-11 13:36:01 Skytel [002384012] D  ALPHA  WARNING 1 - Cannot connect to SQL Server ALLOCDBSRVR
+2001-09-11 13:36:01 Skytel [004683526] B SH/TONE 7353    
+2001-09-11 13:36:01 Skytel [003931401] C  ALPHA  KATHY, PLEASE CALL ME AT HOME NOW! 770 322 6280
+2001-09-11 13:36:01 Skytel [007540750] D ST NUM  870-223-9000   
+2001-09-11 13:36:02 Weblink_B [1182762] C  ALPHA  (0270320090)(E) From: Martin Otero 
+2001-09-11 13:36:03 Arch [0968204] D  ALPHA  X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:03 Arch [1412374] B  ALPHA  11am man
+2001-09-11 13:36:03 Arch [1152100] B  ALPHA  itial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:03 Arch [1422966] B  ALPHA  (3
+2001-09-11 13:36:03 Arch [1236660] B  ALPHA  ors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:03 Arch [0461356] D  ALPHA  Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application erro
+2001-09-11 13:36:03 Arch [1303015] B  ALPHA  tman/Babette 800-733-4822*
+2001-09-11 13:36:03 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7345
+2001-09-11 13:36:03 Arch [0476281] C  ALPHA  (27)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perfo
+2001-09-11 13:36:03 Metrocall [002566596] B  ALPHA  Frm: RM-gmnmc@ems.att.com Txt: TEAM: AS OF 1:30 PM ALL GOVERNMENT SERVICES ARE PERFORMING NORMALLY. <NMC>
+2001-09-11 13:36:03 Metrocall [002472231] B  ALPHA  Frm: RM-gmnmc@ems.att.com Txt: TEAM: A
+2001-09-11 13:36:03 Metrocall [0570331] C  ALPHA  call me 1315
+2001-09-11 13:36:03 Metrocall [002160560] A  ALPHA  Frm: RM-gmnmc@ems.att.com Txt: TEAM: AS OF 1:30 PM ALL GOVERNMENT SERVICES ARE PERFORMING NORMALLY. <NMC>
+2001-09-11 13:36:03 Skytel [007009809] A ST NUM  12 8607217287  
+2001-09-11 13:36:03 Skytel [003469712] A ST NUM  800-241-3624   
+2001-09-11 13:36:03 Skytel [002401821] D  ALPHA  206.122.40.73 Mount Pending on 085B for G05688. Jobname = DFHSM  Wait= 65 min ussa11.SSMC 
+2001-09-11 13:36:03 Skytel [005203861] B SH/TONE 99      
+2001-09-11 13:36:03 Skytel [005056406] B  ALPHA  203336516 PgCnt: 02 Emp# 100250 COMPAQ EQ# 10673108 Donald Bell:4178871526 Due BY 0911 @ 1700 Springfield 
+2001-09-11 13:36:03 Skytel [007567765] B ST NUM  170-1131-1
+2001-09-11 13:36:03 Skytel [003491097] C ST NUM  201-775-0031   
+2001-09-11 13:36:03 Skytel [003051160] C SH/TONE 1272    
+2001-09-11 13:36:03 Skytel [005524624] A SH/TONE 274-0000
+2001-09-11 13:36:03 Skytel [004139797] B  ALPHA  925-823-7288 (92
+2001-09-11 13:36:03 Skytel [005205659] C SH/TONE 258-5900
+2001-09-11 13:36:04 Weblink_B [1182762] C  ALPHA  Please call me ASAP @ 661-263-1753!!!
+2001-09-11 13:36:04 Weblink_B [1299456] A  ALPHA  HOPE YOU/EVERYONE'S OK AND ENJOYING THE TRIP.  WITH ALL THAT IS HAPPENING TODAY, JUST WANTED TO COMMUNICATE. SEE YOU SOON. WENDY
+2001-09-11 13:36:05 Arch [1412374] B  ALPHA  datory meeting a/b conf room
+2001-09-11 13:36:05 Arch [1610977] A  ALPHA  (31)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accoun
+2001-09-11 13:36:05 Arch [1422966] B  ALPHA  )Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:05 Arch [0461356] D  ALPHA  rs in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:05 Arch [1063275] C  ALPHA  29-BUILDING IS CLOSED ALL DAY. NO WORD ON TOMORROW. -LIZ
+2001-09-11 13:36:05 Arch [0476281] C  ALPHA  rm maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:05 Arch [1604155] C  ALPHA  (32)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or pe
+2001-09-11 13:36:05 Metrocall [002472231] B  ALPHA  S OF 1:30 PM ALL GOVERNMENT SERVICES ARE PERFORMING NORMALLY. <NMC>
+2001-09-11 13:36:05 Metrocall [1553379] A  ALPHA  333/ / 252070929/ 100492/ Kings County Hospita/ 451 Clarkson Ave/ Brooklyn/ Agatha Valcourt Rx/ 718-245-4313x04316/ Cust clld...tec
+2001-09-11 13:36:05 Skytel [004727586] A  ALPHA  Ray, under the circumstances, please let me know if you need me back in the office to work on COB. Glen.
+2001-09-11 13:36:05 Skytel [002358319] D  ALPHA  (...) 5000 Bad file number
+2001-09-11 13:36:05 Skytel [004587818] C ST NUM  313-353-3662   
+2001-09-11 13:36:05 Skytel [003904303] D SH/TONE 99      
+2001-09-11 13:36:05 Skytel [007591727] D SH/TONE 67225   
+2001-09-11 13:36:05 Skytel [005051043] A SH/TONE 11111   
+2001-09-11 13:36:05 Skytel [007007789] D  ALPHA  Y! ||$499 deals on iPAQ Pocket PC Telecom Networks Stressed, but Operating Reuters  
+2001-09-11 13:36:05 Weblink_B [1067912] C  ALPHA  [root 13:36 2] FIREWALL. Msg OVERDUE 0 Hrs 14 Min on seq FIREWALL1:09-11-2001-13:20:02.
+2001-09-11 13:36:06 Skytel {1328632} 3 1200 972-313-9445   
+2001-09-11 13:36:06 Skytel {1336786} 1 1200 VAR 65.20 UNCH
+2001-09-11 13:36:06 Skytel {0614517} 3 1200 826-5650  
+2001-09-11 13:36:06 Skytel {0912950} 3 1200 53781
+2001-09-11 13:36:06 Skytel {0842345} 3 1200 407-825-4451   
+2001-09-11 13:36:06 Skytel {0145675} 3 1200 956-423-3420   
+2001-09-11 13:36:06 Skytel {1707181} 1 1200 519-255-4135   
+2001-09-11 13:36:07 Arch [1610977] A  ALPHA  ts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:07 Arch [0983091] A  ALPHA  From informix at 01:36 PM EDT: SENDQ greater than 40000 elements behind - 132089 on ibm27 [CC:informix loock t6_everyone] 
+2001-09-11 13:36:07 Arch [1080379] C  ALPHA  (16)Initial X4229941 12:30 09/11/2001. PROB: We
+2001-09-11 13:36:07 Arch [0916942] D  ALPHA  1 111-1111
+2001-09-11 13:36:07 Arch [1063352] C  ALPHA  12-CALL HOME.
+2001-09-11 13:36:07 Arch [1614137] C  ALPHA  516 921-2779
+2001-09-11 13:36:07 Arch [0926568] C  ALPHA  ME I WILL BE LEAVING THE OFFICE IN ABOUT 10 MINUTES TO GET HIM
+2001-09-11 13:36:07 Arch [0916276] B  ALPHA  (9)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers
+2001-09-11 13:36:07 Arch [1356959] D  ALPHA  (9)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:07 Arch [1604155] C  ALPHA  rform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:07 Arch [1150149] B  ALPHA  (14)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or
+2001-09-11 13:36:07 Metrocall [1105961] C  ALPHA  CALL GARRY AT 4116
+2001-09-11 13:36:07 Metrocall [1553379] A  ALPHA  h was supposed to be out 3 hours ago...needs an eta..call Tony at 718-245-39
+2001-09-11 13:36:07 Metrocall [1849796] B  ALPHA  09/11 13:37 EDT  Zerby, Michael    .398.3097         Alt=TOR Unit=260167
+2001-09-11 13:36:07 Skytel {1067281} 3 1200 1-877-396-6616 
+2001-09-11 13:36:07 Skytel {0471484} 3 1200 800-944-9012   
+2001-09-11 13:36:07 Skytel {1875702} 3 1200 7    
+2001-09-11 13:36:07 Skytel {1903433} 3 1200 09/11/2001 01:31p PLEASE CALL FRANCOIS AT 450-461-2000
+2001-09-11 13:36:08 Skytel {0617537} 3 1200 812-8290  
+2001-09-11 13:36:08 Skytel {1031066} 3 1200 1    
+2001-09-11 13:36:08 Skytel {1389603} 1 2400 4) 4) QUE MALA SUERTE LA MIA, ME IMAGINO QUE YA TE VAS, BUEN VIAJE, BESOSSSSSSSSSSS..
+2001-09-11 13:36:09 Arch [1080379] C  ALPHA  bOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:09 Arch [0471000] C  ALPHA  (24)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:09 Arch [0916276] B  ALPHA   are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:09 Arch [0460641] A  ALPHA  (30)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:09 Arch [0192708] B  ALPHA  3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:09 Arch [1081772] D  ALPHA  (13)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:09 Arch [1150149] B  ALPHA   perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:09 Arch [1238892] D  ALPHA  (9)13:ABS: Tkt:5003799, Sev:2, TIQ:127min, Sname:XXX, PL#:365628001, Contact:SCOTT KEMP @ 8132496871 Note:SL-GW10-ORL,SERIAL5/1/0/13:0 IS UP, L
+2001-09-11 13:36:09 Metrocall [0848943] D  ALPHA  =
+2001-09-11 13:36:09 Metrocall [1784230] B  ALPHA  Rescue Box 14-9: KENILWORTH AV/GREENBELT RD E/KEN (8812 KENILWORTH/2 GREENBELT RD E/KE; E111,A148,MD4,SQ14 alerted for HI-WAY PER INJ; 4 CARS INVOLVED,ON KENILWORTH AV,RAMP 
+2001-09-11 13:36:09 Skytel {1484117} 1 2400 301-653-8943   
+2001-09-11 13:36:09 Weblink_B [0136387] A  ALPHA  System test 1469 9/11/01 12:36:19 CST
+2001-09-11 13:36:09 Weblink_B [0115370] C  ALPHA  HI HONEY, CALL ME IF YOU CAN... 1/1
+2001-09-11 13:36:09 Weblink_B [0498481] A  ALPHA  964-7149
+2001-09-11 13:36:09 Weblink_B [0494359] B  ALPHA  Guy Marcoux au 75
+2001-09-11 13:36:11 Arch [0802426] C  ALPHA  (9)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:11 Arch [0475269] B  ALPHA  (23)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:11 Arch [1400153] C  ALPHA  (32)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:11 Arch [0821151] D  ALPHA  (32)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:11 Arch [0900729] C  ALPHA  Richa
+2001-09-11 13:36:11 Arch [1413828] B  ALPHA  (20)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:11 Arch [0872997] B  ALPHA  (14)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:11 Arch [1406316] D  ALPHA  3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:11 Arch [0866780] D  ALPHA  (10)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:11 Arch [1328748] D  ALPHA  (28)3. NXTUPD: 14:30 9/11/200
+2001-09-11 13:36:11 Arch [1302046] D  ALPHA  From informix at 01:36 PM EDT: SENDQ greater than 40000 elements behind - 132089 on ibm27 [CC:informix loock t6_everyone] 
+2001-09-11 13:36:11 Arch [0509659] C  ALPHA  (18)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:11 Arch [1238677] B  ALPHA  (7)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:11 Arch [1622406] B  ALPHA  zhz@dandan.
+2001-09-11 13:36:11 Arch [1238892] D  ALPHA  INE PROTOCOL IS DOWN. UNABLE TO REACH CUST ATT. SDH/PMC
+2001-09-11 13:36:11 Arch [1604703] D  ALPHA  (31)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:11 Arch [0474171] C  ALPHA  (13)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:11 Arch [0195701] B  ALPHA  (15)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:11 Arch [0966999] B  ALPHA  plane crashed into the 
+2001-09-11 13:36:11 Weblink_B [0494359] B  ALPHA  0-1897 (cellulaire) ou 722-2897 (bur). Bye Celine
+2001-09-11 13:36:12 Arch [0900729] C  ALPHA  rd Van De Houten|No getting through |We will reschedule this AM's call. Neither you nor Andy available today. No problem. Rick Van de Houten Cisco AM - AT&T Global Region w: 703-484-3406, m: 703-798-5889|208  
+2001-09-11 13:36:12 Arch [1608305] A  ALPHA  Initial X4229941 12:30 09/11/200
+2001-09-11 13:36:12 Arch [1328748] D  ALPHA  1...Ryan/jb/em
+2001-09-11 13:36:12 Arch [0716752] A  ALPHA  (9)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:12 Arch [0578954] C  ALPHA  (26)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:12 Arch [0886821] B  ALPHA  (1)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:12 Arch [0578068] B  ALPHA  3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:12 Arch [0196106] C  ALPHA  (13)Initial X4
+2001-09-11 13:36:12 Arch [1622406] B  ALPHA  engr.sgi.com//10:30am Sep 11, 2001: The event Steve Church -Budget Updates (Yr Ofc) is starting at 11:00am Sep 11, 2001 Jenny Zhao 650 933-5091 Director of Core Rendering
+2001-09-11 13:36:13 Arch [0866915] A  ALPHA  (4)C08123532669: TR-TM-NOTIF-ERR 000000  LINE 0000  PROGRAM 09-11-01 12
+2001-09-11 13:36:13 Arch [0966999] B  ALPHA  Pentagon, part of which later collapsed. American Airlines told CNN that it lost two planes in "tragic accidents:" Flight 11 from Boston with 81 pass|640   -3/3
+2001-09-11 13:36:13 Arch [0275309] D  ALPHA  (31)06:ABS: National Preparedness Responce Team Update: Due to terrorist action 
+2001-09-11 13:36:14 Arch [1608305] A  ALPHA  1. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:14 Arch [0310083] A  ALPHA  Initial X4229941 12:30 09/11/200
+2001-09-11 13:36:14 Arch [0196106] C  ALPHA  229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:14 Arch [1408050] A  ALPHA  (29)Initial
+2001-09-11 13:36:14 Arch [0866915] A  ALPHA  :34:49 SYSV CICAPAOP     
+2001-09-11 13:36:14 Arch [0780138] C  ALPHA  (20)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:14 Arch [1009426] A  ALPHA  (12)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:14 Arch [0480206] D  ALPHA  (27)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:14 Arch [1422639] D  ALPHA  (17)Initial X4229941 12:30 09/11/2001. PR
+2001-09-11 13:36:14 Arch [0275309] D  ALPHA  in New York 23 DS3's leased from TCG are down as well as 2 international DS3's. PCS, LTD and LDD experiencing congestion on their trunks. 1/2
+2001-09-11 13:36:14 Arch [0553737] C  ALPHA  (2)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:14 Arch [0653433] C  ALPHA  (27)I
+2001-09-11 13:36:16 Arch [0310083] A  ALPHA  1. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:16 Arch [1377504] A  ALPHA  (2)Initial X4229941 12:30 09/11/
+2001-09-11 13:36:16 Arch [1408050] A  ALPHA   X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:16 Arch [1006965] B  ALPHA  (8)Initi
+2001-09-11 13:36:16 Arch [1422639] D  ALPHA  OB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:16 Arch [1231586] A  ALPHA  (28)Initial X4229941 12:30 09/11/2001.
+2001-09-11 13:36:16 Arch [0653433] C  ALPHA  nitial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:16 Arch [0460533] B  ALPHA  (1
+2001-09-11 13:36:17 Skytel {0128737} 3 2400 302-4652  
+2001-09-11 13:36:17 Weblink_B [0455351] B  ALPHA  From: sa-eng@gblx.net Subject: GBLX alarm notification - [K B TOYS @ K B TOYS] (ROOSEVELT FIELD MALL GARDEN CITY NY STORE #33) *DOWN+UP* (1 total 1 new) (LPORT_DOWN nycmny901_4_3 fro200022
+2001-09-11 13:36:18 Arch [1377504] A  ALPHA  2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:18 Arch [0418540] D  ALPHA  (32)3. NXTUPD: 14:30 9/11/200
+2001-09-11 13:36:18 Arch [1006965] B  ALPHA  al X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:18 Arch [1231586] A  ALPHA   PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:18 Arch [0265361] A  ALPHA  Initial X4229941 12:30 09/11/2001. 
+2001-09-11 13:36:18 Arch [0460533] B  ALPHA  1)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:18 Metrocall [1784230] B  ALPHA  TWDS GREENBELT RD,NFI GREENBELT RESPONDING ALSO; Map 8 @ 133
+2001-09-11 13:36:19 Weblink_B [0455351] B  ALPHA  6968fra) 1 second (1:28:34 PM-1:28:35 PM) GLOBAL CROSSING: 800-796-5528 [81]
+2001-09-11 13:36:20 Arch [0418540] D  ALPHA  1...Ryan/jb/em
+2001-09-11 13:36:20 Arch [1071403] C  ALPHA  (24)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babe
+2001-09-11 13:36:20 Arch [1227942] B  ALPHA  (27)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:20 Arch [0949157] B  ALPHA  From informix at 01:36 PM EDT: SENDQ greater than 40000 elements behind - 132089 on ibm27 [CC:informix loock t6_everyone] 
+2001-09-11 13:36:20 Arch [0510491] C  ALPHA  (28)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application 
+2001-09-11 13:36:20 Arch [0265361] A  ALPHA  PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:20 Arch [0942125] D  ALPHA  From informix at 01:
+2001-09-11 13:36:20 Arch [1359850] C  ALPHA  (14)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:20 Metrocall [1225337] C  ALPHA  92-YOU ARE ON MY MIND. HOPE YOU ARE SAFE. -CINDY
+2001-09-11 13:36:20 Weblink_B [0005218] A  ALPHA  cARI HOME FROM DR. NOTHING HAPPENING! HAS NOT PROGRESSED AT ALL. ARLA AND I ARE NOT GOING TODAY. SLIM CHANCE OF DAVE BEING DEPLOYED SO WILL WAIT UNTIL SHE CALLS.  SHE IS CONCERNED ABOUT YOU. 
+2001-09-11 13:36:21 Skytel {0927630} 1 1200 505-347-7599  23    
+2001-09-11 13:36:22 Arch [1071403] C  ALPHA  tte 800-733-4822*
+2001-09-11 13:36:22 Arch [0508017] A  ALPHA  Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated wi
+2001-09-11 13:36:22 Arch [0510491] C  ALPHA  errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:22 Arch [0848498] A  ALPHA  43-IF YOU CAN CALL 937-8875.
+2001-09-11 13:36:22 Arch [1631279] D  ALPHA  (12)3. N
+2001-09-11 13:36:22 Arch [0942125] D  ALPHA  36 PM EDT: SENDQ greater than 40000 elements behind - 132089 on ibm27 [CC:informix loock t6_everyone] 
+2001-09-11 13:36:22 Arch [1273485] D  ALPHA  (8)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Custom
+2001-09-11 13:36:22 Arch [1330043] C  ALPHA  51-ARE YOU OK? PLEASE CALL MEREDITH AT 614-860-0799.
+2001-09-11 13:36:22 Arch [1424911] D  ALPHA  (4)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STA
+2001-09-11 13:36:22 Metrocall [1542506] C  ALPHA  86 YVETTE MADURO  CALLING AGAIN (301) 565-3444 DR. GEORGE
+2001-09-11 13:36:22 Metrocall [1902825] C  ALPHA  23-PER BARRY MAYER, PLEASE READ YOUR E-MAIL, OR THE WHAT'S NEW AT !1/5 023
+2001-09-11 13:36:22 Metrocall [1902825] C  ALPHA  23- T.E.A. WEBSITE FOR AVAILABLE INFORMATION RE: TODAY'S EVENTS. IF !2/5 023
+2001-09-11 13:36:22 Skytel {0662431} 1 1200 1710700   
+2001-09-11 13:36:22 Skytel {0049925} 1 1200 16) 14) HOLA MI YAKA SOFI COMO ESTAS?.. RECIBI TU MENSAJE ESTA MA\ANA ESTABA VIENDO LAS NOTICIAS ESO ESTA HORRIBLE POR ALLA TE MUCHO CUIDADO NO SALGAS A LA CALLES. YA LE MANDE SALUDOS A TODOS, YANNI ESTA LIBRE HOY PERO ESTA MA\ANA LA LLAME Y HABLAMOS DE LO QUE ESTABA PASANDO Y ME DIJO QUE TE HABIA MANDADO MENSAJES PERO QUE NO LE HABIAS RESPONDIDO PERO ME IMAGINO QUE LE HABRA LLEGADO YA EL QUE LE ENVIATES PORQUE A MI ME LLEGO... ESCRIBEME PRONTO PARA SABER COMO ESTAN LAS COSAS,.
+2001-09-11 13:36:22 Weblink_B [0005218] A  ALPHA  LOVE ME
+2001-09-11 13:36:23 Metrocall [1902825] C  ALPHA  23- YOU'RE TRAVELING, IT'S EXTREMELY URGENT THAT YOU IMMEDIATELY !3/5 023
+2001-09-11 13:36:24 Arch [0508017] A  ALPHA  th Sitman/Babette 800-733-4822*
+2001-09-11 13:36:24 Arch [1231423] D  ALPHA  (24)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiate
+2001-09-11 13:36:24 Arch [1631279] D  ALPHA  XTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:24 Arch [1300960] A  ALPHA  3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:24 Arch [1329229] D  ALPHA  (26)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:24 Arch [1415004] D  ALPHA  (10)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:24 Arch [1275057] A  ALPHA  (30)Initial X4229941 12:30 09/11/2001. PROB: We
+2001-09-11 13:36:24 Arch [1273485] D  ALPHA  ers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:24 Arch [1650152] C  ALPHA  From informix at 01:36 PM EDT: SENDQ greater than 40000 elements behind - 132089 on ibm27 [CC:informix l
+2001-09-11 13:36:24 Arch [1424911] D  ALPHA  TUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:24 Arch [0509613] D  ALPHA  (28)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts.
+2001-09-11 13:36:24 Metrocall [1902825] C  ALPHA  23- CONTACT KENARD SIMPSON VIA EMAIL, OR AT 512-424-1002. THANK YOU, !4/5 023
+2001-09-11 13:36:24 Metrocall [1589705] C  ALPHA  CAN YOU GET OW
+2001-09-11 13:36:24 Metrocall [1890679] B  ALPHA  From: Helmey, George M. FILLING 12AM - 8AM SHIFT DUE TO ALERT. GARRY AND RANDY ARE OFF MEN 443-8801
+2001-09-11 13:36:24 Weblink_B [0008669] D  ALPHA  KEITH, PLEASE CALL ME IN MY OFFICE..775-3385  JW
+2001-09-11 13:36:24 Weblink_B [0686832] A  ALPHA  FYI:PROB136512 Status Is Assigned : To: eds plano operations: charles leaf x67533 compass page cannot be displayed
+2001-09-11 13:36:25 Metrocall [1902825] C  ALPHA  23- VIRGINIA KWOLEK, SUPPORT SERVICES COORDINATOR !5/5 023
+2001-09-11 13:36:25 Metrocall [1589705] C  ALPHA  ENS CORNING BEFORE 1500
+2001-09-11 13:36:25 Metrocall [0749306] C  ALPHA  baby--what about all this unrest in the usa--love you much-
+2001-09-11 13:36:25 Metrocall [1890656] A  ALPHA  From: Helmey, George M. FILLING 12AM - 8AM SHIFT DUE TO ALERT. GARRY AND RANDY ARE OFF MEN 443-8801
+2001-09-11 13:36:26 Arch [1231423] D  ALPHA  d with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:26 Arch [0193552] A  ALPHA  (17)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initi
+2001-09-11 13:36:26 Arch [1275057] A  ALPHA  bOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:26 Arch [0510137] C  ALPHA  (3)Initial X4229941 12:30 09/
+2001-09-11 13:36:26 Arch [1650152] C  ALPHA  oock t6_everyone] 
+2001-09-11 13:36:26 Arch [1405114] C  ALPHA  (15)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/B
+2001-09-11 13:36:26 Arch [0509613] D  ALPHA   STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:26 Arch [1416702] D  ALPHA  (25)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accoun
+2001-09-11 13:36:26 Weblink_B [0015445] B  ALPHA  10: TGT-04361577 TGT1757 09/10/01 19:00 A2
+2001-09-11 13:36:26 Weblink_B [0562691] A  ALPHA  Where are you, heard the tng was cancelled a while ago. Tina 6571 [52]
+2001-09-11 13:36:27 Arch [0193552] A  ALPHA  ated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:27 Arch [0552179] A  ALPHA  (11)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge in
+2001-09-11 13:36:27 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2524
+2001-09-11 13:36:27 Metrocall [0749306] C  ALPHA  -
+2001-09-11 13:36:27 Metrocall [1415107] A  ALPHA  Frm: siteseer@freshtech.com Sub: SiteScope Alert, error, ATPCO URL Check (FAQ), unable to reach server (sitese
+2001-09-11 13:36:27 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2524
+2001-09-11 13:36:28 Arch [0510137] C  ALPHA  11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:28 Arch [0948708] B  ALPHA  66-PLEASE CALL
+2001-09-11 13:36:28 Arch [1405114] C  ALPHA  abette 800-733-4822*
+2001-09-11 13:36:28 Arch [1082360] C  ALPHA  (15)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitma
+2001-09-11 13:36:28 Arch [1416702] D  ALPHA  ts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:28 Arch [0911134] D  ALPHA   comsyb1-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDSSCA_EQNY1  Database=SCALA  Mode=Incremental_Dump         # Our PID=20374    time='09/11/
+2001-09-11 13:36:29 Arch [0552179] A  ALPHA  itiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:29 Arch [0801348] B  ALPHA  (2)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STA
+2001-09-11 13:36:29 Arch [0948708] B  ALPHA   WHEN YOU CAN, - ALLISON.
+2001-09-11 13:36:29 Arch [0478129] A  ALPHA  (15)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:29 Arch [0790090] C  ALPHA  (21)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:29 Arch [1410867] A  ALPHA  (30)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:29 Arch [0658867] A  ALPHA  (16)3. N
+2001-09-11 13:36:29 Arch [1082360] C  ALPHA  n/Babette 800-733-4822*
+2001-09-11 13:36:29 Arch [1613872] A  ALPHA  (3)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sit
+2001-09-11 13:36:29 Arch [0911134] D  ALPHA  01 13:28:06'    sybase 
+2001-09-11 13:36:29 Arch [0418907] C  ALPHA  (5)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initia
+2001-09-11 13:36:29 Metrocall [1890393] C  ALPHA  From: Helmey, George M. FILLING 12AM - 8AM SHIFT DUE TO ALERT. GARRY AND RANDY ARE OFF MEN 443-8801
+2001-09-11 13:36:29 Metrocall [1415107] A  ALPHA  er4.freshwater.com) Txt: SiteScope ATPCO URL Check (FAQ) ATPCO.net 8668 unable to reach se
+2001-09-11 13:36:29 Metrocall [1890613] B  ALPHA  From: Helmey, George
+2001-09-11 13:36:29 Metrocall [1890615] B  ALPHA  From: Helmey, George M. FILLING 12AM - 8AM SHIFT DUE TO ALERT. GARRY AND RANDY ARE OFF MEN 443-8801
+2001-09-11 13:36:29 Metrocall [0749935] D  ALPHA  MESSAGE WAITING-539-6114
+2001-09-11 13:36:29 Metrocall [002580794] C  ALPHA  3333/ARTHUR WAGNER//601-916-7223/No Msg./Trsfr from:REYES,SUSAN/PER 
+2001-09-11 13:36:30 Weblink_B [0063843] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER 76
+2001-09-11 13:36:31 Arch [0801348] B  ALPHA  TUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:31 Arch [0575898] C  ALPHA  (19)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short an
+2001-09-11 13:36:31 Arch [0658867] A  ALPHA  XTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:31 Arch [1207960] C  ALPHA  (13)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initi
+2001-09-11 13:36:31 Arch [1613872] A  ALPHA  man/Babette 800-733-4822*
+2001-09-11 13:36:31 Arch [0917706] C  ALPHA  (12)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with
+2001-09-11 13:36:31 Arch [0418907] C  ALPHA  ted with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:31 Arch [1275900] D  ALPHA  (6)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge ini
+2001-09-11 13:36:31 Metrocall [1890733] D  ALPHA  From: Helmey, George M. FILLING 12AM - 8AM SHIFT DUE TO ALERT. GARRY AND RANDY ARE OFF MEN 443-8801
+2001-09-11 13:36:31 Metrocall [1890613] B  ALPHA   M. FILLING 12AM - 8AM SHIFT DUE TO ALERT. GARRY AND RANDY ARE OFF MEN 443-8801
+2001-09-11 13:36:31 Metrocall [002580794] C  ALPHA  STATUS
+2001-09-11 13:36:31 Metrocall [1222220] D  ALPHA  Please Call 203
+2001-09-11 13:36:31 Skytel [003210243] A ST NUM  761-287-5911-2644   
+2001-09-11 13:36:31 Skytel [007645184] A SH/TONE 873-5077
+2001-09-11 13:36:31 Skytel [004438016] A ST NUM  800-638-4990   
+2001-09-11 13:36:31 Skytel [005191554] A ST NUM  703-205-2450   
+2001-09-11 13:36:31 Skytel [007517830] B ST NUM  817-559-6732   
+2001-09-11 13:36:31 Skytel [003942284] D ST NUM  310-974-5400   
+2001-09-11 13:36:31 Skytel [002367627] C SH/TONE 562-5940
+2001-09-11 13:36:31 Skytel [003915662] D SH/TONE 75 (4   
+2001-09-11 13:36:31 Skytel [005362560] A  ALPHA  intranet@infineon.com||Reuben - I have aone wafer lot A73804.6 on hold at AVSACOX.  It has been on hold for 20+ hours.  I need to know the status - Joe Makolandra, Diffusion Supervisor, ext.6489  
+2001-09-11 13:36:31 Skytel [002272650] C ST NUM  408-487-0270 (2
+2001-09-11 13:36:31 Skytel [005507845] B SH/TONE 99      
+2001-09-11 13:36:31 Skytel [002741389] D SH/TONE 510101  
+2001-09-11 13:36:31 Skytel [005375630] D ST NUM  726-644-8288   
+2001-09-11 13:36:31 Skytel [004686477] D SH/TONE 222-2222
+2001-09-11 13:36:31 Skytel [002361863] B  ALPHA  PAGEING,1,Application DPIP Informational 4 0 4096 10:00  09/11/01
+2001-09-11 13:36:32 Metrocall [1305378] 10:37:03 AM A  ALPHA  please call Flores @508-8421 ASAP  [W/C] (1/1)
+2001-09-11 13:36:32 Weblink_B [0112778] C  ALPHA  accwwnj7:TRADING TROUBLE  Path #1:OE0722 Market Closed. (group:trading.apps) IP:162.124.142.41:1435
+2001-09-11 13:36:32 Weblink_B [0929706] C  ALPHA  Just wanted to
+2001-09-11 13:36:33 Arch [0575898] C  ALPHA  d Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:33 Arch [0903010] A  ALPHA  (17)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:33 Arch [0330567] B  ALPHA  (7)Initial X4229941 12:30 
+2001-09-11 13:36:33 Arch [1207960] C  ALPHA  ated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:33 Arch [0476599] B  ALPHA  (6)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Brid
+2001-09-11 13:36:33 Arch [0917706] C  ALPHA   Sitman/Babette 800-733-4822*
+2001-09-11 13:36:33 Arch [1152488] C  ALPHA  (25)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge
+2001-09-11 13:36:33 Arch [1275900] D  ALPHA  tiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:33 Arch [1426332] D  ALPHA  (20)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:33 Arch [1276524] D  ALPHA  (19)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:33 Arch [1008487] B  ALPHA  (13)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:33 Arch [0480215] B  ALPHA  (28)Initial X4229941 12:30
+2001-09-11 13:36:33 Skytel [005108630] B ST NUM  603-481-5954 (23    
+2001-09-11 13:36:33 Skytel [002779025] A SH/TONE 674-8670
+2001-09-11 13:36:33 Skytel [005101593] C  ALPHA  PLEASE DIAL IN TO CONFERENCE BRIDGE 609-282-6064. AT 2 PM. FOR ALL MIKE BRADY DIRECTS.
+2001-09-11 13:36:33 Skytel [005227031] B SH/TONE 697-7401
+2001-09-11 13:36:33 Skytel [002736923] C SH/TONE 421-4401
+2001-09-11 13:36:33 Skytel [003920799] D SH/TONE 7493    
+2001-09-11 13:36:33 Skytel [003330841] C SH/TONE 594-8871
+2001-09-11 13:36:33 Skytel [003778068] B ST NUM  971-7882 U
+2001-09-11 13:36:34 Weblink_B [0929706] C  ALPHA   check to see if all of your family members are OK, that no one is affected by this terrorist activity.  et me know when you get in, thanks. [73]
+2001-09-11 13:36:34 Weblink_B [0214672] A  ALPHA  We pulled Emily's tooth! Lu [71]
+2001-09-11 13:36:35 Arch [0330567] B  ALPHA  09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:35 Arch [0622964] B  ALPHA  (26)Initial X4229941 12
+2001-09-11 13:36:35 Arch [0476599] B  ALPHA  ge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:35 Arch [0509863] B  ALPHA  Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Brid
+2001-09-11 13:36:35 Arch [1152488] C  ALPHA   initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:35 Arch [1254730] C  ALPHA  (1)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Brid
+2001-09-11 13:36:35 Arch [0480215] B  ALPHA   09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:35 Arch [0555105] A  ALPHA  (29)Initial X4229941 12
+2001-09-11 13:36:35 Metrocall [0385163] C  ALPHA  INNS-AP:MCCMMSMA   ;254ND0018;;601 6849848  \*\* NO LNP \*\*
+2001-09-11 13:36:35 Metrocall [002677066] C  ALPHA  please call 464-3130 autodealer.bankofamaerica.com seems to be registered to the wrong ip address
+2001-09-11 13:36:35 Metrocall [1706794] C  ALPHA  USE 925-250-8973, 925-250-8981, 925-525-2769 FOR COMBOS
+2001-09-11 13:36:35 Metrocall [0310072] C  ALPHA  2001-09-11 12:25:02 \NASS1TA.$S7R2C SSERIES.SSCPC08.D40 008071 Message discarded inbound, Virtual PC SSN unavaila
+2001-09-11 13:36:35 Skytel [005105954] A ST NUM  825-754-4102   
+2001-09-11 13:36:35 Skytel [003255721] C ST NUM  800-233-5356-4414   
+2001-09-11 13:36:35 Skytel [004545828] B SH/TONE 567     
+2001-09-11 13:36:35 Skytel [005242917] B ST NUM  778-547-8716   
+2001-09-11 13:36:35 Skytel [004391332] B SH/TONE 28850   
+2001-09-11 13:36:35 Skytel [003253673] C  ALPHA  MARISA LLAMA URGENTEMENTE A MEXICO, TENEMOS SATELITE ABIERTO PARA USTEDES. JORGE
+2001-09-11 13:36:35 Skytel [005480233] C ST NUM  302-927-2195-911    
+2001-09-11 13:36:35 Skytel [003927471] D SH/TONE 222-6969
+2001-09-11 13:36:35 Skytel [007035683] A  ALPHA  outsider@emcweb.com|| TRG Uptime 0% OK, 1 monitor checked, 1 in error  
+2001-09-11 13:36:35 Weblink_B [0046216] C  ALPHA  Tue Sep 11 13:34:19 2001: durprodivr1 SEV: 3  PROC: commgr  MSG: Send erro
+2001-09-11 13:36:37 Arch [0622964] B  ALPHA  :30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:37 Arch [0509889] A  ALPHA  (1)3. NXTUPD: 14:30 
+2001-09-11 13:36:37 Arch [0509863] B  ALPHA  ge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:37 Arch [0100536] C  ALPHA  3778
+2001-09-11 13:36:37 Arch [0624039] B  ALPHA  (19)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:37 Arch [1613921] A  ALPHA  (23)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:37 Arch [0509989] B  ALPHA  (27)3. NXTUPD: 14:30 9/11/200
+2001-09-11 13:36:37 Arch [1254730] C  ALPHA  ge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:37 Arch [0703652] B  ALPHA  Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Brid
+2001-09-11 13:36:37 Arch [0555105] A  ALPHA  :30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:37 Skytel [003703600] A ST NUM  02625471872911911   
+2001-09-11 13:36:37 Skytel [005254457] C  ALPHA  (2 of 2) h KC and SD from 11:59-1213 cleared without intervention. 
+2001-09-11 13:36:37 Skytel [003204146] A SH/TONE 684-9132
+2001-09-11 13:36:37 Skytel [004732475] C  ALPHA  call check
+2001-09-11 13:36:37 Skytel [005048632] C  ALPHA  TVANDMAD@aol.com|I love you|Just wanted  you to know.... T  
+2001-09-11 13:36:37 Skytel [005229876] B ST NUM  832-651-5113   
+2001-09-11 13:36:37 Skytel [002149815] B ST NUM  676-0460 (93   
+2001-09-11 13:36:37 Skytel [002742071] B ST NUM  714-438-5555   
+2001-09-11 13:36:37 Skytel [005375671] B SH/TONE 68916   
+2001-09-11 13:36:37 Skytel [004663484] D SH/TONE 
+2001-09-11 13:36:37 Skytel [005360187] C ST NUM  901-961-3295   
+2001-09-11 13:36:37 Skytel [007556537] C  ALPHA  8883295028
+2001-09-11 13:36:37 Skytel [005205172] B ST NUM  304-263-7636   
+2001-09-11 13:36:37 Skytel [005256887] B  ALPHA  I NEED TO KNOW THAT YOU'RE O.K. CALL MY HOUSE AND LEAVE A MESSAGE ON THE MACHINE. I LOVE YOU. 919-676-3656
+2001-09-11 13:36:37 Skytel [005054523] C ST NUM  201-785-0675   
+2001-09-11 13:36:37 Skytel [007521077] B  ALPHA  lee_dresser@hotmail.com|12345|  Lee Dresser   ______________________________________________________
+2001-09-11 13:36:37 Skytel [005370559] D ST NUM  911-607-7707   
+2001-09-11 13:36:37 Skytel [007064254] D ST NUM  480-333-3000   
+2001-09-11 13:36:37 Weblink_B [0046216] C  ALPHA  r: pgfail [57]
+2001-09-11 13:36:37 Weblink_B [1916640] A  ALPHA  ASMS update. Western SOAC sent ASMS 3 14,000 line orders & flooded ASMS. Removed these orders & ASMS returned to normal. SOAC SYAD checking why so large. ASMS is current on order 
+2001-09-11 13:36:39 Arch [0509889] A  ALPHA  9/11/2001...Ryan/jb/em
+2001-09-11 13:36:39 Arch [1053610] C  ALPHA  (1)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated
+2001-09-11 13:36:39 Arch [0509989] B  ALPHA  1...Ryan/jb/em
+2001-09-11 13:36:39 Arch [0903170] A  ALPHA  54954526300
+2001-09-11 13:36:39 Arch [0452998] B  ALPHA  13-PLEASE CALL JON AT 908-769-1016.
+2001-09-11 13:36:39 Arch [1137749] B  ALPHA  (27)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are una
+2001-09-11 13:36:39 Arch [0703652] B  ALPHA  ge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:39 Arch [0905556] B  ALPHA  (20)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: 
+2001-09-11 13:36:39 Arch [1302428] D  ALPHA  (10)10:ABS: National Preparedness Responce Team Update: Due to terrorist action in New York 23 DS3's leased from TCG are down as well as 2 international DS3's. PCS, LTD and LDD experiencing congestion on their trunks. 1/2
+2001-09-11 13:36:39 Skytel [007509827] A ST NUM  947-520-0441   
+2001-09-11 13:36:39 Skytel [005344578] A SH/TONE 9832    
+2001-09-11 13:36:39 Skytel [002367950] D ST NUM  8008673414
+2001-09-11 13:36:39 Skytel [007058881] A SH/TONE 837-4938
+2001-09-11 13:36:39 Skytel [005086284] D ST NUM  818-773-2424   
+2001-09-11 13:36:39 Skytel [005507524] B  ALPHA  atlanta usc  1167493m  content   - Pri  1,  errol shanklin -  (408) 553-3029,  No access to Frequency and Time Standards products from the new General Purpose Instruments pa
+2001-09-11 13:36:39 Skytel [004688072] C ST NUM  410-385-5554   
+2001-09-11 13:36:39 Skytel [002284102] B ST NUM  248-644-9790   
+2001-09-11 13:36:39 Skytel [004416711] B ST NUM  716-722-9650   
+2001-09-11 13:36:39 Skytel [002724677] B SH/TONE 643-6707
+2001-09-11 13:36:39 Skytel [005111108] B SH/TONE 316     
+2001-09-11 13:36:39 Skytel [004516166] B SH/TONE 607-2572
+2001-09-11 13:36:39 Skytel [002749514] C ST NUM  872-686-1674   
+2001-09-11 13:36:39 Skytel [007592266] C ST NUM  206-579-0001   
+2001-09-11 13:36:39 Skytel [005414727] B  ALPHA  CALL AMY FROM THE HOLAND SHUTTLE 616 394 8360  CALL AS SOON AS POSSIBLE. 
+2001-09-11 13:36:39 Skytel [002380618] C  ALPHA  WARNING 1 - Cannot connect to SQL Server ALLOCDBSRVR
+2001-09-11 13:36:39 Skytel [007541836] D ST NUM  815-459-4122   
+2001-09-11 13:36:39 Skytel [007574093] D ST NUM  650-853-2190   
+2001-09-11 13:36:39 Weblink_B [1916640] A  ALPHA  processing. Bill Newman 303-624-1576 [87]
+2001-09-11 13:36:39 Weblink_B [1665286] B  ALPHA  callme now    237-6806..Ken Nelson,K 801-237
+2001-09-11 13:36:40 Metrocall [1544818] A  ALPHA  Server 'HAY-NS2 Disk.E.Free = 155437056, min allowable: (300000000)
+2001-09-11 13:36:40 Metrocall [0623896] C  ALPHA  I am at home pleae call asap
+2001-09-11 13:36:40 Metrocall [0310072] C  ALPHA  ble. DPC = 2-13-12 OPC = 227-195-249 SSN = 247 See detailed text.
+2001-09-11 13:36:40 Metrocall [1849796] B  ALPHA  09/11
+2001-09-11 13:36:41 Arch [1053610] C  ALPHA   with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:41 Arch [1072005] B  ALPHA  (25)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initi
+2001-09-11 13:36:41 Arch [1137749] B  ALPHA  ble to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:41 Arch [0968204] D  ALPHA  (5)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:41 Arch [1152100] B  ALPHA  (9)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:41 Arch [1123390] D  ALPHA  (4)Initi
+2001-09-11 13:36:41 Arch [0905556] B  ALPHA  Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:41 Arch [1236660] B  ALPHA  (25)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:41 Arch [1303015] B  ALPHA  (15)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:41 Arch [0460190] D  ALPHA  (2)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and
+2001-09-11 13:36:41 Arch [0507001] C  ALPHA  (9)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:41 Skytel [005507524] B  ALPHA  ge.
+2001-09-11 13:36:41 Skytel [005355479] B  ALPHA  CKirby@exchange.ml.com|| If you get this message... go to Teleport.... messages do not go to your cell  Regards...  Christopher Kirby Network System Services Department 212-647-2337 Christopher_Kirby@ml.com    
+2001-09-11 13:36:41 Skytel [002572628] B SH/TONE 4457    
+2001-09-11 13:36:41 Skytel [005132112] A  ALPHA  United@ua2go.com|Flifo Error!|Tue Sep 11 12:26:15 EDT 2001(Flifo);java.lang.NullPointerException;Exception  
+2001-09-11 13:36:41 Skytel [005040092] D SH/TONE 252-6000
+2001-09-11 13:36:41 Skytel [004542295] B  ALPHA  PLEASE CALL TOM STONE (99
+2001-09-11 13:36:41 Skytel [002162516] B ST NUM  707-822-0991-007    
+2001-09-11 13:36:41 Skytel [005109589] B  ALPHA  MSFT 57.58 UNCH CPQ 10.35 UNCH TDM 0.00 U
+2001-09-11 13:36:41 Skytel [005051613] D  ALPHA  Case  064419 RD1CTL    Raleigh, NC     Alltel          30% Out, Cum=03:43  Partially Restored  09/11 12:33 Note#8  P1: EMX2500         CBSC 2 has been enabled and is processing calls. [Robert_Kosyluk]
+2001-09-11 13:36:41 Skytel [007600347] C SH/TONE 75450   
+2001-09-11 13:36:41 Skytel [002365520] A  ALPHA  WARNING 1 - Cannot connect to SQL Server ALLOCDBSRVR
+2001-09-11 13:36:41 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job112837 SNYC12307 09/11 13:25 QUEUES
+2001-09-11 13:36:41 Skytel [004671582] D ST NUM  718-748-2209   
+2001-09-11 13:36:41 Skytel [005360211] A ST NUM  1-888-267-1130 
+2001-09-11 13:36:41 Skytel [004678998] B ST NUM  202-441-2216-911411 (43  
+2001-09-11 13:36:41 Skytel [002276446] D ST NUM  553-8476-3
+2001-09-11 13:36:42 Metrocall [1849796] B  ALPHA   13:37 EDT  Parker, Joshua    330.225.9058      Alt=TFF Unit=265336
+2001-09-11 13:36:42 Metrocall [1576851] A  ALPHA  Frm: Laque, Jason Sub: Update Txt: There will be a up date meeting for the supervisors at 14:00 hrs i
+2001-09-11 13:36:42 Metrocall [002587758] D  ALPHA  Gregory Spencer FisStl:262-796-7447 UP: Nevada MO, Mortgage Servicing,-Cleared jobs from the print queue and reconfigured the Jet D
+2001-09-11 13:36:42 Skytel [005186784] A ST NUM  959-271-6837   
+2001-09-11 13:36:42 Skytel [003328617] C  ALPHA  Denise- when you get a chance can you call me on my cell 628-2655. Thx, Drew
+2001-09-11 13:36:42 Skytel [005312609] A SH/TONE 249-2481
+2001-09-11 13:36:42 Skytel [005109589] B  ALPHA  NCH
+2001-09-11 13:36:42 Skytel [005107819] C  ALPHA  Dennis (H) 904-274-4862; (W) 904-248-8031; (C) 904-547-0030
+2001-09-11 13:36:42 Skytel [007605349] B ST NUM  718-899-1752   
+2001-09-11 13:36:42 Skytel [004575720] C ST NUM  304-755-2852   
+2001-09-11 13:36:42 Skytel [003256802] A SH/TONE 99      
+2001-09-11 13:36:42 Skytel [002381675] C  ALPHA  Prty=3, Asg:DMXDS, NYGS01463473, INTEGRATED MANAGEMENT LOG RAISES EVENT,, Sub:DMNIQ, netiqdm
+2001-09-11 13:36:42 Skytel [005057492] B ST NUM  302-646-3006   
+2001-09-11 13:36:42 Skytel [005204455] B ST NUM  703-980-6613 (83    
+2001-09-11 13:36:42 Skytel [005111277] D  ALPHA  with member chmstr01.
+2001-09-11 13:36:42 Skytel [002357089] A SH/TONE 2700    
+2001-09-11 13:36:42 Skytel [005383141] B ST NUM  8774814215
+2001-09-11 13:36:42 Skytel [004531050] C ST NUM  1-631-669-3500-213  
+2001-09-11 13:36:42 Skytel [003930722] A ST NUM  714-226-6149   
+2001-09-11 13:36:42 Skytel [002561644] D SH/TONE 2225    
+2001-09-11 13:36:42 Skytel [004690665] C  ALPHA  tpowers@usss.treas.gov|EMERGENCY RELOCATION PLANS|ALL SAIC'S ARE REQUESTED TO ACCOUNT FOR ALL PERSONNEL IN THEIR DISTRICTS. IF ANY PERSONNEL ARE UNACCOUNTED FOR PLEASE CONTACT INVESTIGATIONS AT 202/406-5520. THANK YOU, TOM POWERS  
+2001-09-11 13:36:43 Arch [1072005] B  ALPHA  ated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:43 Arch [1422966] B  ALPHA  (4)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:43 Arch [0461356] D  ALPHA  3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:43 Arch [0510204] D  ALPHA  (20)75:ABS: National Preparedness Responce Team Update: Due to terrorist action in New York 23 DS3
+2001-09-11 13:36:43 Arch [1123390] D  ALPHA  al X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:43 Arch [0460190] D  ALPHA   Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:43 Arch [0476281] C  ALPHA  (28)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:43 Arch [0775787] C  ALPHA  (25)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:44 Arch [0510204] D  ALPHA  's leased from TCG are down as well as 2 international DS3's. PCS, LTD and LDD experiencing congestion on their trunks. 1/2
+2001-09-11 13:36:44 Arch [1604155] C  ALPHA  (1)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:44 Arch [1080379] C  ALPHA  (17)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:44 Arch [0976026] C  ALPHA  (3)32-I WAS WONDERING WHAT THE SCHEDULE WILL BE FOR WORK TODAY. -MARIAM, 301-590-0742.
+2001-09-11 13:36:44 Arch [1610977] A  ALPHA  (32)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:44 Arch [1356959] D  ALPHA  (10)3. NXTUPD: 14:30
+2001-09-11 13:36:44 Arch [1608089] C  ALPHA  3333
+2001-09-11 13:36:44 Arch [1612111] D  ALPHA  monitor@ccbill.c|Slave back2r.escrub.com is not running as a replicant to back1r.escrub.com Timestamp key: 20010911103401 Log: /var1/log/1000229641slave_check.msg 
+2001-09-11 13:36:44 Arch [0916276] B  ALPHA  (10)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:44 Arch [1081772] D  ALPHA  (14)3. N
+2001-09-11 13:36:44 Arch [0516304] A  ALPHA  (20)09:ABS: National Preparedness Responce Team Update: Due to terrorist action in New York 23 DS3's leased from TCG are down as well as 2 international DS3's. PCS, LTD and LDD experiencing congestion on their trunks. 1/2
+2001-09-11 13:36:44 Metrocall [1576851] A  ALPHA  n the Maintenance War Room.
+2001-09-11 13:36:44 Metrocall [002587758] D  ALPHA  irect Box. All users can now print.- Outage 1Hour 3 Minutes TICKET_NUM:000489617 09-11-01 12:30pm cst
+2001-09-11 13:36:44 Skytel [003475697] A ST NUM  700-8482 (91   
+2001-09-11 13:36:44 Skytel [004432112] A ST NUM  8007703486
+2001-09-11 13:36:44 Skytel [005201894] B SH/TONE 577-5000
+2001-09-11 13:36:44 Skytel [004728443] C  ALPHA  BEEN TRYING TO GET THROUGH TO YOU FOR A COUPLE OF HOUR'S ALL CIRCUTS ARE BUSY. GARY FINALLY CALLED. JEN QUITE HER JOB YESTERDAY SO SEE WAS NOT AT WORK. I GUESS YOU WON'T BE GOING TO MAGIC MOUNTAIN BECAUS
+2001-09-11 13:36:44 Skytel [004576244] B SH/TONE 225-4250
+2001-09-11 13:36:44 Skytel [002151415] B SH/TONE 2974    
+2001-09-11 13:36:44 Skytel [007457910] B  ALPHA  ServersAlive@mindbox.com|FTP Service is RUNNING|FTP Service is RUNNING  Mail generated by Servers Alive at Tuesday, September 11, 2001 10:32:35 AM  
+2001-09-11 13:36:44 Skytel [007596901] B SH/TONE 85450   
+2001-09-11 13:36:44 Skytel [004058994] A  ALPHA  12-PER BARRY MAYER, PLEASE READ YOUR E-MAIL, OR TH
+2001-09-11 13:36:44 Skytel [003952885] B  ALPHA  Federal buildings, United Nations evacuated   FAA grounds all U.S. flights, sends trans-Atlantic flights to Canada   Sen. John McCain calls attacks 'act of war'   Israel evacuates embassies   Non-essential NATO employees asked to leave Brus
+2001-09-11 13:36:44 Skytel [002364538] C  ALPHA  I AM LEAVING NOW. KEITH 
+2001-09-11 13:36:44 Skytel [004528239] D ST NUM  3) 301-468-1817
+2001-09-11 13:36:44 Skytel [007638767] D SH/TONE 553200  
+2001-09-11 13:36:44 Skytel [004025830] B  ALPHA  745-8426 U (46
+2001-09-11 13:36:44 Skytel [005189244] D ST NUM  212-369-0561   
+2001-09-11 13:36:44 Skytel [005101308] D SH/TONE 2750    
+2001-09-11 13:36:44 Skytel [003250552] C SH/TONE 1181    
+2001-09-11 13:36:44 Skytel [004517361] A SH/TONE 99      
+2001-09-11 13:36:44 Skytel [003919226] C SH/TONE 3581322 
+2001-09-11 13:36:44 Skytel [005359355] C  ALPHA  PLEASE CALL CATINA * YOU KNOW THE NUMBER
+2001-09-11 13:36:44 Skytel [003918322] A SH/TONE 444-5299
+2001-09-11 13:36:45 Arch [1150149] B  ALPHA  (15)3. NXTUPD: 14:30
+2001-09-11 13:36:45 Weblink_B [1665286] B  ALPHA  -6806
+2001-09-11 13:36:45 Weblink_B [1916468] B  ALPHA  ASMS update. Western SOAC sent ASMS 3 14,000 line orders & flooded ASMS. Removed these orders & ASMS returned to normal. SOAC SYAD checking why so large
+2001-09-11 13:36:46 Arch [0945338] C  ALPHA  "Fulgoni, Raymon|Please keep all network traffic |> > ---------- > From: Fulgoni, Raymond J. > SPC[SMTP:RAYMOND.FULGONI@NJDMAVA.STATE.NJ.US] > Sent: Tuesday, September 11, 2001 1:25:38 PM > To: Cemete
+2001-09-11 13:36:46 Arch [1608305] A  ALPHA  3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:46 Arch [1356959] D  ALPHA   9/11/2001...Ryan/jb/em
+2001-09-11 13:36:46 Arch [1345825] A  ALPHA  24: BM.Alert NewCall 3740225 THD0004127 08:10am 24R DUE: 09/12/01 08:10am BNV
+2001-09-11 13:36:46 Arch [0945315] A  ALPHA  S100627M:RMILLS/SY878ITRMI:SY878 00000000 is unable to allocate a record in WIPFHL01 (R C G S D F).
+2001-09-11 13:36:46 Arch [1081772] D  ALPHA  XTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:46 Arch [0975978] C  ALPHA  From Dale Cade: Rita, Shark code load caused issue with JES2. 30 WCPL transaction were impacted.  Getting more details.  Dale Cade  
+2001-09-11 13:36:46 Arch [0196106] C  ALPHA  (14)3. NXTUPD: 14:30 9/11/
+2001-09-11 13:36:46 Arch [1150149] B  ALPHA   9/11/2001...Ryan/jb/em
+2001-09-11 13:36:46 Arch [0948289] A  ALPHA  58-PLEASE CALL MIKE AT 302-552-0821.
+2001-09-11 13:36:46 Arch [1328748] D  ALPHA  (29)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customer
+2001-09-11 13:36:46 Skytel [004728443] C  ALPHA  E THE NEWS JUST SAID IT WAS CLOSED. 
+2001-09-11 13:36:46 Skytel [002191361] A ST NUM  18007598255    
+2001-09-11 13:36:46 Skytel [004058994] A  ALPHA  E WHAT'S NEW AT T.E.A. WEBSITE FOR AVAILABLE INFORMATION RE: TODAY'S EVENTS. IF YOU'RE TRAVELING, IT'S EXTREMELY URGENT THAT YOU IMMEDIATELY CONTACT KENARD SIMPSON VIA EMAIL, OR AT 512... (1
+2001-09-11 13:36:46 Skytel [005492612] B SH/TONE 916-3116
+2001-09-11 13:36:46 Skytel [007609344] A ST NUM  925-280-3364   
+2001-09-11 13:36:46 Skytel [003006607] D SH/TONE 99      
+2001-09-11 13:36:46 Skytel [007041029] B SH/TONE 42419   
+2001-09-11 13:36:46 Skytel [007555721] C  ALPHA  tpowers@usss.treas.gov|EMERGENCY RELOCATION PLANS|ALL SAIC'S ARE REQUESTED TO ACCOUNT FOR ALL PERSONNEL IN THEIR DISTRICTS. IF ANY PERSONNEL ARE UNACCOUNTED FOR PLEASE CONTACT INVESTIGATIONS AT 202/406-5520. THANK YOU, TOM P
+2001-09-11 13:36:46 Skytel [005328645] B  ALPHA  Prob ID: 00671045 Sev: 3 has been transferred to your group. La Master,Joyce I 714/825-3632 DESC: customer is reporting a problem with her aspect phone system.  light just stays red and customer can not get light to go to green.  username i
+2001-09-11 13:36:47 Weblink_B [1916468] B  ALPHA  . ASMS is current on order processing. Bill Newman 303-624-1576
+2001-09-11 13:36:47 Weblink_B [0077015] B  ALPHA  From: nsps2@momail.sbc.com - ds8277lt: Busin
+2001-09-11 13:36:48 Arch [1028387] A  ALPHA  (9)27:ABS: National Preparedness Responce Team Update: Due to terrorist action in New York 23 DS3's leased from TCG are down as well as 2 international DS3's. PCS, LTD and LDD experiencing congestion on their trunks. 1/2
+2001-09-11 13:36:48 Arch [0866915] A  ALPHA  (5)C08123604009: TR-TM-NOTIF-ERR 000000  LINE 0000  PROGRAM 09-11-01 12:34:49 SYSV CICAPAOP     
+2001-09-11 13:36:48 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0268
+2001-09-11 13:36:48 Arch [0886197] B  ALPHA  CH
+2001-09-11 13:36:48 Arch [0196106] C  ALPHA  2001...Ryan/jb/em
+2001-09-11 13:36:48 Arch [1122197] B  ALPHA  09:ABS: National Preparedness Responce Team Update: Due to terrorist action in New York 23 DS3's leased from TCG are down as well as 2 international DS3's. PCS, LTD and LDD experiencing congestion on 
+2001-09-11 13:36:48 Arch [1328748] D  ALPHA  s are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:48 Arch [0951702] B  ALPHA  CHIEF 2'S TEAM HAS BEEN AC
+2001-09-11 13:36:48 Skytel [005328791] B  ALPHA  paul.hernandez@wcom.com|Con Bridge for discussion of current events|I have scheduled a bridge for 3:30 PM Mountain Time today.    The number is as follows:  Toll-Free Number:   877-917-6902 Passcode:    2707  Please attend. Thanks,  Paul He
+2001-09-11 13:36:48 Skytel [005213334] B SH/TONE 99      
+2001-09-11 13:36:48 Skytel [005508511] D ST NUM  872-791-2300   
+2001-09-11 13:36:48 Skytel [007555721] C  ALPHA  OWERS  
+2001-09-11 13:36:48 Skytel [004415514] C SH/TONE 1394    
+2001-09-11 13:36:48 Skytel [003281818] C SH/TONE 5) 62400
+2001-09-11 13:36:48 Skytel [003440396] D ST NUM  201-843-3325   
+2001-09-11 13:36:49 Weblink_B [0077015] B  ALPHA  ess Revenue Growth meeting, 9/12/01, has been cancelled unti l further notice. DJS [77]
+2001-09-11 13:36:49 Weblink_B [0046901] B  ALPHA  (111109100024)1 MARGARET JENKI 763-551-5000.   CHRIS TOPHER & B PLYMOUTH   MN 79390-01-2
+2001-09-11 13:36:49 Weblink_B [1786405] B  ALPHA  gr pg-plz g
+2001-09-11 13:36:50 Arch [0937283] A  ALPHA  89-LOU, THIS IS LORI LLEVANO, CALLING TO MAKE SURE THAT YOU'RE OK.  CALL AT YOUR CONVENIENC !1/2 089
+2001-09-11 13:36:50 Arch [0310083] A  ALPHA  3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:50 Arch [1408050] A  ALPHA  (30)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:50 Arch [0886197] B  ALPHA  IEF 2'S TEAM HAS BEEN ACTIVATED/CHIEF 1 IS RETURNING/DIV 5 IS ACTING IN THE IN
+2001-09-11 13:36:50 Arch [0910420] B  ALPHA  CHIEF 2'S TEAM HAS BEEN ACTIVATED/CHIEF 1 IS RETURNING/DIV 5 IS ACTING IN THE IN
+2001-09-11 13:36:50 Arch [1046263] B  ALPHA  Sinnary Sam <sin|6932 Wilshire, Suite 203. Correction! 
+2001-09-11 13:36:50 Arch [1122197] B  ALPHA  their trunks. 1/2
+2001-09-11 13:36:50 Arch [1422639] D  ALPHA  (18)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/B
+2001-09-11 13:36:50 Arch [0951702] B  ALPHA  TIVATED/CHIEF 1 IS RETURNING/DIV 5 IS ACTING IN THE IN
+2001-09-11 13:36:50 Arch [0631912] C  ALPHA  CHIEF 2'S TEAM HAS BEEN ACTIVATED/CHIEF 1 IS RETURNING/DIV 5 IS ACTING IN THE IN
+2001-09-11 13:36:50 Arch [0653433] C  ALPHA  (28)3. NXTUPD: 14:30 9/
+2001-09-11 13:36:50 Skytel [003267626] C  ALPHA  From Kanwal Mundy: Murali, pls call me at 6-1259 regarding Grey S at plate.thx.
+2001-09-11 13:36:50 Skytel [003846183] B SH/TONE 222     
+2001-09-11 13:36:50 Skytel [005205039] D  ALPHA  DO NOT GO TO L.A. U.S. ATTORNEY'S OFFICE FOR 11:00 MTG. BETH FISHMAN 213-924-3474 CELL.  CHRIS
+2001-09-11 13:36:50 Weblink_B [1786405] B  ALPHA  et your trucks filled up with gas b-4 you come back to the yard. thanks [70]
+2001-09-11 13:36:50 Weblink_B [0930797] D  ALPHA  {P000818339 Pri2 REDITSC ENTIRE JAM
+2001-09-11 13:36:52 Arch [0965389] D  ALPHA  Ashok Gopala|team meeting at 10:40 |please stand by for room info|65  
+2001-09-11 13:36:52 Arch [1051730] A  ALPHA  Ashok Gopala|team meeting at 10:40 |please stand by for room info|65  
+2001-09-11 13:36:52 Arch [1050351] D  ALPHA  schang|Please call me at (408) 526-8701 if you get a chance. Not urgent. - SJ   
+2001-09-11 13:36:52 Arch [0789493] B  ALPHA  Omar Santos|Steve Williams is coming to our building and will help him with design... | |88  
+2001-09-11 13:36:52 Arch [0927804] D  ALPHA  Ashok Gopala|team meeting at 10:40 |please stand by for room info|65  
+2001-09-11 13:36:52 Arch [1377504] A  ALPHA  (3)3. NX
+2001-09-11 13:36:52 Arch [1422639] D  ALPHA  abette 800-733-4822*
+2001-09-11 13:36:52 Arch [0925756] D  ALPHA  79-PLS CALL HOLLY AT 727-548-9293
+2001-09-11 13:36:52 Arch [0278479] D  ALPHA  fi-etrade2: Alert: 1 SWEB trades missing in PCONFINYC_DATA. Check Tradehub Monitor.
+2001-09-11 13:36:52 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 conn
+2001-09-11 13:36:52 Arch [0653433] C  ALPHA  11/2001...Ryan/jb/em
+2001-09-11 13:36:52 Arch [0977729] A  ALPHA  amitra|Hi Judy. Test page from Ops. Al  
+2001-09-11 13:36:52 Arch [1052188] D  ALPHA  Ashok Gopala|team meeting at 10:40 |please stand by for room info|65  
+2001-09-11 13:36:52 Arch [0904963] A  ALPHA  Ashok Gopala|team meeting at 10:40 |please stand by for room info|65  
+2001-09-11 13:36:52 Arch [0976013] D  ALPHA  4595
+2001-09-11 13:36:52 Skytel [005330490] C ST NUM  508-277-9900-411    
+2001-09-11 13:36:52 Skytel [003484598] B ST NUM  458-559-7911   
+2001-09-11 13:36:52 Skytel [003472438] B ST NUM  610-935-1616-288    
+2001-09-11 13:36:52 Skytel [004429112] C ST NUM  9007568926
+2001-09-11 13:36:52 Skytel [004550704] A  ALPHA  matrix@broadband.att.com|[MATRIX] - 181 Inverness Fire System Maint. - Wed 9/12 at 8:00 AM (MT)|Planned Outage Ticket: #596 Frontier Fire will install a pre-action fire suppression system in MDF room at 181 on Wed 9/12 at 8:00 AM (MT).  Wor
+2001-09-11 13:36:52 Weblink_B [0930797] D  ALPHA  ES DONNA 4178812701 7257 SPFD UNILAB: Cannot Logon }
+2001-09-11 13:36:52 Weblink_B [1158253] D  ALPHA  gr pg-plz get your trucks filled up with gas b-4 you come back to the yard. thanks [61]
+2001-09-11 13:36:52 Weblink_B [0971569] A  ALPHA  AR9UPSPS CC=0000 JOB ENDED SYS=CC00 (NETVIEW 12:36) VIA (EC00 12:
+2001-09-11 13:36:54 Arch [1081772] D  ALPHA  (15)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:54 Arch [1377504] A  ALPHA  TUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:54 Arch [0916276] B  ALPHA  (11)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initi
+2001-09-11 13:36:54 Arch [1425048] C  ALPHA  ectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 183830. 
+2001-09-11 13:36:54 Arch [1006965] B  ALPHA  (9)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:54 Arch [1231586] A  ALPHA  (29)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:54 Arch [1604155] C  ALPHA  (2)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:54 Skytel [007030090] C ST NUM  9775044589
+2001-09-11 13:36:54 Skytel [007040843] C ST NUM  919-460-3481   
+2001-09-11 13:36:54 Skytel [004742856] C SH/TONE 378-2720
+2001-09-11 13:36:54 Skytel [004746697] C ST NUM  916-633-7303-45
+2001-09-11 13:36:54 Skytel [004680518] B  ALPHA  parhamd@soc.mil|BUDGET RENTAL CAR|All rental car agencies at the Fay airport are still opened at this time and they will all reopen at their regular time of 0630 in the morning.  
+2001-09-11 13:36:54 Skytel [007551173] B SH/TONE 577-5000
+2001-09-11 13:36:54 Skytel [005137353] C  ALPHA  3094
+2001-09-11 13:36:54 Weblink_B [0971569] A  ALPHA  36 09/11) [18]
+2001-09-11 13:36:56 Arch [1413750] B  ALPHA  (28)09:ABS: National Preparedness Responce Team Update: Due to terrorist action in New York 23 DS3's leased from TCG are down as well as 2 international DS3's. PCS, LTD and LDD experiencing congestion on their trunks. 1/2
+2001-09-11 13:36:56 Arch [0625715] A  ALPHA  33:AB
+2001-09-11 13:36:56 Arch [0916276] B  ALPHA  ated with Sitman/Babette 800-733-4822*
+2001-09-11 13:36:56 Arch [0460533] B  ALPHA  (12)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:56 Arch [1052069] B  ALPHA  gjeevara|If you have not yet got the SRME cards pl give me a call at 51366 or page me.   
+2001-09-11 13:36:56 Arch [1071403] C  ALPHA  (25)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:56 Arch [0926792] C  ALPHA  759-7201
+2001-09-11 13:36:56 Arch [0510367] D  ALPHA  (6)14-PLEASE CALL SENIOR MGR CRAIG DANIELS ASAP: 913-534-3638. OR PCS 913-481-4115.
+2001-09-11 13:36:56 Arch [1008745] C  ALPHA  (30)NTACers, Mike Brost advised to begin checking for hot equipment temps at the 60 hudson site in NY. Catalog equipment that
+2001-09-11 13:36:56 Arch [0265361] A  ALPHA  3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:56 Arch [0510491] C  ALPHA  (29)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:56 Arch [1359850] C  ALPHA  (15)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:56 Arch [0976864] A  ALPHA  12-PLS CHECK V
+2001-09-11 13:36:56 Skytel [007567696] A SH/TONE 257-8928
+2001-09-11 13:36:56 Skytel [005384405] B  ALPHA  bb@rs1fw1.microtelco.com|!BB - 6545013! rs1w2m.microtelco.com.procs - 300010011004014|[6545013]   rs1w2m.microtelco.com.procs red Tue Sep 11 17:36:57 GMT 2001 Some processes are in error  &red /opt/bin/sweeper/ck_ba  DOWN &yellow web_pr
+2001-09-11 13:36:56 Skytel [005385945] C  ALPHA  Did you say you were full of gas or you were checking your gas?-focl desk
+2001-09-11 13:36:56 Skytel [005109204] B ST NUM  9886886516
+2001-09-11 13:36:56 Skytel [005205335] B SH/TONE 632-6465
+2001-09-11 13:36:56 Skytel [007040730] C SH/TONE 749-8074
+2001-09-11 13:36:56 Skytel [004542277] B  ALPHA  Vmail
+2001-09-11 13:36:56 Skytel [005328715] C SH/TONE 32999 U 
+2001-09-11 13:36:56 Skytel [004128863] D ST NUM  616-891-7075   
+2001-09-11 13:36:56 Skytel [003945043] A SH/TONE 399-6131
+2001-09-11 13:36:56 Skytel [005105351] B ST NUM  8885367753
+2001-09-11 13:36:56 Skytel [006518475] C  ALPHA  21) 21) CONFIRMED THAT PIN 5804908 IS IN SYSTEM.THANKS SALENTHIA//USA (3
+2001-09-11 13:36:56 Skytel [002151373] D ST NUM  810-833-3282   
+2001-09-11 13:36:57 Arch [0625715] A  ALPHA  S: National Preparedness Responce Team Update: Due to terrorist action in New York 23 DS3's leased from TCG are down as well as 2 international DS3's. PCS, LTD and LDD experiencing congestion on their trunks. 1/2
+2001-09-11 13:36:57 Arch [0925228] D  ALPHA  506-4819
+2001-09-11 13:36:57 Arch [0911134] D  ALPHA   comsyb2-adm.ny.jpmorgan.com SYBASE:PDS1_EQGRDNY(CERD_CORP_IMNT) --> PDSTRD_EDGNY1(CERD_CORPORATE)latency for REPSERVER > 15 - LAST= Sep 11 2001  1:23:16:310PM CURR= Sep 11 2001  1:28:16:113
+2001-09-11 13:36:57 Arch [0951146] C  ALPHA  816030 .MAXRETRY-CHECK CATCHER 09/11/01 13:57:59
+2001-09-11 13:36:57 Arch [1008745] C  ALPHA   we have in those sites and be prepared to have replaced by the respective vendor if it fails...Alfredo 
+2001-09-11 13:36:57 Arch [0789506] A  ALPHA  ISHD1379361 - Retail-Southeast - 156 Oxmoor Court Birmingham AL. Stoer has lost network connectivity.  IT Surveillance inv
+2001-09-11 13:36:57 Metrocall [1502849] A  ALPHA  54- YOU'RE TRAVELING, IT'S EXTREMELY URGENT THAT YOU IMMEDIATELY !3/5 054
+2001-09-11 13:36:57 Metrocall [1502849] A  ALPHA  54- CONTACT KENARD SIMPSON VIA EMAIL, OR AT 512-424-1002. THANK YOU, !4/5 054
+2001-09-11 13:36:57 Skytel [005384405] B  ALPHA  im_d
+2001-09-11 13:36:57 Skytel [005384420] B  ALPHA  bb@rs1fw1.microtelco.com|!BB - 6545012! rs1w2m.microtelco.com.procs - 300010011004014|[6545012]   rs1w2m.microtelco.com.procs red Tue Sep 11 17:36:57 GMT 2001 Some processes are in error  &red /opt/bin/sweeper/ck_ba  DOWN &yellow 
+2001-09-11 13:36:57 Skytel [005436525] D  ALPHA  Test #36-IX_T0411
+2001-09-11 13:36:57 Skytel [007596650] C ST NUM  0-714-257-1081 
+2001-09-11 13:36:57 Skytel [007558767] D  ALPHA  tpowers@usss.treas.gov|EMERGENCY RELOCATION PLANS|ALL SAIC'S ARE REQUESTED TO ACCOUNT FOR ALL PERSONNEL IN THEIR DISTRICTS. IF ANY PERSONNEL ARE UNACCOUNTED FOR PLEASE CONTACT INVESTIGATIONS AT 202/406-5520. THANK YOU, TOM POWERS  
+2001-09-11 13:36:58 Arch [0976864] A  ALPHA  OICE MAIL. RE: NEW RIVER. -ANDY
+2001-09-11 13:36:58 Arch [0509989] B  ALPHA  (28)Initial X4229941 12:30 09/11/2001. PROB: WebOE - Application errors in Short and Long Forms. IMP: Customers are unable to order new service or perform maintenance on their accounts. STATUS: Bridge initiate
+2001-09-11 13:36:58 Weblink_B [0382462] D  ALPHA  disaster call at 12n mdt for all service delv team lead, directors, exec directors,  c
+2001-09-11 13:36:59 Arch [1231423] D  ALPHA  (25)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:59 Arch [0509613] D  ALPHA  (29)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:59 Arch [0510137] C  ALPHA  (4)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:59 Arch [1416702] D  ALPHA  (26)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:59 Arch [0759770] C  ALPHA  (29)36:ABS: National Preparedness R
+2001-09-11 13:36:59 Arch [0181035] C  ALPHA  CALL MARK MESSNER @ BEARD CO 405 842 2333
+2001-09-11 13:36:59 Arch [0910545] A  ALPHA  617 699-1075
+2001-09-11 13:36:59 Arch [0508017] A  ALPHA  3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:59 Arch [1424911] D  ALPHA  (5)3. NXTUPD: 14:30 9/11/2001...Ryan/jb/em
+2001-09-11 13:36:59 Arch [0183685] B  ALPHA  (10)people@sprint.ne|I 
+2001-09-11 13:36:59 Metrocall [1502849] A  ALPHA  54- VIRGINIA KWOLEK, SUPPORT SERVICES COORDINATOR !5/5 054
+2001-09-11 13:36:59 Metrocall [0668163] A  ALPHA  From: sdatmail1a@worldspan.com Subj: A new message has arrived in the GRSM inbox. Please review...
+2001-09-11 13:36:59 Metrocall [1162160] A  ALPHA  From: sdatmail1a@worldspan.com Subj
+2001-09-11 13:36:59 Metrocall [002662976] A  ALPHA  VPN: Warning: External LDAP Servers: Server is down; @ 09/11/2001 13:36:11
+2001-09-11 13:36:59 Skytel [005384420] B  ALPHA  web_prim_d
+2001-09-11 13:36:59 Skytel [007089772] D ST NUM  462-598-2477-3 (57  
+2001-09-11 13:36:59 Skytel [007603828] B SH/TONE 27198   
+2001-09-11 13:36:59 Skytel [004412408] C ST NUM  718-229-8802   
+2001-09-11 13:36:59 Skytel [004431224] C SH/TONE 546     
+2001-09-11 13:36:59 Skytel [002282617] C ST NUM  8007598255
+2001-09-11 13:36:59 Skytel [005311978] C SH/TONE 466-1206
+2001-09-11 13:36:59 Skytel [004526843] C ST NUM  817-229-7690   
+2001-09-11 13:36:59 Skytel [004422650] C ST NUM  800-759-8255   
+2001-09-11 13:36:59 Skytel [004450173] D ST NUM  201-776-0870   
+2001-09-11 13:36:59 Skytel [003277950] D SH/TONE 99      

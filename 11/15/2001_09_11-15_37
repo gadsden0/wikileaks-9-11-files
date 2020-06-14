@@ -1,0 +1,572 @@
+2001-09-11 15:37:01 Arch [0971491] A  ALPHA  FYI: An agent in Pharr received a threatening phone call. Threat Task Force has been notified. VT #249028 NCC/a
+2001-09-11 15:37:01 Arch [0942125] D  ALPHA  From informix at 03:37 PM EDT: SENDQ greater than 40000 elements behind - 103292 on ibm27 [CC:informix t6_everyone] 
+2001-09-11 15:37:01 Arch [1603689] C  ALPHA  2of2:data may be affected. VT# 249026. NCC/b
+2001-09-11 15:37:01 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-11 15:37:01 Metrocall [1027755] C  ALPHA  68-PLEASE CALL JANE 215-803-9910.
+2001-09-11 15:37:01 Metrocall [1576024] C  ALPHA   is best for you. Thanks....Robin
+2001-09-11 15:37:01 Skytel [002558977] A SH/TONE 703-7300
+2001-09-11 15:37:01 Skytel [005058318] D  ALPHA  FYI: At 15:06:47, the Moore & Valdosta PGs are sporadically showing offline, the Meridian Max screens froze, and agents are experiencing desktop application slowness. CRDB data may be affected. VT# 249026. NCC/b
+2001-09-11 15:37:01 Skytel [002567171] A ST NUM  8007598255
+2001-09-11 15:37:01 Skytel [005114251] C ST NUM  230-796-0162 U 
+2001-09-11 15:37:01 Skytel [004538249] C  ALPHA  {gsiprod}No RT Gov pos updates, now = 15:03:06, lastUpd = 10:04:57
+2001-09-11 15:37:01 Skytel [004412168] C SH/TONE 665-3203
+2001-09-11 15:37:01 Skytel [002817933] D  ALPHA  {gsiprod}No RT Gov pos updates, now = 15:03:06, lastUpd = 10:04:57
+2001-09-11 15:37:01 Skytel [005447808] A  ALPHA  NYTimes Business News Sep 11 08:15 CT www.nytimes.com  (3) Pinault Wins Long Battle to Control Gucci Group -- The French billionaire Fran  ois Pinault took
+2001-09-11 15:37:01 Skytel [005107464] C ST NUM  901-347-9534   
+2001-09-11 15:37:01 Skytel [007438989] D  ALPHA  ** Escalation PM196648 Sev: 3 Grp: ais pos Loc: store 237 Name: mark Ph: 716-601-0180 Descr: store manager name change (40
+2001-09-11 15:37:02 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7466
+2001-09-11 15:37:02 Arch [1603689] C  ALPHA  FYI: An agent in Pharr received a threatening phone call. Threat Task Force has been notified. VT #249028 NCC/a
+2001-09-11 15:37:03 Skytel [002824217] C  ALPHA  {autoexec}AE1-15:03:10-TWClient:Can t connect to the TWFireWall 208.226.148.82/1
+2001-09-11 15:37:03 Skytel [002219665] A SH/TONE * (49   
+2001-09-11 15:37:03 Skytel [007552147] A SH/TONE 1188    
+2001-09-11 15:37:03 Skytel [005355413] B  ALPHA  Karen Becker came to see you and offer her services.  She can be reached on 301-980-5623 (cell)-TWagner
+2001-09-11 15:37:03 Skytel [005447808] A  ALPHA   effective control of the Gucci Group with an agreement to buy much of the stake held by the rival tycoon Bernard Arnault. (4) Nikkei Plunge Has Investors on the Edge -- The Nikkei 225 stock index lost 321 points, erasing the gains surrounding the e
+2001-09-11 15:37:03 Skytel [005478428] D ST NUM  604-543-0663   
+2001-09-11 15:37:03 Skytel [007045533] D SH/TONE 699-6369
+2001-09-11 15:37:03 Skytel [002401821] D  ALPHA  206.122.40.73 Code =  JOES  - Job Output Elements ussa11.SSMC 
+2001-09-11 15:37:05 Metrocall [1362382] D  ALPHA  Frm: Y! Txt: Fr: ttang@esginc.com *Interview Rescheduled * Hi Larry, Thanks for your call this morn Mail
+2001-09-11 15:37:05 Skytel [004398241] A  ALPHA  usersup@afespro.redcross.org||RE: Critical Case 365078 Dispatched. PRIORITY: Critical. TITLE: DMIS: Defferral Management - Unable To Transfer Test Results From DMS to DMIS. QUEUE: BIS-NBCS-Production Supp. REGION: Midwest. DISPATCHED: 09/11
+2001-09-11 15:37:05 Skytel [005180839] B ST NUM  873-715-0276   
+2001-09-11 15:37:05 Skytel [005447808] A  ALPHA  mergence of Junichiro Koizumi as prime minister five months ago. For news updates throughout the day visit us at www.nytimes.com
+2001-09-11 15:37:05 Skytel [005486892] D SH/TONE 757-5750
+2001-09-11 15:37:05 Skytel [004422447] D ST NUM  810-429-3041 (78    
+2001-09-11 15:37:06 Arch [1008813] D  ALPHA  (31)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:06 Arch [0470730] C  ALPHA  (8)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:06 Arch [0987275] C  ALPHA  s0
+2001-09-11 15:37:06 Arch [1612111] D  ALPHA  monitor@ccbill.c|HTTPD Frontend report2.ccbill.co|ERROR: could not connect to report2.ccbill.com on port 80 (httpd). Timestamp: 20010911123500 
+2001-09-11 15:37:06 Arch [0927521] A  ALPHA  Jennifer Raab <p|Announcement Sept. 11 2001, 11:4|To the Hunter Community: This 
+2001-09-11 15:37:06 Arch [0476761] C  ALPHA  (17)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:06 Skytel {1510393} 3 1200 289-8821  
+2001-09-11 15:37:06 Skytel {1343146} 1 1200 I said Have you talked to your sister?  Fell free to call here if you can.  Marie Valentini
+2001-09-11 15:37:07 Metrocall [1105824] A  ALPHA  FW: CABLE SPOOLING CREW FROM FOURCHON HEADING BACK: > ---------- > From: .Danelle Cherry > Sent: .Tuesday, September 11, 2001 2:37:55 PM > To: .Operations > Subject: .Cable spooling crew from Fourchon heading bac
+2001-09-11 15:37:07 Metrocall [1809544] C  ALPHA  (009110366)30009110366,   KMART #3994 NO CONTACT 800-553-9383 09131501 8770 3190324 4 KATHY #59/PAPER NOT CUTTING ><
+2001-09-11 15:37:07 Skytel {1708579} 1 1200 703-378-8103   
+2001-09-11 15:37:07 Skytel {1495079} 3 1200 637-4748  
+2001-09-11 15:37:07 Skytel {1549433} 3 1200 1-213-819-3788 
+2001-09-11 15:37:07 Skytel {0176588} 3 1200 6009 
+2001-09-11 15:37:07 Skytel {1341935} 1 1200 NYTimes Business News Sep 11 08:15 CT www.nytimes.com  (3) Pinault Wins Long Battle to Control Gucci Group -- The French billionaire Fran  ois Pinault took effective control of the Gucci Group with an agreement to buy much of the stake held by the rival tycoon Bernard Arnault. (4) Nikkei Plunge Has Investors on the Edge -- The Nikkei 225 stock index lost 321 points, erasing the gains surrounding the emergence of Junichiro Koizumi as prime minister five months ago. For news updates throughout the day visit us at www.nytimes.com..
+2001-09-11 15:37:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 185221. 
+2001-09-11 15:37:08 Arch [0987275] C  ALPHA  191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-11 15:37:08 Arch [1403583] D  ALPHA  nyp-con2: nyp-con2: Failure to bring up CashNADaemonM1!!
+2001-09-11 15:37:08 Arch [0927521] A  ALPHA  is to inform you that classes and all business at the College are now closed. However, all College buildings will remain open. We have learned that the subways a
+2001-09-11 15:37:08 Arch [0927898] C  ALPHA  25077
+2001-09-11 15:37:08 Arch [1612111] D  ALPHA  monitor@ccbill.c|HTTPD Frontend report2.ccbill.co|ERROR: could not connect to report2.ccbill.com on port 80 (httpd). Timestamp: 20010911123501 
+2001-09-11 15:37:08 Arch [0545966] D  ALPHA  Please Call 989-7891
+2001-09-11 15:37:08 Metrocall [1105824] A  ALPHA  k to office  > Auto fo--<john@delmarus.com>
+2001-09-11 15:37:08 Metrocall [1809544] C  ALPHA  CALL HD NOT RQD><POS><NTP8><CASH REGISTER><8774> 8770 TA25711
+2001-09-11 15:37:10 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-11 15:37:12 Arch [0980991] D  ALPHA  7499
+2001-09-11 15:37:13 Skytel {0929360} 1 2400 301-529-1870  2
+2001-09-11 15:37:13 Skytel {0249386} 1 2400 NYTimes Business News Sep 11 08:15 CT www.nytimes.com  (3) Pinault Wins Long Battle to Control Gucci Group -- The French billionaire Fran  ois Pinault took effective control of the Gucci Group with an agreement to buy much of the stake held by the rival tycoon Bernard Arnault. (4) Nikkei Plunge Has Investors on the Edge -- The Nikkei 225 stock index lost 321 points, erasing the gains surrounding the emergence of Junichiro Koizumi as prime minister five months ago. For news updates throughout the day visit us at www.nytimes.com..
+2001-09-11 15:37:14 Arch [0981350] B  ALPHA  55737
+2001-09-11 15:37:14 Arch [0508846] D  ALPHA  214-5300
+2001-09-11 15:37:14 Arch [1005814] B  ALPHA  #ePhoneBook@uboc|(From: marcy@12:37) I'm here at work. Call me if you need anything. ******************************************************************************* This communication (including any attachments) may contain privileged or co
+2001-09-11 15:37:14 Arch [0902662] B  ALPHA  DgomezLAPD@aol.c|Avionics Functional Checks|09/11/01 Rob, On the morning of 09-11-01 N223LA was released to normal service after a three week scheduled maintenance interval. This coincided with LAPD going to tactical alert status and mobili
+2001-09-11 15:37:14 Metrocall [0956192] A  ALPHA  MESSAGE WAITING:657-0372
+2001-09-11 15:37:16 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope https://www.pipeline.skandia.com.co CO Pipeline Web Sites (SKANWEB03) 128678 unable to connect to server 
+2001-09-11 15:37:16 Metrocall [002162608] A  ALPHA  USA op order is signed! WE are going to route instrumentation as normal and change later, right? Scott 20137
+2001-09-11 15:37:16 Skytel {0176481} 1 2400 SI ACASO ESTAS EN LA OFNA. AYUDAME A QUITAR SUNTEA DE MI PANTALLA. MARISA. (42 (14
+2001-09-11 15:37:16 Skytel {0619497} 1 2400 31740
+2001-09-11 15:37:17 Arch [0460533] B  ALPHA  (18)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:17 Arch [0951853] D  ALPHA  OPEN ALS & BLS SHIFTS TOMORROW..? NEEDED FOR MCI IN NYC
+2001-09-11 15:37:17 Arch [1377246] D  ALPHA  (27)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Per
+2001-09-11 15:37:17 Arch [1439547] C  ALPHA  SiteScope http://www.pipeline.skandia.com.co CO Pipeline Web Sites (SKANWEB03) 149753 unable to connect to server, https://www.pipeline.skandia.com.co/default.asp 
+2001-09-11 15:37:17 Arch [1071403] C  ALPHA  (31)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:17 Skytel {1092446} 3 1200 122161    
+2001-09-11 15:37:17 Skytel {0625703} 3 1200 722-5810  
+2001-09-11 15:37:18 Skytel {0881254} 1 1200 NYTimes Business News Sep 11 08:15 CT www.nytimes.com  (3) Pinault Wins Long Battle to Control Gucci Group -- The French billionaire Fran  ois Pinault took effective control of the Gucci Group with an agreement to buy much of the stake held by the rival tycoon Bernard Arnault. (4) Nikkei Plunge Has Investors on the Edge -- The Nikkei 225 stock index lost 321 points, erasing the gains surrounding the emergence of Junichiro Koizumi as prime minister five months ago. For news updates throughout the day visit us at www.nytimes.com..
+2001-09-11 15:37:19 Arch [1274738] A  ALPHA  636-3899
+2001-09-11 15:37:19 Arch [1377246] D  ALPHA  son tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:20 Metrocall [1561014] B  ALPHA  84-THIS IS VERONICA AT SUNRISE REHAB. PLEASE CALL 954-746-1292.
+2001-09-11 15:37:20 Metrocall [002523036] D  ALPHA  CALL FRANKIE AT 207 2653
+2001-09-11 15:37:20 Metrocall [0336348] D  ALPHA  09/11@15:39:48 BETA12:Service (NobleNet Portmapper) is not 
+2001-09-11 15:37:20 Metrocall [1591002] C  ALPHA  SMT:TX:L1:9S01 TAPELIB_KC MOUNT TAPE M43566(VLT3;0036041) ON DRIVE 0331 14:36:31.
+2001-09-11 15:37:21 Arch [0579570] A  ALPHA  Aaron I see that there are some tools of the CH42500175 in whs. XI. Do you think that it would be possible to get 10pcs.? Please let me know ASAP. Thanks...Rosa
+2001-09-11 15:37:21 Arch [0226691] A  ALPHA  Stardreemer@aol.|(no subject)|Brad w/Irwin called.Signing was cxld cuz UPS has no flights.Will call tomorrow a.m. to see what we can do. I LOVE YOU SO MUCH!!!! L. 
+2001-09-11 15:37:21 Arch [0546148] B  ALPHA  Call 
+2001-09-11 15:37:21 Arch [0574896] A  ALPHA  Patricia "Lspez-|uyy monito tal vez ya te fuiste a jugar futbol.te vas a ver lindo con tus chimpunes y medias nuevas mi amor.. mete muchos goles mi campeon!...TE AMO!!! _______________________________
+2001-09-11 15:37:21 Arch [1187442] A  ALPHA  51: JILL / CLOSING DEPT 810 989 2602 PLEASE CALL
+2001-09-11 15:37:21 Arch [0739731] A  ALPHA  47-PLEASE CALL YOUR WIFE WHEN YOU CAN
+2001-09-11 15:37:22 Metrocall [0336348] D  ALPHA  responding. Stopped. 1
+2001-09-11 15:37:23 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0389
+2001-09-11 15:37:23 Arch [0546148] B  ALPHA  Holding 950-1550
+2001-09-11 15:37:23 Arch [0983387] C  ALPHA  nyp-con2: nyp-con2: Failure to bring up CashNADaemonM1!!
+2001-09-11 15:37:23 Arch [0278479] D  ALPHA  fi-etrade2: Alert: 1 SWEB trades missing in PCONFINYC_DATA. Check Tradehub Monitor.
+2001-09-11 15:37:23 Metrocall [002523285] B  ALPHA  32-I KNOW THIS IS A DEPRESSING TIME WITH EVERYTHING THAT'S GOING ON. I !1/5 032
+2001-09-11 15:37:23 Metrocall [002523285] B  ALPHA  32- SINC
+2001-09-11 15:37:23 Skytel {0143279} 3 1200 202-685-7650   
+2001-09-11 15:37:24 Skytel {1346911} 1 2400 NYTimes Business News Sep 11 08:15 CT www.nytimes.com  (3) Pinault Wins Long Battle to Control Gucci Group -- The French billionaire Fran  ois Pinault took effective control of the Gucci Group with an agreement to buy much of the stake held by the rival tycoon Bernard Arnault. (4) Nikkei Plunge Has Investors on the Edge -- The Nikkei 225 stock index lost 321 points, erasing the gains surrounding the emergence of Junichiro Koizumi as prime minister five months ago. For news updates throughout the day visit us at www.nytimes.com..
+2001-09-11 15:37:25 Metrocall [002523285] B  ALPHA  ERELY APPRECIATE THE BEAUTIFUL CARD YOU GAVE ME YESTURDAY. IT !2/5 032
+2001-09-11 15:37:27 Arch [0917706] C  ALPHA  (19)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:27 Arch [0578068] B  ALPHA  Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:27 Arch [0959865] C  ALPHA  [CHEL
+2001-09-11 15:37:27 Arch [0632024] C  ALPHA  (1)546-5449
+2001-09-11 15:37:27 Arch [1018192] A  ALPHA  Alert - 1 - SJ- PH-LIVE - WW-HARDWARE - B827967 - AMERICAN >AIRLINES CORPORATION > >(This Enhanced TAC dispatch alert is being delivered to the virtual team >(vt-sabre) handling AMERICAN AIRLINES CORPORATION) > >Priori
+2001-09-11 15:37:27 Arch [1275900] D  ALPHA  (13)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:27 Metrocall [002523285] B  ALPHA  32- REALLY MEANT A LOT. I'LL PROBABLY TALK TO YOU ON FRIDAY. YOU CAN !3/5 032
+2001-09-11 15:37:27 Metrocall [002523285] B  ALPHA  32- STILL REACH ME ON MY CELL PHONE IF YOU NEED ANTHING. FONDLY YOURS, !4/5 032
+2001-09-11 15:37:27 Metrocall [1027863] B  ALPHA  BAYER
+2001-09-11 15:37:27 Metrocall [1875536] A  ALPHA  Frm: Y! Txt: Fourth explosion at World Trade Center.
+2001-09-11 15:37:27 Metrocall [1060278] B  ALPHA  09/11@15:39:48 BETA12:Service (NobleNet Portmapper) is not responding. Stopped. 1
+2001-09-11 15:37:27 Metrocall [1696120] C  ALPHA  2698/LINDA BURNETTE/LEXINGTON NURSING HOME/804 740 6174/PLS CALL /DID NOT KNOW REPS
+2001-09-11 15:37:29 Arch [1008430] D  ALPHA  Michelle S Kostich: HASTEN 4:00 CALL Joe would like to set up a 4:00 (central) call today with you, Cecere, Hoffmann, Quinn and Tufts. The number to call is 877-463-7601; code: 543573. Call me with an
+2001-09-11 15:37:29 Arch [0959865] C  ALPHA  MSFORD UP] [akn3-11-sw1, akn3-dc1-sw1]
+2001-09-11 15:37:29 Arch [0916488] C  ALPHA  From-Terri.M..... Have you heard that Dean is leaving?? He's going to go work for Harry Hutchinson.
+2001-09-11 15:37:29 Arch [0935670] B  ALPHA  From informix at 03:38 PM EDT: SENDQ greater than 40000 elements behind - 102
+2001-09-11 15:37:29 Arch [1018192] A  ALPHA  ty 1 case  -2/3
+2001-09-11 15:37:29 Arch [0794224] A  ALPHA  Y! <y-alerts@yah|Fourth explosion at World Trade Center. 
+2001-09-11 15:37:29 Arch [0793166] D  ALPHA  54-PLEASE CALL JIM HERRO AT 732-208-1656 ASAP.
+2001-09-11 15:37:29 Arch [1025475] A  ALPHA  From informix at 03:38 PM EDT: SENDQ greater than 40000 elements behind - 102940 on ibm27 [CC:informi
+2001-09-11 15:37:29 Arch [1049482] C  ALPHA  [CLEAR] ews-sjk1 [swap] < 90%
+2001-09-11 15:37:29 Arch [0948487] B  ALPHA  01: KINDRA LISA 210 250 3419 EXPRESS NEWS PLEASE CALL ME. I JUST GOT THE FAX OF THE NORTH CHAMBER & WOULD LIKE TO KNOW ABOUT SENDING RENE PINA...
+2001-09-11 15:37:29 Arch [0983091] A  ALPHA  From informix at 03:38 PM EDT: SENDQ greater than 40000 
+2001-09-11 15:37:29 Metrocall [002523285] B  ALPHA  32- MIKE. !5/5 032
+2001-09-11 15:37:29 Metrocall [0775777] A  ALPHA  Call Holding 691-9087
+2001-09-11 15:37:29 Metrocall [0135252] B  ALPHA  PLEASE GO TO FISK BLDG ASAP PER DREW
+2001-09-11 15:37:29 Metrocall [1696120] C  ALPHA   NAME
+2001-09-11 15:37:29 Metrocall [1435916] D  ALPHA  Sarah Bradford said that it will cost $890.00 to do b
+2001-09-11 15:37:31 Arch [1018192] A  ALPHA  B827967 has been dispatched by cglick of the GCC-SLC team >to the WW-HARDWARE queue. The customer chose an inquiry method of SJ- >PH-LIVE. > >To view the case on CCO go to: >http:|640   -3/3
+2001-09-11 15:37:31 Arch [0935670] B  ALPHA  940 on ibm27 [CC:informix t6_everyone] 
+2001-09-11 15:37:31 Arch [0948487] B  ALPHA  TO TAKE PICTURES
+2001-09-11 15:37:31 Arch [0928530] A  ALPHA  238-2579
+2001-09-11 15:37:31 Arch [1025475] A  ALPHA  x t6_everyone] 
+2001-09-11 15:37:31 Arch [0983091] A  ALPHA  elements behind - 102940 on ibm27 [CC:informix t6_everyone] 
+2001-09-11 15:37:31 Arch [0133448] C  ALPHA  grpMGMT Currently experiencing slow response in building 216. Support is evaluating. This is a possible impact to Sourcing. Update to follow. APL
+2001-09-11 15:37:31 Metrocall [1435916] D  ALPHA  rakes on Gary's truck. Will you approve this? Ada
+2001-09-11 15:37:31 Metrocall [0776055] B  ALPHA  Frm: OnLineCasino108@yahoo.com Sub: Win a Brand New Ferrari Spider 360 Txt: Welcome to Vegas on the Internet Welcome = to Vegas on the = Int
+2001-09-11 15:37:31 Metrocall [1284390] B  ALPHA  <50> HI MICHELLE THIS IS CARTER WOODSON JUST WORKED WITH YOU NOT TOO LONG AGO ON A ??? IM SURE YOU REMEMBERJUST WONDERING IF YOU ON
+2001-09-11 15:37:31 Skytel [005445406] D  ALPHA  NYTimes Business News Sep 11 08:15 CT www.nytimes.com  (3) Pinault Wins Long Battle to Control Gucci Group -- The French billionaire Fran  ois Pinault took effective control of the Gucci Group with an agreement to buy much of the stake held by the 
+2001-09-11 15:37:31 Skytel [005362696] C ST NUM  507-371-6551   
+2001-09-11 15:37:31 Skytel [005361669] B  ALPHA  5759357 DEL FIRSEL VIRGINIA BEACH HEALTHC 7574813500 W BONO 9B 128
+2001-09-11 15:37:31 Skytel [002368140] D SH/TONE 4) 56979
+2001-09-11 15:37:31 Skytel [007101317] B SH/TONE 99      
+2001-09-11 15:37:31 Skytel [002403845] B ST NUM  836-8436-2
+2001-09-11 15:37:31 Skytel [005062791] B  ALPHA  Goff.Corinna@broadband.att.com||Video Outage, Level 3 escalation, Bellevue 98006, Tech assigned to ticket  
+2001-09-11 15:37:31 Skytel [003468809] C SH/TONE 923-1523
+2001-09-11 15:37:31 Skytel [0046125] D  ALPHA  NYTimes Business News Sep 11 08:15 CT www.nytimes.com  (3) Pinault Wins Long Battle to Control Gucci Group -- The French billionaire Fran  ois Pinault took effective control of the Gucci Group with an agreement to buy much of the stake hel
+2001-09-11 15:37:31 Skytel [005340173] D SH/TONE 535-1325
+2001-09-11 15:37:31 Skytel [005182605] D SH/TONE 556-4257
+2001-09-11 15:37:31 Skytel [2009088] A  ALPHA  NYTimes Business News Sep 11 08:15 CT www.nytimes.com  (3) Pinault Wins Long Battle to Control Gucci Group -- The French billionaire Fran  ois Pinault took effective control of the Gucci Group with an agreement to buy much of t
+2001-09-11 15:37:33 Skytel [005445406] D  ALPHA  rival tycoon Bernard Arnault. (4) Nikkei Plunge Has Investors on the Edge -- The Nikkei 225 stock index lost 321 points, erasing the gains surrounding the emergence of Junichiro Koizumi as prime minister five months ago. For news updates throughout 
+2001-09-11 15:37:33 Skytel [004686227] A ST NUM  345-8698-88    
+2001-09-11 15:37:33 Skytel [004529559] B SH/TONE 392     
+2001-09-11 15:37:33 Skytel [004209182] D  ALPHA  Caroline Guthrie|FYI - Can't get on to Amtrak's site on-line, Exec Travel is also working issue for you., at ext 5-1477 ||121   (73
+2001-09-11 15:37:33 Skytel [007035539] A SH/TONE 679-3945
+2001-09-11 15:37:33 Skytel [005062802] A  ALPHA  Goff.Corinna@broadband.att.com||Video Outage, Level 3 escalati
+2001-09-11 15:37:33 Skytel [0046125] D  ALPHA  d by the rival tycoon Bernard Arnault. (4) Nikkei Plunge Has Investors on the Edge -- The Nikkei 225 stock index lost 321 points, erasing the gains surrounding the emergence of Junichiro Koizumi as prime minister five months ago. For news updates throu
+2001-09-11 15:37:33 Skytel [2009088] A  ALPHA  he stake held by the rival tycoon Bernard Arnault. (4) Nikkei Plunge Has Investors on the Edge -- The Nikkei 225 stock index lost 321 points, erasing the gains surrounding the emergence of Junichiro Koizumi as prime minister five months ago. For news u
+2001-09-11 15:37:34 Arch [1665952] A  ALPHA  417-6812
+2001-09-11 15:37:34 Arch [0983091] A  ALPHA  From informix at 03:38 PM EDT: SENDQ greater than 40000 elements behind - 44697 on ibm28 [CC:informix t6_everyone] 
+2001-09-11 15:37:34 Arch [0872997] B  ALPHA  (20)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: C
+2001-09-11 15:37:34 Arch [0935670] B  ALPHA  From informix at 03:38 PM EDT: SENDQ greater than 40000 elements behind - 44697 on ibm28 [CC:informix t6_everyone] 
+2001-09-11 15:37:34 Arch [0471000] C  ALPHA  (30)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform 
+2001-09-11 15:37:34 Arch [1650152] C  ALPHA  From informix at 03:38 PM EDT: SENDQ greater than 40000 elements behind - 102940 on ibm27 [CC:informix t6_everyone] 
+2001-09-11 15:37:34 Arch [0942125] D  ALPHA  From informix at 03:38 PM EDT: SENDQ greater than 40000 elements behind - 102940 on ibm27 [CC:informix t6_everyone] 
+2001-09-11 15:37:34 Arch [1025475] A  ALPHA  From informix at 03:38 PM EDT: SENDQ greater than 40000 elements behind - 44697 on ibm28 [CC:informix t6_everyone] 
+2001-09-11 15:37:34 Arch [0949157] B  ALPHA  From informix at 03:38 PM EDT: SENDQ greater than 40000 elements behind - 102940 on ibm27 [CC:informix t6_everyone] 
+2001-09-11 15:37:35 Metrocall [0776055] B  ALPHA  ernet! T= he Worlds Largest Online Casino! We are giving awa
+2001-09-11 15:37:35 Metrocall [1284390] B  ALPHA  LY DO FIRST MORTGAGES WE WERE JUST EXPLORING THE OPTION OF DOING SOME HOME EQUITY TO CONSOLIDATE SO
+2001-09-11 15:37:35 Skytel [005445406] D  ALPHA  the
+2001-09-11 15:37:35 Skytel [002266146] A ST NUM  782-3831 (71   
+2001-09-11 15:37:35 Skytel [004417186] A ST NUM  270-0311-3
+2001-09-11 15:37:35 Skytel [002393629] D  ALPHA  root@vikcom.com|RESELLER Sales for 09/11/01|RESELLER sales total is 209 orders for $55,025.15 on 09/11/01.                   RESELLER backlog total is 618 orders for $601,065.22                       
+2001-09-11 15:37:35 Skytel [005062802] A  ALPHA  on, Bellevue 98006, Tech assigned to ticket  
+2001-09-11 15:37:35 Skytel [003897763] A  ALPHA  Michael.Abeyta@phs.com|Bomb Threat|BOMB THREAT PLAZA BLDG  
+2001-09-11 15:37:35 Skytel [002971940] B  ALPHA  MSFT 57.58 UNCH SKYT 0.00 UNCH NOVL 3.99 UNCH INTL 15.16 UNCH (10
+2001-09-11 15:37:35 Skytel [005074711] B SH/TONE 416-8738
+2001-09-11 15:37:35 Skytel [004750229] B SH/TONE 4558    
+2001-09-11 15:37:35 Skytel [004386966] B ST NUM  800-934-2832-911911 
+2001-09-11 15:37:35 Skytel [0046125] D  ALPHA  ghout the
+2001-09-11 15:37:35 Skytel [004435243] C ST NUM  730-227-2032   
+2001-09-11 15:37:35 Skytel [003326761] C SH/TONE 99      
+2001-09-11 15:37:35 Skytel [005178920] C SH/TONE 032     
+2001-09-11 15:37:35 Skytel [007035552] A SH/TONE 1712 (56
+2001-09-11 15:37:35 Skytel [003262496] A ST NUM  847-941-5501   
+2001-09-11 15:37:35 Skytel [005099297] A ST NUM  469-673-3151-43
+2001-09-11 15:37:35 Skytel [004590507] C SH/TONE 3620    
+2001-09-11 15:37:35 Skytel [005325712] A ST NUM  843-529-0566   
+2001-09-11 15:37:35 Skytel [004057881] C ST NUM  337-7710 (85   
+2001-09-11 15:37:35 Skytel [005063708] D  ALPHA  alert@msn.com||Children in sex trade*MLB cancels games today*World leaders respond with horr
+2001-09-11 15:37:35 Skytel [2009088] A  ALPHA  pdates throughout the day visit us at www.nytimes.com
+2001-09-11 15:37:35 Skytel [005204643] A ST NUM  718-625-0377   
+2001-09-11 15:37:35 Skytel [004689188] B  ALPHA  Goff.Corinna@broadband.att.com||Video Outage, Level 3 escalation, Bellevue 98006, Tech assigned to ticket  
+2001-09-11 15:37:35 Skytel [004431148] D ST NUM  1-215-897-7905 
+2001-09-11 15:37:35 Skytel [005311644] D SH/TONE 577-2226
+2001-09-11 15:37:35 Skytel [007098388] B  ALPHA  LDIG 4.49 UNCH ME
+2001-09-11 15:37:36 Arch [0872997] B  ALPHA  ustomers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:36 Arch [0970920] C  ALPHA  gpage|Hi, I'm waititng for the tools Meeting. thanks 
+2001-09-11 15:37:36 Arch [0471000] C  ALPHA  maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:36 Arch [1052294] B  ALPHA  |VOICE-P1 CLOSE PENDING #4244564 |Site 4 network service restored and IP phone services stab
+2001-09-11 15:37:36 Arch [0653433] C  ALPHA  (2)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:36 Arch [1018132] B  ALPHA  <D>|._._1642407 SOUTHWEST_PEDIATRI;6526_LANSDOWNE;63109 CARROLLTON_BANK;11710_MANCHESTER;63131; ROCHE/CARROLLTON_BA SV:1;RD:1230;DU:1330PU DEPOSIT; MISSED EARLIER!!!! 
+2001-09-11 15:37:36 Arch [1616720] A  ALPHA  djaramil|EPM Duty please call Ops re: shadow taking over on uranium. 408-5
+2001-09-11 15:37:37 Skytel [002393629] D  ALPHA         
+2001-09-11 15:37:37 Skytel [002742064] A ST NUM  908-359-5316   
+2001-09-11 15:37:37 Skytel [002820280] C  ALPHA  9) {sts}/home/sts/bin/check_hosts.ksh Can't connect to STS_PRD_SQL1. Please check.
+2001-09-11 15:37:37 Skytel [004105265] A  ALPHA  MOT 15.04 UNCH LFUS 25.10 UNCH QCOM 50.54 UNCH VRLK 2.24 UNCH
+2001-09-11 15:37:37 Skytel [005346224] A  ALPHA  micsprod@spsdGtwy.fir.ml.com|Sent 09/1
+2001-09-11 15:37:37 Skytel [005106623] D  ALPHA  septii@tungsten.sps.mot.com|SEPT Transition Notification|TY12CELL: RUNNING -> DOWN, working on SmartMOS7; Triggered by TY12MST (BR_PRBNW_1).   
+2001-09-11 15:37:37 Skytel [004436405] B SH/TONE 267-0368
+2001-09-11 15:37:37 Skytel [007641270] B SH/TONE 761-9477
+2001-09-11 15:37:37 Skytel [002359861] B ST NUM  92) 513-977-5495    
+2001-09-11 15:37:37 Skytel [004402874] C  ALPHA  Monica.Kelson@mail.va.gov||Moving with ss  
+2001-09-11 15:37:37 Skytel [005063708] D  ALPHA  or*Wall Street  
+2001-09-11 15:37:37 Skytel [005074617] C SH/TONE 572-0011
+2001-09-11 15:37:37 Skytel [002282939] C ST NUM  708-338-1780   
+2001-09-11 15:37:37 Skytel [003255478] B  ALPHA  BCT309XP - Job BCT309XP has missed its target completion
+2001-09-11 15:37:37 Skytel [002364862] D  ALPHA  {sybase}STS_PRD_OS1 connection timeout from sisprode @ 01-09-11.15:02
+2001-09-11 15:37:37 Skytel [002557625] C ST NUM  310-717-7007   
+2001-09-11 15:37:37 Skytel [004531899] C SH/TONE 997-8966
+2001-09-11 15:37:37 Skytel [007517878] B  ALPHA  Y! ||
+2001-09-11 15:37:37 Skytel [007098388] B  ALPHA  D 3.77 UNCH ADVB 0.42 UNCH EKT 7.12 UNCH
+2001-09-11 15:37:37 Skytel [005105723] C SH/TONE 685-8363
+2001-09-11 15:37:37 Skytel [003944510] D SH/TONE 4708    
+2001-09-11 15:37:37 Skytel [002366527] D  ALPHA  67) {sts}/home/sts/bin/check_hosts.ksh Can't connect to STS_PRD_OS1. Please check.
+2001-09-11 15:37:37 Skytel [002863665] A  ALPHA  DotSykesMailer@bismarck.sykes.com|BM-FB|800_12/11-1:16 900_30/30-0:27  
+2001-09-11 15:37:38 Arch [0970920] C  ALPHA  Sachin /Pls. call 527-1748   
+2001-09-11 15:37:38 Arch [100159671] B  ALPHA  jcarton|Dennis - call in number is 877-526-8245 ID 8752900   
+2001-09-11 15:37:38 Arch [0123163] C  ALPHA  408 640-6193
+2001-09-11 15:37:38 Arch [1018132] B  ALPHA  <D>|._._1644381 ADVERT;2100_LOCUST_ST.,_3RD_FLOOR;63103 BEUCKMAN_RES;440_STILL_CREEK_PATH;63
+2001-09-11 15:37:38 Arch [1052294] B  ALPHA  ilized. SJ LAN support upgraded code on gateway to restore redundancy. OUTAGE START: 11 Sep 11:05 PT END: 11 Sep 12:30 PT Ops 408.527.0007 |231  
+2001-09-11 15:37:38 Arch [0942789] B  ALPHA  nawazali|can you please call me at 408-527-0917. Thanks   
+2001-09-11 15:37:38 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 9.75 10.21 5.10 Tue Sep 11 12:38:00 MST 2001 
+2001-09-11 15:37:38 Arch [1616720] A  ALPHA  27-0007/Ops   
+2001-09-11 15:37:38 Arch [1051564] D  ALPHA  PLEASE CALL NANCY @ UNIVERSITY CARE 619 583 1993 THIS IS HER 2ND CALL
+2001-09-11 15:37:38 Arch [0931795] A  ALPHA  |OPC: tahoe: /dev/vg02/vusers, mounted at /users, is at 97  
+2001-09-11 15:37:38 Metrocall [002336955] C  ALPHA  5060>>>>>
+2001-09-11 15:37:38 Metrocall [002593633] A  ALPHA  Frm: Jay Sub: [StateWideAlert] (no subject) Txt: 919-870-9915 - 50 boxes of Blood that needs transport to MD. Need 2 corporate vans no seats ASAP TODAY to pick up in Rale
+2001-09-11 15:37:38 Metrocall [1032213] B  ALPHA  Make sure your have your radios with you, and that they are coded.
+2001-09-11 15:37:38 Metrocall [0886671] D  ALPHA  GUYS, GIVEN THE CURRENT EVENTS JCI HAS BEEN ASKED TO SUSPEND ALL DISPAT
+2001-09-11 15:37:39 Skytel [005346224] A  ALPHA  1 15:34|mqReceive: MQCONN failed with CompCode:2, Reason:2059  
+2001-09-11 15:37:39 Skytel [002298307] A ST NUM  888-455-4600   
+2001-09-11 15:37:39 Skytel [002749762] A ST NUM  8884439392
+2001-09-11 15:37:39 Skytel [003785677] D  ALPHA  root@vikcom.com|RESELLER Sales for 09/11/01|
+2001-09-11 15:37:39 Skytel [002231115] C  ALPHA  919-906-6994 (96
+2001-09-11 15:37:39 Skytel [004438082] A ST NUM  706-1927 (16   
+2001-09-11 15:37:39 Skytel [007520327] B  ALPHA  Y! || Fourth explosion at World Tra
+2001-09-11 15:37:39 Skytel [003933260] D  ALPHA  webmaster@nationalcar.com||09/11/2001-07:37 Error 3290 E!ReservationExtract - resSummary_save: java.lang.ArithmeticException: / by zero  
+2001-09-11 15:37:39 Skytel [002724677] B SH/TONE 643-6707
+2001-09-11 15:37:39 Skytel [005055054] D  ALPHA  dclombardi@tasc.com|Orlando|Please call Dennis Taylor ( DT Telecom) he relly wan
+2001-09-11 15:37:39 Skytel [007517878] B  ALPHA   Fourth explosion at World Trade Center.   
+2001-09-11 15:37:39 Skytel [007602890] C ST NUM  615-834-6275   
+2001-09-11 15:37:39 Skytel [008507076] B  ALPHA  01570h4b1ab014008g
+2001-09-11 15:37:39 Skytel [007101891] A  ALPHA  5759458 MR/PLS CALL JULIE FARNHAM@HEARTLAND OF OREGON 419 698-4521 ASKED FOR YOU
+2001-09-11 15:37:39 Skytel [002398414] D ST NUM  706-243-1236   
+2001-09-11 15:37:39 Skytel [003444938] C ST NUM  0610222404900  
+2001-09-11 15:37:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-11 15:37:39 Skytel [005351494] B SH/TONE 225     
+2001-09-11 15:37:39 Skytel [004099527] B ST NUM  825-277-4500 (7
+2001-09-11 15:37:39 Skytel [003443791] D ST NUM  817-488-2840   
+2001-09-11 15:37:39 Skytel [002558796] D SH/TONE 804772  
+2001-09-11 15:37:39 Skytel [005328839] B  ALPHA  sgarg@aexp.com||spd52 : Tue Sep 11 12:12:26 MST 2001 no successful statements served from spw47   spw49   spw53   spw86   spw88   spw90   spw92 for past 15 mins.  
+2001-09-11 15:37:39 Skytel [003506510] D SH/TONE 11      
+2001-09-11 15:37:39 Skytel [007000014] D SH/TONE 787-4528
+2001-09-11 15:37:39 Skytel [003265728] A SH/TONE 777     
+2001-09-11 15:37:40 Arch [1018132] B  ALPHA  011 MARY./ADVERTISING_S SV:3;RD:1433;DU:1833DEL MAY LEAVE 
+2001-09-11 15:37:40 Arch [0460641] A  ALPHA  (1)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupt
+2001-09-11 15:37:40 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 3.07 14.97 12.37 Tue Sep 11 12:38:01 MST 2001 
+2001-09-11 15:37:40 Arch [1302885] B  ALPHA  (12)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott
+2001-09-11 15:37:40 Arch [1256337] A  ALPHA  Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:40 Metrocall [0775777] A  ALPHA  Call Holding 111
+2001-09-11 15:37:40 Metrocall [002593633] A  ALPHA  igh and transport to MD. Please CALL ASAP
+2001-09-11 15:37:40 Metrocall [0886671] D  ALPHA  CHING TO FEDERAL BUILDINGS. PLEASE CONTACT YOUR
+2001-09-11 15:37:41 Skytel [007520327] B  ALPHA  de Center.   
+2001-09-11 15:37:41 Skytel [0025814] B  ALPHA  NYTimes Business News Sep 11 08:15 CT www.nytimes.com  (3) Pinault Wins Long Battle to Control Gucci Group -- The French billionaire Fran  ois Pinault took effective control of the Gucci Group with an agreement to buy much o
+2001-09-11 15:37:41 Skytel [007491025] A ST NUM  607-577-5449   
+2001-09-11 15:37:41 Skytel [0025813] B  ALPHA  NYTimes Business News Sep 11 08:15 CT www.nytimes.com  (3) Pinault Wins Long Battle to Control Gucci Group -- The French billionaire Fran  ois Pinault took effective control of the Gucci Group with an agreement to buy much of the sta
+2001-09-11 15:37:41 Skytel [005420123] C ST NUM  08007598255 (74
+2001-09-11 15:37:41 Skytel [004128221] D  ALPHA  [CHELMSFORD DOWN] [akn3-wl21-sw1, akn3-wl31-sw1, akn3-wlldf-sw1] (85
+2001-09-11 15:37:41 Skytel [005389913] C ST NUM  800-456-1919   
+2001-09-11 15:37:41 Skytel [003259486] D  ALPHA  PME013P1 - Job PME013P1 has missed its target completion time and
+2001-09-11 15:37:41 Skytel [0025815] B  ALPHA  NYTimes Business News Sep 11 08:15 CT www.nytimes.com  (
+2001-09-11 15:37:41 Skytel [003951056] A  ALPHA  csaa-10.132.128.54 Critical CSAA Node csaa-10.132.128.54 Down ussa11.SSMC 
+2001-09-11 15:37:41 Skytel [005004369] A  ALPHA  Wtch: build02_3: POLLING ERROR: 09/11/2001 15:34:58; Host build02_3; IP 169.39.3.32; Poll timed out
+2001-09-11 15:37:41 Skytel [005404248] C  ALPHA  cohall|Scott, Please call Jim Spencer at 357-30
+2001-09-11 15:37:42 Arch [0460641] A  ALPHA  ed data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:42 Arch [0872997] B  ALPHA  (21)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted
+2001-09-11 15:37:42 Arch [0471000] C  ALPHA  (31)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:42 Arch [1302885] B  ALPHA  /DAS
+2001-09-11 15:37:42 Arch [1413828] B  ALPHA  (23)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott
+2001-09-11 15:37:42 Arch [0192708] B  ALPHA  Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:42 Arch [1406316] D  ALPHA  Resto
+2001-09-11 15:37:42 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2645
+2001-09-11 15:37:42 Metrocall [002706175] D  ALPHA  Frm: MSN Txt: Children in sex trade*MLB cancels games today*World leaders respond with horror*Wall
+2001-09-11 15:37:42 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2645
+2001-09-11 15:37:42 Metrocall [0475145] C  ALPHA  Frm: Root Sub: test sorry! Txt: trying to shut down lek and leu through alias file -gwm
+2001-09-11 15:37:42 Metrocall [1284390] B  ALPHA  ME BILLS...
+2001-09-11 15:37:42 Skytel [0025814] B  ALPHA  f the stake held by the rival tycoon Bernard Arnault. (4) Nikkei Plunge Has Investors on the Edge -- The Nikkei 225 stock index lost 321 points, erasing the gains surrounding the emergence of Junichiro Koizumi as prime minister five months ago. For new
+2001-09-11 15:37:42 Skytel [0025813] B  ALPHA  ke held by the rival tycoon Bernard Arnault. (4) Nikkei Plunge Has Investors on the Edge -- The Nikkei 225 stock index lost 321 points, erasing the gains surrounding the emergence of Junichiro Koizumi as prime minister five months ago. For news updates
+2001-09-11 15:37:43 Skytel [0025815] B  ALPHA  3) Pinault Wins Long Battle to Control Gucci Group -- The French billionaire Fran  ois Pinault took effective control of the Gucci Group with an agreement to buy much of the stake held by the rival tycoon Bernard Arnault. (4) Nikkei Plunge Has Investor
+2001-09-11 15:37:43 Skytel [005404248] C  ALPHA  90 Thanks, Connie    (36
+2001-09-11 15:37:43 Skytel [004170723] A ST NUM  916-977-8121 (31    
+2001-09-11 15:37:43 Skytel [005239663] D SH/TONE 607-1282
+2001-09-11 15:37:43 Skytel [005135846] B  ALPHA  BOMB THREAT PLAZA BLDG  
+2001-09-11 15:37:43 Skytel [005226605] D ST NUM  9683242074
+2001-09-11 15:37:43 Skytel [005436525] D  ALPHA  nMCI Test #14
+2001-09-11 15:37:43 Skytel [002349543] B ST NUM  770-704-7808   
+2001-09-11 15:37:43 Skytel [005135713] A  ALPHA  idnc-mcii@wcom.com||CATASTROPHIC/UPDATE/WORLD TRADE CENTER, NY/EXPLOSION/7357 9/
+2001-09-11 15:37:44 Arch [0872997] B  ALPHA   data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:44 Arch [0475269] B  ALPHA  (26)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance 
+2001-09-11 15:37:44 Arch [0866780] D  ALPHA  (17)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:44 Arch [1413828] B  ALPHA  /DAS
+2001-09-11 15:37:44 Arch [0802426] C  ALPHA  (12)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott
+2001-09-11 15:37:44 Arch [1406316] D  ALPHA  ral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:44 Arch [0949157] B  ALPHA  From inform
+2001-09-11 15:37:44 Metrocall [002706175] D  ALPHA   Street
+2001-09-11 15:37:44 Metrocall [1421965] D  ALPHA  Frm: EA System Notification,GLENDALE,MIS Sub: TPM Problem 00820455 Txt: Hostname: phx1nd10 Description: Endpoint phx1nd10 has NOT sent a HEARTBEAT within 30 minutes.. Open Date
+2001-09-11 15:37:44 Metrocall [0068239] D  ALPHA  28-PLEASE CALL WIFE 805-579-6206.
+2001-09-11 15:37:44 Metrocall [1224210] A  ALPHA  8888/FRANCES KENNEDY///PLS CHK YOUR CAR PHONE VMX RE CASE
+2001-09-11 15:37:44 Skytel [0025814] B  ALPHA  s updates throughout the day visit us at www.nytimes.com
+2001-09-11 15:37:44 Skytel [005307378] A ST NUM  808-816-9911   
+2001-09-11 15:37:44 Skytel [004415601] A ST NUM  0610424324
+2001-09-11 15:37:44 Skytel [002350966] B  ALPHA  FYI: At 15:06:47, the Moore & Valdosta PGs are sporadically showing offline, the Meridian Max screens froze, and agents are experiencing desktop appl
+2001-09-11 15:37:44 Skytel [0025813] B  ALPHA   throughout the day visit us at www.nytimes.com
+2001-09-11 15:37:44 Skytel [005331450] C  ALPHA  Michael.Abeyta@phs.com|Bomb Threat|BOMB THREAT PLAZA BLDG  
+2001-09-11 15:37:44 Skytel [005240059] C ST NUM  626-357-7785   
+2001-09-11 15:37:44 Skytel [007100415] D  ALPHA  5758931 SER WNDVAC MASSACHUSETTS GENERAL  6177263339 P TANNER WH 8 SWP 255
+2001-09-11 15:37:44 Skytel [007602679] B SH/TONE 656-2926
+2001-09-11 15:37:44 Skytel [005039602] A  ALPHA  ro
+2001-09-11 15:37:44 Skytel [0025815] B  ALPHA  s on the Edge -- The Nikkei 225 stock index lost 321 points, erasing the gains surrounding the emergence of Junichiro Koizumi as prime minister five months ago. For news updates throughout the day visit us at www.nytimes.com
+2001-09-11 15:37:44 Skytel [005509751] B SH/TONE 3526211 
+2001-09-11 15:37:44 Skytel [005065594] C  ALPHA  31
+2001-09-11 15:37:44 Skytel [005135713] A  ALPHA  11/2001 16:22 SMCMCS REPORTS SEVERE NETWORK CONGESTION ON THE DAP CAUSING 800 AND V-NET CALL FAILURES. TECH SUPPORT, 4TH LEVEL, MRSS ON BRIDGE INVESTIGATING.  
+2001-09-11 15:37:44 Skytel [005108604] D  ALPHA  Manoj,  Can you still go?   Jay 6-6346
+2001-09-11 15:37:44 Skytel [007555450] C  ALPHA  TEST 3
+2001-09-11 15:37:44 Skytel [005350773] B ST NUM  770-455-9022 U 
+2001-09-11 15:37:46 Arch [0475269] B  ALPHA  on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:46 Arch [1017704] C  ALPHA  From Zachary Truelove: sorry...wasn't trying to ignore. just another "network" issue!    
+2001-09-11 15:37:46 Arch [0474171] C  ALPHA  (17)Restoral X4229941. PROB: Web OE - 
+2001-09-11 15:37:46 Arch [0942125] D  ALPHA  From informix at 03:38 PM EDT: SENDQ greater than 40000 elements behind - 44697 on ibm28 [CC:informix t6_everyone] 
+2001-09-11 15:37:46 Arch [1604703] D  ALPHA  (2)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service 
+2001-09-11 15:37:46 Arch [0802426] C  ALPHA  /DAS
+2001-09-11 15:37:46 Arch [1650152] C  ALPHA  From informix at 03:38 PM EDT: SENDQ greater than 40000 elements behind - 44697 on ibm28 [CC:informix t6_everyone] 
+2001-09-11 15:37:46 Arch [1400153] C  ALPHA  (3)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot 
+2001-09-11 15:37:46 Arch [0949157] B  ALPHA  ix at 03:38 PM EDT: SENDQ greater than 40000 elements behind - 44697 on ibm28 [CC:informix t6_everyone] 
+2001-09-11 15:37:46 Arch [0983490] A  ALPHA  From Justin Miranda Sub:One on you call me when you get a chance Msg:  Justin Miranda  Structured Cabling  Wal-Mart Corporate Office  501
+2001-09-11 15:37:46 Metrocall [1587695] D  ALPHA  Frm: Trippe Jo (ChW/MFE3.1) Sub: Txt: Been a hell of a day friend, be safe, tell Les I said Hi, drink lots V+T, dogs will be fine.
+2001-09-11 15:37:46 Metrocall [1421965] D  ALPHA  : 09/11/2001 Open Time: 12:31:00
+2001-09-11 15:37:46 Metrocall [0501827] A  ALPHA  Big Paul wa
+2001-09-11 15:37:46 Metrocall [0668483] A  ALPHA  E-Monitor - CES Web - www.southerngeneration.com/ces:80 Server timed out - CES Web" SYSTEM  9/11/2001 13:40
+2001-09-11 15:37:46 Skytel [002350966] B  ALPHA  ication slowness. CRDB data may be affected. VT# 249026. NCC/b
+2001-09-11 15:37:46 Skytel [005044871] B SH/TONE 6196    
+2001-09-11 15:37:46 Skytel [004591747] A  ALPHA  MSFT 57.58 UNCH INTC 26.07 UNCH HWP 17.89 UNCH SUNW 10.29 UNCH (74
+2001-09-11 15:37:46 Skytel [005386632] C  ALPHA  bb@rs1fw1.microtelco.com|!BB - 1135911! net2phone.rs1.microtelco.com.EDI - 99900
+2001-09-11 15:37:46 Skytel [005039602] A  ALPHA  ot@vikcom.com|RESELLER Sales for 09/11/01|RESELLER sales total is 209 orders for $55,025.15 on 09/11/01.                   RESELLER backlog total is 618 orders for $601,065.22                              
+2001-09-11 15:37:46 Skytel [004391046] B SH/TONE 70      
+2001-09-11 15:37:46 Skytel [003926281] C SH/TONE 780     
+2001-09-11 15:37:46 Skytel [007640837] B SH/TONE 555     
+2001-09-11 15:37:46 Skytel [005065594] C  ALPHA  : CM.Alert NewCall 2336116 ASMCO8380 12:40pm P3 DUE: 09/12/01 12:36pm DST
+2001-09-11 15:37:46 Skytel [005122184] C ST NUM  414-449-4000-4466   
+2001-09-11 15:37:46 Skytel [002777737] C ST NUM  1-315-343-1800-112  
+2001-09-11 15:37:46 Skytel [007524491] C  ALPHA  Y! || Fourth explosion at World Trade Center.   
+2001-09-11 15:37:46 Skytel [003857801] C SH/TONE 926-7610
+2001-09-11 15:37:46 Skytel [002204536] C SH/TONE 1234 (39
+2001-09-11 15:37:46 Skytel [005063039] D ST NUM  973-772-1935-11
+2001-09-11 15:37:46 Skytel [007008377] C SH/TONE 595-8437
+2001-09-11 15:37:46 Skytel [002862066] A ST NUM  78255 (60 
+2001-09-11 15:37:46 Skytel [003484172] D SH/TONE 733-0892
+2001-09-11 15:37:46 Skytel [003447567] D ST NUM  505-573-2415   
+2001-09-11 15:37:46 Skytel [005386637] D  ALPHA  bb@rs1fw1.microtelco.com|!BB - 1135910! net2phone.rs1.microtelco.com.EDI - 999000000000000|[1135910]   net2phone.rs1.microtelco.com.EDI red Tue Sep 11 19:37:50 2001 3 failures in a row response time is between 5 and 6 
+2001-09-11 15:37:47 Arch [0474171] C  ALPHA  App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:47 Arch [1328748] D  ALPHA  (5)Restoral X4
+2001-09-11 15:37:47 Arch [1604703] D  ALPHA  or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:47 Arch [0195701] B  ALPHA  (18)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers can
+2001-09-11 15:37:47 Arch [1400153] C  ALPHA  order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:47 Arch [1238677] B  ALPHA  (10)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. 
+2001-09-11 15:37:47 Arch [0983490] A  ALPHA  -277-5262  j2miran@Wal-Mart.com  Wal-Mart Confidential  
+2001-09-11 15:37:47 Arch [0821151] D  ALPHA  (4)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on account
+2001-09-11 15:37:48 Skytel [005386632] C  ALPHA  0000000000|[1135911]   net2phone.rs1.microtelco.com.EDI red Tue Sep 11 19:37:50 2001 3 failures in a row response time is between 5 and 6 seconds <hr><center><i
+2001-09-11 15:37:48 Skytel [004449283] A ST NUM  800-226-3376   
+2001-09-11 15:37:48 Skytel [004543644] D SH/TONE 594-2901
+2001-09-11 15:37:48 Skytel [007457554] A SH/TONE 305-5650
+2001-09-11 15:37:48 Skytel [003857427] A  ALPHA  916-972-3439 U (93
+2001-09-11 15:37:48 Skytel [002779800] C ST NUM  935-883-8631   
+2001-09-11 15:37:48 Skytel [004407711] D ST NUM  253-859-4120 U 
+2001-09-11 15:37:48 Skytel [005506962] A SH/TONE 577-5000
+2001-09-11 15:37:48 Skytel [005386637] D  ALPHA  seconds <hr><center><i
+2001-09-11 15:37:48 Skytel [007041556] B ST NUM  1-707-435-0200 
+2001-09-11 15:37:48 Skytel [007524632] C  ALPHA  29) Y! || Fourth explosion at World Trade Center.   
+2001-09-11 15:37:48 Skytel [002558991] D ST NUM  858-547-7277   
+2001-09-11 15:37:49 Arch [1328748] D  ALPHA  229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:49 Arch [0578068] B  ALPHA  Restoral X4229941
+2001-09-11 15:37:49 Arch [0195701] B  ALPHA  not order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:49 Arch [0716752] A  ALPHA  (12)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers can
+2001-09-11 15:37:49 Arch [1238677] B  ALPHA  IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:49 Arch [0886821] B  ALPHA  (5)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. I
+2001-09-11 15:37:49 Arch [0821151] D  ALPHA  s. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:49 Arch [0509659] C  ALPHA  (21)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts.
+2001-09-11 15:37:50 Skytel [003941417] C  ALPHA  GLENN VIDA, CANCELLED FLIGHTS GOING TO NEWARK CALL DIANA. 800 873 7753
+2001-09-11 15:37:50 Skytel [007489060] B SH/TONE 577-5000
+2001-09-11 15:37:50 Skytel [005001895] B  ALPHA  ocsedidr02-'Unable to load the gateway MAPI   Gateway (MBMAPI10.DLL): it was unable to   initialise itself.'; -osc
+2001-09-11 15:37:50 Skytel [0300335] D  ALPHA  e: signal lost 15:33:57 -oo-
+2001-09-11 15:37:50 Skytel [003955488] A ST NUM  818-822-2926   
+2001-09-11 15:37:50 Skytel [002744232] C SH/TONE 562     
+2001-09-11 15:37:50 Skytel [002359591] B  ALPHA  {sybase}STS_PRD_OS0 connection from sisproda timeout @ 2001/09/11 15:01:00
+2001-09-11 15:37:50 Skytel [003436330] C SH/TONE 2586 (25
+2001-09-11 15:37:50 Skytel [007524270] D  ALPHA  Y! || Fourth explosion at World Trade Center.   
+2001-09-11 15:37:50 Skytel [007512621] D  ALPHA  Y! | Fourth explosion at World Trade Center.   
+2001-09-11 15:37:51 Arch [0578068] B  ALPHA  . PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:51 Arch [0480206] D  ALPHA  (30)Restoral X4229941. 
+2001-09-11 15:37:51 Arch [0716752] A  ALPHA  not order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:51 Arch [0553737] C  ALPHA  (5)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cann
+2001-09-11 15:37:51 Arch [0886821] B  ALPHA  MP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:51 Arch [0015257] C  ALPHA  44-PLEASE CALL MARK ASAP AT 215-633-0763.
+2001-09-11 15:37:51 Arch [1009426] A  ALPHA  (21)Restoral X4229941. PRO
+2001-09-11 15:37:51 Arch [0509659] C  ALPHA   STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:51 Arch [0578954] C  ALPHA  (29)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts.
+2001-09-11 15:37:52 Skytel [007521077] B  ALPHA  Y! || Fourth explosion at World Trade Center.   
+2001-09-11 15:37:52 Skytel [003412658] A SH/TONE 411     
+2001-09-11 15:37:52 Skytel [004447409] A SH/TONE 700-2101
+2001-09-11 15:37:52 Skytel [004539708] D SH/TONE 46996   
+2001-09-11 15:37:52 Skytel [003598901] B  ALPHA  MSFT 57.58 UNCH NFB 27.09 UNCH INTC 26.07 UNCH EFII 18.49 UNCH (4
+2001-09-11 15:37:52 Skytel [005177909] B SH/TONE 1394    
+2001-09-11 15:37:52 Skytel [002787387] C ST NUM  614-578-2909   
+2001-09-11 15:37:52 Skytel [004572848] A SH/TONE 31529   
+2001-09-11 15:37:52 Skytel [004523066] C SH/TONE 778-1487
+2001-09-11 15:37:52 Skytel [003328569] C  ALPHA  OCTL 0.00 UNCH CSCO 14.47 UNCH COMS 3.60 UNCH USRX 0.00 UNCH (12
+2001-09-11 15:37:52 Skytel [003524799] D ST NUM  098-7619-3
+2001-09-11 15:37:52 Skytel [003926838] B  ALPHA  kjestrab@Acosta.com||Rob has left Sfwy #1551....any idea of where he went next?  -k  > Kirsten Jestrab  > Retail Assistant > Acosta Sales & Marketing/Bellevue > kjestrab@acosta.com >  >   
+2001-09-11 15:37:52 Skytel [002197567] D ST NUM  408-356-7059 (12    
+2001-09-11 15:37:53 Arch [0480206] D  ALPHA  PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:53 Arch [1048414] D  ALPHA  7801
+2001-09-11 15:37:53 Arch [0553737] C  ALPHA  ot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:53 Arch [0278479] D  ALPHA  fi-etrade2: Alert: 1 SWEB trades missing in PCONFINYC_DATA. Check Tradehub Monitor.
+2001-09-11 15:37:53 Arch [1009426] A  ALPHA  B: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:53 Arch [1619062] B  ALPHA  nyp-con2: nyp-con2: Failur
+2001-09-11 15:37:53 Arch [0578954] C  ALPHA   STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:53 Arch [0431336] C  ALPHA  83-PLEASE CALL TY ASAP 212-622-5453.
+2001-09-11 15:37:53 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:so
+2001-09-11 15:37:53 Metrocall [1282391] B  ALPHA  Sub: Frm: Hotton, Kim Txt: Dr. - Wayne in route to Anesth. Conf Rm to ensure system setup. He will contact you when ready. Thx. Kim=20
+2001-09-11 15:37:53 Metrocall [1708634] C  ALPHA  Customer Donna Adams Phone 9220 8354 Problem: when trying to do-1/2
+2001-09-11 15:37:53 Metrocall [1222705] A  ALPHA  PLEASE SEE MIKE AT NLB CORP. HE HAS A NEW WEARER FOR YOU TO SIZE "PERRY" 622-1666....D
+2001-09-11 15:37:54 Skytel [007101390] D ST NUM  918-994-2534   
+2001-09-11 15:37:54 Skytel [0002113] A  ALPHA  (2 of 2)  possible. Thank you. - Training
+2001-09-11 15:37:54 Skytel [005124807] B SH/TONE 777     
+2001-09-11 15:37:54 Skytel [005115847] B ST NUM  673-869-1111   
+2001-09-11 15:37:54 Skytel [007552201] C SH/TONE 577-5000
+2001-09-11 15:37:54 Skytel [002851148] D SH/TONE 800 (35 
+2001-09-11 15:37:54 Skytel [007557704] C SH/TONE 35355   
+2001-09-11 15:37:54 Skytel [002560585] C ST NUM  9) 7525093
+2001-09-11 15:37:54 Skytel [007598280] C SH/TONE 617     
+2001-09-11 15:37:54 Skytel [0000068] B  ALPHA  OUTBOUND MANAGERS YOU MUST INTIATE EMAIL ADHOC REQUEST IN ORDER TO GET A ADHOC
+2001-09-11 15:37:54 Skytel [005256518] B SH/TONE 599616  
+2001-09-11 15:37:54 Skytel [003933261] D  ALPHA  AGagne@cmgi.com|RE: ERPi1 Patching|ERPI1 going down now for Patching !!  Alan  -----Original Message----- From: Rollins, Alger  Sent: Tuesday, September 11, 2001 3:01 PM To: uBid Test Team Subject: ERPi1 Patching   We would like to take
+2001-09-11 15:37:55 Arch [1650127] D  ALPHA  keasterl|Are you coming to Jayshree's for 12:30 messaging meeting? Thanks! Katie 67493   
+2001-09-11 15:37:55 Arch [1050773] B  ALPHA  jbalthas|Please join us for a conference call to discuss our team's efforts to assist Verizon as they deal with today's crisis. Date = Today; Time = 4pm
+2001-09-11 15:37:55 Arch [0935313] A  ALPHA  brichard|J.P. Have not heard from you on headcount verification. Please call or page 704-357-5124. Thanks, Barb.   
+2001-09-11 15:37:55 Arch [0873282] A  ALPHA  "Martha Johnson"||Have customer on hold regarding case #B814728. Please call me at 904-443-6432.|96  
+2001-09-11 15:37:55 Arch [1619062] B  ALPHA  e to bring up CashNADaemonM1!!
+2001-09-11 15:37:55 Arch [0930398] D  ALPHA  |Major Alarm,2001-09-11 12:37:05,\\SJCLSTR2H\Cisco CallManager\Reg isteredHardwarePhones,533,over 500 ||103  
+2001-09-11 15:37:55 Arch [0780138] C  ALPHA  (23)Restoral X4229941. PROB: Web OE - App errors in Short and Lon
+2001-09-11 15:37:55 Arch [1425048] C  ALPHA  cket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 185228. 
+2001-09-11 15:37:55 Arch [1399736] C  ALPHA  84-PLEASE CALL LOU AT 301-862-3291.
+2001-09-11 15:37:55 Arch [0966799] D  ALPHA  mlourenc|Please call Mike at 609-426-0785   
+2001-09-11 15:37:55 Arch [0418540] D  ALPHA  (3
+2001-09-11 15:37:55 Metrocall [1708634] C  ALPHA  the upgrade to Notes r5 it is prompting her to setup her Notes-2/2
+2001-09-11 15:37:55 Metrocall [1258656] A  ALPHA  50-PLEASE CALL JIM AT 203-719-1078.
+2001-09-11 15:37:55 Metrocall [0645301] B  ALPHA  E-Monitor - CES Web - www.southerngeneration.com/ces:80 Server timed out - CES Web" SYSTEM  9/11/2001
+2001-09-11 15:37:55 Metrocall [1115100] D  ALPHA  E-Monitor - Genisys2 Server - alftnwb01 Server Recovered - Genisys2 Server" SYSTEM  9/11/2001 13:40
+2001-09-11 15:37:55 Metrocall [002272048] A  ALPHA  Please turn on phone in office 5067 so we can dial out - I think Scott has already set up in Dr. Lin's name.  Visitors from S
+2001-09-11 15:37:56 Skytel [004756689] A SH/TONE 85299   
+2001-09-11 15:37:56 Skytel [004429139] A ST NUM  730-876-0178   
+2001-09-11 15:37:56 Skytel [002863195] C SH/TONE 99      
+2001-09-11 15:37:56 Skytel [007009496] C  ALPHA  Y! || Fourth explosion at World Trade Center.   
+2001-09-11 15:37:56 Skytel [003262294] B  ALPHA  alert@keynote.com|Keynote Performance Alert|09/11/2001 19:36 GMT http://www.bloomingdales.com/  Performance Alert:   Aggregate   36.375 secs  
+2001-09-11 15:37:56 Skytel [004399446] B  ALPHA  7620
+2001-09-11 15:37:56 Skytel [003944025] C ST NUM  508-360-6099   
+2001-09-11 15:37:56 Skytel [005055957] B  ALPHA  WendellB@aetna.com||Upcoming Meeting : Check Stock Price....  09/11/2001 1:00:00 PM  
+2001-09-11 15:37:56 Skytel [004749783] B ST NUM  1-813-917-0496 
+2001-09-11 15:37:56 Skytel [004414550] B SH/TONE 860-8485
+2001-09-11 15:37:56 Skytel [002778069] B SH/TONE 1       
+2001-09-11 15:37:56 Skytel [004192086] B ST NUM  360-815-1627   
+2001-09-11 15:37:56 Skytel [003254751] D SH/TONE 228     
+2001-09-11 15:37:56 Skytel [005359711] D ST NUM  318-473-9494   
+2001-09-11 15:37:56 Skytel [007524290] A  ALPHA  Y! || Fourth explosion 
+2001-09-11 15:37:56 Skytel [005057620] B  ALPHA  CALL ASAP, LIDIA 909 641 9899
+2001-09-11 15:37:56 Skytel [002854495] D  ALPHA  CAN YOU PLEASE CALL INTO BRIDGE NUMBER 609-282-2929? -SOL
+2001-09-11 15:37:56 Skytel [003073624] C SH/TONE 6402 (28
+2001-09-11 15:37:56 Skytel [005424474] C  ALPHA  716-297-3900 (37
+2001-09-11 15:37:56 Skytel [005384405] B  ALPHA  bb@rs1fw1.microtelco.com|!BB - 1135913! net2phone.rs1.microtelco.com.EDI - 999000000000000|[
+2001-09-11 15:37:56 Skytel [003933261] D  ALPHA   ERP
+2001-09-11 15:37:56 Skytel [005004368] A  ALPHA  Exchangemonitor: Check services on SRVRMON:One
+2001-09-11 15:37:56 Skytel [004107359] D SH/TONE * (2    
+2001-09-11 15:37:56 Skytel [007111134] D ST NUM  323-838-1500   
+2001-09-11 15:37:56 Skytel [005390424] C  ALPHA  3284 TELECOMET INC       
+2001-09-11 15:37:56 Skytel [007110996] B SH/TONE 305-5650
+2001-09-11 15:37:56 Skytel [004517594] C  ALPHA  PND ORDER 5759461 SCOTT D WNDVAC MEDICARE DMERC  311
+2001-09-11 15:37:56 Skytel [002283614] D ST NUM  111-896-7743   
+2001-09-11 15:37:56 Skytel [005478607] D SH/TONE 799-8000
+2001-09-11 15:37:57 Arch [1050773] B  ALPHA   EST; Phone # = 888-527-2663; ID = 333999   
+2001-09-11 15:37:57 Arch [1415004] D  ALPHA  (13)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales 
+2001-09-11 15:37:57 Arch [1227942] B  ALPHA  (31)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:57 Arch [0780138] C  ALPHA  g Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:57 Arch [1329229] D  ALPHA  (29)Restoral X4229941. PROB: Web OE - App errors in Short and Lon
+2001-09-11 15:37:57 Arch [0418540] D  ALPHA  )Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:57 Arch [1631279] D  ALPHA  (15)R
+2001-09-11 15:37:57 Metrocall [002561025] A  ALPHA  ALL PERSOMMEL CALL OFFICE, VIRG
+2001-09-11 15:37:57 Metrocall [0668483] A  ALPHA  E-Monitor - Genisys2 Server - alftnwb01 Server Recovered - Genisys2 Server" SYSTEM  9/11/2001 13:40
+2001-09-11 15:37:57 Metrocall [0645301] B  ALPHA   13:40
+2001-09-11 15:37:57 Metrocall [002272048] A  ALPHA  an Jose need to use.  Cindy - 6550
+2001-09-11 15:37:57 Metrocall [1608505] C  ALPHA  RCW/ 1293587-3-TERRY 775-688-3557/UNABLE TO LOG ON/800-422-8891
+2001-09-11 15:37:57 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4037
+2001-09-11 15:37:57 Metrocall [1145663] D  ALPHA  [FAH]I got here about 1400 hrs  :I am so sorry I don't get 
+2001-09-11 15:37:57 Skytel [002747105] A ST NUM  900-759-8255   
+2001-09-11 15:37:57 Skytel [004730213] B ST NUM  610-420-4430   
+2001-09-11 15:37:57 Skytel [005201254] B  ALPHA  notify@tutopia.com|Notification:Las Tres Bardas...|De: Ignacio_Martinez@ryder.com Asunto: Las Tres Bardas... Fecha: Tue, 11 Sep 2001 14:06:13 +0100 Para:   Esta es la cabecera de un nuevo mensaje enviado a su cue
+2001-09-11 15:37:57 Skytel [007524290] A  ALPHA  at World Trade Center.   
+2001-09-11 15:37:57 Skytel [007604708] B ST NUM  623-581-4466   
+2001-09-11 15:37:57 Skytel [005064037] B  ALPHA  Goff.Corinna@broadband.att.com||Video Outage, Level 3 escalation, Bellevue 98006, Tech assigned to ticket  
+2001-09-11 15:37:57 Skytel [002216933] B ST NUM  56130 (41 
+2001-09-11 15:37:57 Skytel [005106029] D ST NUM  301-669-6764   
+2001-09-11 15:37:58 Skytel [005351013] B  ALPHA  718-520-5160
+2001-09-11 15:37:58 Skytel [007528548] B  ALPHA  Y! || Fourt
+2001-09-11 15:37:58 Skytel [005384405] B  ALPHA  1135913]   net2phone.rs1.microtelco.com.EDI red Tue Sep 11 19:37:50 2001 3 failures in a row response time is between 5 and 6 seconds <hr><center><i
+2001-09-11 15:37:58 Skytel [002782058] C ST NUM  610-832-4383   
+2001-09-11 15:37:58 Skytel [002406381] D  ALPHA  INEL 0.00 UNCH CAG 22.87 UNCH MCIC 0.00 UNCH KNE 0.00 UNCH
+2001-09-11 15:37:58 Skytel [002744684] D SH/TONE 329-8811
+2001-09-11 15:37:58 Skytel [004531566] D SH/TONE 812-7526
+2001-09-11 15:37:58 Skytel [005209953] A ST NUM  0-800-841-6672 
+2001-09-11 15:37:58 Skytel [004535277] D SH/TONE 1394    
+2001-09-11 15:37:58 Skytel [004402152] C ST NUM  847-645-5278   
+2001-09-11 15:37:58 Skytel [005445614] D  ALPHA  VOICEMAIL
+2001-09-11 15:37:58 Skytel [005047141] B SH/TONE 555-1212
+2001-09-11 15:37:58 Skytel [005220975] D SH/TONE 2050    
+2001-09-11 15:37:58 Skytel [007519973] B  ALPHA  8775979482@airmessage.net||sean my pager is actin up  SHERRY  
+2001-09-11 15:37:58 Skytel [005384420] B  ALPHA  bb@rs1fw1.microtelco.com|!BB - 1135912! net2phone.rs1
+2001-09-11 15:37:59 Arch [1415004] D  ALPHA  Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:59 Arch [0658867] A  ALPHA  (19)Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales 
+2001-09-11 15:37:59 Arch [1300960] A  ALPHA  Restoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:59 Arch [0951725] D  ALPHA  571 2
+2001-09-11 15:37:59 Arch [1329229] D  ALPHA  g Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:59 Arch [1410867] A  ALPHA  (1)Restoral X4229941. PROB: Web OE - App errors in Short and Long
+2001-09-11 15:37:59 Arch [1631279] D  ALPHA  estoral X4229941. PROB: Web OE - App errors in Short and Long Forms. IMP: Customers cannot order new service or perform maintenance on accounts. STATUS: Corrupted data in Sales Person tables corrected. RESTORED at 14:20 CT... Scott/DAS
+2001-09-11 15:37:59 Arch [0790090] C  ALPHA  (24)R
+2001-09-11 15:37:59 Metrocall [1060415] D  ALPHA  FC'S:  FYI..PER DJ..DISPTACH 1 IS DOWN.  ALL CONTRACTORS NOTIFIED.  CALL INTO DISPATCH ONE EVERY HOUR TO SEE WHAT'S WHAT......TDM/GWEN
+2001-09-11 15:37:59 Metrocall [1145663] D  ALPHA  to work with you tonight/24
+2001-09-11 15:37:59 Skytel [005201254] B  ALPHA  nta de correo electr nico. E
+2001-09-11 15:37:59 Skytel [005121778] A ST NUM  661-0887 (23   
+2001-09-11 15:37:59 Skytel [005342582] B  ALPHA  micsprod@spsdGtwy.fir.ml.com|Sent 09/11 15:34|mqReceive: MQCONN failed with CompCode:2, Reason:2059  
+2001-09-11 15:37:59 Skytel [002752097] A SH/TONE 622-2100
+2001-09-11 15:37:59 Skytel [005195235] A SH/TONE 800-8019
+2001-09-11 15:37:59 Skytel [004517601] A  ALPHA  MSFT 57.58 UNCH IBM 96.47 UNCH HWP 17.89 UNCH SUNW
+2001-09-11 15:37:59 Skytel [007528548] B  ALPHA  h explosion at World Trade Center.   
+2001-09-11 15:37:59 Skytel [005176695] B ST NUM  410-772-3256   
+2001-09-11 15:37:59 Skytel [003923071] D SH/TONE 3526211 
+2001-09-11 15:37:59 Skytel [007527922] A  ALPHA  y-alerts@yahoo-inc.com|| Fourth explosion at World Trade Center.   
+2001-09-11 15:37:59 Skytel [002382588] D SH/TONE 99      
+2001-09-11 15:37:59 Skytel [002390524] D ST NUM  615-432-4700   
+2001-09-11 15:37:59 Skytel [004591740] D SH/TONE 99      
+2001-09-11 15:37:59 Skytel [005399413] B ST NUM  716-654-7538 (74    
+2001-09-11 15:37:59 Skytel [007437921] A ST NUM  212-337-0141-2 (14  
+2001-09-11 15:37:59 Skytel [007041890] A  ALPHA  y-
+2001-09-11 15:37:59 Skytel [003327216] A  ALPHA  002431 CYCLIC TEST 
+2001-09-11 15:37:59 Skytel [007611506] A  ALPHA  Rog, what bridge are you on?  the one in the email, or the one on our web page?  Mon
+2001-09-11 15:37:59 Skytel [005076731] C SH/TONE 2345    
+2001-09-11 15:37:59 Skytel [005179130] C ST NUM  847-635-6375   
+2001-09-11 15:37:59 Skytel [003411192] C ST NUM  501-350-9080   
+2001-09-11 15:37:59 Skytel [002778491] C SH/TONE 132     
+2001-09-11 15:37:59 Skytel [007507940] B  ALPHA   DR MARKS/SEQ ER   [ 650-367-5541 ]  RE PT HEDVALL 
+2001-09-11 15:37:59 Skytel [005384420] B  ALPHA  .microtelco.com.EDI - 999000000000000|[1135912]   net2phone.rs1.microtelco.com.EDI red Tue Sep 11 19:37:50 2001 3 failures in a row response time is between 5 and 6 seconds <hr><center><i
+2001-09-11 15:37:59 Skytel [004745341] D SH/TONE 2363    
+2001-09-11 15:37:59 Skytel [002357369] C  ALPHA  002431 CYCLIC TEST 
+2001-09-11 15:37:59 Skytel [002139900] D SH/TONE 002431  

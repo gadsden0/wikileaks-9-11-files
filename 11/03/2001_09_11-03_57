@@ -1,0 +1,54 @@
+2001-09-11 03:57:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1944
+2001-09-11 03:57:00 Metrocall [0000329] C  ALPHA  ..I......E.....R...................................
+2001-09-11 03:57:00 Metrocall [002178508] D  ALPHA  EMAIL Stacie Miller  Have you go4tmn your................................................................................................................................................
+2001-09-11 03:57:03 Skytel [004397343] D  ALPHA  SANM 14.57 -0.45 SLR 12.01 +0.41 SCI 19.68 -0.43 JBL 18.15 +0.05
+2001-09-11 03:57:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6766
+2001-09-11 03:57:05 Arch [0938835] A  ALPHA  123-43000827
+2001-09-11 03:57:05 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177430. 
+2001-09-11 03:57:05 Skytel [002376872] C  ALPHA  nms@svcanms.conxion.com|Sep11-00:57|All RED alarms have cleared  
+2001-09-11 03:57:12 Arch [0910057] C  ALPHA  pc999bot1: pc999bot1@PC999.hunterdonhealthcare.org 192.168.27.1 is down! -Contact HMC Immediately
+2001-09-11 03:57:12 Arch [1614638] D  ALPHA  F: swatch      Sep 11 03:56:13 loan1.p2k.cbis.com \ISCSI transport failed: reason \tran_err\: retrying command
+2001-09-11 03:57:12 Arch [1009132] D  ALPHA  F: swatch      Sep 11 03:56:13 loan1.p2k.cbis.com \ISCSI transport failed: reason \tran_err\: retrying command
+2001-09-11 03:57:12 Skytel [005388643] A SH/TONE 295-2607
+2001-09-11 03:57:12 Skytel [005355367] B ST NUM  405-383-1707   
+2001-09-11 03:57:12 Skytel [004428264] C SH/TONE 295-4810
+2001-09-11 03:57:14 Arch [0938835] A  ALPHA  123-33000827
+2001-09-11 03:57:14 Arch [1302348] D  ALPHA  215
+2001-09-11 03:57:14 Skytel [003779836] D  ALPHA    SiteScope/Databases - Sacramento/Colusa - Memory Monitor/67477/no data/
+2001-09-11 03:57:18 Skytel [004397329] A ST NUM  899-637-5138-66
+2001-09-11 03:57:20 Arch [1006855] B  ALPHA  (16)09:ABS: Tkt:5002825, Sev:2, Opened, Sname:INS, CIS Id:13039255, Contact:CAROLYN LEWIS/NOC @ 2025141851 Note:REMOTE IN LA DWN\\PWR VRFD\\DLCI UNKWN\\NO ALARMS\\NO DBU\\NO CHANGES\NO ROTI FOR THIS\\OK TO TEST\\DEMARC UNKWN\\MFH/SMC/4598
+2001-09-11 03:57:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9689
+2001-09-11 03:57:27 Skytel [005346919] B  ALPHA  4) FDA Is Expected to Approve Lilly's Expensive Blood-Infection Treatment[DJ NEWS]
+2001-09-11 03:57:30 Metrocall [1064378] C  ALPHA  ALCATEL BONDS UND............T..............
+2001-09-11 03:57:30 Metrocall [1064395] C  ALPHA  ..............................................................................
+2001-09-11 03:57:30 Metrocall [0007690] C  ALPHA  ......................................................
+2001-09-11 03:57:31 Skytel [007063937] A ST NUM  750234814555411411  
+2001-09-11 03:57:31 Skytel [004697358] D  ALPHA  FROM JOSH. WHERE YOU AT? 
+2001-09-11 03:57:33 Skytel [007575575] B  ALPHA  [MINOR] dijon: File-system "/biller/wnet/data/parser" is now 86% full.
+2001-09-11 03:57:33 Skytel [002401821] D  ALPHA  ondprod.racca.chevron.com The interface en0; on ondprod.racca.chevron.com is Down. ussa11.SSMC 
+2001-09-11 03:57:36 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177437. 
+2001-09-11 03:57:36 Arch [1026292] B  ALPHA  corey_nguyen@nys|PVNetMon |pacts IP Device was down, now responding. 
+2001-09-11 03:57:36 Skytel [003054910] D  ALPHA  FDA Is Expected to Approve Lilly's Expensive Blood-Infection Treatment[DJ NEWS]
+2001-09-11 03:57:36 Skytel [004428341] B ST NUM  55) 111-1111   
+2001-09-11 03:57:38 Skytel [003916610] A  ALPHA  FDA Is Expected to Approve Lilly's Expensive Blood-Infection Treatment[DJ NEWS]
+2001-09-11 03:57:38 Skytel [003263054] D  ALPHA  bcs_alert@am.sony.com|BCS Alert|BCS_PENDING_TRANSACTIONS has 137 records!  
+2001-09-11 03:57:38 Skytel [007584589] D ST NUM  223-464-8385-9119   
+2001-09-11 03:57:40 Arch [0622057] C  ALPHA  (23)45:ABS: Tkt:5002838, Sev:2, Opened, Sname:BOEN, CIS Id:13015703, Contact:JOHN MCMAHON @ 6127262691 Note:LINE DOWN: PROACTIVE TICKET CREATED BY NEXUS FOR SPECTRUM. |MODEL|0x4b18207|minneapolis-sunair.boeingds.com|Rtr_Cisco|0x10009|
+2001-09-11 03:57:40 Arch [1007213] D  ALPHA  (3)81:ABS: Tkt:5002838, Sev:2, Opened, Sname:BOEN, CIS Id:13015703, Contact:JOHN MCMAHON @ 6127262691 Note:LINE DOWN: PROACTIVE TICKET CREATED BY NEXUS FOR SPECTRUM. |MODEL|0x4b18207|minneapolis-sunair.boeingds.com|Rtr_Cisco|0x10009|
+2001-09-11 03:57:40 Skytel [003268440] C  ALPHA  bcs_alert@am.sony.com|BCS Alert|PROCESSOR.EXE stopped running 47 minutes ago!  
+2001-09-11 03:57:42 Skytel [002695782] B  ALPHA    SiteScope/Databases - Sacramento/Colusa - Disk Space on C Drive/67483/no data/
+2001-09-11 03:57:42 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #100-IX_T4508
+2001-09-11 03:57:42 Skytel [004524770] A  ALPHA  wil-SymQuest-SBurlingtonVT-01: CPE Up at 00:58:05 on 9/11
+2001-09-11 03:57:42 Skytel [005112809] C  ALPHA  02:55CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240416: Uncorrectable write error
+2001-09-11 03:57:44 Arch [0938835] A  ALPHA  123-43000827
+2001-09-11 03:57:44 Skytel [007641456] A SH/TONE 111     
+2001-09-11 03:57:44 Skytel [003928063] D  ALPHA  >>>>> Hi-Track 5700 Reported Error <<<<<  Customer SiteId / Name ==>  R017635 / Texaco Group Incorporated  Case number / owner =====>  SD541847 /  emailclerk  -------------------- Look at the case in Clarify or from the Technical Support We
+2001-09-11 03:57:44 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-11 03:57:46 Arch [0938835] A  ALPHA  123-48000827
+2001-09-11 03:57:46 Arch [1657686] B  ALPHA  5500875 43275
+2001-09-11 03:57:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 00:56:05 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 03:57:46 Skytel [003071883] C  ALPHA  IBM 95.75 -0.84 NSCP 0.00 UNCH MSFT 56.82 +1.42 EDS 55.47 +0.76 (59
+2001-09-11 03:57:48 Arch [0938835] A  ALPHA  123-33000827
+2001-09-11 03:57:49 Arch [0578226] A  ALPHA  " Big Info " <da|Package Parts Hold |
+2001-09-11 03:57:55 Skytel [007557466] C SH/TONE 554-5961
+2001-09-11 03:57:57 Skytel [003497451] C SH/TONE   (66   

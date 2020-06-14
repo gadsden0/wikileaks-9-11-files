@@ -1,0 +1,105 @@
+2001-09-12 00:46:00 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-12 00:46:00 Metrocall [1421210] C  ALPHA  LAKEJob 378304/VSIOWNER/OMSJRNMGR has MSGW status.
+2001-09-12 00:46:00 Skytel [005113725] D  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:46:01 Metrocall [0525954] A  ALPHA  Server:Chelmick at 10.17.1.52 is DOWN.
+2001-09-12 00:46:01 Metrocall [002178508] D  ALPHA  EMAIL BreakingNews@CNN.COM AMERICA UNDER ATTACK DEVELOPING STORY  NEW YORK (CNN) -- At least 265 New York City firefighters were feared dead as a result of the attack on the World Trade Cente...H.............D. .....5..3..K...........*..
+2001-09-12 00:46:01 Skytel [004568333] D  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:46:02 Skytel [002746374] B SH/TONE 505     
+2001-09-12 00:46:05 Arch [0578286] D  ALPHA  DEVELOPING STORY NEW YORK (CNN) -- At least 265 New York City firefighters were feared dead as a result of the attack on the World Trade Center, according to Andrew White, spokesman for the International Association of Firechiefs. IAFC Execu
+2001-09-12 00:46:05 Skytel [003205797] B ST NUM  212-925-4925   
+2001-09-12 00:46:05 Skytel [002279468] D ST NUM  918-435-5599   
+2001-09-12 00:46:07 Skytel [003253171] A  ALPHA  415 436-3529 TSD#1704588 Bad Serial Card Cisco 7206 CASFOCPL03R01.  SEV2/Business impact: high serial ports down.  Pls call RNO for details. Derek or Ruel <DCOLVIN-21:45PT TSCANSF>
+2001-09-12 00:46:07 Skytel [0001461] B  ALPHA  GLOBEX   23:45     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 00:46:09 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|chong|CR: 144205 Priority: 2 Assigned to: Summary:: File system warning or critical alert 
+2001-09-12 00:46:09 Skytel [004449984] A ST NUM  203-8074-56    
+2001-09-12 00:46:09 Skytel [007031106] A  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:46:09 Skytel [002793012] B ST NUM  775-826-4256   
+2001-09-12 00:46:10 Arch [0000101] B  ALPHA  MSN 038 hello Message from NOC PCB.
+2001-09-12 00:46:10 Metrocall [002567592] C  ALPHA  3,20010912-337836,9252242906,OLIVEIRA DK,3050-8A,4430 ROSEWOOD DR @ BLDG 3,NYB540F-not-reachable-via-Heartbeat-scripts
+2001-09-12 00:46:10 Metrocall [1544820] B  ALPHA  CRDC-MAIL03 "Server CRDC-MAIL03/MSVR/KAIPERM - The following pending documents in mail3.box are older than 30 minutes 1
+2001-09-12 00:46:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4585
+2001-09-12 00:46:11 Skytel [005415889] A  ALPHA  From: BreakingNe Subject:      AMERICA UNDER ATTACK DEVELOPING STORY  NEW YORK (CNN) -- At least 265 New York City firefighters were feared dead as a result of the attack on the World Trade Center, according to Andrew White, spokesman for t
+2001-09-12 00:46:11 Skytel [1800019] A  ALPHA  GLOBEX   23:45     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 00:46:12 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-12 00:46:12 Metrocall [1544820] B  ALPHA  C1EA2"
+2001-09-12 00:46:13 Skytel [005436525] D  ALPHA  Test Lotus Notes #37-IX_T1707
+2001-09-12 00:46:13 Skytel [007659754] C ST NUM  08007243624    
+2001-09-12 00:46:13 Skytel [007649260] D ST NUM  766-420-6969   
+2001-09-12 00:46:14 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-12 00:46:15 Skytel [005111934] D SH/TONE 434-8018
+2001-09-12 00:46:15 Skytel [004755319] B SH/TONE 614-1661
+2001-09-12 00:46:16 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-12 00:46:17 Skytel [002368398] D SH/TONE 1       
+2001-09-12 00:46:18 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34
+2001-09-12 00:46:18 Arch [1327523] A  ALPHA  DEVELOPING STORY NEW YORK (CNN) -- At least 265 New York City firefighters were feared dead as a result of the attack on the World Trade Center, according to Andrew White, spokesman for the Internatio
+2001-09-12 00:46:18 Skytel [007035540] B  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:46:20 Skytel [004024864] A  ALPHA  sterling@firstusa.com|| SiteScope https home home 111814 unable to reach server    ********************************************************************** This transmission may contain information that is privileged, confidential and/or exem
+2001-09-12 00:46:20 Skytel [005001895] B  ALPHA  [sps/92] 100 supplier.intel.com relay-rialto105 0 Error:relay-rialto105.mpi did not return a valid Metrios API response coderunning (sps/92) 2:48:02
+2001-09-12 00:46:20 Skytel [003275684] B  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:46:20 Skytel [007477294] D SH/TONE 931-1529
+2001-09-12 00:46:20 Skytel [007554732] D  ALPHA  esldb@us.ibm.com|TBCRAL|AVNS- WS001 not serving content.  Please call T/L 650-3205 or 1-800-664-6895 PC 169294  
+2001-09-12 00:46:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0938
+2001-09-12 00:46:22 Skytel [005211824] A  ALPHA  562-6446
+2001-09-12 00:46:24 Arch [1005985] A  ALPHA  --- Equipment ID [04120002] status change - interference Equipment ID [04120002]
+2001-09-12 00:46:24 Skytel [005048779] C  ALPHA  esldb@us.ibm.com|TBCRAL|AVNS- WS001 not serving content.  Please call T/L 650-3205 or 1-800-664-6895 PC 169294  
+2001-09-12 00:46:26 Skytel [005382617] C  ALPHA  EC, Haven't been able to reach you by phone.  Called JPL Security - said JPL is closed tomorrow (Wed) except for critical personnel.  Are we critical? Still up (661) 297-8772 Barbara :o)-FYI
+2001-09-12 00:46:26 Skytel [999991636] B  ALPHA  esldb@us.ibm.com|TBCRAL|AVNS- WS001 not serving content.  Please call T/L 650-3205 or 1-800-664-6895 PC 169294  
+2001-09-12 00:46:26 Skytel [003248982] B  ALPHA  14) esldb@us.ibm.com|TBCRAL|AVNS- WS001 not serving content.  Please call T/L 650-3205 or 1-800-664-6895 PC 169294  
+2001-09-12 00:46:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191481. 
+2001-09-12 00:46:27 Arch [0925366] B  ALPHA   318643;Sep 11 20:47:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-12 00:46:27 Arch [0975773] D  ALPHA  BreakingNews@CNN|AMERICA UNDER ATTACK|DEVELOPING STORY NEW YORK (CNN) -- At least 265 New York City firefighters were feared dead as a result of the attack on the World Trade Center, according to Andrew White, spokesman for the International
+2001-09-12 00:46:28 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-12 00:46:28 Skytel [005043559] B  ALPHA  150.ARENER MANUFACT     
+2001-09-12 00:46:28 Skytel [005132640] A  ALPHA  93) esldb@us.ibm.com|TBCRAL|AVNS- WS001 not serving content.  Please call T/L 650-3205 or 1-800-664-6895 PC 169294  
+2001-09-12 00:46:29 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-12 00:46:29 Arch [0928602] C  ALPHA  516 366-3000
+2001-09-12 00:46:29 Metrocall [002588267] C  ALPHA  3,20010912-337836,9252242906,OLIVEIRA DK,3050-8A,4430 ROSEWOOD DR @ BLDG 3,NYB540F-not-reachable-via-Heartbeat-scripts
+2001-09-12 00:46:29 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3194
+2001-09-12 00:46:29 Metrocall [1585567] D  ALPHA  Frm: STARBASE-21 Sub: FW: The
+2001-09-12 00:46:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3194
+2001-09-12 00:46:29 Metrocall [002568894] D  ALPHA  1/02:This is an update of ticket 117029 on the following system(s):  SITE CIRCUIT OUTAGE.  The target repair time is Ontario site has restored, Brentwood, Brooklyn, and Maspeth tickets 
+2001-09-12 00:46:30 Metrocall [1585567] D  ALPHA   best snoring product on the market is new Snore Rx. Txt: Darren Ehlers, CEO STARBASE-21, Inc. -- http://miva.starbase21.com/ Want to learn more about Merchant and our modules? Check out our Conference Center -- http://li
+2001-09-12 00:46:30 Metrocall [002568894] D  ALPHA  held over until to
+2001-09-12 00:46:31 Arch [0987275] C  ALPHA  s0191: 09/11 15:14:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:14:21
+2001-09-12 00:46:32 Metrocall [002568894] D  ALPHA  morrow.  The root cause is Terrorist
+2001-09-12 00:46:32 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 21:46:18 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 00:46:33 Skytel [005325854] D  ALPHA  BreakingNews@CNN.COM|     AMERICA UNDER ATTACK|DEVELOPING STORY  NEW YORK (CNN) -- At least 265 New York City firefighters were feared dead as a result of the attack on the World Trade Center, according to Andrew White, spokesman for the In
+2001-09-12 00:46:35 Arch [0909996] D  ALPHA  "David Quilty"||hi andrea i dont know if you are home or not, but i thought i would see if you were around..its 9:44 and i will be on for a few minutes, and then on a little later on...so, maybe we can chat for a bit...let me know, or  -1/2
+2001-09-12 00:46:35 Skytel [005106221] D SH/TONE 236 (36 
+2001-09-12 00:46:35 Skytel [002820906] C SH/TONE 392-3420
+2001-09-12 00:46:37 Arch [0909996] D  ALPHA  see you later! me miss you!|262   -2/2
+2001-09-12 00:46:37 Arch [0898644] B  ALPHA  ib@anansi.dyndns|Feel my heart. Know my heart. Treat it like yours. :) 
+2001-09-12 00:46:38 Metrocall [1079407] D  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY NEW YORK (CNN) -- At least 265 New York City firefighters were feared dead as a result of the attack on the World Trade Center, according to Andrew White, spokesman 
+2001-09-12 00:46:39 Skytel [003472962] A SH/TONE 14      
+2001-09-12 00:46:39 Skytel [007608133] B  ALPHA   LEAVE A VOICEMAIL ON MY CELL # AT 631-523-3686. -BOB FORRISTER !2/2 BEE
+2001-09-12 00:46:39 Skytel [002569292] D ST NUM  0-510-247-1420-411  
+2001-09-12 00:46:40 Metrocall [1875897] C  ALPHA  Frm: MSN Txt: Hotmail endofauction@ebay.com:eBay End of Auction - Item # 1272926278 (ADOBE ACROBAT 4.0 *NEW
+2001-09-12 00:46:40 Metrocall [1079407] D  ALPHA  f
+2001-09-12 00:46:41 Arch [1275092] B  ALPHA  ID: 215701 Host: I01535-prt1 Text: DTA005 59  
+2001-09-12 00:46:41 Arch [1419551] D  ALPHA  714 484-6271
+2001-09-12 00:46:43 Skytel [005124843] C SH/TONE 28688   
+2001-09-12 00:46:45 Skytel [002357369] C  ALPHA  002614 CYCLIC TEST 
+2001-09-12 00:46:45 Skytel [003327216] A  ALPHA  002614 CYCLIC TEST 
+2001-09-12 00:46:45 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Disk used % for /clients/IVR/home/rswwwp/work is 86; > than 80
+2001-09-12 00:46:45 Skytel [002139900] D SH/TONE 002614  
+2001-09-12 00:46:46 Skytel [002843276] D SH/TONE 6732    
+2001-09-12 00:46:47 Metrocall [002589971] A  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY NEW YORK (CNN) -- At least 265 New York City firefighters were feared dead as a result of the attack on the World Trade Center, according to Andrew White, spokesman for the I
+2001-09-12 00:46:47 Metrocall [1401678] D  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY NEW YORK (CNN) -- At least 265 New York City firefighters were feared dead as a result of the attack on the World Trade Center, according to Andrew White, spokesman 
+2001-09-12 00:46:48 Arch [0928602] C  ALPHA  631 924-0408
+2001-09-12 00:46:48 Skytel [005128606] D SH/TONE 23      
+2001-09-12 00:46:49 Metrocall [1035231] D  ALPHA  04: MARCUS OBGLATT, JULIAS 949 496 9575 HOME BEFORE PAGING CHECK DRS DAYS OFF 1ST!! 9278521
+2001-09-12 00:46:49 Metrocall [002589971] A  ALPHA  nternational Association of Fire
+2001-09-12 00:46:49 Metrocall [1401678] D  ALPHA  f
+2001-09-12 00:46:49 Metrocall [002584300] D  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY NEW YORK (CNN) -- At least 265 New York City firefighters were feared dead as a result of the attack on the World Trade Center
+2001-09-12 00:46:49 Metrocall [002568894] D  ALPHA  ro02zattagk in FI. PThe
+2001-09-12 00:46:52 Arch [0987275] C  ALPHA  sb3: INFO0021 - 2:45PM - POSI batch has not arrived(160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:15
+2001-09-12 00:46:52 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191488. 
+2001-09-12 00:46:54 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-12 00:46:54 Arch [0241791] D  ALPHA  (25)REQQ time limit exceeded for:PASSPORT_NYC_U:12-sep-2001 00:03
+2001-09-12 00:46:55 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-12 00:46:55 Metrocall [002568894] D  ALPHA   next update will be in 2 hours or less.
+2001-09-12 00:46:56 Skytel [002569042] A ST NUM  314-340-4956   
+2001-09-12 00:46:56 Skytel [002264922] C ST NUM  9889120338
+2001-09-12 00:46:58 Skytel [007551469] D  ALPHA  Jimmy.Gomez@nordstrom.com|work|Everything is looking good, YOU NEED TO CLEAN THE GLASS DOOR. That i know of .MIGUEL is doing projects and some carpet spot. Once i get done with my spot mopping I'LL help EMMANUEL with the Dressing Room .  
+2001-09-12 00:46:59 Metrocall [1036376] C  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY NEW YORK (CNN) -- At least 265 New York City firefighters were feared dead as a result of the attack on the World Trade Center, accordi
+2001-09-12 00:46:59 Metrocall [0885567] D  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY NEW YORK (CNN) -- At least 265 New York City firefighters were feared dead as a result of the attack on the World Trade Center, according to Andrew White, spokesman f

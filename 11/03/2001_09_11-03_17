@@ -1,0 +1,49 @@
+2001-09-11 03:17:01 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-11 03:17:01 Skytel [005362560] A  ALPHA  sommerm@orchard.whiteoaksemi.com|GC Tilt alarm|Hello Reuben Please check your E-Mail  
+2001-09-11 03:17:01 Skytel [002423055] D  ALPHA  B
+2001-09-11 03:17:01 Skytel [007532302] D ST NUM  900-759-8255   
+2001-09-11 03:17:03 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   28443 OPEN suntvpa:28443 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 2706 OPEN sunapp1:2706 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:17:03 Skytel [002353048] C  ALPHA  cmhnt-indy: Bank One cmhnt-indy Host down: No response to ping twice  
+2001-09-11 03:17:05 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   3706 OPEN suntvpa:3706 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 32038 OPEN sunapp1:32038 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj
+2001-09-11 03:17:05 Skytel [007494821] B SH/TONE 17      
+2001-09-11 03:17:05 Skytel {1092655} 3 2400 002184    
+2001-09-11 03:17:07 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6726
+2001-09-11 03:17:10 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:17:14 Arch [1302348] D  ALPHA  215
+2001-09-11 03:17:20 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 03:17:22 Arch [0044408] C  ALPHA  RS17.REPRT TO () 1295 STATE HWY NO 179 HWY (26) MALE ADV THERE IS GOING BE A BODY OUTSIDE / WOULD NOT GIVE FURTHER.POSS HEARD A GUN SHOT IN THE BACK GROUND
+2001-09-11 03:17:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9649
+2001-09-11 03:17:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 176975. 
+2001-09-11 03:17:33 Skytel [002392598] B  ALPHA  03:17:12 AM
+2001-09-11 03:17:33 Skytel [003267485] D SH/TONE 5148    
+2001-09-11 03:17:35 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-11 03:17:35 Skytel [002403492] B  ALPHA  SIN-RES;Chevy CO-Warren;SV-1;TOR-9-11 0250 EDT;SAS-Up/Rtr Ops cleared IP rtes & Smc ntwk reset rtr;Lockard;PH-2485248926;TK-19499812 -- From: GSS-JW
+2001-09-11 03:17:36 Skytel [004754611] A SH/TONE 5225    
+2001-09-11 03:17:37 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   26451 OPEN suntvpa:26451 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 16275 OPEN sunapp1:16275 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat 
+2001-09-11 03:17:38 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   6224 OPEN suntvpa:6224 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 20571 OPEN sunapp1:20571 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:17:38 Skytel [004727754] C SH/TONE 263     
+2001-09-11 03:17:38 Skytel [002691791] D SH/TONE 283-0715
+2001-09-11 03:17:40 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:17:40 Skytel [007491551] D SH/TONE 4721    
+2001-09-11 03:17:42 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   2561 OPEN suntvpa:2561 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 15010 OPEN sunapp1:15010 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:17:42 Skytel [007596897] A SH/TONE 111678  
+2001-09-11 03:17:42 Skytel [007438052] B SH/TONE 3333 (52
+2001-09-11 03:17:42 Skytel [007531502] D ST NUM  1007648013
+2001-09-11 03:17:42 Skytel [007569517] D ST NUM  223-408-6091-141169 
+2001-09-11 03:17:44 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:17:46 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   22561 OPEN suntvpa:22561 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 9855 OPEN sunapp1:9855 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:17:48 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   855 OPEN suntvpa:855 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 19724 OPEN sunapp1:19724 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj
+2001-09-11 03:17:50 Metrocall [002178480] A  ALPHA  EMAIL importantinfo@www40.net Rates may NEVER be Lower !!                                                   gdnyt Don't waste money EVERY SINGLE MONTH!!                Home Mortgage Rates have DROPPED! (And they say this is the last tim
+2001-09-11 03:17:52 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-11 03:17:53 Metrocall {1250894} 1 2400 F:oracleadm@sig.com (Oracle Admin) S:MON-1031 Disk Storage Alert on /rockies/archive-phys-rockies-a B:/dev/vx/dsk/oradg/archive 32249632 28967496 2959640 91% /rockies/archive...
+2001-09-11 03:17:53 Skytel [008507076] B  ALPHA  01107h4b1cb010800001g
+2001-09-11 03:17:53 Skytel [005543242] C SH/TONE 823143  
+2001-09-11 03:17:55 Skytel [005003484] D  ALPHA  XCP1 13452 - Memory error, please log on and check services!! 
+2001-09-11 03:17:55 Skytel [003951056] A  ALPHA  snvc02 Resource: SNVC02:/NT_CPU/CPU_1/CPUprcrProcessorTimePercent,current state is : CRITICAL ussa11.SSMC 
+2001-09-11 03:17:55 Skytel [003930067] A  ALPHA  09/11/01 03:17 ASYS - EQC ON 4054
+2001-09-11 03:17:56 Metrocall [1064388] B  ALPHA  150 PAm45600+000
+2001-09-11 03:17:56 Metrocall [1064376] C  ALPHA  GOVPX TREASURY 30__99.03 /05+5.437 10_101.08+/09+4.837 5Y_1p!.0../..+..3.. .._..0..................................................
+2001-09-11 03:17:57 Skytel [005043559] B  ALPHA  150.ARENER MANUFACT     
+2001-09-11 03:17:57 Skytel [005112809] C  ALPHA  02:15CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240464: Uncorrectable write error
+2001-09-11 03:17:57 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #75-IX_T3904
+2001-09-11 03:17:57 Skytel [004524770] A  ALPHA  wil-BlakeEquipment-RutlandVT-01: CPE Down at 00:37:17 on 9/11

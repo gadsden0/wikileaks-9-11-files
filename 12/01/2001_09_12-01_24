@@ -1,0 +1,68 @@
+2001-09-12 01:24:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4623
+2001-09-12 01:24:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8053
+2001-09-12 01:24:02 Skytel [004449421] D SH/TONE 218     
+2001-09-12 01:24:02 Skytel [007460365] D ST NUM  719-823-4878   
+2001-09-12 01:24:03 Arch [0987275] C  ALPHA  s0191: 09/11 12:04:03 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:04:03
+2001-09-12 01:24:03 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191915. 
+2001-09-12 01:24:03 Skytel [004209811] A ST NUM  430-676-9869 (86    
+2001-09-12 01:24:03 Skytel [003948301] D SH/TONE 128899  
+2001-09-12 01:24:03 Skytel [003417094] B SH/TONE 7070    
+2001-09-12 01:24:05 Arch [0987275] C  ALPHA  s0191: 09/11 12:12:06 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:12:07
+2001-09-12 01:24:07 Arch [0987275] C  ALPHA  s0191: 09/11 12:14:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:14:49
+2001-09-12 01:24:07 Arch [0961825] A  ALPHA  Eric Baggett: We should be done with the work we currently have in the next 10 minutes. AR is due in during that time. Depending on the size of AR we should be able to finish it within 30-45 minutes o
+2001-09-12 01:24:07 Skytel [007512629] B  ALPHA  alert@msn.com||Hotmail Graeme Wood:re: hi  
+2001-09-12 01:24:08 Arch [0987275] C  ALPHA  s0191: 09/11 12:20:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:20:24
+2001-09-12 01:24:10 Metrocall [002117788] D  ALPHA  Frm: PRODLA Sub: Alarm Txt: T401 HI LEVEL
+2001-09-12 01:24:10 Metrocall [1466337] A  ALPHA  09/11@23:47:04 DALBK01:Job DALWEBs ended in an error state. Examine recent event log entries and the Job History for details.
+2001-09-12 01:24:10 Metrocall [1111466] C  ALPHA  09/11@23:47:04 DALBK01:Job DALWEBs ended in an error state. Examine recent event log entries and the Job History for details.
+2001-09-12 01:24:11 Skytel [003443166] D SH/TONE 646     
+2001-09-12 01:24:12 Arch [0901982] D  ALPHA  FL TF-1 rostered! If you have not been contacted, stand down 4 now!
+2001-09-12 01:24:13 Skytel [005350630] B  ALPHA  PLEASE CONTACT KURT OF MERRIL LYNCH AT 212-647-2402.
+2001-09-12 01:24:18 Skytel [004751249] A ST NUM  26389514369411911911
+2001-09-12 01:24:18 Skytel [007588119] B SH/TONE 3219    
+2001-09-12 01:24:19 Metrocall [1544818] A  ALPHA  CRDC-MAIL03 "Server CRDC-MAIL03/MSVR/KAIPERM - The following pending documents in mail2.box are older than 30 minutes 1C2866"
+2001-09-12 01:24:19 Metrocall [1543103] D  ALPHA  PLEASE CALL PRESIDENT CSI AT ABLE INT RIGHT AWAY.  ML CHIEF OF
+2001-09-12 01:24:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0976
+2001-09-12 01:24:21 Arch [0987275] C  ALPHA  s0191: 09/11 12:28:34 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:28:34
+2001-09-12 01:24:21 Metrocall [1543103] D  ALPHA  F
+2001-09-12 01:24:22 Skytel [005066807] B ST NUM  209-310-3526   
+2001-09-12 01:24:23 Arch [0987275] C  ALPHA  s0191: 09/11 12:31:16 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:31:16
+2001-09-12 01:24:24 Skytel [004684356] B SH/TONE 70569   
+2001-09-12 01:24:25 Arch [0987275] C  ALPHA  s0191: 09/11 12:36:48 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:36:48
+2001-09-12 01:24:26 Skytel [005322068] B  ALPHA  949-887-2701 [9836.Gardena, CA         
+2001-09-12 01:24:27 Arch [0987275] C  ALPHA  s0191: 09/11 12:44:46 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:44:47
+2001-09-12 01:24:30 Skytel [007527412] B  ALPHA  "Fileprint c$".The device \\fileprint\c$ (Type: Disk Space) is DOWN since Wed Sep 12 01:26:12 2001. 
+2001-09-12 01:24:30 Skytel [005072766] D SH/TONE 211     
+2001-09-12 01:24:31 Arch [0988508] D  ALPHA  32-THE MARKET IS CLOSED TOMORROW. LORI.
+2001-09-12 01:24:32 Skytel [005352717] D SH/TONE 3922    
+2001-09-12 01:24:32 Skytel [003918978] A  ALPHA  1) ICI-ITSG-USBW-UUNETHub1 interfacedown. Source:ICI TelAlert
+2001-09-12 01:24:33 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 40.19 31.18 18.87 Tue Sep 11 22:25:01 MST 2001 
+2001-09-12 01:24:35 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 8.22 18.30 15.16 Tue Sep 11 22:25:00 MST 2001 
+2001-09-12 01:24:35 Skytel [005329708] D SH/TONE 7033    
+2001-09-12 01:24:37 Arch [0900497] A  ALPHA  Ticket 431059 SEV1 opened for a problem experienced by : Brief Description: Router bwkartr1 is unreachable (79.9% certainty it is the root cause.)
+2001-09-12 01:24:39 Skytel [003779915] C  ALPHA  TWbrkmgk@aol.com|(no subject)|Hi baby-just heard that US Domestic flights are expected to resume on  Wednesday at noon, also expect lots of delays.  bahebac  
+2001-09-12 01:24:40 Metrocall [1544820] B  ALPHA  CRDC-MAIL03 "Server CRDC-MAIL03/MSVR/KAIPERM - The following pending documents in mail2.box are older than 30 minutes 1C2866"
+2001-09-12 01:24:42 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-12 01:24:42 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191922. 
+2001-09-12 01:24:44 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-12 01:24:45 Skytel [002264307] A SH/TONE 6801    
+2001-09-12 01:24:46 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-12 01:24:47 Skytel [005043726] D  ALPHA  septii@lithium.sps.mot.com|Equipment PLATER14 : IDLE --> SCHMNT|PLATER14 : IDLE 
+2001-09-12 01:24:47 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 22:22:41 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 01:24:47 Skytel [003587596] D SH/TONE 110 (41 
+2001-09-12 01:24:48 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-12 01:24:49 Metrocall [1544818] A  ALPHA  Server 'KPNC-PG1 MAIL.Waiting = 20, max allowable: (15)
+2001-09-12 01:24:50 Skytel [005001895] B  ALPHA  [sps/176] 200 sps-apps1.cps.intel.com relay-ssl 0.511 CSFTrainingApplication is okay (/csftraining/healthcheck.asp) 2:55:29
+2001-09-12 01:24:50 Skytel [003261476] B  ALPHA  SmartAlerts@etrade.com||[01:23AM ET]:  Buy 350 UNT @ Mkt Expired  
+2001-09-12 01:24:52 Arch [0000101] B  ALPHA  MSN 056 hello Message from NOC PCB.
+2001-09-12 01:24:52 Skytel [004449466] C SH/TONE 251     
+2001-09-12 01:24:54 Skytel [002840516] B  ALPHA  pager@the-watsons.com|*** Alert from SonicWALL *** [firewall.kevin.org]|09/11/2001 22:24:45.304 -  IP spoof detected -  Source:66.121.183.250, 3144, WAN -  Destination:66.121.183.243, 80, LAN -  MAC address: 00.10.67.00.B7.EB -    
+2001-09-12 01:24:54 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:24:56 Skytel [005004368] A  ALPHA  sysNETIQsvc: LON job(s) 207826 SLON00008 2001/09/12 06:23 PROCESSOR
+2001-09-12 01:24:56 Skytel [007518930] A SH/TONE 3019986 
+2001-09-12 01:24:58 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #11-IX_T3803
+2001-09-12 01:24:58 Skytel [005003367] B  ALPHA  root@bur-faxsvr.genuity.com|bur-faxsvr.genuity.com - /bbn is 91% full| 
+2001-09-12 01:24:59 Arch [0921776] A  ALPHA  129099309445
+2001-09-12 01:24:59 Metrocall [1362298] C  ALPHA  Frm: Optivity@harbortech.com Sub: Operator Attention Txt: Operator Attention is needed. (Server: "OPTIVITY-NJ" Job: "SNMPc & HPOV:Diff" Device: "HP 1") Please insert overwritable media into the drive.
+2001-09-12 01:24:59 Metrocall [1165714] A  ALPHA  EMAIL 247 Profits E-Dis
+2001-09-12 01:24:59 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4624

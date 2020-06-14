@@ -1,0 +1,49 @@
+2001-09-11 03:31:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1918
+2001-09-11 03:31:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1918
+2001-09-11 03:31:01 Skytel [005484932] B SH/TONE 671-6200
+2001-09-11 03:31:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6740
+2001-09-11 03:31:05 Arch [0980942] D  ALPHA  SIN-RES;Chevy CO-Warren;SV-1;TOR-9-11 0250 EDT;SAS-Up/Rtr Ops cleared IP rtes & Smc ntwk reset rtr;Lockard;PH-2485248926;TK-19499812 -- From: GSS-JW
+2001-09-11 03:31:07 Arch [0000101] B  ALPHA  MSN 063 hello Message from NOC PCB.
+2001-09-11 03:31:09 Metrocall [002619200] A  ALPHA  Frm: NC1@enron.com Sub: Txt: ecom-cx-int20 2001 Sep 10 19:06:06 CDT -05:00 %IP-3-UDP_SOCKOVFL:UDP socket 32794 overflow 192.168.56.20 Tue Sep 11 02:31:31 2001
+2001-09-11 03:31:09 Metrocall [1397690] C  ALPHA  dino:-->Sep 11 03:30 'oracle-autosys AUTA-AUTB problem' detected
+2001-09-11 03:31:09 Metrocall [1188682] C  ALPHA  Inter
+2001-09-11 03:31:09 Metrocall [1180298] C  ALPHA  Interface Serial2/2 ** AtlIGX16 - 13.1 ** on 172.23.1.20 is Up. Reason up ~
+2001-09-11 03:31:11 Metrocall [1188682] C  ALPHA  face Serial2/2 ** AtlIGX16 - 13.1 ** on 172.23.1.20 is Up. Reason up ~
+2001-09-11 03:31:12 Arch [0908699] C  ALPHA  F2 APP Ocean finished 3:25
+2001-09-11 03:31:18 Arch [1026292] B  ALPHA  Backup@NYED.usco|Operator Attention|(Server: "NYEPSROGUE" Job: "Monday backup" Device: "HP 1") Please inser t overwritable media into the changer using the slot import command. 
+2001-09-11 03:31:18 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177136. 
+2001-09-11 03:31:20 Metrocall [1064386] A  ALPHA  WORLD YIELDS JPY_1.410/0.06/0.00 DEM 4.863/3.95/4.13 GBP 4.919/4.87/4.80 CHF 3.299/2.76/2.97 CAD 5.322/3.97/3.69 ITL 5.227/4.15/4.13 FRF 4.985/3.94/4.13 PTE 5.205/4.06/4.06 AUD 5.605/4.76/4.71 NZD 6.540/5.88/5.86 ESP 5.155/4.01/4.01
+2001-09-11 03:31:20 Metrocall [0753913] C  ALPHA  2; #33169; loc: MADISON & MAGNOLIA; [ELC]; rsn: ACCIDENT; owner: DALE TING;    ; req: AAA EL CAJON; ct: 00:27; sts: DMC VIA EC PD; dest: DWD keys: N; billto: AAA EL CAJON;
+2001-09-11 03:31:20 Metrocall [1561386] C  ALPHA  Frm: MSN Txt: Hotmail Kevin Goddard:re: terms
+2001-09-11 03:31:22 Metrocall [1578603] C  ALPHA  Interface Serial2/2 ** AtlIGX16 - 13.1 ** on 172.23.1.20 is Up. Reason up ~
+2001-09-11 03:31:22 Metrocall [1402531] A  ALPHA  Interface Serial2/2 ** AtlIGX16 - 13.1 ** on 172.23.1.20 is Up. Reason up ~
+2001-09-11 03:31:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9663
+2001-09-11 03:31:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3311
+2001-09-11 03:31:30 Metrocall [0475145] C  ALPHA  Frm: BB@thomsoninvest..eD.S..:..C..-..7..8..................................................................................................................................................
+2001-09-11 03:31:31 Arch [0968864] A  ALPHA  (10)The file: SWSTTD1H is out of date.
+2001-09-11 03:31:31 Arch [0925366] B  ALPHA   318643;Sep 10 23:32:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 03:31:33 Skytel [007588498] A SH/TONE 3385    
+2001-09-11 03:31:33 Skytel [002861584] A ST NUM  8685429388
+2001-09-11 03:31:33 Skytel [007582749] D ST NUM  464-023-4413   
+2001-09-11 03:31:34 Skytel [005358755] A  ALPHA  [01/02][UNIX Ops (636) 722-2959]:FYI...We are having the same SAM problem as last night and it is looking like we are going to miss the EuroPay settlement.  UTS is on there way to winghaven, the DBA is aware of the sitution, and SAM...
+2001-09-11 03:31:39 Metrocall [0153352] C  ALPHA  Frm: redalert@redalert.com Su.........R..'..t.....I............................................................................................
+2001-09-11 03:31:42 Skytel [003926118] B SH/TONE 6270    
+2001-09-11 03:31:42 Skytel [003941474] A SH/TONE 590-4792
+2001-09-11 03:31:42 Skytel [004752740] B SH/TONE 219     
+2001-09-11 03:31:42 Skytel [005436525] D  ALPHA  Test #7
+2001-09-11 03:31:42 Skytel [004524770] A  ALPHA  spf-CreativeImaging-ScarboroME-3: CPE Up at 00:56:57 on 9/11
+2001-09-11 03:31:44 Skytel [002357369] C  ALPHA  002189 CYCLIC TEST 
+2001-09-11 03:31:44 Skytel [005343224] C ST NUM  011-1111-11    
+2001-09-11 03:31:44 Skytel [005328380] D SH/TONE 800-7902
+2001-09-11 03:31:44 Skytel [003327216] A  ALPHA  002189 CYCLIC TEST 
+2001-09-11 03:31:44 Skytel [002139900] D SH/TONE 002189  
+2001-09-11 03:31:48 Skytel [007641751] B SH/TONE 5827    
+2001-09-11 03:31:50 Metrocall [1064378] C  ALPHA  ITALY CONSUMER CONFIDENCE DOWN SHARPLY IN AUGUST
+2001-09-11 03:31:50 Metrocall [1064395] C  ALPHA  .......................................................................D`PMXE|C
+2001-09-11 03:31:50 Skytel [005105954] A ST NUM  515-239-9953-911    
+2001-09-11 03:31:50 Skytel [005326762] C  ALPHA  root@hphpbs1.inhouse.wcom.net||OmniBack has 15 failed backup sessions  
+2001-09-11 03:31:51 Skytel [003328569] C  ALPHA  OCTL 0.00 UNCH CSCO 14.40 +0.04 COMS 3.61 +0.06 USRX 0.00 UNCH (1
+2001-09-11 03:31:53 Skytel [004672714] C ST NUM  0-800-366-4123 
+2001-09-11 03:31:55 Arch [1612129] A  ALPHA  From Thayer, Todd Sub:TNOC 2  Msg:TNOC 2,T1, New tkt#26043,Indianapolis, 14/HCGS/002087/TW, QWEST,Customer is reporting errors on ckt......TT     
+2001-09-11 03:31:57 Skytel [004517601] A  ALPHA  MSFT 56.68 +1.28 IBM 96.40 -0.19 HWP 18.04 -0.04 SUNW 10.46 -0.13
+2001-09-11 03:31:59 Skytel [002382588] D SH/TONE 99      

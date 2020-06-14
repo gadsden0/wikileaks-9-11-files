@@ -1,0 +1,82 @@
+2001-09-12 02:35:00 Skytel [007638399] D SH/TONE 73466   
+2001-09-12 02:35:01 Arch [0951631] D  ALPHA  [01/02]:The Problem with ID 00330781 Severity 1 Description  Job UNPFEFA.UNPBWBEA failed, no recovery specified has not been resolved.It has been escalated to level 1 on...
+2001-09-12 02:35:01 Arch [1398238] D  ALPHA  knox6060(161.44.216.60): failed ifDescr check, expected: hme0, got: timeout for hme0
+2001-09-12 02:35:02 Arch [0951631] D  ALPHA  [02/02] 09/11/2001 at 21:03:02.
+2001-09-12 02:35:04 Skytel {1092655} 3 2400 002650    
+2001-09-12 02:35:08 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-12 02:35:08 Arch [0911134] D  ALPHA   equity71 SYBASE: check_db(PDS1_EQCSWLN) MAYBE OPEN TRANSACTION in syslogshold tempdb|61 - PDS1_EQCSWLN @02:32 09/12/01 
+2001-09-12 02:35:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192734. 
+2001-09-12 02:35:10 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-12 02:35:12 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-12 02:35:14 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-12 02:35:14 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 90 processes on report1.ccbill.com. Timestamp key: 20010911233300 
+2001-09-12 02:35:16 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 91 processes on report1.ccbill.com. Timestamp key: 20010911233300 
+2001-09-12 02:35:17 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 90 processes on report3.ccbill.com. Timestamp key: 20010911233300 
+2001-09-12 02:35:17 Arch [1629007] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:35:17 Arch [0978397] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:35:17 Arch [1618116] B  ALPHA  F:cltbld@netscape.com (Client Account) S:2001-09-11-22-0.9.2ec Win Warning! [2001-09-11-22-0.9.2ec] xcopy failed to copy mozilla for zip package   
+2001-09-12 02:35:19 Arch [1618116] B  ALPHA  F:cltbld@netscape.com (Client Account) S:[Carbonara] 2001-09-11-20-trunk Mozilla MacOS X build done. Check your mail.   
+2001-09-12 02:35:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1047
+2001-09-12 02:35:23 Arch [0126788] B  ALPHA  support_genesis@|moss_reprice_reconcile Feed: Tra|29 Trade(s) Rejected. Sep 12 00:02:45 Reject AMENDED_TRADE : <AY24334> Source <250> : NO_EXPOSURE_RECEIVED (Market Price is 0) Sep 12 00:02:45 Reject AMENDED_TRADE : <AY72617> Source <250> :
+2001-09-12 02:35:23 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 02:35:25 Arch [0126788] B  ALPHA  support_genesis@|moss_reprice_reconcile Feed Has |FeedName: moss_reprice_reconcile Start Time: Wed Sep 12 00:02:25 2001 Completion Time: Wed Sep 12 02:34:44 2001 } 
+2001-09-12 02:35:25 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-12 02:35:25 Arch [0931795] A  ALPHA  | BV_PB:Backup:info:08:35:21:SYNC:RESILVERING COMPLETE  
+2001-09-12 02:35:27 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 02:35:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3303
+2001-09-12 02:35:30 Metrocall [1589615] D  ALPHA  Frm: monitor@bid4assets.com Sub: 2001-9-12, 02:39:30, CF2, HTTP, cf2.bid4assets.com:80, Pagers, Server Recovered, Txt: 2001-9-12, 02:3
+2001-09-12 02:35:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3303
+2001-09-12 02:35:32 Metrocall [1589615] D  ALPHA  9:30, CF2, HTTP, cf2.bid4assets.com:80, Pagers, Server Recovered,
+2001-09-12 02:35:32 Skytel [007480588] D SH/TONE 215-6425
+2001-09-12 02:35:35 Skytel [005359140] B  ALPHA  ATTN LAX & IND: PLS CALL HWT @ 686-4823
+2001-09-12 02:35:35 Skytel [003934628] B  ALPHA  ATTN LAX & IND: PLS CALL HWT @ 686-4823
+2001-09-12 02:35:35 Skytel [005089442] A SH/TONE 1720    
+2001-09-12 02:35:35 Skytel [004397995] C  ALPHA  IntelliWatch Monitor: WARNING - Server CVGNA05.US.Schneider-Electric.com/A/SVR/Schneider MAY HAVE crashed. Waiting 160 seconds...
+2001-09-12 02:35:35 Skytel [003897381] B  ALPHA  oncall:SEV 3: Rec#1547664(Assigned) SIEB:CER INTERFACE SIE HOSP NO ACTIVITY FOR 01 HOUR(S)
+2001-09-12 02:35:35 Skytel [005001895] B  ALPHA  [sps/58] 200 supplier.intel.com relay-rialto105 3.632 Application isokay (/speed/reports/aspcheck.asp) 3:43:52
+2001-09-12 02:35:37 Skytel [007588530] A SH/TONE 3391    
+2001-09-12 02:35:37 Skytel [0000060] D  ALPHA  ATTN LAX & IND: PLS CALL HWT @ 686-4823
+2001-09-12 02:35:38 Arch [0163974] B  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:35:38 Arch [0900159] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:35:38 Arch [0922216] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:35:38 Arch [1612942] D  ALPHA  (18)hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:35:38 Arch [0915843] A  ALPHA  (31)hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:35:38 Arch [1284371] A  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:35:38 Arch [0950982] B  ALPHA  DFLT NTFY* insp4000: OS process Autosecure has restarted  
+2001-09-12 02:35:39 Skytel [008507076] B  ALPHA  01865h4f1ab01010400002g
+2001-09-12 02:35:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:35:40 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-12 02:35:40 Metrocall [002567097] C  ALPHA  Hannon's #10:           WI FREEZER  COOL ON
+2001-09-12 02:35:41 Skytel [007557714] A  ALPHA  owens@ifdp.jpl.nasa.gov||  Dev FAILED  @ 233553 Tue Sep 11  
+2001-09-12 02:35:42 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-12 02:35:43 Skytel [005055724] D  ALPHA  siteseer@freshtech.com|SiteScope Alert, error, Home Page Response >10 sec., timed out reading (siteseer4.freshwater.com)|This alert is from SiteScope at http://siteseer4.freshwater.com/SiteScope/?account=smartbargains.com  Monitor:  smartba
+2001-09-12 02:35:44 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 02:35:45 Skytel [003932285] D SH/TONE 3018    
+2001-09-12 02:35:45 Skytel [004695164] D  ALPHA  JOSEPH WHERE ARE YOU? CALL HOME, COME HOME. MOM
+2001-09-12 02:35:45 Skytel [005259507] A  ALPHA  nobody@best.com|FRACTIONS|HOST: 166.121.37.113 IP: 166.121.37.113  
+2001-09-12 02:35:46 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-12 02:35:47 Skytel [004728967] B  ALPHA  aulens00@mh.us.sbphrd.com|ATTENTION! DataStage job overrun [Batch::LoadBld] Current status [0] | 
+2001-09-12 02:35:47 Skytel [005044104] C  ALPHA  scott.thomas@lamrc.com|Lab DB - Hitachi 4 used more than allowable time limit.|The next user is waiting to use Hitachi 4. You have been using the tool for 352 minutes and your allowable time on the tool has expired, please end your session 
+2001-09-12 02:35:47 Skytel [005062410] C  ALPHA  owens@ifdp.jpl.nasa.gov||  Dev FAILED  @ 233553 Tue Sep 11  
+2001-09-12 02:35:49 Skytel [007107218] A ST NUM  08007243624    
+2001-09-12 02:35:49 Skytel [005060255] D  ALPHA  From:pokibmxtelb01 Host:apdafs34 Event:errlogactive  Message:errlogacttag 91fbd5db   0911212701 p s ssa1           software program error
+2001-09-12 02:35:51 Metrocall [1455397] B  ALPHA  FYI - we are starting the FAA approval process for a respiratory call in Sandy Creek with M25 in station - this sounded strange - so I called Comm to ask if we were supposed to go - I was told yes, that "ya'll always go on him"....    pk
+2001-09-12 02:35:51 Metrocall [1886919] B  ALPHA  FYI - we are starting the FAA approval process for a respiratory call in Sandy Creek with M25 in station - this sounded strange - so I called Comm to ask if we were supposed to go - I was told yes, that "ya'll always go on him"....    pk
+2001-09-12 02:35:53 Arch [0282973] D  ALPHA  ISHD 1380870-Genesys Internet Suite-Sitman bridge 816-650-0605 PIN 220022. All users not receiving screen pops. App Adm and AD engaged. Sitman Mike Bruns 816-965-1559
+2001-09-12 02:35:53 Arch [0333409] A  ALPHA  ISHD 1380870-Genesys Internet Suite-Sitman bridge 816-650-0605 PIN 220022. All users not receiving screen pops. App Adm and AD engaged. Sitman Mike Bruns 816-965-1559
+2001-09-12 02:35:53 Arch [0916410] C  ALPHA  ISHD 1380870-Genesys Internet Suite-Sitman bridge 816-650-0605 PIN 220022. All users not receiving screen pops. App Adm and AD engaged. Sitman Mike Bruns 816-965-1559
+2001-09-12 02:35:53 Arch [1611003] C  ALPHA  (28)hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:35:53 Metrocall [1064374] B  ALPHA  YEN  118.92/97 -080 EUR  0.9109/14 +006 CHF  1.6465/75 +060 GBP  1.4750/55 -001 CAD  1.5632/37 -005 AUD  0.5193/98 -002 NZD  0.4295/15 -010 DEM  2.1460/71 -014  E/C  1.5052/54 +061 E/Y  108.36/44 -063 E/S  0.6179/81 -013 USD
+2001-09-12 02:35:53 Metrocall [0847157] B  ALPHA  Frm: IPN Txt: PEN| Lebanon County (Palmyra Boro)| Traffic Advisory| 37.26, 154.445| Broad St X Grant St X E High|Fire-Police for Major Traffic Control In Area of Fairfax Recycaling for a ComStruc F/I|
+2001-09-12 02:35:53 Metrocall [0533311] D  ALPHA  Frm: IPN Txt: PEN| Lebanon County (Palmyr
+2001-09-12 02:35:55 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192741. 
+2001-09-12 02:35:55 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 02:35:55 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=gsm  Mode=Incremental_Dump         # Our PID=2354    time='09/12/01 02:35:06'    sybase on 
+2001-09-12 02:35:55 Metrocall [1064374] B  ALPHA       113.25 -013
+2001-09-12 02:35:55 Metrocall [0533311] D  ALPHA  a Boro)| Traffic Advisory| 37.26, 154.445| Broad St X Grant St X E High|Fire-Police for Major Traffic Control In Area of Fairfax Recycaling for a ComStruc F/I|
+2001-09-12 02:35:57 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-12 02:35:58 Skytel [007596897] A SH/TONE 222007  
+2001-09-12 02:35:58 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #98-IX_T4016
+2001-09-12 02:35:58 Skytel [002739304] C ST NUM  903-5529-87    
+2001-09-12 02:35:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8125
+2001-09-12 02:35:59 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24

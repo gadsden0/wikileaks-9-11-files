@@ -1,0 +1,81 @@
+2001-09-11 03:19:00 Metrocall [1280722] A  ALPHA  MSJ-SSMC_F UP 134.6.85.29 Active and responding at 01:18:19
+2001-09-11 03:19:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1906
+2001-09-11 03:19:00 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router Aevia-I-GW at 00:16:49 Txt: Router Aevia-I-GW DOWN at 00:16:49 A
+2001-09-11 03:19:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1906
+2001-09-11 03:19:01 Skytel [007586182] B SH/TONE 215-8826
+2001-09-11 03:19:02 Metrocall [1080319] D  ALPHA  ddress: 166.90.48.82 Date: 09/11/2001 Status: Timed Out ( 11010)
+2001-09-11 03:19:03 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   32609 OPEN suntvpa:32609 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 11180 OPEN sunapp1:11180 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat 
+2001-09-11 03:19:03 Skytel [005067805] D SH/TONE 766-2222
+2001-09-11 03:19:03 Skytel [007578389] B ST NUM  814-7474-8
+2001-09-11 03:19:03 Skytel [007541407] D ST NUM  918-673-4400   
+2001-09-11 03:19:05 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:19:05 Skytel [007494821] B SH/TONE 863-6797
+2001-09-11 03:19:05 Skytel {0468104} 3 1200 1  98745  
+2001-09-11 03:19:07 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   22740 OPEN suntvpa:22740 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 15404 OPEN sunapp1:15404 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat 
+2001-09-11 03:19:07 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6728
+2001-09-11 03:19:09 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-11 03:19:10 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   7872 OPEN suntvpa:7872 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 8781 OPEN sunapp1:8781 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:19:12 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   29638 OPEN suntvpa:29638 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 7147 OPEN sunapp1:7147 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:19:13 Metrocall [1188682] C  ALPHA  Interface Serial4/1.111 ** Corpus_Christi_C ** on dallas-eng-rtr-bc.metrocall.com is Down. Reason: HPOV cannot ping interface ~
+2001-09-11 03:19:13 Metrocall [0847600] A  ALPHA  Frm: derek.kim@wellpoint.com Sub: EIT Alert Txt: An alert has been generated for profile "BCC PF Inte
+2001-09-11 03:19:13 Metrocall [1027700] B  ALPHA  Frm: derek.kim@wellpoint.com Sub: EIT Alert Txt: An alert has been generated for profile "BCC PF Internet - DB". The device http://64.14.205.10/ProviderSearch/pick.asp (Type: URL) is UP since Tue Sep 11 00:28:30 2001. The "Device came Up" e
+2001-09-11 03:19:14 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:19:15 Metrocall [0847600] A  ALPHA  rnet - DB". The device http://64.14.205.10/ProviderSearch/pick.asp (Type: URL) is UP since Tue Sep 11 00:28:30 2001. The "Device came Up" e
+2001-09-11 03:19:15 Metrocall [1180298] C  ALPHA  Interface Serial4/1.111 ** Corpus_Christi_C ** on dallas-eng-rtr-bc.metrocall.com is Down. Reason: HP
+2001-09-11 03:19:15 Metrocall [0776055] B  ALPHA  Frm: jmarshall@intelligent.net Sub: RE: TrueMobile 1150 Txt: Hey Guys, I found these documents. I think you'll find more than enough information covering what you need. Also, I found this utility that
+2001-09-11 03:19:16 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   12800 OPEN suntvpa:12800 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 31538 OPEN sunapp1:31538 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat
+2001-09-11 03:19:17 Metrocall [1180298] C  ALPHA  OV cannot ping interface ~
+2001-09-11 03:19:18 Metrocall [1578603] C  ALPHA  Interface Serial4/1.111 ** Corpus_Christi_C ** on dallas-eng-rtr-bc.metrocall.com is Down. Reason: HPOV cannot ping interface ~
+2001-09-11 03:19:18 Metrocall [1402531] A  ALPHA  Interface Serial4/1.111 ** Corpus_Christi_C ** on dallas-eng-rtr-bc.metrocall.com is Down. Reason: HP
+2001-09-11 03:19:20 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 176996. 
+2001-09-11 03:19:22 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:19:22 Metrocall [1402531] A  ALPHA  OV cannot ping interface ~
+2001-09-11 03:19:24 Arch [0938835] A  ALPHA  123-33000827
+2001-09-11 03:19:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9651
+2001-09-11 03:19:25 Arch [0938835] A  ALPHA  123-38000827
+2001-09-11 03:19:27 Arch [0938835] A  ALPHA  123-43000827
+2001-09-11 03:19:29 Arch [0938835] A  ALPHA  123-48000827
+2001-09-11 03:19:29 Arch [0283793] A  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 03:19:29 Arch [1184493] D  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 03:19:29 Arch [0927369] C  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 03:19:29 Arch [0932748] D  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 03:19:30 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router 611FP-1MBT at 00:16:50 Txt: Router 611FP-1MBT DOWN at 00:16:50 Address: 209.247.46.226 Date: 09/11/2001 Status: Host Unreachable ( 11003)
+2001-09-11 03:19:30 Metrocall [1062690] A  ALPHA  12173 TIME 03:15 ACTIVE-Pitt  PA4124_S
+2001-09-11 03:19:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3299
+2001-09-11 03:19:31 Arch [0508023] B  ALPHA  Super-User <root|!BB - 2653610! hp3000.namins.com|[2653610] hp3000.namins.com.conn red Tue Sep 11 03:20:14 EDT 2001 bb-network.sh: Can't ping hp3000.namins.com... Please see: http://bass.namins.com/bb/html/hp3000.namins.com.conn.html 
+2001-09-11 03:19:31 Arch [0908699] C  ALPHA  F3 APP Coastal Monmouth finished 3:15
+2001-09-11 03:19:31 Skytel [002844427] C  ALPHA  AP:VA:L1:V5MDUA10 ABENDED WITH SB37 ON 3S03 - 02:16:Call 8005826218.
+2001-09-11 03:19:31 Skytel [002750727] B SH/TONE 5111    
+2001-09-11 03:19:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 00:19:21 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 03:19:31 Skytel [007579147] C SH/TONE 1034    
+2001-09-11 03:19:31 Skytel [007469966] D ST NUM  210-688-6881   
+2001-09-11 03:19:32 Metrocall [1062690] A  ALPHA  hldbg CELL IMPAIRED
+2001-09-11 03:19:33 Arch [0951391] D  ALPHA   9/11 3:19>Tmc Admin = Please contact Darren from London Helpdesk @ 011-44-207-962-2900
+2001-09-11 03:19:33 Arch [0939437] D  ALPHA  CA Helpdesk <CAH|wb0300ux114: CR#: 143857 Transfe|Summary : Agent not responding Assigned to: CA Unix Group, Doud, Walter Description: "Host:Solaris Solaris CaiUxOs Poll Agent:CaiUxOs N/A DOWN UNIX Heartbeat args= Source: tng SendMsg Severi
+2001-09-11 03:19:35 Skytel [003934628] B  ALPHA  PROJECTED RECYCLE VOLUME THIS MORNING IS 15K.... WE EXPECT GOOD CAPTURE WITH THE SORT DELAY THIS MORNING....
+2001-09-11 03:19:36 Skytel [0000060] D  ALPHA  PROJECTED RECYCLE VOLUME THIS MORNING IS 15K.... WE EXPECT GOOD CAPTURE WITH THE SORT DELAY THIS MORNING....
+2001-09-11 03:19:38 Arch [0931795] A  ALPHA  |Snipe do_cycle is complete. 20010911 00_19  
+2001-09-11 03:19:38 Skytel [008507076] B  ALPHA  01108h4b1ab010800002g
+2001-09-11 03:19:40 Skytel [004593755] C SH/TONE 445-6579
+2001-09-11 03:19:42 Skytel [005349998] D  ALPHA  news@real-net.net|Great Mahjongg Game - Free Demo!|<html> <!--  RealArcade - http://www.realarcade.com Great Mahjongg Game - Free Demo! Aug. 27th, 2001 - unsubscribe at bottom  Kyodai Mahjongg - Music from the Orient soothes as the puzzles 
+2001-09-11 03:19:44 Skytel [002357369] C  ALPHA  002185 CYCLIC TEST 
+2001-09-11 03:19:44 Skytel [003327216] A  ALPHA  002185 CYCLIC TEST 
+2001-09-11 03:19:44 Skytel [002139900] D SH/TONE 002185  
+2001-09-11 03:19:46 Skytel [005083919] D ST NUM  9004225652
+2001-09-11 03:19:48 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-11 03:19:48 Skytel [002401821] D  ALPHA  sahblcm3 Distributed Monitoring pf.ussa11.BLUE.dm.sahblcm3/Daemon status on host sahblcm3 09/11/01 00:10:40 PDT  Status: >>> critical <<<   ussa11.SSMC 
+2001-09-11 03:19:50 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   3063 OPEN suntvpa:3063 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 5369 OPEN sunapp1:5369 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:19:50 Metrocall [1165746] A  ALPHA  EMAIL goodtining@www40.net Rates may NEVER be Lower !!                                                   pnyfk Don't waste money EVERY SINGLE MONTH!!                Home Mortgage Rates have DROPPED! (And they say this is the last time!)               
+2001-09-11 03:19:50 Skytel [003444782] D ST NUM  643-229-8911   
+2001-09-11 03:19:52 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   32370 OPEN suntvpa:32370 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 23570 OPEN sunapp1:23570 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type m
+2001-09-11 03:19:52 Metrocall [1165746] A  ALPHA   Sim
+2001-09-11 03:19:54 Arch [0938127] D  ALPHA  map.dat 
+2001-09-11 03:19:54 Arch [1318633] C  ALPHA  Chiller # 7 is ON  
+2001-09-11 03:19:55 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   2777 OPEN suntvpa:2777 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 12612 OPEN sunapp1:12612 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:19:57 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:19:57 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177003. 
+2001-09-11 03:19:57 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #81-IX_T4609
+2001-09-11 03:19:57 Skytel [007596901] B SH/TONE 85450   
+2001-09-11 03:19:57 Skytel [004524770] A  ALPHA  buf-McCrackinFord-PittsburghPA: CPE Down at 00:42:41 on 9/11
+2001-09-11 03:19:57 Skytel [005112809] C  ALPHA  02:15CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240400: Uncorrectable write error
+2001-09-11 03:19:59 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start re

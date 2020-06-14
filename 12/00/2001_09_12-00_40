@@ -1,0 +1,79 @@
+2001-09-12 00:40:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8009
+2001-09-12 00:40:02 Skytel [005089792] A ST NUM  614-556-4372   
+2001-09-12 00:40:02 Skytel [003279361] A  ALPHA  1) applmgr@esc220.fmr.com|ERP Concurrent Request has ended in Error|Req: 5756823 | User: OE_BATCH | Went on Error at 09-12-01_00:34:18  
+2001-09-12 00:40:03 Skytel [005506968] C ST NUM  702-992-3224   
+2001-09-12 00:40:03 Skytel [002861584] A ST NUM  8685429377
+2001-09-12 00:40:05 Skytel [005001895] B  ALPHA  [sps/173] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/esds/healthcheck.asp) 2:44:19
+2001-09-12 00:40:05 Skytel [007492138] C SH/TONE 638-2806
+2001-09-12 00:40:09 Skytel [003914305] A ST NUM  607-442-1682   
+2001-09-12 00:40:09 Skytel [007517258] C  ALPHA  alert@msn.com||Your MSN Mobile Confirmation code is: 3302  
+2001-09-12 00:40:09 Skytel [005132482] A SH/TONE 3032    
+2001-09-12 00:40:12 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 00:40:12 Arch [0802543] D  ALPHA  From Andy and Taryn - Test for Inflight trip number rollover went as expected. Will start numbering from first available 2000 pairing. Sleep tight; don't let bed bugs bite :-)
+2001-09-12 00:40:13 Skytel [005436525] D  ALPHA  Test Lotus Notes #71-IX_T1708
+2001-09-12 00:40:14 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-12 00:40:15 Skytel [005065212] D  ALPHA  cms@pdprt02.nationalcar.com|pdprt02|GWYB7030 Errors (0) (Log File Not Current)  
+2001-09-12 00:40:15 Skytel [007109749] B ST NUM  717-199-6403   
+2001-09-12 00:40:16 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-12 00:40:16 Arch [0965863] B  ALPHA  csulliv|Tomorrow we will return to the normal work schedule. If you do not have a regularly scheduled telecommute day, please plan on coming in. If you still feel the need to remain home, please call me at the office in the morning.  -1/2
+2001-09-12 00:40:16 Arch [0966611] A  ALPHA  |ILS: Case Create,B828880,P3,Title:GEOCSCORTRA DEVICE PG16 HAS NOT COMMUNICATED WITH THIS SIDE,Owner:GHWANG,Site/Contract:CISCO SYSTEMS/1403504,Contact:STEVE FEY@305 718-2664 |-- ILS ID: A126044671-S80851|204  
+2001-09-12 00:40:17 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 21:40:17 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 00:40:18 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 00:40:18 Arch [1428040] C  ALPHA   Sub:WTC UPDATE #12b  Msg:      WTC UPDATE #12b BEGINS AT midnight (12:00am) ON WED SEP 12, 2001           <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />         12:33p  
+2001-09-12 00:40:18 Arch [0965863] B  ALPHA  -Chuck    -2/2
+2001-09-12 00:40:18 Skytel [005317524] B  ALPHA  287-0451.San Diego, CA       
+2001-09-12 00:40:18 Skytel [005195036] D SH/TONE 792-2337
+2001-09-12 00:40:20 Skytel [005330470] B ST NUM  614-870-9766   
+2001-09-12 00:40:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0932
+2001-09-12 00:40:22 Skytel [005092540] D SH/TONE 74925   
+2001-09-12 00:40:24 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-12 00:40:24 Arch [0419687] B  ALPHA  646-1000
+2001-09-12 00:40:24 Skytel [005525323] C  ALPHA  B
+2001-09-12 00:40:24 Skytel [007493061] B ST NUM  223-734-8811   
+2001-09-12 00:40:26 Skytel [003256927] D ST NUM  726-222-2682   
+2001-09-12 00:40:26 Skytel [007644380] D ST NUM  900-227-3030   
+2001-09-12 00:40:28 Skytel [004428004] B ST NUM  902-387-6422   
+2001-09-12 00:40:29 Arch [0936036] B  ALPHA  'lon-sls-rtr-s0' is unreachable. Circuit down?
+2001-09-12 00:40:30 Metrocall [0645989] B  ALPHA  WhatsUp Info : (21:40) - Server EMSS02C05-DEN, all services UP, see http://lmmdeming.lmms.lmco.com:8080
+2001-09-12 00:40:30 Skytel [004548349] D  ALPHA  jeremy_ho@agilent.com|FW: |  > ---------- > From:  HENDREN,CHAD (A-USA,ex1) > Sent:  Wednesday, September 12, 2001 12:40:16 AM > To:  RANDALL,ANDRE (A-USA,ex1); APPLE, DAVE; HO, JEREMY; KEY, PATTY; > LANEY, REGINALD; LIU, ANGELA; SCHLIPPER,
+2001-09-12 00:40:30 Skytel [005170420] B ST NUM  98859675165    
+2001-09-12 00:40:31 Arch [1052294] B  ALPHA  |ILS: Case Create,B828880,P3,Title:GEOCSCORTRA DEVICE PG16 HAS NOT COMMUNICATED WITH THIS SIDE,Owner:GHWANG,Site/Contract:CISCO SYSTEMS/1403504,Contact:STEVE FEY@305 718-2664 |-- ILS ID: A126044671-S80851|204  
+2001-09-12 00:40:31 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3188
+2001-09-12 00:40:31 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3188
+2001-09-12 00:40:33 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-12 00:40:33 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191411. 
+2001-09-12 00:40:33 Skytel [007008152] C  ALPHA  I'VE BEEN TRYING LIKE CRAZY 2 GET ON LINE.JUST WANTED 2 LET U KNOW I'M GOING 2 BED NOW.I LOVE YOU!!!
+2001-09-12 00:40:35 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 00:40:35 Skytel [007464358] B SH/TONE 5167    
+2001-09-12 00:40:37 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-12 00:40:37 Skytel [007610680] C  ALPHA  RTOP-RES;Allison Transmission;TOR-22:40 EST;SAS-up/ barcode printer rebooted;Bruce;PH-3172405623;PG-3172358404;TK-19508278 -- From: GSS-SP
+2001-09-12 00:40:37 Skytel [005212212] B SH/TONE 99 (3   
+2001-09-12 00:40:37 Skytel [002841393] A ST NUM  9002273030
+2001-09-12 00:40:38 Metrocall [0599126] B  ALPHA  WhatsUp Info : (21:40) - Server EMSS02C05-DEN, all services UP, see http://lmmdeming.lmms.lmco.com:8080
+2001-09-12 00:40:38 Metrocall [1414448] A  ALPHA  WhatsUp Info : (21:40) - Server EMSS02C05-DEN, all services UP, see http://lmmdeming.lmms.lm
+2001-09-12 00:40:39 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-12 00:40:40 Metrocall [1414448] A  ALPHA  co.com:8080
+2001-09-12 00:40:41 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job113073 SSAO02302 09/12 00:40 DISK
+2001-09-12 00:40:41 Skytel [005366486] B ST NUM  685-273-9923   
+2001-09-12 00:40:41 Skytel [005129310] D SH/TONE 629-3708
+2001-09-12 00:40:43 Skytel [004752740] B SH/TONE 219     
+2001-09-12 00:40:45 Skytel [002357369] C  ALPHA  002612 CYCLIC TEST 
+2001-09-12 00:40:45 Skytel [007600630] B ST NUM  1-018-004-4156-1    
+2001-09-12 00:40:45 Skytel [003327216] A  ALPHA  002612 CYCLIC TEST 
+2001-09-12 00:40:45 Skytel [004414841] C ST NUM  8887859927
+2001-09-12 00:40:45 Skytel [002139900] D SH/TONE 002612  
+2001-09-12 00:40:46 Arch [0298459] C  ALPHA  88216
+2001-09-12 00:40:47 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2453..
+2001-09-12 00:40:47 Skytel [005044104] C  ALPHA  scott.thomas@lamrc.com|Lab DB - Hitachi 4 used more than allowable time limit.|The next user is waiting to use Hitachi 4. You have been using the tool for 237 minutes and your allowable time on the tool has expired, please end your session 
+2001-09-12 00:40:47 Skytel [007561353] C ST NUM  700-017-1647-143    
+2001-09-12 00:40:49 Metrocall [1454582] B  ALPHA  Frm: MSN Txt: Top Stories: Beyond the obvious and horrendous human toll, the full economic
+2001-09-12 00:40:49 Metrocall [002117788] D  ALPHA  Frm: PRODLA Sub: Alarm Txt: T401 LO TEMP
+2001-09-12 00:40:52 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 00:40:52 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191418. 
+2001-09-12 00:40:54 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-12 00:40:54 Skytel [003481167] D ST NUM  614-431-4302   
+2001-09-12 00:40:56 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-12 00:40:56 Skytel [003951056] A  ALPHA  sclw03 Resource: SCLW03:/NT_CPU/CPU_0/CPUprcrProcessorTimePercent,current state is : CRITICAL ussa11.SSMC 
+2001-09-12 00:40:56 Skytel [004040020] B  ALPHA  785-267-1672
+2001-09-12 00:40:57 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-12 00:40:58 Skytel [007521519] D ST NUM  08007598255    

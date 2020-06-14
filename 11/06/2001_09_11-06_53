@@ -1,0 +1,73 @@
+2001-09-11 06:53:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2120
+2001-09-11 06:53:00 Metrocall [1898681] C  ALPHA  lct20xerox2q.pacificorp.com  Critical Error on Xerox Printer lct20xerox2q.pacificorp.comat 3:52:26 AM 9/11/01[NTM]
+2001-09-11 06:53:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2120
+2001-09-11 06:53:01 Metrocall [0497643] C  ALPHA  5:00 ON HAND MAIL COUNT 1C 285 2C 41 3C 522 CURRENT 4........................ APCS SEC
+2001-09-11 06:53:03 Skytel [004397329] A ST NUM  322-637-5138-66
+2001-09-11 06:53:03 Skytel [002394391] B  ALPHA  ORCL 11.46 +0.39 MOT 15.04 +0.75 DELL 22.57 +1.02
+2001-09-11 06:53:03 Skytel {0146920} 1 1200 EK 44.27 -0.90 EMN 38.16 +0.06 IBM 96.49 -0.10 MOT 15.02 +0.73
+2001-09-11 06:53:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6942
+2001-09-11 06:53:04 Arch [0905928] C  ALPHA  DONNA IS LEAVING AT 8AM-WANT MYCHEL TO COME IN EARLY? CALL HER AT 973.398.6810 
+2001-09-11 06:53:04 Skytel {0619957} 3 1200 1  37
+2001-09-11 06:53:05 Arch [0981877] B  ALPHA  (1/2) CA1666372>  FINAL>  ISSUE>ONLINE BANKING TIMING OUT ON CIC LAN   BRIDGE>CLOSED   IMPACT>35% IMPACT TO EXTERNAL ONLINE BANKING  FIX>TEMPORARY FIX WAS TO REPOINT CIC TRAFFIC TO CLT AND PERMANEN
+2001-09-11 06:53:05 Arch [0480339] A  ALPHA  (1/2) CA1666372>  FINAL>  ISSUE>ONLINE BANKING TIMING OUT ON CIC LAN   BRIDGE>CLOSED   IMPACT>35% IMPACT TO EXTERNAL ONLINE BANKING  FIX>TEMPORARY FIX WAS TO REPOINT CIC TRAFFIC TO CLT AND PERMANEN
+2001-09-11 06:53:05 Skytel {1032954} 3 2400 1912  80  
+2001-09-11 06:53:05 Skytel {1092655} 3 2400 002256    
+2001-09-11 06:53:05 Skytel {0180722} 3 2400 202-433-8222   
+2001-09-11 06:53:07 Arch [0981877] B  ALPHA  (2/2) T FIX WAS TO POWER CYCLE APP1CIC , REPOINT TRAFFIC TO CIC AND RESTART THE  SECURE PORTS   START>23:04   END>00:00 <From Gene 704-590-9325 SRT>
+2001-09-11 06:53:07 Arch [0480339] A  ALPHA  (2/2) T FIX WAS TO POWER CYCLE APP1CIC , REPOINT TRAFFIC TO CIC AND RESTART THE  SECURE PORTS   START>23:04   END>00:00 <From Gene 704-590-9325 SRT>
+2001-09-11 06:53:07 Arch [0936807] B  ALPHA  CPU utilization exceeded threshold of 90% for a 60 second interval on server BC_WHWOODCLIFF .
+2001-09-11 06:53:07 Arch [0911134] D  ALPHA   comsyb1-adm.ny.jpmorgan.com SYBASE:PRS1_EQGRDNY - 40 RSI        Connecting           PRS1_EQGRDIBM @06:53 09/11/01 
+2001-09-11 06:53:07 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179350. 
+2001-09-11 06:53:13 Metrocall [0668584] C  ALPHA  From: Jim Granade Wheland Foundry is out; Call Mr. Elliot @ 706-465-0210
+2001-09-11 06:53:16 Metrocall [1890433] A  ALPHA  From: Jim Granade Wheland Foundry is out; Call Mr. Elliot @ 706-465-0210
+2001-09-11 06:53:16 Metrocall [002468095] D  ALPHA  From: Jim Granade Wheland Foundry is out; Call Mr. Elliot @ 706-465-0210
+2001-09-11 06:53:16 Metrocall [1540036] B  ALPHA  From: Jim Granade Wheland Foundry is out; Call Mr. Elliot @ 706-465-
+2001-09-11 06:53:16 Metrocall [002325744] A  ALPHA  AUTO_PG:umwkcmtsg01:Oserv Not Functioning on Host:umwkcmtsg01..Paging Tivoli Primary:2001/09/11 10:53:13 T
+2001-09-11 06:53:16 Metrocall [002325744] A  ALPHA  AUTO_PG:umwkcmtsg01:Oserv Not Functioning on Host:umwkcmtsg01..Paging Tivoli Primary:2001/09/11 10:53
+2001-09-11 06:53:17 Arch [0948606] D  ALPHA  PM26063 DEBORAH HILL (614)438-3991// L=OHWORT F=na C= S=1 L= Worthington    clients are not getting drive mappings from  
+2001-09-11 06:53:17 Arch [1608311] B  ALPHA  PM26063 DEB.B....I.....1..4A.-.9..........................................................................appings from  
+2001-09-11 06:53:17 Arch [1604946] A  ALPHA  PM26063 DEBORAH HILL (614)438-3991// L=OHWORT F=na C= S=1 L= Worthington    clients are not getting drive mappings from  
+2001-09-11 06:53:17 Arch [0970795] C  ALPHA  PM26063 DEB.B....I.....1..4..-.9..........................................................................appings from  
+2001-09-11 06:53:17 Skytel {1078919} 1 1200 GE 39.35 -0.31
+2001-09-11 06:53:19 Arch [0477099] C  ALPHA  (26)11:ABS: Scheduled Ticket Password Request
+2001-09-11 06:53:19 Arch [0330207] D  ALPHA  55-CALL HERMIE AT 415-436-3540 REF TICKET 1699578.
+2001-09-11 06:53:20 Arch [0986502] B  ALPHA  Phil Malatras|Interview TODAY |Ralph must be taking the red-eye flight. He's scheduled a noon interview with you. You may want to wear pants. ;-) - philm|153  
+2001-09-11 06:53:20 Arch [1749363] A  ALPHA  |NETWORK-P1 UPDATE #4243506 |Mexicocity-gw is down impacting FSO call managers. No impact due to time of day. Support investigating power outage. Next update at 05:30 PT. OUTAGE START: 11 Sep 03:14 PT NO ETU. Ops 408-527-0007 |226  
+2001-09-11 06:53:20 Metrocall [1540036] B  ALPHA  0210
+2001-09-11 06:53:20 Metrocall [002325744] A  ALPHA  :14 T
+2001-09-11 06:53:21 Arch [0333225] C  ALPHA  |NETWORK-P1 UPDATE #4243506 |Mexicocity-gw is down impacting FSO call managers. No impact due to time of day. Support investigating power outage. Next update at 05:30 PT. OUTAGE START: 11 Sep 03:14 PT NO ETU. Ops 408-527-0007 |226  
+2001-09-11 06:53:21 Arch [1050350] D  ALPHA  |NETWORK-P1 UPDATE #4243506 |Mexicocity-gw is down impacting FSO call managers. No impact due to time of day. Support investigating power outage. Next update at 05:30 PT. OUTAGE START: 11 Sep 03:14 PT NO ETU. Ops 408-527-0007 |226  
+2001-09-11 06:53:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9865
+2001-09-11 06:53:26 Arch [0392267] C  ALPHA  ALERT-SITE: 2840 - ATOC * 4D4 TITAN MAJ        * MAJ ALARM  * L
+2001-09-11 06:53:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3513
+2001-09-11 06:53:31 Skytel [004108942] D  ALPHA  800-451-2361 (83
+2001-09-11 06:53:31 Skytel [003641102] D ST NUM  900-488-7100   
+2001-09-11 06:53:33 Skytel [004573205] B  ALPHA  1) Ann you might see some DC people soon  John Gjertsen
+2001-09-11 06:53:35 Arch [0000101] B  ALPHA  MSN 033 hello Message from NOC PCB.
+2001-09-11 06:53:37 Skytel [004754611] A SH/TONE 5225    
+2001-09-11 06:53:38 Skytel [002785729] A ST NUM  9007593293     
+2001-09-11 06:53:38 Skytel [003490118] B ST NUM  510-534-6255 (54    
+2001-09-11 06:53:38 Skytel [004747465] C ST NUM  733-1623 (80   
+2001-09-11 06:53:38 Skytel [002937039] D ST NUM  618-693-1676 (81    
+2001-09-11 06:53:39 Arch [0591658] C  ALPHA  John, could you give me a call at the OCC.  Joe 888 878 1904   
+2001-09-11 06:53:39 Metrocall {1250894} 1 2400 F:oracle@sig.com (Oracle Account) S:PLSQL daemon errors detected by SQL test on phys-rockies-a. B:BEGIN :xx := daemon.execute_system('date',120); END; * ERROR at line 1: ORA-20011: Execute_system: Err..
+2001-09-11 06:53:40 Skytel [002938583] B  ALPHA  APP 0.00 UNCH AERL 0.00 UNCH TDS 96.40 +1.40 USM 49.65 +1.45
+2001-09-11 06:53:41 Arch [0333270] B  ALPHA  9/11/2001@6:53:03 AM 01USMDROAPS0011:Connection was aborted by the remote WINS
+2001-09-11 06:53:42 Skytel [004524770] A  ALPHA  spr-BramanChemical-AgawamMA-01: CPE Down at 01:47:27 on 9/11
+2001-09-11 06:53:42 Skytel [007101291] C ST NUM  9778482885
+2001-09-11 06:53:42 Skytel [0022243] A  ALPHA  (from 15 )P600 ALARM ACKNOWLEDGED 05:52
+2001-09-11 06:53:42 Skytel [005436525] D  ALPHA  nMCI Test #9
+2001-09-11 06:53:42 Skytel [005203941] B  ALPHA  3478*Host health.cch.com HTTP Content Scan DOWN at 05:54:30  
+2001-09-11 06:53:42 Skytel [007024365] D SH/TONE 9102    
+2001-09-11 06:53:42 Skytel [005102305] A  ALPHA  Sep11:06-21:morhp321:ORA-1142 signalled during: ALTER TABLESPACE PSAPSOURCEI END BACKUP... 
+2001-09-11 06:53:43 Metrocall [0753507] A  ALPHA  Bill, can't get Citrix session for JuliusC. Others are o.k.-Kent(x6137)
+2001-09-11 06:53:43 Metrocall [0088087] B  ALPHA  F:oracle@sig.com (Oracle Account) S:PLSQL daemon errors detected by SQL test on phys-rockies-a. B:BEGIN :xx := daemon.exec
+2001-09-11 06:53:44 Skytel [005360624] A  ALPHA  I NEED TO CANCEL. MY DAUGHTER'S SICK--LINDA 703-395-3124 
+2001-09-11 06:53:45 Metrocall [0088087] B  ALPHA  ute_system('date',120); END; * ERROR at line 1: ORA-20011: Execute_system: Err
+2001-09-11 06:53:46 Metrocall [0088087] B  ALPHA  F:oracle@sig.com (Oracle Account) S:PLSQL daemon errors detected by SQL test on phys-rockies-a. B:BEGIN :xx := daemon.execute_system('date',120); END; * ERROR at line 1: ORA-20011: Execute_system: Err
+2001-09-11 06:53:47 Arch [1026292] B  ALPHA  Backup@NYED.usco|Operator Attention|(Server: "NYEPSROGUE" Job: "Monday backup" Device: "HP 1") Please inser t overwritable media into the changer using the slot import command. 
+2001-09-11 06:53:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179357. 
+2001-09-11 06:53:47 Arch [0923985] A  ALPHA  2712
+2001-09-11 06:53:48 Skytel [003250066] A  ALPHA  inboxweather@talk2.weather.com|Suresh, here is your weather forecast for Wappingers Falls, NY|Suresh's Weather for 9/11/2001  Why pay more for Life Insurance? You can save 50% - 70% on Term Life Insurance at Eterm. We offer Fast, Free Quote
+2001-09-11 06:53:50 Metrocall [1105117] D  ALPHA  Hbrg Daily test of StatPage version v8 at 07:00:00
+2001-09-11 06:53:57 Skytel [005185132] D ST NUM  312-755-5900-814    

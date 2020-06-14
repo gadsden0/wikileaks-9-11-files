@@ -1,0 +1,43 @@
+2001-09-11 04:21:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1968
+2001-09-11 04:21:00 Metrocall [1064388] B  ALPHA  LCO 2738/2730  -007 CL 2764/784/788+001 2752/2718/2680/2655 2623/2591/2560/2530 HO 7956/015/050-005 HU 8180/770/560-007 NG2390/2672/993+008 3150/3120/3050/2960 965/010/040/055/065 LG
+2001-09-11 04:21:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1968
+2001-09-11 04:21:01 Metrocall [1064388] B  ALPHA  O 23925/4075-0300 PL v4390/f4320 +007 EC _3300/_3150+0150 PAm45600+000
+2001-09-11 04:21:01 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 01:20:23 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 04:21:01 Skytel [007570697] C ST NUM  073-1707-1
+2001-09-11 04:21:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6790
+2001-09-11 04:21:04 Arch [0000101] B  ALPHA  MSN 087 hello Message from NOC PCB.
+2001-09-11 04:21:04 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope https://www.skandia.de/site.htm Production Web Sites (emt-4b) 87818 timed out reading 
+2001-09-11 04:21:04 Arch [0908699] C  ALPHA  Mailroom Complete  HN  3:40 ,  AP -Ocean -4:00, Monmouth -4:00.
+2001-09-11 04:21:05 Skytel [005437867] C SH/TONE 911281  
+2001-09-11 04:21:05 Skytel [002693664] A  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS]
+2001-09-11 04:21:05 Skytel [003347245] D SH/TONE 427-1705
+2001-09-11 04:21:08 Skytel [005098183] B  ALPHA  2 way test @ 320 -Plano 2 Way Ops
+2001-09-11 04:21:09 Metrocall [1224820] B  ALPHA  From: mcep001 ==>   After 3 iterations MQS queue BMW.SX.VONZ75 is @ 99    04:21:09 09/11/01 Page sent by
+2001-09-11 04:21:09 Metrocall [1457849] C  ALPHA  From: mcep0............%..3..$..........................................................................
+2001-09-11 04:21:14 Arch [0553455] D  ALPHA  MUHAMMED, MUSTAFAH UNAUTHORIZED LEAVE 09/11/2001  4:18AM
+2001-09-11 04:21:18 Skytel [002401821] D  ALPHA  206.122.40.67 Code =  JOES  - Job Output Elements ussa11.SSMC 
+2001-09-11 04:21:19 Arch [1449229] D  ALPHA  please call webops psitrdfile05s has a worm virus             web ops 778-1932    
+2001-09-11 04:21:20 Skytel [002554542] D SH/TONE 6212 (11
+2001-09-11 04:21:20 Skytel [002279468] D ST NUM  918-435-5599   
+2001-09-11 04:21:23 Skytel [003904970] C  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS]
+2001-09-11 04:21:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9713
+2001-09-11 04:21:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177698. 
+2001-09-11 04:21:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3361
+2001-09-11 04:21:31 Arch [0925366] B  ALPHA   318643;Sep 11 00:22:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 04:21:39 Metrocall [1105339] C  ALPHA  CALL BRANDON AT NNOC. BRISTOL REG MED CENTER IS REPORTING MISSING PAGES. THANKS
+2001-09-11 04:21:40 Arch [1612111] D  ALPHA  monitor@ccbill.c|VSCRUB Packet Loss|nulls=8 1017374455:1017374482:1017374484:1017374486:1017374487:1017374489:1017374495:1017374498 
+2001-09-11 04:21:44 Skytel [003280501] B  ALPHA  Tobacco Giants Prepare New Marketing Curbs Ahead of U.N. Treaty[DJ NEWS]
+2001-09-11 04:21:46 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2219 - 00246B ST_AUG_S_6125, cnet lost sync, Clr
+2001-09-11 04:21:48 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 144W MAJ=NONE
+2001-09-11 04:21:48 Metrocall [0687053] D  ALPHA  s3,00501410,ack,CSDSPEC1 ,CSDSPEC1 TIVOLIPROC Tivoli ENDPOINT csdspec1 Heartbeat
+2001-09-11 04:21:48 Metrocall [0687053] D  ALPHA  s3,00501409,ack,C................................................Heartbeat is la
+2001-09-11 04:21:50 Skytel [003251232] A  ALPHA  Tobacco Giants Prepare New Marketing Curbs Ahead of U.N. Treaty[DJ NEWS]
+2001-09-11 04:21:53 Arch [0949088] A  ALPHA  emscmgr3: 99-dps-bmg1.n28.dps interface lan0 is down 
+2001-09-11 04:21:55 Skytel [003786328] C  ALPHA  Tobacco Giants Prepare New Marketing Curbs Ahead of U.N. Treaty[DJ NEWS]
+2001-09-11 04:21:57 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177705. 
+2001-09-11 04:21:57 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #82-IX_T3602
+2001-09-11 04:21:57 Skytel [004524770] A  ALPHA  wil-HallamAssociates-BurlingtonV: CPE Up at 00:58:03 on 9/11
+2001-09-11 04:21:57 Skytel [005112809] C  ALPHA  B
+2001-09-11 04:21:59 Skytel [004412913] A ST NUM  0-020-784-5509-24846
+2001-09-11 04:21:59 Skytel [007109749] B SH/TONE 469-9450
+2001-09-11 04:21:59 Skytel [005385718] B  ALPHA  root@rifas23.desc.dla.mil|CRITICAL BACKUP FAILURE|rifas05-daily Veritas Backup failed, Sep 11 04:21:16.  Veritas     Error  # 25.  cannot connect on socket A process timed out while connecting to another process for a particular operation. 

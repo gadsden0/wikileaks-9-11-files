@@ -1,0 +1,74 @@
+2001-09-12 02:32:00 Skytel [005092221] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 02:32:00 Skytel [004535801] C SH/TONE 254     
+2001-09-12 02:32:00 Skytel [005525114] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 02:32:02 Skytel [005062410] C  ALPHA  owens@mdsiv3.jpl.nasa.gov|| 2332 DC-6=0 BQ+0=0 CM-9=0  
+2001-09-12 02:32:04 Skytel [003414162] A SH/TONE 599-8480
+2001-09-12 02:32:04 Skytel [004686110] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 02:32:04 Skytel [004405151] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 02:32:05 Skytel [005001895] B  ALPHA  [sps/96] 104 supplier.intel.com relay-ssl 0.0 FAILURE Server closedconnection immediately. (/esds/healthcheck.asp) 3:39:13
+2001-09-12 02:32:05 Skytel [002869028] B  ALPHA  (1 of 2) INFORMED BY ALBUQUERE PD 911 OPERATOR OF A SPANISH MALE, APPROX 35 YRS, GREEN HAT, GRAY BLACK CLOTHING, WITH BLACK BACK PACK WHICH REPORTEDLY CONTAINS AN EXPLOSIVE IS BETWEEN THE US COURTHOUSE AND DENTENTION CENTER DOWNTOWN ALBUQUE
+2001-09-12 02:32:05 Skytel [005345829] B  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 02:32:06 Skytel {1092655} 3 2400 002649    
+2001-09-12 02:32:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192699. 
+2001-09-12 02:32:08 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-12 02:32:08 Arch [1427707] C  ALPHA  01-PLEASE COME TO CONTROL ROOM 44.
+2001-09-12 02:32:08 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=gsm  Mode=Incremental_Dump         # Our PID=22980    time='09/12/01 02:30:06'    sybase on
+2001-09-12 02:32:10 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-12 02:32:10 Metrocall [1544818] A  ALPHA  Server 'REG-NS3 Disk.E.Free = 274096128, min allowable: (300000000)
+2001-09-12 02:32:10 Metrocall [1466337] A  ALPHA  09/12@01:20:21 DALDC01:The master browser has received a server announcement from the computer HB-ICONECT that believes that it is the master browser fo
+2001-09-12 02:32:10 Metrocall [1111466] C  ALPHA  09/12@01:20:21 DALDC01:The master browser has received a server announcement from the computer HB-ICONECT that believes that it is the master browser for the domain on transport NetBT_Tcpip_{E7CD7022-9C94-48E. The master browser is stopping or an
+2001-09-12 02:32:12 Arch [0987275] C  ALPHA  s0191: 09/11 15:14:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:14:21
+2001-09-12 02:32:12 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 176 processes on report1.ccbill.com. Timestamp key: 20010911233000 
+2001-09-12 02:32:12 Metrocall [1466337] A  ALPHA  r the domain on transport NetBT_Tcpip_{E7CD7022-9C94-48E. The master browser is stopping or
+2001-09-12 02:32:12 Metrocall [1111466] C  ALPHA  CONT:election is being forced.
+2001-09-12 02:32:13 Metrocall [1466337] A  ALPHA  CONT:an election is being forced.
+2001-09-12 02:32:14 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 175 processes on report1.ccbill.com. Timestamp key: 20010911233000 
+2001-09-12 02:32:14 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-12 02:32:19 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 144W MAJ=NONE
+2001-09-12 02:32:19 Metrocall [1544818] A  ALPHA  Server 'REG-NS3 Disk.F.Free = 5384241152, min allowable: (8000000000)
+2001-09-12 02:32:19 Metrocall [1544818] A  ALPHA  CRDC-MAIL03 "Server CRDC-MAIL03/MSVR/KAIPERM - There are no longe
+2001-09-12 02:32:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1044
+2001-09-12 02:32:21 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDSSPX_EQNY1  Database=CERD_CORPORATE  Mode=Incremental_Dump         # Our PID=23057    time='09/12/01 02:30:06'  
+2001-09-12 02:32:21 Arch [0987275] C  ALPHA  sb3: INFO0021 - 2:45PM - POSI batch has not arrived(160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:15
+2001-09-12 02:32:21 Metrocall [0525954] A  ALPHA  Server:Chelmick at 10.17.1.52 is DOWN.
+2001-09-12 02:32:21 Metrocall [1544818] A  ALPHA  r any pending documents older than 30 Minutes minutes in mail2.box. "
+2001-09-12 02:32:23 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=PUBLISH_SUBSCRIBE  Mode=Incremental_Dump         # Our PID=23765    time='09/12/01 02:30:10
+2001-09-12 02:32:28 Metrocall [1544820] B  ALPHA  CRDC-MAIL03 "Server CRDC-MAIL03/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail2.box. "
+2001-09-12 02:32:28 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3300
+2001-09-12 02:32:28 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3300
+2001-09-12 02:32:29 Arch [0903081] C  ALPHA  "Hicks, Audley E|KFNA (Network) Restored connectivity to Fresno, CA. Site support reset equipment. 
+2001-09-12 02:32:31 Arch [0000101] B  ALPHA  MSN 088 hello Message from NOC PCB.
+2001-09-12 02:32:32 Skytel [005240334] D SH/TONE 7866    
+2001-09-12 02:32:32 Skytel [002363657] C SH/TONE 7869    
+2001-09-12 02:32:32 Skytel [002361863] B  ALPHA  PAGEING,1,Application DPIP Informational 4 0 4096 23:30  09/11/01
+2001-09-12 02:32:35 Skytel [004397995] C  ALPHA  IntelliWatch Monitor: WARNING - Server CVGNA05.US.Schneider-Electric.com/A/SVR/Schneider MAY HAVE crashed. Waiting 200 seconds...
+2001-09-12 02:32:35 Skytel [007588521] C SH/TONE 3364    
+2001-09-12 02:32:37 Skytel [0001461] B  ALPHA  GLOBEX   01:31     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 02:32:39 Skytel [004689866] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 02:32:39 Skytel [005191364] B SH/TONE 99      
+2001-09-12 02:32:40 Metrocall [002588677] B  ALPHA  Frm: SWEBAP2-Root Sub: swebap2|09120002|be0003|Tape1 Error Txt: ERROR: 0, swebap2: apps
+2001-09-12 02:32:40 Metrocall [1544820] B  ALPHA  CRDC-MAIL03 "Server CRDC-MAIL03/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail2.box. "
+2001-09-12 02:32:41 Skytel [1800019] A  ALPHA  GLOBEX   01:31     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 02:32:42 Arch [0900368] A  ALPHA  Pls call Tabeek
+2001-09-12 02:32:42 Arch [0937381] B  ALPHA  :The Problem with ID 00330734 Severity 2 Description  mopf21.pitts.bayer.com- Node Down. has not been resolved.It has been escalated to level 3 on 09/11/2001 at 19:51:39.
+2001-09-12 02:32:42 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-12 02:32:42 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=sod  Mode=Incremental_Dump         # Our PID=24222    time='09/12/01 02:30:13'    sybase on
+2001-09-12 02:32:43 Skytel [003914854] B  ALPHA  5600
+2001-09-12 02:32:44 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-12 02:32:45 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-12 02:32:45 Skytel [002281456] A SH/TONE 1068    
+2001-09-12 02:32:45 Skytel [005040245] B ST NUM  811-422-7915   
+2001-09-12 02:32:45 Skytel [007062907] C SH/TONE 340     
+2001-09-12 02:32:47 Skytel [007469966] D ST NUM  210-688-6881   
+2001-09-12 02:32:48 Skytel [002401821] D  ALPHA  sasdsp17 Distributed Monitoring pf.ussa11.OTSW.dm.sasdsp17/CPU time: user plus sys on host sasdsp17 09/11/01 22:57:00 PDT  Status: >>> crit ussa11.SSMC 
+2001-09-12 02:32:49 Metrocall [1424509] D  ALPHA  Frm: FUNCTIONAL Txt: Import Complete Note: table contains ROWID column, values may be obsolete 0 rows imported
+2001-09-12 02:32:53 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 210 processes on report2.ccbill.com. Timestamp key: 20010911233000 
+2001-09-12 02:32:54 Skytel [007512013] D  ALPHA  Y! ||Fr: special@flowgo.com *A Message From Cupid -- We Have Found Your True Love* Hi [FIRSTNAM Mail
+2001-09-12 02:32:54 Skytel [008507076] B  ALPHA  01863h4b1cb010800001g
+2001-09-12 02:32:54 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:32:55 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 71.84 76.50 73.95 Tue Sep 11 23:31:56 MST 2001 
+2001-09-12 02:32:55 Arch [0931795] A  ALPHA  |OPC: rex: /dev/vx/dsk/sundg/v122sun-12, mounted at /beyond/122/sun12, is at 95  
+2001-09-12 02:32:57 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 125.26 90.16 79.28 Tue Sep 11 23:33:22 MST 2001 
+2001-09-12 02:32:58 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #33-IX_T4510
+2001-09-12 02:32:58 Skytel [007494500] B SH/TONE 000000  
+2001-09-12 02:32:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8122

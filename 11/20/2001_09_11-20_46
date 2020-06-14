@@ -1,0 +1,193 @@
+2001-09-11 20:46:00 Skytel [005107061] B SH/TONE 577-5000
+2001-09-11 20:46:00 Skytel [004434807] B ST NUM  381-495-0478   
+2001-09-11 20:46:00 Skytel [007009014] B SH/TONE 01      
+2001-09-11 20:46:00 Skytel [003905659] C ST NUM  730-961-9423-11
+2001-09-11 20:46:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7775
+2001-09-11 20:46:01 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-11 20:46:01 Arch [1619336] C  ALPHA  U called it right early on..those buildings melted.GM
+2001-09-11 20:46:01 Skytel [005050112] A SH/TONE 295-5732
+2001-09-11 20:46:01 Skytel [002746374] B SH/TONE 505     
+2001-09-11 20:46:01 Skytel [004209540] B ST NUM  603-821-3422   
+2001-09-11 20:46:01 Skytel [004535172] B ST NUM  717-870-7659   
+2001-09-11 20:46:01 Skytel [004079880] C ST NUM  71015 (45 
+2001-09-11 20:46:03 Skytel [002388240] A ST NUM  301-828-5803   
+2001-09-11 20:46:03 Skytel [005355039] D  ALPHA  DON'T HAVE YOUR HOME # BUT WE WILL BE OPENED, NORMAL BUSINESS TOMORROW. PLS CALL RON, AT 215-766-4967.
+2001-09-11 20:46:03 Skytel [007557147] C SH/TONE 123     
+2001-09-11 20:46:04 Arch [0935857] A  ALPHA  231-7377
+2001-09-11 20:46:04 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 144W MAJ=A3
+2001-09-11 20:46:05 Skytel [005338280] C ST NUM  223-226-1290   
+2001-09-11 20:46:05 Skytel [002598183] B ST NUM  373-9907 (81   
+2001-09-11 20:46:05 Skytel [007006756] B ST NUM  9885245894
+2001-09-11 20:46:06 Arch [0855523] A  ALPHA  (30)NCC Opening: 9/11 New York, NY Offnet Outage: Verizon Central Office is on fire affecting 16 DS3s att. More info to follow. TCC tkt#2041302 NCC tkt#2041241 dlh
+2001-09-11 20:46:06 Arch [1254884] B  ALPHA  (3)NCC Opening: 9/11 New York, NY Offnet Outage: Verizon Central Office is on
+2001-09-11 20:46:06 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 20:46:06 Arch [1080878] D  ALPHA  (5)NCC Opening: 9/11 New York, NY Offnet Outage: Verizon Central Office is on fire affecting 16 DS3s att. More info to follow. TCC tkt#2041302 NCC tkt#2041241 dlh
+2001-09-11 20:46:06 Arch [1213628] D  ALPHA  (3)NCC Opening: 9/11 New York, NY Offnet Outage: Verizon Central Office is on fire affecting 16 DS3s att. More info to follow. TCC tkt#2041302 NCC tkt#2041241 dlh
+2001-09-11 20:46:06 Skytel {0112988} 3 2400 412-6126  
+2001-09-11 20:46:06 Skytel {1599702} 1 2400 3492 (54
+2001-09-11 20:46:07 Skytel {0296755} 3 1200 746-808-7394-490911.
+2001-09-11 20:46:07 Skytel {1092446} 3 1200 1310145   
+2001-09-11 20:46:08 Arch [1254884] B  ALPHA   fire affecting 16 DS3s att. More info to follow. TCC tkt#2041302 NCC tkt#2041241 dlh
+2001-09-11 20:46:08 Metrocall [0151814] B  ALPHA  CALL BUFFA AT THE DESK.
+2001-09-11 20:46:08 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4345
+2001-09-11 20:46:08 Skytel {1472224} 4 2400 kgs: (Subj: Reminder- SSQA Meeting) XX Calendar Appointment XX Date: 9/11/2001 Start: 1830 End: 2000 What: SSQA Meeting Sun Microsystems (PAL-1) 901 San Antonio Rd. Palo Alto, CA. 94303-4900 RSVP: ssqa@corp.sun.com
+2001-09-11 20:46:09 Skytel {1031108} 3 2400 301-390-9733  69    
+2001-09-11 20:46:10 Arch [0918426] C  ALPHA  prodpctl@phas114|File Transport conf. heloc.txt|File heloc.txt, was transferred to your server phas115 on Tue Sep 11 20:46:34 EDT 2001 
+2001-09-11 20:46:10 Arch [0911530] C  ALPHA  822-8148
+2001-09-11 20:46:14 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-11 20:46:14 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 188758. 
+2001-09-11 20:46:14 Arch [0942991] D  ALPHA  From: Li, Janet - Equity Research (Exchange)- call me at home 725-1157  Thanks! Janet Li Bear, Stearns & Co. Inc. 212-272-6150 jvli@bear.com   
+2001-09-11 20:46:14 Arch [0916942] D  ALPHA  608-1276
+2001-09-11 20:46:16 Arch [0987275] C  ALPHA  s0191: 09/11 15:41:26 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:41:26
+2001-09-11 20:46:18 Arch [0987275] C  ALPHA  s0191: 09/11 15:47:33 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:47:34
+2001-09-11 20:46:18 Arch [1229361] A  ALPHA  override error at pearl. 631-3352
+2001-09-11 20:46:23 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0698
+2001-09-11 20:46:23 Arch [0000101] B  ALPHA  MSN 051 hello Message from NOC PCB.
+2001-09-11 20:46:23 Arch [0929697] A  ALPHA  MSN <alert@msn.c|(*)Renee: I just wanted to say :P. Have a good night. Hope your grandma spoils you rottener! 
+2001-09-11 20:46:25 Arch [0721608] C  ALPHA  (30)NCC Opening: 9/11 New York, NY Offnet Outage: Verizon Central Office is on fire affecting 16 DS3s att. More info to follow. TCC tkt#2041302 NCC tkt#2041241 dlh
+2001-09-11 20:46:25 Arch [0965224] C  ALPHA  |cwpa-dw-mz.buildlog.CSCdv19797 status 2 ||42  
+2001-09-11 20:46:25 Arch [1132117] B  ALPHA  (30)NCC Opening: 9/11 New York, NY Offnet Outage: Verizon Central Office is on fire affecting 16 DS3s att. More info to follow. TCC tkt#2041302 NCC tkt#2041241 dlh
+2001-09-11 20:46:25 Arch [1302974] D  ALPHA  NCC Opening: 9/11 New York, NY Offnet Outage: Verizon Central Office is on fire affecting 16 DS3s att. More info to follow. TCC tkt#2041302 NCC tkt#2041241 dlh
+2001-09-11 20:46:25 Arch [0999133] D  ALPHA  (19)NCC Opening: 9/11 New York, NY Offnet Outage: Verizon Central Office is on f
+2001-09-11 20:46:25 Arch [1071152] A  ALPHA  (14)NCC Opening: 9/11 New York, NY Offnet Outage: Verizon Central Office is on fire affecting 16 DS3s att. More info to follow. TCC tkt#2041302 NCC tkt#2041241 dlh
+2001-09-11 20:46:27 Arch [0925366] B  ALPHA   318643;Sep 11 16:47:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 20:46:27 Arch [0999133] D  ALPHA  ire affecting 16 DS3s att. More info to follow. TCC tkt#2041302 NCC tkt#2041241 dlh
+2001-09-11 20:46:27 Arch [0906969] C  ALPHA  301 680-0777
+2001-09-11 20:46:29 Arch [1636926] D  ALPHA  9694673-24
+2001-09-11 20:46:29 Arch [0949140] B  ALPHA  310 423-3276
+2001-09-11 20:46:31 Skytel [002280321] A ST NUM  0-431-434-7502-69 (7
+2001-09-11 20:46:31 Skytel [004528770] A ST NUM  968-094-5507-3473808
+2001-09-11 20:46:31 Skytel [0001026] A  ALPHA  NEWS BY AP: * Terrorists Crash Jets Into World Trade Center, Both Towers Collapse; Thousands Feared Dead. * Government Probe Focuses on Bin Laden, Intel Intercept. *
+2001-09-11 20:46:31 Skytel [005250052] B ST NUM  713-665-5327   
+2001-09-11 20:46:31 Skytel [004721416] C SH/TONE 6204    
+2001-09-11 20:46:31 Skytel [007084427] C ST NUM  223-752-2320   
+2001-09-11 20:46:31 Skytel [005136001] A ST NUM  932-833-3254   
+2001-09-11 20:46:31 Skytel [002361863] B  ALPHA  PAGEING,1,Application TODI ERROR 1 0 4096 17:21  09/11/01
+2001-09-11 20:46:32 Arch [0558285] D  ALPHA  TEST PAGE
+2001-09-11 20:46:33 Metrocall [1495977] C  ALPHA  (From ICON01) IR:1284147 JOB:FODL906D ABD:U0000 P:3 ON DALA 09/11 19:40
+2001-09-11 20:46:33 Metrocall [002563393] A  ALPHA  Frm: Generic ACTT Auto-ticket Login Sub: MONP Txt: D;L;I;0911-337613;110 W 20
+2001-09-11 20:46:33 Metrocall [1903234] A  ALPHA  Frm: Generic ACTT Auto-ticket Login Sub: MONP Txt: D;L;I;0911-337613;110 W 20TH ST,MANHATTAN,NY;135.44.2.194 Lost Connectivity;09/11/2001 20:44:28;UN INV;auto
+2001-09-11 20:46:33 Metrocall [002587974] B  ALPHA  Frm: Generic ACTT Auto-ticket Login Sub: MONP Txt: D;L;I;0911-337613;110 W 20TH 
+2001-09-11 20:46:33 Skytel [002401821] D  ALPHA  206.122.40.74 $HASP050 JES2 RESOURCE SHORTAGE OF JOES - 85% UTILIZATION REACHED ussa11.SSMC 
+2001-09-11 20:46:33 Skytel [005361304] C SH/TONE 99      
+2001-09-11 20:46:33 Skytel [005132826] C ST NUM  761-729-2900   
+2001-09-11 20:46:33 Skytel [005318686] D  ALPHA  5322.NELIGAN TARPLEY     
+2001-09-11 20:46:33 Skytel [007516059] C  ALPHA  y-alerts@yahoo-inc.com|| Bush says ``thousands of lives were suddenly ended'' in terrorist attacks. 
+2001-09-11 20:46:33 Skytel [005114781] D ST NUM  917-569-0088   
+2001-09-11 20:46:33 Skytel [0048152] C  ALPHA  Toto, favor de comunicarse con Erick y/o Gerardo para revisar el cuadro de Fuentes de Financiamiento y anexo  al 3373926 (1 (1
+2001-09-11 20:46:34 Arch [0968733] D  ALPHA  "DMS Application|26 backing up in loader que 
+2001-09-11 20:46:34 Arch [0987275] C  ALPHA  s0191: 09/11 15:50:15 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:50:16
+2001-09-11 20:46:34 Metrocall [002563393] A  ALPHA  TH ST,MANHATTAN,NY;135.44.2.194 Lost Connectivity;09/11/2001 20:44:28;UN INV;auto
+2001-09-11 20:46:34 Metrocall [002587974] B  ALPHA  ST,MANHATTAN,NY;135.44.2.194 Lost Connectivity;09/11/2001 20:44:28;UN INV;auto
+2001-09-11 20:46:34 Metrocall [002589224] C  ALPHA  Frm: Generic ACTT Auto-ticket Login Sub: MONP Txt: D;L;I;0911-337613;110 W 20TH ST,MANHATTAN,NY;135.44.2.194 Lost Connectivity;09/11/2001 20:44:28;UN INV;auto
+2001-09-11 20:46:35 Skytel [005237418] C SH/TONE 867     
+2001-09-11 20:46:35 Skytel [003918251] C  ALPHA  jessa.mccoy@bankofamerica.com|#6641147860/Mcaulay|You need to provide the applicants date of birth to Danae Daughtry in order for the HELOC doc's to be processed.  Thank you. Jessa McCoy Team Associate, Loan Set Up Irvine Loan Center 888-23
+2001-09-11 20:46:35 Skytel [003274158] D ST NUM  616-636-0860 U (65  
+2001-09-11 20:46:35 Skytel [005343533] D ST NUM  9885247994 (5  
+2001-09-11 20:46:36 Arch [0987275] C  ALPHA  sb3: INFO0002 - Trade Count Mismatch Ora=825 Rec=0 (160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:52
+2001-09-11 20:46:36 Arch [0332909] D  ALPHA  (1)NCC Opening: 9/11 New York, NY Offnet Outage: Verizon Central Office is on fire affecting 16 DS3s att. More info to follow. TCC tkt
+2001-09-11 20:46:36 Arch [0272310] B  ALPHA  (11)NCC Opening: 9/11 New York, NY Offnet Outage: Verizon Central Office is on fire affecting 16 DS3s att. More info to follow. TCC tkt#2041302 NCC tkt#2041241 dlh
+2001-09-11 20:46:36 Arch [0471304] C  ALPHA  (16)NCC Opening: 9/11 New York, NY Offnet Outage: Verizon Central Office is on fire affecting 16 DS3s att. More info to follow. TCC tkt#2041302 NCC tkt#2041241 dlh
+2001-09-11 20:46:36 Arch [1254810] C  ALPHA  NCC Opening: 9/11 New York, NY Offnet Outage: Verizon Central Office is on fire affecting 16 DS3s att. More info to follow. TCC tkt#2041302 NCC tkt#2041241 dlh
+2001-09-11 20:46:36 Metrocall [1707219] A  ALPHA  Hi there, what a terrible day, huh? Hope all is well with you.. being sent to New York? Take care... Audrey
+2001-09-11 20:46:36 Metrocall [1896599] B  ALPHA  Frm: MSN Txt: Tiffany: jasmine closed the window before i could read it...i dont know what you typed
+2001-09-11 20:46:37 Skytel [005110712] C SH/TONE 106     
+2001-09-11 20:46:37 Skytel [002793012] B ST NUM  702-685-5090   
+2001-09-11 20:46:37 Skytel [005254194] A SH/TONE 1       
+2001-09-11 20:46:37 Skytel [007610680] C  ALPHA  RTOP;Plano;TOP-20:00 EDT;SCP-200;BPA-GPDS;SAS-Down, DBA wrkng;ETTR-Unk;Cameron;PH-2483772569;PG-8773942839;TK-19508050 -- From: GSS-MWD
+2001-09-11 20:46:37 Skytel [0001461] B  ALPHA  GLOBEX   19:45     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-11 20:46:38 Arch [0332909] D  ALPHA  #2041302 NCC tkt#2041241 dlh
+2001-09-11 20:46:39 Skytel [002397896] C ST NUM  21) 404-696-3028    
+2001-09-11 20:46:39 Skytel [007660231] B SH/TONE 780-0307
+2001-09-11 20:46:39 Skytel [003075534] D SH/TONE 2400    
+2001-09-11 20:46:39 Skytel [003496013] D SH/TONE 4430    
+2001-09-11 20:46:39 Skytel [005424461] D ST NUM  948-0843 (87   
+2001-09-11 20:46:40 Arch [0980942] D  ALPHA  RTOP;Plano;TOP-20:00 EDT;SCP-200;BPA-GPDS;SAS-Down, DBA wrkng;ETTR-Unk;Cameron;PH-2483772569;PG-8773942839;TK-19508050 -- From: GSS-MWD
+2001-09-11 20:46:40 Arch [0923769] C  ALPHA  the Pilot?Apparently,that issue will have extensive coverage.I tried to get one at the mini mart by ur house.If u remember,would u pick one up for me?Also,I think ur motion sensor light is either broken or needs a new bulb-didn't work.143 B
+2001-09-11 20:46:40 Arch [0965721] C  ALPHA  NTSECURE:Device Inaccessible
+2001-09-11 20:46:40 Arch [0453272] C  ALPHA  root: SATELLITE: Tue Sep 11 19:47:47 2001 CARRIER MONITORING SER2 stoc -68.10
+2001-09-11 20:46:41 Skytel [002741714] A ST NUM  9887809531
+2001-09-11 20:46:41 Skytel [005069524] B ST NUM  867-913-0121-2 
+2001-09-11 20:46:41 Skytel [004575697] A SH/TONE 99      
+2001-09-11 20:46:41 Skytel [005493331] A ST NUM  8776578073
+2001-09-11 20:46:41 Skytel [005361872] A SH/TONE 99      
+2001-09-11 20:46:41 Skytel [003915610] C  ALPHA  EXFC 2/3 DAY (Revised)  INTRA  LAST WEEK: 97.29  PQ: 92.55-8772798483@skytel.com
+2001-09-11 20:46:41 Skytel [007030741] B  ALPHA  EXFC 2/3 DAY (Revised)  INTRA  LAST WEEK: 97.29  PQ: 92.55-8772798483@skytel.com
+2001-09-11 20:46:41 Skytel [004406736] A  ALPHA  From Doug - Got your message, Rob.  Will be in at 245 Summer (I meant) tomorrow.  See ya! 
+2001-09-11 20:46:41 Skytel [005485529] C ST NUM  602-685-5090   
+2001-09-11 20:46:41 Skytel [1800019] A  ALPHA  GLOBEX   19:45     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-11 20:46:43 Skytel [003346529] A SH/TONE 334-9128
+2001-09-11 20:46:43 Skytel [004548840] C  ALPHA  EXFC 2/3 DAY (Revised)  INTRA  LAST WEEK: 97.29  PQ: 92.55-8772798483@skytel.com
+2001-09-11 20:46:43 Skytel [005436525] D  ALPHA  LNotes #39-IX_T1708
+2001-09-11 20:46:43 Skytel [005378025] C ST NUM  302-610-2335   
+2001-09-11 20:46:43 Skytel [007641961] C ST NUM  408-944-3216   
+2001-09-11 20:46:43 Skytel [002357089] A SH/TONE 2700    
+2001-09-11 20:46:43 Skytel [004688618] C  ALPHA  EXFC 2/3 DAY (Revised)  INTRA  LAST WEEK: 97.29  PQ: 92.55-8772798483@skytel.com
+2001-09-11 20:46:44 Metrocall [0443323] C  ALPHA  Sub: 48 Hour Forecast Frm: KTBS-WxWarn@central.weatherwarn.net Txt: Tonight: Partly cloudy, low 61... Wednesday: Mostly sunny, high 87... Wednesday Night: Clear, low 64... Thursday: Partly cloudy, hig
+2001-09-11 20:46:44 Metrocall [1060056] C  ALPHA  2 REPAIR       Defect(s) for PRESS        H08L        on tire  MW54    Def 361 MISSING PLUG MOLD/DOT          Prev msg- 2001/09/11 19:12:24:79
+2001-09-11 20:46:44 Metrocall [1064381] D  ALPHA  FORMER US PRESIDENT CLINTON POSTPONES TAIWAN VISIT
+2001-09-11 20:46:45 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Error reading connection information for Ivr Tcp ports.
+2001-09-11 20:46:45 Skytel [007561714] A SH/TONE 496-5152
+2001-09-11 20:46:45 Skytel [0001403] C  ALPHA  ]!z00]"AO]$ (62
+2001-09-11 20:46:45 Skytel [002357369] C  ALPHA  002534 CYCLIC TEST 
+2001-09-11 20:46:45 Skytel [007656312] C ST NUM  508-365-1433   
+2001-09-11 20:46:45 Skytel [005119739] C SH/TONE 252-9074
+2001-09-11 20:46:45 Skytel [003327216] A  ALPHA  002534 CYCLIC TEST 
+2001-09-11 20:46:45 Skytel [002384891] C ST NUM  632-888-1631   
+2001-09-11 20:46:45 Skytel [002139900] D SH/TONE 002534  
+2001-09-11 20:46:45 Skytel [005042166] B SH/TONE 228     
+2001-09-11 20:46:45 Skytel [005493118] D SH/TONE 710-3563
+2001-09-11 20:46:46 Metrocall [0443323] C  ALPHA  h 88...
+2001-09-11 20:46:46 Skytel [005360905] C  ALPHA  KFarley@safety-kleen.com||      <monitor@tms.com> on 09/11/2001 07:39:39 PM  Please respond to <monitor@tms.com>   To:   <pfaber@safety-kleen.com>, <wstukes@safety-kleen.com>,       <jblake@safety-kleen.com>, <bpeters@safety-kleen.com>,    
+2001-09-11 20:46:46 Skytel [005049099] C  ALPHA  EXFC 2/3 DAY (Revised)  INTRA  LAST WEEK: 97.29  PQ: 92.55-8772798483@skytel.com
+2001-09-11 20:46:47 Metrocall [1145663] D  ALPHA  [FAH]Call when you can ! :
+2001-09-11 20:46:48 Metrocall [1544818] A  ALPHA  WDC-MAIL04 "Server WDC-MAIL04/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail1.box. "
+2001-09-11 20:46:48 Metrocall [1496842] C  ALPHA  M08, minor accident w no injuries at Fire Station 2...no further--Keli EMS Comm
+2001-09-11 20:46:48 Metrocall [1639104] A  ALPHA  (From ICON01) IR:1284147 JOB:FODL906D ABD:U0000 P:3 ON DALA 09/11 19:40
+2001-09-11 20:46:48 Skytel [003452432] A SH/TONE 3135    
+2001-09-11 20:46:48 Skytel [005313306] C SH/TONE 902-2950
+2001-09-11 20:46:48 Skytel [005125528] C SH/TONE 143 (28 
+2001-09-11 20:46:48 Skytel [004450975] D SH/TONE 3000    
+2001-09-11 20:46:49 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 188765.
+2001-09-11 20:46:49 Arch [0987275] C  ALPHA  s0191: 09/11 15:56:49 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:56:49
+2001-09-11 20:46:49 Arch [0554645] B  ALPHA  (19)NCC Opening: 9/11 New York, NY Offnet Outage: Verizon Central Office is on fire affecting 16 DS3s att. More info to follow. TCC tkt#2
+2001-09-11 20:46:49 Arch [0903184] A  ALPHA  41-CALL MARGIE AT 856-435-8208 OR YOU CAN EMAIL ME AT MARGL41@HOTMAIL.COM.  HOPE EVERYTHING'S OKAY.
+2001-09-11 20:46:50 Arch [0985901] D  ALPHA  "Strategy.com Ne|Bush says attacks fail to break American resolve 
+2001-09-11 20:46:50 Arch [1642963] A  ALPHA  (12)50:ABS: TKTFMT11 Last checked in  21 minutes ago
+2001-09-11 20:46:50 Arch [0951318] B  ALPHA  43-IF YOU NEED TO TALK, YOU CAN CALL ME AT HOME ANYTIME TONIGHT. I'M HOME ALONE. -KELLY 607-962-6342
+2001-09-11 20:46:50 Arch [0556160] A  ALPHA  (7)NCC Opening: 9/11 New York, NY Offnet Outage: Verizon Central Office is on fire affecting 16 DS3s att. More info to follow. TCC tkt#20413
+2001-09-11 20:46:50 Skytel [007464739] A ST NUM  9777126855
+2001-09-11 20:46:50 Skytel [002741668] B ST NUM  670-996-2220-130    
+2001-09-11 20:46:50 Skytel [005105064] C  ALPHA  EXFC 2/3 DAY (Revised)  INTRA  LAST WEEK: 97.29  PQ: 92.55-8772798483@skytel.com
+2001-09-11 20:46:50 Skytel [003050668] D SH/TONE 114     
+2001-09-11 20:46:51 Arch [1425048] C  ALPHA   
+2001-09-11 20:46:51 Arch [1413779] A  ALPHA  RESOLVED:SD820945/18:00/SRC:TO/IMP:Teleaccount Price Update/STATUS:CMSJD100 missed the 18:00 SLC, job completed aao 20:24/NOSI=?/RC: Being Investigated/Outage:144 MIns
+2001-09-11 20:46:51 Arch [0554645] B  ALPHA  041302 NCC tkt#2041241 dlh
+2001-09-11 20:46:51 Arch [0606037] B  ALPHA  (16)NCC Opening: 9/11 New York, NY Offnet Outage: Verizon Central Office is on fire affecting 16 DS3s att. More info to follow. TCC tkt#2041302 NCC tkt#2041241 dlh
+2001-09-11 20:46:51 Arch [1131264] A  ALPHA  (25)NCC Opening: 9/11 New York, NY Offnet Outage: Verizon Central Office is on fire affecting 16 DS3s att. More info to follow. TCC tkt#2041302 NCC tkt#2041241 dlh
+2001-09-11 20:46:51 Arch [0556160] A  ALPHA  02 NCC tkt#2041241 dlh
+2001-09-11 20:46:51 Arch [0987275] C  ALPHA  s0191: 09/11 16:02:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 16:02:48
+2001-09-11 20:46:52 Skytel [004542014] D  ALPHA  EXFC 2/3 DAY (Revised)  INTRA  LAST WEEK: 97.29  PQ: 92.55-8772798483@skytel.com
+2001-09-11 20:46:52 Skytel [002747582] D SH/TONE 853-1719
+2001-09-11 20:46:53 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 10.843800:FATAL:Sep 11, 2001 16:21
+2001-09-11 20:46:53 Arch [0969315] A  ALPHA  285-1144
+2001-09-11 20:46:53 Arch [1044042] C  ALPHA  79-PLS CALL 727-593-9469.
+2001-09-11 20:46:54 Skytel [005112901] B ST NUM  624-5110 (14   
+2001-09-11 20:46:54 Skytel [003256137] C  ALPHA  jlford1@fedex.com||TOTAL VOLUME 1,814 DOCS           109 NDOCS          955 MPCS           198 PCS            750  
+2001-09-11 20:46:54 Skytel [005112263] B ST NUM  873-9141-26    
+2001-09-11 20:46:55 Arch [1052364] D  ALPHA  derichar|Please call me. Denise 65320   
+2001-09-11 20:46:55 Arch [1172831] D  ALPHA  rgallego|Bruce, I have signed off deviation D021248 based on email from Chris indicating that the customer will not see the 10s delay since the sup will take longer to reboot and these DC/DC converters will only be used on linecards.  -1/2
+2001-09-11 20:46:57 Arch [1172831] D  ALPHA  Thanks Ron    -2/2
+2001-09-11 20:46:57 Metrocall [1698604] D  ALPHA  MESSAGE:401-4168
+2001-09-11 20:46:57 Metrocall [1372759] B  ALPHA  Sub: 48 Hour Forecast Frm: KTBS-WxWarn@central.weatherwarn.net Txt: Tonight: Partly cloudy, low 61... Wednesday: Mostly
+2001-09-11 20:46:57 Metrocall [1708491] C  ALPHA  call dispatch
+2001-09-11 20:46:57 Metrocall [1708470] B  ALPHA  call dispatch
+2001-09-11 20:46:57 Metrocall [1064378] C  ALPHA  JAPAN KEY OVERNIGHT RATE UP TO 0.02% AFTER ATTACK
+2001-09-11 20:46:57 Metrocall [1064395] C  ALPHA  )?#`B@wHHxi@CJUAhPYrBWElhI}ZKRgRX|bh`iPZdUAUhHJd}@pWLFRUAAcUHmIAAjUHLNV`AHDCeKz@p
+2001-09-11 20:46:58 Skytel [003520737] A ST NUM  502-359-2732   
+2001-09-11 20:46:59 Arch [1666850] A  ALPHA  3196
+2001-09-11 20:46:59 Arch [0931898] C  ALPHA  NTSECURE:Device Inaccessible
+2001-09-11 20:46:59 Metrocall [1423715] A  ALPHA  Watchdog: 000-000-0911
+2001-09-11 20:46:59 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2954
+2001-09-11 20:46:59 Metrocall [1553316] B  ALPHA  58120:Cri; TT677787; 30 Min User Esc. - Not Ack; ; 09/11/01 17:46:46; ;P432 - ;logic id:AXE1
+2001-09-11 20:46:59 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2954

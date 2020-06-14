@@ -1,0 +1,39 @@
+2001-09-11 05:49:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2056
+2001-09-11 05:49:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2056
+2001-09-11 05:49:03 Skytel [002847128] C  ALPHA  ORCL 11.23 +0.16 MSFT 57.34 +1.94 NSCP 0.00 UNCH FMAGX 97.76 -2.01 (11
+2001-09-11 05:49:03 Skytel {1256008} 1 1200 EOG 32.70 +0.03 EPP 0.00 UNCH ENE 32.51 +0.94
+2001-09-11 05:49:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6878
+2001-09-11 05:49:04 Skytel {1330033} 4 1200 Venezuela Regulator: 5 More Days For AES/CANTV Decision[DJ NEWS].
+2001-09-11 05:49:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178642. 
+2001-09-11 05:49:10 Arch [0578226] A  ALPHA  " Big Info " <da|Downed Equipment T25002|
+2001-09-11 05:49:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9801
+2001-09-11 05:49:26 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSTRD_EDGNY1) MAYBE OPEN TRANSACTION in syslogshold PYR_ARCHIVE|107 - PDSTRD_EDGNY1 @05:48 09/11/01 
+2001-09-11 05:49:30 Metrocall [1261323] C  ALPHA  Frm: fusasitescope@wingspan.com Txt: elgweb7 login content match error on step 2, http://192.168.67.187:7001/cmsonline/main/cmslogin.jsp
+2001-09-11 05:49:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3449
+2001-09-11 05:49:31 Skytel [004694661] B SH/TONE 1       
+2001-09-11 05:49:35 Skytel [003917344] A  ALPHA  SkyFax: :3 Pages
+2001-09-11 05:49:35 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb7 login content match error on step 2, http://192.168.67.187:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informat
+2001-09-11 05:49:35 Skytel [0000675] A ST NUM  4124
+2001-09-11 05:49:40 Arch [0970454] B  ALPHA  (26)DO:-*Posting-Call-Detail(4:46:48
+2001-09-11 05:49:42 Skytel [0039520] A  ALPHA  -              ALRM         <CRITICAL> : 13FL CW PUMP ALM.09/11/01 05:51 6131280
+2001-09-11 05:49:42 Skytel [005203941] B  ALPHA  1566*Host business.cch.com UP at 04:50:39  
+2001-09-11 05:49:42 Skytel [004524770] A  ALPHA  wor-WagnerMotors-BoylstonMA-01: CPE Up at 01:00:09 on 9/11
+2001-09-11 05:49:42 Skytel [005132640] A  ALPHA  16) cbranch@us.ibm.com|SEV: 1 |Escalation Page: 4 Hour Sev: 1 Problem! Pathmark 2374527 Summary: Store 568 has been down for 5 hrs.  Informed DPE and EM that store has lost pow
+2001-09-11 05:49:42 Skytel [005112809] C  ALPHA  04:46CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240432: Uncorrectable write error
+2001-09-11 05:49:42 Skytel [005226605] D ST NUM  8683241859
+2001-09-11 05:49:42 Skytel [007589229] D SH/TONE 3366    
+2001-09-11 05:49:42 Skytel [005436525] D  ALPHA  nMCI Test #30
+2001-09-11 05:49:42 Skytel [005057390] D  ALPHA  al001dataaege:3.7.002 Service MSExchangeIS (Microsoft Exchange Information Store) Has Just Started.
+2001-09-11 05:49:44 Skytel [002357369] C  ALPHA  002235 CYCLIC TEST 
+2001-09-11 05:49:44 Skytel [005132640] A  ALPHA  er. Sent Exec. Alert.  More updates to follow.  
+2001-09-11 05:49:44 Skytel [003327216] A  ALPHA  002235 CYCLIC TEST 
+2001-09-11 05:49:44 Skytel [002139900] D SH/TONE 002235  
+2001-09-11 05:49:47 Arch [1026292] B  ALPHA  Backup@NYED.usco|Operator Attention|(Server: "NYEPSROGUE" Job: "Monday backup" Device: "HP 1") Please inser t overwritable media into the changer using the slot import command. 
+2001-09-11 05:49:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178649. 
+2001-09-11 05:49:50 Metrocall [002587506] A  ALPHA  Frm: NPG@alert.sw Sub: MSC-WP3@21h Txt: Access for White Plains 3 is 88.80% at 2100 hrs
+2001-09-11 05:49:50 Skytel [002823586] A  ALPHA  emc/gwc - 02:42 - Novell server's es-e04-w001 rebooted itself. TT01631662 Server currently in service.
+2001-09-11 05:49:50 Skytel [004421677] D ST NUM  492-143-5921-6050538
+2001-09-11 05:49:52 Skytel [003329971] A  ALPHA  emc/gwc - 02:42 - Novell server's es-e04-w001 rebooted itself. TT01631662 Server currently in service.
+2001-09-11 05:49:53 Skytel [002358223] D SH/TONE 8888    
+2001-09-11 05:49:53 Skytel [002851270] B  ALPHA  (0270319084)Sev:3 Case ID:1577291 Site:3505, NORFOLK SOUTHERN RAILWAY 404 529 1601 GLENN STEWART 9310: PROB: Lsm 001/003 detting abort/extend msgs... FSC: volser UNREADABLE using Hand:1... SUGG: remove bad cln carts/ enter new cln carts... 
+2001-09-11 05:49:57 Skytel [007554671] D  ALPHA  777.MARDER B            

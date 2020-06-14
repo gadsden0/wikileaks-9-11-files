@@ -1,0 +1,64 @@
+2001-09-11 04:17:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1964
+2001-09-11 04:17:00 Metrocall [0000329] C  ALPHA  THIS I.....E.....R........G..........................
+2001-09-11 04:17:03 Skytel [002401821] D  ALPHA  ondprod.racca.chevron.com The interface en0; on ondprod.racca.chevron.com is Down. ussa11.SSMC 
+2001-09-11 04:17:03 Skytel [004397329] A ST NUM  322-646-0181-78
+2001-09-11 04:17:03 Skytel [004437785] C SH/TONE 1003    
+2001-09-11 04:17:03 Skytel [004570774] B ST NUM  958-805-6060   
+2001-09-11 04:17:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6786
+2001-09-11 04:17:04 Arch [0472874] C  ALPHA  inf6099@s609901.|Event code=1059 Message=Logging event f (Schedule item ended with failure exit code) for schedule_id IF01B_6098 with exit code 1 
+2001-09-11 04:17:04 Arch [0000101] B  ALPHA  MSN 085 hello Message from NOC PCB.
+2001-09-11 04:17:04 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2219 - 00246B ST_AUG_S_6125, cnet lost sync, Set
+2001-09-11 04:17:05 Skytel {1092655} 3 2400 002204    
+2001-09-11 04:17:06 Skytel {1480307} 1 1200   SiteScope/SSAFPROD/SSAFPROD Application Log/86164/3 matches in 3 entries/..
+2001-09-11 04:17:14 Arch [0472874] C  ALPHA  inf6099@s609901.|Event code=1059 Message=Logging event f (Schedule item ended with failure exit code) for schedule_id IF01D_6098 with exit code 1 
+2001-09-11 04:17:19 Arch [0925428] B  ALPHA  Trade.floor.serv|PSITRDFILE05S had a warning erro|9/11/2001,4:17 AM EDT,PSITRDFILE05S,Harmless,System 'PSITRDFILE05S' is offline Event Text System 'PSITRDFILE05S' is offline Date 9/11/2001 Severity Harmless Event Type Director.Topology.Offli
+2001-09-11 04:17:20 Metrocall [002588047] D  ALPHA  Frm: Muralidhar Devarakonda Sub: server status Txt: Machine 30kcerent1.nsf.att.com not up on Tue Sep 11 04:04:00 2001. status 256.Machine 30kcerent2.nsf.att.com not up on Tue Sep 11 04:04:00 2001 status 256.Machine mtcerent3.nsf.att.com not up on T
+2001-09-11 04:17:21 Skytel {0143279} 3 1200 202-685-7650   
+2001-09-11 04:17:22 Metrocall [002588047] D  ALPHA  ue Sep 11 04:04:00 2001 status 2
+2001-09-11 04:17:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9709
+2001-09-11 04:17:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177656. 
+2001-09-11 04:17:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE ........................
+2001-09-11 04:17:31 Skytel [002559104] A SH/TONE 76245   
+2001-09-11 04:17:31 Skytel [005091215] D  ALPHA  wn@solutions.att.com|Tkt#0570848-CITICORP|Argbnor-site isolated-possible power-GCSC 9194741488  
+2001-09-11 04:17:31 Skytel [005181709] D SH/TONE 255552  
+2001-09-11 04:17:33 Skytel [003267485] D SH/TONE 5148    
+2001-09-11 04:17:35 Skytel [003436448] A SH/TONE 3992    
+2001-09-11 04:17:35 Skytel [005391524] B ST NUM  988-972-6662   
+2001-09-11 04:17:35 Skytel [004576171] C SH/TONE 1       
+2001-09-11 04:17:36 Skytel [002817970] A  ALPHA  sitescope@crispy.di.merc-int.com| ALERT App/Topaz/SLM - Login Logout missing link "" on step 4 (http://twm-srv.me...|  Time:     1:13 AM 9/11/01 Response from server:   HTTP/1.1 200 OK    Server: Microsoft-IIS/4.0    Date: Tue, 11 Sep 2001 
+2001-09-11 04:17:38 Skytel [005385281] A  ALPHA  sacdisp@cwo.com||(-) FM: 2324 H St #A  TO:  
+2001-09-11 04:17:38 Skytel [003950157] D  ALPHA  wn@solutions.att.com|Tkt#0570848-CITICORP|Argbnor-site isolated-possible power-GCSC 9194741488  
+2001-09-11 04:17:38 Skytel [003075917] D  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS] (2
+2001-09-11 04:17:39 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcb-wbs04 Sev:4 # 111002 UnableToStartEvent WBS 3.1.14.1 09/11/01 01:17:01 PDT7 Instance: RestartManualEvents Module: RestartManualEvents Details: PID=19119 TID=1 Unable to restart manual-start event "NBC/WNCN" :
+2001-09-11 04:17:40 Skytel [003939803] C  ALPHA  wn@solutions.att.com|Tkt#0570848-CITICORP|Argbnor-site isolated-possible power-GCSC 9194741488  
+2001-09-11 04:17:40 Skytel [007467226] C ST NUM  11921680200030000000
+2001-09-11 04:17:42 Skytel [007100520] C ST NUM  221-235-2120   
+2001-09-11 04:17:42 Skytel [004732386] A  ALPHA  wn@solutions.att.com|Tkt#0570848-CITICORP|Argbnor-site isolated-possible power-GCSC 9194741488  
+2001-09-11 04:17:42 Skytel [003599337] C  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS] (51
+2001-09-11 04:17:44 Skytel [003924989] D  ALPHA  HCPJob@spcorp.com|CMPS0053 (Load Flash Report)|:0 Process Completed Successfully @03:21:36  ***************************************************************  This message and any attachments is solely for the intended recipient. If you are n
+2001-09-11 04:17:44 Skytel [002750709] B SH/TONE 76245   
+2001-09-11 04:17:44 Skytel [004728304] A  ALPHA  wn@solutions.att.com|Tkt#0570848-CITICORP|Argbnor-site isolated-possible power-GCSC 9194741488  
+2001-09-11 04:17:44 Skytel [007041909] B  ALPHA  wn@solutions.att.com|Tkt#0570848-CITICORP|Argbnor-site isolated-possible power-GCSC 9194741488  
+2001-09-11 04:17:44 Skytel [002812402] A  ALPHA  wn@solutions.att.com|Tkt#0570848-CITICORP|Argbnor-site isolated-possible power-GCSC 9194741488  
+2001-09-11 04:17:48 Metrocall [002589558] B  ALPHA  Frm: wn@solutions.att.com Sub: Tkt#0570848-CITICORP Txt: Argbnor-site isolated-possible power-GCSC 9194741488
+2001-09-11 04:17:48 Metrocall [002589620] B  ALPHA  Frm: wn@solutions.att.com Sub: Tkt#0570848-CITICORP Txt: Argbnor-site isolated-possible power-GCSC 9194741488
+2001-09-11 04:17:48 Metrocall [1544581] B  ALPHA  Frm: 
+2001-09-11 04:17:48 Skytel [002559894] B SH/TONE 772-7213
+2001-09-11 04:17:48 Skytel [003659931] C  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS] (72
+2001-09-11 04:17:50 Metrocall [1544581] B  ALPHA  MSN Txt: Hotmail Keen Horoscopes:Erica, Your Horoscope!
+2001-09-11 04:17:50 Metrocall [002178488] C  ALPHA  EMAIL ts-survey@netscape.com Sun-Netscape Alliance Technical Support Survey Dear........................................................................................................................................................................
+2001-09-11 04:17:50 Skytel [003270188] D SH/TONE 561264  
+2001-09-11 04:17:51 Skytel [005171263] D SH/TONE 99      
+2001-09-11 04:17:53 Arch [0986477] D  ALPHA  "WhatsUp" <whats|Remote WebServer UP at 01:02:45|Remote WebServer UP at 01:02:45 Address: 216.85.144.134 Info 1: Web Server Home on ResWeb2 Info 2: CCERMT Date: 09/11/2001 Status: Active and responding ( 0) Svcs: 
+2001-09-11 04:17:55 Arch [0986477] D  ALPHA  "WhatsUp" <whats|Remote WebServer HTTP DOWN at 00|Remote WebServer HTTP DOWN at 00:36:57 Address: 216.85.144.134 Info 1: Web Server Home on ResWeb2 Info 2: CCERMT Date: 09/11/2001 Status: unknown ( 1) Svcs: HTTP 
+2001-09-11 04:17:55 Skytel [005003484] D  ALPHA  XCP1 13452 - Memory error, please log on and check services!! 
+2001-09-11 04:17:55 Skytel [003266515] A  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS]
+2001-09-11 04:17:57 Arch [0988248] C  ALPHA  KY: mhcrs01.aici.com Ping Broken
+2001-09-11 04:17:57 Arch [0986477] D  ALPHA  Mandalay WebServer HTTP DOWN at 00:36:57 Address: 216.85.144.137 Info 1: Web Server Home on ResWeb2 Info 2: CCEMBY Date: 09/11/2001 Status: unknown ( 1) Svcs: HTTP 
+2001-09-11 04:17:57 Skytel [005436525] D  ALPHA  Test Message #68-IX_T0409
+2001-09-11 04:17:57 Skytel [004524770] A  ALPHA  spr-MissHallsSchool-Pittsfield-0: CPE Up at 00:58:03 on 9/11
+2001-09-11 04:17:57 Skytel [005112809] C  ALPHA  03:16CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240464: Uncorrectable write error
+2001-09-11 04:17:59 Arch [0986477] D  ALPHA  Resort WebServer HTTP DOWN at 00:36:57 Address: 216.85.144.135 Info 1: Web Server Home on ResWeb2 Info 2: CCERST Date: 09/11/2001 Status: unknown ( 1) Svcs: HTTP 
+2001-09-11 04:17:59 Skytel [003074556] D  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS] (84
+2001-09-11 04:17:59 Skytel [007109749] B ST NUM  737-1776-0
+2001-09-11 04:17:59 Skytel [005330559] D  ALPHA  alert@msn.com||Hotmail Network Commerce:Who Would You Send On a FREE Disney Vacation?  

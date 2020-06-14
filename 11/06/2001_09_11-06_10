@@ -1,0 +1,74 @@
+2001-09-11 06:10:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2077
+2001-09-11 06:10:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2077
+2001-09-11 06:10:03 Skytel [003927703] B  ALPHA  umut@ans.net|BD0000000102362|SLUTD SLKC 801-521-8521 09/10/01 23:53:00-09/11/01 10:07:00 GMT Esc=3 Busies T1s restored by MFS. Bad network module card on DAX.  
+2001-09-11 06:10:03 Skytel [004686110] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 06:10:04 Arch [0971878] B  ALPHA  Service:Dns_Roi  Host:kla-primary  Address:10.160.160.94  Info:CRITICAL - Plugin timed out after 10 seconds 
+2001-09-11 06:10:04 Arch [0723117] D  ALPHA  1/02:removed: cs08n01tr0 IntDown 192.168.2.113 (reported by /suptools/bi
+2001-09-11 06:10:04 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MP
+2001-09-11 06:10:04 Arch [0936445] D  ALPHA  Super-User <root|filesystem (intranet) intranet:/ 23 intranet:/usr 93 intranet:/var 46 intranet:/export/ 32 intranet:/opt 69 intranet:/tmp 1 intranet:/apps1 71 intranet:/apps2 65 intranet:/opt/net 13 intranet:/vol02 29 intranet:/vol01 56 
+2001-09-11 06:10:04 Arch [0911134] D  ALPHA   comsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSHH_EQNY1) PDSHH_EQNY1 - HEDGEHOG_HIST: DATA -->> ALLOCATED = 400 MB, USED = 361 MB, FREE = 39 MB, PERCENT_USED = 90% @06:10 09/11/01 
+2001-09-11 06:10:06 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6899
+2001-09-11 06:10:06 Arch [1425048] C  ALPHA  fetchData.pl line 342, <SOCK_192.168.35.19> chunk 178870. 
+2001-09-11 06:10:06 Arch [0723117] D  ALPHA  2/02:n/cketh) From: root@insightcwtr0 AlertID: 18759/5762
+2001-09-11 06:10:08 Metrocall {1250894} 1 2400 F:oracle@sig.com (Oracle Account) S:PLSQL daemon errors detected by SQL test on phys-rockies-a. B:BEGIN :xx := daemon.execute_system('date',120); END; * ERROR at line 1: ORA-20011: Execute_system: Err..
+2001-09-11 06:10:08 Skytel [007567175] B  ALPHA  umut@ans.net|BD0000000102362|SLUTD SLKC 801-521-8521 09/10/01 23:53:00-09/11/01 10:07:00 GMT Esc=3 Busies T1s restored by MFS. Bad network module card on DAX.  
+2001-09-11 06:10:08 Skytel [004689866] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 06:10:09 Arch [0492587] C  ALPHA  STALL DNS54EEZ.DBF R       3000
+2001-09-11 06:10:10 Skytel [007047515] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 06:10:13 Metrocall [1544818] A  ALPHA  NAP-NS1:Device Inaccessible
+2001-09-11 06:10:14 Skytel [005092221] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 06:10:14 Skytel [005525114] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 06:10:14 Skytel [007512824] C  ALPHA  'fullspectrumlending.6w9s9kq2.fw@list.p0.com|credit refinancing news for stephen|CALL 1-800-458-8602
+2001-09-11 06:10:16 Skytel [002354306] A  ALPHA  alert@msn.com||Hotmail EMAZING:EMAZING Windows Tip of the Day - Virus Awareness Month: Who Writ  
+2001-09-11 06:10:18 Skytel [005120146] A SH/TONE 264-5584
+2001-09-11 06:10:18 Skytel [004405151] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 06:10:20 Metrocall [0731842] A  ALPHA  come back...
+2001-09-11 06:10:20 Skytel [005345829] B  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 06:10:23 Arch [0981230] D  ALPHA  Dina Bailey <DBa|As per your request!|Please find attached file for your review. I look forward to hear from you again very soon. Thank you. 
+2001-09-11 06:10:23 Skytel [004451650] A SH/TONE 357     
+2001-09-11 06:10:23 Skytel [005266117] B SH/TONE 1       
+2001-09-11 06:10:24 Metrocall [1064375] B  ALPHA  750.21  +080 CAC40  4454.11  +070 MIB30  31878   +0314 HSI  10417.36  +0051 30 _99.02/03  5.438% GOLD271.20/170  -030 S 4.18/20  PL 440.00 PD 450.00/0.00  +000 JG 1.420%
+2001-09-11 06:10:24 Metrocall [0088087] B  ALPHA  F:oracle@sig.com (Oracle Account) S:PLSQL daemon errors detected by SQL
+2001-09-11 06:10:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9822
+2001-09-11 06:10:26 Arch [0976922] C  ALPHA  Dina Bailey <DBa|As per your request!|Please find attached file for your review. I look forward to hear from you again very soon. Thank you. 
+2001-09-11 06:10:26 Metrocall [0088087] B  ALPHA   test on phys-rockies-a. B:BEGIN :xx := daemon.execute_system('date',120); END; * ERROR at line 1: ORA-20011: Execute_system: Err
+2001-09-11 06:10:27 Skytel [007641961] C SH/TONE 17      
+2001-09-11 06:10:28 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 06:10:28 Arch [0970454] B  ALPHA  (4)SI:-*Get-Cust-Info(5:09:43
+2001-09-11 06:10:28 Arch [1018152] C  ALPHA  (20)oraprod@mail.spr|File system /u21 on dapmdp01 exceeded 80% - Please investigate! 
+2001-09-11 06:10:31 Skytel [002375815] B ST NUM  912-273-2312   
+2001-09-11 06:10:32 Metrocall [1264049] A  ALPHA  ralph please call c. jones at 973-533-2627. i need space    for smf data on japan system
+2001-09-11 06:10:32 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3470
+2001-09-11 06:10:33 Skytel [004386705] A SH/TONE 597-0827
+2001-09-11 06:10:35 Metrocall [1064385] A  ALPHA   BDM 10715-013
+2001-09-11 06:10:36 Skytel [005228862] D SH/TONE 2002    
+2001-09-11 06:10:38 Skytel [007576258] A ST NUM  544-8662-72    
+2001-09-11 06:10:40 Skytel [005205594] C ST NUM  1101091121560000000000   
+2001-09-11 06:10:40 Skytel [005325918] D  ALPHA  09/11/01 06:08 RED TPFA PATH IPTI ISOPTI01 CLOSED
+2001-09-11 06:10:41 Metrocall [002568740] B  ALPHA  I 194.153.115.57 up @0510 ein to eldn DS-3 link from Telecity GSR S7/1 ein noc 888 337-1998
+2001-09-11 06:10:41 Metrocall [002568740] B  ALPHA  I 194.153.115.58 up @0510 eldn to ein DS-3 link to Telecity GSR S7/1 ein noc 888 337-1998
+2001-09-11 06:10:41 Metrocall [1264049] A  ALPHA  ralph please call c. jones at 973-533-2627. 
+2001-09-11 06:10:42 Skytel [005256929] A  ALPHA  09/11/01 06:08 RED TPFA PATH IPTI ISOPTI01 CLOSED
+2001-09-11 06:10:43 Arch [1614638] D  ALPHA  F: swatch      Sep 11 06:09:35 loan1.p2k.cbis.com \ISCSI transport failed: reason \tran_err\: retrying command
+2001-09-11 06:10:43 Arch [1009132] D  ALPHA  F. sCatch  .........1..6..9 .5../..1.p2k.cbis.com \ISCSI transport failed: reason \tran_err\: retrying command
+2001-09-11 06:10:43 Arch [0903293] D  ALPHA  aa034187: SUCCESS: DSR Import Successful
+2001-09-11 06:10:43 Arch [???????] C  ALPHA  aa03.08.: S..@E..:......../.....c..ssful
+2001-09-11 06:10:43 Metrocall [1264049] A  ALPHA  i need space    for smf data on japan system
+2001-09-11 06:10:44 Skytel [002357369] C  ALPHA  002242 CYCLIC TEST 
+2001-09-11 06:10:44 Skytel [003327216] A  ALPHA  002242 CYCLIC TEST 
+2001-09-11 06:10:44 Skytel [008513138] A  ALPHA  TAMBIEN ESTOY AQUI PESANDO EN NOSOTROS, PENSANDO EN LA FELICIDAD QUE SIENTO CUANDO ESTOY JUNTO A TI, PENSANDO EN LA GRAN ENERGIA QUE SIENTO Y LA PAZ QUE LLEGA A MI CORAZON IMAGINARNOS JUNTOS. QUIERO QUE ESTEMOS FELICES JUNTOS NANCY Y COMPROMETO HAC
+2001-09-11 06:10:44 Skytel [002139900] D SH/TONE 002242  
+2001-09-11 06:10:46 Skytel [004683402] C  ALPHA  (0270319091)Sev:3 Case ID:1576917 Ent:TS Site:31605, ECLIPSYS CORP 973 394 2211 ben garrett 984E: DEV-858, POSSIBLE STUCK, WONT READY, CUST WANTS SERVICE DEFERRED TILL TOMORROW MORNING, AM PROB: DEV-858, POSSIBLE STUCK TAPE, NOT READY FSC: 
+2001-09-11 06:10:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 03:08:57 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 06:10:46 Skytel [008513138] A  ALPHA  ER TODO EN MI PODER LOGRARLO. EL AMOR QUE SIENTO POR TI ES GRANDE Y OJALA QUE PUEDAS SENTIR IGUAL POR MI. TE QUIERO MUCHO. MICHAEL (2 (2
+2001-09-11 06:10:49 Arch [0419404] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_txn_loader.ksh 0 Body:pace2_txn_loader.ksh exited successfully.
+2001-09-11 06:10:50 Skytel [002352173] D ST NUM  205-681-6881   
+2001-09-11 06:10:50 Skytel [005009442] A  ALPHA  NETCON01_SiteScope@nhc.adp.com|| Centex Corporation CENP results error, ORA-01013: user requested cancel of current operation   
+2001-09-11 06:10:50 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb1 login content match error on step 2, http://192.168.67.181:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informat
+2001-09-11 06:10:52 Metrocall [1064379] C  ALPHA   LME METALS WEAK BUT PACE OF L..S.....Y..E..A....
+2001-09-11 06:10:52 Metrocall [1064381] D  ALPHA  ...............................................
+2001-09-11 06:10:53 Skytel [005239491] A SH/TONE 1702    
+2001-09-11 06:10:55 Skytel [005100891] C  ALPHA  Server nmic-btmd-ap2 UP at 06:15:31 (12
+2001-09-11 06:10:57 Skytel [005436525] D  ALPHA  nMCI Test #59
+2001-09-11 06:10:57 Skytel [005112809] C  ALPHA  05:07CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240432: Uncorrectable write error
+2001-09-11 06:10:57 Skytel [004524770] A  ALPHA  man-GuestmarkIntl-EastHampsteadN: CPE Down at 01:29:29 on 9/11

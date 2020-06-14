@@ -1,0 +1,73 @@
+2001-09-11 05:59:01 Metrocall [1104994] A  ALPHA  Frm: jmizzi@bidcom.com Sub: Excess Oracle processes in Production - 393 Txt: Total no. of processes : 393
+2001-09-11 05:59:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2066
+2001-09-11 05:59:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2066
+2001-09-11 05:59:01 Skytel [002690828] D  ALPHA  SkyFax: :1 Page (1
+2001-09-11 05:59:02 Arch [0980029] D  ALPHA  638-3781
+2001-09-11 05:59:02 Arch [1666850] A  ALPHA  3196
+2001-09-11 05:59:02 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178754. 
+2001-09-11 05:59:02 Arch [0034111] D  ALPHA  ACR 10-010911-4599 Major SPRINT CORPORATION 800-471-2290-2 T.O.S.S. Tier1 Sys42172 \ODSL3: 042172 Problem -P Disk Path Down - Part Number=136698 - SEE NOT
+2001-09-11 05:59:03 Skytel [002394910] D ST NUM  0-312-456-4284 U    
+2001-09-11 05:59:05 Skytel {0470360} 1 2400 Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS] (11..
+2001-09-11 05:59:05 Skytel {1092655} 3 2400 002238    
+2001-09-11 05:59:06 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6888
+2001-09-11 05:59:06 Arch [0000101] B  ALPHA  MSN 007 hello Message from NOC PCB.
+2001-09-11 05:59:07 Skytel {0143279} 3 1200 202-685-7650   
+2001-09-11 05:59:13 Metrocall [1064388] B  ALPHA  LCO 2738/2732  -007 CL 2759/780/788-004 2752/2716/2678/2655 2623/2591/2560/2530 HO 7950/015/050-011 HU 8170/770/560-017 NG2409/2680/003+017 3153/3120/3050/2960 965/010/040/055/065 LGO 23925/4100-0300 PL v4390/f4320 +00
+2001-09-11 05:59:15 Metrocall [1064388] B  ALPHA  7 EC _3300/_3150+0150 PAm45600+000
+2001-09-11 05:59:23 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|wb0300ux04|CR: 143962 Priority: 3 Assigned to: Summary:: CPU warning or critical alert 
+2001-09-11 05:59:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9811
+2001-09-11 05:59:28 Arch [0764510] D  ALPHA  (29)aolnmc@vaipd05 (|@ ERROR: NMC data files missing from sea-tcm-01 
+2001-09-11 05:59:31 Metrocall [1924808] C  ALPHA  PRT-1, P6 missed 12 page(s) in a row, The pages were delivered 03:01:07
+2001-09-11 05:59:31 Metrocall [002180115] A  ALPHA  RMC ICU#4 Moore  ABG's  PH 7.43  PO2 164  PCO2 37  HCO3 25  TCO2 26  BE 1.4  SAO2 100%
+2001-09-11 05:59:31 Metrocall [1064387] A  ALPHA  GB 6155/6162+000 CT_3650/7
+2001-09-11 05:59:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3459
+2001-09-11 05:59:31 Metrocall [0533195] C  ALPHA  62-PLEASE CALL: 661661
+2001-09-11 05:59:31 Skytel [002786946] A SH/TONE 451-1012
+2001-09-11 05:59:33 Metrocall [1064387] A  ALPHA  73/962 +000 KC_4835/5130/510+000 SB _787/_761/745+001 SE 2095/2117/244-010 CC _889/917/929 +000 OJ 8025/8250/835+065 YX 56900/57150 +0000 CR 19820/19970 +0000 DX 11500/11550  +026 EJ 10919/10806  +000  RK 95150/95090  +000
+2001-09-11 05:59:36 Skytel [005384638] D  ALPHA  oracle@hqfas14.desc.dla.mil|Errors found in routine alert file checkup of fest on hqfas14 at 09/11/01 06:00:00. Check /u001/app/oracle/admin/scripts/dba/data/monAlertLogErrors.fest.ERROR_LOG.110901_060000 for error message.|****************
+2001-09-11 05:59:36 Skytel [003591987] A  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS] (8
+2001-09-11 05:59:36 Skytel [0000060] D  ALPHA  ADHOC FLIGHT 1583 SLT-GFK IS SCHEDULED TO DEPART AT 10:45Z ON A/C187 AT GATE 121.-hub dispatch
+2001-09-11 05:59:38 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178761. 
+2001-09-11 05:59:38 Skytel [005048779] C  ALPHA  esldb@us.ibm.com|ExecFYI|<HBTN> BI=Y <Still not pushing content, MS  tech team lead on call  
+2001-09-11 05:59:40 Skytel [004593755] C SH/TONE 445-6579
+2001-09-11 05:59:42 Skytel [005436525] D  ALPHA  Test Message #88-IX_T0212
+2001-09-11 05:59:42 Skytel [005132640] A  ALPHA  19) esldb@us.ibm.com|ExecFYI|<HBTN> BI=Y <Still not pushing content, MS  tech team lead on call  
+2001-09-11 05:59:42 Skytel [004524770] A  ALPHA  spr-Heatbath-SpringfieldMA-01: CPE Up at 00:58:59 on 9/11
+2001-09-11 05:59:42 Skytel [005187817] C SH/TONE 1 (64   
+2001-09-11 05:59:42 Skytel [005112809] C  ALPHA  04:56CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240416: Uncorrectable write error
+2001-09-11 05:59:42 Skytel [005197679] D  ALPHA  ns.mr.net is Up 4:58 AM, 9/11/01 (18
+2001-09-11 05:59:43 Arch [0935412] B  ALPHA  "Sabin, Brian, L|FW: Instant Data: FACTAPP Report|> ---------- > From: Loan Technology Reports > Sent: Tuesday, September 11, 2001 4:58:25 AM > To: Cargill, Charles, LPRD (x); Price, Jason, LPRD (x); 
+2001-09-11 05:59:43 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|nbrando|CR: 143963 Priority: 3 Assigned to: Summary:: CPU warning or critical alert 
+2001-09-11 05:59:44 Skytel [003076470] B  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS] (48
+2001-09-11 05:59:44 Skytel [007578751] D ST NUM  0-800-372-2937 
+2001-09-11 05:59:44 Skytel [005122943] D ST NUM  800-848-2872-35
+2001-09-11 05:59:48 Skytel [005178128] A ST NUM  0-800-626-1263 
+2001-09-11 05:59:48 Skytel [004394268] D SH/TONE 52975   
+2001-09-11 05:59:48 Skytel [005052161] A SH/TONE 7087    
+2001-09-11 05:59:48 Skytel [004685840] A SH/TONE 434-3459
+2001-09-11 05:59:48 Skytel [007040275] A  ALPHA  esldb@us.ibm.com|ExecFYI|<HBTN> BI=Y <Still not pushing content, MS  tech team lead on call  
+2001-09-11 05:59:50 Skytel [007554732] D  ALPHA  esldb@us.ibm.com|ExecFYI|<HBTN> BI=Y <Still not pushing content, MS  tech team lead on call  
+2001-09-11 05:59:50 Skytel [003436448] A SH/TONE 3992    
+2001-09-11 05:59:50 Skytel [002376872] C  ALPHA  nms@svcanms.conxion.com|Sep11-02:59|All RED alarms have cleared  
+2001-09-11 05:59:50 Skytel [002971940] B  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS] (1
+2001-09-11 05:59:50 Skytel [005414063] D ST NUM  634-718-0056 (85    
+2001-09-11 05:59:50 Skytel [007006252] D SH/TONE 134     
+2001-09-11 05:59:51 Arch [0320272] A  ALPHA  PATROLpatrol - hrnais01.NSQUEUE_PNS-NSQUEUE_PNS-USNS ALARM/ALARM 30<=140.000000<=400.Critical
+2001-09-11 05:59:52 Metrocall [0300391] B  ALPHA  _01Z00_02A)_1B"n6_1A8_1C3_09Quotes_1A9_1B&a _1C1 _1C1The work goes on, the cause endures, the hope still lives and the dreams shall never die. --Edward Kennedy.  _04
+2001-09-11 05:59:52 Metrocall [1064389] B  ALPHA  O_1432/1340+000 C_2142/2213/261+001 W 2710/2801/913+000 S 4651/4710/763+00
+2001-09-11 05:59:52 Skytel [005180473] C SH/TONE 63      
+2001-09-11 05:59:53 Skytel [007555918] D  ALPHA  esldb@us.ibm.com|ExecFYI|<HBTN> BI=Y <Still not pushing content, MS  tech team lead on call  
+2001-09-11 05:59:53 Skytel [005101647] D  ALPHA  esldb@us.ibm.com|ExecFYI|<HBTN> BI=Y <Still not pushing content, MS  tech team lead on call  
+2001-09-11 05:59:53 Skytel [004590924] D SH/TONE 4444 (1 
+2001-09-11 05:59:54 Metrocall [1064389] B  ALPHA  2 SM1665/1642/180+000 BO1620/1625/153+000 GI 20515/20625+0000 LB 30780/29960+0000 LC  7230/7427  +000 FC  9140/9077  +000 LH  6042/5655  +000 PB  8417/8420  +152
+2001-09-11 05:59:58 Metrocall [0532097] A  ALPHA  PLEASE CHECK VOICE MAILBOX...4020333
+2001-09-11 05:59:58 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2067
+2001-09-11 05:59:58 Metrocall [0813304] C  ALPHA  Frm: MSN Txt: Hotmail bethann_gallagher@excite.com:A Hallmark E-Card from bethann
+2001-09-11 05:59:58 Metrocall [002526213] B  ALPHA  Frm: MSN Txt: NFL*DEN:31NYG:20*F** Merrill L
+2001-09-11 05:59:58 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2067
+2001-09-11 05:59:58 Metrocall [1399095] B  ALPHA  Frm: risman@firstusa.com Sub: CmsBT.ksh: Tue Sep 11 06:00:15 EDT 2001 Txt: Loaded CMSBT_TEMP: 233
+2001-09-11 05:59:58 Metrocall [2020024] C  ALPHA  01:-*-*-*-*-*-*-*-*.   SPORTS (c)2000.  By Joshua Levine.-*-*-*-*-*-*-*-*-*-*.Al
+2001-09-11 05:59:59 Metrocall [002526213] B  ALPHA  ynch - Be Bullish
+2001-09-11 05:59:59 Metrocall [2020024] C  ALPHA  l material is for.information purposes.only.
+2001-09-11 05:59:59 Metrocall [2020025] C  ALPHA  02:***Attention***   We are pleased to      introduce our       newest product:        The Motorola     Adv)...............................................................................................................................................
+2001-09-11 05:59:59 Skytel [002396156] D SH/TONE 4359    

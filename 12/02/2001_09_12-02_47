@@ -1,0 +1,91 @@
+2001-09-12 02:47:00 Metrocall [1923558] B  ALPHA  Frm: SMTPPAGE@gulfaero.com Sub: SILO Txt: SUBPOOL STANDARD, 79 SCRATCH VOLUMES REMAINING 09/12/01 02:47:04
+2001-09-12 02:47:00 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Error reading connection information for Ivr Tcp ports.
+2001-09-12 02:47:02 Metrocall [0477984] A  ALPHA  Job # 621 PROBUSINESS/REAR DOOR LS: STD    Rdy: 2359 Exdl: 0259 P/U:PROBUSINESS 4125 HOPYWARD RD ACCT PAY PLEASANTON D/L:NCM OAK 7801 OAKPORT ST OAKLAND Wt:    0 Caller: SCHED JCode: PRESCH 185 Ref: PU @ MIDNIGHT
+2001-09-12 02:47:02 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4706
+2001-09-12 02:47:06 Skytel {1092655} 3 2400 002654    
+2001-09-12 02:47:10 Arch [0000101] B  ALPHA  MSN 095 hello Message from NOC PCB.
+2001-09-12 02:47:10 Metrocall [1064385] A  ALPHA  JY  8317/8385  +042 EC  9067/9047 +0067 BP 14526/14300 +000 SF  6005/6010  +070 CD  6388/6380  -010 AD  5169/5152  +031 DM  4636/4626  +034 FES 9717/758/760/50 FDX 4270/4314  -416 PTB 9040/8940  +003 FGBS10436 FYB 13897 BDL 10903/10861+013 BDM 10859+0
+2001-09-12 02:47:12 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34
+2001-09-12 02:47:12 Metrocall [1064385] A  ALPHA  29
+2001-09-12 02:47:12 Skytel {1681237} 1 1200 Dalnmx25.na.xom.com/S/ExxonMobil@exxonmobil.com|ServerWatch Notification - Serve
+2001-09-12 02:47:14 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-12 02:47:14 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.164.32.30 CABWGP01 Burlingame, CA is DOWN at 01:58:16 
+2001-09-12 02:47:14 Arch [0911005] D  ALPHA  (6)"WhatsUp" <jonat|10.160.48.21 WABWGP02 933 Third Street is DOWN at 01:58:16 
+2001-09-12 02:47:14 Arch [1153676] D  ALPHA  (3)"WhatsUp" <jonat|10.164.32.30 CABWGP01 Burlingame, CA is DOWN at 01:58:16 
+2001-09-12 02:47:14 Arch [1123473] A  ALPHA  (28)35:ABS:
+2001-09-12 02:47:14 Arch [1425204] B  ALPHA  (18)17:ABS:
+2001-09-12 02:47:14 Arch [1213631] D  ALPHA  18:ABS:
+2001-09-12 02:47:14 Arch [0624739] A  ALPHA  (18)17:ABS:
+2001-09-12 02:47:14 Arch [1302832] A  ALPHA  (6)"WhatsUp" <jonat|10.160.48.21 WABWGP02 933 Third Street is DOWN at 01:58:16 
+2001-09-12 02:47:15 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-12 02:47:15 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.97.121.30 KSBWGP01 BWG Server Wichita, Kansas is DOWN at 01:58:16 
+2001-09-12 02:47:15 Arch [1153676] D  ALPHA  (4)"WhatsUp" <jonat|10.165.88.21 CABWGP02 is DOWN at 01:58:16 
+2001-09-12 02:47:17 Arch [0987275] C  ALPHA  s0191: 09/11 15:14:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:14:21
+2001-09-12 02:47:17 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.160.48.21 WABWGP02 933 Third Street is DOWN at 01:58:16 
+2001-09-12 02:47:17 Arch [1153676] D  ALPHA  (5)"WhatsUp" <jonat|10.129.233.21 FLBWGP01 is DOWN at 01:58:16 
+2001-09-12 02:47:19 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.129.233.21 FLBWGP01 is DOWN at 01:58:16 
+2001-09-12 02:47:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1059
+2001-09-12 02:47:21 Arch [0911037] D  ALPHA  :The Problem with ID 00330734 Severity 2 Description  mopf21.pitts.bayer.com- Node Down. has not been resolved.It has been escalated to level 1 on 09/11/2001 at 17:22:35.
+2001-09-12 02:47:27 Arch [0908699] C  ALPHA  F2 APP Ocean finished 2:44
+2001-09-12 02:47:28 Metrocall [1865024] A  ALPHA  Frm: SMTPPAGE@gulfaero.com Sub: SILO Txt: SUBPOOL STANDARD, 79 SCRATCH VOLUMES REMAINING 09/12/01 02:47:04
+2001-09-12 02:47:28 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3315
+2001-09-12 02:47:28 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3315
+2001-09-12 02:47:30 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192874. 
+2001-09-12 02:47:30 Arch [0987275] C  ALPHA  sb3: INFO0021 - 2:45PM - POSI batch has not arrived(160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:15
+2001-09-12 02:47:32 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-12 02:47:32 Skytel [005240334] D SH/TONE 7866    
+2001-09-12 02:47:32 Skytel [005062410] C  ALPHA  owens@mdsiv3.jpl.nasa.gov||watch BOGUS 0 0 0 0  
+2001-09-12 02:47:32 Skytel [005543817] C SH/TONE 727-6928
+2001-09-12 02:47:32 Skytel [007559566] D ST NUM  809-885-9024   
+2001-09-12 02:47:34 Arch [0911005] D  ALPHA  (7)"WhatsUp" <jonat|10.164.152.21 AZBWGP07 is DOWN at 01:58:16 
+2001-09-12 02:47:34 Arch [0545165] D  ALPHA  (19)49:ABS:
+2001-09-12 02:47:34 Arch [0282461] D  ALPHA  |help me moans! |Monie, AFC is bombed.. i am covered with debris ..underground..only my one hand is free to type... aaah... jordan hall also bombed...aaaah
+2001-09-12 02:47:34 Arch [1302832] A  ALPHA  (7)"WhatsUp" <jonat|10.165.33.21 WABWGP01 13241 NE 20th Street is DOWN at 01:58:16 
+2001-09-12 02:47:34 Arch [1373829] B  ALPHA  (21)WhatsUp@mail.spr|10.130.174.41 GAATLDAPP01 is DOWN at 01:58:16 
+2001-09-12 02:47:34 Arch [0510133] B  ALPHA  (19)18:ABS:
+2001-09-12 02:47:34 Arch [0477145] C  ALPHA  (7)23:ABS:
+2001-09-12 02:47:34 Arch [1618797] D  ALPHA  18:
+2001-09-12 02:47:34 Arch [0625513] C  ALPHA  (22)15:ABS:
+2001-09-12 02:47:34 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.165.88.21 CABWGP02 is DOWN at 01:58:16 
+2001-09-12 02:47:35 Skytel [005001895] B  ALPHA  [sps/176] 200 sps-apps1.cps.intel.com relay-ssl 0.474 CSFTrainingApplication is okay (/csftraining/healthcheck.asp) 3:45:28
+2001-09-12 02:47:35 Skytel [002376872] C  ALPHA  nms@svcanms.conxion.com|Sep11-23:47|There are 2 active alarms including server:iexwdevdb1:uptime Error retrieving uptime.  Possibly down  
+2001-09-12 02:47:35 Skytel [003457197] D SH/TONE 6559    
+2001-09-12 02:47:36 Arch [0282461] D  ALPHA  !|156  
+2001-09-12 02:47:36 Arch [0911005] D  ALPHA  (8)"WhatsUp" <jonat|10.165.33.21 WABWGP01 13241 NE 20th Street is DOWN at 01:58:16 
+2001-09-12 02:47:37 Skytel [003329328] A  ALPHA  Internet Traffic Slows, Web Sites Are Crowded Following Attacks[DJ NEWS] (59
+2001-09-12 02:47:37 Skytel [007469753] C SH/TONE 6305    
+2001-09-12 02:47:37 Skytel [002868925] D  ALPHA  Internet Traffic Slows, Web Sites Are Crowded Following Attacks[DJ NEWS]
+2001-09-12 02:47:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:47:39 Skytel [005258313] C  ALPHA  SDAL320TERM Server 172.31.33.68 UP at 01:34:07
+2001-09-12 02:47:40 Metrocall [002534882] A  ALPHA  PM197827 Sev: 2 Grp: pya prod svcs Loc: headquarters Name: tivoli Ph: 866-479-2873 Descr: pts1cto4
+2001-09-12 02:47:41 Skytel [005390424] C  ALPHA  3284 TELECOMET INC       
+2001-09-12 02:47:41 Skytel [004592090] C  ALPHA  SEA-BDC-WINS-1:Device Inaccessible
+2001-09-12 02:47:42 Metrocall [1466337] A  ALPHA  09/12@01:25:56 DALNT02:The session setup from the computer DALVM1 failed to authenticate. The name of the account referenced in the security database is DALVM1$. The following error occurred: (null)
+2001-09-12 02:47:42 Metrocall [1111466] C  ALPHA  09/12@01:25:56 DALNT02:The session setup from the computer DALVM1 failed to authenticate. The name of the account referenced in the security database is DALVM1$. The following error occurred: (null)
+2001-09-12 02:47:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #48-IX_T4208
+2001-09-12 02:47:43 Skytel [005176808] C SH/TONE 537-7441
+2001-09-12 02:47:45 Skytel [005131388] D  ALPHA  If you were just here come back we are up.  Try knocking on the door.
+2001-09-12 02:47:45 Skytel [003258865] A SH/TONE 335-7356
+2001-09-12 02:47:45 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-12 02:47:50 Skytel [004390436] B SH/TONE 17591   
+2001-09-12 02:47:50 Skytel [005098144] A  ALPHA  atsat@hotmail.com|Ideal New Accessory for Your Desktop.|   <p>  If you enjoy using Post-It notes and cannot possibly live without them, you must consider purchasing the DesktopSticker!  </p><p>  It has many advantages over Post-It notes. Ot
+2001-09-12 02:47:50 Skytel [002779950] D ST NUM  410-669-0646   
+2001-09-12 02:47:51 Arch [1367512] C  ALPHA  (19)15:ABS:
+2001-09-12 02:47:51 Arch [0911134] D  ALPHA   equity71 SYBASE: check_db(PDS1_EQCSWLN) MAYBE OPEN TRANSACTION in syslogshold tempdb|75 - PDS1_EQCSWLN @02:46 09/12/01 
+2001-09-12 02:47:51 Arch [1302832] A  ALPHA  (8)"WhatsUp" <jonat|10.164.152.21 AZBWGP07 is DOWN at 01:58:16 
+2001-09-12 02:47:51 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-12 02:47:51 Arch [1373829] B  ALPHA  (22)WhatsUp@mail.spr|10.130.174.42 GAATLDAPP02 is DOWN at 01:58:16 
+2001-09-12 02:47:51 Arch [0485957] B  ALPHA  (20)WhatsUp@mail.spr|10.146.129.22 TXIVGRAPP02 is DOWN at 01:58:16 
+2001-09-12 02:47:53 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-12 02:47:53 Arch [1373829] B  ALPHA  (23)WhatsUp@mail.spr|10.130.174.44 GAATLDAPP04 is DOWN at 01:58:16 
+2001-09-12 02:47:54 Skytel [005132482] A ST NUM  214-351-6401   
+2001-09-12 02:47:54 Skytel [003206474] C SH/TONE 7220    
+2001-09-12 02:47:55 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-12 02:47:55 Arch [1373829] B  ALPHA  (24)WhatsUp@mail.spr|10.130.174.36 GAATLDMISC01 is DOWN at 01:58:16 
+2001-09-12 02:47:56 Skytel [005311838] D ST NUM  900-225-9501 (39    
+2001-09-12 02:47:57 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-12 02:47:57 Arch [1373829] B  ALPHA  (25)WhatsUp@mail.spr|10.130.174.43 GAATLDAPP03 is DOWN at 01:58:16 
+2001-09-12 02:47:58 Skytel [005522924] D ST NUM  918-882-0489   
+2001-09-12 02:47:58 Skytel [005043559] B  ALPHA  150.ARENER MANUFACT     
+2001-09-12 02:47:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8137
+2001-09-12 02:47:59 Arch [1373829] B  ALPHA  (26)WhatsUp@mail.spr|10.130.174.40 GAATLDLOG02 is DOWN at 01:58:16 

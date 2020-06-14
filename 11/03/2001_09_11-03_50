@@ -1,0 +1,45 @@
+2001-09-11 03:50:01 Skytel [003947407] D  ALPHA  NIMS01:Device Accessible,Device Status:Ok
+2001-09-11 03:50:02 Metrocall [1401467] C  ALPHA  R INVESTIGATION.  JPB
+2001-09-11 03:50:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6759
+2001-09-11 03:50:05 Skytel [003457197] D SH/TONE 6559    
+2001-09-11 03:50:05 Skytel {1092655} 3 2400 002195    
+2001-09-11 03:50:10 Arch [0508023] B  ALPHA  Super-User <root|!BB - 0000000! hp3000.namins.com|[0000000] hp3000.namins.com.conn recovered Tue Sep 11 03:51:08 EDT 2001 Problem has been resolved after 6374 seconds Please see: http://bass.namins.com/bb/html/hp3000.namins.com.conn.html 
+2001-09-11 03:50:11 Metrocall [1421210] C  ALPHA  LAKEJob 383688/SCLAUSSON/I$LLOF has MSGW status.
+2001-09-11 03:50:11 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-11 03:50:13 Skytel {1078919} 1 1200 GE 39.87 +0.21
+2001-09-11 03:50:18 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177353. 
+2001-09-11 03:50:18 Metrocall [1421641] C  ALPHA  Check Point 3 not reached on time.  After PBS0010L
+2001-09-11 03:50:18 Metrocall [1064381] D  ALPHA  GAZPROM SEES 20 PCT FOREIGN LIMIT MET NEXT YEAR
+2001-09-11 03:50:25 Arch [1050542] D  ALPHA  Server mp240-unet01 UP at 00:48:38
+2001-09-11 03:50:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9682
+2001-09-11 03:50:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3330
+2001-09-11 03:50:31 Skytel [005081097] C  ALPHA  6527894@archwireless.net||ada ak itoy balay samit ko  
+2001-09-11 03:50:31 Skytel [005226372] B SH/TONE 58539   
+2001-09-11 03:50:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 00:49:44 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 03:50:33 Skytel [002401821] D  ALPHA  206.122.40.73 VOL,FMO139,NAME,NWCBS.RB9MA.MRBSX011 ussa11.SSMC 
+2001-09-11 03:50:33 Skytel [004693143] B SH/TONE 123     
+2001-09-11 03:50:33 Skytel [005108501] B  ALPHA  WSGC 0.00 UNCH CPWM 21.98 -0.22 BBA 2.98 -0.09 BIKE 2.94 -0.01 FINL 9.41 -0.09 FEET 0.00 UNCH FTS 36.65 -1.11 BKST 13.45 -0.30 BBBY 24.35 -1.37 MWHS 0.00 UNCH NKE 48.65 +0.14 GBOT 0.00 UNCH GNCI 0.00 UNCH TNFI 0.00 UNCH GTBX 0.00 UNCH (28
+2001-09-11 03:50:36 Skytel [004754611] A SH/TONE 5225    
+2001-09-11 03:50:36 Skytel [007513010] A  ALPHA  Y! ||Fr: no-reply@mail.southwest.com *southwest.com Weekly Internet Specials Sep
+2001-09-11 03:50:36 Skytel [002398398] D  ALPHA  netserver@networktwo.net|Network Operations Alert|<Open:   Tuesday, Sep 11 2001 07:49:41 GMT>  On Dial Backup  -  Node: 469.5.4   Location: Titus   City: Sacramemto, CA  
+2001-09-11 03:50:36 Skytel [005228862] D SH/TONE 2002    
+2001-09-11 03:50:38 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 47.28 13.64 9.85 Tue Sep 11 00:51:00 MST 2001 
+2001-09-11 03:50:38 Skytel [004403151] D  ALPHA  1) MU 32.18 -0.57 IBM 96.45 -0.14
+2001-09-11 03:50:38 Skytel [005525323] C  ALPHA  B
+2001-09-11 03:50:38 Skytel [005127498] C ST NUM  918-5019-42    
+2001-09-11 03:50:39 Metrocall [1707375] D  ALPHA  Frm: 'aolnews@aol.com Sub: syrian dissidents to face security court -lawyer Txt: Syrian dissidents to face securi
+2001-09-11 03:50:39 Metrocall [1423721] C  ALPHA  Frm: netiq@tisi.com Sub: TISIEXCHG01 : Overall CPU Overloaded Txt: Overall CPU Overloaded
+2001-09-11 03:50:39 Metrocall [002118707] A  ALPHA  Frm: netiq@tisi.com 
+2001-09-11 03:50:39 Metrocall [1560616] C  ALPHA  Frm: netiq@tisi.com Sub: TISIEXCHG01 : Overall CPU Overloaded Txt: Overall CPU Overloaded
+2001-09-11 03:50:40 Skytel [005429207] B  ALPHA  AMD 11.88 +0.38 INTC 26.21 +0.32 KLAC 43.86 -0.46 PFE 38.02 +1.02 (44
+2001-09-11 03:50:40 Skytel [003945559] B ST NUM  8683241846
+2001-09-11 03:50:41 Metrocall [002118707] A  ALPHA  Sub: TISIEXCHG01 : Overall CPU Overloaded Txt: Overall CPU Overloaded
+2001-09-11 03:50:42 Skytel [005436525] D  ALPHA  Test #59
+2001-09-11 03:50:42 Skytel [004524770] A  ALPHA  spf-AmericanConcrete-AuburnME-24: CPE Up at 00:57:15 on 9/11
+2001-09-11 03:50:42 Skytel [005112809] C  ALPHA  02:45CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240400: Uncorrectable write error
+2001-09-11 03:50:42 Skytel [005226605] D ST NUM  8683241846
+2001-09-11 03:50:42 Skytel [007589229] D SH/TONE 3366    
+2001-09-11 03:50:44 Skytel [007109749] B ST NUM  500-700-8115-4 
+2001-09-11 03:50:48 Skytel [005060255] D  ALPHA  From:pokibmxtelb01 Host:aixafs4 Event:errlogactive 
+2001-09-11 03:50:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1203..
+2001-09-11 03:50:57 Skytel [007553888] A  ALPHA  437-3300Busy Mechanicsburg 717-796

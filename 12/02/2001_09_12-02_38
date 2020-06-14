@@ -1,0 +1,146 @@
+2001-09-12 02:38:00 Arch [0723117] D  ALPHA  1/02:removed: advofdb1 IntDown 129.39.236.29 From: root@sbyadgw0 
+2001-09-12 02:38:00 Arch [0950818] A  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:38:00 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-12 02:38:00 Skytel [005094397] D  ALPHA  NTManage@bsmg.com|Message from NTManage|This Message is from NMS: Device Name: TBGI_ONE Address: 144.210.154.1 is Not Reachable Type: Novell Server Ping: REQ Timed Out NMS: Device in severe error state - all other checks aborted.  CAMPBELL 
+2001-09-12 02:38:00 Skytel [005070587] C  ALPHA  ETMS ESC Tkt#: 2001091200333  P1  Ckt ID: MIIXFL1W3E  Cust: WORLDCOM  I2  WG: OKTUL.LTCC  Sev: NETWKRISK  OutTm: 2:48  Date: 09/12/2001 06:37
+2001-09-12 02:38:01 Arch [0899386] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:38:01 Arch [0978734] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:38:01 Arch [1046041] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:38:01 Arch [0988031] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:38:01 Arch [0725743] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:38:02 Arch [0723117] D  ALPHA  2/02:AlertID: 13479/33187
+2001-09-12 02:38:02 Skytel [005062410] C  ALPHA  owens@mdsiv3.jpl.nasa.gov||watch BOGUS 0 0 0 0  
+2001-09-12 02:38:03 Skytel [005206684] D  ALPHA  Internet Traffic Slows, Web Sites Are Crowded Following Attacks[DJ NEWS]
+2001-09-12 02:38:04 Arch [0980928] A  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:37      
+2001-09-12 02:38:04 Arch [0294758] B  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:3
+2001-09-12 02:38:04 Arch [1044858] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:38:04 Arch [0967286] B  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:38:04 Arch [0975978] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:37      
+2001-09-12 02:38:04 Arch [0926767] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:37      
+2001-09-12 02:38:05 Skytel [007588515] A SH/TONE 3372    
+2001-09-12 02:38:05 Skytel [005001895] B  ALPHA  [sps/176] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/csftraining/healthcheck.asp) 3:40:28
+2001-09-12 02:38:06 Arch [0294758] B  ALPHA  5      
+2001-09-12 02:38:06 Skytel {1092655} 3 2400 002651    
+2001-09-12 02:38:08 Arch [1618070] B  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:38:08 Arch [0979240] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:38:08 Arch [0648251] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:37      
+2001-09-12 02:38:08 Arch [0976352] A  ALPHA  (24)hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:37      
+2001-09-12 02:38:08 Arch [1284371] A  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:37      
+2001-09-12 02:38:08 Arch [0284292] B  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent a
+2001-09-12 02:38:08 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4697
+2001-09-12 02:38:10 Arch [0284292] B  ALPHA  t 01:35      
+2001-09-12 02:38:12 Arch [0987275] C  ALPHA  sb3: INFO0002 - Trade Count Mismatch Ora=825 Rec=0 (160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:52
+2001-09-12 02:38:12 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192769. 
+2001-09-12 02:38:14 Arch [1607352] C  ALPHA  CLMBGABV BAKER VILLAGE DRYER/FUSE ALARMS//137 CUSTER/BAKER POLE MOUNT COMP//Clear//09/11/01//23:14
+2001-09-12 02:38:14 Arch [0987275] C  ALPHA  s0191: 09/11 15:56:49 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:56:49
+2001-09-12 02:38:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1050
+2001-09-12 02:38:21 Arch [0959910] B  ALPHA  7 hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:37      
+2001-09-12 02:38:27 Arch [0966655] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:36      
+2001-09-12 02:38:27 Arch [0980928] A  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:36      
+2001-09-12 02:38:27 Arch [0926807] B  ALPHA  hpmill..7..3..B..-..M..0. 2..........................................................................t 01:35      
+2001-09-12 02:38:27 Arch [1087586] A  ALPHA  60-NYSWPDR01 IS NOW UP. PLEASE CALL 877-463-5619 PIN#399139 TO CONFIRM WHEN ORACLE IS UP, THANKS RAJ.
+2001-09-12 02:38:27 Arch [0981201] A  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:38:27 Arch [0970437] B  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:36      
+2001-09-12 02:38:27 Arch [1660247] B  ALPHA  hpmillE.7..3..B..-..M..0. 2..........................................................................t 01:36      
+2001-09-12 02:38:27 Arch [0948401] A  ALPHA  An hourly status is required for priority one ticket 083326. The Assignee, HD Supervisor, and the HelpDesk have been notified
+2001-09-12 02:38:29 Arch [0948401] A  ALPHA  .
+2001-09-12 02:38:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3306
+2001-09-12 02:38:30 Metrocall [1064381] D  ALPHA  SAUDI, KUWAIT, IRAQ CONTINUE NORMAL OIL EXPORTS TO U.S. AFTER  ATTACKS-INDUSTRY
+2001-09-12 02:38:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQE....................
+2001-09-12 02:38:31 Arch [0987275] C  ALPHA  s0191: 09/11 16:02:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 16:02:48
+2001-09-12 02:38:31 Arch [0911134] D  ALPHA   equity71 SYBASE: check_db(PDS1_EQCSWLN) MAYBE OPEN TRANSACTION in syslogshold tempdb|66 - PDS1_EQCSWLN @02:37 09/12/01 
+2001-09-12 02:38:32 Skytel [005384206] D  ALPHA  daily@astrocenter.com|www.astrocenter.com: Your Daily Horoscope|*********************Daily Horoscope Sponsor********************* Romance and excitement are on the horizon when you book a Royal Caribbean cruise to the Caribbean, Mexico or t
+2001-09-12 02:38:34 Arch [1050266] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:38:34 Arch [1034476] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not s
+2001-09-12 02:38:34 Arch [1164259] A  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:38:34 Arch [0976989] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11a
+2001-09-12 02:38:34 Arch [0926767] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:38:34 Arch [0975978] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not s
+2001-09-12 02:38:34 Arch [1612321] A  ALPHA  "watchdog@t-bird|Watch Dog Alert at 9/11/2001 11:|Watch Dog Alert at 9/11/2001 11:38:36 PM Alert:C:\BGPRO_Logs\PROCESSSUBMIT\app.log File older than 300 seconds ... Scheduler not responding. Please check immediately ..... 
+2001-09-12 02:38:34 Arch [0435800] C  ALPHA  19:ABS:
+2001-09-12 02:38:36 Arch [1034476] D  ALPHA  tarte  Sent at 01:36      
+2001-09-12 02:38:36 Arch [1413900] D  ALPHA  (15)20:ABS:
+2001-09-12 02:38:36 Arch [0976989] D  ALPHA  m.  Not starte  Sent at 01:36      
+2001-09-12 02:38:36 Arch [0508261] B  ALPHA  (12)28:ABS:
+2001-09-12 02:38:36 Arch [0975978] C  ALPHA  tarte  Sent at 01:36      
+2001-09-12 02:38:36 Arch [1018336] A  ALPHA  (17)18:ABS:
+2001-09-12 02:38:36 Arch [0621172] B  ALPHA  (29)18:ABS:
+2001-09-12 02:38:36 Arch [1612321] A  ALPHA  "watchdog@t-bird|Watch Dog Alert at 9/11/2001 11:|Watch Dog Alert at 9/11/2001 11:38:52 PM Alert:C:\BGPRO_Logs\PROCESSSUBMIT\app.log File older than 300 seconds ... Scheduler not responding. Please check immediately ..... 
+2001-09-12 02:38:37 Skytel [005340592] A SH/TONE 3218    
+2001-09-12 02:38:37 Skytel [005134904] C  ALPHA  ETMS ESC Tkt#: 2001091200333  P1  Ckt ID: MIIXFL1W3E  Cust: WORLDCOM  I2  WG: OKTUL.LTCC  Sev: NETWKRISK  OutTm: 2:48  Date: 09/12/2001 06:37
+2001-09-12 02:38:37 Skytel [004592931] A ST NUM  011-1111-11    
+2001-09-12 02:38:38 Arch [1612321] A  ALPHA  "watchdog@t-bird|Watch Dog Alert at 9/11/2001 11:|Watch Dog Alert at 9/11/2001 11:39:05 PM Alert:C:\BGPRO_Logs\PROCESSSUBMIT\app.log File older than 300 seconds ... Scheduler not responding. Please check immediately ..... 
+2001-09-12 02:38:39 Skytel [002391240] C  ALPHA  From:pokibmxtelb01 Host:apeximd Event:essbasehung  Message:[:apeximd.pok.ibm.com:091201.020632:/tmp/essbasehung.apeximd.pok.ibm.com]
+2001-09-12 02:38:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:38:40 Arch [0163974] B  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:38:40 Arch [1284371] A  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not s
+2001-09-12 02:38:40 Arch [0948216] C  ALPHA  (1)hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:38:40 Arch [0929241] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:38:40 Arch [0000101] B  ALPHA  MSN 091 hello Message from NOC PCB.
+2001-09-12 02:38:40 Arch [0901224] C  ALPHA  HQ P1:GPG02 was rebooted and removed from mix:SAP SYS ADMIN;HCC/PSA;case#2597230; Resolved : No Further Updates 
+2001-09-12 02:38:40 Arch [0922216] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36 
+2001-09-12 02:38:41 Skytel [007591378] A SH/TONE 6773    
+2001-09-12 02:38:41 Skytel [007101275] C SH/TONE 281-9346
+2001-09-12 02:38:41 Skytel [007456988] D ST NUM  210-628-6986-411    
+2001-09-12 02:38:42 Arch [1284371] A  ALPHA  tarte  Sent at 01:36      
+2001-09-12 02:38:42 Arch [0987393] A  ALPHA  [01/02]:The Problem with ID 00330782 Severity 2 Description  FTP Monitor- FTP Server on moxagb.pitts.bayer.com - MONITOR RESULT= unable to connect to server has not been...
+2001-09-12 02:38:42 Arch [0922216] C  ALPHA       
+2001-09-12 02:38:43 Skytel [005178080] A SH/TONE 104     
+2001-09-12 02:38:43 Skytel [003777774] D SH/TONE 6805    
+2001-09-12 02:38:43 Skytel [007664109] D  ALPHA  removed: advofdb1 IntDown 129.39.236.29 From: root@sbyadgw0 AlertID: 13479/33188
+2001-09-12 02:38:43 Skytel [004167010] A  ALPHA  8886481009@pagenetmessage.net||goodnight   MIKE TORRES - ASI   (99
+2001-09-12 02:38:43 Skytel [003949541] B ST NUM  508-545-3160   
+2001-09-12 02:38:44 Arch [0987393] A  ALPHA  [02/02] resolved.It has been escalated to level 1 on 09/11/2001 at 21:04:57.
+2001-09-12 02:38:45 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2571..
+2001-09-12 02:38:47 Skytel [005257095] B ST NUM  799-111-1699-111    
+2001-09-12 02:38:47 Skytel [005124485] B SH/TONE 385-4683
+2001-09-12 02:38:49 Arch [0823355] C  ALPHA  HQ P1:GPG02 was rebooted and removed from mix:SAP SYS ADMIN;HCC/PSA;case#2597230; Resolved : No Further Updates 
+2001-09-12 02:38:49 Arch [1284332] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36 
+2001-09-12 02:38:49 Arch [0507846] B  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:38:49 Arch [1408029] D  ALPHA  (21)hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  N
+2001-09-12 02:38:49 Arch [0769433] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:38:49 Arch [0076486] B  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not s
+2001-09-12 02:38:49 Arch [0900159] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:38:49 Arch [0978734] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not s
+2001-09-12 02:38:49 Skytel [002385178] C  ALPHA  Monitor@eclaim.com|DSL Line is DOWN|DSL Line is DOWN  Mail generated by Servers Alive at Tuesday, September 11, 2001 11:41:55 PM  
+2001-09-12 02:38:50 Skytel [002374308] B ST NUM  462-408-6921   
+2001-09-12 02:38:51 Arch [1284332] D  ALPHA       
+2001-09-12 02:38:51 Arch [0968156] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:38:51 Arch [0987275] C  ALPHA  s0191: 09/11 11:42:59 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 1
+2001-09-12 02:38:51 Arch [1408029] D  ALPHA  ot starte  Sent at 01:36      
+2001-09-12 02:38:51 Arch [0967263] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:38      
+2001-09-12 02:38:51 Arch [0076486] B  ALPHA  tarte  Sent at 01:36      
+2001-09-12 02:38:51 Arch [1611003] C  ALPHA  (29)hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:38:51 Arch [0978734] D  ALPHA  tarte  Sent at 01:36      
+2001-09-12 02:38:51 Arch [0988031] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:38:51 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 
+2001-09-12 02:38:53 Arch [0987275] C  ALPHA  1 11:42:59
+2001-09-12 02:38:53 Arch [0950818] A  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:38:53 Arch [0284292] B  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Ite
+2001-09-12 02:38:53 Arch [1044858] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:38      
+2001-09-12 02:38:53 Arch [0725743] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am. 
+2001-09-12 02:38:53 Arch [1046041] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:38:53 Arch [0294758] B  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running 
+2001-09-12 02:38:53 Arch [1425048] C  ALPHA  : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192776. 
+2001-09-12 02:38:53 Arch [0477099] C  ALPHA  (13)25:ABS:
+2001-09-12 02:38:53 Arch [0506918] B  ALPHA  (4)18:ABS:
+2001-09-12 02:38:53 Arch [0921460] B  ALPHA  (26)18:ABS:
+2001-09-12 02:38:55 Arch [0284292] B  ALPHA  m" Baskets - running final data.  Sent at 01:38      
+2001-09-12 02:38:55 Arch [0855267] A  ALPHA  (28)18:ABS:
+2001-09-12 02:38:55 Arch [0725743] D  ALPHA   Not starte  Sent at 01:36      
+2001-09-12 02:38:55 Arch [0987275] C  ALPHA  s0191: 09/11 11:48:17 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:48:18
+2001-09-12 02:38:55 Arch [0294758] B  ALPHA  final data.  Sent at 01:38      
+2001-09-12 02:38:55 Arch [0861724] D  ALPHA  (3)18:ABS:
+2001-09-12 02:38:55 Arch [0619357] D  ALPHA  (1)18:ABS:
+2001-09-12 02:38:57 Arch [0648251] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:38:57 Arch [1044858] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not s
+2001-09-12 02:38:57 Arch [0935373] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:38      
+2001-09-12 02:38:57 Arch [0967263] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:38:57 Arch [1660247] B  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running 
+2001-09-12 02:38:57 Arch [0981201] A  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:38      
+2001-09-12 02:38:58 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4698
+2001-09-12 02:38:58 Skytel [003451501] D SH/TONE 409     
+2001-09-12 02:38:58 Skytel [007569517] D SH/TONE 239-2569
+2001-09-12 02:38:59 Arch [1044858] C  ALPHA  tarte  Sent at 01:36      
+2001-09-12 02:38:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8128
+2001-09-12 02:38:59 Arch [1660247] B  ALPHA  final data.  Sent at 01:38      

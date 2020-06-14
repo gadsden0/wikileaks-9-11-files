@@ -1,0 +1,74 @@
+2001-09-12 00:54:00 Metrocall [1544818] A  ALPHA  KP-CENTRAL "Server KP-CENTRAL/HSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail1.box. "
+2001-09-12 00:54:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4593
+2001-09-12 00:54:02 Skytel [004079880] C ST NUM  71015 (56 
+2001-09-12 00:54:02 Skytel [003587596] D SH/TONE 110 (39 
+2001-09-12 00:54:03 Skytel [005424407] B  ALPHA  STR21A (Stade, Germany) --> OHR21A (Ohrensen, Germany) is down. TOP-00:24EDT NO ETR. FS dispatched. -- From: SMT - 248.528.7000 (77
+2001-09-12 00:54:05 Skytel [002688552] C  ALPHA  STR21A (Stade, Germany) --> OHR21A (Ohrensen, Germany) is down. TOP-00:24EDT NO ETR. FS dispatched. -- From: SMT - 248.528.7000
+2001-09-12 00:54:06 Skytel {0570177} 3 1200 0500 
+2001-09-12 00:54:07 Arch [0976304] A  ALPHA  SYSID SIMX022 ENCOUNTERED ERROR W/ITEM  PROCESSING   COMPLETED NORMALLY    
+2001-09-12 00:54:12 Arch [0987275] C  ALPHA  s0191: 09/11 12:20:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:20:24
+2001-09-12 00:54:12 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191572. 
+2001-09-12 00:54:14 Arch [0987275] C  ALPHA  s0191: 09/11 12:28:34 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:28:34
+2001-09-12 00:54:16 Arch [0987275] C  ALPHA  s0191: 09/11 12:31:16 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:31:16
+2001-09-12 00:54:18 Arch [0987275] C  ALPHA  s0191: 09/11 12:36:48 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:36:48
+2001-09-12 00:54:19 Metrocall [0476085] B  ALPHA  Frm: Y! Txt: Fr: TBRC20010911@ombramarketing.com *A Plea on Behalf of the American Red Cross* Dona Mail
+2001-09-12 00:54:20 Arch [0987275] C  ALPHA  s0191: 09/11 12:44:46 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:44:47
+2001-09-12 00:54:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0946
+2001-09-12 00:54:23 Skytel {1037576} 3 1200 1-888-662-7632 
+2001-09-12 00:54:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3202
+2001-09-12 00:54:30 Metrocall [0848503] B  ALPHA  T1 Alert (206.55.0.189) is Down (00:56:20)
+2001-09-12 00:54:31 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-12 00:54:31 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3202
+2001-09-12 00:54:32 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 21:52:38 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 00:54:32 Skytel [005225860] B SH/TONE 125     
+2001-09-12 00:54:32 Skytel [004447111] B  ALPHA  CPQ 10.35 UNCH NSCP 0.00 UNCH CSCO 14.47 UNCH DJIA 9605.51 UNCH
+2001-09-12 00:54:33 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-12 00:54:33 Skytel [002822678] B  ALPHA  INTC 26.07 UNCH IFMX 0.00 UNCH SUNW 10.29 UNCH IBM 96.47 UNCH (19
+2001-09-12 00:54:33 Skytel [003045659] C SH/TONE 705-0581
+2001-09-12 00:54:35 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-12 00:54:35 Skytel [005001895] B  ALPHA  [sps/179] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/Ivep/healthcheck.asp) 2:53:07
+2001-09-12 00:54:35 Skytel [004584963] A ST NUM  0-415-505-2706 (3523
+2001-09-12 00:54:37 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-12 00:54:37 Skytel [007569723] C ST NUM  1-017-773-7743 
+2001-09-12 00:54:39 Arch [0163974] B  ALPHA  jlwindh 75925-321-DCSCHD-  6011 - Brookhaven MS. Scheduled outage has started.  Jimmie  Sent at 23:54      
+2001-09-12 00:54:39 Arch [0930870] B  ALPHA  jlwindh 75925-321-DCSCHD-  6011 - Brookhaven MS. Scheduled outage has started.  Jimmie  Sent at 23:54      
+2001-09-12 00:54:39 Arch [1227827] A  ALPHA  jlwind..7..2..3..,..S.D.............................................................................      
+2001-09-12 00:54:39 Arch [0978397] D  ALPHA  jlwindh 75925-321-DCSCHD-  6011 - Brookhaven MS. Scheduled outage has started.  Jimmie  Sent at 23:54      
+2001-09-12 00:54:39 Arch [0284292] B  ALPHA  jlwindh 7592..3..,..S.D.....1..-..........................................................................
+2001-09-12 00:54:39 Skytel [005132482] A ST NUM  214-351-6401   
+2001-09-12 00:54:39 Skytel [003441866] C ST NUM  207-433-0878-911    
+2001-09-12 00:54:40 Metrocall [002563060] B  ALPHA  333/ / 253105419/ 3404/ Baylor Institute For/ 3505 Gaston Ave/ Dallas/ Catherine Hernandez MM/ 214-841-0389/ pls update? updated status requested ss 10 loc 3rd floor // bttn bar not door 34 is not responding
+2001-09-12 00:54:40 Metrocall [002588950] B  ALPHA  333/ 8 hr/ 253024338/ 1791
+2001-09-12 00:54:40 Metrocall [1544820] B  ALPHA  KP-CENTRAL "Server KP-CENTRAL/HSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail1.box. "
+2001-09-12 00:54:41 Skytel [007591378] A SH/TONE 6773    
+2001-09-12 00:54:41 Skytel [002569042] A ST NUM  314-340-4956   
+2001-09-12 00:54:41 Skytel [005188309] B ST NUM  440-542-4357   
+2001-09-12 00:54:42 Arch [0000101] B  ALPHA  MSN 042 hello Message from NOC PCB.
+2001-09-12 00:54:42 Metrocall [002588950] B  ALPHA  / Norton Suburban Hosp/ 4001 Dutchmans Ln/ Louisville/ Sandy Wood Rn/ 502-893-1202/ pls update? update status requested MS 1k loc 2 East A /// Station is locking up when printing ou
+2001-09-12 00:54:43 Skytel [007494880] A SH/TONE 476-3161
+2001-09-12 00:54:43 Skytel [007579360] A SH/TONE 44      
+2001-09-12 00:54:43 Skytel [007094511] D  ALPHA  DR NATHAN MICKI LOS ROBLES ER FAST TRACK 805 370 4436 JULIA DETMER
+2001-09-12 00:54:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #45-IX_T1707
+2001-09-12 00:54:43 Skytel [003952871] B SH/TONE 411     
+2001-09-12 00:54:45 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2467..
+2001-09-12 00:54:45 Skytel [004449778] A ST NUM  580-980-0766-759911 
+2001-09-12 00:54:45 Skytel [007035262] D ST NUM  905-520-5570   
+2001-09-12 00:54:45 Skytel [007582970] C ST NUM  606-937-2083   
+2001-09-12 00:54:45 Skytel [007062136] C ST NUM  702-636-0542-823    
+2001-09-12 00:54:50 Skytel [005414063] D ST NUM  634-718-0056 (84    
+2001-09-12 00:54:52 Skytel [002743861] B SH/TONE 49514   
+2001-09-12 00:54:54 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-12 00:54:54 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191579. 
+2001-09-12 00:54:54 Skytel [002153679] D SH/TONE 4048    
+2001-09-12 00:54:55 Metrocall [1830606] D  ALPHA  emy - Processor (Monitor CPU %) is above 70%.
+2001-09-12 00:54:56 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-12 00:54:56 Arch [0930546] A  ALPHA  Alarm: 09:51:08PM  Boiler Network connect   Site 4 Bldg 7 Hot water supply temp is out of range.
+2001-09-12 00:54:56 Skytel [007660371] A SH/TONE 834-9626
+2001-09-12 00:54:56 Skytel [005331286] B SH/TONE 5839    
+2001-09-12 00:54:57 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-12 00:54:57 Arch [1666850] A  ALPHA  3196
+2001-09-12 00:54:58 Skytel [007519971] A  ALPHA  MTEL4   NOC-Interface NOT communicating. 0  of 2  connections active. 01/09/11 234659
+2001-09-12 00:54:58 Skytel [005003367] B  ALPHA  root@bur-faxsvr.genuity.com|bur-faxsvr.genuity.com - /bbn is 92% full| 
+2001-09-12 00:54:58 Skytel [005330530] A ST NUM  8685222010
+2001-09-12 00:54:59 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 00:54:59 Metrocall [1362298] C  ALPHA  Frm: Optivity@harbortech.com Sub: Operator Attention Txt: Operator Attention is needed. (Server: "OPTIVITY-NJ" Job: "SNMPc & HPOV:Diff" Device: "HP 1") Please insert overwritable media into the drive.

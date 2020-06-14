@@ -1,0 +1,119 @@
+2001-09-11 07:42:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2169
+2001-09-11 07:42:01 Metrocall [1005648] A  ALPHA  09/11/101  07:33:59A   TEMECULA TEMECULA ONLINE
+2001-09-11 07:42:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2169
+2001-09-11 07:42:01 Skytel [004079880] C ST NUM  71015 (20 
+2001-09-11 07:42:01 Skytel [005492612] B SH/TONE 916-3116
+2001-09-11 07:42:01 Skytel [005112331] C SH/TONE 703     
+2001-09-11 07:42:03 Arch [1611003] C  ALPHA  (25)tfkelly 47240--  45 minutes impacting. Site 1808 is due to a radio tower down. ETA in 45mins.  Sent at 06:41      
+2001-09-11 07:42:03 Arch [0930069] B  ALPHA  SHENEMAN (E-mail); JASON ROBERTSON (E-mail); JIM SOLSMA (E-mail); JOHN MCKEONE (E-mail); KEITH CULVER (E-mail); KURT KRUMWEIDE (E-mail); MICHEAL DAVIS (E-mail); PERRY BOURNE (E-mail); PERRY ...
+2001-09-11 07:42:03 Arch [1421779] A  ALPHA  (31)14:ABS: IONNOC DEMAND MAINT. 2041148 KC TRK
+2001-09-11 07:42:03 Arch [0922216] C  ALPHA  tfkelly 47240--  45 minutes impacting. Site 1808 is due to a radio tower down. ETA in 45mins.  Sent at 06:41      
+2001-09-11 07:42:03 Arch [1087655] B  ALPHA  FYI - Problem ID 02113785 Sev0 Has been created.
+2001-09-11 07:42:03 Arch [0978734] D  ALPHA  tfkelly 47240--  45 minutes impacting. Site 1808 is due to a radio tower down. ETA in 45mins.  Sent at 06:41      
+2001-09-11 07:42:03 Arch [1087654] B  ALPHA  FYI - Problem ID 02113785 Sev0 Has been created.
+2001-09-11 07:42:03 Arch [1008118] B  ALPHA  1-590-0000-Email User-1166957m--To:DSS_NT_ARS_Pri1 -- hpoed
+2001-09-11 07:42:03 Skytel [002391065] C  ALPHA  25-MUST CANCEL 9:30 INTERVIEW BECAUSE OF CONFLICT. PLS CALL 202-624-1971. THANK YOU. -ART PINE
+2001-09-11 07:42:03 Skytel [002378134] B ST NUM  632-815-9306   
+2001-09-11 07:42:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6991
+2001-09-11 07:42:05 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 07:42:05 Arch [1421779] A  ALPHA  GRP2 CICS 101-125 REMOTELY BLOCKED BY TELCO. OPENED TICKET WITH SWB. MJ/NOC/913-534-7201
+2001-09-11 07:42:05 Arch [0510613] B  ALPHA  (19)60:ABS: Tkt:4826970, Sev:2, Int Escl, EL:1, Queue:DXMAH4, Cust Name: HUNTER KEYSTONE PETERBILT
+2001-09-11 07:42:05 Arch [1008118] B  ALPHA  fem - System hpoedfem seems to be offline. Please Investigate.
+2001-09-11 07:42:05 Arch [1007213] D  ALPHA  (15)91:ABS: Tkt:5002600, Sev:2, Opened, Sname:GEE, CIS Id:403855883, Contact:SEAN.CUSTOMER.NE1 @ 8004455690 Note:CKT DOWN DLCI 60-150, REMOTE IN SCOTLAND// OK TO TEST//NO REC CHAN
+2001-09-11 07:42:05 Skytel [004751406] D SH/TONE 217     
+2001-09-11 07:42:06 Skytel {0143279} 3 1200 202-685-7650   
+2001-09-11 07:42:06 Skytel {0471791} 3 1200 8226 
+2001-09-11 07:42:07 Arch [1007213] D  ALPHA  GES/ / NO DMARC// NO DBU// NO ALARMS//
+2001-09-11 07:42:09 Arch [0926575] D  ALPHA  WILLIE WOULD LIKE TO KNOW WHERE ARE YOU AT SEP11/7:45
+2001-09-11 07:42:11 Arch [1439363] A  ALPHA  51: CYNTHIA - D&G CONTAINER 800-638-9754 * PLS CALL AFTER 8AM NEEDS TO RESCHEDULE DELIVERY TOMORROW
+2001-09-11 07:42:13 Arch [1066762] C  ALPHA  ALL CLEAR OF FIRE
+2001-09-11 07:42:13 Arch [0723725] D  ALPHA  ALL CLEAR OF FIRE
+2001-09-11 07:42:14 Arch [1600758] B  ALPHA  (1)51:ABS: Tkt:5002600, Sev:2, Routed, Sname:GEE, CIS Id:403855883, Contact:SEAN.CUSTOMER.NE1 @ 8004455690 Note:CKT DOWN DLCI 60-150, REMOTE IN SCOTLAND// OK TO TEST//NO REC CHANGES/ / NO DMARC// NO DBU// NO ALARMS//
+2001-09-11 07:42:15 Arch [1602767] D  ALPHA  (28)12:ABS: SSONOE Deferred Impairment Closure SPFD*BBH(Vector) unable to be resynced while doing overbooking changes on Stkt 35913 @7:09z. Deleted 2 NVCIDS that seized up.  Switch was resynced@08:13z & NVCIDS rebuilt. Teams2041203 Darrin SSONOE
+2001-09-11 07:42:15 Arch [0788556] D  ALPHA  12:ABS: SSONOE Deferred Impairment Closure SPFD*BBH(Vector) unable to be resynced while doing overbooking changes on Stkt 35913 @7:09z. Deleted 2 NVCIDS that seized up.  Switch was resynced@08:13z & NVCIDS rebuilt. Teams2041203 Darrin SSONOE
+2001-09-11 07:42:16 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179897.
+2001-09-11 07:42:16 Arch [0657620] B  ALPHA  1-590-0000-Email User-1166957m--To:DSS_NT_ARS_Pri1 -- hpoedfem - System hpoedfem seems to be offline. Please Investigate.
+2001-09-11 07:42:16 Metrocall [1693105] A  ALPHA   PHONE
+2001-09-11 07:42:18 Arch [1425048] C  ALPHA   
+2001-09-11 07:42:20 Arch [1622728] C  ALPHA  TEST PAGE 8884715557
+2001-09-11 07:42:21 Skytel {1483238} 3 1200 815-0181  
+2001-09-11 07:42:24 Arch [1025942] B  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 047002C8 from cluster 1082 to cluster 2028), status C3AE1818, extended status 20000000. MCA_TIMEOUT - A timeout has occurred 
+2001-09-11 07:42:24 Arch [1423779] A  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 047002C8 from cluster 1082 to cluster 2028), status C3AE1818, extended status 20000000. MCA_TIMEOUT - A timeout has occurred 
+2001-09-11 07:42:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9914
+2001-09-11 07:42:30 Arch [0861595] C  ALPHA  (4)12:ABS: SSONOE Deferred Impairment Closure SPFD*BBH(Vector) unable to be resynced while doing overbooking changes on Stkt 35913 @7:09z. Deleted 2 NVCIDS that seized up.  Switch was resynced@08:13z & NVCIDS rebuilt. Teams2041203 Darrin SSONOE
+2001-09-11 07:42:30 Arch [1090246] B  ALPHA  ROS Sales is currently unavailable. OCC Web Ops is investigating. No ETA. Remedy# 2305761 Tony/OCC    
+2001-09-11 07:42:30 Arch [0721627] C  ALPHA  11:ABS: SSONOE Deferred Impairment Closure SPFD*BBH(Vector) unable to be resynced while doing overbooking changes on Stkt 35913 @7:09z. Deleted 2 NVCIDS that seized up.  Switch was resynced@08:13z & NVCIDS rebuilt. Teams2041203 Darrin SSONOE
+2001-09-11 07:42:30 Arch [0867616] A  ALPHA  (11)12:ABS: SSONOE Deferred Impairment Closure SPFD*BBH(Vector) unable to be resynced while doing overbooking changes on Stkt 35913 @7:09z. Deleted 2 NVCIDS that seized up.  Switch was resynced@08:13z & NVCIDS rebuilt. Teams2041203 Darrin SSONOE
+2001-09-11 07:42:31 Skytel [002673805] D  ALPHA  JOSEPH.E.DIPIETRO@saic.com|FW: FE Warren DS10 Upgrade|  > ---------- > From:  Harrison, Jennifer G. > Sent:  Tuesday, September 11, 2001 7:32:25 AM > To:  HOLM, TOM A.; Hatton, Daniel K.; MOORE, JIM M.; Hagan, Daniel M.; > REED, CARL B.; Ar
+2001-09-11 07:42:31 Skytel [007604230] B SH/TONE 304     
+2001-09-11 07:42:31 Skytel [004386825] C SH/TONE 2229    
+2001-09-11 07:42:31 Skytel [004572807] B  ALPHA  Node GEISMEETING01 (3.184.164.13) is Down @ 07:38 09/11/01
+2001-09-11 07:42:33 Skytel [005328670] D  ALPHA  L4/P12001091100632/Broadwing/CASAC.SSO TO CASAC.TELTC/L3/10:08z/CASAC.SSO TO CASAC.TELTC/866-266-6720x2211/ Janet Love/ Tkt out to vrzn, pending p/u..2nd lvl to Mike Murphy.
+2001-09-11 07:42:33 Skytel [002851218] A  ALPHA  cr_apps@nextel.com||: TRIS/OVE   Tris East database is now available to users as of 7:42am  
+2001-09-11 07:42:33 Skytel [007575575] B  ALPHA  [MINOR] dijon: File-system "/biller/wnet/data/parser" is now 86% full.
+2001-09-11 07:42:35 Skytel [005247136] A ST NUM  904-276-6838 (70    
+2001-09-11 07:42:35 Skytel [004423072] A ST NUM  412-262-6287   
+2001-09-11 07:42:35 Skytel [003436448] A SH/TONE 3992    
+2001-09-11 07:42:35 Skytel [005107245] D ST NUM  9003725979
+2001-09-11 07:42:35 Skytel [004433830] B SH/TONE 450     
+2001-09-11 07:42:35 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb1 login content match error on step 2, http://192.168.67.181:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informat
+2001-09-11 07:42:35 Skytel [005385250] A SH/TONE 407-1951
+2001-09-11 07:42:35 Skytel [005236002] A SH/TONE 666     
+2001-09-11 07:42:37 Arch [0492587] C  ALPHA  STALL DNS54EEZ.DBF R       3000
+2001-09-11 07:42:37 Skytel [005050036] B  ALPHA  labrooks@fedex.com|G2|G2 LEFT AT 625 1-AMJ 4-AYY 2-AKE 1-SAA(DOCS)  
+2001-09-11 07:42:37 Skytel [004754611] A SH/TONE 5225    
+2001-09-11 07:42:37 Skytel [003279678] D SH/TONE 297-2387
+2001-09-11 07:42:37 Skytel [007529267] A  ALPHA  EBjerke@broadband.att.com|USA channel back up| Brett T605 replaced fitting, USA channel back to norm
+2001-09-11 07:42:37 Skytel [004414011] C ST NUM  504-4927 (53   
+2001-09-11 07:42:37 Skytel [0001461] B  ALPHA  GLOBEX   06:41     GEH  9660.5   2.5-   GEM    9631   2.5-   ESU  110150   575+   SPU  110140   570+   NDU  139000A 1950+   6JZ    8276B   67-   6EZ    8951A   29-   6SZ    5927A   13-   6BZ   14508    20-   6CZ    6397B    7+   
+2001-09-11 07:42:38 Skytel [007002816] A ST NUM  616-453-9473   
+2001-09-11 07:42:38 Skytel [004399809] A  ALPHA  1) root@blt-srv4.rose.hp.com||p:1-Web User - CLICK EYEGLASS ICON !!-648-5310-1609624r-Node pac3109gw1.ssr.hp.com is down!  
+2001-09-11 07:42:38 Skytel [005136846] D ST NUM  8683241870
+2001-09-11 07:42:38 Skytel [003248832] A  ALPHA  (marsha) (NOTIF) CUST Rpts: CICSAPPQ, GCS, PRI 2,TKT# 1375241 - M/F - CANNOT ACQUIRE CONNECTION CICSWM - OUTAGE @ 07:30 EST,NO  ETA, SITUATION LEADER =PAUL FRECHETTE
+2001-09-11 07:42:38 Skytel [004591436] D SH/TONE 237     
+2001-09-11 07:42:40 Skytel [1800019] A  ALPHA  GLOBEX   06:41     GEH  9660.5   2.5-   GEM    9631   2.5-   ESU  110150   575+   SPU  110140   570+   NDU  139000A 1950+   6JZ    8276B   67-   6EZ    8951A   29-   6SZ    5927A   13-   6BZ   14508    20-   6CZ    6397B    7+   
+2001-09-11 07:42:40 Skytel [002375000] C  ALPHA  [TAC: 214.841.6372] PER TAC -DCU1 SOUTHLAND PAYROLL PROCESS LATE DUE TO LONG RUNNING BATCH. NO ETA PROD/CNTRL WORKING ISSUE .ACSP97942  SEV2
+2001-09-11 07:42:40 Skytel [003924702] D SH/TONE 294-9431
+2001-09-11 07:42:40 Skytel [005447006] D ST NUM  841-352-6000   
+2001-09-11 07:42:41 Arch [0861629] D  ALPHA  (12)12:ABS: SSONOE Deferred Impairment Closure SPFD*BBH(Vector) unable to be resynced while doing overbooking changes on Stkt 35913 @7:09z. Deleted 2 NVCIDS that seized up.  Switch was resynced@08:13z & NVCIDS rebuilt. Teams2041203 Darrin SSONOE
+2001-09-11 07:42:41 Arch [0624854] B  ALPHA  (30)12:ABS: SSONOE Deferred Impairment Closure SPFD*BBH(Vector) unable to be resynced while doing overbooking changes on Stkt 35913 @7:09z. Deleted 2 NVCIDS that seized up.  Switch was resynced@08:13z & NVCIDS rebuilt. Teams2041203 Darrin SSONOE
+2001-09-11 07:42:41 Arch [1008221] D  ALPHA  11:ABS: SSONOE Deferred Impairment Closure SPFD*BBH(Vector) unable to be resynced while doing overbooking changes on Stkt 35913 @7:09z. Deleted 2 NVCIDS that seized up.  Switch was resynced@08:13z & NVCIDS rebuilt. Teams2041203 Darrin SSONOE
+2001-09-11 07:42:42 Skytel [004524770] A  ALPHA  spr-CoffeePause-AgawamNY-01: CPE Down at 01:47:23 on 9/11
+2001-09-11 07:42:42 Skytel [005485408] A SH/TONE 648-9448
+2001-09-11 07:42:42 Skytel [005436525] D  ALPHA  nMCI Test #71
+2001-09-11 07:42:42 Skytel [005352301] D ST NUM  703-460-3012-911    
+2001-09-11 07:42:42 Skytel [005491944] C SH/TONE 347-4449
+2001-09-11 07:42:42 Skytel [005052647] B ST NUM  714-692-1428 U 
+2001-09-11 07:42:42 Skytel [005043559] B  ALPHA  150.ARENER MANUFACT     
+2001-09-11 07:42:43 Metrocall [1005648] A  ALPHA  09/11/101  07:33:59A   TEMECULA TEMECULA ONLINE
+2001-09-11 07:42:43 Metrocall [1558949] B  ALPHA  Frm: MSN Txt: Hotmail Steve Phillips:Congratulations On Your New MasterCard
+2001-09-11 07:42:43 Metrocall [1384400] A  ALPHA  Please let me know how your dad's test went yester
+2001-09-11 07:42:44 Metrocall [1384400] A  ALPHA  day.
+2001-09-11 07:42:44 Metrocall [1105249] A  ALPHA  Frm: Newton.Kulp@ci.orlando.fl.us Sub: Re: Updat Txt: Concerning the CA92* programs, I talked to Sharon yesterday afternoon briefly and told her to call Doug C. He found the "problem" and can explain it better than I can. The CA92* prog
+2001-09-11 07:42:44 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-11 07:42:44 Skytel [007510266] C  ALPHA  VOICEMAIL
+2001-09-11 07:42:44 Skytel [005479807] D ST NUM  988-738-7438   
+2001-09-11 07:42:46 Metrocall [1105249] A  ALPHA  rams
+2001-09-11 07:42:46 Skytel [003477897] C SH/TONE 889-4354
+2001-09-11 07:42:48 Arch [0931213] D  ALPHA  RING IN RIGHT NOW PLEASE TO MORNING UPDATE.  Scott needs to speak with you ASAP. lo []
+2001-09-11 07:42:48 Metrocall [1105249] A  ALPHA  Frm: OrlMail1/Orlando@ci.orlando.fl.us Sub: p2:Re: Updat Txt: currently they do not allow input on the subfile screens other than the reposition to field. We are installing this 'fix' so that all the programs that use the template have the
+2001-09-11 07:42:48 Skytel [002557087] D SH/TONE 941-9573
+2001-09-11 07:42:50 Arch [1223415] B  ALPHA  (4)12:ABS: SSONOE Deferred Impairment Closure SPFD*BBH(Vector) unable to be resynced while doing overbooking changes on Stkt 35913 @7:09z. Deleted 2 NVCIDS that seized up.  Switch was resynced@08:13z & NVCIDS rebuilt. Teams2041
+2001-09-11 07:42:50 Arch [1204190] D  ALPHA  12:ABS: SSONOE Deferred Impairment Closure SPFD*BBH(Vector) unable to be resynced while doing overbooking changes on Stkt 35913 @7:09z. Deleted 2 NVCIDS that seized up.  Switch was resynced@08:13z & NVCIDS rebuilt. Teams2041203
+2001-09-11 07:42:50 Skytel [005242798] D SH/TONE 249     
+2001-09-11 07:42:52 Arch [1223415] B  ALPHA  203 Darrin SSONOE
+2001-09-11 07:42:52 Arch [0722722] A  ALPHA  12:ABS: SSONOE Deferred Impairment Closure SPFD*BBH(Vector) unable to be resynced while doing overbooking changes on Stkt 35913 @7:09z. Deleted 2 NVCIDS that seized up.  Switch was resynced@08:13z & NVCIDS rebuilt. Teams2041
+2001-09-11 07:42:52 Arch [1204190] D  ALPHA   Darrin SSONOE
+2001-09-11 07:42:52 Arch [0950638] D  ALPHA  oncall:SEV 4: Rec#1546208(Open) Tuni1002_D_RO_RISTUN_FSE failed
+2001-09-11 07:42:54 Arch [0722722] A  ALPHA  203 Darrin SSONOE
+2001-09-11 07:42:54 Arch [1063385] C  ALPHA  973 857-2215
+2001-09-11 07:42:54 Skytel [005361600] A ST NUM  1101091003570300000000   
+2001-09-11 07:42:54 Skytel [005361605] B ST NUM  1301090865940000000000   
+2001-09-11 07:42:56 Arch [1410547] A  ALPHA  07:40 siac_xmit@edtps5 UP--Overseer@edtps3
+2001-09-11 07:42:56 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179904. 
+2001-09-11 07:42:57 Skytel [005330530] A ST NUM  8685222010
+2001-09-11 07:42:57 Skytel [007645418] C SH/TONE 9818    
+2001-09-11 07:42:59 Arch [0551264] A  ALPHA  (10)11:ABS: SSONOE Deferred Impairment Closure SPFD*BBH(Vector) unable to be resynced while doing overbooking changes on Stkt 35913 @7:09z. Deleted 2 NVCIDS that seized up.  Switch was resynced@08:13z & NVCIDS rebuilt. Teams2041203 Darrin SSONOE
+2001-09-11 07:42:59 Arch [0602925] D  ALPHA  13:ABS: SSONOE Deferred Impairment Closure SPFD*BBH(Vector) unable to be resynced while doing overbooking changes on Stkt 35913 @7:09z. Deleted 2 NVCIDS that seized up.  Switch was resynced@08:13z & NVCIDS rebuilt. Teams2041203 Darrin SSONOE
+2001-09-11 07:42:59 Arch [0775120] A  ALPHA  12:ABS: SSONOE Deferred Impairment Closure SPFD*BBH(Vector) unable to be resynced while doing overbooking changes on Stkt 35913 @7:09z. Deleted 2 NVCIDS that seized up.  Switch was resynced@08:13z & NVCIDS rebuilt. Teams2041203 Darrin SSONOE
+2001-09-11 07:42:59 Skytel [007602165] B SH/TONE 999     

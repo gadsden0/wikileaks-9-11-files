@@ -1,0 +1,64 @@
+2001-09-11 04:08:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1955
+2001-09-11 04:08:00 Metrocall [0000329] C  ALPHA  THIS IS A TE....R. D.....G..S..U..TIAL NUMBER  1955
+2001-09-11 04:08:03 Skytel {1092655} 3 2400 002201    
+2001-09-11 04:08:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6777
+2001-09-11 04:08:05 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 115 processes on report1.ccbill.com. Timestamp key: 20010911010602 
+2001-09-11 04:08:05 Arch [0951146] C  ALPHA  56730 TIME 23:01 ACTIVE-ECP3 CELL 106 (BCKE) CINGULAR TOWER BEACON LIGHT FAILURE
+2001-09-11 04:08:05 Arch [0929338] C  ALPHA  Sonja Kepko <SKe|As per your request!|Please find attached file for your review. I look forward to hear from you again very soon. Thank you. 
+2001-09-11 04:08:06 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 115 processes on report2.ccbill.com. Timestamp key: 20010911010602 
+2001-09-11 04:08:08 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 116 processes on report1.ccbill.com. Timestamp key: 20010911010602 
+2001-09-11 04:08:08 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope URL Transaction: https://www.skandia.de/servlet/LoginServlet Production Web Sites (emt-4b) 22558 timed out reading on step 1, https://www.skandia.de/servlet/LoginServlet 
+2001-09-11 04:08:10 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 04:08:10 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 114 processes on report2.ccbill.com. Timestamp key: 20010911010602 
+2001-09-11 04:08:18 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177551. 
+2001-09-11 04:08:20 Metrocall [1589945] C  ALPHA  3580470 tandem xpnet (Multiples) A Guardian writeread error 201 to Process P5B^FDR occurred
+2001-09-11 04:08:20 Metrocall [1064391] B  ALPHA  LME FUTURES       MCU_1442/1444 -002 MAL 1373/1376 -003 MAA 1142/1147 -013 MNI 5100/5120 -030 MSN 3740/3760 -035 MPB 4790/4810 -010 MZN _830/_832 -00
+2001-09-11 04:08:22 Metrocall [1064391] B  ALPHA  5
+2001-09-11 04:08:23 Arch [0939437] D  ALPHA  CA Helpdesk <CAH|campshzn|CR: 143485 Priority: 3 Assigned to: Scott, Jeffrey Summary:: Hardware installation/reconfiguration/failure 
+2001-09-11 04:08:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9700
+2001-09-11 04:08:25 Arch [0000101] B  ALPHA  MSN 081 hello Message from NOC PCB.
+2001-09-11 04:08:30 Metrocall [1902004] B  ALPHA  Frm: Bbrother Sub: !BB - 2692810! beta.disk - 100208184226141 Txt: [2692810] purple Wed Sep 5 21:22:48 PDT 2001 - Disk on beta at WARNING level &yellow /home (87%) has reached the defined disk space WARNING level (85%) /dev/vg1/var 524268 7
+2001-09-11 04:08:30 Metrocall [1061722] C  ALPHA  Frm: Bbrother Sub: !BB - 2692810! beta.disk - 100208184226141 Txt: [2692810] purple Wed Sep 5 21:22:48 PDT 2001 - Disk on beta at WARNING level &yellow /home (87%) has reached the defined disk space WARNING level (85%) /dev/vg1/var 524268 7
+2001-09-11 04:08:31 Arch [0419404] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_trigger.ksh 0 Body:All HR feeds are present.  Begin Processing.
+2001-09-11 04:08:31 Metrocall [1543964] D  ALPHA  Chk Pnt 3  reached after previous WARNING msg sent
+2001-09-11 04:08:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3348
+2001-09-11 04:08:31 Skytel [007579147] C SH/TONE 1034    
+2001-09-11 04:08:35 Skytel [004534432] A SH/TONE 61) 140 
+2001-09-11 04:08:35 Skytel [005384363] C  ALPHA  applmgr@hp05fat.finance.sel.sony.com|   SMOESOPG in PROD on 11-SEP-2001|Orders Transmitted: ECOMM 13, INTEK 23, Orders Booked: ECOMM 12, INTEK 23, WO Opened: 33 WO Completed: 0 Pick Released: 502 Deliveries Sent to DMPLUS: 3P1 498, Delivery
+2001-09-11 04:08:35 Skytel [004690086] B SH/TONE 23      
+2001-09-11 04:08:36 Skytel [007000764] D  ALPHA  I-mac||.   [686
+2001-09-11 04:08:38 Skytel [007457733] B  ALPHA  swmon@instantis.com|UP engines HTTP: 2001-SEP-11 01:14|Start Time: 2001-SEP-10 23:26  
+2001-09-11 04:08:38 Skytel [004573389] D  ALPHA  PROBLEM: 16601786 WAS OPENED ACCT#: SOUP AT PRIO: 1 ON 09/11/01 AT 03:44 DESC/1: -CANNOT PING CSCNORW1 WITH ADDR: 170.230.205.1   ICMP CALLBACK#: 8007272222 
+2001-09-11 04:08:38 Skytel [004538828] D SH/TONE 6127    
+2001-09-11 04:08:38 Skytel [003481167] D ST NUM  614-431-4302   
+2001-09-11 04:08:40 Arch [1612111] D  ALPHA  front8c.ccbill.c|VSCRUB Taken Offline|Vscrub Has Been Taken Offline 
+2001-09-11 04:08:40 Skytel [007491793] A SH/TONE 143143  
+2001-09-11 04:08:40 Skytel [007457496] C  ALPHA  swmon@instantis.com|UP engines HTTP: 2001-SEP-11 01:14|Start Time: 2001-SEP-10 23:26  
+2001-09-11 04:08:40 Skytel [007467226] C ST NUM  400-192-1680-2000319
+2001-09-11 04:08:42 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 9.50 16.45 9.36 Tue Sep 11 01:09:00 MST 2001 
+2001-09-11 04:08:42 Arch [0284968] C  ALPHA  UPCABLE IN TC0X
+2001-09-11 04:08:42 Skytel [005384427] C  ALPHA  applmgr@hp05fat.finance.sel.sony.com|   SMOESOPG in PROD on 11-SEP-2001|Orders Transmitted: ECOMM 13, INTEK 23, Orders Booked: ECOMM 12, INTEK 23, WO Opened: 33 WO Completed: 0 Pick Released: 502 Deliveries Sent to DMPLUS: 3P1 498, Delivery
+2001-09-11 04:08:42 Skytel [007438052] B SH/TONE 3333 (54
+2001-09-11 04:08:44 Arch [1612111] D  ALPHA  monitor@ccbill.c|VSCRUB Packet Loss|nulls=12 1017374357:1017374372:1017374375:1017374377:1017374379:1017374383:1017374384:1017374389:1017374392:1017374393:1017374396:1017374397 
+2001-09-11 04:08:44 Skytel [007465460] B SH/TONE 70261   
+2001-09-11 04:08:44 Skytel [007109749] B ST NUM  761-776-4177   
+2001-09-11 04:08:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 01:07:50 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 04:08:46 Skytel [005069064] C  ALPHA  webmaster@nationalcar.com||09/11/2001-07:57 LogServer-success  
+2001-09-11 04:08:48 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177558. 
+2001-09-11 04:08:48 Skytel [0002067] A  ALPHA  you need to inspect you seperation pouches to ensure you are using the same ones as the dg building. if not this is an audit item. gw
+2001-09-11 04:08:48 Skytel [002401821] D  ALPHA  ssmcscsm13 N/A dfw-ext48-01:Agent:Ping::Broken dfw-ext48-01 is DOWN!  
+2001-09-11 04:08:51 Skytel [005359793] A  ALPHA  root@isffin01.internal.merial.com|/home full|/dev/vg00/lvol4 /home filesystem inode 99 full    ---------------------------------------------------------------------------- This email and any files transmitted with it are confidential and in
+2001-09-11 04:08:51 Skytel [005205694] D  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS]
+2001-09-11 04:08:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1221..
+2001-09-11 04:08:53 Skytel [005054539] C  ALPHA  root@isffin01.internal.merial.com|/home full|/dev/vg00/lvol4 /home filesystem inode 99 full    ---------------------------------------------------------------------------- This email and any files transmitted with it are confidential and in
+2001-09-11 04:08:53 Skytel [004406989] D  ALPHA  you need to inspect you seperation pouches to ensure you are using the same ones as the dg building. if not this is an audit item. gw
+2001-09-11 04:08:55 Skytel [002377819] C  ALPHA   (SPU 1 of 1) : SRS2.1 SDT#1722819   Consoles in Brm and Sac are not refreshing - Both sites monitoring via backup email as of 01:05am - 01:05 - Casey Tucker
+2001-09-11 04:08:55 Skytel [002376667] C  ALPHA   (SPU 1 of 1) : SRS2.1 SDT#1722819   Consoles in Brm and Sac are not refreshing - Both sites monitoring via backup email as of 01:05am - 01:05 - Casey Tucker
+2001-09-11 04:08:55 Skytel [005331806] D ST NUM  410-532-8105   
+2001-09-11 04:08:55 Skytel [007589212] D SH/TONE 3395    
+2001-09-11 04:08:57 Skytel [005436525] D  ALPHA  Test Message #55-IX_T0509
+2001-09-11 04:08:57 Skytel [004524770] A  ALPHA  spf-BrockwaySmith-HatfieldMA-381: CPE Up at 00:58:01 on 9/11
+2001-09-11 04:08:57 Skytel [005112809] C  ALPHA  03:05CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240464: Uncorrectable write error
+2001-09-11 04:08:57 Skytel [004682599] B  ALPHA  tlbarnett@fedex.com|Mike, pick up the flight doc box for the 1462. asap  
+2001-09-11 04:08:59 Skytel [002751986] A SH/TONE 3461    
+2001-09-11 04:08:59 Skytel [002377208] C SH/TONE 4444    

@@ -1,0 +1,105 @@
+2001-09-11 23:45:00 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7954
+2001-09-11 23:45:00 Arch [0939437] D  ALPHA  CA Helpdesk <CAH|wb0300ux108|CR: 135630 Priority: 5 Assigned to: Ahern, Mark Summary:: Hardware installation/reconfiguration/failure 
+2001-09-11 23:45:00 Skytel [005255423] D  ALPHA  root@planetu.value.net|LOGIN PAGE ERROR: 66.35.224.212!|09/11/2001 20:40:41 66.35.224.212  460 Web Access Error: 500 read timeout  
+2001-09-11 23:45:01 Skytel [004055431] B  ALPHA  574-5717 (6
+2001-09-11 23:45:02 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-11 23:45:02 Metrocall [1578603] C  ALPHA  ssage: All interfaces restored on TNPP Router ~
+2001-09-11 23:45:03 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-11 23:45:03 Arch [1000292] B  ALPHA  JOB:TGLQSMJ ERROR:USER ABEND U0016. BACKUP BEEP:3
+2001-09-11 23:45:03 Skytel [007567760] A SH/TONE 259-1213
+2001-09-11 23:45:04 Skytel {0570177} 3 1200 0500 
+2001-09-11 23:45:04 Skytel {0653738} 3 1200 310-457-8719   
+2001-09-11 23:45:04 Skytel {0750948} 3 1200 584-3254  
+2001-09-11 23:45:05 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-11 23:45:05 Arch [0805210] C  ALPHA  52-GOOD NIGHT, SWEETHEART.  SLEEP WELL.  XOXO
+2001-09-11 23:45:10 Metrocall [1576176] A  ALPHA  CALL ELLIS AT THE FAC
+2001-09-11 23:45:10 Metrocall [1309057] A  ALPHA  TK#48623/31260 DYER ST/UNIONCITY/LK MOP SINK FAUCET IN STORAGE RM/SEE MGR DUTY/BILL/OUT TO HOLLYWOOD ENTERAIMENT/SOLUTION PRO/PO#W700017575
+2001-09-11 23:45:10 Metrocall [0957277] D  ALPHA  Frm: Telalert 
+2001-09-11 23:45:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4524
+2001-09-11 23:45:10 Metrocall [0121339] C  ALPHA  Frm: Telalert Hub Sub: hpcc584.corp.hp.com Monitoring script started at Tue Sep 11 20:45:01 PDT 2001 Status of Web Server: Down Unexpected response from /cgi-bin/hpbs/initsession.jsp check
+2001-09-11 23:45:12 Metrocall [0957277] D  ALPHA  Hub Sub: hpcc584.corp.hp.com Monitoring script started at Tue Sep 11 20:45:01 PDT 2001 Status of Web Server: Down Unexpected response from /cgi-bin/hpbs/initsession.jsp check web.log System status for US Business Store : Down
+2001-09-11 23:45:12 Metrocall [0044422] B  ALPHA  Frm: Telalert Hub
+2001-09-11 23:45:12 Metrocall [0121339] C  ALPHA   web.log System status for US Business Store : Down
+2001-09-11 23:45:12 Metrocall [1410817] A  ALPHA  Frm: Telalert Hub Sub: hpcc584.corp.hp.com Monitoring script started at Tue Sep 11 20:45:01 PDT 2001 Status of Web Server: Down Unexpected response from /cgi-bin/hpbs/initsession.jsp check we
+2001-09-11 23:45:14 Metrocall [0044422] B  ALPHA   Sub: hpcc584.corp.hp.com Monitoring script started at Tue Sep 11 20:45:01 PDT 2001 Status of Web Server: Down Unexpected response from /cgi-bin/hpbs/initsession.jsp check web.log System status for US Business Store : Down
+2001-09-11 23:45:14 Metrocall [0659554] A  ALPHA  Frm: Telalert Hub Su
+2001-09-11 23:45:14 Metrocall [1410817] A  ALPHA  b.log System status for US Business Store : Down
+2001-09-11 23:45:17 Metrocall [0076785] A  ALPHA  hpcc584.corp.hp.com Monitoring script started at Tue Sep 11 20:45:01 PDT 2001 Status of Web Server: Down Unexpected response from /cgi-bin/hpbs/initsession.jsp check web.log System status for US Business Store : Down
+2001-09-11 23:45:17 Metrocall [1456536] C  ALPHA   Web Server: Down Unexpecte
+2001-09-11 23:45:17 Metrocall [1028476] D  ALPHA  Frm: Telalert Hub Sub: hpcc584.corp.hp.com Monitoring script started at Tue Sep 11 20:45:01 PDT 2001 Status of Web Server: Down Unexpected response from /cgi-bin/hpbs/initsession.jsp check web.log System status for US Business Store : Down
+2001-09-11 23:45:19 Metrocall [0645868] D  ALPHA  Frm: AO.Support@enmsdb.my.domain Sub: 12722753 DAB POSTING INFORMATION - DAB200 = 23:44 ALLTEL = 9M 57S
+2001-09-11 23:45:19 Metrocall [1456536] C  ALPHA  d response from /cgi-bin/hpbs/initsession.jsp check web.log System status for US Business Store : Down
+2001-09-11 23:45:19 Metrocall [0151930] C  ALPHA  Frm: AO.Support@enmsdb.my.domain Sub: 12722753 DAB POSTING INFORMATION - DAB200 = 23:44 ALLTEL = 9M 57S
+2001-09-11 23:45:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0877
+2001-09-11 23:45:22 Arch [0000101] B  ALPHA  MSN 009 hello Message from NOC PCB.
+2001-09-11 23:45:22 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: check_db(PDS1_EQGSMNY) PDS1_EQGSMNY - gsm: LOG  -->> ALLOCATED = 400 MB, USED = 353 MB, FREE = 47 MB, PERCENT_USED = 88% @23:45 09/11/01 
+2001-09-11 23:45:22 Arch [1048055] B  ALPHA  ARSystem@orion.m|OT01109|System Unavaliable at Mt. Sinai Internet @ 9/11/2001 10:20:00 PM. Being Worked on by NYU SOMIT. Internet connectivity is lost and it will not be restored until mid Wednesday. 
+2001-09-11 23:45:22 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-11 23:45:24 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-11 23:45:24 Arch [0303572] B  ALPHA  6363952-22
+2001-09-11 23:45:26 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-11 23:45:28 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-11 23:45:30 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 148W MAJ=NONE
+2001-09-11 23:45:31 Metrocall [1697765] B  ALPHA  OPEN - 336-773-2234 - TICKET P164714 - SEVERITY 1 - DESCRIPTION CAN'T LOGIN SWIFT - Page reques
+2001-09-11 23:45:31 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3133
+2001-09-11 23:45:31 Metrocall [1062511] D  ALPHA  Frm: Mail Delivery Subsystem Sub: Warning: could not send message for past 4 hours Txt: *******************
+2001-09-11 23:45:32 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3133
+2001-09-11 23:45:32 Metrocall [1697765] B  ALPHA  t submitted at: 9/11/01 11:48:38 PM
+2001-09-11 23:45:32 Metrocall [1062511] D  ALPHA  * ** THIS IS A WARNING MESSAGE ONLY ** ** YOU DO NOT NEED TO RESEND YOUR MESSAGE ** *********
+2001-09-11 23:45:32 Skytel [005236495] D ST NUM  110005052 
+2001-09-11 23:45:32 Skytel [003417094] B SH/TONE 7070    
+2001-09-11 23:45:32 Skytel [004523402] C SH/TONE 61195   
+2001-09-11 23:45:32 Skytel [007007877] B SH/TONE 3213    
+2001-09-11 23:45:33 Skytel [007465749] B ST NUM  872-395-3575   
+2001-09-11 23:45:33 Skytel [004400660] B ST NUM  603-390-8911   
+2001-09-11 23:45:35 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190788. 
+2001-09-11 23:45:35 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-11 23:45:35 Arch [1379563] C  ALPHA  ARSystem@orion.m|OT01109|System Unavaliable at Mt. Sinai Internet @ 9/11/2001 10:20:00 PM. Being Worked on by NYU SOMIT. Internet connectivity is lost and it will not be restored until mid Wednesday. 
+2001-09-11 23:45:35 Skytel [005001895] B  ALPHA  [sps/187] 200 sps-apps1.cps.intel.com relay-ssl 1.957 Application isokay (/lift/healthcheck.asp) 2:39:08
+2001-09-11 23:45:35 Skytel [007063339] C ST NUM  787700391191191103  
+2001-09-11 23:45:35 Skytel [005371053] D ST NUM  701-623-9333-7 
+2001-09-11 23:45:37 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-11 23:45:37 Skytel [004592312] C  ALPHA  raven@pluto.sfbay.sun.com|Reminder- IISc-CR/888)476-3752/463684|   ** Calendar A
+2001-09-11 23:45:37 Skytel [007567668] B SH/TONE 251-3217
+2001-09-11 23:45:37 Skytel [005492666] C ST NUM  312-473-1684   
+2001-09-11 23:45:37 Skytel [005227453] D SH/TONE 2       
+2001-09-11 23:45:38 Metrocall [1079407] D  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY WASHINGTON (CNN) -- The nation's first-ever groundstop will remain in effect until at least noon EDT Wednesday due to security concerns following Tuesday's hijackings
+2001-09-11 23:45:39 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-11 23:45:39 Skytel [005332045] D ST NUM  913-639-4578   
+2001-09-11 23:45:39 Skytel [005114828] D SH/TONE 956-7357
+2001-09-11 23:45:41 Arch [0902873] C  ALPHA  dunn|sorry : another qstn: agent state trace - come from symp, or from pim? Assume latter. Just drop me a note. Thanks again.  
+2001-09-11 23:45:41 Arch [0975934] D  ALPHA  jcracoli|All Cisco employees are accounted for. Pls do not go into the NYC Cisco office tomorrow. Pls work at home or other Cisco office. Thx, Mark and John   
+2001-09-11 23:45:41 Arch [0937881] C  ALPHA  jcracoli|All Cisco employees are accounted for. Pls do not go into the NYC Cisco office tomorrow. Pls work at home or other Cisco office. Thx, Mark and John   
+2001-09-11 23:45:41 Skytel [007657299] A SH/TONE 749-4287
+2001-09-11 23:45:41 Skytel [005205594] C ST NUM  900-897-4494-1111   
+2001-09-11 23:45:41 Skytel [005111638] B  ALPHA  [MDS]:DET ON CALL FYI: EXTRACT ON SW2 SHORT BY 5 RECORDS FOR \SW2.$DB02.PRODDB.PDL
+2001-09-11 23:45:41 Skytel [007574874] C ST NUM  223-696-3481   
+2001-09-11 23:45:41 Skytel [002777416] C SH/TONE 729-2000
+2001-09-11 23:45:41 Skytel [007035485] D  ALPHA  waht if i were to tell you....
+2001-09-11 23:45:43 Skytel [005436525] D  ALPHA  Test #42
+2001-09-11 23:45:43 Skytel [004413281] A SH/TONE 333     
+2001-09-11 23:45:43 Skytel [007553888] A  ALPHA  925-6075Busy Costa Mesa 714-438
+2001-09-11 23:45:43 Skytel [007572458] C SH/TONE 823     
+2001-09-11 23:45:43 Skytel [004742760] C ST NUM  9888867493
+2001-09-11 23:45:43 Skytel [005128302] D SH/TONE 541-0878
+2001-09-11 23:45:43 Skytel [005226605] D ST NUM  8683242159
+2001-09-11 23:45:45 Skytel [005439099] C  ALPHA  1-949-589-1748.Rancho Santa Margari
+2001-09-11 23:45:45 Skytel [007109749] B ST NUM  443-637-5677   
+2001-09-11 23:45:45 Skytel [007530741] B  ALPHA  CAVONNA WANTS TO BORROW THE PINK SWEATER . 
+2001-09-11 23:45:45 Skytel [007574781] D ST NUM  462-863-6003   
+2001-09-11 23:45:46 Skytel [005056517] B ST NUM  9775496854
+2001-09-11 23:45:46 Skytel [002393861] B SH/TONE 5577 U  
+2001-09-11 23:45:48 Arch [1330008] C  ALPHA  "Kelley Smith" <|please call home|Just heard about WTC. Please call MOM. 
+2001-09-11 23:45:48 Skytel [005120789] B SH/TONE 170 (22 
+2001-09-11 23:45:48 Skytel [005226005] B SH/TONE 866     
+2001-09-11 23:45:50 Skytel [005320235] C  ALPHA  477-0269 U [406.OSBORN RANDY        
+2001-09-11 23:45:52 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-11 23:45:52 Skytel [005070261] B ST NUM  0-718-590-5743 
+2001-09-11 23:45:52 Skytel [005003958] B SH/TONE 05909   
+2001-09-11 23:45:54 Skytel [002742479] D ST NUM  9006475204 (8  
+2001-09-11 23:45:56 Skytel [005338196] B SH/TONE 25900   
+2001-09-11 23:45:58 Arch [1657188] B  ALPHA  NCAGBRGQ01:Device Accessible,Device Status:Ok
+2001-09-11 23:45:58 Arch [1025942] B  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 04700311 from cluster 1082 to cluster 2028), status C3AE181B, extended status 00000032. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-11 23:45:58 Arch [1423779] A  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 04700311 from cluster 1082 to cluster 2028), status C3AE181B, extended status 00000032. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-11 23:45:58 Skytel [005523694] D SH/TONE 99      
+2001-09-11 23:45:58 Skytel [007009126] B  ALPHA  pbraren@us.ibm.com|Alarm: SPC IBM eserver xSeries Technical Consultant Conference Call NA/EMEA at 09

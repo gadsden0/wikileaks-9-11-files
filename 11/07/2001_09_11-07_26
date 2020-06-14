@@ -1,0 +1,134 @@
+2001-09-11 07:26:01 Arch [0281603] A  ALPHA  SG1. PC's that received SMS load this morning is still having problems after relogging on, 3rd level server support is still working on fix. PM# E2663080. CNCC
+2001-09-11 07:26:01 Arch [0968156] D  ALPHA  jlwindh 75925-321-HO-  uknts700 - Sql hung on sms server.  Booting box to release.  NT/SQL and NT team engaged.  No impact.  Sent at 06:24      
+2001-09-11 07:26:01 Metrocall [1707400] C  ALPHA  Frm: "" Sub: Txt: Wilmington, NC Tue 82/66 Tstorms
+2001-09-11 07:26:01 Metrocall [1697856] A  ALPHA  (409100714)30409100714,   DENNY'S #D2255 LINDA (TY) 281-367-5140 No ETA 4695-012 LN4 TOUCH SCREEN DIM SCREEN 24H TECH CALL SOTRE W/ETA CAN'T GET CABL
+2001-09-11 07:26:01 Skytel [005110785] A  ALPHA  Steven,  The bug was due to the sys ref number being to large for the DB format. It is at 32767 and too large to be stored as an Int. We need to change the column format. Please call Vinod at 732-512-3323.  Thanks,  Eric
+2001-09-11 07:26:02 Arch [0553715] A  ALPHA  (13)MSG0200S: Batch Processing Halted due to large volume 355,662,887 of User: IRADHOC
+2001-09-11 07:26:03 Arch [0281603] A  ALPHA  SG1. PC's that received SMS load this morning is still having problems after relogging on, 3rd level server support is still working on fix. PM# E2663080. CNCC
+2001-09-11 07:26:03 Arch [1048213] B  ALPHA  SG1. PC's that received SMS load this morning is still having problems after relogging on, 3rd level server support is still working on fix. PM# E2663080. CNCC
+2001-09-11 07:26:03 Skytel [002401821] D  ALPHA  ssmcscsm13 N/A DIA-BDC-01:Agent:Ping::Broken DIA-BDC-01 is DOWN!  
+2001-09-11 07:26:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6975
+2001-09-11 07:26:05 Metrocall [1697856] A  ALPHA  E OUT OF SCREEN
+2001-09-11 07:26:05 Skytel [007520291] A  ALPHA  help@strategy.com|    |Hardeeville, SC Tue 82/70 Tstorms Wed 82/66 Tstorms    
+2001-09-11 07:26:05 Skytel [002693664] A  ALPHA  Venezuela Regulator: 5 More Days For AES/CANTV Decision[DJ NEWS]
+2001-09-11 07:26:05 Skytel {1092655} 3 2400 002267    
+2001-09-11 07:26:08 Metrocall {1142115} 2 2400 PLEASE CHECK VOICE MAILBOX...8314816....
+2001-09-11 07:26:11 Metrocall [0748359] B  ALPHA  Fixing to leave. Trying to get out of here early. lym
+2001-09-11 07:26:11 Metrocall [0270055] B  ALPHA  TRLBLZR ECS REG(GP/E CLMS-PT A & B)DOWN/NO ETA (19K723390)-0723
+2001-09-11 07:26:11 Metrocall [0961276] D  ALPHA  TRLBLZR ECS REG(GP/E CLMS-PT A & B)DOWN/NO ETA (19K723390)-0723
+2001-09-11 07:26:11 Metrocall [0410239] D  ALPHA  Reminder--we are 
+2001-09-11 07:26:13 Arch [0904393] C  ALPHA  Defiant@circuitc|Server may be down|
+2001-09-11 07:26:13 Metrocall [0410239] D  ALPHA  to meet in Judge Barnes Chambers at 8:00 a.m. to complete the rating forms - bc
+2001-09-11 07:26:17 Arch [0976518] B  ALPHA  From: ARSystem@whipxfr.is.bear.com- TT1184837, for POLLARI, FRANCESCO A., VP, 9603,High, assigned to HC-Market Data-L2.  reuters is running very slow.   
+2001-09-11 07:26:17 Arch [1636890] C  ALPHA  4242
+2001-09-11 07:26:17 Arch [1621151] D  ALPHA  From: ARSystem@whipxfr.is.bear.com- TT1184837, for POLLARI, FRANCESCO A., VP, 9603,High, assigned to HC-Market Data-L2.  reuters is running very slow.   
+2001-09-11 07:26:17 Arch [1403006] D  ALPHA  From: ARSystem@whipxfr.is.bear.com- TT1184837, for POLLARI, FRANCESCO A., VP, 9603,High, assigned to HC-Market Data-L2.  reuters is running very slow.   
+2001-09-11 07:26:20 Metrocall [002110282] C  ALPHA  Take meds.
+2001-09-11 07:26:20 Metrocall [002110684] D  ALPHA  Take your meds.
+2001-09-11 07:26:20 Metrocall [002160489] C  ALPHA  Remember your medication.
+2001-09-11 07:26:20 Metrocall [002110642] A  ALPHA  Take your Viracept, Epivir, Zerit
+2001-09-11 07:26:20 Metrocall [002106357] B  ALPHA  Time to take medication.
+2001-09-11 07:26:20 Metrocall [1543816] C  ALPHA  Time to take medication.
+2001-09-11 07:26:20 Metrocall [002110477] D  ALPHA  Take meds.
+2001-09-11 07:26:20 Metrocall [1282777] C  ALPHA  Oops, it's that time!
+2001-09-11 07:26:24 Arch [1189706] C  ALPHA  4302
+2001-09-11 07:26:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9898
+2001-09-11 07:26:26 Arch [0432616] C  ALPHA  Sev3 open S3040923 ROBERT SACKS 2122704118 270 PARK47 GLOBAL MARKETS MTGRPWARE clients notes certificate has expired.  ny270nm02. client says he needs his  mail by 9am.  pls call client asap  09/11/01 07:26:38
+2001-09-11 07:26:26 Arch [0915374] D  ALPHA  777-7500
+2001-09-11 07:26:26 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179718. 
+2001-09-11 07:26:28 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179725. 
+2001-09-11 07:26:30 Arch [0908432] A  ALPHA  snazer|I just got you epage update. Thx Shaker   
+2001-09-11 07:26:30 Arch [0925366] B  ALPHA   318643;Sep 11 03:27:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 07:26:31 Arch [0970456] C  ALPHA  "Dreyer, Nancy" |28 cartons for web|please give me a call 8834 Nancy l Dreyer Supply Chain Coordinator Phone: 724-779-8834 DREYER@AE.COM fax: 724-779-5586 
+2001-09-11 07:26:31 Metrocall [1544818] A  ALPHA  SAC-AACC02:Device Inaccessible
+2001-09-11 07:26:31 Metrocall [002110444] D  ALPHA  It's time.
+2001-09-11 07:26:31 Metrocall [002110508] D  ALPHA  Remember morning medication.
+2001-09-11 07:26:31 Metrocall [1874953] C  ALPHA  Time to take medication.
+2001-09-11 07:26:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3546
+2001-09-11 07:26:31 Skytel [007548929] A SH/TONE 101     
+2001-09-11 07:26:31 Skytel [005362446] D  ALPHA  UPDATE #920279:Prev rep prob, CBS Appl delayed has been lowered to sev 3 issue -CSD 
+2001-09-11 07:26:31 Skytel [005171333] B ST NUM  556-8396-8
+2001-09-11 07:26:31 Skytel [004086922] C SH/TONE   (78   
+2001-09-11 07:26:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 04:26:30 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 07:26:31 Skytel [003268232] C  ALPHA  UPDATE #920279:Prev rep prob, CBS Appl delayed has been lowered to sev 3 issue -CSD 
+2001-09-11 07:26:33 Metrocall [1064391] B  ALPHA  LME FUTURES       MCU_1442/1443 -002 MAL 1369/1371 -007 MAA 1140/1145 -015 MNI 5070/5090 -060 MSN 3750/3770 -025 MPB 4790/4810 -010 MZN _830/_832 -005
+2001-09-11 07:26:33 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-11 07:26:33 Metrocall [1421210] C  ALPHA  LAKEJob 378304/VSIOWNER
+2001-09-11 07:26:33 Skytel [003953311] D  ALPHA  pager@household.com||(From EMPB25) 908-203-2599 TOHTS MGMT. RE TICKET T512777. PROBLEM WITH PERIPHERAL G ATEWAY IN NEWCASTLE, DE RESOLVED. HSS FRANK  
+2001-09-11 07:26:33 Skytel [007603477] B SH/TONE 342     
+2001-09-11 07:26:33 Skytel [004539283] A  ALPHA  UPDATE #920279:Prev rep prob, CBS Appl delayed has been lowered to sev 3 issue -CSD 
+2001-09-11 07:26:35 Arch [1641913] C  ALPHA  SG1. PC's that received SMS load this morning is still having problems after relogging on, 3rd level server support is still working on fix. PM# E2663080. CNCC
+2001-09-11 07:26:35 Skytel [005485601] A ST NUM  0-800-241-5640 
+2001-09-11 07:26:35 Skytel [003928228] B  ALPHA  help@strategy.com|    |Englishtown, NJ Tue 81/57 Sunny Wed 79/57 Sunny    
+2001-09-11 07:26:35 Skytel [005236002] A ST NUM  9002866559
+2001-09-11 07:26:35 Skytel [007542956] D ST NUM  405-385-0538   
+2001-09-11 07:26:37 Skytel [004754611] A SH/TONE 5225    
+2001-09-11 07:26:37 Skytel [003953727] D  ALPHA  pager@household.com||(From EMPB25) 908-203-2599 TOHTS MGMT. RE TICKET T512777. PROBLEM WITH PERIPHERAL G ATEWAY IN NEWCASTLE, DE RESOLVED. HSS FRANK  
+2001-09-11 07:26:37 Skytel [005004729] C  ALPHA  A FREGOSI    82 ANTON DR         CL621-9379 CUST WILL CANCLE IF 6164 94
+2001-09-11 07:26:37 Skytel [004730171] C  ALPHA  ESCALATING ETMS TICKET4600 FROM THE 10TH OF SEPTEMBER THIS IS A PRI-1 TICKET.   
+2001-09-11 07:26:37 Skytel [007045940] B  ALPHA  UPDATE #920279:Prev rep prob, CBS Appl delayed has been lowered to sev 3 issue -CSD 
+2001-09-11 07:26:37 Skytel [005178423] B SH/TONE 6904    
+2001-09-11 07:26:37 Skytel [005004717] D  ALPHA  M KENNY      4 MARTIN RD         RY921-5359 
+2001-09-11 07:26:37 Skytel [004548151] B  ALPHA  PR 813794 NEW Medium Asg: Mdc Nt Cust: Gee C W Ph#: 901-320-3249 Loc: rmm p-I drive not connecting correctly
+2001-09-11 07:26:37 Skytel [0001461] B  ALPHA  GLOBEX   06:25     GEH  9660.5   2.5-   GEM  9630.5B    3-   ESU  110225   650+   SPU  110220   650+   NDU  139200  2150+   6JZ 
+2001-09-11 07:26:37 Skytel [005003838] D  ALPHA  NetIQ@daimlerchrysler.com|NetIQ Event from SHPMON01 - Machine Down - shpmts10|Ping Failed  
+2001-09-11 07:26:37 Skytel [004541627] C  ALPHA  UPDATE #920279:Prev rep prob, CBS Appl delayed has been lowered to sev 3 issue -CSD 
+2001-09-11 07:26:38 Skytel [005004729] C  ALPHA  3
+2001-09-11 07:26:38 Skytel [003904970] C  ALPHA  Venezuela Regulator: 5 More Days For AES/CANTV Decision[DJ NEWS]
+2001-09-11 07:26:38 Skytel [005004717] D  ALPHA  CC 1 SUND W/COMIC...4111 981
+2001-09-11 07:26:38 Skytel [005002436] B  ALPHA  DSG Server twsadmin<kenny.yeung@csfb.com>: libElServer Timeout :nys01m-143
+2001-09-11 07:26:38 Skytel [0001461] B  ALPHA     8273B   70-   6EZ    8949    31-   6SZ    5924    16-   6BZ   14506B   22-   6CZ    6396A    6+   
+2001-09-11 07:26:38 Skytel [007457733] B  ALPHA  heartbeat@corporate-watch.com|>>-> Service fault on Engines service|A communications exception occurred at Tue Sep 11 04:27:00 2001. Comment: 1->Get security token  Detail: post -> Error accessing server http://engines.instantis.com/SiteWan
+2001-09-11 07:26:39 Metrocall [1421210] C  ALPHA  /OMSJRNMGR has MSGW status.
+2001-09-11 07:26:40 Skytel [005479378] A ST NUM  510-251-4021   
+2001-09-11 07:26:40 Skytel [005508691] A  ALPHA  UPDATE #920279:Prev rep prob, CBS Appl delayed has been lowered to sev 3 issue -CSD 
+2001-09-11 07:26:40 Skytel [005363280] A  ALPHA  UPDATE #920279:Prev rep prob, CBS Appl delayed has been lowered to sev 3 issue -CSD 
+2001-09-11 07:26:40 Skytel [0001114] C  ALPHA  FM Ticket Assigned Low Case HD0000000301352 for June Zheng 5280 user can't mount to  apps/summit_3.x from her machine.  She has never been able to mount and needs assistants with this matter.
+2001-09-11 07:26:40 Skytel [1800019] A  ALPHA  GLOBEX   06:25     GEH  9660.5   2.5-   GEM  9630.
+2001-09-11 07:26:40 Skytel [005508703] D  ALPHA  UPDATE #920279:Prev rep prob, CBS Appl delayed has been lowered to sev 3 issue -CSD 
+2001-09-11 07:26:40 Skytel [002352349] D  ALPHA  UPDATE #920279:Prev rep prob, CBS Appl delayed has been lowered to sev 3 issue -CSD 
+2001-09-11 07:26:40 Skytel [005362519] B  ALPHA  UPDATE #920279:Prev rep prob, CBS Appl delayed has
+2001-09-11 07:26:40 Skytel [007457496] C  ALPHA  heartbeat@corporate-watch.com|>>-> Service fault on Engines service|A communications exception occurred at Tue Sep 11 04:27:00 2001. Comment: 1->Get security token  Detail: post -> Error accessing server http://engines.instantis.com/SiteWan
+2001-09-11 07:26:42 Skytel [002231394] A  ALPHA  621-0679 (27
+2001-09-11 07:26:42 Skytel [005508706] A  ALPHA  UPDATE #920279:Prev rep prob, CBS Appl delayed has been lowered to sev 3 issue -CSD 
+2001-09-11 07:26:42 Skytel [1800019] A  ALPHA  5B    3-   ESU  110225   650+   SPU  110220   650+   NDU  139200  2150+   6JZ    8273B   70-   6EZ    8949    31-   6SZ    5924    16-   6BZ   14506B   22-   6CZ    6396A    6+   
+2001-09-11 07:26:42 Skytel [002278501] B ST NUM  303-318-0398 (34    
+2001-09-11 07:26:42 Skytel [004752740] B SH/TONE 219     
+2001-09-11 07:26:42 Skytel [005362519] B  ALPHA   been lowered to sev 3 issue -CSD 
+2001-09-11 07:26:42 Skytel [004569187] A  ALPHA  UPDATE #920279:Prev rep prob, CBS Appl delayed has been lowered to sev 3 issue -CSD 
+2001-09-11 07:26:42 Skytel [002277976] C SH/TONE 62592   
+2001-09-11 07:26:42 Skytel [005436525] D  ALPHA  nMCI Test #63
+2001-09-11 07:26:43 Metrocall [002567097] C  ALPHA  KFC Petal MS: C-Store   AC 2 DISCH  SNS FAIL
+2001-09-11 07:26:43 Metrocall [1697856] A  ALPHA  (409110003)30409110003,   DENNY'S #D1981 RICHARD (THOMAS) 520-774-3413 No ETA 4695-012 LN1 TOUCH SCREEN - NO DISPLAY DO HAVE POWER - WAS SWAPPED STILL NO DISPLAY 24H TECH
+2001-09-11 07:26:43 Metrocall [1923229] D  ALPHA  Frm: Inman, P. Mike Sub: Message Recall Failure: OSIMAIL
+2001-09-11 07:26:44 Skytel [005039350] B  ALPHA  UPDATE #920279:Prev rep prob, CBS Appl delayed has been lowered to sev 3 issue -CSD 
+2001-09-11 07:26:44 Skytel [005508605] D  ALPHA  UPDATE #920279:Prev rep prob, CBS Appl delayed has been lowered to sev 3 issue -CSD 
+2001-09-11 07:26:44 Skytel [004689277] D  ALPHA  UPDATE #920279:Prev rep prob, CBS Appl delayed has been lowered to sev 3 issue -CSD 
+2001-09-11 07:26:44 Skytel [005059705] C SH/TONE 1229    
+2001-09-11 07:26:44 Skytel [005509874] A  ALPHA  UPDATE #920279:Prev rep prob, CBS Appl delayed has been lowered to sev 3 issue -CSD 
+2001-09-11 07:26:44 Skytel [003452540] D SH/TONE 101-0005
+2001-09-11 07:26:44 Skytel [004569599] D  ALPHA  UPDATE #920279:Prev rep prob, CBS Appl delayed has been lowered to sev 3 issue -CSD 
+2001-09-11 07:26:45 Arch [0281918] D  ALPHA  SG1. PC's that received SMS load this morning is still having problems after relogging on, 3rd level server support is still working on fix. PM# E2663080. CNCC
+2001-09-11 07:26:45 Metrocall [1697856] A  ALPHA   CALL STORE W/ETA
+2001-09-11 07:26:46 Arch [0856396] D  ALPHA  #26 WILLIAM PLS CALL ME I AM AT TREMONT 718 986 2825, GUY
+2001-09-11 07:26:46 Skytel [002559104] A SH/TONE 76245   
+2001-09-11 07:26:50 Skytel [002374575] D SH/TONE 2888 U  
+2001-09-11 07:26:50 Skytel [003477031] B SH/TONE 8017    
+2001-09-11 07:26:52 Skytel [004105265] A  ALPHA  MOT 15.00 +0.71 LFUS 24.50 -0.45 QCOM 50.97 +1.79 VRLK 2.05 -0.06
+2001-09-11 07:26:53 Skytel [007066443] C SH/TONE 365-7592
+2001-09-11 07:26:53 Skytel [005175759] D SH/TONE 7777    
+2001-09-11 07:26:55 Skytel [005046352] A  ALPHA  Prty=3, Asg:USS-NJ, NYGS01462621, EMVD01:WORK QUEUE LENGTH ABOVE THRESHOLD COUNTER VALUE FOR MSE,, Sub:TGANS, tivoli1
+2001-09-11 07:26:56 Arch [0927533] D  ALPHA  TOM & DON HATHAZYS MOTHER PASSED AWAY-DETAILS IN TODAYS PAPER
+2001-09-11 07:26:56 Arch [0908402] A  ALPHA  7600
+2001-09-11 07:26:56 Arch [0942566] B  ALPHA  80-WILL BE 1 HOUR LATE DUE TO TRAIN PROBLEMS. DAVID CARONICH.
+2001-09-11 07:26:57 Skytel [004431587] A SH/TONE 799-8000
+2001-09-11 07:26:57 Skytel [005225702] B SH/TONE 80090   
+2001-09-11 07:26:57 Skytel [002406381] D  ALPHA  INEL 0.00 UNCH CAG 22.83 +0.01 MCIC 0.00 UNCH KNE 0.00 UNCH
+2001-09-11 07:26:57 Skytel [005480812] D SH/TONE 295-4570
+2001-09-11 07:26:58 Arch [0985950] D  ALPHA  From: Maxwell, Sarah (Exchange)- Wojtek on the line. NOK pre-announced. He will wait for you to cue him to speak 
+2001-09-11 07:26:59 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2154
+2001-09-11 07:26:59 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2154
+2001-09-11 07:26:59 Skytel [002750709] B SH/TONE 76245   
+2001-09-11 07:26:59 Skytel [002562811] C SH/TONE 870     
+2001-09-11 07:26:59 Skytel [004215155] A  ALPHA  DR ADE B-917 354 9493 RE;PERSONAL (89
+2001-09-11 07:26:59 Skytel [005385341] D  ALPHA  WinMgmt@DCSJCALPHA|"Warning" on "DCSJCALPHA"|"DCSJCALPHA" has reported a "Warning".  Reported status is: Queues - "Unknown" Drives - "Unknown" Services - "OK" Memory - "Warning" CPU - "Unknown"  

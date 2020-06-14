@@ -1,0 +1,169 @@
+2001-09-11 22:07:00 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7856
+2001-09-11 22:07:00 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-11 22:07:00 Skytel [002739576] C SH/TONE 562-3069
+2001-09-11 22:07:01 Metrocall [002119221] B  ALPHA  5753*Event on machine FMSDEDNETIQ Problem is Failed on Http://It.intel.com:81 Detailed message is Connection to URL: Http://It.intel.com:81 was unsuccessful. ??Error(s): The attempt to connect to the server failed. ?? ??
+2001-09-11 22:07:01 Skytel [005479939] A SH/TONE 565-4233
+2001-09-11 22:07:01 Skytel [002219399] B SH/TONE * (74   
+2001-09-11 22:07:01 Skytel [002792975] D ST NUM  822-138-3444-44
+2001-09-11 22:07:03 Metrocall [0599207] B  ALPHA  WhatsUp Alert : (19:07) - Server EMSS02M01-DEN DOWN (Timed Out), see http://lmmdeming.lmms.lmco.com:8080
+2001-09-11 22:07:03 Metrocall [1414443] C  ALPHA  WhatsUp Alert : (19:07) - Server EMSS02M01-DEN DOWN (Timed Out), see http://lmmdeming.lmms.lmco.com:8080
+2001-09-11 22:07:03 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4426
+2001-09-11 22:07:03 Metrocall [0475001] C  ALPHA  WhatsUp Alert : (19:07) - Server EMSS02M01-DEN DOWN (Timed Out), see http://lmmdeming.lmms.lmco.com:8080
+2001-09-11 22:07:03 Metrocall [0475002] C  ALPHA  WhatsUp Alert : (19:07) - Server EMSS02M01-DEN DOWN (Timed Out), see http:
+2001-09-11 22:07:03 Skytel [002272784] A ST NUM  900-759-8255   
+2001-09-11 22:07:03 Skytel [002401821] D  ALPHA  206.122.40.74 Mount Pending on 08AC for PRIVAT. Jobname = HNIJHM11  Wait= 135 min ussa11.SSMC 
+2001-09-11 22:07:03 Skytel [005507211] C  ALPHA  B
+2001-09-11 22:07:03 Skytel [005373852] D ST NUM  614-531-3183   
+2001-09-11 22:07:04 Arch [0976250] C  ALPHA  1/02:Sev1 open S3041474 IAN JOHNSON 8002427396 ATRIA WEST2 DIVERSIFIED CONSUMER SERVICES EMCNCCOPS No SNA connectivity from Garden City to Somerset..Major job that is not  getting received..ACP jobs with financial impact about 
+2001-09-11 22:07:04 Arch [0911134] D  ALPHA   equity71 SYBASE: check_db(PDSHH_EQNY1) PDSHH_EQNY1 - HEDGEHOG_HIST: DATA -->> ALLOCATED = 400 MB, USED = 361 MB, FREE = 39 MB, PERCENT_USED = 90% @22:06 09/11/01 
+2001-09-11 22:07:04 Arch [0987275] C  ALPHA  s0191: 09/11 15:50:15 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:50:16
+2001-09-11 22:07:04 Arch [0938288] A  ALPHA  1/02:Sev1 open S3041474 IAN JOHNSON 8002427396 ATRIA WEST2 DIVERSIFIED CONSUMER SERVICES EMCNCCOPS No SNA connectivity from Garden City to Somerset..Major job that is not  getting received..ACP jobs with financial impact about 
+2001-09-11 22:07:04 Metrocall [0645989] B  ALPHA  WhatsUp Alert : (19:07) - Server EMSS02M01-DEN DOWN (Timed Out), see http://lmmdeming.lmms.lmco.com:8080
+2001-09-11 22:07:04 Metrocall [0475002] C  ALPHA  //lmmdeming.lmms.lmco.com:8080
+2001-09-11 22:07:05 Skytel [003928228] B ST NUM  592-785-5143-143    
+2001-09-11 22:07:05 Skytel [003274022] B ST NUM  0-800-448-1335 (77  
+2001-09-11 22:07:05 Skytel [004660640] A ST NUM  9885244123
+2001-09-11 22:07:05 Skytel [005001895] B  ALPHA  [sps/173] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/esds/healthcheck.asp) 2:04:19
+2001-09-11 22:07:05 Skytel [002381856] A ST NUM  201-466-1865   
+2001-09-11 22:07:06 Arch [0987275] C  ALPHA  sb3: INFO0002 - Trade Count Mismatch Ora=825 Rec=0 (160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:52
+2001-09-11 22:07:06 Metrocall [1487080] C  ALPHA  PLEASE CHECK YOUR VOICE MAIL--483-8142
+2001-09-11 22:07:06 Metrocall [002119221] B  ALPHA  2448*Event on machine FMSDEDNETI
+2001-09-11 22:07:07 Skytel [0001465] C  ALPHA  12108hd871400000000012g (23
+2001-09-11 22:07:07 Skytel [007594165] B SH/TONE 831     
+2001-09-11 22:07:07 Skytel [004606131] A ST NUM  751-635-5555   
+2001-09-11 22:07:07 Skytel [005110712] C SH/TONE 24      
+2001-09-11 22:07:08 Arch [1305591] B  ALPHA  CALL JAMIE =OP18
+2001-09-11 22:07:08 Metrocall [002119221] B  ALPHA  Q Problem is Text not found in: http://fmsitiakbprd2.fm.intel.com/kbcgi-bin/webcgi.exe?New%2CKB=sb%2CCase=46266 Detailed message is URL: http://fmsitiakbprd2.fm.intel.com/kbcgi-bin/webcgi.exe?New%2CKB=sb%2CCa
+2001-09-11 22:07:09 Skytel [002739531] C ST NUM  900-713-6125   
+2001-09-11 22:07:10 Metrocall [002119221] B  ALPHA  ? ??
+2001-09-11 22:07:10 Metrocall [002119221] B  ALPHA   ??does not contain: Four score and seven years ago
+2001-09-11 22:07:11 Skytel [004718800] A ST NUM  947-700-6342   
+2001-09-11 22:07:12 Metrocall [002119221] B  ALPHA  se=46266 ??does not contain: Four score and seven years ago
+2001-09-11 22:07:12 Metrocall [002119221] B  ALPHA  9197*Event on machine FMSDEDNETIQ Problem is Failed on Http://Erweb.intel.com:81 Detailed message is Connection to URL: Http://Erweb.intel.com:81 was unsuccessful. ??Error(s): 
+2001-09-11 22:07:13 Skytel [002360806] B ST NUM  214-878-2238   
+2001-09-11 22:07:13 Skytel [004390249] C ST NUM  719-276-4546   
+2001-09-11 22:07:13 Skytel {0619497} 1 2400 31740
+2001-09-11 22:07:19 Arch [1025221] B  ALPHA   Sub:WTC UPDATE #9f  -Forwarded Msg:    ----------  From:  Distribution, Exchange  Sent:  Tuesday, September 11, 2001 10:05:00 PM  To:  Bennett, Anita; DeGruy, Andre; Pierce, Barbara; Rheins, Bruce; W
+2001-09-11 22:07:19 Arch [0282973] D  ALPHA  CTI Genesys Degraded: eCare advocates at the Nashville and Fort Worth contact centers are experiencing lockups and are unable to receive customer email inquiries.  Approx 90 advocates affected. No etc
+2001-09-11 22:07:19 Arch [0900779] C  ALPHA   Sub:WTC UPDATE #9f  -Forwarded Msg:    ----------  From:  Distribution, Exchange  Sent:  Tuesday, September 11, 2001 10:05:00 PM  To:  Bennett, Anita; DeGruy, Andre; Pierce, Barbara; Rheins, Bruce; W
+2001-09-11 22:07:19 Metrocall [1495978] C  ALPHA  (From AUTO01) IR:1284191 JOB:NPDO426B ABD:U0100 P:3 ON DALO 09/11 21:05
+2001-09-11 22:07:19 Metrocall [0599126] B  ALPHA  WhatsUp Alert : (19:07) - Server EMSS02M01-DEN DOWN (Timed Out), see http://lmmdeming.lmms.lmco
+2001-09-11 22:07:19 Metrocall [1414448] A  ALPHA  WhatsUp Alert : (19:07) - Server EMSS02M01-DEN DOWN (Timed Out), see http://lmmdeming.lmms.lmco.com:8080
+2001-09-11 22:07:19 Skytel {0478371} 3 1200 3033 
+2001-09-11 22:07:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0779
+2001-09-11 22:07:21 Metrocall [1902828] D  ALPHA  33-PLEASE CALL ISSAC AT 312-6518.
+2001-09-11 22:07:21 Metrocall [1192024] C  ALPHA  MVH SICU - RACHAEL 398 2547 PT JENNINGS 22:06-9-11/09
+2001-09-11 22:07:21 Metrocall [0599126] B  ALPHA  .com:8080
+2001-09-11 22:07:21 Metrocall [002589120] A  ALPHA  Frm: MARY ANNE EDMONDS Sub: Re: Tacoma Txt: TO: RICHIE HODGEFR: EDDIE EDMONDSRegarding your message below, what is the wor
+2001-09-11 22:07:21 Metrocall [002589125] B  ALPHA  Frm: MARY ANNE EDMONDS Sub: Re: Tacoma Txt: TO: RICHIE HODGEFR: EDDIE EDMONDSRegarding your message below, what is the word etc. referring to following "Add applicable tax, tag, etc." Please advise.Thank you. ----- Origi
+2001-09-11 22:07:23 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 189689. 
+2001-09-11 22:07:23 Arch [0976250] C  ALPHA  2/02:half million dollars   09/11/01 22:02:57
+2001-09-11 22:07:23 Arch [0921341] D  ALPHA  46-ALAN KLEIN RETURNING YOUR CALL. 718-522-6955.
+2001-09-11 22:07:23 Arch [1439547] C  ALPHA  STC_Help_Desk@sk|Nick Weekes ALERT! Ticket not as|SUMMARY: We require temporary suspension of switching functionality on website STATUS: Open UPDATE: For Details see web page http://stchd.stc.skandia.com/stchd.nsf/lookup/010911055a?OpenDocum
+2001-09-11 22:07:23 Arch [0938288] A  ALPHA  2/02:half million dollars   09/11/01 22:02:57
+2001-09-11 22:07:23 Arch [0987275] C  ALPHA  s0191: 09/11 15:56:49 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:56:49
+2001-09-11 22:07:23 Metrocall [002589120] A  ALPHA  d etc. referring to following "Add applicable tax, tag, etc." Please advise.Thank you. ----- Origi
+2001-09-11 22:07:23 Metrocall [002589866] C  ALPHA  Frm: MARY ANNE EDMONDS Sub: Re: Tacoma Txt: TO: RICHIE HODGEFR: EDDIE EDMONDSRegarding your message below, what is the word etc. referrin
+2001-09-11 22:07:25 Arch [0987275] C  ALPHA  s0191: 09/11 16:02:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 16:02:48
+2001-09-11 22:07:25 Arch [0552842] C  ALPHA  80-PLEASE CALL GLEN AT 973-627-8048. RE: RAS SERVERS.
+2001-09-11 22:07:25 Arch [1211288] C  ALPHA  67-WISHING YOU A SPEEDY SAFE RETURN HOME. -WALTER
+2001-09-11 22:07:25 Metrocall [002589866] C  ALPHA  g to following "Add applicable tax, tag, etc." Please advise.Thank you. ----- Origi
+2001-09-11 22:07:25 Metrocall [002589126] B  ALPHA  Frm: MARY ANNE EDMONDS Sub: Re: Tacoma Txt: TO: RICHIE HODGEFR: EDDIE EDMONDSRegarding your message below, what is the word etc. referring to following 
+2001-09-11 22:07:25 Metrocall [1708684] D  ALPHA  AUBRey I LOve YoU HONeYMORe THEN You LOVe Me
+2001-09-11 22:07:25 Metrocall [0122329] C  ALPHA  FROM:         BreakingNews@CNN.COM SUBJ:      AMERICA UNDER ATTACK MSG:DEVELOPING STORY  WASHINGTON (CNN) -- Secretary of State Colin Powell, returning to Washington from his aborted trip to Peru a
+2001-09-11 22:07:26 Arch [0899746] A  ALPHA  598-9895
+2001-09-11 22:07:26 Arch [0862136] C  ALPHA  Dr. Dinerstein Lan Methodist Hospital 713-790-6804= Elvin Erskine IV fluid Please call.
+2001-09-11 22:07:27 Metrocall [002589126] B  ALPHA  "Add applicable tax, tag, etc." Please advise.Thank you. ----- Origi
+2001-09-11 22:07:27 Metrocall [0122329] C  ALPHA  nd Colombia Tuesday, said there were "no specific warnings" to herald the multiple terrorist attacks earlier in the day against the financial and military nerve centers of
+2001-09-11 22:07:27 Metrocall [1560488] C  ALPHA  MESSAGE WAITING * 675-6975
+2001-09-11 22:07:27 Metrocall [1105882] C  ALPHA  Frm: 9176759829@airmessage.net Sub: Message from a two-way device Txt: so boo on the real i wanna be wit u wasup jaybuggz
+2001-09-11 22:07:27 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQ
+2001-09-11 22:07:29 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3035
+2001-09-11 22:07:29 Metrocall [0122329] C  ALPHA   the United States, but he promi
+2001-09-11 22:07:29 Metrocall [0000329] C  ALPHA  UENTIAL NUMBER  3035
+2001-09-11 22:07:31 Skytel [003921798] B SH/TONE 325-8771
+2001-09-11 22:07:31 Skytel [002361863] B  ALPHA  PAGEING,1,Application TODI ERROR 1 0 4096 19:02  09/11/01
+2001-09-11 22:07:31 Skytel [002269444] B SH/TONE 692-2592
+2001-09-11 22:07:31 Skytel [002844427] C  ALPHA  AP:VA:L1:V5MDHE36 ABENDED WITH U0500 ON 3S03 - 21:02:Call 8005826218.
+2001-09-11 22:07:31 Skytel [002386570] C ST NUM  2) 011-52-74709745 U
+2001-09-11 22:07:31 Skytel [004677894] B  ALPHA  yellowst@soco.agilent.com||HUNG: aman14 (ET51607) testing E6432A US40360309 at SOURCES_YSI Slot #29  
+2001-09-11 22:07:33 Skytel [005057810] A  ALPHA  Please call me room 3204. Corene
+2001-09-11 22:07:33 Skytel [002864402] A  ALPHA  potski23@hotmail.com||I love you  SO MUCH and ill wait for your call ... mwaahhh  _________________________________________________________________ Get your FREE download of MSN Explorer at http://explorer.msn.com/intl.asp  
+2001-09-11 22:07:33 Skytel [005413916] D ST NUM  289844 (47
+2001-09-11 22:07:34 Arch [0554143] D  ALPHA  800 830-0005
+2001-09-11 22:07:35 Skytel [005390375] B  ALPHA  298-4753-2
+2001-09-11 22:07:36 Metrocall [1899090] A  ALPHA  RAVENSWOOD 773 878 4300 EXT 6271 PT MORRIS 20:56-2-11/09
+2001-09-11 22:07:36 Metrocall [0125880] C  ALPHA  SendID: 7185 ri03n30cu.ri.ahp.com: CPU utilization (98.93%) exceeds configured threshold (95.00%) for 5 minutes.
+2001-09-11 22:07:37 Skytel [002743861] B SH/TONE 49514   
+2001-09-11 22:07:37 Skytel [005178423] B SH/TONE 6904    
+2001-09-11 22:07:37 Skytel [005362366] D  ALPHA  DSS-Brea.Alertpage@bankofamerica.com|SSF15029 : Device Inaccessible|SSF15029:Device Inaccessible  
+2001-09-11 22:07:37 Skytel [007512629] B  ALPHA  alert@msn.com||Hotmail Texas Medical Association - Tom :TMA message to doctors w
+2001-09-11 22:07:39 Skytel [007008206] D  ALPHA  Gregg Sperling ||From: "Will Sperling" <TwoWay.6304174440@messaging.nextel.com> Subject: RE:   
+2001-09-11 22:07:39 Skytel [007459013] B ST NUM  08007243624    
+2001-09-11 22:07:39 Skytel [008507076] B  ALPHA  01812h4b1ab014002g
+2001-09-11 22:07:39 Skytel [004546625] A SH/TONE 1       
+2001-09-11 22:07:40 Arch [0916410] C  ALPHA  CTI Genesys Degraded: eCare advocates at the Nashville and Fort Worth contact centers are experiencing lockups and are unable to receive customer email inquiries.  Approx 90 advocates affected. No etc
+2001-09-11 22:07:40 Arch [0951184] A  ALPHA  210-6312
+2001-09-11 22:07:40 Arch [0333409] A  ALPHA  CTI Genesys Degraded: eCare advocates at the Nashville and Fort Worth contact centers are experiencing lockups and are unable to receive customer email inquiries.  Approx 90 advocates affected. No etc
+2001-09-11 22:07:40 Arch [0983352] C  ALPHA  ipager@nationwid|Page|Call me. I just spoke to John Martens Bill 5668 
+2001-09-11 22:07:41 Skytel [005175378] A ST NUM  845-3416 (10   
+2001-09-11 22:07:41 Skytel [007568209] A ST NUM  909-943-6680   
+2001-09-11 22:07:41 Skytel [005509713] A ST NUM  1-045-683-6647-78000
+2001-09-11 22:07:41 Skytel [007576923] C ST NUM  0-432-867-3133-61437
+2001-09-11 22:07:43 Arch [0978061] D  ALPHA  nat2: /data/cis/LOG900 does not appear to be growing. TSS and CIS support have been paged.
+2001-09-11 22:07:43 Arch [0921885] D  ALPHA  9/11/01@9:08:03 PM D03S08:Failed after 3 retries. The RPC server is unavailable.
+2001-09-11 22:07:43 Skytel [002555746] A ST NUM  900-713-6125   
+2001-09-11 22:07:43 Skytel [005384427] C  ALPHA  applmgr@hp05fat.finance.sel.sony.com|   SMOESOPG in PROD on 11-SEP-2001|Orders Transmitted: ECOMM 329, INTEK 438, Orders Booked: ECOMM 301, INTEK 427, WO Opened: 106 WO Completed: 108 Pick Released: 1315 Deliveries Sent to DMPLUS:
+2001-09-11 22:07:43 Skytel [002357089] A SH/TONE 2700    
+2001-09-11 22:07:43 Skytel [007518957] D  ALPHA  "Notice alert" |local |helicopter headed through plano airspace tward unknown location, unknown  int
+2001-09-11 22:07:43 Skytel [002754538] C SH/TONE 678-6776
+2001-09-11 22:07:43 Skytel [004133480] C  ALPHA  6555 (21
+2001-09-11 22:07:43 Skytel [003250771] A  ALPHA  24) please call Jen 610-287-2676
+2001-09-11 22:07:43 Skytel [005436525] D  ALPHA  Test Message #30-IX_T1701
+2001-09-11 22:07:45 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 22:07:45 Arch [0982363] C  ALPHA  jbotelho|We have located Arsalan Elley he's okay, will reach out if need be. This clears all the unaccountables that I had. Regards Judy Botelho   
+2001-09-11 22:07:45 Arch [0950718] D  ALPHA  mseaman|Hi All - No training this week on Wednesday (tomorrow) morning. Just FYI. Hasta manana.   
+2001-09-11 22:07:45 Skytel [005384427] C  ALPHA   3P1 1498,
+2001-09-11 22:07:45 Skytel [005100153] C  ALPHA  yellowst@soco.agilent.com||HUNG: aman14 (ET51607) testing E6432A US40360309 at SOURCES_YSI Slot #29  
+2001-09-11 22:07:45 Skytel [007596662] B ST NUM  203-449-1297   
+2001-09-11 22:07:45 Skytel [003327216] A  ALPHA  002561 CYCLIC TEST 
+2001-09-11 22:07:45 Skytel [005109366] B  ALPHA  24) Suzanne.Scott@foxnews.com||need you call me  Suzanne Scott Fox News  
+2001-09-11 22:07:45 Skytel [007641460] B ST NUM  858-587-5060   
+2001-09-11 22:07:45 Skytel [005347826] A SH/TONE 28006   
+2001-09-11 22:07:45 Skytel [003279871] D  ALPHA  882-2612.Greenwood, IN       
+2001-09-11 22:07:45 Skytel [002357369] C  ALPHA  002561 CYCLIC TEST 
+2001-09-11 22:07:45 Skytel [003951473] A  ALPHA  do u know how much i want to be a part of this-i know kim is the luv of ur life and she will get ur attention but dont forget about alicia-u know how i luv to be a part the center of things- thats why i have volunteered for denver but if i 
+2001-09-11 22:07:46 Skytel [005086735] D  ALPHA  VOICE MESSAGE URGENT [1494
+2001-09-11 22:07:46 Skytel [002356238] D SH/TONE 1       
+2001-09-11 22:07:46 Skytel [005312911] D ST NUM  508-506-2038   
+2001-09-11 22:07:46 Skytel [002139900] D SH/TONE 002561  
+2001-09-11 22:07:48 Metrocall [002589127] B  ALPHA  Frm: MARY ANNE EDMONDS Sub: Re: Tacoma Txt: TO: RICHIE HODGEFR: EDDIE EDMONDSRegarding your message below, what is the word etc. referring to following "Add applicable tax, tag, etc." Please advise.Thank you. ----- 
+2001-09-11 22:07:48 Skytel [004547346] A SH/TONE 752     
+2001-09-11 22:07:48 Skytel [004533273] C SH/TONE 3500    
+2001-09-11 22:07:49 Arch [0987275] C  ALPHA  s0191: 09/11 11:42:59 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:42:59
+2001-09-11 22:07:49 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 189696. 
+2001-09-11 22:07:49 Arch [0936445] D  ALPHA  Super-User <root|filesystem (proxy-a**) proxy--a:/ 12 proxy--a:/usr 51 proxy--a:/var 8 proxy--a:/opt 49 proxy--a:/tmp 1 proxy--a:/var/cac 10 
+2001-09-11 22:07:49 Arch [0453168] A  ALPHA  15-PLEASE CALL THE DATA CTR AT 212-837-1443.  RE: FAILED JOB.  JOSE
+2001-09-11 22:07:49 Arch [1208286] D  ALPHA  212 778-1400
+2001-09-11 22:07:49 Metrocall [002589127] B  ALPHA  Origi
+2001-09-11 22:07:49 Metrocall [1064374] B  ALPHA  YEN  119.35/45 -037 EUR  0.9092/97 -011 CHF  1.6470/00 +065 GBP  1.4725/35 -026 CAD  1.5639/49 +002 AUD  0.5157/62 -038  NZD  0.4275/85 -030 DEM  2.1507/19 +033  E/C  1.4991/96 -164 E/Y  108.99/09 +034 E/S  0.6163/66 -029 USD     113
+2001-09-11 22:07:49 Metrocall [1544820] B  ALPHA  CRDC-MAIL02 "Server CRDC-MAIL02/MSVR/KAIPERM - Mail1.box has 175 documents. Further investigation may be required. "
+2001-09-11 22:07:50 Skytel [007547939] A ST NUM  212-642-4004   
+2001-09-11 22:07:50 Skytel [005384363] C  ALPHA  applmgr@hp05fat.finance.sel.sony.com|   SMOESOPG in PROD on 11-SEP-2001|Orders Transmitted: ECOMM 329, INTEK 438, Orders Booked: ECOMM 301, INTEK 427, WO Opened: 106 WO Completed: 108 Pick Released: 1315 Deliveries Sent to DMPLUS: 3P1 1498,
+2001-09-11 22:07:50 Skytel [003487784] C ST NUM  918-247-1682   
+2001-09-11 22:07:50 Skytel [007456673] A ST NUM  0-310-901-7150 
+2001-09-11 22:07:51 Metrocall [1064374] B  ALPHA  .45 +007
+2001-09-11 22:07:52 Skytel [003461808] A SH/TONE 99      
+2001-09-11 22:07:52 Skytel [005483578] C ST NUM  223-720-4020   
+2001-09-11 22:07:53 Arch [1359851] C  ALPHA  XLadmin Account |Host Error Notification (laqahos|LA South American Satellite images have not been received for an excessive amount of time (460 minutes). Please check it out -- data is not flowing!
+2001-09-11 22:07:54 Skytel [008477645] D  ALPHA  TOTAL DID TELL-UAS AL 11-SEP-2001 21:03:49 -----> SERIE 215XX = 9885, SERIE 513XX = 9970, SERIE 583XX = 9919, SERIE 509XX = 2966 (72 (73
+2001-09-11 22:07:54 Skytel [004530506] C SH/TONE 2118    
+2001-09-11 22:07:56 Skytel [003944538] C  ALPHA  Alert Number: 1583026 - MVSISGA - Call 3790 Say FDTPAGE NODE SUNFTP FAILED - ARPS#DVD NA NA
+2001-09-11 22:07:56 Skytel [005485532] D ST NUM  306-328-7035   
+2001-09-11 22:07:58 Arch [0965721] C  ALPHA  NTSECURE:Device Inaccessible
+2001-09-11 22:07:58 Arch [1410932] B  ALPHA  ipager@nationwid|Page|Call me. I just spoke to John Martens Bill 5668 
+2001-09-11 22:07:58 Arch [0938835] A  ALPHA  786-56000029
+2001-09-11 22:07:58 Skytel [007439466] C ST NUM  733-3018 (92   
+2001-09-11 22:07:59 Metrocall [1544820] B  ALPHA  WDC-MAIL04 "Server WDC-MAIL04/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail1.box. "
+2001-09-11 22:07:59 Metrocall [1412231] B  ALPHA  SUSEN DCH 301-552-8237 PORTER
+2001-09-11 22:07:59 Metrocall [1784230] B  ALPHA  Box Alar

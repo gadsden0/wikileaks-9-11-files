@@ -1,0 +1,801 @@
+2001-09-11 11:16:00 Arch [1373829] B  ALPHA  (19)(1/1) [EA]Tkt 04235840, Sev: 3, Cust: LORMANN,JAMES R, Phone: 4078891313, MailStop: FLAPKA0305, Desc: <<client wans to have a password reset on the following group.  he is saying he can get through using the sp
+2001-09-11 11:16:00 Arch [0551562] C  ALPHA  (9)07:ABS: EMMC INITIAL:  EMMC WILL BE USING THE (EVN6) QUE TO GATHER/COLLECT ANY CUSTOMER TROUBLE TICKETS RELATED TO  NEW YORK, NY.  FIX AGENCIES, PLEASE INSURE YOU CKTS EITHER TERMINATE OR GO THROUGH NEW YORK CITY BEFORE ROUTING TO (EVN6).
+2001-09-11 11:16:00 Arch [1603062] B  ALPHA  13:ABS: Tkt:4562236, Sev:2, TIQ:60min, Queue:PLTQ, Cust Name: BANKERS TRUST - NEW YORK,
+2001-09-11 11:16:00 Arch [0915948] D  ALPHA  From:Notes Application Services/O&S/Prudential@PRUDENTIAL Subject:Unable to open smtp.box on NYPLAZNGW03 Body:Unable to open smtp.box on NYPLAZNGW03
+2001-09-11 11:16:00 Arch [0759942] B  ALPHA  (11)(1/1) [EA]Tkt 04235840, Sev: 3, Cust: LORMANN,JAMES R, Phone: 4078891313, MailStop: FLAPKA0305,
+2001-09-11 11:16:00 Weblink_B [1114804] B  ALPHA  EOC meeting time changed to 9am, not 8:30am. Still in room 313AB to discuss this morning's national events. You can dial in via 888-311-9051, code=36699. [72]
+2001-09-11 11:16:00 Weblink_B [0710640] A  ALPHA  Dave - am trying to reach you re: travel arrangements, etc.
+2001-09-11 11:16:01 Metrocall [1708427] C  ALPHA   SUBJ: Implement Real World FPCON Delta Immediately MSG:   ------_=_NextPart_001_01C13AD3.A1452BE0
+2001-09-11 11:16:01 Metrocall [1889678] D  ALPHA  877-625-3811 has 1 new message.
+2001-09-11 11:16:01 Metrocall [1708440] C  ALPHA  .A1452BE0
+2001-09-11 11:16:01 Metrocall [0577736] C  ALPHA  Frm: amanda.vaccaro@my2way.com Txt: Mike - Did U get my msg w/ status? Pls call me at work or msg at pager 703-213-1823 w/ 5555 for yes. Luv U, A
+2001-09-11 11:16:01 Skytel [005354112] A ST NUM  3077831328
+2001-09-11 11:16:01 Skytel [002817933] D  ALPHA  {autoexec}AE1-11:15:40-TWClient:Can t connect to the TWFireWall 208.226.148.82/1
+2001-09-11 11:16:01 Skytel [007515121] A  ALPHA  y-alerts@yahoo-inc.com|| Bush calls World Trade Center crashes apparent terroris
+2001-09-11 11:16:01 Skytel [003784065] A SH/TONE 722-4440
+2001-09-11 11:16:01 Skytel [004538249] C  ALPHA  (...) 5000 Bad file number
+2001-09-11 11:16:01 Skytel [003926016] A  ALPHA  OST ALERT: ALL TM CENTERS do not shut down your software, just disable the logins. 
+2001-09-11 11:16:01 Skytel [007512308] B  ALPHA  Y! || First plane to hit World Trade Center was hijacked after takeoff from Bost
+2001-09-11 11:16:01 Skytel [004750729] C ST NUM  916-781-8254   
+2001-09-11 11:16:01 Skytel [007457551] D SH/TONE 402-9260
+2001-09-11 11:16:01 Skytel [004217479] B  ALPHA  812-499-5952 (96
+2001-09-11 11:16:01 Skytel [004750731] C ST NUM  553-4245 (48   
+2001-09-11 11:16:01 Skytel [007464192] A ST NUM  420-655-3020   
+2001-09-11 11:16:01 Skytel [005332609] A ST NUM  703-886-5537   
+2001-09-11 11:16:01 Skytel [007523084] D  ALPHA  Y! || First plane to hit World Trade Center was hijacked after takeoff from Boston, U.S. official sa
+2001-09-11 11:16:01 Skytel [005090058] C  ALPHA  kstephan@smtp-core.na.baesystems.com|rbnt02|rbnt01 may be down.  
+2001-09-11 11:16:01 Skytel [002348037] B SH/TONE 893-2977
+2001-09-11 11:16:01 Skytel [005344006] B SH/TONE 21      
+2001-09-11 11:16:01 Skytel [005416066] A  ALPHA  From: Denise Mar  homer baxter, eap, is on his way back to the plant from ntc.
+2001-09-11 11:16:02 Arch [0510164] B  ALPHA  (1)(1/1) [EA]Tkt 04235840, Sev: 3, Cust: LORMANN,JAMES R, Phone: 4078891313, MailStop: FLAPKA0305, Desc: <<client wans to have a password reset on the following group.  he is saying he can get through using the sp
+2001-09-11 11:16:02 Arch [1604734] D  ALPHA  0 NCC_EH /072645|11.11AM all data centers are in lock down status per nancy davis. nobody comes in unless known by personnel in room. 
+2001-09-11 11:16:02 Arch [0551496] C  ALPHA  (11)07:ABS: EMMC INITIAL:  EMMC WILL BE USING THE (EVN6) QUE TO GATHER/COLLECT ANY CUSTOMER TROUBLE TICKETS RELATED TO  NEW YORK, NY.  FIX AGENCIES, PLEASE INSURE YOU CKTS EITHER TERMINATE OR GO THROUGH NEW YORK CITY BEFORE ROUTING TO (EVN6).
+2001-09-11 11:16:02 Arch [1614034] A  ALPHA  From:Notes Application Services/O&S/Prudential@PRUDENTIAL Subject:Unable to open smtp.box on NYPLAZNGW03 Body:Unable to open smtp.box on NYPLAZNGW03
+2001-09-11 11:16:02 Weblink_B [0710640] A  ALPHA  .   ... whj x74557 [64]
+2001-09-11 11:16:02 Weblink_B [1157571] A  ALPHA  EOC meeting time changed to 9am, not 8:30am. Still in room 313AB to discuss this morning's national events.
+2001-09-11 11:16:03 Metrocall [1304453] B  ALPHA  Frm: m2admin/Mango@m2.graphnet.com Sub: MESSAGE CANCELLATION Txt: D O C U M E N T N U M B E R 9328482A001 INPUT REFERENCE NUMBER : - DEPARTMENTAL BILLING CODE : - INPUT DATE/TIME : 11SEP2001 10:26 EST
+2001-09-11 11:16:03 Metrocall [1830818] A  ALPHA  Frm: IPN Sub: Txt: UPDATE: All inbound Trans-Atlantic Flights are bing re-routed to Canda Dest. ATT |IPN
+2001-09-11 11:16:03 Skytel [007641491] A SH/TONE 012-3456
+2001-09-11 11:16:03 Skytel [003781529] C SH/TONE 401     
+2001-09-11 11:16:03 Skytel [005325854] D ST NUM  210-213-8255-911    
+2001-09-11 11:16:03 Skytel [007593620] B ST NUM  313-975-1742   
+2001-09-11 11:16:03 Skytel [003270424] C  ALPHA  SOPC Router maggw is down (8
+2001-09-11 11:16:03 Skytel [007554961] A SH/TONE 2808    
+2001-09-11 11:16:03 Skytel [007608733] D ST NUM  849-589-0229   
+2001-09-11 11:16:03 Skytel [005066134] B  ALPHA  y-alerts@yahoo-inc.com|| First plane to hit World Trade Center was hijacked after takeoff from Boston, U.S. official says.   
+2001-09-11 11:16:03 Skytel [005354003] A  ALPHA  kstephan@smtp-core.na.baesystems.com|gde01011|gde01009 may be down.  
+2001-09-11 11:16:04 Arch [0915696] A  ALPHA  "-"<TFisher@doll|<2/2:RMD:Updated: Di> TE Tables fragmentation issues and the Purge process.Would like 2 run this by you before we proceed with a prototype.. 
+2001-09-11 11:16:04 Arch [0970860] D  ALPHA  86800
+2001-09-11 11:16:04 Arch [1072747] C  ALPHA  "Boyd, Scott" <s|give me a call please|W. Scott Boyd Program Manager - Sprint Team Lead Intrado 720.494.5944 (office) 303.807.7245 (cell) 1.800.724.3722 (pager) pin # 911.0067 
+2001-09-11 11:16:04 Arch [0015079] B  ALPHA  Paul.McFadden@dt|WPG, Montreal, CDNX, Liberty Hal|Winnipeg Grain Exchange is closed the remainder of the day. Montreal futures and exchange and CDNX Canadian equities are closed for the remainder of the day. Liberty Treasury quotes are close
+2001-09-11 11:16:04 Weblink_B [1157571] A  ALPHA   You can dial in via 888-311-9051, code=36699. [09]
+2001-09-11 11:16:04 Weblink_B [0039297] A  ALPHA  MOC*!Sp2in.`h.s cdOs.^a.I`?pE..*.6F~Vk |$.pbMt#_ Zo.(w0.../.".:..3f.H.c1F.F.2.fHf.3.bLf.3H.c1F.F.2.fHf.3.bLf.313L
+2001-09-11 11:16:05 Metrocall [1521863] B  ALPHA  Frm: OConnell, Erin Sub: Txt: 8-9 staffing- TH 161/22 RF 54/2 
+2001-09-11 11:16:05 Metrocall [1281131] C  ALPHA  Frm: LIEBER,KARL (HP-Loveland,ex1) Sub: FW: Salary Administration Exceptions #9 - URGENT Txt: Please note the following... Julie -----Original Message----- From: BURROUGHS,CARLTON (HP-USA,ex1) Sent: Tuesday, September 11, 2001 7:25 A
+2001-09-11 11:16:05 Skytel [007554851] A ST NUM  730-577-3330-1 
+2001-09-11 11:16:05 Skytel [002358319] D  ALPHA  {autoexec}AE1-11:15:40-TWClient:Can t connect to the TWFireWall 208.226.148.82/1
+2001-09-11 11:16:05 Skytel [007574052] B ST NUM  218-894-0141   
+2001-09-11 11:16:05 Skytel [002848942] D  ALPHA  Hi Paul, pls call Nodlag....they've been evacuated.  Moni
+2001-09-11 11:16:05 Skytel [005131436] D  ALPHA  OST ALERT: ALL TM CENTERS do not shut down your software, just disable the logins. 
+2001-09-11 11:16:05 Skytel [007517869] D  ALPHA  Y! || First plane to hit World Trade Center was hijacked after takeoff from Boston, U.S. official sa
+2001-09-11 11:16:05 Skytel [007541805] D SH/TONE 582-1112
+2001-09-11 11:16:05 Skytel [005414063] D ST NUM  734-718-0056 (84    
+2001-09-11 11:16:05 Skytel {1013188} 3 2400 89  8884406177 
+2001-09-11 11:16:05 Skytel {1250983} 3 2400 7424  52  
+2001-09-11 11:16:06 Arch [2020119] B  ALPHA      TODAYS GAMES     TUE SEP 11  OPEN        STARDUST LINES                         01 MON 8-u  Thurman  02 FLA 139  Beckett  03 NYM 143  Leiter   04 PIT 8    Ritchie  05 PHI 8-u  Person   06 ATL 130  Burkett  07 STL 157  William  08 MIL 9o   Copping 
+2001-09-11 11:16:06 Arch [1603062] B  ALPHA  14:ABS: Tkt:4825661, Sev:2, TIQ:58min, Queue:PLTQ, Cust Name: DHL AIRWAYS INC
+2001-09-11 11:16:06 Arch [0950756] B  ALPHA  From:Notes Application Services/O&S/Prudential@PRUDENTIAL Subject:Unable to open smtp.box on NYPLAZNGW03 Body:Unable to open smtp.box on NYPLAZNGW03
+2001-09-11 11:16:06 Arch [0625788] D  ALPHA  Diana
+2001-09-11 11:16:06 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7205
+2001-09-11 11:16:06 Arch [0911005] D  ALPHA  (28)(1/1) [EA]Tkt 04237275, Sev: 4, Cust: HENRIQUEZ,JOSE, Phone: 9166367156, MailStop: CARACE0101, Desc: <<need to restore file from 07/18\\streettalk\fs billing data@USS_SAC9@
+2001-09-11 11:16:06 Arch [0999102] D  ALPHA  From:Notes Application Services/O&S/Prudential@PRUDENTIAL Subject:Unable to open smtp.box on NYPLAZNGW03 Body:Unable to open smtp.box on NYPLAZNGW03
+2001-09-11 11:16:06 Arch [1318953] C  ALPHA  (11)13:ABS: EMMC INITIAL:  EMMC WILL BE USING THE (EVN6) QUE TO G
+2001-09-11 11:16:06 Skytel {1888584} 3 1200 1-207-442-4712 
+2001-09-11 11:16:06 Skytel {0300250} 1 1200 456789    
+2001-09-11 11:16:06 Skytel {1341860} 3 1200   *    *   *  *     
+2001-09-11 11:16:06 Weblink_B [0039297] A  ALPHA  duct. 428-3000
+2001-09-11 11:16:06 Weblink_B [1857449] C  ALPHA  From: rwitte@gblx.net Subject: [ops1] [Major/Update] NY Hudson Street Switch site has been evacuated and is witho - They have shut down power to the NY Hudson Street facility due to terrorist activity in NY. This means everythi
+2001-09-11 11:16:07 Metrocall [1758186] C  ALPHA  Frm: Metrocall's Website Txt: what is Celanese doing for security? LG
+2001-09-11 11:16:07 Metrocall [1521863] B  ALPHA  MK 165/2 EP 276/22 CB 131/89
+2001-09-11 11:16:07 Metrocall [1281131] C  ALPHA  M To: SINGER,JULIE (Non-HP-Loveland,ex1) Subjec
+2001-09-11 11:16:07 Metrocall [1924864] A  ALPHA  FYI ONLY AT&T's 4E's in NY are stable. Heavy call volumes are coming in. Restrictive network controls are in place. 50 T3's are down in NY area. Terry Dyer 770 918 5442
+2001-09-11 11:16:07 Metrocall [1924454] B  ALPHA  FYI ONLY AT&T's 4E's in NY are stable. Heavy
+2001-09-11 11:16:07 Skytel {1706390} 1 1200 412-823-4759   
+2001-09-11 11:16:07 Skytel {0745401} 3 1200 973-776-8300-301    
+2001-09-11 11:16:07 Skytel {0448053} 3 1200 8886127940
+2001-09-11 11:16:07 Skytel {1913350} 3 1200 972-205-7271  98    
+2001-09-11 11:16:07 Skytel {1613945} 3 1200 18003161683    
+2001-09-11 11:16:07 Skytel {0465501} 3 1200 547-7505  
+2001-09-11 11:16:08 Arch [2020119] B  ALPHA   09 SFO 10u  Ortiz    10 HOU 115  Mlicki   11 COL 8u   Neagle   12 ARI 220  Schilli  13 LOS 141  Adams    14 SDG 9u   Midlebr  15 MIN 123  Radke    16 DET 8-   Weaver   17 TOR 142  Escobar  18 BAL 9u   Johnson  19 BOS 114  Fossum   20 TAM 9-u  Sturtz  
+2001-09-11 11:16:08 Arch [0625788] D  ALPHA   Frammersbe|PEDIATRIC TRAUMA ALERT|3775 SW 16 ST, CHILD RAN INTO A GLASS DOOR, CUT HIS ARM. NFI AT THIS TIME. RE47 TRANSPORTING 
+2001-09-11 11:16:08 Arch [0904067] A  ALPHA  23-PLEASE CALL ME AT HOME. RALPH. 631-689-2149.
+2001-09-11 11:16:08 Arch [1080426] C  ALPHA  From:
+2001-09-11 11:16:08 Arch [0911005] D  ALPHA  Sprint_SAC\billing_data\centralfil
+2001-09-11 11:16:08 Arch [0716320] A  ALPHA  91- I WILL NOT BE INTO WORK TODAY. LARRY SHELLENBERGER HOME 201-327-6869
+2001-09-11 11:16:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/s
+2001-09-11 11:16:08 Arch [1318953] C  ALPHA  ATHER/COLLECT ANY CUSTOMER TROUBLE TICKETS RELATED TO  NEW YORK, NY.  FIX AGENCIES, PLEASE INSURE YOU CKTS EITHER TERMINATE OR GO THROUGH NEW YORK CITY BEFORE ROUTING TO (EVN6).
+2001-09-11 11:16:08 Arch [0982126] D  ALPHA  40-CALL OR EMAIL HOME. NOT URGENT.
+2001-09-11 11:16:08 Skytel {0883871} 3 1200 520-663-7896   
+2001-09-11 11:16:08 Skytel {0617537} 3 1200 812-8290  
+2001-09-11 11:16:08 Skytel {0662431} 1 1200 201010    
+2001-09-11 11:16:08 Weblink_B [1857449] C  ALPHA  ng going to Europe is down. Updates will follow as information becomes available. Robb Witte Event Manager 602-416-7077 [10]
+2001-09-11 11:16:08 Weblink_B [1171977] C  ALPHA  Conf. call w/Gary at 11:30 a.m. EST.  1-800-376-2054, 9838*. Topic: National situation./T
+2001-09-11 11:16:09 Metrocall [1924454] B  ALPHA   call volumes are coming in. Restrictive network controls are in place. 50 T3's are down in NY area. Terry Dyer 770 918 5442
+2001-09-11 11:16:09 Metrocall [1165692] D  ALPHA  Frm: OConnell, Erin Sub: Txt: 8-9 staffing- TH 161/22 RF 54/2 MK 165/2 EP 276/22 CB 131/89
+2001-09-11 11:16:10 Arch [2020119] B  ALPHA   21 CLE 150  Finley   22 KAN 10u  Durbin   23 SEA 149  Sele     24 ANA 8-o  Schoenw  25 TEX 9-   Helling  26 OAK 177  Lidle   
+2001-09-11 11:16:10 Arch [0915696] A  ALPHA  "-"<TFisher@doll|<1/2:RMD:Updated: Discuss Quote Tables Processing 10:30A-11:00A:Larry's Office F:<TFisher@doll> The
+2001-09-11 11:16:10 Arch [1080426] C  ALPHA  Notes Application Services/O&S/Prudential@PRUDENTIAL Subject:Unable to open smtp.box on NYPLAZNGW03 Body:Unable to open smtp.box on NYPLAZNGW03
+2001-09-11 11:16:10 Arch [1184785] A  ALPHA  From:Notes Application Services/O&S/Prudential@PRUDENTIAL Subject:Unable to open smtp.box on NYPLA
+2001-09-11 11:16:10 Arch [1425048] C  ALPHA  ocket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 182227. 
+2001-09-11 11:16:10 Arch [0506899] A  ALPHA  (1/1) [EA]Tkt 04237275, Sev: 4, Cust: HENRIQUEZ,JOSE, Phone: 9166367156, MailStop: CARACE0101, Desc: <<need to restore fil
+2001-09-11 11:16:10 Arch [1302832] A  ALPHA  (5)(1/1) [EA]Tkt 04237275, Sev: 4, Cust: HENRIQUEZ,JOSE, Phone: 9166367156, MailStop: CARACE0101,
+2001-09-11 11:16:10 Arch [0950772] B  ALPHA  From:Notes Application Services/O&S/Prudential@PRUDENTIAL Subject:Unable to open smtp.box on NYPLAZNGW03 Body:Unable to open smtp.box on NYPLAZ
+2001-09-11 11:16:10 Weblink_B [0961914] C  ALPHA  From: y-weather@yahoo-inc.com - $499 deals on iPAQ Pocket PC San Jose, CA Mostly Cloudy 54 - 73 F WNI [22]
+2001-09-11 11:16:10 Weblink_B [0709421] D  ALPHA  Pls. come to Tom Thomaides office asap.  Thanks, Cathy
+2001-09-11 11:16:11 Arch [0915696] A  ALPHA   DBA's have a possible solution 4 the QUO 
+2001-09-11 11:16:11 Arch [1262280] C  ALPHA  (27)(1/1) [EA]Tkt 04237391, Sev: 3, Cust: WHITSETT,MACEO A, Phone: 7022447259, MailStop: NVLSVB0217, Desc: <<Client reports that he has had problems since friday with his pc. He said it ju
+2001-09-11 11:16:11 Arch [1184785] A  ALPHA  ZNGW03 Body:Unable to open smtp.box on NYPLAZNGW03
+2001-09-11 11:16:11 Arch [1206926] D  ALPHA  From:Notes Application Services/O&S/Prudential@PRUDENTIAL Subject:Unable to open smtp.box on NYPLAZNGW03 Body:Unable to open smtp.box on NYPLAZNGW03
+2001-09-11 11:16:11 Arch [1424644] B  ALPHA  (17)14:ABS: EMMC INITIAL:  EMMC 
+2001-09-11 11:16:11 Arch [0506899] A  ALPHA  e from 07/18\\streettalk\fs billing data@USS_SAC9@Sprint_SAC\billing_data\centralfil
+2001-09-11 11:16:11 Arch [0922019] A  ALPHA  0 NCC_EH /072645|11.11AM all data centers are in lock down status per nancy davis. nobody comes in unless known by personnel in room. 
+2001-09-11 11:16:11 Arch [0931101] D  ALPHA  0 NCC_EH /0726
+2001-09-11 11:16:11 Metrocall [1438673] A  ALPHA  CALL US AT THE SHOP
+2001-09-11 11:16:11 Metrocall [0903232] A  ALPHA  Frm: Svchammer (FUSA) Sub: Txt: Possible MCI outage on King VRU 51
+2001-09-11 11:16:11 Metrocall [0813440] A  ALPHA  Frm: 3013974200@my2way.com Txt: Call me as soon as you c
+2001-09-11 11:16:11 Metrocall [0110650] C  ALPHA  Frm: Svchammer (FUSA) Sub: Txt: Possible MCI outage on King VRU 51
+2001-09-11 11:16:11 Metrocall [1373065] C  ALPHA  #2/C064/  SUMMARY RECORD /??/      / ()  ,  / C064 TODAY, 09 11 2001 AS OF 10:05 YOU WERE SENT   1 ALPHA PAGE(S 10:05
+2001-09-11 11:16:11 Metrocall [0983626] C  ALPHA  95-JOE: PLEASE CALL 
+2001-09-11 11:16:12 Arch [0950772] B  ALPHA  NGW03
+2001-09-11 11:16:12 Arch [2020121] C  ALPHA       FUTURE GAMES     TUE SEP 11  Open       STARDUST LINES                        OHIO     NC-S 15-    PSU  4   VIR         TX-T 7-  UTEP        CO-S     UNLV 6      ECAR     SYR  4      CONN     TEMP 26     NAVY     NORW 34-    SD-S  
+2001-09-11 11:16:12 Metrocall [002117370] C  ALPHA  FYI ONLY AT&T's 4E's in NY are stable. Heavy call volumes are coming in. Restrictive network controls are in place. 50 T3's are down in NY area. Terry Dyer 770 918 5442
+2001-09-11 11:16:12 Metrocall [0813440] A  ALPHA  an. I need to know that you are fine.
+2001-09-11 11:16:12 Metrocall [1421985] A  ALPHA  65-CALL LARRY AT 314-298-9334.
+2001-09-11 11:16:12 Metrocall [0983626] C  ALPHA  SISTER MARGARET AT 888-436-2646 EXT. 95946. 10:8a
+2001-09-11 11:16:12 Metrocall [002588591] D  ALPHA  FYI ONLY AT&T's 4E's in NY are stable. Heavy call volumes are coming in. Restrictive network controls are in place. 50 T3's are down i
+2001-09-11 11:16:12 Weblink_B [0136387] A  ALPHA  System test 1441 9/11/01 10:16:19 CST
+2001-09-11 11:16:12 Weblink_B [1676554] C  ALPHA  FYI:UAT Internet environment has been disabled due to current events. -Command Center x74097 [88]
+2001-09-11 11:16:12 Weblink_B [0113597] D  ALPHA  Join bridge at 9.10 MDT to discuss situation    888.764.9957  pc 14582
+2001-09-11 11:16:13 Arch [1262280] C  ALPHA  st blinks at him. He gets
+2001-09-11 11:16:13 Arch [2020120] C  ALPHA       FUTURE GAMES     TUE SEP 11  Open       STARDUST LINES                        01 BUF 34-           02 MIA 7             03 DEN 52            04 IND 3 ev          05 PHI 32-           06 TBB 3             07 ARZ
+2001-09-11 11:16:13 Arch [1424644] B  ALPHA  WILL BE USING THE (EVN6) QUE TO GATHER/COLLECT ANY CUSTOMER TROUBLE TICKETS RELATED TO  NEW YORK, NY.  FIX AGENCIES, PLEASE INSURE YOU CKTS EITHER TERMINATE OR GO THROUGH NEW YORK CITY BEFORE ROUTING TO (EVN6).
+2001-09-11 11:16:13 Arch [0931101] D  ALPHA  45|11.11AM all data centers are in lock down status per nancy davis. nobody comes in unless known by personnel in room. 
+2001-09-11 11:16:13 Arch [0801473] A  ALPHA  47-PLS CALL ME - JACKIE 818-521-9082
+2001-09-11 11:16:13 Arch [0930755] A  ALPHA  SW- It's grid-locked here.Gov't. bl
+2001-09-11 11:16:13 Arch [2020121] C  ALPHA     OH-S 18-    LOU      ILL  4-     W-MI     MICH 15-    WYO      KAN  6-     VAND     MS-S 9      VAND     MISS 9      BUF      ARMY 24     DUKE     CLEM 22-    HOU      GEO  24-    KEN      IND  8      SMU      NCAR 21     UAB      PIT  4-     UAB   
+2001-09-11 11:16:13 Weblink_B [0710721] A  ALPHA  FYI:UAT Internet environment has been disabled due to current events. -Command Center x74097 [90]
+2001-09-11 11:16:13 Weblink_B [0362127] D  ALPHA  EOC meeting time changed to 9am, not 8:30am. Still in room 313AB to discuss this morning's national events. You can 
+2001-09-11 11:16:14 Metrocall [002589796] B  ALPHA  FYI ONLY AT&T's 4E's in NY are stable. Heavy call volumes are coming in. Restrictive network controls are in place. 50 T3's are down in NY area. Terry Dyer 770 918 5442
+2001-09-11 11:16:14 Metrocall [002588591] D  ALPHA  n NY area. Terry Dyer 770 918 5442
+2001-09-11 11:16:14 Metrocall [0122329] C  ALPHA  ALEX Ext: CRITICAL Crit
+2001-09-11 11:16:14 Metrocall [1559945] C  ALPHA  (209090031)38209090031,   DENNY'S #D1594 RS TONCHE RS TONCHE NIT 757-826-4537 09110900 ed. Code = 0 rs0091101 projected arrival time has expired no times posted please contact store mgr with new eta and upd
+2001-09-11 11:16:15 Arch [2020120] C  ALPHA   36            08 WAS 3             09 CIN               10 TEN               11 DAL 36            12 DET 7 ev          13 GBP 39            14 NYG 2-            15 PAT 36-           16 CAR 3-20          17 SFO 45            18 NOR 7             19 ATL
+2001-09-11 11:16:15 Arch [1405906] A  ALPHA  root@fhfconv01.o|fhfnlus20 is down|
+2001-09-11 11:16:15 Arch [0903192] C  ALPHA  608-5896
+2001-09-11 11:16:15 Arch [0922569] C  ALPHA  WB09100275 203-469-8895 STOP & SHOP 0692 ISS400 DEBBIE ASHMAN SRC
+2001-09-11 11:16:15 Arch [1275141] B  ALPHA  TEST PAGE 8007912833
+2001-09-11 11:16:15 Arch [0748252] D  ALPHA  100 466-8791
+2001-09-11 11:16:15 Arch [0930755] A  ALPHA  dgs. around us are closing down.  Reston Center evacuated.  Schools keeping reg. schedules --- parents can't get to kids anyway with all the traffic &they are shield
+2001-09-11 11:16:15 Arch [0769433] C  ALPHA  From Gwen Schatz Sub:ASDA group at your office for meeting
+2001-09-11 11:16:15 Arch [2020121] C  ALPHA     PITT 4-     MARS     TCU  7-     UTAH     AIRF 2-     TENN     FLA  12     IOWA 5-  IA-S        WAS      MIA  19     NOTD 2-  PURD        COLO 2   WA-S        MIZ      MI-S 12-    HAW  7   UNR         S-MS     ALA  4-     WVIR     MARY 10     LA-L  
+2001-09-11 11:16:15 Weblink_B [0362127] D  ALPHA  dial in via 888-311-9051, code=36699.
+2001-09-11 11:16:15 Weblink_B [0755249] A  ALPHA  Please have Russ call Ed ASAP at Judy's desk at 6175632324. Thanks, TB [54]
+2001-09-11 11:16:15 Weblink_B [1532511] D  ALPHA  **URGENT**Bill call UPCI 7-1298 [77]
+2001-09-11 11:16:15 Weblink_B [0007971] A  ALPHA  FYI:UAT Internet environment has
+2001-09-11 11:16:16 Metrocall [1034989] D  ALPHA  public schools are closing @ noon. bonnie
+2001-09-11 11:16:16 Metrocall [1559945] C  ALPHA  ate update ASTEA thanks PATDOU
+2001-09-11 11:16:16 Metrocall [1293608] C  ALPHA  Happy Birthday from JayPea.  Hope i
+2001-09-11 11:16:16 Metrocall [002568894] D  ALPHA  Problem ticket number 116957 has been closed.  The following systems SITE CIRCUIT OUTAGE is/are now available.  The root cause was Bad card_Scottsdale (307).  We appreciate 
+2001-09-11 11:16:17 Arch [2020120] C  ALPHA                 20 RAM               21 JET 45            22 RAI 8-            23 KCC 41            24 SEA 3-20          25 JAG 3-20          26 CHI 37            27 MIN 38-           28 BAL 6            
+2001-09-11 11:16:17 Arch [1421933] D  ALPHA  9900/DEBORAH WHITLEY//23229/HOLDING/STAT
+2001-09-11 11:16:17 Arch [0460456] C  ALPHA  466-8727
+2001-09-11 11:16:17 Arch [2020121] C  ALPHA     C-FL 25-    E-MI     AKR  16-    MIAO 12  KENT        N-IL     WAKE 3      RICE     NEB  36    
+2001-09-11 11:16:17 Weblink_B [0007971] A  ALPHA   been disabled due to current events. -Command Center x74097
+2001-09-11 11:16:17 Weblink_B [1909223] B  ALPHA  FYI:UAT Internet environment has been disabled due to current events. -Command Center x74097
+2001-09-11 11:16:18 Metrocall [002698867] A  ALPHA  PLEASE CHECK VOICE MAILBOX...9150360
+2001-09-11 11:16:18 Metrocall [1293608] C  ALPHA  t is GREAT>
+2001-09-11 11:16:18 Metrocall [002568894] D  ALPHA  your patience.
+2001-09-11 11:16:18 Metrocall [1821292] D  ALPHA  88-HI GARY. THIS IS SHERRY. I'M LOOKING AT THE PLANE CRASHES. PLEASE CALL ME AND LET ME KNOW YOUR PLANE IS FINE. I'M VERY WORRIED, PLS RETURN MY CALL. 804-458-2204.
+2001-09-11 11:16:18 Metrocall [1221208] C  ALPHA  Lam - We are at threatcon Delta. Everyone is leaving 
+2001-09-11 11:16:19 Arch [2020122] C  ALPHA       FUTURE GAMES     TUE SEP 11  Open       STARDUST LINES                        N-TX     ARK  20     BOWL     SCAR 24     LA-M     CIN  26-    CAL  9   RUTG        LA-T     KS-S 26     BYU      MS-S 3-     BYU      MISS 3-     TULS     OKL  31-    
+2001-09-11 11:16:19 Arch [0861545] C  ALPHA  42533
+2001-09-11 11:16:19 Weblink_B [1108674] A  ALPHA  FYI:UAT Internet environment has been disabled due to current events. -Command Center x74097
+2001-09-11 11:16:19 Weblink_B [1784664] C  ALPHA  FYI:UAT Internet environment has been disabled due to current events. -Command Center x74097
+2001-09-11 11:16:19 Weblink_B [1446925] D  ALPHA  WHAT'S THE LATEST? [64]
+2001-09-11 11:16:20 Metrocall [002468335] D  ALPHA  From: Ingram, Daryl Subj: Call me 770-335-6990 I need to know your computer password daryl
+2001-09-11 11:16:20 Metrocall [1221208] C  ALPHA  at Frauke's request. Should servers be shut down before we leave? Please call me with instruction. I am looking for threatcon instructions now. Ala
+2001-09-11 11:16:20 Metrocall [1924671] D  ALPHA  FYI ONLY AT&T's 4E's in NY
+2001-09-11 11:16:21 Arch [2020122] C  ALPHA  GA-T     FSU  8-     BAY      MIN  16-    C-MI     BOIS 17     AUB      LSU  7      STAN 14  JOSE        NM-S     NMEX 6      UT-S     FRES 22     AZ-S     UCLA 8-    
+2001-09-11 11:16:21 Arch [1658372] B  ALPHA  6666
+2001-09-11 11:16:21 Arch [1603062] B  ALPHA  15:ABS: Tkt:4849840, Sev:2, TIQ:60min, Queue:PLTQ, Cust Name: CREDIT LYONNAIS-WALL ST
+2001-09-11 11:16:21 Arch [1666878] D  ALPHA  test test
+2001-09-11 11:16:21 Arch [0907982] D  ALPHA  449-5785
+2001-09-11 11:16:21 Arch [1028266] C  ALPHA  "Pressley, Mary |Jay Smith is at my desk. Please call
+2001-09-11 11:16:21 Arch [0509147] C  ALPHA  (25)08:ABS: EMMC INITIAL:  EMMC WILL BE USING THE (EVN6) QUE TO GATHER/COLLECT ANY CUSTOMER TROUBLE TICKETS RELATED TO  NEW YORK, NY.  FIX AGENCIES, PLEASE INSURE YOU CKTS EITH
+2001-09-11 11:16:21 Arch [1262280] C  ALPHA  (28)(1/1) [EA]Tkt 04237272, Sev: 3, Cust: KIMMEL,KIRSTEN, Phone: 7023661855, MailStop: NVLAVQ0701, Desc: <<Banyan password reset. Client is unable to sign on to her machine. Could not remote the client's computer.
+2001-09-11 11:16:21 Arch [0922060] D  ALPHA  0423887322   07/320 HARMIN
+2001-09-11 11:16:21 Weblink_B [1787096] C  ALPHA  When you get a free minute please call Ann Franzell x 14656 . Thanks Rosemary
+2001-09-11 11:16:21 Weblink_B [1177776] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER 7854
+2001-09-11 11:16:21 Weblink_B [1219381] B  ALPHA  CALL HOME PLEASE [01]
+2001-09-11 11:16:22 Metrocall [1924671] D  ALPHA   are stable. Heavy call volumes are coming in. Restrictive network controls are in place. 50 T3's are down in NY area. Terry Dyer 770 918 5442
+2001-09-11 11:16:22 Metrocall [1552979] A  ALPHA  Frm: Web Support Sub: www Apache DOWN Txt: 9/11/01 10:08
+2001-09-11 11:16:22 Metrocall [002682150] B  ALPHA  Frm: Kimberly.Coker@gulfaero.com Sub: Txt: 1:00 w/Goodyear is cancelled. 2 of their reps are stranded @ Atlanta Airport.
+2001-09-11 11:16:23 Arch [0621611] C  ALPHA  This is an ARG CONDITION THREE ALERT.  Please call 845-2274 immediately and follow the instructions on the ARG message line.  845-2274
+2001-09-11 11:16:23 Arch [0509147] C  ALPHA  ER TERMINATE OR GO THROUGH NEW YORK CITY BEFORE ROUTING TO (EVN6).
+2001-09-11 11:16:23 Arch [1603062] B  ALPHA  16:ABS: Tkt:4905964, Sev:2, TIQ:59min, Queue:PLTQ, Cust Name: DHL AIRWAYS INC
+2001-09-11 11:16:23 Arch [0922060] D  ALPHA  Y ENTERPSISES 38 WEST 32ND STREET #ROOM 1104 NEW YORK (212)695-9596       TIC 1632540785 OOP  09/12  7@923 TT CUST CLOSNG ACCT. -
+2001-09-11 11:16:23 Weblink_B [1231279] D  ALPHA  Greg, Hope you & your kids & mom are ok. Love, Cheri
+2001-09-11 11:16:23 Weblink_B [0714543] D  ALPHA  test....... [38]
+2001-09-11 11:16:23 Weblink_B [0118347] C  ALPHA  16602635082-241
+2001-09-11 11:16:24 Arch [1603062] B  ALPHA  17:ABS: Tkt:5003759, Sev:2, TIQ:3min, Queue:EVN6, Cust Name: GAP
+2001-09-11 11:16:24 Metrocall [1585728] A  ALPHA  Leslie Schiff is holding for you
+2001-09-11 11:16:24 Metrocall [0483333] B  ALPHA  YOU HAVE A VOICE MAIL MESSAGE
+2001-09-11 11:16:24 Metrocall [1552979] A  ALPHA  :46 AM Help Desk 4-5500
+2001-09-11 11:16:24 Metrocall [002592830] D  ALPHA  Resp device in possession 400 E South OIC bldg,
+2001-09-11 11:16:24 Metrocall [0687269] B  ALPHA  Frm: Nidia Gaston Sub: your husband wants you to call Txt: Nidia Gaston Executiv
+2001-09-11 11:16:24 Metrocall [002265311] D  ALPHA  Frm: MSN Txt: Hotmail Goldenpalace.com@opt08
+2001-09-11 11:16:25 Metrocall [1544820] B  ALPHA  ALA-NS1 Server Startup !! bizzoot!!
+2001-09-11 11:16:25 Metrocall [002592830] D  ALPHA   1st floor mailroom X Lake OFD .Arson acknow OFD 4 <MCKAY>
+2001-09-11 11:16:25 Weblink_B [1568307] A  ALPHA  Group page: We are NOT removing Co-locator personnel from the offices at this time, unless they do not have a valid ID badge. Thanks, Jody
+2001-09-11 11:16:25 Weblink_B [0115202] A  ALPHA  Entrust Notifier: (SR #: 1-12999907, 1-Critical, 2001-08-23 12:27
+2001-09-11 11:16:26 Arch [2020123] C  ALPHA  MLB OPEN CARB MIR    TUE SEP 11  OPEN                                               MON 8-u  8-u         FLA 139  140         NYM 143  150         PIT 8    7-o         PHI 8-u  8-u         ATL 130  135         STL 157  160         MIL 9o   9o         
+2001-09-11 11:16:26 Metrocall [002265311] D  ALPHA  .opt-in-ne:Venga con nosotros al casino
+2001-09-11 11:16:26 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3769
+2001-09-11 11:16:26 Metrocall [0903232] A  ALPHA  Frm: Svchammer (FUSA) Sub: Txt: Possible MCI outage on King VRU 52
+2001-09-11 11:16:26 Metrocall [0110650] C  ALPHA  Frm: Svchammer (FUSA) Sub: Txt: Possible MCI outage on King VRU 52
+2001-09-11 11:16:27 Metrocall [1398853] B  ALPHA  the property management meeting has been cancelled.
+2001-09-11 11:16:27 Metrocall [1560125] D  ALPHA  Frm: 'tknight@ci.orange.nj.us Sub: re: automated attendant Txt: Captain, Can you send this again, it is reporting a virus
+2001-09-11 11:16:27 Metrocall [002162910] D  ALPHA  Frm: J., Michele, Joel & Noah Sub: Txt: Bryan is okay!
+2001-09-11 11:16:27 Metrocall [1059973] B  ALPHA  DID YOU HEAR ABOUT THE TERROIST BOMBINGS? TURN ON THE NEWS... DAVID, PLEASE CALL ME SO WE CA
+2001-09-11 11:16:27 Weblink_B [0115202] A  ALPHA  :14.000, JWALCO (11:12/SEP 11)
+2001-09-11 11:16:27 Weblink_B [0261501] D  ALPHA  OPERATORS AND TOC PERSONNEL ARE ON STANDBY UNTIL FURTHER NOTICE. THIS MEANS BE AVAILABLE BUT CONTINUE WITH YOUR PRESENT DUTIES ? CALL GREENE 832-5159
+2001-09-11 11:16:27 Weblink_B [0486543] D  ALPHA  992-2880
+2001-09-11 11:16:27 Weblink_B [0114392] C  ALPHA  2158
+2001-09-11 11:16:28 Arch [2020123] C  ALPHA   SFO 10u  10u         HOU 115  123         COL 8u   8u          ARI 220  230         LOS 141  145         SDG 9u   9u          MIN 123  130         DET 8-   8-          TOR 142  155         BAL 9u   9u          BOS 114  120         TAM 9-u  9-u        
+2001-09-11 11:16:28 Arch [1600740] B  ALPHA  please call dispatch
+2001-09-11 11:16:28 Arch [1048520] C  ALPHA  45-MICHAEL, CALL MOM 407-521-2526, ASK FOR MS. VANNESS, SHE'LL GIVE ME THE CALL.
+2001-09-11 11:16:28 Arch [1032980] B  ALPHA  46296
+2001-09-11 11:16:28 Arch [0080958] D  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resum
+2001-09-11 11:16:28 Arch [1052088] C  ALPHA  47-PLEASE CALL MARCUS NICHOLS AT CERBERIAN AT 801-368-1924.
+2001-09-11 11:16:28 Arch [0809872] A  ALPHA  41-I AM ON MY WAY TO TODD'S. PLEASE STAY PUT.
+2001-09-11 11:16:28 Arch [1428158] D  ALPHA  41992
+2001-09-11 11:16:28 Arch [0928504] C  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated
+2001-09-11 11:16:28 Arch [0905738] C  ALPHA  11-ARE YOU AND THE ENGINEERS OKAY? -CHUCK. 732-735-9576.
+2001-09-11 11:16:28 Arch [1642388] B  ALPHA  GET_NORTHERN_CONTRACT.PL JOB GET_NORTHERN_CONTRACT.PL,NORTHERN_US_CCOMP HAS FAILED
+2001-09-11 11:16:28 Arch [1035981] D  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound
+2001-09-11 11:16:29 Metrocall [1094403] A  ALPHA  PLEASE CALL SAM OR BRANDI AT OFFICE. 759-9971
+2001-09-11 11:16:29 Metrocall [1059973] B  ALPHA  N TALK A LITTLE. I MISS YOU & DON'T WANT THIS TO COME OUT BAD. I DON'T WANT TO LOSE U. DO U WANT TO LOSE ME?
+2001-09-11 11:16:29 Metrocall [1373066] C  ALPHA  #2/E002/  SUMMARY RECORD /
+2001-09-11 11:16:29 Metrocall [1495845] B  ALPHA  (From ICON01) IR:1282323 ASSIGNED:TS/NET P:1 ON DALA 09/09 17:45
+2001-09-11 11:16:29 Metrocall [002117368] C  ALPHA  FYI ONLY AT&T's 4E's in NY are stable. Heavy call volumes are coming in. Restrictive network controls are in place. 50 T3's are down in NY area. Terry Dyer 770 918 5442
+2001-09-11 11:16:29 Weblink_B [0486561] A  ALPHA  HI, IAN, THIS IS BETH, I'M PHONING FROM INSIDE OF OUR GARAGE, I NEED TO KNOW IF YOU'RE GOING TO BE THERE, PLSE CALL ME, I NEED THE KEYS TO GET INTO THE HOUSE, BYE.
+2001-09-11 11:16:29 Weblink_B [1490179] A  ALPHA  HERB PLEASE CALL CANDICE W/ METRO ENGINEERING A
+2001-09-11 11:16:30 Arch [2020123] C  ALPHA   CLE 150  155         KAN 10u  10u         SEA 149  155         ANA 8-o  8-o         TEX 9-   9-          OAK 177  180        
+2001-09-11 11:16:30 Arch [0925366] B  ALPHA   318643;Sep 11 07:17:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 11:16:30 Arch [0080958] D  ALPHA  e in about 20 minutes.
+2001-09-11 11:16:30 Arch [2020125] D  ALPHA  CFA OPEN CARB MIR    TUE SEP 11  OPEN                                               OHIO                 NC-S 15-  14-  15    PSU  1-   4    3-    VIR                  TX-T 7-   8    7-    UTEP                 CO-S    
+2001-09-11 11:16:30 Arch [0928504] C  ALPHA   to resume in about 20 minutes.
+2001-09-11 11:16:30 Arch [2020124] D  ALPHA  NFL OPEN CARB MIR    TUE SEP 11  OPEN                                               BUF 34-  34-  35     MIA 7    7           DEN 52   51          IND 3 ev 3           PHI 32-  32   32     TBB 5               
+2001-09-11 11:16:30 Arch [1035981] D  ALPHA   service estimated to resume in about 20 minutes.
+2001-09-11 11:16:30 Arch [0968541] D  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:30 Arch [1446653] D  ALPHA  0 NCC_EH /072645|11.11AM all data centers
+2001-09-11 11:16:30 Weblink_B [1490179] A  ALPHA  T 293 0890 PLEASE CALL THANK YOU  9:14-8-11/09
+2001-09-11 11:16:30 Weblink_B [0486561] A  ALPHA  3400@Telus.com (1/2)  Subj: knowbility- training environment ON/PQ :  users are experiencing tuxedo 6 errors in training environment # 19 - ticket #.
+2001-09-11 11:16:31 Metrocall [1373066] C  ALPHA  ??/      / ()  ,  / E002 TODAY, 09 11 2001 AS OF 10:05 YOU WERE SENT   1 ALPHA PAGE(S 10:05
+2001-09-11 11:16:31 Metrocall [1924863] D  ALPHA  FYI ONLY AT&T's 4E's in NY are stable. Heavy call volumes are coming in. Restrictiv
+2001-09-11 11:16:31 Metrocall [002589696] A  ALPHA  Frm: ERCMonitor@ercgroup.com Sub: SiteScope Alert, error, Regal.com, timed out reading on step 3, https://www.ge-frankona-re-regal.com/siteminderagent/forms/regal.fcc?TYPE=33554433&REALMOID=06-3... Txt: SiteScope
+2001-09-11 11:16:31 Skytel [003923587] A  ALPHA  Ken_Barton@hazmat.noaa.gov||URGENT - Please email or call in to office ASAP so we know that you are OK.  Ed is safe!  You are dismissed for the day but stay tethered to comms.  Ken sends  
+2001-09-11 11:16:31 Skytel [005431554] A ST NUM  901-227-6993 (18    
+2001-09-11 11:16:31 Skytel [002746374] B SH/TONE 505     
+2001-09-11 11:16:31 Skytel [005330957] D ST NUM  508-970-1046   
+2001-09-11 11:16:31 Skytel [003657095] B  ALPHA  4) Sergio y Laura, que bueno que estan bien, los quiero mucho. Cuidense JLRivas. El unico avion que esta en el aire.....
+2001-09-11 11:16:31 Skytel [007060231] B ST NUM  668-903-5911-911    
+2001-09-11 11:16:31 Skytel [003587079] B ST NUM  915-757-0637 (98    
+2001-09-11 11:16:31 Skytel [002394756] B SH/TONE 0620    
+2001-09-11 11:16:31 Skytel [007516047] D  ALPHA  Y! || Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:31 Skytel [007518341] B  ALPHA  Y! || Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:31 Skytel [005507335] B  ALPHA  JSusman@starbucks.com|from Jen|I hope you are safe. Please leave your hote
+2001-09-11 11:16:31 Skytel [005256194] A  ALPHA  y-finance@yahoo-inc.com||Be mobile with Compaq ^DJI 0.00 0.00; ^IXIC 0.00 0.00; ^SPC 1092.54 0.00; Delayed Reuters  
+2001-09-11 11:16:31 Skytel [005384704] A ST NUM  8883898705
+2001-09-11 11:16:31 Skytel [005255304] C ST NUM  317-635-0057 (75    
+2001-09-11 11:16:31 Skytel [004592395] C ST NUM  999-999-9999   
+2001-09-11 11:16:31 Skytel [004569733] B ST NUM  818-932-6231   
+2001-09-11 11:16:31 Skytel [004405515] C SH/TONE 22799   
+2001-09-11 11:16:32 Arch [2020126] D  ALPHA  CFA OPEN CARB MIR    TUE SEP 11  OPEN                                               UAB                  PIT  6    4-   4-    UAB                  PITT 6    4-   4-    MARS                 TCU  8    8-   7-    UTAH                 AIRF 3    3    2-   
+2001-09-11 11:16:32 Arch [2020125] D  ALPHA               UNLV 5-   6-   6     ECAR                 SYR  4-   4    4-    CONN                 TEMP 27   25-  26    NAVY                 NORW 35   33-  34    SD-S                 OH-S 17   18-  18-   LOU                  ILL  6    4    4-    W-MI    
+2001-09-11 11:16:32 Arch [2020124] D  ALPHA   ARZ 38   36-  36-    WAS 5-               CIN                  TEN                  DAL 36   35   35-    DET 7    6-   6-     GBP 39   39          NYG 2-   2           PAT 36-  36-  36-    CAR 4-               SFO 45   45-  45-    NOR 6-   6-   7     
+2001-09-11 11:16:32 Arch [1446653] D  ALPHA   are in lock down status per nancy davis. nobody comes in unless known by personnel in room. 
+2001-09-11 11:16:32 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0128
+2001-09-11 11:16:32 Arch [1050146] A  ALPHA  0 NCC_EH /072645|11.11AM all data centers are in lock down status per n
+2001-09-11 11:16:32 Weblink_B [0484304] A  ALPHA  2682477
+2001-09-11 11:16:32 Weblink_B [0261498] C  ALPHA  OPERATORS AND TOC PERSONNEL ARE ON STANDBY UNTIL FURTHER NOTICE. THIS MEANS BE AVAILABLE BUT CONTINUE WITH YOUR PRESENT DUTIES ? CALL GREENE 832-5159
+2001-09-11 11:16:32 Weblink_B [1781977] C  ALPHA  Please call Mike Shriver, thanks Ev
+2001-09-11 11:16:33 Metrocall [002106140] D  ALPHA  =
+2001-09-11 11:16:33 Metrocall [1924863] D  ALPHA  e network controls are in place. 50 T3's are down in NY area. Terry Dyer 770 918 5442
+2001-09-11 11:16:33 Metrocall [002589696] A  ALPHA   Regal.com Regal 28167 timed out reading on step 3, https://www.ge-f
+2001-09-11 11:16:33 Metrocall [002562975] D  ALPHA  FYI ONLY AT&T's 4E's in NY are stable. Heavy call volumes are coming in. Restrictive network controls are in place. 50 T3's are down in NY area. Terry Dyer 770 918 5442
+2001-09-11 11:16:33 Metrocall [002589710] D  ALPHA  Frm: ERCMonitor@ercgroup.com Sub: SiteScope Alert, error, Regal.c
+2001-09-11 11:16:33 Skytel [003846675] A  ALPHA  I need your home phone again...when you getting the 2nd phone line...you have a Cell Phone?  
+2001-09-11 11:16:33 Skytel [002557328] A ST NUM  301-894-3798   
+2001-09-11 11:16:33 Skytel [003446928] A ST NUM  619-562-9140   
+2001-09-11 11:16:33 Skytel [005100824] C  ALPHA  : Total mail is 14.25 buckets. Steve  
+2001-09-11 11:16:33 Skytel [007512093] D  ALPHA  Y! || Bush calls World Trade Center crashes apparent 
+2001-09-11 11:16:33 Skytel [005129627] C SH/TONE 7413    
+2001-09-11 11:16:33 Skytel [007510681] C  ALPHA  y-alerts@yahoo-inc.com|| First plane to hit World Trade Center was hijacked after takeoff from Bosto
+2001-09-11 11:16:33 Skytel [003483156] B SH/TONE 257-8815
+2001-09-11 11:16:33 Skytel [005509400] C  ALPHA  DAN.CAPLIN@airborne.com|ncs healthcare|hello mark, what was the outcome? thanks. ------------------( Forwarded
+2001-09-11 11:16:33 Skytel [005507335] B  ALPHA  l? phone # on my work phone. I love you.  
+2001-09-11 11:16:33 Skytel [005245208] C SH/TONE 5411    
+2001-09-11 11:16:33 Skytel [004403736] C ST NUM  817-251-0354 U 
+2001-09-11 11:16:33 Skytel [007518366] D  ALPHA  y-alerts@yahoo-inc.com|| First plane to hit World Trade Center was hijacked after takeoff from Bosto
+2001-09-11 11:16:33 Skytel [002151321] C ST NUM  217-741-8024 (22    
+2001-09-11 11:16:33 Skytel [004129432] C ST NUM  919-914-5407 (77    
+2001-09-11 11:16:33 Skytel [002401430] B  ALPHA  The scho
+2001-09-11 11:16:33 Skytel [002554399] D ST NUM  704-875-2166   
+2001-09-11 11:16:33 Skytel [002368668] D  ALPHA  aday0001@san.rr.com|Plane crashed near Camp David.  All skyscrapers in Chicago evacuated. Plane that crashed near Pittsburgh was bound for Chicago. More as I hear it.|Citrus Punch    Arlene Day  BLOCKHOUSE DQ/UNICOR e-mail:  aday0
+2001-09-11 11:16:33 Weblink_B {1147152} 2 2400 COR:N3,R6,INFORMA,EL SITIO 158-CLUB DE GOLF PRESENTA FALLA EN RA 19 (DGN=1-2-1-1), RA 09 (DGN=1-4-8-1) Y RA 4 (DGN= 1-6-7-1),ATTE:RMG.
+2001-09-11 11:16:34 Arch [2020126] D  ALPHA   TENN                 FLA  10-  12   11-   IOWA 3    5-   5-    IA-S                 WAS                  MIA  20   19   19-   NOTD 3    2    2-    PURD                 COLO 4    1-   2     WA-S                 MIZ                  MI-S 13   12-  12-  
+2001-09-11 11:16:34 Arch [2020125] D  ALPHA               MICH 17   15   15-   WYO                  KAN  6-   7    6-    VAND                 MS-S 10   8-   9     VAND                 MISS 10   8-   9     BUF                  ARMY 25-  23-  24    DUKE                 CLEM 26   21   22-   HOU     
+2001-09-11 11:16:34 Arch [2020124] D  ALPHA   ATL                  RAM                  JET 44   44-  44-    RAI 7-   8    8-     KCC 42-  40-  41     SEA 3                JAG 3    3    3      CHI 37   37-  37     MIN 38-  39   39     BAL 6    6-   6-    
+2001-09-11 11:16:34 Arch [1603062] B  ALPHA  18:ABS: Tkt:5003764,
+2001-09-11 11:16:34 Arch [1050146] A  ALPHA  ancy davis. nobody comes in unless known by personnel in room. 
+2001-09-11 11:16:34 Arch [0282469] B  ALPHA  0 NCC_EH /072645|11.11AM all data centers are in lock down status per nancy davis. nobody comes in unless known by personnel in room. 
+2001-09-11 11:16:34 Arch [1376997] B  ALPHA  (1)07:ABS: EMMC INITIAL:  EMMC WILL
+2001-09-11 11:16:34 Weblink_B {1147152} 2 2400 COR INFORMA:(R9)SE TIENEN EN OOS LOS RADIOS DEL SITIO 181 MICROCELDA SANTA FE PROVOCANDO 100% DE IA'S AN AMPS (1/2)..
+2001-09-11 11:16:35 Metrocall [002589710] D  ALPHA  om, timed out reading on step 3, https://www.ge-frankona-re-regal.com/siteminderagent/forms/regal.fcc?TYPE=33554433&REALMOID=06-3... Txt: SiteScope Regal.com Regal 28167 timed out reading on step 3, https://www.ge-f
+2001-09-11 11:16:35 Metrocall [002590227] A  ALPHA  38-PLEASE CALL TERRE
+2001-09-11 11:16:35 Metrocall [1502888] C  ALPHA  Frm: casey.ping@my2way.com Txt: We will be headed back today, probably leaving next 2-3 hours
+2001-09-11 11:16:35 Metrocall [0813109] B  ALPHA  Frm: IPN Sub: Txt: UPDATE: Reports of 767 Crashed in SummerSet County, PA (North of Pitts
+2001-09-11 11:16:35 Skytel [007512093] D  ALPHA  terrorist attack.   
+2001-09-11 11:16:35 Skytel [007515941] B  ALPHA  Y! || Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:35 Skytel [007520815] D  ALPHA  Y! || Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:35 Skytel [007512621] D  ALPHA  Y! | First plane to hit World Trade Cente
+2001-09-11 11:16:35 Skytel [005509400] C  ALPHA   letter 1 follows )--------------------- Date: Friday, 7 September 2001 3:34am PT To: MARK.DOYLE, DEAM.ROYS, * From: DAN.CAPLIN@AI
+2001-09-11 11:16:35 Skytel [004750374] B ST NUM  856-256-0417-911    
+2001-09-11 11:16:35 Skytel [005413031] B ST NUM  18004547018 (6 
+2001-09-11 11:16:35 Skytel [005191716] B SH/TONE 3       
+2001-09-11 11:16:35 Skytel [007528224] A  ALPHA  y-alerts@yahoo-inc.com|| First plane to hit World Tra
+2001-09-11 11:16:35 Skytel [002401430] B  ALPHA  ol on base is closed if you have kids you need to pick them up
+2001-09-11 11:16:35 Skytel [007588651] C SH/TONE 3200    
+2001-09-11 11:16:35 Skytel [005426981] B  ALPHA  y-finance@yahoo-inc.com||$499 deals on iPAQ Pocket PC AOL 0.00 0.00; DIS 0.00 0.00; IONN 0.00 0.00; Delayed Reuters   (11
+2001-09-11 11:16:35 Skytel [005101355] C SH/TONE 6299    
+2001-09-11 11:16:35 Skytel [002840238] D ST NUM  513-754-4045   
+2001-09-11 11:16:35 Skytel [002368668] D  ALPHA  001@san.rr
+2001-09-11 11:16:35 Skytel [004207910] B  ALPHA  632-234-7131
+2001-09-11 11:16:35 Skytel [004690086] B SH/TONE 23 U    
+2001-09-11 11:16:35 Skytel [007522852] B  ALPHA  y-alerts@yahoo-inc.com|| First plane to hit World Trade Center was hijacked after takeoff from Bosto
+2001-09-11 11:16:35 Skytel [007524524] D  ALPHA  Y! || Bush calls World Trade Center crashes apparent terrorist attack. 
+2001-09-11 11:16:35 Weblink_B {1084888} 2 1200 VOICE MESSAGE IN YOUR MAILBOX494-8542
+2001-09-11 11:16:36 Arch [2020126] D  ALPHA   HAW  8-   7    7     UNR                  S-MS                 ALA  4    5    4-    WVIR                 MARY 7-   10   10-   LA-L                 C-FL 25-  24   24-   E-MI                 AKR  17-  15-  16    MIAO 14-  11-  11-   KENT                
+2001-09-11 11:16:36 Arch [2020125] D  ALPHA               GEO  23   24-  24-   KEN                  IND  9    7-   7-    SMU                  NCAR 20   21-  20-  
+2001-09-11 11:16:36 Arch [1607632] A  ALPHA  07-PLEASE CALL TAWNY AT THE OFC AT 800-863-9433
+2001-09-11 11:16:36 Arch [1650373] B  ALPHA  From root at 11:15 AM EDT: "IFMX
+2001-09-11 11:16:36 Arch [1603062] B  ALPHA   Sev:2, TIQ:58min, Queue:PLTQ, Cust Name: COMPUTER RESEARCH
+2001-09-11 11:16:36 Arch [1087655] B  ALPHA  Problem 02113898 Sev1 UTSES-BRIDGE MILLER, DAPHANIE 1-614-677-6775 \ddcprt01 will not release print jobs. Error - printer busy or error; \ddcprt01 p0104
+2001-09-11 11:16:36 Arch [1376997] B  ALPHA   BE USING THE (EVN6) QUE TO GATHER/COLLECT ANY CUSTOMER TROUBLE TICKETS RELATED TO  NEW YORK, NY.  FIX AGENCIES, PLEASE INSURE YOU CKTS EITHER TERMINATE OR GO THROUGH NEW YORK CITY BEFORE ROUTING TO (EVN6).
+2001-09-11 11:16:36 Arch [1339691] C  ALPHA  TEST PAGE 8005718056
+2001-09-11 11:16:36 Weblink_B {1489488} 1 1200 428-1599
+2001-09-11 11:16:36 Weblink_B {0088122} 3 1200 4743.
+2001-09-11 11:16:36 Weblink_B {0992634} 3 1200 HEY ERIC YOU DOING OK DOWN THERE? BECAUSE OF THAT BOMBING STUFF STAY AWAY FROM THOSE HIGH POPULATED AREAS, GO TO DISNEYLAND. GIVE ME A CALL WHEN YOU CAN..
+2001-09-11 11:16:37 Metrocall [0475173] B  ALPHA  Frm: Gorog, Chris (FUSA) Sub: Can't get through via phone Txt: Try to call me on my cell.
+2001-09-11 11:16:37 Metrocall [002590227] A  ALPHA  NCE IMMEDIATELY AT 973-674-8855.
+2001-09-11 11:16:37 Metrocall [0813109] B  ALPHA  burg). There is still 1 Com. Aircraft Unacounted For ATT IPN
+2001-09-11 11:16:37 Metrocall [1544818] A  ALPHA  ALA-NS1 Server Startup !! bizzoot!!
+2001-09-11 11:16:37 Metrocall [002468244] B  ALPHA  877-348-2900 has 1 new message.
+2001-09-11 11:16:37 Skytel [007512621] D  ALPHA  r was hijacked after takeoff from Boston, U.S. official say
+2001-09-11 11:16:37 Skytel [003421489] A SH/TONE 906-4836
+2001-09-11 11:16:37 Skytel [005370528] A ST NUM  703-441-1083   
+2001-09-11 11:16:37 Skytel [003417250] A ST NUM  516-678-8112   
+2001-09-11 11:16:37 Skytel [002754482] A ST NUM  334-354-2007   
+2001-09-11 11:16:37 Skytel [004062515] A ST NUM  909-861-5001   
+2001-09-11 11:16:37 Skytel [003494960] A SH/TONE 985-3560
+2001-09-11 11:16:37 Skytel [003510704] A ST NUM  1-508-648-4897 
+2001-09-11 11:16:37 Skytel [004144442] C  ALPHA  PromedicaN993PA grounded per FAA untill further notice
+2001-09-11 11:16:37 Skytel [007528224] A  ALPHA  de Center was hijacked after takeoff from Bosto
+2001-09-11 11:16:37 Skytel [0001582] D ST NUM  307-8987  
+2001-09-11 11:16:37 Skytel [005103161] C SH/TONE 452-3127
+2001-09-11 11:16:37 Skytel [007552565] B  ALPHA  The school is closed if you have kids you need to pick them up
+2001-09-11 11:16:37 Skytel [005424692] B ST NUM  658-7215 (67   
+2001-09-11 11:16:37 Skytel [003253433] C  ALPHA  : Total mail is 14.25 buckets. Steve  
+2001-09-11 11:16:37 Skytel [007517878] B  ALPHA  Y! || First plane to
+2001-09-11 11:16:37 Skytel [005249065] C ST NUM  603-593-7283   
+2001-09-11 11:16:37 Skytel [005248697] C ST NUM  800-9342-83    
+2001-09-11 11:16:37 Skytel [003274046] D ST NUM  301-441-2457   
+2001-09-11 11:16:37 Skytel [007518399] D  ALPHA  Y! || First plane to hit World Trade Center was hijacked after takeoff from Boston, U.S. official sa
+2001-09-11 11:16:37 Skytel [007521077] B  ALPHA  Y! || First plane to hit World Trade Center was hijacked after takeoff from Bost
+2001-09-11 11:16:37 Skytel [007524524] D  ALPHA    
+2001-09-11 11:16:37 Skytel [007590829] D SH/TONE 7317    
+2001-09-11 11:16:37 Skytel [004387775] D ST NUM  770-301-9605   
+2001-09-11 11:16:37 Skytel [002775741] D ST NUM  749-4115 (5    
+2001-09-11 11:16:37 Skytel [003785021] D ST NUM  209-532-7077   
+2001-09-11 11:16:37 Skytel [007515711] D  ALPHA  Y! || Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:37 Skytel [007518523] C  ALPHA  Y! || Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:38 Arch [2020126] D  ALPHA   N-IL                 WAKE 3    3          RICE                 NEB  35   35-  35-  
+2001-09-11 11:16:38 Arch [1223063] B  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 2
+2001-09-11 11:16:38 Arch [1650373] B  ALPHA  _ER@ibm61 - 01000004 RECVQ greater than 40000 elements behind - 72223 on ibm61 " [CC:informix adminpri] 
+2001-09-11 11:16:38 Arch [1025475] A  ALPHA  From informix at 11:16 AM EDT: SENDQ greater than 40000 elements behind - 109487 on ibm28 [CC:informix loock t6_everyone] 
+2001-09-11 11:16:38 Arch [0976819] A  ALPHA  At 11
+2001-09-11 11:16:38 Arch [1087655] B  ALPHA  01
+2001-09-11 11:16:38 Arch [0935670] B  ALPHA  From informix at 11:16 AM EDT: SENDQ greater than 40000 elements behind - 109487 on ibm28 [CC:informix loock t6_everyone] 
+2001-09-11 11:16:38 Arch [0939181] D  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound se
+2001-09-11 11:16:38 Arch [0928504] C  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:38 Arch [0978759] B  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to
+2001-09-11 11:16:38 Weblink_B {1493119} 3 1200 CDNX is closed until further notice. Clients have been contacted.
+2001-09-11 11:16:39 Metrocall [002116828] D  ALPHA  FYI ONLY AT&T's 4E's in NY are stable. Heavy call volumes are coming in. Restrictive network co
+2001-09-11 11:16:39 Metrocall [002117953] A  ALPHA  Frm: Martinez, Susan Sub: Txt: Code BLUE. There is NO ACCESS ALLOWED to any LNS switches, no installs. Conf Bridge: 877-807-5706, Part Code: 437973
+2001-09-11 11:16:39 Metrocall [002117960] C  ALPHA  Frm: Martinez, Susan Sub: Txt: Code
+2001-09-11 11:16:39 Skytel [005245377] A ST NUM  210-468-4197   
+2001-09-11 11:16:39 Skytel [003205057] A ST NUM  02153 (98 
+2001-09-11 11:16:39 Skytel [002357955] A  ALPHA  y-alerts@yahoo-inc.com|| Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:39 Skytel [007519558] B  ALPHA  Y! || First plane to hit World Trade Center was hijacked after takeoff from Boston, U.S. official sa
+2001-09-11 11:16:39 Skytel [007517878] B  ALPHA   hit World Trade Center was hijacked after takeoff from Boston, U.S. official sa
+2001-09-11 11:16:39 Skytel [007593670] B ST NUM  800-241-6383   
+2001-09-11 11:16:39 Skytel [002776773] B ST NUM  202-429-5438   
+2001-09-11 11:16:39 Skytel [002824527] D  ALPHA  15698@emc.fedex.com|Doug|Is here in 155, if anyone is looking for him. Thx,mark  
+2001-09-11 11:16:39 Skytel [004593483] C ST NUM  1) 630-645-3342-911 U    
+2001-09-11 11:16:39 Skytel [005266117] B SH/TONE 1       
+2001-09-11 11:16:39 Skytel [007521077] B  ALPHA  on, U.S. official sa
+2001-09-11 11:16:39 Skytel [002353217] A  ALPHA  358824@emc.fedex.com| This is a test!  
+2001-09-11 11:16:39 Skytel [002352451] A  ALPHA  File(s) MODIFIED
+2001-09-11 11:16:39 Skytel [005213642] C SH/TONE 246-5828
+2001-09-11 11:16:39 Skytel [007521091] A  ALPHA  Y! || First plane to hit World Trade Center was hijacked after takeoff from Bost
+2001-09-11 11:16:39 Skytel [002161867] C ST NUM  508-836-9353   
+2001-09-11 11:16:39 Skytel [002358723] A ST NUM  224-995-5950-0 
+2001-09-11 11:16:39 Skytel [005101384] C ST NUM  603-359-4253   
+2001-09-11 11:16:39 Skytel [003077324] D ST NUM  203-925-4611   
+2001-09-11 11:16:39 Skytel [005192000] A  ALPHA  GIVE ME A CALL AT WHSE ASAP THNKS JOHN 478-7817248
+2001-09-11 11:16:39 Skytel [007519309] D  ALPHA  Y! || First plane to hit World Trade Center was hijacked after takeoff from Bost
+2001-09-11 11:16:39 Skytel [007519179] C  ALPHA  Y! || Bush calls World Trade Center crashes apparent ter
+2001-09-11 11:16:39 Weblink_B {1263795} 1 1200 I think we should cancel the day. Please give me a call. Ken just had an all-staff mtg. 407-566-5311.  Mike [44]..
+2001-09-11 11:16:40 Arch [1223063] B  ALPHA  0 minutes.
+2001-09-11 11:16:40 Arch [0907736] C  ALPHA  Jack, I am in my office and still here, as I am essential personnel.  I am sure you are not in a meeting.  tx, gkjr. []
+2001-09-11 11:16:40 Arch [0949411] A  ALPHA  GET ON CONF CALL ASAP FOR MSG FROM ESPO.-ALO
+2001-09-11 11:16:40 Arch [0976819] A  ALPHA  12hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:40 Arch [0508893] D  ALPHA  Do to todays events the Joint Exercise at RG will be postponed until sometime in the future 9/11/01
+2001-09-11 11:16:40 Arch [0939181] D  ALPHA  rvice estimated to resume in about 20 minutes.
+2001-09-11 11:16:40 Arch [0935429] B  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:40 Arch [0978759] B  ALPHA   resume in about 20 minutes.
+2001-09-11 11:16:40 Arch [0926111] D  ALPHA  301 757-9900
+2001-09-11 11:16:40 Arch [009993244] D  ALPHA  GET ON CONF CALL ASAP FOR MSG FROM ESPO.-ALO
+2001-09-11 11:16:40 Arch [0949395] A  ALPHA  GET ON CONF CALL 
+2001-09-11 11:16:40 Skytel [003205312] A ST NUM  603-414-5889 (54    
+2001-09-11 11:16:40 Skytel [005071436] D  ALPHA  OST ALERT: ALL TM CENTERS do not shut down your software, just disable the logins.
+2001-09-11 11:16:40 Skytel [007518665] C  ALPHA  Y! || First plane to hit World Trade Center was hijacked after takeoff from Boston, U.S. official sa
+2001-09-11 11:16:40 Skytel [002862923] C ST NUM  724-770-5648   
+2001-09-11 11:16:40 Skytel [003905238] B SH/TONE 5304    
+2001-09-11 11:16:40 Skytel [007524416] A  ALPHA  Y! || Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:40 Skytel [002380874] C  ALPHA  The school on base is closed if you have kids you need to pick them up
+2001-09-11 11:16:40 Skytel [005133896] C  ALPHA  pager@household.com||(From HFC7609) 909397-3400 please call hq  
+2001-09-11 11:16:40 Skytel [004515679] D SH/TONE 4876    
+2001-09-11 11:16:40 Skytel [003459402] C SH/TONE 221-5054
+2001-09-11 11:16:40 Skytel [007512649] C  ALPHA  Y! || Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:40 Skytel [007520327] B  ALPHA  Y! || First plane to hit World Trade Center was hijacked after takeoff from Bost
+2001-09-11 11:16:40 Skytel [003872707] A  ALPHA  carollynne.meyer@eds.com|Accepted: Install Project98| 
+2001-09-11 11:16:40 Skytel [007519179] C  ALPHA  rorist attack.   
+2001-09-11 11:16:40 Skytel [005053270] B ST NUM  240-375-1037-911911 
+2001-09-11 11:16:40 Skytel [007522527] D  ALPHA  y-alerts@yahoo-inc.com|| First plane to hit World Trade Center was hijacked after takeoff from Bosto
+2001-09-11 11:16:40 Weblink_B {0208890} 3 1200 3400@Telus.com (1/2)  Subj: knowbility- training environment ON/PQ :  users are experiencing tuxedo 6 errors in training environment # 19 - ticket #...
+2001-09-11 11:16:41 Arch [0982220] D  ALPHA  test 
+2001-09-11 11:16:41 Arch [0580240] A  ALPHA  85-HI JOAN. I'M GOING TO BE AT HOME TODAY. THEY'VE CLOSED SEPULVEDA AND LINCOLN. THEY'VE ALSO EVACUATED THE CENTURY CITY TOWERS; AND ZACH'S OFFICE BLDG. 310-670-4443. I CALLED INTO WORK.
+2001-09-11 11:16:41 Arch [0928018] A  ALPHA  At 1112hrs. Code Red is now in effect,
+2001-09-11 11:16:41 Arch [0949864] C  ALPHA  GET ON CONF CALL ASAP FOR MSG FROM ESPO.-ALO
+2001-09-11 11:16:41 Arch [0942499] A  ALPHA  67-HAPPY BIRTHDAY. I'M THINKING OF YOU. LOVE, CYNTHIA.
+2001-09-11 11:16:41 Arch [1302046] D  ALPHA  From informix at 11:16 AM EDT: SENDQ greater than 40000 elements behind - 109487
+2001-09-11 11:16:41 Metrocall [002116828] D  ALPHA  ntrols are in place. 50 T3's are down in NY area. Terry Dyer 770 918 5442
+2001-09-11 11:16:41 Metrocall [002117960] C  ALPHA   BLUE. There is NO ACCESS ALLOWED to any LNS switches, no installs. Conf Bridge: 877-807-5706, Part Code: 437973
+2001-09-11 11:16:41 Metrocall [002106470] B  ALPHA  Frm: Martinez, Susan Sub: Txt: Code BLUE. There is NO ACCESS ALLOWED to any LNS switches, no installs. Conf Bridge: 877-807-5706, Part Code: 437973
+2001-09-11 11:16:41 Metrocall [1761261] D  ALPHA  Frm: Martinez, Susan Sub: 
+2001-09-11 11:16:41 Skytel [005521871] D ST NUM  415-740-5051   
+2001-09-11 11:16:41 Skytel [004593353] C ST NUM  1-757-334-9155 
+2001-09-11 11:16:41 Skytel [004688460] D  ALPHA  newsdirect@lyris.wcautv.com|NEWS ALERT|Accordin
+2001-09-11 11:16:42 Arch [0949866] C  ALPHA  GET ON CONF CALL ASAP FOR MSG FROM ESPO.-ALO
+2001-09-11 11:16:42 Arch [0949404] D  ALPHA  GET ON CONF CALL ASAP FOR MSG FROM ESPO.-ALO
+2001-09-11 11:16:42 Arch [0983091] A  ALPHA  From informix at 11:16 AM EDT: SENDQ greater than 40000 elements behind - 109487 on ibm28 [CC:informix loock t6_everyone] 
+2001-09-11 11:16:42 Arch [1403610] C  ALPHA  At 1112hrs.
+2001-09-11 11:16:42 Arch [0949395] A  ALPHA  ASAP FOR MSG FROM ESPO.-ALO
+2001-09-11 11:16:42 Arch [0916433] A  ALPHA  GET ON CONF CALL ASAP FOR MSG FROM ESPO.-ALO
+2001-09-11 11:16:42 Arch [0949399] B  ALPHA  GET ON CONF CALL ASAP FOR MSG FROM ESPO.-ALO
+2001-09-11 11:16:42 Arch [0949157] B  ALPHA  From informix at 11:16 AM EDT: SENDQ greater than 40000 elements behind - 109
+2001-09-11 11:16:42 Metrocall [1761261] D  ALPHA  Txt: Code BLUE. There is NO ACCESS ALLOWED to any LNS switches, no installs. Conf Bridge: 877-807-5706, Part Code: 437973
+2001-09-11 11:16:42 Metrocall [1761262] D  ALPHA  Frm: Martinez, Susan Sub: Txt: Code BLUE. There is NO ACCESS ALLOWED to an
+2001-09-11 11:16:42 Metrocall [1924710] B  ALPHA  Frm: Martinez, Susan Sub: Txt: Code BLUE. There is NO ACCESS ALLOWED to any LNS switches, no installs. Conf Bridge: 877-807-5706, Part Code: 437973
+2001-09-11 11:16:42 Skytel [005051613] D  ALPHA  Case  064423 CH1ATM    Charlotte, NC   Alltel          No Outage           09/11 10:12 Note#0  P1: EMX2500         Customer is getting paging overload and remote 96 IPRs. CP is not effected at current time.  [Ahmed_Qureshi]
+2001-09-11 11:16:42 Skytel [007645395] A ST NUM  800-729-9010   
+2001-09-11 11:16:42 Skytel [004704356] B SH/TONE 66      
+2001-09-11 11:16:42 Skytel [002390109] D  ALPHA  JCAMPOS@Allstate.COM||Can you please call Amina at Life Service Center at  847 812 1077  
+2001-09-11 11:16:42 Skytel [005114580] B ST NUM  76) 800-421-4561    
+2001-09-11 11:16:42 Skytel [005213008] A  ALPHA  Myrna.L.Ince@bankofamerica.com|Per Violet in pricing, DO NOT attempt to lock in any rates until further notice /m
+2001-09-11 11:16:42 Skytel [005055595] C SH/TONE 4872    
+2001-09-11 11:16:42 Skytel [005043935] D  ALPHA  karen.carroll@prudential.com||  I am still at work, office closed down. Can get 
+2001-09-11 11:16:42 Skytel [007578459] C ST NUM  856-810-2665   
+2001-09-11 11:16:42 Skytel [003436377] C SH/TONE 8425    
+2001-09-11 11:16:42 Skytel [002274779] C ST NUM  202-646-4027 (79    
+2001-09-11 11:16:42 Skytel [007521106] A  ALPHA  y-alerts@yahoo-inc.com|| Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:42 Skytel [004688460] D  ALPHA  g to the Associated Press a car bomb exploded outside State Department.  Stay tuned to NBC10 News.     ------ To unsubscribe or change your settings visit http://64.224.114.225/listserve/unsubs
+2001-09-11 11:16:42 Skytel [003940063] D ST NUM  757-179-3911   
+2001-09-11 11:16:42 Skytel [007528662] B  ALPHA  y-alerts@yahoo-inc.com|
+2001-09-11 11:16:42 Weblink_B {0094472} 1 1200 3550.
+2001-09-11 11:16:42 Weblink_B {0094271} 1 1200 555..
+2001-09-11 11:16:43 Arch [0928018] A  ALPHA   Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:43 Arch [0916223] D  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:43 Arch [0624724] B  ALPHA  15:ABS: EMMC I
+2001-09-11 11:16:43 Arch [1302046] D  ALPHA   on ibm28 [CC:informix loock t6_everyone] 
+2001-09-11 11:16:43 Arch [0788886] B  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:43 Arch [0926914] A  ALPHA  773-8142
+2001-09-11 11:16:43 Arch [0284623] D  ALPHA  0 NCC_EH /072645|11.11AM all dat
+2001-09-11 11:16:43 Arch [1403610] C  ALPHA   Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:43 Arch [1429773] D  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes
+2001-09-11 11:16:43 Arch [0949157] B  ALPHA  487 on ibm28 [CC:informix loock t6_everyone] 
+2001-09-11 11:16:43 Arch [0910830] D  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:43 Arch [1318687] D  ALPHA  (2)09:ABS: EMMC INITIAL:  EMMC W
+2001-09-11 11:16:43 Metrocall [002106212] B  ALPHA  FYI ONLY AT&T's 4E's in NY are stable. Heavy call volume
+2001-09-11 11:16:44 Metrocall [1574523] C  ALPHA  PLEASE CHECK VOICE MAILBOX...8331006
+2001-09-11 11:16:44 Metrocall [1761262] D  ALPHA  y LNS switches, no installs. Conf Bridge: 877-807-5706, Part Code: 437973
+2001-09-11 11:16:44 Metrocall [002106212] B  ALPHA  s are coming in. Restrictive network controls are in place. 50 T3's are down in NY area. Terry Dyer 770 918 5442
+2001-09-11 11:16:44 Metrocall [1283151] D  ALPHA  : Randy B Subaba : ALA-NS1 is now back up and available. Thanks, :  Randy Subaba Lotus Notes Administration 925-926-5879, t/l 8-473-5879
+2001-09-11 11:16:44 Skytel [004421106] A SH/TONE 875-0270
+2001-09-11 11:16:44 Skytel [005422449] A ST NUM  670-8472 (88   
+2001-09-11 11:16:44 Skytel [005362299] C  ALPHA  y-alerts@yahoo-inc.com|| First plane to hit World Trade Center was hijacked after takeoff from Boston, U.S. official says.   
+2001-09-11 11:16:44 Skytel [005332218] C  ALPHA  OST ALERT: ALL TM CENTERS do not shut down your software, just disable the login
+2001-09-11 11:16:44 Skytel [005213008] A  ALPHA  i|   
+2001-09-11 11:16:44 Skytel [003932285] D SH/TONE 3018    
+2001-09-11 11:16:44 Skytel [003252849] A ST NUM  0003666949
+2001-09-11 11:16:44 Skytel [003252857] C ST NUM  0003817079
+2001-09-11 11:16:44 Skytel [007007728] A  ALPHA  Y! || Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:44 Skytel [007515632] A  ALPHA  Y! || First plane to hit World Trade Center was hijacked after takeoff from Boston, U.S. official sa
+2001-09-11 11:16:44 Skytel [005110395] C  ALPHA  PLEASE CALL ME AT MY HOUSE, 624 6537. TITO.
+2001-09-11 11:16:44 Skytel [002281338] C SH/TONE 6520    
+2001-09-11 11:16:44 Skytel [005053820] D  ALPHA  File(s) MODIFIED
+2001-09-11 11:16:44 Skytel [007521271] B  ALPHA  y-alerts@yahoo-inc.com|| First plane to hit World Trade Center was hijacked after takeoff from Bosto
+2001-09-11 11:16:44 Skytel [005136248] C ST NUM  215-225-5437   
+2001-09-11 11:16:44 Skytel [007007737] C  ALPHA  Y! || Bush calls 
+2001-09-11 11:16:44 Skytel [007528662] B  ALPHA  | Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:44 Skytel [004667262] D ST NUM  800-821-3097   
+2001-09-11 11:16:44 Skytel [005108849] A ST NUM  415-371-5163   
+2001-09-11 11:16:44 Skytel [003928701] D SH/TONE 1111    
+2001-09-11 11:16:44 Skytel [002383865] C  ALPHA  SEV5 PMPM323949: Co-AIG/Sun America: ETR-TBD: Sun America backup circuit to Woodland Hills, CA is down.  Primary circui
+2001-09-11 11:16:44 Weblink_B {0992457} 4 1200 y-alerts@yahoo-inc.com   Bush calls World Trade Center crashes apparent terrorist attack. .
+2001-09-11 11:16:45 Arch [0624724] B  ALPHA  NITIAL:  EMMC WILL BE USING THE (EVN6) QUE TO GATHER/COLLECT ANY CUSTOMER TROUBLE TICKETS RELATED TO  NEW YORK, NY.  FIX AGENCIES, PLEASE INSURE YOU CKTS EITHER TERMINATE OR GO THROUGH NEW YORK CITY BEFORE ROUTING TO (EVN6).
+2001-09-11 11:16:45 Arch [0284623] D  ALPHA  a centers are in lock down status per nancy davis. nobody comes in unless known by personnel in room. 
+2001-09-11 11:16:45 Arch [1380047] D  ALPHA  (14)500002120200RO:MID-SOUTH SURGICAL CTR:SUE PEETS:6623357609:7043978:PTS IN FOR AUTOCL PLS CALL ASAP. WCC
+2001-09-11 11:16:45 Arch [1306244] B  ALPHA  All members of 17A & 17
+2001-09-11 11:16:45 Arch [1429773] D  ALPHA  .
+2001-09-11 11:16:45 Arch [1152562] A  ALPHA  (9)aoldns@vaipd05 (|AOLDNS|@ 09-11-2001 11:30:10 DNS file sprintip.aol.com has changes 
+2001-09-11 11:16:45 Arch [0983684] B  ALPHA  6552
+2001-09-11 11:16:45 Arch [0333121] A  ALPHA  pmm2:GPR Directors Mtg today @ 8:30...1-888-900-1820..../newman
+2001-09-11 11:16:45 Arch [0508848] A  ALPHA  (21)07:ABS: EMMC INITIA
+2001-09-11 11:16:45 Arch [1318687] D  ALPHA  ILL BE USING THE (EVN6) QUE TO GATHER/COLLECT ANY CUSTOMER TROUBLE TICKETS RELATED TO  NEW YORK, NY.  FIX AGENCIES, PLEASE INSURE YOU CKTS EITHER TERMINATE OR GO THROUGH NEW YORK CITY BEFORE ROUTING TO (EVN6).
+2001-09-11 11:16:45 Arch [0916642] A  ALPHA  2662046-911
+2001-09-11 11:16:45 Weblink_B {1491079} 3 1200 416 204-4443..
+2001-09-11 11:16:46 Metrocall [0247542] B  ALPHA  /:DDC/: AS OF 0930, THE CHICAGO 911 CENTER HAS OPENED.  OLIVER HASSELL IS ENROUTE TO ASSIST STAFFING.  UPDATES TO FOLLOW.  MJ
+2001-09-11 11:16:46 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2377
+2001-09-11 11:16:46 Skytel [005332218] C  ALPHA  s.
+2001-09-11 11:16:46 Skytel [003274624] A  ALPHA  Your brother called - suggests you drive to LA instead. LOVE YOU -m
+2001-09-11 11:16:46 Skytel [005046131] A  ALPHA  HOST_HAS_MESSAGE
+2001-09-11 11:16:46 Skytel [003327216] A  ALPHA  002344 CYCLIC TEST 
+2001-09-11 11:16:46 Skytel [004730864] A  ALPHA  pager@household.com||(From HFC7609) 909397-3400 please call hq  
+2001-09-11 11:16:46 Skytel [003485682] A SH/TONE 5203 (85
+2001-09-11 11:16:46 Skytel [003407472] A SH/TONE 494-1343
+2001-09-11 11:16:46 Skytel [005202315] C SH/TONE 906-8533
+2001-09-11 11:16:46 Skytel [003268993] A SH/TONE 416-6747
+2001-09-11 11:16:46 Skytel [002399879] B SH/TONE 2845    
+2001-09-11 11:16:46 Skytel [007030389] B ST NUM  915-458-3734   
+2001-09-11 11:16:46 Skytel [007510781] D SH/TONE 2211    
+2001-09-11 11:16:46 Skytel [007604598] B SH/TONE 3233    
+2001-09-11 11:16:46 Skytel [002356606] D  ALPHA  y-alerts@yahoo-inc.com|| Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:46 Skytel [005399413] B ST NUM  630-205-5887 (67    
+2001-09-11 11:16:46 Skytel [003606522] C  ALPHA  502-868-2044 (65
+2001-09-11 11:16:46 Skytel [004398321] A ST NUM  949-672-7627   
+2001-09-11 11:16:46 Skytel [007007737] C  ALPHA  World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:46 Skytel [002158987] C ST NUM  815-332-9557   
+2001-09-11 11:16:46 Skytel [007653768] C ST NUM  310-369-3400   
+2001-09-11 11:16:46 Skytel [005507698] A  ALPHA  2152836942
+2001-09-11 11:16:46 Skytel [007009013] B  ALPHA  Y! || Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:46 Skytel [002357369] C  ALPHA  002344 CYCLIC TEST 
+2001-09-11 11:16:46 Skytel [002812281] C SH/TONE 984-1351
+2001-09-11 11:16:46 Skytel [002383865] C  ALPHA  t is up.  ESC and MCI are investigating. SM X3455
+2001-09-11 11:16:46 Skytel [003606540] D  ALPHA  868-4440 (78
+2001-09-11 11:16:46 Skytel [004427390] D SH/TONE 863-7737
+2001-09-11 11:16:46 Skytel [007527922] A  ALPHA  y-alerts@yahoo-inc.com|| First plane to hit World Trade Center was hijacked after takeoff from Bosto
+2001-09-11 11:16:46 Skytel [005182332] D ST NUM  610-645-6749   
+2001-09-11 11:16:46 Skytel [002139900] D SH/TONE 002344  
+2001-09-11 11:16:46 Skytel [005107069] D SH/TONE 798-1465
+2001-09-11 11:16:47 Arch [0938307] A  ALPHA  305 860-9015
+2001-09-11 11:16:47 Arch [1426129] A  ALPHA  (12)NCC Up 9/11 8:59 AM CDT New York, NY/New York, NY Multiple DS3 outage (23) Site Evacuated due to New York, NY disaster. Network congestion being experienced from all switches.  TCC tkt#2041241 pw
+2001-09-11 11:16:47 Arch [1306244] B  ALPHA  B are to meet at the United Airlines Maintenance Facility at SFO ASAP, exit San Bruno Exit off of Highway
+2001-09-11 11:16:47 Arch [1396558] D  ALPHA  (24)NCC Up 9/11 8:59 AM CDT New York, NY/New York, NY Multiple DS3 outage (23) Site Evacuated due to New York, NY disaster. Network conge
+2001-09-11 11:16:47 Arch [0508848] A  ALPHA  L:  EMMC WILL BE USING THE (EVN6) QUE TO GATHER/COLLECT ANY CUSTOMER TROUBLE TICKETS RELATED TO  NEW YORK, NY.  FIX AGENCIES, PLEASE INSURE YOU CKTS EITHER TERMINATE OR GO THROUGH NEW YORK CITY BEFORE ROUTING TO (EVN6).
+2001-09-11 11:16:47 Arch [0284361] C  ALPHA  At 11
+2001-09-11 11:16:47 Arch [1602728] C  ALPHA  (5)04:ABS: EMMC INITIAL:  EMMC WILL BE USING THE (EVN6) QUE TO GATHER/COLLECT ANY CUSTOMER TROUBLE TICKETS RELATED TO  NEW YORK, NY.  FIX AGENCIES, PLEASE INSURE YOU CKTS EITHER TERMINATE OR GO THROUGH NEW YORK CITY BEFORE ROUTING TO (EVN6
+2001-09-11 11:16:48 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2377
+2001-09-11 11:16:48 Metrocall [0247542] B  ALPHA  F
+2001-09-11 11:16:48 Metrocall [1874817] A  ALPHA  Frm: Martinez, Susan Sub: Txt: Code BLUE. There is NO ACCESS ALLOWED to any LNS switches, no installs. Conf Br
+2001-09-11 11:16:48 Metrocall [1874818] A  ALPHA  Frm: Martinez, Susan Sub: Txt: Code BLUE. There is NO ACCESS ALLOWED to any LNS switches, no installs. Conf Bridge: 877-807-5706, Part Code: 437973
+2001-09-11 11:16:48 Metrocall [1495841] A  ALPHA  (From ICON01) IR:1282323 ASSIGNED:TS/NET P:1 ON DALA 09/09 17:45
+2001-09-11 11:16:48 Skytel [005070611] A ST NUM  663-788-9108   
+2001-09-11 11:16:48 Skytel [005071897] C  ALPHA  vicki needs to know if you will be here by 8:30. pls cqall hollie 714-783-4119 - Hollie A Savage * wcomnet.com paging
+2001-09-11 11:16:48 Skytel [004754322] A SH/TONE 411123  
+2001-09-11 11:16:48 Skytel [003208086] B ST NUM  2) 617-480-5317
+2001-09-11 11:16:48 Skytel [005242902] B ST NUM  516-949-4218 (32    
+2001-09-11 11:16:48 Skytel [005250070] B SH/TONE 9       
+2001-09-11 11:16:48 Skytel [004679826] A  ALPHA  797-760-0102
+2001-09-11 11:16:48 Skytel [004684945] A  ALPHA  kstephan@smtp-core.na.baesystems.com|gde01008|gde01008 may be down.  
+2001-09-11 11:16:48 Skytel [005245188] B ST NUM  559-458-0521   
+2001-09-11 11:16:48 Skytel [005133593] C ST NUM  512-572-6244 (73    
+2001-09-11 11:16:48 Skytel [005410975] D  ALPHA  703-405-8175 (57
+2001-09-11 11:16:48 Skytel [005190686] D  ALPHA  F: jaredbro; T: ekapke; S: BM Hung: SPIKE-2000 [id 62] (9/10/2001 22:46); Building mstva_igs_i486_internal_usa D:\5074538496 bytes free
+2001-09-11 11:16:48 Skytel [005341471] D ST NUM  900-366-4123   
+2001-09-11 11:16:48 Skytel [007574557] D ST NUM  972-604-1342   
+2001-09-11 11:16:48 Skytel [007588636] D SH/TONE 3306    
+2001-09-11 11:16:48 Skytel [003948188] D ST NUM  800-252-0740-3140911
+2001-09-11 11:16:48 Skytel [004569114] C  ALPHA  belinda.arroyo@jpl.nasa.gov|Go Home|Lab is being evacuated.  
+2001-09-11 11:16:48 Skytel [004679062] B ST NUM  800-888-6611   
+2001-09-11 11:16:48 Skytel [007557390] D ST NUM  702-414-1000   
+2001-09-11 11:16:49 Arch [0926567] B  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:49 Arch [0936727] B  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound
+2001-09-11 11:16:49 Arch [1396558] D  ALPHA  stion being experienced from all switches.  TCC tkt#2041241 pw
+2001-09-11 11:16:49 Arch [1306244] B  ALPHA  101, go east to facility.  call 251-4037, 251-4008, 251-4091 to confirm your receipt of this msg..Kevin Griswold
+2001-09-11 11:16:49 Arch [0284361] C  ALPHA  12hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:49 Arch [1403568] A  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated
+2001-09-11 11:16:49 Arch [1602728] C  ALPHA  ).
+2001-09-11 11:16:49 Arch [0902124] D  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:49 Arch [1050586] C  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open
+2001-09-11 11:16:49 Weblink_B [1182965] B  ALPHA   SIRT Meeting Minutes - 9-10-01 - > ---------- > From: ZIMMERMAN, JOHN P > Sent: Tuesday, September 11, 2001 10:13:41 AM > To: CUMPTON, CHARLES; DAVIS, CHARLES; DYCHE, GEORGE; GOODWIN, EDWIN; > HAYDEL, MARK; KOLLURI, VENKAT; LANIGAN, THOMAS; MADER, DOU
+2001-09-11 11:16:50 Metrocall [002105058] A  ALPHA  #6/GP02/  SUMMARY RECORD /??/      / ()  ,  / GP02 TODAY, 09 11 2001 AS OF 10:05 YOU WERE SENT   5 ALPHA PAGE(S 10:05
+2001-09-11 11:16:50 Metrocall [1874817] A  ALPHA  idge: 877-807-5706, Part Code: 437973
+2001-09-11 11:16:50 Metrocall [1875553] A  ALPHA  Frm: Mar
+2001-09-11 11:16:50 Metrocall [1546219] C  ALPHA  Frm: Martinez, Susan Sub: Txt: Code BLUE. There is NO ACCESS ALLOWED to any LNS switches, no installs. Conf Bridge: 877-807-5706, Part Code: 437973
+2001-09-11 11:16:50 Metrocall [002587850] C  ALPHA  Frm: Martinez, Susan Sub: Txt: Code BLUE. There is NO ACCES
+2001-09-11 11:16:50 Skytel [004417186] A ST NUM  370-0311-3
+2001-09-11 11:16:50 Skytel [0512044] D  ALPHA  RATES    10:13     USZ   10527S  105+   TYZ  107180S  305+   EDU    9680S 14.5+   EDZ    9689S 17.5+   EDH  9683.5S 20.5+   EDM  9650.5S   17+   EDU2   9611S 14.5+   EDZ2   9568S   14+   EDH3   9539S 10.5+   EYZ  9991.5S   .5-    (17
+2001-09-11 11:16:50 Skytel [005483556] B ST NUM  808-222-0608   
+2001-09-11 11:16:50 Skytel [007572900] B SH/TONE 002     
+2001-09-11 11:16:50 Skytel [007489069] D SH/TONE 577-5000
+2001-09-11 11:16:50 Skytel [004543791] D ST NUM  0) 562-906-5544
+2001-09-11 11:16:50 Skytel [007468715] C SH/TONE 911     
+2001-09-11 11:16:50 Skytel [007040928] A ST NUM  302-267-2959   
+2001-09-11 11:16:50 Skytel [003938721] A SH/TONE 282-7710
+2001-09-11 11:16:51 Arch [0936727] B  ALPHA   service estimated to resume in about 20 minutes.
+2001-09-11 11:16:51 Arch [0163793] A  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:51 Arch [1621153] A  ALPHA  From informix at 11:16 AM EDT: SENDQ greater than 400
+2001-09-11 11:16:51 Arch [1029288] C  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:51 Arch [0163785] C  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in abou
+2001-09-11 11:16:51 Arch [1403568] A  ALPHA   to resume in about 20 minutes.
+2001-09-11 11:16:51 Arch [0987726] D  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:51 Arch [1403610] C  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is no
+2001-09-11 11:16:51 Arch [1050586] C  ALPHA  . Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:51 Arch [1048444] D  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:51 Arch [0942125] D  ALPHA  From informix at 11:16 AM EDT: SENDQ grea
+2001-09-11 11:16:51 Weblink_B [1182965] B  ALPHA  GLAS; MARTINEZ, > AL; MCNEILL, DAVID; OLIVIER, PAUL; POWELL, RAYMON; STORY, BRIAN; TREIGE, > JOE > Subject: SIRT Meeting Minutes - 9-10-01 > Auto forwarded by a Rule > <<SIRT-01-09-10.doc>> <<File:SIRT-01- [97]
+2001-09-11 11:16:52 Metrocall [1875553] A  ALPHA  tinez, Susan Sub: Txt: Code BLUE. There is NO ACCESS ALLOWED to any LNS switches, no installs. Conf Bridge: 877-807-5706, Part Code: 437973
+2001-09-11 11:16:52 Metrocall [002587850] C  ALPHA  S ALLOWED to any LNS switches, no installs. Conf Bridge: 877-807-5706, Part Code: 437973
+2001-09-11 11:16:52 Metrocall [1697675] C  ALPHA  HPD ON STANDBY ALERT STATUS.  Policy 300-33 has details. NORMAL OPERATIONS CONTINUING <100
+2001-09-11 11:16:52 Metrocall [0049522] A  ALPHA  Frm: IPN Sub: Txt: UPDATE: Reports of 767 Crashed in SummerSet County, PA 
+2001-09-11 11:16:52 Skytel [007511864] C  ALPHA  What's the word?  David Neelley 
+2001-09-11 11:16:52 Skytel [007510965] B  ALPHA  alerts-reply@yahoo-inc.co|Yahoo! Breaking News|<html> <head> <title> Yahoo! Breaking News </title> <
+2001-09-11 11:16:52 Skytel [005395120] A SH/TONE 799-8000
+2001-09-11 11:16:52 Skytel [005558461] D  ALPHA  OST ALERT: ALL TM CENTERS do not shut down your software, just disable the logins.
+2001-09-11 11:16:52 Skytel [002154421] B SH/TONE 566-3933
+2001-09-11 11:16:52 Skytel [003928123] C  ALPHA  Please keep us posted thru email as and when possible. Will upd Vrinda mami or send SMS to 919820143507-Nachiket Gune
+2001-09-11 11:16:52 Skytel [005227194] C ST NUM  828-526-2388-122911 
+2001-09-11 11:16:52 Skytel [005420217] C ST NUM  765-455-2965 (26    
+2001-09-11 11:16:52 Skytel [002810672] A ST NUM  800-888-6611   
+2001-09-11 11:16:52 Skytel [005099579] C ST NUM  961-4272 U
+2001-09-11 11:16:52 Skytel [007527994] C  ALPHA  Y! ||iPAQ Pocket PC Now from $499 BEAS 0.00 0.00; PON.L 54.00 -4.00; SUNW 0.00 0.00; Delayed Reuters
+2001-09-11 11:16:52 Skytel [007543224] C SH/TONE 4956    
+2001-09-11 11:16:52 Skytel [002743359] D SH/TONE 474-3639
+2001-09-11 11:16:52 Skytel [005492031] D SH/TONE 698-9760
+2001-09-11 11:16:52 Skytel [005225789] D SH/TONE 2090    
+2001-09-11 11:16:52 Skytel [003063869] D ST NUM  291-3771 (98   
+2001-09-11 11:16:52 Skytel [005178047] D ST NUM  931-454-5357   
+2001-09-11 11:16:52 Skytel [002789309] D ST NUM  415-453-3255   
+2001-09-11 11:16:52 Skytel [005066674] A SH/TONE 381-1672
+2001-09-11 11:16:52 Skytel [004181052] D ST NUM  703-679-6531 (94    
+2001-09-11 11:16:53 Arch [1621153] A  ALPHA  00 elements behind - 109487 on ibm28 [CC:informix loock t6_everyone] 
+2001-09-11 11:16:53 Arch [0917599] D  ALPHA  RateLink: Market trading halted due to blast in NYC and DC
+2001-09-11 11:16:53 Arch [1060609] A  ALPHA  GOOD MORNING EVERYBODY DUE TO THE TERRORIST ACTIVITY  IF ANY OF YOU SEE ANYTHING
+2001-09-11 11:16:53 Arch [0163785] C  ALPHA  t 20 minutes.
+2001-09-11 11:16:53 Arch [0977900] D  ALPHA  DATACASTnews.com.AWE    13.80   Unch.BOS     9.50   Unch.LU      5.95   Unch.NPLS    2.24   Unch.T      17.65   Unch.VZ     50.70   Unch.
+2001-09-11 11:16:53 Arch [1330621] D  ALPHA  (14)07:ABS: EMMC INITIAL:  EMMC WILL BE USING THE (EV
+2001-09-11 11:16:53 Arch [1403610] C  ALPHA  w open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:53 Arch [1650152] C  ALPHA  From informix at 11:16 AM EDT: SENDQ greater than 40000 elements behind - 109487 on ibm28 [CC:informix loock t6_everyone] 
+2001-09-11 11:16:53 Arch [0942125] D  ALPHA  ter than 40000 elements behind - 109487 on ibm28 [CC:informix loock t6_everyone] 
+2001-09-11 11:16:53 Arch [1660247] B  ALPHA  From Stephanie Smith Sub:I will be taking a long lunch today, I have a Dr appt and will need to leave at 10:30.  Steph Msg:        
+2001-09-11 11:16:53 Weblink_B [0914337] A  ALPHA  From: Ron.Hagan@XCELENERGY.COM Subject: . - Site: Shoshone and Meeker Ticket: SC-575007 & SC-575008 Update: Qwest has re-routed circuits, service was restored at 7:45. Next page as status changes. ETR: Not available [28]
+2001-09-11 11:16:54 Metrocall [1899059] A  ALPHA  Please Call-5-6527
+2001-09-11 11:16:54 Metrocall [0049522] A  ALPHA  (North of Pittsburg). There is still 1 Com. Aircraft Unacounted For ATT IPN
+2001-09-11 11:16:54 Metrocall [0310072] C  ALPHA  Master Pilot Paging Initiated
+2001-09-11 11:16:54 Metrocall [1761263] D  ALPHA  Frm: Martinez, Susan Sub: Txt: Code BLUE. There is NO ACCESS ALLOWED to any LNS switches, no installs. Conf Bridge: 
+2001-09-11 11:16:54 Skytel [005255235] A  ALPHA  09/10/2001 14:58 GMT    DUE TO INSUFFICIENT PORTS ON THE EXISTING STRATEGY BRIDGE.  ANOTHER BRIDGE HAS BEEN ESTABLISHED THAT WILL BE CONNECTED WITH THE EXISTING BRIDGE.  VNET 475-0420. PIN 179346.  
+2001-09-11 11:16:54 Skytel [005436355] A SH/TONE 909-9432
+2001-09-11 11:16:54 Skytel [002821449] C  ALPHA  The school on base is c
+2001-09-11 11:16:54 Skytel [003452741] B ST NUM  901-525-4095   
+2001-09-11 11:16:54 Skytel [005081414] B ST NUM  703-416-1096   
+2001-09-11 11:16:54 Skytel [005137480] C  ALPHA  gail_eisenhart@mastercard.com||From:Gail EisenhartCall Mike Manchisi ASAP 314-275-6185Gail Eisenhart Administrative Assistant Strategic Operations MasterCard International 314-514-4939  
+2001-09-11 11:16:54 Skytel [003495111] B ST NUM  714-368-2768   
+2001-09-11 11:16:54 Skytel [004388299] C SH/TONE 3297    
+2001-09-11 11:16:54 Skytel [007524681] C  ALPHA  Y! || Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:54 Skytel [007512779] C  ALPHA  Y! || Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:54 Skytel [005326408] C  ALPHA  09/10/2001 14:58 GMT    DUE TO INSUFFICIENT PORTS ON THE EXIST
+2001-09-11 11:16:54 Skytel [002162125] D ST NUM  201-283-6758 (67    
+2001-09-11 11:16:54 Skytel [005340749] D ST NUM  100-731-0998   
+2001-09-11 11:16:54 Skytel [003458639] D ST NUM  615-584-9886 (44    
+2001-09-11 11:16:54 Skytel [007528392] C  ALPHA  y-weather@yahoo-inc.com||Be mobile with Compaq Kansas City, MO Sunny 61 - 82 F  WNI  
+2001-09-11 11:16:54 Skytel [005049799] B ST NUM  770-850-3608   
+2001-09-11 11:16:54 Skytel [004696261] B  ALPHA  09/10/2001 14:58 GMT    DUE TO INSUFFICIENT PORTS ON THE EXISTING STRAT
+2001-09-11 11:16:55 Arch [1060609] A  ALPHA   I.E. STREET CLOSURES, AREAS THAT ARE SHUT DOWN , ETC. ANYTHING THAT CAN HELP KEEP SOMEONE FROM GETTING STUCK PLEASE CALL THE OFFICE, ALSO STEVE CHIA AND EMILIO
+2001-09-11 11:16:55 Arch [0939777] A  ALPHA  "Rankin, Edward |Appt:09/11/01_09:30|8935 Department Meeting @ Videoconferenced 
+2001-09-11 11:16:55 Arch [1330621] D  ALPHA  N6) QUE TO GATHER/COLLECT ANY CUSTOMER TROUBLE TICKETS RELATED TO  NEW YORK, NY.  FIX AGENCIES, PLEASE INSURE YOU CKTS EITHER TERMINATE OR GO THROUGH NEW YORK CITY BEFORE ROUTING TO (EVN6).
+2001-09-11 11:16:55 Arch [1605033] C  ALPHA  284-2882
+2001-09-11 11:16:55 Arch [0939181] D  ALPHA  At 1112hrs. Code Red is now in effe
+2001-09-11 11:16:55 Arch [0968987] C  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:55 Arch [0809876] B  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resum
+2001-09-11 11:16:55 Arch [0764106] C  ALPHA  (31)NCC Up 9/11 8:59 AM CDT New York, NY/New York, NY Multiple DS3 outage (23) Site Evacuated due to New York, NY disaster. Network congestion being experienced from all switches.  TCC tkt#2041241 pw
+2001-09-11 11:16:55 Arch [1025455] D  ALPHA  At 1112hrs. Code Red is now in effect, Si
+2001-09-11 11:16:55 Metrocall [1898963] A  ALPHA  /:DDC/: AS OF 0930, THE CHICAGO 911 CENTER HAS OPENED.  OLIVER HASSELL IS ENROUTE TO ASSIST STAFFING.  UPDATES TO FOLLOW.  MJF
+2001-09-11 11:16:55 Metrocall [002356726] B  ALPHA  MESSAGE WAITING355-4319
+2001-09-11 11:16:55 Skytel [002821449] C  ALPHA  losed if you have kids you need to pick them up
+2001-09-11 11:16:55 Skytel [007524444] D  ALPHA  y-alerts@yahoo-inc.com|| Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:55 Skytel [007511514] C  ALPHA  Y! || Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:55 Skytel [007009496] C  ALPHA  Y! || First plane to hit World Trade Center was hijacked after takeoff from Boston, U.S. official sa
+2001-09-11 11:16:55 Skytel [007513054] D  ALPHA  Y! || Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:55 Skytel [003894869] B  ALPHA  09/10/2001 14:58 GMT    DUE TO INSUFFICIENT POR
+2001-09-11 11:16:55 Skytel [005326408] C  ALPHA  ING STRATEGY BRIDGE.  ANOTHER BRIDGE HAS BEEN ESTABLISHED THAT WILL BE CONNECTED WITH THE EXISTING BRIDGE.  VNET 475-0420. PIN 179346.  
+2001-09-11 11:16:55 Skytel [002561624] C ST NUM  314-955-8357   
+2001-09-11 11:16:55 Skytel [002560475] C ST NUM  508-357-6252   
+2001-09-11 11:16:55 Skytel [003929434] C ST NUM  904-464-4761   
+2001-09-11 11:16:55 Skytel [007512026] C  ALPHA  Y! || Bush calls World Trade Center crashes 
+2001-09-11 11:16:55 Weblink_B [0203435] C  ALPHA  From: Ron.Hagan@XCELENERGY.COM Subject: . - Site: Shoshone and Meeker Ticket: SC-575007 & SC-575008 Update: Qwest has re-routed cir
+2001-09-11 11:16:56 Arch [0939777] A  ALPHA  between CA and NM 
+2001-09-11 11:16:56 Arch [2020127] D  ALPHA  CFA OPEN CARB MIR    TUE SEP 11  OPEN                                               N-TX                 ARK  20   18   19    BOWL                 SCAR 24   23   24    LA-M                 CIN  29   25   26-   CAL  11-  9   
+2001-09-11 11:16:56 Arch [0939181] D  ALPHA  ct, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:56 Arch [0080958] D  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:56 Arch [1213220] B  ALPHA  At 1112hrs.
+2001-09-11 11:16:56 Arch [0809876] B  ALPHA  e in about 20 minutes.
+2001-09-11 11:16:56 Arch [1060609] A  ALPHA  WILL BE IN THE CITY TO ASSIST YOU IF YOU NEED IT.... BE CAREFULL TODAY ! EMILIO
+2001-09-11 11:16:56 Arch [1400339] A  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in abou
+2001-09-11 11:16:56 Metrocall [1761263] D  ALPHA  877-807-5706, Part Code: 437973
+2001-09-11 11:16:56 Metrocall [1398642] A  ALPHA  CB: DAN VAN
+2001-09-11 11:16:56 Metrocall [0310072] C  ALPHA  2001-09-11 09:50:12 \NASS1TA.$S7R1C SSERIES.SSCPC08.D40 008071 Message discarded inbound, Virtual PC SSN unava
+2001-09-11 11:16:56 Skytel [004696261] B  ALPHA  EGY BRIDGE.  ANOTHER BRIDGE HAS BEEN ESTABLISHED THAT WILL BE CONNECTED WITH THE EXISTING BRIDGE.  VNET 475-0420. PIN 179346.  
+2001-09-11 11:16:56 Skytel [007098331] C  ALPHA  y-alerts@yahoo-inc.com|| Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:56 Skytel [003252956] D  ALPHA  Fr
+2001-09-11 11:16:57 Arch [1025455] D  ALPHA  tuation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:57 Arch [0593534] D  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:57 Arch [0968541] D  ALPHA  At 1112h
+2001-09-11 11:16:57 Metrocall [1398642] A  ALPHA  GOSEN INTERMINAL SERV 1994 HOSALER YARD GOAT 12 FT 194317 @5281 N TOM MURRY RD IN GLENDALE RELOCATE 0.00 RO# PO# DEL:1301 E HARRISON IN PHOENIX INTERMINAL SERVICES (ITS) OK Charge 2000 =>
+2001-09-11 11:16:57 Metrocall [1399512] C  ALPHA  IF YOU CAN DO FLOOR DUTY THIS AFTERNOON,CALL TENA AT THE OFC/ASAP
+2001-09-11 11:16:57 Metrocall [0310072] C  ALPHA  ilable. DPC = 2-13-12 OPC = 227-188-246 SSN = 12 See detailed text.
+2001-09-11 11:16:57 Metrocall [0414444] D  ALPHA  (49)Can i put on my weekly report that we didnt sell anything today due t o terrorist 
+2001-09-11 11:16:57 Skytel [005388643] A ST NUM  678-2144-1
+2001-09-11 11:16:57 Skytel [002745296] A ST NUM  304-625-2803 (92    
+2001-09-11 11:16:57 Skytel [005132504] C  ALPHA  09/10/2001 14:58 GMT    DUE TO INSUFFICIENT PORTS ON THE EXISTING STRATEGY BRIDGE.  ANOTHER BRIDGE HAS BEEN ESTABLISHED THAT WILL BE CONNECTED WITH THE EXISTING BRIDGE.  VNET 475-0420. PIN 179346.  
+2001-09-11 11:16:57 Skytel [005211744] A SH/TONE 726-5142
+2001-09-11 11:16:57 Skytel [003894869] B  ALPHA  TS ON THE EXISTING STRATEGY BRIDGE.  ANOTHER BRIDGE HAS BEEN ESTABLISHED THAT WILL BE CONNECTED WITH THE EXISTING BRIDGE.  VNET 475-0420. PIN 179346.  
+2001-09-11 11:16:57 Skytel [007464168] C SH/TONE 782-6394
+2001-09-11 11:16:57 Skytel [003261160] C SH/TONE 873-7777
+2001-09-11 11:16:57 Skytel [003935320] C ST NUM  301-496-3431   
+2001-09-11 11:16:57 Skytel [007556695] B SH/TONE 892-8293
+2001-09-11 11:16:57 Skytel [005523540] B SH/TONE 1300 (66
+2001-09-11 11:16:57 Skytel [004448468] B ST NUM  8003168269
+2001-09-11 11:16:57 Skytel [007009757] D  ALPHA  Y!
+2001-09-11 11:16:57 Skytel [007512026] C  ALPHA  apparent terrorist attack.   
+2001-09-11 11:16:57 Skytel [007520096] A  ALPHA  Y! || First plane to hit World Trade Center was hijacked after takeoff from Boston, U.S. official sa
+2001-09-11 11:16:57 Skytel [005187160] C SH/TONE 794-6325
+2001-09-11 11:16:57 Skytel [007521240] C  ALPHA  10) Y! || Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:57 Skytel [003252956] D  ALPHA  om chris Wolfe: call me at the office. Need to know how you are getting backto Dallas
+2001-09-11 11:16:57 Skytel [0001114] C  ALPHA  FM Ticket Assigned Medium Case HD0000000301578 for TIVOLI AUTOSUBMIT NONE dmplus01 /var is 85% full
+2001-09-11 11:16:57 Skytel [003953755] C  ALPHA  OST ALERT: ALL TM CENTERS do not shut 
+2001-09-11 11:16:58 Arch [2020127] D  ALPHA   8-    RUTG                 LA-T                 KS-S 27   25-  25-   BYU                  MS-S 5-   3-   4     BYU                  MISS 5-   3-   4     TULS                 OKL  33   30-  30-   GA-T                 FSU  8-   9    8-    BAY           
+2001-09-11 11:16:58 Arch [1213220] B  ALPHA   Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:58 Arch [0809945] C  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes
+2001-09-11 11:16:58 Arch [1400339] A  ALPHA  t 20 minutes.
+2001-09-11 11:16:58 Arch [1656326] B  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:58 Arch [0968541] D  ALPHA  rs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minutes.
+2001-09-11 11:16:58 Arch [1656324] B  ALPHA  At 1112hrs. Code Red is now in effect, Situation Room is now open. Northbound service estimated to resume in about 20 minu
+2001-09-11 11:16:59 Metrocall [1398642] A  ALPHA  YARD GOAT 100562
+2001-09-11 11:16:59 Metrocall [002663069] D  ALPHA  P206436 r3lan1 sev3 is on alert stage 1 Work in progress kiser, kathy x5408
+2001-09-11 11:16:59 Metrocall [0414444] D  ALPHA  activity???....mike
+2001-09-11 11:16:59 Metrocall [1283948] D  ALPHA  FYI ONLY AT&T's 4E's in NY are stable. Heavy call volumes are coming in. Restrictive network controls ar
+2001-09-11 11:16:59 Metrocall [1924442] C  ALPHA  FYI ONLY AT&T's 4E's in NY are stable. Heavy call volumes are coming in. Restrictive network controls are in place. 50 T3's are down in NY area. Terry Dyer 770 918 5442
+2001-09-11 11:16:59 Metrocall [1223179] C  ALPHA  Frm: pamela_ba
+2001-09-11 11:16:59 Skytel [005107325] D  ALPHA  The school on base is closed if you have kids you need to pick them up 
+2001-09-11 11:16:59 Skytel [003448304] A SH/TONE 156     
+2001-09-11 11:16:59 Skytel [003939197] D  ALPHA  support@redalert.com||RED ALERT! DGX-web4wc-80 Err#4: Keyword absent, or stopped sending for 30 secs 09:12 GMT-0600 support@redalert.com +1-972-509-5479
+2001-09-11 11:16:59 Skytel [007009757] D  ALPHA   || First plane to hit World Trade Center was hijacked after takeoff from Boston, U.S. official sa
+2001-09-11 11:16:59 Skytel [005056249] C  ALPHA  Please call Jan Drummond at 68316.  Ann
+2001-09-11 11:16:59 Skytel [004571640] C  ALPHA  systems@800-flowers.net|LOCK:AtlasNY76/TS42/1/158| 
+2001-09-11 11:16:59 Skytel [002266997] B ST NUM  202-646-2724 (19    
+2001-09-11 11:16:59 Skytel [004391551] D ST NUM  750-736-0697   
+2001-09-11 11:16:59 Skytel [005350772] B  ALPHA  kstephan@smtp-core.na.baesystems.com|rbnt02|rbnt02 may be down.  
+2001-09-11 11:16:59 Skytel [004684159] D  ALPHA  224-995-5383-2
+2001-09-11 11:16:59 Skytel [007511932] D  ALPHA  Y! || Bush calls World Trade Center crashes apparent terrorist attack.   
+2001-09-11 11:16:59 Skytel [007593211] C ST NUM  888-610-7484   
+2001-09-11 11:16:59 Skytel [004434555] C SH/TONE 0000    
+2001-09-11 11:16:59 Skytel [007524714] C  ALPHA  Y! || Fi
+2001-09-11 11:16:59 Skytel [003953755] C  ALPHA  down your software, just disable the logins.
+2001-09-11 11:16:59 Skytel [004533503] D SH/TONE 782-0363
+2001-09-11 11:16:59 Skytel [007008628] B  ALPHA  alerts-reply@yahoo-inc.co|Yahoo! Breaking News| Breaking News::  SARASOTA, Fla. _ Bush calls World T
+2001-09-11 11:16:59 Skytel [007510134] B SH/TONE 222     
+2001-09-11 11:16:59 Skytel [004219774] D  ALPHA  3196 (14
+2001-09-11 11:16:59 Skytel [007511792] A  ALPHA  Y! || First plane to hit World T

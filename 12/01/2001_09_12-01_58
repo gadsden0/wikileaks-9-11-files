@@ -1,0 +1,56 @@
+2001-09-12 01:58:00 Skytel [007527412] B  ALPHA  "Interprod5 c$".The device \\interprod5\c$ (Type: Disk Space) is DOWN since Wed Sep 12 01:59:42 2001
+2001-09-12 01:58:01 Arch [0987275] C  ALPHA  sb3: INFO0002 - Trade Count Mismatch Ora=825 Rec=0 (160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:52
+2001-09-12 01:58:01 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192307. 
+2001-09-12 01:58:02 Metrocall [1544818] A  ALPHA  CRDC-MAIL01 "Server CRDC-MAIL01/MSVR/KAIPERM - The following pending documents in mail3.box are older than 30 minutes 1C2FDA"
+2001-09-12 01:58:02 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcb-wbs01 Sev:4 # 36407 NoICAPDataForTooLong WBS 3.1.14.1 09/11/01 22:57:
+2001-09-12 01:58:02 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4657
+2001-09-12 01:58:02 Skytel [007586179] A ST NUM  726-851-1111   
+2001-09-12 01:58:03 Arch [0987275] C  ALPHA  s0191: 09/11 15:56:49 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:56:49
+2001-09-12 01:58:03 Arch [1407124] B  ALPHA  (14)NT Server KCBDCP01 DOWN at 01:09:08
+2001-09-12 01:58:04 Metrocall [0477913] C  ALPHA  45 PDT7 Instance: WBSSched_|_VAL_|_Created:09/11/01_02:30:08 Module: GatewayConnection Details: PID=5553 TID=145 No data received in 3601 s
+2001-09-12 01:58:04 Skytel {0593902} 4 1200 905-676-2606   
+2001-09-12 01:58:10 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcb-wbs01 Sev:4 # 36314 ExceptionInInitializeVBIDecoder WBS 3.1.14.1 09/11/01 22:57:45 PDT7 Instance: WBSSched_|_VAL_|_Created:09/11/01_02:30:08 Module: GatewayConnection D
+2001-09-12 01:58:12 Metrocall [0477913] C  ALPHA  etails: PID=5553 TID=145 Unable to open
+2001-09-12 01:58:12 Skytel {0005398} 1 1200 (3 OF 6): Subject:RE: Premier UAT site appears down, cannot wait until Wednesday  It was working fine even after the build when I tested it earlier. Somehow I don t think this is related to that.  -----Original Message-----..
+2001-09-12 01:58:14 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 65 processes on report1.ccbill.com. Timestamp key: 20010911225601 
+2001-09-12 01:58:16 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 61 processes on report2.ccbill.com. Timestamp key: 20010911225601 
+2001-09-12 01:58:18 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 62 processes on report2.ccbill.com. Timestamp key: 20010911225601 
+2001-09-12 01:58:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1010
+2001-09-12 01:58:21 Arch [0987275] C  ALPHA  s0191: 09/11 16:02:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 16:02:48
+2001-09-12 01:58:27 Arch [0905635] A  ALPHA  "Beyerlein, John|As per your request!|Please find attached file for your review. I look forward to hear from you again very soon. Thank you. begin 600 VIRUS_DETECTED_AND_REMOVED_readme.exe_VIRINFO.TXT
+2001-09-12 01:58:27 Arch [1657188] B  ALPHA  NCAGBRWS02:Device Accessible,Device Status:Ok
+2001-09-12 01:58:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3266
+2001-09-12 01:58:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3266
+2001-09-12 01:58:32 Skytel [004125839] D  ALPHA  1 (90
+2001-09-12 01:58:32 Skytel [002361863] B  ALPHA  PAGEING,1,Application DPIP Informational 4 0 4096 22:56  09/11/01
+2001-09-12 01:58:33 Skytel [005323158] B ST NUM  420-990-7500   
+2001-09-12 01:58:35 Skytel [005001895] B  ALPHA  [sps/121] 101 sps-apps1.cps.intel.com relay 0.0 FAILURE Hostrefusing connection (/metrios/healthcheck[RegulusInvoice].asp)3:19:57
+2001-09-12 01:58:35 Skytel [007561381] B SH/TONE 452-0977
+2001-09-12 01:58:37 Skytel [002392245] B SH/TONE 7       
+2001-09-12 01:58:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:58:39 Skytel [005187918] D ST NUM  201-227-3147 (42    
+2001-09-12 01:58:40 Arch [0000101] B  ALPHA  MSN 072 hello Message from NOC PCB.
+2001-09-12 01:58:40 Metrocall [1709583] D  ALPHA  DR WINSTON JACKSON ER TRIAGE 293 8023 PLEASE CALL
+2001-09-12 01:58:40 Metrocall [1544820] B  ALPHA  CRDC-MAIL01 "Server CRDC-MAIL01/MSVR/KAIPERM - The following pending documents in mail3.box are older than 30 minutes 1C2FDA"
+2001-09-12 01:58:41 Skytel [007660371] A SH/TONE 241-1489
+2001-09-12 01:58:41 Skytel [007518930] A SH/TONE 3019986 
+2001-09-12 01:58:42 Arch [1025519] D  ALPHA  "dpJAY87431@terr|Easily LLose Lbs... HGH (89748)|Easily Lose Weight, Build Muscle and Reverse Aging With all natural "Growth Hormone" therapy supplements. Click for our FREE bottle offer and to learn more: http://64.118.5.33/foreveryoung THE
+2001-09-12 01:58:42 Arch [0987275] C  ALPHA  s0191: 09/11 11:42:59 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:42:59
+2001-09-12 01:58:42 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192314. 
+2001-09-12 01:58:42 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 21.03 10.03 10.24 Tue Sep 11 22:59:00 MST 2001 
+2001-09-12 01:58:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #8-IX_T4212
+2001-09-12 01:58:43 Skytel [007545449] C ST NUM  362-350-6411-11
+2001-09-12 01:58:44 Arch [0987275] C  ALPHA  s0191: 09/11 11:48:17 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:48:18
+2001-09-12 01:58:45 Skytel [005101308] D SH/TONE 2750    
+2001-09-12 01:58:45 Skytel [002357369] C  ALPHA  002638 CYCLIC TEST 
+2001-09-12 01:58:45 Skytel [003327216] A  ALPHA  002638 CYCLIC TEST 
+2001-09-12 01:58:45 Skytel [002139900] D SH/TONE 002638  
+2001-09-12 01:58:47 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 22:58:36 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 01:58:47 Skytel [005206407] B  ALPHA  ssadmin1@microsoft.com| Email Only, Check for  contracts delivered, error, Could not retrieve event log information, 10:58 pm 9/11/01 (204.231.209.134)|    
+2001-09-12 01:58:50 Skytel [002376872] C  ALPHA  svcaem1@conxion.net|onl-sf-2.symantec.com, HTTP, 206.204.52.77:80, Server Recovered, | 
+2001-09-12 01:58:53 Arch [1046295] B  ALPHA  |ILS: Notes #B828481 for LOCKHEED MARTIN SERVICES, contract 1084099, P1 |This is an ILS summary notification for case B828481 Event: Notes #B828481, Priority 1 Event Time: 11 September 2001 22:58:19 Title: 9/11:US WORLD ATTACK PARTS  -1/3
+2001-09-12 01:58:54 Skytel [005098183] B  ALPHA  1way WCTP
+2001-09-12 01:58:55 Arch [1046295] B  ALPHA  REQUEST Site: LOCKHEED MARTIN SERVICES * Contact: RANDY WOOD * Phone/Email: 703 484 5619 / rwoodiii@cisco.com * Contract: 1084099 Case Owner: SSEGAL @ 14085265744 ILS Subscription Information: * Subscriber: rosummey@cisco.com (Contact  -2/3
+2001-09-12 01:58:57 Arch [1046295] B  ALPHA  this person to unsubscribe.) * ILS Event: Update * Conditions: Contract ID: 1084099 * Recipients: rosummey@epage.cisco.com * Send e-mails Always * Expires Never * Time Sent|640   -3/3
+2001-09-12 01:58:58 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4658
+2001-09-12 01:58:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8088

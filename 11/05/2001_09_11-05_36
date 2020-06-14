@@ -1,0 +1,58 @@
+2001-09-11 05:36:03 Metrocall [1264049] A  ALPHA  ralph please call c. jones at 973-533-2627. i need space    for smf data on japan system
+2001-09-11 05:36:03 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2043
+2001-09-11 05:36:03 Metrocall [1545558] B  ALPHA  e is up.
+2001-09-11 05:36:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6865
+2001-09-11 05:36:06 Skytel [005002044] D  ALPHA  WARNING: Server Sametime-CON/SYBASE is Not Responding. Reason: Server not responding
+2001-09-11 05:36:09 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE Tray Metrics Down   Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[000]  dev_err[239]
+2001-09-11 05:36:10 Skytel [002350544] A  ALPHA  Allen.Babcock@compaq.com|COMPAQ OMC P1 261291 LYNCHBURG NETWORK PROBLEMS / INITIAL NOTIFIC ATION| 
+2001-09-11 05:36:11 Arch [0910057] C  ALPHA  pc999bot1: pc999bot1@PC999.hunterdonhealthcare.org 192.168.27.1 is down! -Contact HMC Immediately
+2001-09-11 05:36:12 Skytel [004396782] D SH/TONE 3177    
+2001-09-11 05:36:12 Skytel [005057390] D  ALPHA  aug001dataaege:3.5.302 EventID: 0x80001B72 (7026) - The following boot-start or system-start driver(s) failed to load:   qntmdlt 
+2001-09-11 05:36:12 Skytel [005326307] A  ALPHA  MARSHA I WILL NOT BE ABLE TO WORK OUT THIS MORNING. I HAVE TO HELP OUT  WITH THE KIDS. I'VE LOST YOUR HOME NUMBER SO CALL ME. I FORGOT TO CALL LAST NIGHT. MARY ANNE
+2001-09-11 05:36:12 Skytel [005436525] D  ALPHA  Test #21-IX_T0702
+2001-09-11 05:36:12 Skytel [004524770] A  ALPHA  wil-Feed-Commodities-VergennesVT: CPE Up at 00:59:51 on 9/11
+2001-09-11 05:36:14 Skytel [002750709] B SH/TONE 762245  
+2001-09-11 05:36:14 Skytel [004450173] D ST NUM  473-759-2624   
+2001-09-11 05:36:15 Arch [0000101] B  ALPHA  MSN 123 hello Message from NOC PCB.
+2001-09-11 05:36:15 Skytel {1551415} 3 1200 4444 
+2001-09-11 05:36:17 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178505. 
+2001-09-11 05:36:20 Metrocall [002589906] A  ALPHA  Frm: ams4tt@amsapp01-c1.sc.attws.com Sub: AMS-TT: TT677186 Txt: Major; TT677186; TR User Assign; NETRAC; PTA 18 FAILURE; PTA 18 FAILURE; 09/11/01 02:35:52; ;G215 - ;logic id:ATPX/MANT1LU-215/13/2/PTA 18 _ Short Description : Web view of this AMS Ti
+2001-09-11 05:36:20 Metrocall [1544818] A  ALPHA  REG-NS1:Device Inaccessible
+2001-09-11 05:36:22 Metrocall [002589906] A  ALPHA  cket: http://amsweb.sc.attws.com
+2001-09-11 05:36:23 Arch [0900497] A  ALPHA  Ticket 430782 SEV1 opened for a problem experienced by : Brief Description: Host FO69FRD1 is unreachable (99.9% certainty it is the root cause.)
+2001-09-11 05:36:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9788
+2001-09-11 05:36:30 Arch [0983856] A  ALPHA  |ILS: Escalation Alert #B825916 for INTEL SEMICONDUCTOR LTD HONG KONG, contract 1017227, P1 |This is an ILS summary notification for case B825916 Event: Escalation Alert #B825916, Priority 1 Event Time: 11 September 2001 02:23:17  -1/3
+2001-09-11 05:36:30 Arch [0925366] B  ALPHA   318643;Sep 11 01:37:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 05:36:30 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage on SHWW ended after 688 seconds 09/11/01 02:34:36 PDT7 623054
+2001-09-11 05:36:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3436
+2001-09-11 05:36:31 Skytel [002559104] A SH/TONE 762245  
+2001-09-11 05:36:31 Skytel [007523084] D ST NUM  08007598255    
+2001-09-11 05:36:31 Skytel [003490056] C SH/TONE 3553    
+2001-09-11 05:36:31 Skytel [007653641] C SH/TONE 332-2568
+2001-09-11 05:36:31 Skytel [005490703] D ST NUM  603-379-5057   
+2001-09-11 05:36:32 Arch [0983856] A  ALPHA  Title: *ANS*ESPE: IGX: PROBLEMS TO COMMUNICATE , SLOT 16 NOT WORKING Site: INTEL SEMICONDUCTOR LTD HONG KONG * Contact: JEFF LEE * Phone/Email: 916 356 5724 / jeff.p.lee@intel.com * Contract: 1017227 Case Owner: DCUMMING @ +44 (0)20  -2/3
+2001-09-11 05:36:33 Skytel [004423700] B ST NUM  510-266-4001   
+2001-09-11 05:36:34 Arch [0983856] A  ALPHA  8734 4284 ILS Subscription Information: * Subscriber: chebrown@cisco.com (Contact this person to unsubscribe.) * ILS Event: P1 Alert P1 * Conditions: Account ID: 10080 * Recipie|640   -3/3
+2001-09-11 05:36:35 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb12 login content match error on step 2, https://192.168.67.89/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain information 
+2001-09-11 05:36:36 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2212 - 001DEB OCALA 6125, cnet lost sync, Clr
+2001-09-11 05:36:37 Skytel [0001461] B  ALPHA  GLOBEX   04:35     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109950   375+   SPU  109940   370+   NDU  138250B 1200+   6JZ    8281B   62-   6EZ    8936    44-   6SZ    5917A   23-   6BZ   14502B   26-   6CZ    6392A    2+   
+2001-09-11 05:36:37 Skytel [002553148] D SH/TONE         
+2001-09-11 05:36:38 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2212 - 001DEB OCALA 6125, high BER, Set
+2001-09-11 05:36:38 Skytel [003265728] A SH/TONE 777     
+2001-09-11 05:36:40 Arch [0970454] B  ALPHA  (10)DI:-*Submit-Analysis-JCL(4:35:28
+2001-09-11 05:36:40 Skytel [005051613] D  ALPHA  Case  064408 MA1BAM    Tucson, AZ      Alltel          Unplanned Outage    09/11 04:35 Note#0  P1: CDMA-MM         MM-8 went out of service after a node swap. Bridge number 847-435-4201 [Cachun_Combs]
+2001-09-11 05:36:40 Skytel [1800019] A  ALPHA  GLOBEX   04:35     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109950   375+   SPU  109940   370+   NDU  138250B 1200+   6JZ    8281B   62-   6EZ    8936    44-   6SZ    5917A   23-   6BZ   14502B   26-   6CZ    6392A    2+   
+2001-09-11 05:36:40 Skytel [002673372] D  ALPHA  alert@msn.com||Hotmail urnew_merchant119@customernotes.:Start Accepting Credit Cards NOW!!  
+2001-09-11 05:36:40 Skytel [005329242] C  ALPHA  central_neon_server@questdiagnostics.com|Janet_Ftp_Aim|In iSendToSfm * Transaction fails to qualify, SFM returned -6  
+2001-09-11 05:36:41 Arch [0910057] C  ALPHA  pc999bot1: pc999bot1@PC999.hunterdonhealthcare.org 192.168.27.1 is down! -Contact HMC Immediately
+2001-09-11 05:36:44 Skytel [005266556] D SH/TONE 471-6300
+2001-09-11 05:36:44 Skytel [007062907] C SH/TONE 340     
+2001-09-11 05:36:46 Skytel [002423055] D  ALPHA  B
+2001-09-11 05:36:46 Skytel [007555205] B  ALPHA  gnslMonitoring@gnslcos2.prod.fedex.com|Extract Processing Status|---Extract Process---(STOPPED)--- Tue Sep 11 03:35:01 MDT 2001 getProcessingInfo: ABORT E Verify File for detail on gnslpkg File: ExtractDetailData20010911: Failed     : FENS.
+2001-09-11 05:36:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178512. 
+2001-09-11 05:36:48 Skytel [003954329] C  ALPHA  fyi:SEV 2: Rec#1546105(Open) Brownsville is haveing problem with Comlink
+2001-09-11 05:36:50 Metrocall [002587747] A  ALPHA  BTMNA Network: Server NJHR2022 DOWN at 05:34:33
+2001-09-11 05:36:50 Skytel [002357546] C  ALPHA  RATL 11.95 -0.48 MERQ 23.90 -0.19 CPWR 10.55 +0.29 SEGU 1.37 -0.11
+2001-09-11 05:36:50 Skytel [003924777] C  ALPHA  oncall:SEV 2: Rec#1546105(Open) Brownsville is haveing problem with Comlink
+2001-09-11 05:36:57 Skytel [005330530] A ST NUM  8685222010
+2001-09-11 05:36:57 Skytel [005112809] C  ALPHA  04:36CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240384: Uncorrectable write error

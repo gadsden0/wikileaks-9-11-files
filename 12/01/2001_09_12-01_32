@@ -1,0 +1,90 @@
+2001-09-12 01:32:00 Metrocall [1495978] C  ALPHA  (From AUTO01) IR:1284289 JOB:RPCO1080 ABD:S04C P:3 ON COLC 09/12 00:30
+2001-09-12 01:32:00 Metrocall [1224629] B  ALPHA  HOSP 2000 VALE RD BREAST CNTR/ATT:ANNETTE SAN PABLO Wt:    0    1 WONG#04011614 Caller: GLORIA
+2001-09-12 01:32:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4631
+2001-09-12 01:32:02 Metrocall [1224629] B  ALPHA  Job # 391 Ref: 6216820820
+2001-09-12 01:32:02 Metrocall [1224629] B  ALPHA  Job # 608 QUEST DIAGNOSTICS LS: STD    Rdy: 2231 Exdl:    0 P/U:QUEST DIAGNOSTIC 6511 GOLDEN GATE DR DUBLIN D/L:ALTA BATES 2450 ASHBY AVE. LAB BERKELEY Wt:    0 Caller: KELLY Ref: SEE/DRUG SCREEN
+2001-09-12 01:32:02 Skytel [005351945] C ST NUM  818-292-6720   
+2001-09-12 01:32:02 Skytel [005386632] C  ALPHA  bb@fw1-qw1.quicknet.net|!BB - 4310011! ec1-qw1.quicknet.net.http - 600010009100010|[4310011]   ec1-qw1.quicknet.net.http red  Tue Sep 11 22:32:12 PDT 2001    &green https://store1.quicknet.net/cgi-bin/dialpad?  DCP1 - Server OK HTTP/1.1 200
+2001-09-12 01:32:02 Skytel [007062667] C ST NUM  410-205-3485   
+2001-09-12 01:32:02 Skytel [002788879] D SH/TONE 2115 (81
+2001-09-12 01:32:02 Skytel [005386637] D  ALPHA  bb@fw1-qw1.quicknet.net|!BB - 4310010! ec1-qw1.quicknet.net.http - 600010009100010|[4310010]   ec1-qw1.quicknet.net.http red  Tue Sep 11 22:32:12 PDT 2001    &green https://store1.quicknet.net/cgi-bin/dialpad?  DCP1 - Server OK HTTP/1.1
+2001-09-12 01:32:03 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-12 01:32:03 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192006. 
+2001-09-12 01:32:03 Arch [0915729] A  ALPHA  39-PLEASE CALL LISA, 574-6933 RE: BRANCH OUTAGES.
+2001-09-12 01:32:03 Skytel [002861584] A ST NUM  8685227799
+2001-09-12 01:32:03 Skytel [004686110] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 01:32:03 Skytel [005386637] D  ALPHA   200
+2001-09-12 01:32:05 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-12 01:32:05 Skytel [005345829] B  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 01:32:05 Skytel [004418727] B ST NUM  603-4719-50    
+2001-09-12 01:32:05 Skytel [005051043] A  ALPHA  intasgac@brocu1m.bst.bls.com|Resource monitor results|oracle: INTAS_DATA  70% utilization, exceeding limit 70%  
+2001-09-12 01:32:05 Skytel [005326762] C  ALPHA  root@hphpbs1.inhouse.wcom.net||OmniBack has 11 failed backup sessions  
+2001-09-12 01:32:05 Skytel [004576171] C SH/TONE 709-1989
+2001-09-12 01:32:05 Skytel [005265958] B ST NUM  1-800-231-1456 
+2001-09-12 01:32:05 Skytel [005001895] B  ALPHA  [sps/173] 200 sps-apps1.cps.intel.com relay-ssl 4.891 eSDSApplication OK. (/esds/healthcheck.asp) 4:29:25
+2001-09-12 01:32:06 Skytel {1092655} 3 2400 002629    
+2001-09-12 01:32:07 Arch [0987275] C  ALPHA  s0191: 09/11 15:14:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:14:21
+2001-09-12 01:32:10 Metrocall [1311751] B  ALPHA  Local system sent SNA negative response data to controller TUCTL on device TUDEV.
+2001-09-12 01:32:12 Metrocall [1865024] A  ALPHA  Frm: SMTPPAGE@gulfaero.com Sub: SILO Txt: SUBPOOL STANDARD, 79 SCRATCH VOLUMES REMAINING 09/12/01 01:32:05
+2001-09-12 01:32:16 Skytel {0175599} 3 1200 323-526-1307   
+2001-09-12 01:32:19 Metrocall [002700559] D  ALPHA  Frm: MyOnTheGoPortfolio News Sub: Txt: Boston Airport Breaches Investigated
+2001-09-12 01:32:19 Metrocall [1933148] D  ALPHA  12-Sep-2001/01:31:48/SICA/5068 WILLOW OAK PL ,PWC /17R/A179 M52 /HIGH HEART RATE/  HX HEART PROBLEMS/ 40 YOF///
+2001-09-12 01:32:20 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0984
+2001-09-12 01:32:20 Arch [0987275] C  ALPHA  sb3: INFO0021 - 2:45PM - POSI batch has not arrived(160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:15
+2001-09-12 01:32:21 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-12 01:32:21 Metrocall [0923665] A  ALPHA  CALL  SWEDES  LABOR   961 2477  DR.  ENGLEHART
+2001-09-12 01:32:23 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-12 01:32:27 Arch [0529957] B  ALPHA  Laura.Regis-Baby|Mail Admins To: Laura 09/11/2001 Regis-Babykin/SCE/EIX 10:00 PM cc: Subject: Mail Attender Notification Quota Notification Information Help IT avoid e-mail overload. WARNING! Your e-mail file is currently 47.52 megabytes, a
+2001-09-12 01:32:29 Arch [0529957] B  ALPHA  Laura.Regis-Baby|E-News@NBC4.T V To: "NBC4.TV E-News Subscriber" 09/11/2001 <knbc-e-news@enews.wnbcne 06:54 AM ws.com> Please cc: respond to Subject: BREAKING "NBC4.TV NEWS: Terrorist Attacks E-News Subscriber" Two aircraft, including a hij
+2001-09-12 01:32:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3240
+2001-09-12 01:32:30 Metrocall [0525954] A  ALPHA  HTTP:Chelmick at 10.17.1.52 is DOWN.
+2001-09-12 01:32:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3240
+2001-09-12 01:32:33 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 3.19 17.02 16.96 Tue Sep 11 22:33:01 MST 2001 
+2001-09-12 01:32:33 Skytel [003414162] A SH/TONE 599-8480
+2001-09-12 01:32:33 Skytel [004405151] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 01:32:33 Skytel [003921945] C ST NUM  8) 800-735-2778
+2001-09-12 01:32:33 Skytel [004386457] C SH/TONE 2845    
+2001-09-12 01:32:33 Skytel [002401821] D  ALPHA  146.22.45.222 ASOOMG1A CDCJ XCHN WARNING: CHANNEL PATH 5F IS NOT OPERATIONAL ussa11.SSMC 
+2001-09-12 01:32:35 Arch [0046705] A  ALPHA  530-5984
+2001-09-12 01:32:35 Skytel [002148770] A  ALPHA  JZS02762@nifty.ne.jp|efren, where r u?|ive ben callin u, bt u r nt there. where r u? give me a cll. chotto worried. tama   (78
+2001-09-12 01:32:35 Skytel [007545518] D SH/TONE 607-0622
+2001-09-12 01:32:37 Skytel [005258806] B SH/TONE 28878   
+2001-09-12 01:32:39 Skytel [004477261] D  ALPHA  Hong Kong Exchange To Suspend Trade In Nasdaq Shares[DJ NEWS] (31
+2001-09-12 01:32:39 Skytel [004689866] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 01:32:39 Skytel [005314250] C SH/TONE 541-6047
+2001-09-12 01:32:39 Skytel [004538828] D SH/TONE 6127    
+2001-09-12 01:32:39 Skytel [005403597] D  ALPHA  T5909 [CCDDB1] Reachability lost from CCDDB1 to 1 system(s):   (CCDH16INS1). . (30
+2001-09-12 01:32:41 Skytel [007001567] D SH/TONE 899-7338
+2001-09-12 01:32:41 Skytel [005338196] B ST NUM  977-687-7302   
+2001-09-12 01:32:41 Skytel [0001114] C  ALPHA  FM High Case HD0000000301679 for TIVOLI AUTOSUBMIT NONE  clegato02 Disk Error
+2001-09-12 01:32:41 Skytel [007047515] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 01:32:41 Skytel [005384405] B  ALPHA  bb@fw1-qw1.quicknet.net|!BB - 4310012! ec1-qw1.quicknet.net.http - 600010009100010|[4310012]   ec1-qw1.quicknet.net.http red  Tue Sep 11 22:32:12 PDT 2001    &green https://store1.quicknet.net/cgi-bin/dialpad?  DCP1 - Server OK HTTP/1.1 200
+2001-09-12 01:32:42 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192013. 
+2001-09-12 01:32:42 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-12 01:32:43 Skytel [004517601] A  ALPHA  Hong Kong Exchange To Suspend Trade In Nasdaq Shares[DJ NEWS]
+2001-09-12 01:32:43 Skytel [005351271] B  ALPHA  PDS_BACKUP,1,Replica : Error -625 while synchronizing. 01:31  09/12/01
+2001-09-12 01:32:43 Skytel [003451501] D SH/TONE 409     
+2001-09-12 01:32:44 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-12 01:32:44 Arch [0979720] C  ALPHA  |Recvd an email message at void@onebox.com |from "LadyBwear" <ladybwear@lb.bcentral.com> subject: LadyBwear : What kind of people are these ? http://www.onebox.com/m/n?m=1669&u=1726928|184  
+2001-09-12 01:32:44 Metrocall [1064374] B  ALPHA  YEN  119.30/45 -042 EUR  0.9112/22 +009 CHF  1.6430/50 +025 GBP  1.4735/55 -016 CAD  1.5635/45 -002 AUD  0.5183/88 -012 NZD  0.4284/94 -021 DEM  2.1450/57 -024  E/C  1.4989/94 -002 E/Y  108.68/81 -031
+2001-09-12 01:32:44 Metrocall [1064377] C  ALPHA  SED97025/97180/9710 9670/9627/9580/9549 SEY 99940/99915+000 99900/ 99905/ 99865 SSI _9290/_9260-101 JGB 13899/13714 +06 US  10514/10422 +00 SP107500/10140+0000 DJ _9630/_9665 +000 ND 13360/13820 +000 TY 10712+ FV 10616  TU 10328+
+2001-09-12 01:32:45 Metrocall [1064374] B  ALPHA   E/S  0.6178/84 -014 USD     113.26 -012
+2001-09-12 01:32:45 Metrocall [1064385] A  ALPHA  JY  8317/8385  +042 EC  9067/9047 +0067 BP 14526/14300 +000 SF  6005/6010  +070 CD  6388/6380  -010 AD  5169/5152  +031 DM  4636/4626  +034 MP103750/10290 -550 PTB 9039/8942  +002 2YBA 9560/9579  +30 
+2001-09-12 01:32:45 Skytel [003875698] A ST NUM  670-668-7420   
+2001-09-12 01:32:45 Skytel [005092221] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 01:32:45 Skytel [003949183] D  ALPHA  ENS - Unable to open ticket intrdp02 - HPUnix Server - CPU0 is in a CRITICAL state 
+2001-09-12 01:32:45 Skytel [007062907] C SH/TONE 340     
+2001-09-12 01:32:45 Skytel [005525114] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 01:32:46 Arch [1605015] B  ALPHA  Event POINDER:Dsbora04UpDown NOD|
+2001-09-12 01:32:46 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-12 01:32:46 Arch [0979720] C  ALPHA  |Recvd an email message at void@onebox.com |from Kadmus <kadmus@yahoo.com> subject: Re: your crazy canadian http://www.onebox.com/m/n?m=1668&u=1726928|150  
+2001-09-12 01:32:47 Metrocall [1064385] A  ALPHA  2YTT 9544/9531  +41 2YTC 9458/9455  +20 CAC  3960/4025 +000
+2001-09-12 01:32:48 Skytel [007438361] C ST NUM  641-1255 (79   
+2001-09-12 01:32:54 Skytel [007438026] C SH/TONE 3333 (66
+2001-09-12 01:32:54 Skytel [007548352] A SH/TONE 453-8444
+2001-09-12 01:32:54 Skytel [005204423] B ST NUM  60) 323-720-4020    
+2001-09-12 01:32:54 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:32:58 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #28-IX_T4013
+2001-09-12 01:32:58 Skytel [007649260] D ST NUM  520-420-4204-20
+2001-09-12 01:32:58 Skytel [005226605] D ST NUM  9683534862
+2001-09-12 01:32:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8062

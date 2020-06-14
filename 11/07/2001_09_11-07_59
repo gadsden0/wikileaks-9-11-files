@@ -1,0 +1,178 @@
+2001-09-11 07:59:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2186
+2001-09-11 07:59:01 Metrocall [002110632] C  ALPHA  Remember medication.
+2001-09-11 07:59:01 Metrocall [002110448] A  ALPHA  Check for your keys.
+2001-09-11 07:59:01 Metrocall [002110422] B  ALPHA  Medication time.
+2001-09-11 07:59:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2186
+2001-09-11 07:59:01 Skytel [005256194] A SH/TONE 10      
+2001-09-11 07:59:01 Skytel [004086922] C SH/TONE   (79   
+2001-09-11 07:59:01 Skytel [003486856] C SH/TONE 707     
+2001-09-11 07:59:03 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7008
+2001-09-11 07:59:03 Arch [0558428] D  ALPHA  news@KDKA-TV|Headlines|Taking Initiative On Budget / Study: Depression Shortens Lives / Watch KDKA-TV for more. 
+2001-09-11 07:59:03 Arch [0921009] A  ALPHA  There were 28 HARD boots since the previous business day. Of those, 26 were unique stores numbers.
+2001-09-11 07:59:03 Arch [0951146] C  ALPHA  811185 .MAXRETRY-CHECK CATCHER 09/10/01 20:13:01
+2001-09-11 07:59:03 Metrocall [1540067] A  ALPHA  From: Kendle, David S. Subj: ADCC Operation V2.0 ADCC Operation 7:55 am Jonesboro Battlecreek A4282 One One operation, cause unknown..Troubleman to patrol and get flag
+2001-09-11 07:59:03 Metrocall [0121068] D  ALPHA  PLEASE CALL
+2001-09-11 07:59:03 Skytel [003414162] A SH/TONE 599-8480
+2001-09-11 07:59:03 Skytel [007588498] A SH/TONE 3385    
+2001-09-11 07:59:03 Skytel [007641119] D SH/TONE 911     
+2001-09-11 07:59:04 Skytel {0854037} 1 1200 313-665-2071  92    
+2001-09-11 07:59:04 Skytel {0049925} 1 1200 3) 3) @YAKAAAAAA WHY DON4T YOU WRITE ME A MESSAGE? I THINK I HAVE TO WRITE IN ENGLISH PERHAPS YOU FORGOT SPANISH, DID YOU? WELL ENJOY YOUR TRIP. CARIQOS.... YANNICITA..
+2001-09-11 07:59:05 Arch [0558428] D  ALPHA  news@KDKA-TV|Weather|Tue: H 76 / L 54 Sunshine and pleasant Wed: H 80 / L 56 Mostly sunny and nice . Watch KDKA-TV for more. 
+2001-09-11 07:59:05 Arch [0028073] C  ALPHA   9/11 7:58>Subj=MBSGS Daily Batch Failure, Mesg=-clt01LTAM01-MBSGS-Daily Batch Process has been running for more than 1 hour. Started 9/11/2001 65700 AM <mbsgs.process@capmark.funb.com>
+2001-09-11 07:59:05 Arch [1060702] D  ALPHA  root: Jacksonville_Riverplace A58 02E0A0 OK Link receive failure 09-11-01 11:47:50
+2001-09-11 07:59:05 Arch [0936758] B  ALPHA  40412
+2001-09-11 07:59:05 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 180083. 
+2001-09-11 07:59:05 Metrocall [1540067] A  ALPHA  s and counter readings...
+2001-09-11 07:59:06 Skytel {1905942} 3 2400 882-3415  
+2001-09-11 07:59:07 Skytel {1092655} 3 2400 002278    
+2001-09-11 07:59:09 Arch [0906188] D  ALPHA  1113
+2001-09-11 07:59:13 Metrocall [1421706] C  ALPHA  09/11 06:57 AM < HIGH SOUTH WASTE GRINDER SOUTH GRINDER JAMMED TO MUCH 5
+2001-09-11 07:59:13 Metrocall [1784220] D  ALPHA  AX01-11857 Loc:INNER LOOP & RT1 TO FFX LINE,INNER L SubZone:5557 Nature: AAI /? Desc: Auto Acciden
+2001-09-11 07:59:13 Metrocall [002110362] C  ALPHA  Take 1 Combivir, 2 Crixivan, 1 Norvir, 1 Bactrim
+2001-09-11 07:59:13 Metrocall [002110550] B  ALPHA  Remember morning medication.
+2001-09-11 07:59:14 Metrocall [1784220] D  ALPHA  t Interstate 4 CAR ACCIDENT,UNK IF ON BELTWAY OR TELEG,FX WILL RU Units: E205 E207 M205
+2001-09-11 07:59:14 Metrocall [1064374] B  ALPHA  YEN  121.81/86 +088 EUR  0.8977/81 -004 CHF  1.6868/74 -011 GBP  1.4558/63 -005 CAD  1.5591/97 -035 AUD  0.5142/47 +009  NZD  0.4270/75 -037 DEM  2.1780/90
+2001-09-11 07:59:18 Metrocall [1064374] B  ALPHA   +010  E/C  1.5140/45 -015 E/Y  109.37/41 +072 E/S  0.6167/68 +009 USD     114.86 +008
+2001-09-11 07:59:20 Arch [1072174] D  ALPHA  Message Waiting 950-1859
+2001-09-11 07:59:20 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: crp-wbs01 Sev:5 # 201323 SMCExceptionStartingEvent ASM 3.1.14.1 09/11/01 05:58:51 MDT6 Instance: VAL Module: EventMgr Details: PID=28700 TID=11 05:58:51:634863: START: SMCInvalidOpException starting event: [4457 (V
+2001-09-11 07:59:20 Metrocall [1261323] C  ALPHA  Frm: fusasitescope@wingspan.com Txt: elgweb1 login content match error on step 2, http://192.168.67.181:7001/cmsonline/main/cmslogin.jsp
+2001-09-11 07:59:20 Metrocall [1457065] C  ALPHA  CALL JOHN MARUCA AT 6800 ASAP.
+2001-09-11 07:59:20 Metrocall [1421924] B  ALPHA  Frm: Gentran_Prod
+2001-09-11 07:59:22 Arch [0918843] C  ALPHA  Please call 2050
+2001-09-11 07:59:22 Arch [0936005] B  ALPHA  8AM: N=378 S=473 West=851 B=304 E=345 B/E=649 SI=145 East=794 Bksi=1645
+2001-09-11 07:59:22 Arch [1048904] C  ALPHA  Crandall_Barbara|Omega web site still down|Hi, Getting reports that the Omega web site is still down. Do we know when this will come back up? Thanks for your help. Barbara Barbara Crandall Client Supp
+2001-09-11 07:59:22 Metrocall [1421924] B  ALPHA  uction Sub: MAIL FROM GENTRAN NT - TWCTULGT01 Txt: INFORMATIONAL MSG - NEXTIRA SERVER IS RUNNING
+2001-09-11 07:59:22 Metrocall [1711883] C  ALPHA  From: Kendle, David S. Subj: ADCC Operation V2.0 ADCC Op
+2001-09-11 07:59:22 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 144W MAJ=NONE
+2001-09-11 07:59:24 Metrocall [1711883] C  ALPHA  eration 7:55 am Jonesboro Battlecreek A4282 One One operation, cause unknown..Troubleman to patrol and get flags and counter readings...
+2001-09-11 07:59:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9931
+2001-09-11 07:59:29 Arch [0602772] B  ALPHA  Super-User <root|Trap Message|Time: Tue Sep 11 08:00:05 2001 Agent Address: 208.30.222.83 Specific Trap: Process Stop Trap (10) Description: named Regexp: named.* Current PID: 52 
+2001-09-11 07:59:29 Metrocall [1191895] B  ALPHA  PE SWAT:  Case # 510900-When trying to access the price sheet, the following error is received: Cannot find server or DNS error.  Please join the conference call at 1 (877) 250-4160,
+2001-09-11 07:59:29 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3579
+2001-09-11 07:59:29 Metrocall [0067626] C  ALPHA  Frm: SUPPORT Txt: CPU-010% STORAGE-000% PAGING-0007/SEC STEAL-000% Users/Disc=74/66*EWSSL04 3.4/.6 4*TCPIP .59/1.9*SHAREEXT .51/1.6*SUPPORT .49/2.1**Spool/Page=36%/10% SFS BSC: 1- 27% 2-55
+2001-09-11 07:59:31 Metrocall [1191895] B  ALPHA    Passcode is 7410
+2001-09-11 07:59:31 Metrocall [1060550] B  ALPHA  Frm: DL-eBay-CS-Ewatch Sub: UPDATED CEI: 09/11/01 Core Sell Acct Reg = CA currency - FIXED Txt: REMEDY TICKET: HD18049 Fixed - Rolled back code to e216-R10 on CGI4 and SCGI. UPDATED CEI: 09/11/01 Core Sell Acct Reg = CA curr
+2001-09-11 07:59:31 Metrocall [0475145] C  ALPHA  Frm: BB@thomsoninvest.net Sub: !BB - 1069810! shilling.cpu - 200999999999999 Txt: [1069810] red Tue Sep 11 07:59:42 EDT 2001 up: 19 day(s), 1 users, 792 procs, load=821 LOAD AVG on shilling is 821 Please see: http://et-p/sysadmin/bb/
+2001-09-11 07:59:31 Metrocall [0067626] C  ALPHA  %
+2001-09-11 07:59:31 Skytel [004528770] A ST NUM  445-3084-47    
+2001-09-11 07:59:31 Skytel [003943297] A ST NUM  972-567-5823   
+2001-09-11 07:59:31 Skytel [005416076] D  ALPHA  From: JOHNSON, L  David Crandall is here with the group of guests from Germany. (54
+2001-09-11 07:59:31 Skytel [005328513] A SH/TONE 1360    
+2001-09-11 07:59:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 04:56:54 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 07:59:31 Skytel [005046799] D ST NUM  900-227-3030   
+2001-09-11 07:59:33 Metrocall [1060550] B  ALPHA  ency - FIXED Tim
+2001-09-11 07:59:35 Arch [0387058] A  ALPHA  <service@buyandh|Your wife told me to tell you it's time to take your medicine 
+2001-09-11 07:59:37 Skytel [003949237] B  ALPHA  No Fan5 winner/Rollover $56,336/sls $151,035
+2001-09-11 07:59:37 Skytel [004754611] A SH/TONE 5225    
+2001-09-11 07:59:37 Skytel [003268670] D  ALPHA  PLEASE CALL IT'S AN EMERGENCY 911, BATOLOCO. 205 382 4913
+2001-09-11 07:59:37 Skytel [004089402] C ST NUM  510-255-8078 (70    
+2001-09-11 07:59:37 Skytel [004399799] B  ALPHA  No Fan5 winner/Rollover $56,336/sls $151,035
+2001-09-11 07:59:37 Skytel [005179838] D ST NUM  0-256-539-4150 
+2001-09-11 07:59:37 Skytel [002585022] D ST NUM  954-328-9060 (75    
+2001-09-11 07:59:37 Skytel [003260601] C ST NUM  800-227-3030   
+2001-09-11 07:59:37 Skytel [002354875] C ST NUM  800-227-3030   
+2001-09-11 07:59:38 Skytel [005052744] C  ALPHA  alert@msn.com||Mtg w/ Civic Development Co. (Pat Reilly - Rep)     (NJ)    9/12/00 3:00 PM  
+2001-09-11 07:59:38 Skytel [007608775] B  ALPHA  No Fan5 winner/Rollover $56,336/sls $151,035
+2001-09-11 07:59:38 Skytel [004672719] D SH/TONE 4267389 
+2001-09-11 07:59:38 Skytel [004696261] B  ALPHA  Final/L1-CUST/GDNO/OPT-1 FRAME/LUCENT/9000/SAO PAULO, BRAZIL,  - 09/11/2001 11:55 GMT GDNO REPORTS THAT 4-PORT E1 CARD IN SLOT 4 ON SWITCH SAPOCS01 IS  SHOWING EXCESSIVE DELAY PROBLEMS. GDNO 2ND LEVEL SUPPORT  PERFORMED A COLDBOOT AND THAT 
+2001-09-11 07:59:38 Skytel [005383233] A SH/TONE 2461    
+2001-09-11 07:59:38 Skytel [004680640] A SH/TONE 128899  
+2001-09-11 07:59:38 Skytel [005245391] D SH/TONE 55555   
+2001-09-11 07:59:39 Arch [0944738] A  ALPHA  SQLALERTS <SQLAL|System Status Update|Update: The last system status time was: Sep 11 2001 4:55AM 
+2001-09-11 07:59:39 Skytel [005382082] A  ALPHA  PLS CALL STEVE SMITH WHCA OPS 7-8338..............OP30 (8
+2001-09-11 07:59:40 Skytel [005114577] A SH/TONE 54234   
+2001-09-11 07:59:40 Skytel [005004368] A  ALPHA  sysNETIQsvc: HKG Job86028 SHKG00503 09/11 19:59 SYS_CHK
+2001-09-11 07:59:40 Skytel [002819159] B  ALPHA  No Fan5 winner/Rollover $56,336/sls $151,035
+2001-09-11 07:59:40 Skytel [007554522] C ST NUM  900-753-6336   
+2001-09-11 07:59:40 Skytel [003950297] C SH/TONE 5767    
+2001-09-11 07:59:40 Skytel [002351454] D SH/TONE 236-7777
+2001-09-11 07:59:40 Skytel [007031257] C ST NUM  796-969-6963-1435   
+2001-09-11 07:59:42 Skytel [007555822] D SH/TONE 01      
+2001-09-11 07:59:42 Skytel [005055723] C  ALPHA  No Fan5 winner/Rollover $56,336/sls $151,035
+2001-09-11 07:59:42 Skytel [002356207] D SH/TONE 423-1689
+2001-09-11 07:59:42 Skytel [005094634] C ST NUM  856-245-4104   
+2001-09-11 07:59:42 Skytel [007637867] C SH/TONE 7300    
+2001-09-11 07:59:42 Skytel [003471211] C SH/TONE 9999    
+2001-09-11 07:59:42 Skytel [002735722] C SH/TONE 669-3000
+2001-09-11 07:59:42 Skytel [004091881] C ST NUM  713-765-0932   
+2001-09-11 07:59:42 Skytel [005375466] C ST NUM  407-257-6712   
+2001-09-11 07:59:42 Skytel [004516460] D SH/TONE 4200    
+2001-09-11 07:59:42 Skytel [005203941] B  ALPHA  3328*Host business.cch.com UP at 07:00:37  
+2001-09-11 07:59:44 Arch [0986966] B  ALPHA   NORMAL BCBS\PG-TEST\MEETING Crit3 OFF  
+2001-09-11 07:59:44 Arch [0213141] B  ALPHA  CVS Pager <CVSPa|SO 264803|766R|610-532-2400|ERIC|SEV3 |FUJITSU|MISSING SCIM|09/10/2001 19:09:24|Prob # 03752330||STORE RECEIVED NEW POWER SUPPLY FOR SCANNER AND NEEDS SOMEONE TO GO HOOK IT UP. PLSE S
+2001-09-11 07:59:44 Arch [0967806] D  ALPHA  lmbhux03 - Ping ERROR - 90.103.92.10_WIRLMBBDC01:Access Selling [The Berry Company]
+2001-09-11 07:59:44 Arch [0506796] D  ALPHA  WB09070458 888-467-1539 STS/WILLIAM CARTER PAM NLN /STS HD SRC
+2001-09-11 07:59:44 Skytel [005211001] C  ALPHA  No Fan5 winner/Rollover $56,336/sls $151,035
+2001-09-11 07:59:44 Skytel [007518833] A  ALPHA  "etulloch"|High School Activities Sheet|Hi! How are you=3F   I send you this file in order to have y
+2001-09-11 07:59:44 Skytel [007016186] C ST NUM  304-2500 (1    
+2001-09-11 07:59:44 Skytel [005332090] C  ALPHA  3: NewCall 2368367 INDP000058 09/10/01 16:35 8
+2001-09-11 07:59:44 Skytel [003457530] C ST NUM  8887816549
+2001-09-11 07:59:44 Skytel [005345913] C  ALPHA  No Fan5 winner/Rollover $56,336/sls $151,035
+2001-09-11 07:59:44 Skytel [005190650] C  ALPHA  alert@msn.com||Hotmail FreeShipping@mail4.BuyBidWin.com:Rock hard abs are back..
+2001-09-11 07:59:45 Metrocall {1019895} 4 2400 ****Charts*****.*****Metrocall*****.-Best Selling Books.*     Fiction     *.-------------------.1...Valhalla Rising.......Clive Cussler.2...Suzanne's Diary........For Nicholas.....James Patterson.3........Cane River.......Lalita Tademy.4.......Hemlock Bay...Catherine Coulter.5....The Woman Next................Door....Barbara Delinsky.6..Any Way The Wind...............Blows......E. Lynn Harris.7...The Fourth Hand.........John Irving.8...........America......Stephen Coonts.9.....The Forgotten......Faye Kellerman.10.....Fatal Voyage........Kathy Reichs.(c)2001 DATACAST(R).www.datacastnews.com....
+2001-09-11 07:59:46 Arch [0506796] D  ALPHA  00 PENDING
+2001-09-11 07:59:46 Arch [0475272] C  ALPHA  603-9042
+2001-09-11 07:59:46 Arch [0951885] D  ALPHA  GROUP PAGE: FAO:Julian Shles sev 1 ticket 197019 Notes issue 13th floor  
+2001-09-11 07:59:46 Arch [0472373] B  ALPHA  GROUP PAGE: FAO:Julian Shles sev 1 ticket 197019 Notes issue 13th floor  
+2001-09-11 07:59:46 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 180090. 
+2001-09-11 07:59:46 Skytel [003944456] C SH/TONE 1057    
+2001-09-11 07:59:46 Skytel [004393220] B  ALPHA  WB09110012 METLIFE/ MASE Debra Moon 814-269-8381 BKFX
+2001-09-11 07:59:48 Arch [0983361] A  ALPHA  224-1156
+2001-09-11 07:59:48 Arch [2009092] B  ALPHA  *Sports Update*.---MLB STANDINGS---.- National League -.- Eastern Division-.-------------------.Team W  L  Pct   GB.---- -  -  ---   --.Atl 78 64  549  ---.Phi 75 68  524  3.5.NYM 71 73  493  8.0.Fla 66 77  462 12.5.Mon 61 82  427 17.5.---------------
+2001-09-11 07:59:48 Arch [1060702] D  ALPHA  NIU Sys 36/Dev 3604 - 002A4A JAX BEACH 56, cnet lost sync, Clr
+2001-09-11 07:59:48 Skytel [002401821] D  ALPHA  206.122.40.74 Scratch Pool Depletion Warning for ACS 00 Subpool TAPE1A, 92 Scratch Volumes remaining ussa11.SSMC 
+2001-09-11 07:59:48 Skytel [004133395] A SH/TONE 1 (29   
+2001-09-11 07:59:48 Skytel [005340821] B ST NUM  900-753-6336   
+2001-09-11 07:59:48 Skytel [005509532] D ST NUM  800-227-3030   
+2001-09-11 07:59:48 Skytel [005080604] D SH/TONE 800     
+2001-09-11 07:59:48 Skytel [007608848] A ST NUM  709-897-4401   
+2001-09-11 07:59:48 Skytel [005122459] C SH/TONE 5520    
+2001-09-11 07:59:48 Skytel [003924628] B SH/TONE 5768    
+2001-09-11 07:59:48 Skytel [002861584] A ST NUM  9685227799
+2001-09-11 07:59:48 Skytel [007049243] C  ALPHA  No Fan5 winner/Rollover $56,336/sls $151,035
+2001-09-11 07:59:50 Arch [2009092] B  ALPHA  ----.- Central Division-.-------------------.Hou 84 59  587  ---.StL 79 64  552  5.0.Cub 78 65  545  6.0.Mil 63 81  438 21.5.Cin 58 86  403 26.5.Pit 55 88  385 29.0.-------------------.- Western Division-.-------------------.Ari
+2001-09-11 07:59:50 Metrocall [0409505] A  ALPHA  Frm: Collections Txt: CSS NDM FAILURE could not ftp file cd192_exp.dwn to csd4 from csd3 Tue Sep 11 07:45:05 EDT 2001
+2001-09-11 07:59:50 Metrocall [002117515] C  ALPHA  ice Information: IP Hostname: "RMTIS02.QVC.COM" IP Address: "167.140.216.55" Hardw
+2001-09-11 07:59:50 Metrocall [2020007] B  ALPHA  ****Char
+2001-09-11 07:59:50 Metrocall [0409995] C  ALPHA  not ftp file cd192_exp.dwn to csd4 from csd3 Tue Sep 11 07:45:05 EDT 2001
+2001-09-11 07:59:50 Skytel [004530082] A ST NUM  9003138417
+2001-09-11 07:59:50 Skytel [003436448] A SH/TONE 3992    
+2001-09-11 07:59:50 Skytel [003597731] A ST NUM  648-5000 (39   
+2001-09-11 07:59:50 Skytel [005181862] B ST NUM  603-980-0296   
+2001-09-11 07:59:50 Skytel [005376039] B SH/TONE 799-8000
+2001-09-11 07:59:50 Skytel [003437732] B SH/TONE 799-4902
+2001-09-11 07:59:50 Skytel [005507860] B SH/TONE 696969  
+2001-09-11 07:59:50 Skytel [004679330] A ST NUM  657-877-8786 (20    
+2001-09-11 07:59:50 Skytel [003437358] D ST NUM  910-556-0691   
+2001-09-11 07:59:50 Skytel [005004719] D  ALPHA  E HARMONAY   76 HARTSDALE RD     EF592-6538 CC 1 TUESDAY        4140 940
+2001-09-11 07:59:52 Arch [2009092] B  ALPHA   81 62  566  ---.SFG 80 64  556  1.5.LAD 78 65  545  3.0.SDP 70 73  490 11.0.Col 62 80  437 18.5.*******************.(c)2001 DATACAST(R).www.datacastnews.com.
+2001-09-11 07:59:52 Metrocall [2020007] B  ALPHA  ts*****.*****Metrocall*****.-Best Selling Books.*     Fiction     *.-------------------.1...Valhalla Rising.......Clive Cussler.2...Suzanne's Diary........For Nicholas.....James Patterson.3........Cane River.......Lalita Tademy.4.......Hemlock Bay...Ca
+2001-09-11 07:59:52 Skytel [005249083] C ST NUM  854-635-1130   
+2001-09-11 07:59:53 Skytel [004517320] C SH/TONE 986-6800
+2001-09-11 07:59:53 Skytel [002347852] D SH/TONE 5288    
+2001-09-11 07:59:53 Skytel [005112014] D SH/TONE 16444   
+2001-09-11 07:59:54 Metrocall [2020007] B  ALPHA  therine Coulter.5....The Woman Next................Door....Barbara Delinsky.6..Any Way The Wind...............Blows......E. Lynn Harris.7...The Fourth Hand.........John Irving.8...........America......Stephen Coonts.9.....The Forgotten......Faye Keller
+2001-09-11 07:59:54 Metrocall [002110536] C  ALPHA  Take meds.
+2001-09-11 07:59:54 Metrocall [002110478] D  ALPHA  Time to take medication.
+2001-09-11 07:59:54 Metrocall [002589691] C  ALPHA  Frm: oracle@er-erp-db1.erc.gecapital.com Sub: DB Errors Txt: er-erp-db1 pger ORA-00600 07:00:01
+2001-09-11 07:59:54 Metrocall [002589689] C  ALPHA  Frm: oracle@er-erp-db1.erc.gecapital.com 
+2001-09-11 07:59:55 Skytel [005205466] C ST NUM  0) 402-2958    
+2001-09-11 07:59:55 Skytel [004413402] C ST NUM  900-456-1286   
+2001-09-11 07:59:55 Skytel [005076571] C SH/TONE 21025   
+2001-09-11 07:59:56 Arch [1053857] A  ALPHA  Action Request A|tteire Import Failed|Action Request System Import Tool Tue Sep 11 08:00:14 2001 **** Import of /u02/app/ar/custom/iss/scripts/moniship/tteire_diff.txt started (ARNOTE 4001) **** Record 1 : Required field cannot be reset to
+2001-09-11 07:59:56 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2187
+2001-09-11 07:59:56 Metrocall [2020007] B  ALPHA  man.10.....Fatal Voyage........Kathy Reichs.(c)2001 DATACAST(R).www.datacastnews.com
+2001-09-11 07:59:56 Metrocall [002589689] C  ALPHA  Sub: DB Errors Txt: er-erp-db1 pger ORA-00600 07:00:01
+2001-09-11 07:59:56 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2187
+2001-09-11 07:59:56 Metrocall [1146083] A  ALPHA  PE SWAT:  Case # 510900-When trying to access the price sheet, the following error is received: Cannot find server or DNS error.  Please join the conference call
+2001-09-11 07:59:56 Metrocall {1019895} 2 2400 ****Sports****.*****Metrocall*****.---MLB STANDINGS---.- National League -.- Eastern Division-.-------------------.Team W  L  Pct   GB.---- -  -  ---   --.Atl 78 64  549  ---.Phi 75 68  524  3.5.NYM 71 73  493  8.0.Fla 66 77  462 12.5.Mon 61 82  427 17.5.-------------------.- Central Division-.-------------------.Hou 84 59  587  ---.StL 79 64  552  5.0.Cub 78 65  545  6.0.Mil 63 81  438 21.5.Cin 58 86  403 26.5.Pit 55 88  385 29.0.-------------------.- Western Division-.-------------------.Ari 81 62  566  ---.SFG 80 64  556  1.5.LAD 78 65  545  3.0.SDP 70 73  490 11.0.Col 62 80  437 18.5.*******************.(c)2001 DATACAST(R).www.datacastnews.com..
+2001-09-11 07:59:57 Skytel [005340129] A SH/TONE 1       
+2001-09-11 07:59:57 Skytel [005206252] D ST NUM  603-693-8332 (58    
+2001-09-11 07:59:57 Skytel [005105126] B  ALPHA  CALL HELENE WITH THE FAA AT 718-533-8343.
+2001-09-11 07:59:57 Skytel [005198319] D  ALPHA  TECHNICAL ADVISORY/NOC S/W: At 1:48 AM, Amtosm lost connection to AgenterRouter after amd was stopped and restarted.  The process remained down and had to be restarted by the operator.  Bullock/DCM. -Jxn 2-Way Ops (1
+2001-09-11 07:59:59 Skytel [005330929] A ST NUM  977-231-9119   
+2001-09-11 07:59:59 Skytel [004113526] B SH/TONE 83 (73  
+2001-09-11 07:59:59 Skytel [005065716] B  ALPHA  ALL SYSTEMS UP AND AVAILABLE AT THE EDC. 
+2001-09-11 07:59:59 Skytel [003937276] D SH/TONE 93201   
+2001-09-11 07:59:59 Skytel [002281085] D SH/TONE 5555    
+2001-09-11 07:59:59 Skytel [003778815] D  ALPHA  TECHNICAL ADVISORY/NOC S/W: At 1:48 AM, Amtosm lost connection to AgenterRouter after amd was stopped and restarted.  The process remained down and had to be restarted by the operator.  Bullock/DCM. -Jxn 2-Way Ops

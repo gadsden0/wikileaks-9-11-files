@@ -1,0 +1,44 @@
+2001-09-11 05:09:00 Arch [0944991] D  ALPHA  PAGE FROM lifeline:  alert 8931365 AMDB_FD dba nyfdpsyb01.gsam.gs.com FD_PROD nyfdpsyb01.gsam.gs.com_DBA (FD_PROD): 01-09-11 05:09:00 DBmaint.func_dump: ERROR: Dump for FD_PROD.DST_checker failed 
+2001-09-11 05:09:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2016
+2001-09-11 05:09:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2016
+2001-09-11 05:09:01 Metrocall [0475145] C  ALPHA  Frm: BB@thomsoninvest.net Sub: !BB - 8983010................................................................................................................................................
+2001-09-11 05:09:02 Arch [0951146] C  ALPHA  56730 TIME 23:01 ACTIVE-ECP3 CELL 106 (BCKE) CINGULAR TOWER BEACON LIGHT FAILURE
+2001-09-11 05:09:04 Skytel {0132085} 1 1200 1C01C0001C00000000006190100003C0700000000051C6124534F020000000001C00000000006190100003C0700000000051C6124534F02000000
+2001-09-11 05:09:05 Skytel {0143279} 3 1200 202-685-7650   
+2001-09-11 05:09:09 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router 611FP-1Tendo at 02:07:29 Txt: Router 611FP-1Tendo DOWN at 02:07:29 Address: 209.247.46.97 Date: 09/11/2001 Status: Host Unreachable ( 11003)
+2001-09-11 05:09:10 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSTRD_EDGNY1) *** VERY SERIOUS Blocking in PDSTRD_EDGNY1 - block time=2269 > 600 secs - Tue Sep 11 05:08:21 EDT 2001 @05:08 09/11/01 
+2001-09-11 05:09:10 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178212. 
+2001-09-11 05:09:10 Arch [0944991] D  ALPHA  PAGE FROM lifeline:  alert 8931366 AMDB_FD dba nyfdpsyb01.gsam.gs.com FD_PROD nyfdpsyb01.gsam.gs.com_DBA (FD_PROD): 01-09-11 05:09:08 DBmaint.func_dump: ERROR: Dump for FD_PROD.Parms failed 
+2001-09-11 05:09:12 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSTRD_EDGNY1) MAYBE OPEN TRANSACTION in syslogshold PYR_ARCHIVE|67 - PDSTRD_EDGNY1 @05:08 09/11/01 
+2001-09-11 05:09:18 Skytel {1930212} 1 1200 wn@solutions.att.com|Tkt#0570822-CITICORP|Update-b0155-A-3640-Link now up-NMC-link showing errors-refer back to LEC GCSC 8002268054  .
+2001-09-11 05:09:23 Arch [0979774] D  ALPHA  <'attraction-tip|how to get laid with any woman. |<a href="http://www.yahoo.com/homet/?http://r 
+2001-09-11 05:09:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9761
+2001-09-11 05:09:27 Arch [0000101] B  ALPHA  MSN 110 hello Message from NOC PCB.
+2001-09-11 05:09:28 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 05:09:30 Arch [0492587] C  ALPHA  STALL DNS54EEZ.DBF R       3000
+2001-09-11 05:09:31 Skytel [002559104] A SH/TONE 76245   
+2001-09-11 05:09:31 Skytel [005091215] D  ALPHA  wn@solutions.att.com|Tkt#0570822-CITICORP|Update-b0155-A-3640-Link now up-NMC-link showing errors-refer back to LEC GCSC 8002268054  
+2001-09-11 05:09:31 Skytel [005344266] C  ALPHA  wn@solutions.att.com|Tkt#0570822-CITICORP|Update-b0155-A-3640-Link now up-NMC-link showing errors-refer back to LEC GCSC 8002268054  
+2001-09-11 05:09:32 Metrocall [1422750] D  ALPHA  Frm: PRODLA Sub: Alarm Txt: T602 Lo Lo Feed Rate
+2001-09-11 05:09:32 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3409
+2001-09-11 05:09:33 Skytel [007553044] B  ALPHA  wn@solutions.att.com|Tkt#0570822-CITICORP|Update-b0155-A-3640-Link now up-NMC-link showing errors-refer back to LEC GCSC 8002268054  
+2001-09-11 05:09:36 Skytel [005328447] D SH/TONE 1       
+2001-09-11 05:09:39 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router Aevia-I-GW at 02:07:34 Txt: Router Aevia-I-GW DOWN at 02:07:34 Address: 166.90.48.82 Date: 09/11/2001 Status: Timed Out ( 11010)
+2001-09-11 05:09:42 Skytel [004748771] A SH/TONE 2624    
+2001-09-11 05:09:42 Skytel [005107302] B  ALPHA  RID=4646 T0116470. OKLAHOMA DC 165 CUSTOMER ORDER DELIVERIES WILL BE DELAYED APPROXIMATELY ONE HOUR DUE TO A SYSTEM SOFTWARE PROBLEM.  OPS SITMAN.     
+2001-09-11 05:09:42 Skytel [007041897] C  ALPHA  SEV 2 - 03945247 - GLCSETW - UNEXPECTED FAXER ERROR
+2001-09-11 05:09:44 Skytel [003954036] B  ALPHA  NIMS01:Device Accessible,Device Status:Ok
+2001-09-11 05:09:44 Skytel [002750709] B SH/TONE 76245   
+2001-09-11 05:09:44 Skytel [007109749] B SH/TONE 166177  
+2001-09-11 05:09:44 Skytel [004728304] A  ALPHA  wn@solutions.att.com|Tkt#0570822-CITICORP|Update-b0155-A-3640-Link now up-NMC-link showing errors-refer back to LEC GCSC 8002268054  
+2001-09-11 05:09:44 Skytel [002396156] D SH/TONE 4359    
+2001-09-11 05:09:46 Skytel [003947407] D  ALPHA  NIMS01:Device Accessible,Device Status:Ok
+2001-09-11 05:09:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 02:08:51 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:09:48 Skytel [005190686] D  ALPHA  F: epage; S: page to jaredbro ok; page 'F: jaredbro@pager.webtv.net; S: Build Requested -->C: 176726 selected by build chooser P: 1.1_mstv_releasec  T: official_mstv_releasec  B: 12267  ON: Monday 9/10/2001 AT 22:30; ' to 'jaredbro' success
+2001-09-11 05:09:48 Skytel [002861584] A ST NUM  8685429388
+2001-09-11 05:09:57 Arch [0950178] A  ALPHA  genesis-web1 /opt/fred/3.2.8.0/logs/opics.tk.reconfeed.2001-09-11.empty.log contains error
+2001-09-11 05:09:57 Skytel [004524770] A  ALPHA  wor-PathLabs-WorcesterMA-01: CPE Up at 00:59:59 on 9/11
+2001-09-11 05:09:57 Skytel [005436525] D  ALPHA  Test #3
+2001-09-11 05:09:57 Skytel [005112809] C  ALPHA  04:06CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240464: Uncorrectable write error
+2001-09-11 05:09:57 Skytel [005330530] A ST NUM  8685222010
+2001-09-11 05:09:57 Skytel [005226605] D ST NUM  9685517774

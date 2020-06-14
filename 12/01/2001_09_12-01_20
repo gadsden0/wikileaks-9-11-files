@@ -1,0 +1,69 @@
+2001-09-12 01:20:00 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-12 01:20:00 Metrocall [1421210] C  ALPHA  LAKEJob 378304/VSIOWNER/OMSJRNMGR has MSGW status.
+2001-09-12 01:20:00 Metrocall [1283151] D  ALPHA  : WDC-MAIL01 : "Server WDC-MAIL01/MSVR/KAIPERM -  There are no longer any pending  documents older than 30 Minutes minutes in mail1.box. "
+2001-09-12 01:20:00 Metrocall [1283151] D  ALPHA  : CRDC-MAIL03 : "Server CRDC-MAIL03/MSVR/KAIPERM -  The following pending documents in  mail2.box are older than 30 minutes  1C2866 "
+2001-09-12 01:20:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4619
+2001-09-12 01:20:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8049
+2001-09-12 01:20:02 Skytel [007560067] A SH/TONE 897-6647
+2001-09-12 01:20:04 Skytel {0743995} 1 2400 800-344-8041   
+2001-09-12 01:20:04 Skytel {1092655} 3 2400 002625    
+2001-09-12 01:20:12 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 01:20:14 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-12 01:20:16 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 01:20:18 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-12 01:20:18 Arch [0329167] D  ALPHA  From root at 01:20 AM EDT: "f3n1-en1 - 01000006 1 insert clntday failed: <-802>" [CC:db2group] 
+2001-09-12 01:20:20 Arch [0329167] D  ALPHA  From root at 01:20 AM EDT: "f3n1-en1 - 01000024 1 ClntDay() Function failed -" [CC:db2group] 
+2001-09-12 01:20:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0972
+2001-09-12 01:20:30 Metrocall [1544820] B  ALPHA  WDC-MAIL01 "Server WDC-MAIL01/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail1.box. "
+2001-09-12 01:20:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3228
+2001-09-12 01:20:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3228
+2001-09-12 01:20:31 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-12 01:20:31 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191873. 
+2001-09-12 01:20:31 Arch [0936036] B  ALPHA  'lon-sls-rtr-s0' is unreachable. Circuit down?
+2001-09-12 01:20:31 Arch [0000101] B  ALPHA  MSN 054 hello Message from NOC PCB.
+2001-09-12 01:20:33 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 01:20:33 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 16.69 20.50 12.25 Tue Sep 11 22:21:00 MST 2001 
+2001-09-12 01:20:33 Skytel [007586193] A ST NUM  430-8981-14    
+2001-09-12 01:20:33 Skytel [005226005] B SH/TONE 866     
+2001-09-12 01:20:35 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-12 01:20:35 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 7.57 17.43 13.23 Tue Sep 11 22:21:00 MST 2001 
+2001-09-12 01:20:35 Skytel [007099695] D  ALPHA  wfinley@hotwire.com|1 Weblogic servers responding beyond 5000 ms|09/11/01-22:20:00  as06m.hotwire.com:7001    Not OK!  
+2001-09-12 01:20:35 Skytel [003458725] B SH/TONE 874-1664
+2001-09-12 01:20:35 Skytel [003897763] A  ALPHA  PCI: CH1 Fail
+2001-09-12 01:20:35 Skytel [007101098] C  ALPHA  415-436-3500 TSD 1708812 WTC Disaster Recovery.  Craig Hinkely, Greg Foster and PI have finished bringing up Secaucus COP site.  Will resume MMB 0800 ET tomorrow. <JANGOVE-22:19PT INCVPG>
+2001-09-12 01:20:35 Skytel [007456682] C SH/TONE 14444   
+2001-09-12 01:20:37 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 01:20:37 Arch [0976448] A  ALPHA  Remedy Mail <Mai|High priority|Case: HD0000000055125 / Requester: Scholine, Mike / Summary: Late ASN / Details: Ford ASN not Acknowledged 
+2001-09-12 01:20:37 Arch [0623245] D  ALPHA  oracle: Unable to connect to ICDWP! - az15eh17 [9/11/0 22:20]
+2001-09-12 01:20:37 Skytel [005254194] A SH/TONE 1       
+2001-09-12 01:20:37 Skytel [007595959] B SH/TONE 961-5254
+2001-09-12 01:20:39 Skytel [003897804] D SH/TONE 222     
+2001-09-12 01:20:39 Skytel [003933391] D ST NUM  673-714-3252   
+2001-09-12 01:20:39 Skytel [007459276] D ST NUM  414-570-2175   
+2001-09-12 01:20:40 Metrocall [1466337] A  ALPHA  09/11@23:19:33 DALBK01:An unknown error occurred on device Tape 13 .
+2001-09-12 01:20:40 Metrocall [1466337] A  ALPHA  09/11@23:20:57 DALBK01:Job DALTS02 ended in an error state. Examine recent event log entries and the Job History for details.
+2001-09-12 01:20:40 Metrocall [1111466] C  ALPHA  09/11@23:19:33 DALBK01:An unknown error occurred on device Tape 13 .
+2001-09-12 01:20:40 Metrocall [1111466] C  ALPHA  09/11@23:20:57 DALBK01:Job DALTS02 ended in an error state. Examine recent event log entries and the Job History for details.
+2001-09-12 01:20:41 Skytel [005044315] C SH/TONE 1780    
+2001-09-12 01:20:41 Skytel [007644380] D ST NUM  900-227-3030   
+2001-09-12 01:20:41 Skytel [007579357] D ST NUM  555-555-5555-555555 
+2001-09-12 01:20:43 Skytel [004540264] C  ALPHA  Hoa, Please call me on the cell phone 502-5463.. Runita
+2001-09-12 01:20:43 Skytel [003926118] B SH/TONE 6270 U  
+2001-09-12 01:20:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #40-IX_T4605
+2001-09-12 01:20:45 Skytel [007567352] C ST NUM  463-681-1666-6666   
+2001-09-12 01:20:45 Skytel [007638399] D SH/TONE 7346    
+2001-09-12 01:20:47 Skytel [005044104] C  ALPHA  scott.thomas@lamrc.com|Lab DB - Hitachi 4 used more than allowable time limit.|The next user is waiting to use Hitachi 4. You have been using the tool for 277 minutes and your allowable time on the tool has expired, please end your session 
+2001-09-12 01:20:47 Skytel [005382795] C  ALPHA  "NetIQ AppManager"|NetIQ Event from LDIHOUEXCH3 : File Count/Size Threshold Exceeded|JobID = 11538 KSName = NT_FileSizeOrNum MC MachineName = LDIHOUEXCH3 Object Name = <NT_MachineFolder = LDIHOUEXCH3>  EventMsg = File Count/Size Threshold E
+2001-09-12 01:20:50 Skytel [003436448] A SH/TONE 3992    
+2001-09-12 01:20:50 Skytel [005001895] B  ALPHA  [sps/123] 200 sps-apps1.cps.intel.com relay 0.569 BDE VRS Servicesare running.<BR> (/metrios/healthcheck[XMLJunctionVRS].asp) 2:55:03
+2001-09-12 01:20:52 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-12 01:20:52 Skytel [004388789] B ST NUM  901-205-5303   
+2001-09-12 01:20:53 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-12 01:20:54 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:20:54 Skytel [005132482] A ST NUM  214-351-6401   
+2001-09-12 01:20:55 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 01:20:57 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-12 01:20:58 Skytel [004129899] C  ALPHA  Hong Kong Exchange To Suspend Trade In Nasdaq Shares[DJ NEWS] (26
+2001-09-12 01:20:58 Skytel [007438052] B SH/TONE 3333 (99
+2001-09-12 01:20:58 Skytel [002372196] B ST NUM  900-759-8255   
+2001-09-12 01:20:58 Skytel [005201376] A SH/TONE 22      

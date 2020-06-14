@@ -1,0 +1,42 @@
+2001-09-11 03:26:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1913
+2001-09-11 03:26:00 Metrocall [1062690] A  ALPHA  12172 TIME 03:21 CLEARED-Pitt  PA4098_NatHgt x25CircuitDown
+2001-09-11 03:26:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1913
+2001-09-11 03:26:03 Skytel [002401821] D  ALPHA  vaccs001:server_3 Filesystem Utilization Threshold exceeded. ussa11.SSMC 
+2001-09-11 03:26:03 Skytel {1092655} 3 2400 002187    
+2001-09-11 03:26:04 Skytel {0143279} 3 1200 202-685-7650   
+2001-09-11 03:26:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6735
+2001-09-11 03:26:07 Arch [1060702] D  ALPHA  root: Ocala A96/A13/A86 001DE1 AL Link receive failure 09-11-01 07:24:44
+2001-09-11 03:26:09 Metrocall [1064381] D  ALPHA  CHEVRON SAYS RESTARTS N.SEA BRITANNIA GAS FIELD
+2001-09-11 03:26:12 Arch [1087655] B  ALPHA  FYI - Problem ID 02113729 Sev0 Has been created.
+2001-09-11 03:26:12 Arch [1087654] B  ALPHA  FYI - Problem ID 02113729 Sev0 Has been created.
+2001-09-11 03:26:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9658
+2001-09-11 03:26:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC...G..S..U..T..L@.UM.ER. 3306
+2001-09-11 03:26:31 Arch [0925366] B  ALPHA   318643;Sep 10 23:27:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 03:26:31 Skytel [005524994] A SH/TONE 1       
+2001-09-11 03:26:33 Arch [0922216] C  ALPHA  jabridg 74648--  FYI: CC 537242, updating logging on stores switches at 323-333 is finished, was successful had no issues  Sent at 02:25      
+2001-09-11 03:26:33 Skytel [005092250] C  ALPHA  epic@epic2|Terms on=164 Terms off=0| 
+2001-09-11 03:26:33 Skytel [004397329] A ST NUM  322-140-2372-1125   
+2001-09-11 03:26:33 Skytel [004678548] B  ALPHA  spectrum@ascend.com||  Alarm SET: ModelName:        135.119.1.24 Mtype:            WA_Link IPAddress:        135.119.1.24 Date:             09/11/2001 Time:             00:26:14 AlarmID:          83330 Condition:        RED CauseCode:      
+2001-09-11 03:26:33 Skytel [003505310] D SH/TONE 54233   
+2001-09-11 03:26:35 Skytel [005327015] B  ALPHA  frank,mike can u give me status? is khh on battery or gen?  Michael Bishop
+2001-09-11 03:26:35 Skytel [005240623] D  ALPHA   UP (SS) Germany Firewall (satyr-de) 0.23 sec
+2001-09-11 03:26:36 Skytel [0001461] B  ALPHA  GLOBEX   02:25     GEH  9663.5A   .5+   GEM    ----   ----   ESU  109475   100-   SPU  109460A  110-   NDU  137400B  350+   6JZ    8298    45-   6EZ    8979     1-   6SZ    5942B    2+   6BZ   14506B   22-   6CZ    6388B    2-   
+2001-09-11 03:26:36 Skytel [007041334] B  ALPHA  alert@msn.com||Hotmail Red Hat Network Alert:RHN Errata Alert: New sendmail packages available which fix a lo  
+2001-09-11 03:26:36 Skytel [002793017] C SH/TONE 7600    
+2001-09-11 03:26:36 Skytel [002286776] C SH/TONE 9097    
+2001-09-11 03:26:37 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177080. 
+2001-09-11 03:26:37 Arch [0911134] D  ALPHA   equity71 SYBASE: check_db(PDS1_EQCSWLN) MAYBE OPEN TRANSACTION in syslogshold tempdb|115 - PDS1_EQCSWLN @03:26 09/11/01 
+2001-09-11 03:26:38 Skytel [002157643] C SH/TONE 39) 101 
+2001-09-11 03:26:39 Metrocall [1543322] C  ALPHA  MAXM WDHL_T TRANSCPT kPATHNAMEo WDHL_RX1000 HAS NO CONNECTION TO SERVER, PLEASE INVESTIGATE 09/11/0100:24:06
+2001-09-11 03:26:39 Metrocall [1545558] B  ALPHA  Frm: EA System Notification,GLENDALE,MIS Sub: TPM Problem 00820065 Txt: Hostname: bur1nt05 Description: Examine Backup 
+2001-09-11 03:26:40 Skytel [1800019] A  ALPHA  GLOBEX   02:25     GEH  9663.5A   .5+   GEM    ----   ----   ESU  109475   100-   SPU  109460A  110-   NDU  137400B  350+   6JZ    8298    45-   6EZ    8979     1-   6SZ    5942B    2+   6BZ   14506B   22-   6CZ    6388B    2-   
+2001-09-11 03:26:41 Metrocall [1545558] B  ALPHA  Exec recent job history log for details on error backup. Job "BUR1NT05-ID5-IR" ended in an error state. Examine recent ev
+2001-09-11 03:26:42 Skytel [004524770] A  ALPHA  wil-VermontHeating-WinooskiVT-01: CPE Up at 00:58:21 on 9/11
+2001-09-11 03:26:42 Skytel [005436525] D  ALPHA  Test #21
+2001-09-11 03:26:42 Skytel [005424359] B  ALPHA  77-FYI I AM GOING BACK TO HOTEL, BRAUN. (1
+2001-09-11 03:26:42 Skytel [007569517] D ST NUM  011-111-1111   
+2001-09-11 03:26:44 Skytel [005059705] C SH/TONE 1229    
+2001-09-11 03:26:48 Skytel [007603477] B SH/TONE 342     
+2001-09-11 03:26:50 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 48.96 17.61 7.98 Tue Sep 11 00:27:01 MST 2001 
+2001-09-11 03:26:50 Skytel [007562663] B SH/TONE 408-2606
+2001-09-11 03:26:59 Skytel [005385341] D  ALPHA  WinMgmt@DCSJCALPHA|"Warning" on "DCSJCALPHA"|"DCSJCALPHA" has reported a "Warning".  Reported status is: Queues - "Unknown" Drives - "Unknown" Services - "OK" Memory - "Warning" CPU - "Unknown"  

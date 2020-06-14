@@ -1,0 +1,83 @@
+2001-09-12 02:21:00 Metrocall [1064387] A  ALPHA  GB 6171/6178+000 CT_3650/773/962 +000 KC_4835/5130/510+000 SB _787/_761/745+000 SE 2095/2117/241+000 CC _865/922/935 +000 OJ 8025/8250/835+000 YX 56900/57150 +0000 CR 19820/19970 +0000 DX 11464/11501  +000 EJ 10872/10761  +000  RK 95565/95
+2001-09-12 02:21:00 Skytel [005255423] D  ALPHA  root@planetu.value.net|LOGIN PAGE ERROR: 66.35.224.211!|09/11/2001 23:16:40 66.35.224.211  460 Web Access Error: 500 read timeout  
+2001-09-12 02:21:00 Skytel [003932659] A  ALPHA  Dianalyn - Receiving error in COH2 log on PDCCC02: "ft_open result = 0023" - EIU bounce and Ftam bounce did not work. Pls Advise - already tried Tim/Thx/Todd/888-304-4825 
+2001-09-12 02:21:01 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-12 02:21:02 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 02:21:02 Metrocall [1064387] A  ALPHA  625  +000
+2001-09-12 02:21:02 Metrocall [1064385] A  ALPHA  JY  8317/8385  +042 EC  9067/9047 +0067 BP 14526/14300 +000 SF  6005/6010  +070 CD  6388/6380  -010 AD  5169/5152  +031 DM  4636/4626  +034 FES 9708/747/752/45 FDX 4270/4314  -416 PTB 9039/8927  +002 FGBS10431 FYB 13897 BDL 10890/108
+2001-09-12 02:21:02 Metrocall [1282410] C  ALPHA  Frm: OSHEROFF,STEVE D (HP-USA,ex1) Sub: FW: SAP getcalls questions using RPC Txt: Hi Genevieve, I'm working on the pgm to see how we can change it. Will get back to at the earliest. rgds uma sap-support -----Original Message----- From: 
+2001-09-12 02:21:02 Skytel [004386824] C SH/TONE 28871   
+2001-09-12 02:21:03 Skytel [002377237] B  ALPHA  2) TKT:1307746 SEV:2 PIN:8777 CNT:DESC: Job ECP8100J 0633 has JCL error. 
+2001-09-12 02:21:04 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-12 02:21:04 Metrocall [1064385] A  ALPHA  61+000 BDM 10841+011
+2001-09-12 02:21:04 Metrocall [1282410] C  ALPHA  LIM,CHENG-YAM (HP-Singapore,ex1) Sent: Monda
+2001-09-12 02:21:04 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4680
+2001-09-12 02:21:06 Arch [1046295] B  ALPHA  |ILS: Notes #B828481 for LOCKHEED MARTIN SERVICES, contract 1084099, P1 |This is an ILS summary notification for case B828481 Event: Notes #B828481, Priority 1 Event Time: 11 September 2001 23:20:38 Title: 9/11:US WORLD ATTACK PARTS  -1/3
+2001-09-12 02:21:07 Skytel [004196924] D  ALPHA  ddufauchard@theocc.com|STD|Compliance Data Service std met at 23:56; NSCC E&A std met at 00:43.   (68
+2001-09-12 02:21:07 Skytel [005071793] A  ALPHA  SYSA FIDELITY    PU P12L092 ON L12FID1 IS NOT ACTIVE
+2001-09-12 02:21:07 Skytel [005122108] D SH/TONE 117     
+2001-09-12 02:21:08 Arch [1046295] B  ALPHA  REQUEST Site: LOCKHEED MARTIN SERVICES * Contact: RANDY WOOD * Phone/Email: 703 484 5619 / rwoodiii@cisco.com * Contract: 1084099 Case Owner: SSEGAL @ 14085265744 ILS Subscription Information: * Subscriber: rosummey@cisco.com (Contact  -2/3
+2001-09-12 02:21:10 Arch [1046295] B  ALPHA  this person to unsubscribe.) * ILS Event: Update * Conditions: Contract ID: 1084099 * Recipients: rosummey@epage.cisco.com * Send e-mails Always * Expires Never * Time Sent|640   -3/3
+2001-09-12 02:21:10 Metrocall [1064391] B  ALPHA  LME FUTURES       MCU_1460/1465 -012 MAL 1377/1385 -008 MAA 1160/1165 -005 MNI 5275/5325 -085 MSN 3800/3840 -050 MPB 4900/4940 -050 MZN _840/_844 -005
+2001-09-12 02:21:11 Skytel [007591378] A SH/TONE 6773    
+2001-09-12 02:21:13 Skytel [002276714] C SH/TONE 6666    
+2001-09-12 02:21:14 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 83 processes on report1.ccbill.com. Timestamp key: 20010911231901 
+2001-09-12 02:21:15 Skytel [007527412] B  ALPHA  "Interprod5 d$".The device \\interprod5\d$ (Type: Disk Space) is DOWN since Wed Sep 12 02:21:42 2001
+2001-09-12 02:21:15 Skytel [005040245] B SH/TONE 568-7074
+2001-09-12 02:21:16 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 84 processes on report1.ccbill.com. Timestamp key: 20010911231901 
+2001-09-12 02:21:17 Skytel [005543817] C SH/TONE 727-6928
+2001-09-12 02:21:17 Skytel [007649935] D SH/TONE 523     
+2001-09-12 02:21:18 Skytel [005508893] D ST NUM  9775738886
+2001-09-12 02:21:20 Skytel [002844967] B SH/TONE 7373    
+2001-09-12 02:21:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1033
+2001-09-12 02:21:21 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-12 02:21:21 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192573. 
+2001-09-12 02:21:23 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-12 02:21:25 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-12 02:21:25 Arch [0925366] B  ALPHA   318643;Sep 11 22:22:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-12 02:21:26 Skytel [007495122] A ST NUM  287-071-1411-411    
+2001-09-12 02:21:26 Skytel [003897808] A SH/TONE 6969    
+2001-09-12 02:21:27 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-12 02:21:28 Skytel [004524770] A  ALPHA  wor-GalaxyPower-WestboroughMA-38: CPE Down at 02:20:47 on 9/12
+2001-09-12 02:21:32 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3289
+2001-09-12 02:21:32 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3289
+2001-09-12 02:21:34 Arch [1082628] B  ALPHA  (5)syswatch: HOST/PROCESS - resswext.sec.sprint.net:CLIENT PROBLEM ID -HOSTFAIL1~resswext.sec.sprint.net~furon PROBLEM AREA - HOST FAILDESCRIPTION - furon: 2 min NO RESPONSE (PING FAIL)
+2001-09-12 02:21:35 Skytel [003269678] D  ALPHA  Job has aborted MPE #J2770 Job name: TURBOFSB System: Host
+2001-09-12 02:21:37 Skytel [005254194] A SH/TONE 1       
+2001-09-12 02:21:39 Skytel [002358223] D SH/TONE 8888    
+2001-09-12 02:21:41 Skytel [005427026] A  ALPHA  800 317 6700 (69
+2001-09-12 02:21:41 Skytel [005044315] C SH/TONE 1780    
+2001-09-12 02:21:41 Skytel [005196508] D ST NUM  302-267-3333   
+2001-09-12 02:21:42 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-12 02:21:42 Arch [0911134] D  ALPHA   cshprod1-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGTWNY_HIST  Database=sybsecurity  Mode=Full_Dump         # Our PID=28540    time='09/12/01 02:19:31'    sy
+2001-09-12 02:21:43 Skytel [003924713] C SH/TONE 121 U   
+2001-09-12 02:21:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #25-IX_T4204
+2001-09-12 02:21:44 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34
+2001-09-12 02:21:44 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 96 processes on report2.ccbill.com. Timestamp key: 20010911231700 
+2001-09-12 02:21:44 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2554..
+2001-09-12 02:21:45 Skytel [005081717] B SH/TONE 
+2001-09-12 02:21:45 Skytel [002951162] C SH/TONE 502-4022
+2001-09-12 02:21:48 Skytel [005108889] C SH/TONE 8411    
+2001-09-12 02:21:48 Skytel [007641751] B SH/TONE 5827    
+2001-09-12 02:21:48 Skytel [003505310] D SH/TONE 5126    
+2001-09-12 02:21:49 Metrocall [1064375] B  ALPHA  NIKK _9610.10   -682 30 _99.02/03  5.438% GOLD 285.00/200 -100 S 4.23/33  PL 452.00 KS11   475.60 -64.97 HSI  _9425.97 -991.3 SSI   1436.11  -13.6 ORD   3051.30  -13.9 TWII  4176.93 -112.1 PD 455.00  JG 1.435%
+2001-09-12 02:21:49 Metrocall [1064374] B  ALPHA  YEN  118
+2001-09-12 02:21:50 Skytel [005001895] B  ALPHA  [sps/179] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/Ivep/healthcheck.asp) 3:23:08
+2001-09-12 02:21:51 Metrocall [1064374] B  ALPHA  .90/95 -082 EUR  0.9128/31 +025 CHF  1.6455/05 +050 GBP  1.4730/50 -021 CAD  1.5635/40 -002 AUD  0.5191/96 -004 NZD  0.4295/15 -010 DEM  2.1408/20 -066  E/C  1.5024/36 +033 E/Y  108.57/67 -042 E/S  0.6191/93 -001 USD     113.11 -027
+2001-09-12 02:21:52 Skytel [003917363] A  ALPHA  Please email and let me know everything is ok or do I need to worry about things here.  Please I am up and very upset about this and what has happened today.  Bill
+2001-09-12 02:21:53 Arch [0976352] A  ALPHA  (21)clhicks 75381-DCM-  CA7- ESC - FI2180D abended with INVALID SYSTEM DATE. Apps working issue. Tammy Skahan engaged. Impacting FINC/VDR/INV MAT.  Sent at 01:21      
+2001-09-12 02:21:53 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-12 02:21:53 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 80 processes on report2.ccbill.com. Timestamp key: 20010911231801 
+2001-09-12 02:21:53 Arch [0927891] A  ALPHA  9103
+2001-09-12 02:21:54 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:21:55 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-12 02:21:55 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 80 processes on report2.ccbill.com. Timestamp key: 20010911231901 
+2001-09-12 02:21:57 Arch [0911134] D  ALPHA   cshprod1-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGTWNY_HIST  Database=sybsecurity  Mode=Full_Dump         # Our PID=28540    time='09/12/01 02:19:32'    sy
+2001-09-12 02:21:57 Arch [0987275] C  ALPHA  s0191: 09/11 15:14:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:14:21
+2001-09-12 02:21:57 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192580. 
+2001-09-12 02:21:58 Skytel [003777774] D SH/TONE 6805    
+2001-09-12 02:21:58 Skytel [004755823] D ST NUM  0-925-931-0865 
+2001-09-12 02:21:58 Skytel [007084271] D SH/TONE 248     
+2001-09-12 02:21:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8111
+2001-09-12 02:21:59 Arch [0911134] D  ALPHA   cshprod1-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGTWNY_HIST  Database=master  Mode=Full_Dump         # Our PID=29202    time='09/12/01 02:19:44'    sybase 
+2001-09-12 02:21:59 Arch [0987275] C  ALPHA  sb3: INFO0021 - 2:45PM - POSI batch has not arrived(160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:15

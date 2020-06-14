@@ -1,0 +1,111 @@
+2001-09-12 02:37:00 Skytel [005094397] D  ALPHA  NTManage@bsmg.com|Message from NTManage|This Message is from NMS: Device Name: BSMGMETA1 Address: 144.210.154.4 is Not Reachable Type: Terminal Server Ping: REQ Timed Out NMS: Device in severe error state - all other checks aborted.  CAMPBE
+2001-09-12 02:37:00 Skytel [004527605] B SH/TONE 1599    
+2001-09-12 02:37:01 Arch [0987275] C  ALPHA  sb3: INFO0021 - 2:45PM - POSI batch has not arrived(160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:15
+2001-09-12 02:37:02 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 23:35:00 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 02:37:02 Skytel [005225860] B SH/TONE 125     
+2001-09-12 02:37:02 Skytel [005062410] C  ALPHA  owens@ifdp.jpl.nasa.gov|| sidelined @ 233554 Tue Sep 11  
+2001-09-12 02:37:04 Skytel [004386457] C SH/TONE 2845    
+2001-09-12 02:37:04 Skytel [005095446] B  ALPHA  5760790 SER KA3KA3 LONG BEACH MEMORIAL ME 5629333003 D LUXANBERG 328 ALM 293
+2001-09-12 02:37:05 Skytel [005001895] B  ALPHA  [sps/16] 104 supplier.intel.com relay-ssl 0.0 FAILURE Server closedconnection immediately. (/seem/healthcheck.asp) 3:40:14
+2001-09-12 02:37:05 Skytel [004397995] C  ALPHA  IntelliWatch Monitor: WARNING - Server CVGNA05.US.Schneider-Electric.com/A/SVR/Schneider MAY HAVE crashed. Waiting 120 seconds...
+2001-09-12 02:37:05 Skytel [004024864] A  ALPHA  wingmon@firstusa.com||SiteScope stweb103 netscape 8000 stweb103 28593 not found (0)    ********************************************************************** This transmission may contain information that is privileged, confidential and/or 
+2001-09-12 02:37:07 Skytel {0619497} 1 2400 31740
+2001-09-12 02:37:10 Metrocall [1751988] B  ALPHA  98: HAVE YOU ARRIVED IN MMH YET? : END MESSAGE ####
+2001-09-12 02:37:12 Arch [0951631] D  ALPHA  :00330783 Severity: 3  Job LAPCHCK4.U3PMMOPO failed, no recovery specified
+2001-09-12 02:37:12 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1049
+2001-09-12 02:37:14 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=EQFA  Mode=Incremental_Dump         # Our PID=4749    time='09/12/01 02:35:21'    sybase on
+2001-09-12 02:37:14 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-12 02:37:15 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=itg  Mode=Incremental_Dump         # Our PID=5131    time='09/12/01 02:35:25'    sybase on 
+2001-09-12 02:37:15 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-12 02:37:17 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=lis  Mode=Incremental_Dump         # Our PID=5633    time='09/12/01 02:35:28'    sybase on 
+2001-09-12 02:37:17 Arch [0981877] B  ALPHA   9/12 2:36>watcher1 just rebooted <root>
+2001-09-12 02:37:17 Arch [1158582] B  ALPHA   9/11 23:31>Second Alert- capmktsEOD.dat file did not arrive by 23
+2001-09-12 02:37:19 Metrocall [1261323] C  ALPHA  Frm: wingmon@firstusa.com Txt: SiteScope stweb103 netscape 8000 stweb103 28593 not found (0)
+2001-09-12 02:37:20 Skytel {0570177} 3 1200 0500 
+2001-09-12 02:37:25 Arch [1629007] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:37:25 Arch [1131960] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not s
+2001-09-12 02:37:25 Arch [0978397] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:37:25 Arch [0915843] A  ALPHA  (32)hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  N
+2001-09-12 02:37:25 Arch [0983275] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:37:25 Arch [0976352] A  ALPHA  (22)hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:37:27 Arch [1131960] C  ALPHA  tarte  Sent at 01:36      
+2001-09-12 02:37:27 Arch [0915843] A  ALPHA  ot starte  Sent at 01:36      
+2001-09-12 02:37:29 Metrocall [1544818] A  ALPHA  Server 'HAY-NS2 Disk.E.Free = 151928832, min allowable: (300000000)
+2001-09-12 02:37:29 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3305
+2001-09-12 02:37:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3305
+2001-09-12 02:37:31 Arch [0975777] A  ALPHA  Please Call-2904
+2001-09-12 02:37:31 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-12 02:37:32 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-12 02:37:32 Arch [0294758] B  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:37:32 Arch [1410805] B  ALPHA  (19)hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:37:32 Arch [0979240] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  No
+2001-09-12 02:37:32 Arch [1612942] D  ALPHA  (19)hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:37:32 Skytel [002843276] D SH/TONE 6732    
+2001-09-12 02:37:32 Skytel [005361153] A  ALPHA  363250 652dr s2a652 947209 tat on 652dr not found
+2001-09-12 02:37:33 Arch [0899386] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:37:33 Arch [0945458] A  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not s
+2001-09-12 02:37:33 Skytel [004542612] B SH/TONE 6351    
+2001-09-12 02:37:34 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-12 02:37:34 Arch [0979240] C  ALPHA  t starte  Sent at 01:37      
+2001-09-12 02:37:34 Arch [0945458] A  ALPHA  tarte  Sent at 01:36      
+2001-09-12 02:37:37 Skytel [003259708] D SH/TONE 3889 (5 
+2001-09-12 02:37:37 Skytel [002406719] D SH/TONE 0500    
+2001-09-12 02:37:37 Skytel [005104315] C  ALPHA  Implant 14101 is up. Robin
+2001-09-12 02:37:37 Skytel [003953469] D ST NUM  301-601-7444   
+2001-09-12 02:37:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:37:39 Skytel [005403597] D  ALPHA  T6097 [CCDDB1] Reachability lost from CCDDB1 to 1 system(s):   (CCDH16INS1). . (34
+2001-09-12 02:37:39 Skytel [007000386] A  ALPHA  'vl0lette@aol.com|fwd: (no subject)| 
+2001-09-12 02:37:39 Skytel [003481167] D ST NUM  614-431-4302   
+2001-09-12 02:37:42 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 36.30 25.84 15.28 Tue Sep 11 23:38:08 MST 2001 
+2001-09-12 02:37:43 Metrocall [1933148] D  ALPHA  15062 GALAPAGOS PL ,PWC /17R/A179 M53 /SKITZO, RAPID HEART BEAT// 20 YOM//
+2001-09-12 02:37:43 Skytel [007596897] A SH/TONE 333007  
+2001-09-12 02:37:43 Skytel [004444776] C  ALPHA  OSSI 0.00 UNCH STAR 12.77 UNCH BRR 0.00 UNCH TENT 2.90 UNCH
+2001-09-12 02:37:43 Skytel [002276714] C SH/TONE 6666    
+2001-09-12 02:37:43 Skytel [005226605] D ST NUM  8683242171
+2001-09-12 02:37:45 Skytel [003932659] A  ALPHA  Dianalyn - Go back to sleep :-) COH2 is fixed. Reloading did the trick. Thx for your help/Todd
+2001-09-12 02:37:45 Skytel [003327216] A  ALPHA  002651 CYCLIC TEST 
+2001-09-12 02:37:45 Skytel [005172730] C SH/TONE 9723    
+2001-09-12 02:37:45 Skytel [002357369] C  ALPHA  002651 CYCLIC TEST 
+2001-09-12 02:37:45 Skytel [007574781] D SH/TONE 706-9980
+2001-09-12 02:37:45 Skytel [002139900] D SH/TONE 002651  
+2001-09-12 02:37:47 Skytel [003071883] C  ALPHA  IBM 96.47 UNCH NSCP 0.00 UNCH MSFT 57.58 UNCH EDS 56.00 UNCH (77
+2001-09-12 02:37:48 Skytel [005345821] D  ALPHA  8883372867  ID: NY061013 Ticket: 354  001Comm. Line Failure
+2001-09-12 02:37:49 Arch [0284292] B  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:37      
+2001-09-12 02:37:49 Arch [0948216] C  ALPHA  (32)hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 
+2001-09-12 02:37:49 Arch [0926767] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:37:49 Arch [0976352] A  ALPHA  (23)hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:37:49 Arch [0976989] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:37:49 Arch [0975978] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:37:49 Arch [0330524] D  ALPHA  "~Guardian (CAP,|Guardian Alert|-------Detail-------- Console Comment: Node Down Failed to reach server RALMFAPP03P. 
+2001-09-12 02:37:49 Arch [1034476] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:37:50 Skytel [005328293] B SH/TONE 720     
+2001-09-12 02:37:51 Arch [0948216] C  ALPHA  01:35      
+2001-09-12 02:37:51 Arch [0983275] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:37:51 Arch [0909547] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 0
+2001-09-12 02:37:51 Arch [1131960] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:37:51 Arch [0076486] B  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35     
+2001-09-12 02:37:51 Arch [0929241] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:37:51 Arch [0769433] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:37:51 Arch [1658366] D  ALPHA  [01/02]:The Problem with ID 00330787 Severity 1 Description job mchr1610 abended with a rc=12 in step040......critical as per the jobdoc. has not been resolved.It has been...
+2001-09-12 02:37:51 Arch [0959910] B  ALPHA  6 hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by
+2001-09-12 02:37:53 Arch [0909547] C  ALPHA  1:35      
+2001-09-12 02:37:53 Arch [0987275] C  ALPHA  s0191: 09/11 15:41:26 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:41:26
+2001-09-12 02:37:53 Arch [0076486] B  ALPHA   
+2001-09-12 02:37:53 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192762. 
+2001-09-12 02:37:53 Arch [0959910] B  ALPHA   DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:37:53 Arch [1658366] D  ALPHA  [02/02] escalated to level 1 on 09/11/2001 at 22:17:45.
+2001-09-12 02:37:55 Arch [1410805] B  ALPHA  (20)hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:37:55 Arch [0968156] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35     
+2001-09-12 02:37:55 Arch [0987275] C  ALPHA  s0191: 09/11 15:47:33 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:47:34
+2001-09-12 02:37:55 Arch [1408029] D  ALPHA  (20)hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:37:55 Arch [0507846] B  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:37:55 Arch [1284332] D  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 1 of 3 Pages - Sales Lift by DC/Item - running final data.  Sent at 01:35      
+2001-09-12 02:37:55 Arch [0909547] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 2 of 3 Pages - Sales -vs- Forecast by DC/Item - target time 11am.  Not starte  Sent at 01:36      
+2001-09-12 02:37:57 Arch [0968156] D  ALPHA   
+2001-09-12 02:37:57 Arch [0987275] C  ALPHA  s0191: 09/11 15:50:15 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:50:16
+2001-09-12 02:37:57 Arch [0909547] C  ALPHA  hpmille 75734-B/L-  MB 01:20 Upd - 3 of 3 Pages - Top Selling Items with "Disaster Item" Baskets - running final data.  Sent at 01:37      
+2001-09-12 02:37:58 Skytel [003772003] A  ALPHA  IBM 96.47 UNCH MSFT 57.58 UNCH NSCP 0.00 UNCH INTC 26.07 UNCH (38
+2001-09-12 02:37:58 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #43-IX_T4509
+2001-09-12 02:37:58 Skytel [007552495] D  ALPHA  From:pokibmxtelb01 Host:apeximd Event:essbasehung  Message:[:apeximd.pok.ibm.com:091201.020632:/tmp/essbasehung.apeximd.pok.ibm.com]
+2001-09-12 02:37:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8127
+2001-09-12 02:37:59 Arch [0939437] D  ALPHA  CA Helpdesk <CAH|reporting|CR: 144003 Priority: 3 Assigned to: Ahern, Mark Summary:: Application installation/reconfiguration 

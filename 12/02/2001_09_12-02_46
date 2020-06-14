@@ -1,0 +1,104 @@
+2001-09-12 02:46:00 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router Aevia-I-GW at 23:43:06 Txt: Router Aevia-I-GW UP at 23:43:06 Address: 166.90.48.82 Date: 09/11/2001 Status: Active and responding ( 0)
+2001-09-12 02:46:02 Skytel [002746374] B SH/TONE 505     
+2001-09-12 02:46:02 Skytel [007559566] D ST NUM  809-885-9024   
+2001-09-12 02:46:03 Skytel [002819612] D  ALPHA  Dalnmx25.na.xom.com/S/ExxonMobil@exxonmobil.com|ServerWatch Notification - Serve
+2001-09-12 02:46:05 Skytel {1681237} 1 1200 Dalnmx25.na.xom.com/S/ExxonMobil@exxonmobil.com|ServerWatch Notification - Server Dalnmt81.na.xom.com/S/ExxonMobil is NOT Responding|WARNING: Server Dalnmt81.na.xom.com/S/ExxonMobil is Not Responding. Reason: Server not responding  ..
+2001-09-12 02:46:12 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-12 02:46:12 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192860. 
+2001-09-12 02:46:14 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 02:46:14 Arch [0507340] D  ALPHA  (5)17:ABS:
+2001-09-12 02:46:14 Arch [0390624] A  ALPHA  (16)18:
+2001-09-12 02:46:14 Arch [0925428] B  ALPHA  Harmless error on PSIPSC020VIG03S : System 'PSIPSC020VIG03S' is offline
+2001-09-12 02:46:14 Arch [1613898] C  ALPHA  (31)18:ABS:
+2001-09-12 02:46:16 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-12 02:46:17 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 02:46:19 Arch [0917173] B  ALPHA  Y! <y-alerts@yah|Fr: jagent@route.monster.com *Monster Agent Results - 09/12/2001 * Great news! Monste Mail 
+2001-09-12 02:46:19 Arch [0653425] A  ALPHA  call 7250
+2001-09-12 02:46:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1058
+2001-09-12 02:46:25 Arch [0925366] B  ALPHA   318643;Sep 11 22:47:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-12 02:46:30 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.160.31.254 crorbeaa021 is DOWN at 01:57:51 
+2001-09-12 02:46:30 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-12 02:46:30 Metrocall [002534882] A  ALPHA  PM197780 Sev: 2 Grp: pya prod svcs Loc: headquarters Name: tivoli Ph: 866-479-2873 Descr: pts1cto4
+2001-09-12 02:46:30 Metrocall [002534882] A  ALPHA  PM197781 Sev: 2 Grp: pya prod svcs Loc: headquarters Name: tivoli Ph: 866-479-2873 Descr: pts1cto1
+2001-09-12 02:46:31 Arch [1119359] D  ALPHA  (20)19:ABS:
+2001-09-12 02:46:31 Arch [0911005] D  ALPHA  (5)"WhatsUp" <jonat|10.160.31.254 crorbeaa021 is DOWN at 01:57:51 
+2001-09-12 02:46:31 Arch [0552861] D  ALPHA  (6)23:ABS:
+2001-09-12 02:46:31 Arch [1153676] D  ALPHA  (30)"WhatsUp" <jonat|10.164.152.21 AZBWGP07 is DOWN at 01:58:15 
+2001-09-12 02:46:31 Arch [1272423] B  ALPHA  (11)bb:1: [2389810] red Tue Sep 11 23:46:22 PDT 2001 - Disk onssc-sac-p1,corp,sprint,com at PANIC level &red /var (95%) hasreached the defined disk space P
+2001-09-12 02:46:32 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.164.152.21 AZBWGP07 is DOWN at 01:58:15 
+2001-09-12 02:46:32 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-12 02:46:32 Arch [1153676] D  ALPHA  (31)"WhatsUp" <jonat|10.148.10.21 COBWGP01 Colorado Springs, CO is DOWN at 01:58:15 
+2001-09-12 02:46:32 Arch [1272423] B  ALPHA  ANIC level (95%)/dev/vx/dsk/p1_unix/p1sybase 2879972 895229 1696746 35%
+2001-09-12 02:46:32 Metrocall [002534882] A  ALPHA  PM197783 Sev: 2 Grp: pya prod svcs Loc: headquarters Name: tivoli Ph: 866-479-2873 Descr: pts1cto1
+2001-09-12 02:46:32 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router 611FP-1MBT at 23:43:07 Txt: Router 611FP-1MBT UP at 23:43:07 Address: 209.247.46.226 Date: 09/11/2001 Status:
+2001-09-12 02:46:32 Metrocall [1081699] A  ALPHA  Frm: mon@obongo.com Sub: !BB - 1970010! st-ds01.obongo.com.conn - 500010012023001 Txt: [1970010] st-ds01.obongo.com.conn red Tue Sep 11 23:43:23 PDT 2001 bb-network.sh: Can't ping st-ds01.obongo.com... No Response from 10.12.23.1 Please se
+2001-09-12 02:46:33 Skytel [002401821] D  ALPHA  saspcd02 Distributed Monitoring PALM.dm.ussa17.Unix.saspcd02/Daemon status on host saspcd02 09/11/01 23:40:26 PDT  Status: >>> critical <<< ussa17.PALM 
+2001-09-12 02:46:33 Skytel [002392598] B  ALPHA  02:46:12 AM
+2001-09-12 02:46:34 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.148.10.21 COBWGP01 Colorado Springs, CO is DOWN at 01:58:15 
+2001-09-12 02:46:34 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 02:46:34 Arch [1153676] D  ALPHA  (32)"WhatsUp" <jonat|10.148.18.21 COBWGP02 Englewood, CO is DOWN at 01:58:15 
+2001-09-12 02:46:34 Arch [0951053] D  ALPHA  |itech-view6 build(s) done  
+2001-09-12 02:46:34 Arch [0931223] B  ALPHA  Jenny Wang|Case in WW-WAN-SW(strm) | P3 B829022 HSRP support on IGX-URM (Sub-technology :IGX/BPX/MGX Hardware Level Details ) from Tue Sep 11 23:45:55 2001|155  
+2001-09-12 02:46:34 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3314
+2001-09-12 02:46:34 Metrocall [0525954] A  ALPHA  Server:Chelmick at 10.17.1.52 is DOWN.
+2001-09-12 02:46:34 Metrocall [1080319] D  ALPHA   Active and responding ( 0)
+2001-09-12 02:46:34 Metrocall [1081699] A  ALPHA  e
+2001-09-12 02:46:34 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3314
+2001-09-12 02:46:35 Skytel [005001895] B  ALPHA  [sps/123] 200 sps-apps1.cps.intel.com relay 0.327 BDE VRS Servicesare running.<BR> (/metrios/healthcheck[XMLJunctionVRS].asp) 3:45:04
+2001-09-12 02:46:35 Skytel [002384037] B ST NUM  0-800-327-7453 
+2001-09-12 02:46:36 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-12 02:46:37 Skytel [003917363] A  ALPHA  (1 of 2) Cont., Please becarful if you go and we will have to talk if we ever can. Please tell him we are only friends I mean no harm.  I will be up if you want to mail me back. we just got back from deconing everyone from DC. Bill, Sorry i
+2001-09-12 02:46:37 Skytel [0001461] B  ALPHA  GLOBEX   01:45     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 02:46:37 Skytel [002402111] D ST NUM  0-800-327-7453 
+2001-09-12 02:46:38 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-12 02:46:38 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.148.18.21 COBWGP02 Englewood, CO is DOWN at 01:58:15 
+2001-09-12 02:46:38 Arch [1082968] C  ALPHA  (21)19:ABS:
+2001-09-12 02:46:38 Arch [1272423] B  ALPHA  (12)bb:2: /p1sybase/dev/vx/dsk/p1_unix/logs 287982 123288 135896 48% /logs/dev/vx/dsk/rootdg/nsr 983020 434347 450371 50% /nsr/dev/vx/dsk/rootdg/usr 508039 264133 193103 58% /usr/dev/vx/dsk/p1_unix/autosys 287982 149644 109540
+2001-09-12 02:46:38 Arch [1153676] D  ALPHA  (1)"WhatsUp" <jonat|10.97.113.21 MIBWGP01 Troy, MI BWG Server is DOWN at 01:58:15 
+2001-09-12 02:46:38 Arch [0491955] A  ALPHA  (26)19:ABS:
+2001-09-12 02:46:39 Skytel [005258313] C  ALPHA  SDAL318TERM Server 172.31.33.36 UP at 01:34:07
+2001-09-12 02:46:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:46:39 Skytel [003262793] C  ALPHA  Priority (3) Signif Case USC091101-149, Type Operations 'AS/400 320 OPTHA prebac
+2001-09-12 02:46:40 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.97.113.21 MIBWGP01 Troy, MI BWG Server is DOWN at 01:58:15 
+2001-09-12 02:46:40 Arch [1272423] B  ALPHA  (13)bb:3: 58%/usr/vendor/autotree/autosys3_4 /dev/vx/dsk/p1_unix/export-home471414 264234 160039 63% /export/home /dev/vx/dsk/rootdg/opt 23999741351892 808085 63% /opt /dev/vx/dsk/p1_unix/production 383982 237409108175 69% /production
+2001-09-12 02:46:40 Metrocall [1064377] C  ALPHA  US 10514/10422 +400 SpQ@.....%..`........@%.!@@................................."...........P..@...!.@..@@(IH.PB ..(H...................... ..................(..... ..04.0..03. ..(FNI..0..0'$H8.H("...fH H..@..E0.f4...@.....@..............0
+2001-09-12 02:46:41 Skytel [1800019] A  ALPHA  GLOBEX   01:45     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 02:46:41 Skytel [007003347] A  ALPHA  272-3444 U [4666.CHUNG THERESA       
+2001-09-12 02:46:41 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job112822 SNYC00301 09/12 02:46 QUEUES
+2001-09-12 02:46:41 Skytel [007659868] D ST NUM  216-053-2411   
+2001-09-12 02:46:42 Arch [0044384] A  ALPHA  :The Problem with ID 00330734 Severity 2 Description  mopf21.pitts.bayer.com- Node Down. has not been resolved.It has been escalated to level 1 on 09/11/2001 at 17:22:35.
+2001-09-12 02:46:42 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.148.26.21 UTBWGP01 2233 S Presidents Dr is DOWN at 01:58:15 
+2001-09-12 02:46:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #52-IX_T4204
+2001-09-12 02:46:43 Skytel [005110114] A SH/TONE 228     
+2001-09-12 02:46:45 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2579..
+2001-09-12 02:46:45 Skytel [002357369] C  ALPHA  002654 CYCLIC TEST 
+2001-09-12 02:46:45 Skytel [007591537] A SH/TONE 003-1300
+2001-09-12 02:46:45 Skytel [005040245] B ST NUM  468-707-4149-11411  
+2001-09-12 02:46:45 Skytel [003940721] A  ALPHA  AUTOPAGER@dm4fa2.de.sc.ti.com|AEI04 to LBQD|AEI04 moved TO LBQD from SPCD on 01/09/12 at 01:43:05 COMMENTS: Comments can not be retrieved  
+2001-09-12 02:46:45 Skytel [003327216] A  ALPHA  002654 CYCLIC TEST 
+2001-09-12 02:46:45 Skytel [002139900] D SH/TONE 002654  
+2001-09-12 02:46:47 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 23:46:41 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 02:46:49 Metrocall [1223431] B  ALPHA  Job # 632 KAISER-EAST BAY CSA LS: PRTY   Rdy: 2228 Exdl: 2358 P/U:KAISER LAB HESPERIAN BLVD. HAYWARD D/L:REGIONAL LAB 1725 EASTSHORE HWY BERKELEY Wt:    0 Caller: NIKKY Ref: 6146940
+2001-09-12 02:46:50 Skytel [004041896] C ST NUM  480-4842 (56   
+2001-09-12 02:46:51 Metrocall [1424317] D  ALPHA  DAVE,   CALL ME AT STATION IF YOU ARE GOING TO BE LONGER THAN 15 MIN. (ETA)     WE HAVE A SQUAD TRIP TO WESTERN PSYCH FROM AVH.    THANKS, DIANNE 224-1912
+2001-09-12 02:46:52 Skytel [003510067] A ST NUM  825-371-2760   
+2001-09-12 02:46:53 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-12 02:46:53 Arch [1153676] D  ALPHA  (2)"WhatsUp" <jonat|10.165.33.21 WABWGP01 13241 NE 20th Street is DOWN at 01:58:16 
+2001-09-12 02:46:53 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.165.33.21 WABWGP01 13241
+2001-09-12 02:46:53 Arch [1272423] B  ALPHA  (14)bb:4: /dev/vx/dsk/p1_unix/datafiles 6711388 41969831843267 70% /datafiles /dev/vx/dsk/rootdg/openwin 288326 20475754737 79% /usr/openwin /dev/vx/dsk/p1_unix/oracle-new 287982 22335335831 87% /oracle /dev/vx/dsk/roo
+2001-09-12 02:46:53 Arch [1439547] C  ALPHA  STC_Help_Desk@sk|Nick Weekes ALERT! Ticket not as|SUMMARY: Attachment of attached to website homepage - www.australianskandia STATUS: Open UPDATE: For Details see web page http://stchd.stc.skandia.com/stchd.nsf/lookup/010912084?OpenDocument 
+2001-09-12 02:46:53 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192867. 
+2001-09-12 02:46:55 Arch [0506899] A  ALPHA   NE 20th Street is DOWN at 01:58:16 
+2001-09-12 02:46:55 Arch [0510618] C  ALPHA  (4)10:ABS:
+2001-09-12 02:46:55 Arch [1272423] B  ALPHA  tdg/rootvol
+2001-09-12 02:46:55 Arch [0867957] B  ALPHA  (15)18:ABS:
+2001-09-12 02:46:55 Arch [1358792] C  ALPHA  (2)16:ABS:
+2001-09-12 02:46:55 Arch [0555732] B  ALPHA  (15)18:ABS:
+2001-09-12 02:46:55 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-12 02:46:56 Skytel [007568601] C ST NUM  508-507-6844   
+2001-09-12 02:46:57 Arch [1272423] B  ALPHA  (15)bb:e: 52015 41586 5228 89% //dev/vx/dsk/rootdg/var 1071871 959145 59133 95% /var Please see:http://ssc-sac-bs1.west.sprint.com/bb/html/ssc-sac-p1.corp.sprint.com.disk.html -oo-
+2001-09-12 02:46:57 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-12 02:46:57 Arch [0986026] C  ALPHA  ALPHA PAGE:ATM CBX-500 switch failed in Marietta Main GA (MRTTGAMABBF) at 0235 EDT. Please join bridge at 615-463-8004.
+2001-09-12 02:46:58 Skytel [003954412] D  ALPHA  IPN@IPN911.net|LAX| Garden Grove| Pursuit| 460.025| EB22 x Harbor|Units in pursuit of Unk vehicle. Airship overhead att| LAX000| 23:46   
+2001-09-12 02:46:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8136
+2001-09-12 02:46:59 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41

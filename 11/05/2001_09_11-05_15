@@ -1,0 +1,76 @@
+2001-09-11 05:15:00 Arch [1079409] A  ALPHA  1437*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:23 OMA-PIXIN01 %PIX-1-105008: Primary Testing Interface 0
+2001-09-11 05:15:00 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home
+2001-09-11 05:15:00 Arch [0634239] D  ALPHA  1437*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:23 OMA-PIXIN01 %PIX-1-105008: Primary Testing Interface 0
+2001-09-11 05:15:00 Arch [1080366] D  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070
+2001-09-11 05:15:00 Arch [0986081] A  ALPHA  8041*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:24 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 2 waiting
+2001-09-11 05:15:00 Arch [1355675] C  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 05:15:00 Arch [0810070] B  ALPHA  8041*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:24 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 2 waiting
+2001-09-11 05:15:00 Arch [1423082] C  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 05:15:02 Arch [1425048] C  ALPHA  /crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178270. 
+2001-09-11 05:15:02 Arch [0986081] A  ALPHA  2636*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:24 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 0 waiting
+2001-09-11 05:15:02 Arch [1080366] D  ALPHA  313 
+2001-09-11 05:15:02 Arch [0810070] B  ALPHA  2636*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:24 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 0 waiting
+2001-09-11 05:15:02 Arch [1079409] A  ALPHA  8041*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:24 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 2 waiting
+2001-09-11 05:15:02 Arch [0634239] D  ALPHA  8041*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:24 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 2 waiting
+2001-09-11 05:15:03 Metrocall [1309137] A  ALPHA  N GODSMARK RECEIVED WB09110021 A&P 280257 P20
+2001-09-11 05:15:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6844
+2001-09-11 05:15:04 Arch [0634239] D  ALPHA  2636*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:24 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 0 waiting
+2001-09-11 05:15:04 Arch [0986081] A  ALPHA  6291*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:24 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 1 waiting
+2001-09-11 05:15:04 Arch [0810070] B  ALPHA  6291*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:24 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 1 waiting
+2001-09-11 05:15:04 Arch [1079409] A  ALPHA  2636*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:24 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 0 waiting
+2001-09-11 05:15:06 Skytel [004697392] A  ALPHA  ovmail@sexo4066.whq.ual.com||OpenView ITO alert. Node: skypath1.whq.ual.com  Msg: Old wind data for Skypath  
+2001-09-11 05:15:07 Skytel [002793012] B ST NUM  675-851-2429   
+2001-09-11 05:15:08 Arch [1079409] A  ALPHA  6291*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:24 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 1 waiting
+2001-09-11 05:15:08 Arch [0634239] D  ALPHA  6291*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:24 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 1 waiting
+2001-09-11 05:15:08 Arch [0810070] B  ALPHA  2723*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:24 OMA-PIXIN01 %PIX-1-105009: Primary Testing on interface 0 Passed
+2001-09-11 05:15:08 Arch [0986081] A  ALPHA  2723*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:24 OMA-PIXIN01 %PIX-1-105009: Primary Testing on interface 0 Passed
+2001-09-11 05:15:08 Skytel [007046469] B  ALPHA  rsiwa_as@yellow-spf4n52.lmig.com|Message from Information Warehouse|WWD Update F
+2001-09-11 05:15:08 Skytel [003481167] D ST NUM  614-431-4302   
+2001-09-11 05:15:10 Arch [1079409] A  ALPHA  2723*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:24 OMA-PIXIN01 %PIX-1-105009: Primary Testing on interface 0 Passed
+2001-09-11 05:15:10 Arch [0634239] D  ALPHA  2723*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:24 OMA-PIXIN01 %PIX-1-105009: Primary Testing on interface 0 Passed
+2001-09-11 05:15:10 Skytel [005057113] C  ALPHA  rsiwa_as@yellow-spf4n52.lmig.com|Message from Information Warehouse|WWD Update Failed  
+2001-09-11 05:15:10 Skytel [005485529] C ST NUM  675-851-2429   
+2001-09-11 05:15:12 Skytel [005342059] C  ALPHA  lbihbci1 HARMLESS File size (c:/cinfo/odbcsupt/cinfo.mdb, -c) is 9418752 (size) (was 15147008) Sep 11, 2001 04:12
+2001-09-11 05:15:13 Arch [0986081] A  ALPHA  4660*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:38 OMA-PIXIN02 %PIX-1-105006: Secondary Link status 'Up' on interface 0
+2001-09-11 05:15:13 Arch [0810070] B  ALPHA  4660*NETLOGG..:..n..c..e..e................................................................................p' on interface 0
+2001-09-11 05:15:13 Arch [1079409] A  ALPHA  4660*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:38 OMA-PIXIN02 %PIX-1-105006: Secondary Link status 'Up' on interface 0
+2001-09-11 05:15:14 Arch [0634239] D  ALPHA  4660*NETLOGG..:..n..c..e..e..P.............................................................................p' on interface 0
+2001-09-11 05:15:14 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-11 05:15:15 Arch [0986081] A  ALPHA  6802*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:38 OMA-PIXIN02 %PIX-1-105004: Secondary Monitoring on interface 2 normal
+2001-09-11 05:15:15 Arch [0634239] D  ALPHA  6802*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:38 OMA-PIXIN02 %PIX-1-105004: Secondary Monitoring on interface 2 normal
+2001-09-11 05:15:17 Arch [0810070] B  ALPHA  6802*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:38 OMA-PIXIN02 %PIX-1-105004: Secondary Monitoring on interface 2 normal
+2001-09-11 05:15:17 Arch [1079409] A  ALPHA  6802*NETLOGG..:..n..c..e..e..P.............................................................................interface 2 normal
+2001-09-11 05:15:17 Arch [0986081] A  ALPHA  4390*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:38 OMA-PIXIN02 %PIX-1-105004: Secondary Monitoring on interface 0 normal
+2001-09-11 05:15:17 Arch [0634239] D  ALPHA  4390*NETLOGG..:..n..c..e..e..P.. ..........................................................................interface 0 normal
+2001-09-11 05:15:19 Arch [0810070] B  ALPHA  4390*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:38 OMA-PIXIN02 %PIX-1-105004: Secondary Monitoring on interface 0 normal
+2001-09-11 05:15:19 Arch [1079409] A  ALPHA  4390*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:38 OMA-PIXIN02 %PIX-1-105004: Secondary Monitoring on interface 0 normal
+2001-09-11 05:15:19 Arch [0602772] B  ALPHA  Super-User <root|Trap Message|Time: Tue Sep 11 05:15:32 2001 Agent Address: 63.169.242.226 Specific Trap: Process Start Trap (11) Description: in.named Regexp: named.* Current PID: 21387 
+2001-09-11 05:15:23 Skytel [005048779] C  ALPHA  LMNLAN1I RAMSES PTWW1 Interface Serial0 down.
+2001-09-11 05:15:25 Arch [1008334] D  ALPHA  25900
+2001-09-11 05:15:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9767
+2001-09-11 05:15:27 Arch [0000101] B  ALPHA  MSN 113 hello Message from NOC PCB.
+2001-09-11 05:15:27 Skytel [003840097] A  ALPHA  scott.thomas@lamrc.com|PSR#839 PENDING CLOSE.|PSR#839 status has become PENDING CLOSE.  Kindly approve or reject the close.  Please click here to login - http://engweb.eng.lamrc.com/labref/index.jsp  
+2001-09-11 05:15:27 Skytel [005132640] A  ALPHA  11) LMNLAN1I RAMSES PTWW1 Interface Serial0 down.
+2001-09-11 05:15:29 Skytel [002377208] C SH/TONE 4444    
+2001-09-11 05:15:29 Skytel [007541750] B SH/TONE 1403    
+2001-09-11 05:15:29 Skytel [002382588] D SH/TONE 99      
+2001-09-11 05:15:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE S....T..L@...E.. ..1..
+2001-09-11 05:15:32 Arch [0986081] A  ALPHA  2847*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:38 OMA-PIXIN02 %PIX-1-105004: Secondary Monitoring on interface 1 normal
+2001-09-11 05:15:32 Arch [0810070] B  ALPHA  2847*NETLOGG..:..n..c..e. e. ..............................................................................interface 1 normal
+2001-09-11 05:15:32 Arch [1079409] A  ALPHA  2847*NETLOGGER: Undocumented PIX Error: Sep 11 05:14:38 OMA-PIXIN02 %PIX-1-105004: Secondary Monitoring on interface 1 normal
+2001-09-11 05:15:32 Arch [0634239] D  ALPHA  2847*NETLOGG..:..n..c..e. e. P.............................................................................interface 1 normal
+2001-09-11 05:15:35 Skytel [002846369] A  ALPHA  333 U
+2001-09-11 05:15:36 Arch [0489341] D  ALPHA  "One Step Ahead"|Hurry!! Halloween is almost here|
+2001-09-11 05:15:36 Skytel [005002044] D  ALPHA  WARNING: Server Chicago_Notes_1/SYBASE is Not Responding. Reason: Server not responding
+2001-09-11 05:15:38 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178277. 
+2001-09-11 05:15:40 Skytel [004547038] D SH/TONE 800-7473
+2001-09-11 05:15:46 Skytel [005556357] B  ALPHA  5:14A 9/11/01 FRANKIE NO PODRA ASISTIR AL TRABAJO HOY
+2001-09-11 05:15:48 Metrocall [1261323] C  ALPHA  Frm: wingmon@firstusa.com Txt: SiteScope nepxy101 cpu nepxy101 36169 no data
+2001-09-11 05:15:48 Skytel [003922834] A  ALPHA  ALL MONITOR BEDS ARE FROZEN AND THEY HAVE BEEN REBOOTED AND THEY ARE STILL FROZEN. 213-226-8050 FRANCES
+2001-09-11 05:15:51 Skytel [005119032] C SH/TONE 822-8887
+2001-09-11 05:15:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1288..
+2001-09-11 05:15:55 Skytel [0001114] C  ALPHA  Call Eddie from NET SUPP 202-274-8323  CCC x4444
+2001-09-11 05:15:57 Skytel [004524770] A  ALPHA  spf-lavalleyBuilding-NewportNH-0: CPE Up at 00:59:01 on 9/11
+2001-09-11 05:15:57 Skytel [005436525] D  ALPHA  Test Message #41-IX_T1716
+2001-09-11 05:15:59 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Disk used % for /clients/IVR/home/rswwwp/work is 85; > than 80
+2001-09-11 05:15:59 Skytel [007109749] B SH/TONE 194-0000

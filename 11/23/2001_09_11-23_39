@@ -1,0 +1,106 @@
+2001-09-11 23:39:00 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7948
+2001-09-11 23:39:00 Arch [0939437] D  ALPHA  CA Helpdesk <CAH|wb0300ux127|CR: 143607 Priority: 4 Assigned to: Marchionda, Joe Summary:: Application installation/reconfiguration 
+2001-09-11 23:39:00 Skytel [007488383] D SH/TONE 577-5000
+2001-09-11 23:39:01 Skytel [005384198] B SH/TONE 174-2365
+2001-09-11 23:39:01 Skytel [004742788] B SH/TONE 580-6055
+2001-09-11 23:39:01 Skytel [004749708] D ST NUM  603-486-3514   
+2001-09-11 23:39:02 Arch [0987275] C  ALPHA  s0191: 09/11 12:28:34 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:28:34
+2001-09-11 23:39:03 Arch [0987275] C  ALPHA  s0191: 09/11 12:31:16 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:31:16
+2001-09-11 23:39:03 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 23:39:03 Skytel [005190686] D  ALPHA  F: epage; S: page to jaredbro ok; page 'F: jaredbro@pager.webtv.net; S: Free Space On  m-central eleases Is Down To 9667121152.  EVERYONE Please Clean Up Some Space!; EVERYBODY Please Clean Up Some Space Now! Release  m-central eleases is d
+2001-09-11 23:39:03 Skytel [007487892] B ST NUM  0-160-708-3015-13   
+2001-09-11 23:39:03 Skytel [002401821] D  ALPHA  saspcd00 Distributed Monitoring PALM.dm.ussa17.Unix.saspcd00/Daemon status on host saspcd00 09/11/01 20:34:15 PDT  Status: >>> critical <<< ussa17.PALM 
+2001-09-11 23:39:03 Skytel [005345821] D  ALPHA  8883372867  ID: NY061012 Ticket: 249  001Comm. Line Failure
+2001-09-11 23:39:04 Metrocall [1544820] B  ALPHA  CRDC-MAIL04 "Server CRDC-MAIL04/MSVR/KAIPERM - The following pending documents in mail3.box are older than 30 minutes 14E6E2"
+2001-09-11 23:39:05 Arch [0987275] C  ALPHA  s0191: 09/11 12:36:48 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:36:48
+2001-09-11 23:39:05 Skytel [005001895] B  ALPHA  [sps/92] 200 supplier.intel.com relay-rialto105 6.337 Intel&#174;Web Invoice appears to be working fine.(/web_invoice/healthcheck.asp) 2:33:02
+2001-09-11 23:39:05 Skytel [007573156] B SH/TONE 36      
+2001-09-11 23:39:05 Skytel [002397217] A ST NUM  873-691-3775   
+2001-09-11 23:39:05 Skytel [007590828] D ST NUM  U    *         * *  
+2001-09-11 23:39:07 Arch [0987275] C  ALPHA  s0191: 09/11 12:44:46 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:44:47
+2001-09-11 23:39:07 Skytel [005003958] B SH/TONE 00696   
+2001-09-11 23:39:09 Skytel [003265728] A SH/TONE 777     
+2001-09-11 23:39:09 Skytel [005074502] B SH/TONE 737-9487
+2001-09-11 23:39:09 Skytel [005134543] D ST NUM  021-2122-4
+2001-09-11 23:39:09 Skytel [004685131] C  ALPHA  ELCOME TO SKY PAGER.4419710
+2001-09-11 23:39:10 Metrocall [1222396] D  ALPHA  Alb 518-452-2460 TMS Functional      Server[1] - 1       Server[2] - 1       Primary   - 1       tms_msg[007]  dev_err[000]
+2001-09-11 23:39:10 Metrocall [0525954] A  ALPHA  HTTP:Chelmick at 10.17.1.52 is DOWN.
+2001-09-11 23:39:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4518
+2001-09-11 23:39:11 Arch [0000101] B  ALPHA  MSN 006 hello Message from NOC PCB.
+2001-09-11 23:39:11 Arch [1251008] A  ALPHA  PO/46 CORY RIDDLE 9995 E. HARVARD AVE O-220 303 306 9162 SHE WENT TO GET HER CLOTHES OUT OF WASH ROOM AND DOOR IS LOCKED/IT WAS BEFORE 9:30P/ PLS CL
+2001-09-11 23:39:11 Skytel [005508439] B  ALPHA  F: epage; S: page to snewton ok; page 'F: snewton@pager.webtv.net; S: Free Space On  m-central eleases Is Down To 9667121152.  EVERYONE Please Clean Up Some Space!; EVERYBODY Please Clean Up Some Space Now! Release  m-central eleases is dow
+2001-09-11 23:39:11 Skytel [004530645] B SH/TONE 12404   
+2001-09-11 23:39:11 Skytel [005080664] C  ALPHA  hpmille 75734-B/L-  MB Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am per customer.  NO CHANGE.  Sent at 22:34      
+2001-09-11 23:39:11 Skytel [005322068] B  ALPHA  949-887-2701 [9846.Gardena, CA         
+2001-09-11 23:39:13 Arch [1359851] C  ALPHA  Generic Monitor |Message from DataMon-MEXSAT: laxlstr4: 200109120330: 0 files instead of 1 of type *.mex.sat.wxl arrived in laxlstr4:/home/monitor/mounts/laxlstr/laxlstr4/twc/wxl_satellite_clips in th
+2001-09-11 23:39:13 Skytel [005436525] D  ALPHA  Test Lotus Notes #13-IX_T1707
+2001-09-11 23:39:13 Skytel [007659754] C ST NUM  08007243624    
+2001-09-11 23:39:15 Arch [1359851] C  ALPHA  root <root@janus|Message from DataMon-SASAT: laxlstr2: 200109120330: 0 files instead of 1 of type *.sa.sat.wxl arrived in laxlstr2:/home/monitor/mounts/laxlstr/laxlstr2/twc/wxl_satellite_clips in the
+2001-09-11 23:39:15 Arch [1427911] B  ALPHA  cmilledg|I'm finally working! =)  
+2001-09-11 23:39:15 Arch [0950239] D  ALPHA  02-RE: HONDA CIVIC FOR SALE. WOULD LIKE TO SEE IT TOMORROW AFTERNOON. FAR @ 925-648-9010.
+2001-09-11 23:39:15 Arch [0425209] C  ALPHA  Synplicity Techn|CAE Alert!|[CallLog.EmailAddr] = carlos@synplicity.com [CallLog.CallID] = 00039623 [CallLog.CallDesc] = Synplify Pro: Performance based optimization not reported in log file [CallLog.RecvdDate] = 2001-09-11 [CallLog.RecvdTim
+2001-09-11 23:39:15 Skytel [005345524] B ST NUM  783-295-8911   
+2001-09-11 23:39:15 Skytel [007109749] B ST NUM  443-571-7711-110400 
+2001-09-11 23:39:17 Skytel [005065478] B SH/TONE 345-6149
+2001-09-11 23:39:17 Skytel [005524994] A SH/TONE 1       
+2001-09-11 23:39:18 Skytel [005001620] B SH/TONE 16180   
+2001-09-11 23:39:18 Skytel [007556242] A ST NUM  714-890-7064   
+2001-09-11 23:39:19 Metrocall [1283151] D  ALPHA  : WDC-MAIL01 : "Server WDC-MAIL01/MSVR/KAIPERM -  There are no longer any pending  documents older than 30 Minutes minutes in mail1.box. "
+2001-09-11 23:39:19 Metrocall [1064377] C  ALPHA  SED97000/97175/9710 9670/9627/9582/9550 SEY9994/991/991/990 SSI _9650/_9615-650 JGB 13882/13714 -11 US  10514/10422 +00 SP107500/10140+0000 DJ _9630/_9665 +000 ND 13360/13820 +000 TY 10712+ FV 10616  TU 10328+
+2001-09-11 23:39:20 Arch [0965689] C  ALPHA  bdhp4231: Disk utilization of /home filesystem 87% is greater than 80
+2001-09-11 23:39:20 Skytel [002376872] C  ALPHA  nms@svcanms.conxion.com|Sep11-20:39|There are 3 active alarms including server:inttra4:memory Virtual memory more than 90% consumed  
+2001-09-11 23:39:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0871
+2001-09-11 23:39:22 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342
+2001-09-11 23:39:22 Arch [1025942] B  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 0470022F from cluster 2034 to cluster 1013), status C3AE181B, extended status 00000032. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-11 23:39:22 Arch [1423779] A  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 0470022F from cluster 2034 to cluster 1013), status C3AE181B, extended status 00000032. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-11 23:39:22 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-11 23:39:22 Skytel [007493946] C ST NUM  761-946-7920   
+2001-09-11 23:39:22 Skytel [004757049] C SH/TONE 290-1981
+2001-09-11 23:39:22 Skytel [004534335] D ST NUM  U    *         * *  
+2001-09-11 23:39:24 Arch [1425048] C  ALPHA  , <SOCK_192.168.35.19> chunk 190718. 
+2001-09-11 23:39:24 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-11 23:39:24 Skytel [005237572] B SH/TONE 357-7361
+2001-09-11 23:39:26 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-11 23:39:26 Skytel [005243472] A SH/TONE 463-0872
+2001-09-11 23:39:28 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-11 23:39:30 Skytel [004679422] D ST NUM  905-376-2828   
+2001-09-11 23:39:31 Skytel [004755329] A SH/TONE 210-8908
+2001-09-11 23:39:31 Skytel [005225860] B SH/TONE 125     
+2001-09-11 23:39:31 Skytel [005352717] D SH/TONE 3922    
+2001-09-11 23:39:31 Skytel [007555341] D  ALPHA  sacsupport@thekcrachannel.com|   BREAKING NEWS:  Estimated 800 Dead At Pentagon|BREAKING E-NEWS UPDATE:  The Latest: Estimated 800 Dead At Pentagon http://treets.thekcrachannel.com/svc/lnk.cfm?l=5168521&t=1  Stay tuned to KCRA and thekcrach
+2001-09-11 23:39:32 Arch [0969430] B  ALPHA  716-9164
+2001-09-11 23:39:32 Arch [1359851] C  ALPHA  root <root@janus|Message from DataMon-CARSAT: laxlstr1: 200109120330: 0 files instead of 1 of type *.car.sat.wxl arrived in laxlstr1:/home/monitor/mounts/laxlstr/laxlstr1/twc/wxl_satellite_clips in th
+2001-09-11 23:39:35 Skytel [004704807] B SH/TONE 3555    
+2001-09-11 23:39:35 Skytel [005247658] C SH/TONE 839-6890
+2001-09-11 23:39:35 Skytel [007527335] B  ALPHA  y-alerts@yahoo-inc.com||Fr: 101funpages@zdmedia.com *Rules Fro Work and My Friends (9-12-2001)* www.
+2001-09-11 23:39:37 Arch [0810143] D  ALPHA  NTPINGFAIL tuex01.intuit.com CRITICAL: @ 20:39:41 PING failed
+2001-09-11 23:39:37 Arch [0281721] C  ALPHA  NTPINGFAIL tuex01.intuit.com CRITICAL: @ 20:39:41 PING failed
+2001-09-11 23:39:38 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 148W MAJ=NONE
+2001-09-11 23:39:38 Metrocall [0601557] B  ALPHA  MESSAGE WAITING       :757-4318
+2001-09-11 23:39:39 Skytel [003522371] A SH/TONE 214     
+2001-09-11 23:39:39 Skytel [004531899] C SH/TONE 523-5865
+2001-09-11 23:39:41 Skytel [007035485] D  ALPHA  you cannot get the information you are looking for!!!
+2001-09-11 23:39:41 Skytel [005341013] B ST NUM  0-800-366-4123 
+2001-09-11 23:39:43 Skytel [005190881] A  ALPHA  hemant.patel@ps.ge.com|A1 web1 Jrun is Down| A1Monitor Notify:  Time: 9/11/2001 11:38:34 PM  The URL http://web1.geps.ge.com/JrunTest/test.jsp could not be reached  1 times in a row.   Reason: No response was returned  The following command
+2001-09-11 23:39:45 Skytel [007458928] A ST NUM  816-6813-89    
+2001-09-11 23:39:47 Skytel [004529802] C SH/TONE 3866    
+2001-09-11 23:39:48 Skytel [003474066] A SH/TONE 201     
+2001-09-11 23:39:48 Skytel [007064086] B ST NUM  370-420-0911-911    
+2001-09-11 23:39:48 Skytel [004103944] C  ALPHA  mymoc@mynah-co3.uswc.uswest.com|Hey|WFA_there_here   (43
+2001-09-11 23:39:49 Metrocall [1064374] B  ALPHA  YEN  119.30/40 -042 EUR  0.9113/18 +010 CHF  1.6400/50 -005 GBP  1.4730/60 -021 CAD  1.5620/30 -017 AUD  0.5169/74 -026  NZD  0.4269/79 -036 DEM  2.1450/62 -024  E/C  1.4991/96 +000 E/Y  108.99/09 +000 E/S  0.6163/66 -029 USD  
+2001-09-11 23:39:49 Metrocall [1362298] C  ALPHA  Frm: Optivity@harbortech.com Sub: Operator Attention Txt: Operator Attention is needed. (Server: "OPTIVITY-NJ" Job: "SNMPc & HPOV:Diff" Device: "HP 1") Please insert overwritable media into the drive.
+2001-09-11 23:39:50 Skytel [007457954] A SH/TONE 305-5650
+2001-09-11 23:39:50 Skytel [004485677] D  ALPHA  767757 U [4508.MCELROY,J M         
+2001-09-11 23:39:50 Skytel [005136554] C  ALPHA  CBAS_FTP@pdcbas02.wcomnet.com|File Backlog|There are 11 files in the /app/cbas/ready-jobs directory.  
+2001-09-11 23:39:51 Metrocall [1064374] B  ALPHA     113.25 -013
+2001-09-11 23:39:54 Arch [1048703] D  ALPHA  "ofer, erez" <er|RE: GDPS at TDC (Congroup 4.0)|Sarah, pls look into it, GDPS is one of teh highest priority items these days. = if needed, we will sacrifice lower priority boxes. EO > -----Original Message----- > From: quinn, brett =20 > Se
+2001-09-11 23:39:54 Skytel [004728520] C  ALPHA   I enjpoyed it too!! (55
+2001-09-11 23:39:56 Arch [1427911] B  ALPHA  cmilledg|I'm finally working! =)  
+2001-09-11 23:39:56 Arch [0904130] A  ALPHA  dstolt|App I2Prod is backup and running!  
+2001-09-11 23:39:56 Skytel [005120223] D ST NUM  958-513-2647   
+2001-09-11 23:39:58 Arch [0965689] C  ALPHA  sihp8032: Disk utilization of /home filesystem 77% is greater than 75
+2001-09-11 23:39:58 Arch [0044360] C  ALPHA  28-PLEASE CALL MARIE AT 973-771-1442.
+2001-09-11 23:39:58 Arch [1087586] A  ALPHA  59-HAVE TO REBOOT AURORA DR. PLEASE CALL CONF # FOR DETAILS. OR JOE AT 732-870-8729.
+2001-09-11 23:39:58 Skytel [005490278] B ST NUM  620-535-5451   
+2001-09-11 23:39:58 Skytel [007553888] A  ALPHA  925-6075Busy Costa Mesa 714-438
+2001-09-11 23:39:59 Metrocall [1145411] A  ALPHA  Frm: MSN Txt: Hotmail Cale Stultz:Ishmael

@@ -1,0 +1,60 @@
+2001-09-12 01:11:00 Metrocall [002589854] D  ALPHA  Frm: sms_alarm@hsmtmr01.entp.attws.com Txt: MF15 not connected to Mainframe application.(swmgr_sw)--Sep 11, 2001 22:10
+2001-09-12 01:11:00 Metrocall [002589854] D  ALPHA  Frm: sms_alarm@hsmtmr01.entp.attws.com Txt: MF4 not connected to Mainframe application.(swmgr_s
+2001-09-12 01:11:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4610
+2001-09-12 01:11:00 Skytel [005343224] C ST NUM  011-1111-11    
+2001-09-12 01:11:01 Skytel [007537920] A ST NUM  0-716-478-8842-3    
+2001-09-12 01:11:02 Metrocall [002589854] D  ALPHA  w)--Sep 11, 2001 22:10
+2001-09-12 01:11:03 Skytel [007530526] D  ALPHA  don't bother returning my pages. i'm going to bed.
+2001-09-12 01:11:03 Skytel [002326551] B SH/TONE 555     
+2001-09-12 01:11:05 Skytel [005437867] C SH/TONE 911281  
+2001-09-12 01:11:06 Skytel {1092655} 3 2400 002622    
+2001-09-12 01:11:07 Arch [0900779] C  ALPHA   Sub:WTC UPDATE #12d  -Forwarded Msg:    ----------  From:  Distribution, Exchange  Sent:  Wednesday, September 12, 2001 1:10:00 AM  To:  Bennett, Anita; DeGruy, Andre; Pierce, Barbara; Rheins, Bruce;
+2001-09-12 01:11:07 Skytel {0570177} 3 1200 0500 
+2001-09-12 01:11:07 Skytel {0176460} 1 1200 usersup@afespro.redcross.org||RE: Business Critical Case 365231 dispatched. To ESOP-Systems at 09/12/01 01:11:03 by AndersonL. Case Title: Revise DNS Entry for Online Donation Site. Site Jefferson Park Headquarters Must be accepted in 30 mi
+2001-09-12 01:11:10 Metrocall [002589854] D  ALPHA  Frm: sms_alarm@hsmtmr01.entp.attws.com Txt: MF2 not connected to Mainframe application.(swmgr_sw)--Sep 11, 2001 22:10
+2001-09-12 01:11:10 Metrocall [0525954] A  ALPHA  HTTP:Chelmick at 10.17.1.52 is DOWN.
+2001-09-12 01:11:12 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-12 01:11:14 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-12 01:11:16 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-12 01:11:18 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-12 01:11:19 Metrocall [1145663] D  ALPHA  AX01-11909 Loc: Nature: IG /? Desc: Inside Gas Leak E410 RE206 T408 CHANEL 4BAKER
+2001-09-12 01:11:20 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0963
+2001-09-12 01:11:20 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-12 01:11:27 Arch [0925366] B  ALPHA   318643;Sep 11 21:12:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-12 01:11:32 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 22:11:00 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 01:11:33 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34
+2001-09-12 01:11:33 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191768. 
+2001-09-12 01:11:33 Skytel [007487767] B SH/TONE 367-5559
+2001-09-12 01:11:35 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-12 01:11:35 Arch [0903931] C  ALPHA  <Subject: please call 703 396 4308 host: ddh101 severity: FATAL sub_source> <Signed: cmcfarla@dsc.com>  
+2001-09-12 01:11:35 Skytel [007486369] A ST NUM  526-233-7143   
+2001-09-12 01:11:35 Skytel [005001895] B  ALPHA  [sps/122] 101 sps-apps1.cps.intel.com relay 0.0 FAILURE Hostrefusing connection (/metrios/healthcheck[XMLJunctionEPO].asp)2:43:49
+2001-09-12 01:11:37 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-12 01:11:37 Skytel [005136955] C SH/TONE 681-9504
+2001-09-12 01:11:39 Skytel [005403597] D  ALPHA  T5871 [CCDDB1] Offline (19 chan): Ann Arbor/LIFE:3, Ann Arbor/NICK:2, Ann Arbor/CNBC:3, Ann Arbor/HGTV:3, Ann Arbor/TWC:2, Ann Arbor/VH1:3, Ann Arbor/TBS:4, Ann Arbor/CMDY:3, Ann Arbor/CNN:3, Ann Arbor/AE:3, Ann Arbor/BET:2, Ann Arbor/TNN:2
+2001-09-12 01:11:39 Skytel [005385036] D  ALPHA  usersup@afespro.redcross.org||RE: Business Critical Case 365231 dispatched. To ESOP-Systems at 09/12/01 01:11:03 by AndersonL. Case Title: Revise DNS Entry for Online Donation Site. Site Jefferson Park Headquarters Must be accepted in 30 mi
+2001-09-12 01:11:39 Skytel [007000386] A  ALPHA  'vl0lette@aol.com|(no subject)|Wow. I had no idea how bad this was until I saw it on the news :*( I hope
+2001-09-12 01:11:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:11:39 Skytel [005002438] B  ALPHA  Watcher: snyc12723: FaxSr_Mailgate4 service has Started
+2001-09-12 01:11:39 Skytel [005067339] C  ALPHA  09/12/01 00:05 SYSF IOS003A DRIVE 0E35 NOT READY/OFFLINE
+2001-09-12 01:11:41 Skytel [007591378] A SH/TONE 6773    
+2001-09-12 01:11:41 Skytel [007579357] D SH/TONE 5555    
+2001-09-12 01:11:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #26-IX_T3604
+2001-09-12 01:11:43 Skytel [007596901] B SH/TONE 85450   
+2001-09-12 01:11:45 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2484..
+2001-09-12 01:11:45 Skytel [005196275] A ST NUM  504-816-2378   
+2001-09-12 01:11:45 Skytel [007655140] B ST NUM  650-758-3029   
+2001-09-12 01:11:46 Arch {0065533} 4 2400 . 
+2001-09-12 01:11:48 Arch [1616664] C  ALPHA  MSN <alert@msn.c|tinko: waiting till10:15 otherwise going bazar 
+2001-09-12 01:11:48 Skytel [005212176] A SH/TONE 839-7158
+2001-09-12 01:11:49 Metrocall [1064375] B  ALPHA  NIKK _9622.98   -669 30 _99.02/03  5.438% GOLD 282.00/200 -400 S 4.21/31  PL 450.00 KS11   484.61 -55.96 HSI  _9425.97 -991.3 SSI   1437.87  -12.8 ORD   3059.10  -12.1 TWII  4176.93 -112.1 PD 455.00  JG 1.435%
+2001-09-12 01:11:49 Metrocall [1064374] B  ALPHA  YEN  119.25/40 -047 EUR  0.9111/
+2001-09-12 01:11:49 Metrocall [1064377] C  ALPHA  SED97040/97180/9709 9670/9627/9580/9549 SEY 99940/99915+000 99900/ 99905/ 99865 SSI _9290/_9260-101 JGB 13874/13714 -19 US  10514/10422 +00 SP107500/10140+0000 DJ _9630/_9665 +000 ND 13360/13820 +000 TY 10712+ FV 10616  TU 10328+
+2001-09-12 01:11:50 Skytel [007600672] A ST NUM  9776455426
+2001-09-12 01:11:51 Metrocall [1064374] B  ALPHA  16 +008 CHF  1.6445/60 +040 GBP  1.4725/45 -026 CAD  1.5636/46 -001 AUD  0.5180/90 -015 NZD  0.4284/94 -021 DEM  2.1453/64 -021  E/C  1.4988/91 -003 E/Y  108.69/74 -030 E/S  0.6168/71 -024 USD     113.29 -009
+2001-09-12 01:11:52 Arch [0987275] C  ALPHA  s0191: 09/11 15:14:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:14:21
+2001-09-12 01:11:52 Arch [1356576] A  ALPHA  82-IF FOUND, PLS CALL 212-815-5634. BOB DIETZ
+2001-09-12 01:11:54 Arch [0987275] C  ALPHA  sb3: INFO0021 - 2:45PM - POSI batch has not arrived(160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:15
+2001-09-12 01:11:54 Skytel [004730819] A ST NUM  287-9199-21    
+2001-09-12 01:11:55 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-12 01:11:59 Metrocall [1865024] A  ALPHA  Frm: SMTPPAGE@gulfaero.com Sub: SILO Txt: SUBPOOL STANDARD, 79 SCRATCH VOLUMES REMAINING 09/12/01 01:12:02

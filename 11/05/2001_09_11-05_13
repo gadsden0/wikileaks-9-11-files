@@ -1,0 +1,76 @@
+2001-09-11 05:13:00 Arch [0320272] A  ALPHA  PATROLpatrol - hrnais01.NSQUEUE_PNS-NSQUEUE_PNS-USNS ALARM/ALARM 30<=54.000000<=400.Critical
+2001-09-11 05:13:01 Metrocall [1544357] B  ALPHA  Frm: Patrol Admin. Txt: ktazp7 Alarm #2 of 'global' parameter 'HOAgentAlive' triggered on AM_Hosts.ktazp55. 1 <= 1.00 <= 1
+2001-09-11 05:13:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2020
+2001-09-11 05:13:01 Metrocall [1064387] A  ALPHA  GB 6180/6180+000 CT_3650/773/962 +000 KC_4835/5130/510-0
+2001-09-11 05:13:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2020
+2001-09-11 05:13:01 Metrocall [1585504] A  ALPHA  Frm: WhatsUp Sub: Server FW1__HME0_WIL UP at 04:11:37 Txt: Server FW1__HME0_WIL UP at 04:11:37 Address: 208.239.162.2 Info 1: Info 2: Date: 09/11/2001 Status: Ac
+2001-09-11 05:13:02 Arch [0801891] A  ALPHA  313 873-5264
+2001-09-11 05:13:03 Metrocall [1064387] A  ALPHA  15 SB _787/_761/745+001 SE 2095/2117/244-010 CC _889/917/929 -011 OJ 8025/8250/835+065 YX 56900/57150 +0000 CR 19820/19970 +0000 DX 11482/11538  +026 EJ 10932/10805  +000  RK 95385/95190  +000
+2001-09-11 05:13:03 Metrocall [1585504] A  ALPHA  tive and responding ( 0) Svcs: Notes:
+2001-09-11 05:13:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6842
+2001-09-11 05:13:04 Arch [0978734] D  ALPHA  tfkelly 47240--  We have no impacting minutes.  Sent at 04:12      
+2001-09-11 05:13:04 Arch [0634239] D  ALPHA  9871*2H252_25R 199.38.46.10 has lost connectivity
+2001-09-11 05:13:04 Arch [0810070] B  ALPHA  9871*2H252_25R 199.38.46.10 has lost connectivity
+2001-09-11 05:13:04 Arch [0986081] A  ALPHA  9871*2H252_25R 199.38.46.10 has lost connectivity
+2001-09-11 05:13:04 Arch [1079409] A  ALPHA  9871*2H252_25R 199.38.46.10 has lost connectivity
+2001-09-11 05:13:05 Metrocall [1585504] A  ALPHA  Frm: WhatsUp Sub: Router 3640_tlp east UP at 04:11:37 Txt: Router 3640_tlp east UP at 04:11:37 Address: 208.239.162.1 Info 1: Info 2: Date: 09/11/2001 Status: Active and responding ( 0) Svcs: Notes:
+2001-09-11 05:13:05 Metrocall [1585504] A  ALPHA  Frm: WhatsUp Sub: Router Intraport2_WIL U
+2001-09-11 05:13:05 Skytel [005105954] A ST NUM  534-343-4343-4343434343  
+2001-09-11 05:13:06 Arch [0634239] D  ALPHA  5450*199.38.46.10 alarm cleared
+2001-09-11 05:13:06 Arch [0810070] B  ALPHA  5450*199.38...............%..%..
+2001-09-11 05:13:06 Arch [0986081] A  ALPHA  5450*199.38.46.10 alarm cleared
+2001-09-11 05:13:06 Arch [1079409] A  ALPHA  5450*199.38.........aP....%..%..
+2001-09-11 05:13:06 Skytel [004754611] A SH/TONE 5225    
+2001-09-11 05:13:07 Metrocall [1585504] A  ALPHA  P at 04:11:37 Txt: Router Intraport2_WIL UP at 04:11:37 Address: 10.200.10.2 Info 1: Info 2: Date: 09/11/2001 Status: Active and responding ( 0) Svcs: Notes:
+2001-09-11 05:13:08 Arch [0810070] B  ALPHA  9205*2H252_25R 199.38.46.11 has lost connectivity
+2001-09-11 05:13:08 Arch [0986081] A  ALPHA  9205*2H252_25R 199.38.46.11 has lost connectivity
+2001-09-11 05:13:08 Skytel [005510218] C  ALPHA  salatPager@jannah.com|Time for Fajr (dawn) prayer (05:14)|        
+2001-09-11 05:13:09 Metrocall [1585504] A  ALPHA  Frm: WhatsUp Sub: Router UUNet_Ser0/1.1_WIL UP at 04:11:38 Txt: Router UUNet_Ser0/1.1_WIL UP at 04:11:38 Address: 157.130.223.229 Info 1: Info 2: Date: 09/11/2001 Status: Active and responding ( 0) Svcs: Notes:
+2001-09-11 05:13:11 Metrocall [0813032] C  ALPHA  5:13A HOLY SPIRIT 763 2514 RAHN SURGICAL ICU
+2001-09-11 05:13:11 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * RTN-TO-NRM * 00W MAJ=NONE
+2001-09-11 05:13:12 Arch [0910057] C  ALPHA  pc999bot1: pc999bot1@PC999.hunterdonhealthcare.org 192.168.27.1 is down! -Contact HMC Immediately
+2001-09-11 05:13:12 Skytel [005178080] A SH/TONE 104     
+2001-09-11 05:13:13 Skytel {1078919} 1 1200 GE 39.35 -0.31
+2001-09-11 05:13:18 Metrocall [1585504] A  ALPHA  Frm: WhatsUp Sub: Router UUNet_Ser0/0.1_WIL UP at 04:11:38 Txt: Router UUNet_Ser0/0.1_WIL UP at 04:11:38 Address: 157.130.223.225 Info 1: Info 2: Date: 09/11/2001 Status: Active and responding ( 0) Svcs: Notes:
+2001-09-11 05:13:19 Arch [0418533] B  ALPHA  (26)39:ABS: Tkt:5002639, Sev:4, TIQ:131min, Sname:XXX, CIS Id:13077749, Contact:DONAL FAGAN @ 8149460451 Note:SL-GW33-PEN, SERIAL4/0:4 IS UP, LINE PROTOCOL IS UP...CKT HAS BEEN BOUNCING...WILL PARK AND MONITOR...TERRENCE/PMC/RESTON.
+2001-09-11 05:13:19 Arch [1238892] D  ALPHA  (3)76:ABS: Tkt:5002639, Sev:4, TIQ:131min, Sname:XXX, CIS Id:13077749, Contact:DONAL FAGAN @ 8149460451 Note:SL-GW33-PEN, SERIAL4/0:4 IS UP, LINE PROTOCOL IS UP...CKT HAS BEEN BOUNCING...WILL PARK AND MONITOR...TERRENCE/PMC/RESTON.
+2001-09-11 05:13:20 Metrocall [1746615] B  ALPHA  (157500059358)GRAND LUX N PABLO 702-414-3888 3355 LAS VEGAS LAS VEGAS D/W CONVEYER
+2001-09-11 05:13:23 Arch [1079409] A  ALPHA  9205*2H252_25R 199.38.46.11 has lost connectivity
+2001-09-11 05:13:23 Arch [0634239] D  ALPHA  9205*2H252_25R 199.38.46.11 has lost connectivity
+2001-09-11 05:13:23 Arch [0986081] A  ALPHA  7949*199.38.46.11 alarm cleared
+2001-09-11 05:13:23 Arch [0922216] C  ALPHA  tfkelly 47240--  We have no impacting minutes.  Sent at 04:12      
+2001-09-11 05:13:23 Arch [0810070] B  ALPHA  7949*199.38.46.11 alarm cleared
+2001-09-11 05:13:25 Arch [1079409] A  ALPHA  7949*199.38.46.11 alarm cleared
+2001-09-11 05:13:25 Arch [0810070] B  ALPHA  2061*10.100.1.231 alarm cleared
+2001-09-11 05:13:25 Arch [0634239] D  ALPHA  7949*199.38.46.11 alarm cleared
+2001-09-11 05:13:25 Arch [0986081] A  ALPHA  2061*10.100.1.231 alarm cleared
+2001-09-11 05:13:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9765
+2001-09-11 05:13:27 Arch [1079409] A  ALPHA  2061*10.100.1.231 alarm cleared
+2001-09-11 05:13:27 Arch [0000101] B  ALPHA  MSN 112 hello Message from NOC PCB.
+2001-09-11 05:13:27 Arch [0911134] D  ALPHA   cshprod1-adm.ny.jpmorgan.com SYBASE: check_db(PDS1_EQGTWNY_HIST) DUMP SIZE for eq_gtw in PDS1_EQGTWNY_HIST ~ 2GB @05:13 09/11/01 
+2001-09-11 05:13:27 Arch [0634239] D  ALPHA  2061*10.100.1.231 alarm cleared
+2001-09-11 05:13:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE S.jD....8....@.E..0E.!..
+2001-09-11 05:13:31 Skytel [005211276] D  ALPHA  LTC 5.33 +0.03 VTR 11.34 +0.06 LTITX 15.81 +0.01 VCRI 0.00 UNCH
+2001-09-11 05:13:31 Skytel [005360134] B  ALPHA  alert@msn.com||President's daughter has charges dropped*Stocks struggle*Peres and Arafat plan meeting*Jordan all  
+2001-09-11 05:13:33 Skytel [002393620] B SH/TONE 4683    
+2001-09-11 05:13:36 Skytel [004532157] D SH/TONE 1 (99   
+2001-09-11 05:13:42 Arch [1611003] C  ALPHA  (21)tfkelly 47240--  We have no impacting minutes.  Sent at 04:12      
+2001-09-11 05:13:44 Skytel [003327216] A  ALPHA  002223 CYCLIC TEST 
+2001-09-11 05:13:44 Skytel [002357369] C  ALPHA  002223 CYCLIC TEST 
+2001-09-11 05:13:44 Skytel [002139900] D SH/TONE 002223  
+2001-09-11 05:13:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178256. 
+2001-09-11 05:13:48 Skytel [002394391] B  ALPHA  ORCL 11.46 +0.39 MOT 15.04 +0.75 DELL 22.57 +1.02
+2001-09-11 05:13:48 Skytel [002821656] C  ALPHA  StockLoan - <NY Mickey Chadha>: SLCheck.bash : Counts Match : fileCount: 26310, slposCount:26310
+2001-09-11 05:13:50 Metrocall [1261323] C  ALPHA  Frm: wingmon@firstusa.com Txt: SiteScope neweb102 /webs neweb102 2562 no data
+2001-09-11 05:13:50 Metrocall [1261323] C  ALPHA  Frm: wingmon@firstusa.com Txt: SiteScope neapp102 /var/weblog neapp102 2562 no data
+2001-09-11 05:13:50 Metrocall [0643797] B  ALPHA  Frm: siteseer@freshtech.co
+2001-09-11 05:13:50 Metrocall [0752349] D  ALPHA  Frm: szmuda@email.usps.gov Sub: POSTER Missing on: ORLNFLSTAC1
+2001-09-11 05:13:50 Metrocall [002272928] A  ALPHA  Frm: Passport Batch Account Sub: WorkMgmt AutoWriter Txt: All objects Ran!
+2001-09-11 05:13:50 Skytel [004024864] A  ALPHA  wingmon@firstusa.com||SiteScope neapp102 /var/weblog neapp102 2562 no data    ********************************************************************** This transmission may contain information that is privileged, confidential and/or exempt fr
+2001-09-11 05:13:52 Metrocall [1261323] C  ALPHA  Frm: wingmon@firstusa.com Txt: SiteScope stweb109 cpu stweb109 28363 no data
+2001-09-11 05:13:52 Metrocall [0643797] B  ALPHA  m Sub: SiteScope Alert, error, ExpressInquiry, 1 out of 1 errors, unable to reach server from all locations (siteseer5.freshwater.com) Txt: This alert is from SiteSc
+2001-09-11 05:13:54 Metrocall [0643797] B  ALPHA  ope at http://siteseer5.freshwater.com/Sit
+2001-09-11 05:13:57 Skytel [005436525] D  ALPHA  Test Message #39-IX_T0106
+2001-09-11 05:13:57 Skytel [007596901] B SH/TONE 85450   
+2001-09-11 05:13:57 Skytel [004524770] A  ALPHA  wil-AMPiesch-BurlingtonVT-01: CPE Up at 00:58:21 on 9/11
+2001-09-11 05:13:59 Skytel [007109749] B ST NUM  070-5717-74    

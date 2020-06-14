@@ -1,0 +1,62 @@
+2001-09-11 05:54:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2061
+2001-09-11 05:54:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2061
+2001-09-11 05:54:01 Skytel [002423055] D  ALPHA  B
+2001-09-11 05:54:02 Arch [1402286] D  ALPHA  970-7947
+2001-09-11 05:54:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6883
+2001-09-11 05:54:05 Skytel [002555555] A SH/TONE 163     
+2001-09-11 05:54:05 Skytel [002556202] C ST NUM  0-800-428-7124-0028 
+2001-09-11 05:54:06 Arch [0929338] C  ALPHA  Becky Sharp <BSh|As per your request!|Please find attached file for your review. I look forward to hear from you again very soon. Thank you. 
+2001-09-11 05:54:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178698. 
+2001-09-11 05:54:10 Skytel [005051613] D  ALPHA  (2 of 2) ng from the backup node. nioc2 is up and nioc3 is coming up. [Monica_Jaramillo]
+2001-09-11 05:54:11 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router 611FP-1MBT at 02:51:28 Txt: Router 611FP-1MBT DOWN at 02:51:28 Address: 209.247.46.226 Date: 09/11/2001 Status: Host Unreachable ( 11003)
+2001-09-11 05:54:11 Metrocall [1484340] B  ALPHA  Frm: 'newsletter@addme.com Sub: add me.com #220 - easy click-thru track
+2001-09-11 05:54:13 Metrocall [1484340] B  ALPHA  ing Txt: ====================
+2001-09-11 05:54:14 Skytel [005343228] D  ALPHA  EL DC8 ESTARA LLEGANDO A LAS 8:37 AM MARK (beepeame.com)
+2001-09-11 05:54:14 Skytel [007588856] C ST NUM  900-426-6710   
+2001-09-11 05:54:18 Metrocall {1175634} 2 2400 711..
+2001-09-11 05:54:18 Skytel [004570774] B ST NUM  980-5606-0
+2001-09-11 05:54:20 Metrocall [002160779] C  ALPHA  Take meds.
+2001-09-11 05:54:20 Metrocall [002110404] B  ALPHA  Remember medication.
+2001-09-11 05:54:21 Arch [0760644] B  ALPHA  123-4567
+2001-09-11 05:54:22 Skytel [003490354] A SH/TONE         
+2001-09-11 05:54:23 Arch [1211041] A  ALPHA  571-8240
+2001-09-11 05:54:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9806
+2001-09-11 05:54:26 Arch [0976250] C  ALPHA  Sev1 open S3040779 JOHN FERRIS 7325632400 SOMERSET1 ENTERPRISE TECH PROCESSING APPNCSNCFCONF CICSGCBA ETA IS 07:15. IT'S SLA IS  07:00  09/11/01 05:52:54
+2001-09-11 05:54:26 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSTRD_EDGNY1) MAYBE OPEN TRANSACTION in syslogshold PYR_ARCHIVE|112 - PDSTRD_EDGNY1 @05:53 09/11/01 
+2001-09-11 05:54:30 Metrocall [002117402] C  ALPHA  Time to take your medication.
+2001-09-11 05:54:30 Metrocall [1363643] C  ALPHA  Frm: busintel@tickets.com Sub: =?iso-8859-1?Q?Load Plan Completion - ADVCONC TOF?=
+2001-09-11 05:54:30 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage detected on NBC/WMAQ: 537 seconds so far 09/11/01 02:52:26 PDT7 621009
+2001-09-11 05:54:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3454
+2001-09-11 05:54:30 Metrocall [0878462] D  ALPHA  Forum server has problems.
+2001-09-11 05:54:33 Skytel [003944209] A ST NUM  306-674-4605   
+2001-09-11 05:54:35 Skytel [002376872] C  ALPHA  hevaem@conxion.net|oracleheva2.conxion.net, HTTP, 206.204.210.197:80, Server Recovered, | 
+2001-09-11 05:54:35 Skytel [003934628] B  ALPHA  PLEASE CLOSE ALL RECAPS.....
+2001-09-11 05:54:36 Skytel [0000060] D  ALPHA  PLEASE CLOSE ALL RECAPS.....
+2001-09-11 05:54:36 Skytel [007469753] C SH/TONE 6305    
+2001-09-11 05:54:41 Arch [0918761] C  ALPHA  PRI:CRITICAL   31307 OPEN siepo2a:dbxc001d_reorg_table_build.sh siepo2a Ended-Not-OK
+2001-09-11 05:54:41 Metrocall [002110472] C  ALPHA  Time to eat.
+2001-09-11 05:54:41 Metrocall [002110533] B  ALPHA  Take medication morning
+2001-09-11 05:54:41 Metrocall [1543585] A  ALPHA  Take meds.
+2001-09-11 05:54:41 Metrocall [002110286] D  ALPHA  Morning medication.
+2001-09-11 05:54:41 Metrocall [002110272] A  ALPHA  Sex me up.
+2001-09-11 05:54:41 Metrocall [002110257] A  ALPHA  Tale Medication.
+2001-09-11 05:54:41 Metrocall [1543599] D  ALPHA  Remember morning medication.
+2001-09-11 05:54:41 Metrocall [002110392] C  ALPHA  Take 6 am meds
+2001-09-11 05:54:41 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router 611FP-1Tendo at 02:52:25 Txt: Router 611FP-1Tendo UP at 02:52:25 Address: 209.247.46.97 Date: 09/11/2001 Status: Active and responding ( 0)
+2001-09-11 05:54:42 Skytel [005436525] D  ALPHA  Test Message #83-IX_T1616
+2001-09-11 05:54:42 Skytel [004524770] A  ALPHA  spr-HorizonSolutions-HolyokeMA-0: CPE Up at 00:59:03 on 9/11
+2001-09-11 05:54:42 Skytel [007553888] A  ALPHA  896-6731No Answer Southfield Backup 248-552
+2001-09-11 05:54:43 Metrocall [0153110] B  ALPHA  NOW YOU CAN REST PROPERLY. ART HAD THE KEY. GO BACK TO SLEEP. BWA HA HA. LYONS.
+2001-09-11 05:54:43 Metrocall [002110392] C  ALPHA   now.
+2001-09-11 05:54:44 Skytel [003954036] B  ALPHA  NIMS01:Device Inaccessible
+2001-09-11 05:54:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178705. 
+2001-09-11 05:54:50 Metrocall [1560616] C  ALPHA  09/11@04:47:17 WNTPRIME:The server has encountered a network error.
+2001-09-11 05:54:50 Metrocall [1423721] C  ALPHA  09/11@04:47:17 WNTPRIME:The server has encountered a network error.
+2001-09-11 05:54:50 Metrocall [002118707] A  ALPHA  09/11@04:47:17 WNTPRIME:The server has encountered a network erro
+2001-09-11 05:54:50 Metrocall [002110690] A  ALPHA  Take your meds.
+2001-09-11 05:54:50 Metrocall [002110501] B  ALPHA  Take meds.
+2001-09-11 05:54:50 Metrocall [002106633] C  ALPHA  Morning medication.
+2001-09-11 05:54:50 Metrocall [0152228] B  ALPHA  Time to take your medication.
+2001-09-11 05:54:52 Metrocall [002118707] A  ALPHA  r.
+2001-09-11 05:54:53 Skytel [005178316] D SH/TONE 8005    
+2001-09-11 05:54:57 Skytel [005330530] A ST NUM  8685222010

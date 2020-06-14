@@ -1,0 +1,169 @@
+2001-09-12 00:25:00 Metrocall [1116629] B  ALPHA  From: Harwood, Andrew J. Subj: ADCC Operation V2.0 ADCC Operation 00:19 atlanta cascade heights m0722 1 cause unknown_ -Oper
+2001-09-12 00:25:00 Skytel [007109749] B SH/TONE 637     
+2001-09-12 00:25:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7994
+2001-09-12 00:25:01 Metrocall [1004014] D  ALPHA  From: Harwood, Andrew J. Subj: ADCC Operation V
+2001-09-12 00:25:01 Skytel [007561353] C ST NUM  0-431-431-4363-7    
+2001-09-12 00:25:02 Metrocall [1004014] D  ALPHA  2.0 ADCC Operation 00:19 atlanta cascade heights m0722 1 cause unknown_ -Oper
+2001-09-12 00:25:03 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 00:25:03 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191236. 
+2001-09-12 00:25:03 Skytel [004549402] C SH/TONE 213894  
+2001-09-12 00:25:04 Skytel {0743995} 1 2400 800-344-8041   
+2001-09-12 00:25:04 Skytel {1687772} 1 2400 MOT 15.04 UNCH
+2001-09-12 00:25:05 Arch [1660247] B  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 1 of 3 - Sales Lift by DC/Item - draft report COMPLETE.  Sent at 23:24      
+2001-09-12 00:25:05 Arch [1629007] D  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 2
+2001-09-12 00:25:05 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-12 00:25:05 Arch [0966655] D  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 1 of 3 - Sales Lift by DC/Item - draft report COMPLETE.  Sent at 23:24      
+2001-09-12 00:25:05 Arch [0209124] B  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 1 of 3 - Sales Lift by DC/Item - draft report COMPLETE.  Sent at 23:23      
+2001-09-12 00:25:05 Arch [1050266] C  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24     
+2001-09-12 00:25:05 Arch [0981201] A  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 1 of 3 - Sales Lift by DC/Item - draft report COMPLETE.  Sent at 23:23      
+2001-09-12 00:25:05 Arch [1164259] A  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24     
+2001-09-12 00:25:07 Arch [1629007] D  ALPHA  3:24      
+2001-09-12 00:25:07 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 00:25:07 Arch [1050266] C  ALPHA   
+2001-09-12 00:25:07 Arch [1164259] A  ALPHA   
+2001-09-12 00:25:07 Skytel {1608777} 1 1200 GNET 0.00 UNCH BCST 0.00 UNCH LCOS 0.00 UNCH AMZN 8.63 UNCH.
+2001-09-12 00:25:08 Metrocall [1004205] D  ALPHA  From: Harwood, Andrew J. Subj: ADCC Operation V2.0 ADCC Operation 00:19 atlanta cascade heights m0722 1 cause unknown_ -Oper
+2001-09-12 00:25:08 Metrocall [1027952] A  ALPHA  36-PLEASE CALL: 13335
+2001-09-12 00:25:08 Metrocall [1162099] A  ALPHA  From: Harwood, Andrew J. Subj: ADCC Operation V2.0 ADCC Operation
+2001-09-12 00:25:09 Arch [0980928] A  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 1 of 3 - Sales Lift by DC/Item - draft report COMPLETE.  Sent at 23:24      
+2001-09-12 00:25:09 Arch [1034476] D  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24     
+2001-09-12 00:25:09 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-12 00:25:09 Arch [0976989] D  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:25:09 Arch [0975978] C  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:25:09 Arch [0916079] D  ALPHA  From NOC at 12:25 AM EDT: FYI from Brian Cooper. Sams/Walmart blocked 2.5 million calls on the West Platform. -Scott  
+2001-09-12 00:25:09 Arch [0970437] B  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 1 of 3 - Sales Lift by DC/Item - draft report COMPLETE.  Sent at 23:24      
+2001-09-12 00:25:10 Metrocall [1162099] A  ALPHA   00:19 atlanta cascade heights m0722 1 cause unknown_ -Oper
+2001-09-12 00:25:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4564
+2001-09-12 00:25:11 Arch [1034476] D  ALPHA   
+2001-09-12 00:25:13 Arch [0000101] B  ALPHA  MSN 028 hello Message from NOC PCB.
+2001-09-12 00:25:16 Arch [0076486] B  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:25:16 Arch [0976352] A  ALPHA  (18)hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:25:16 Arch [0769433] C  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:25:16 Arch [1131960] C  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  
+2001-09-12 00:25:16 Arch [0983275] C  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:25:16 Arch [0922216] C  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  
+2001-09-12 00:25:17 Metrocall [0705369] C  ALPHA  From: Harwood, Andrew J. Subj: ADCC Operation V2.0 ADCC Operation 00:19 atlanta cascade heights m0722 1 cause unknown_ -Oper
+2001-09-12 00:25:17 Metrocall [1932858] C  ALPHA  34: For.: DR JONES O/C Dr: DR BRADSHAW From: DARLENE/HAMPTON MANNOR Tel#: 909 790 2273 V Msg.: RE PT 
+2001-09-12 00:25:18 Arch [0507846] B  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:25:18 Arch [1612942] D  ALPHA  (15)hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTE
+2001-09-12 00:25:18 Arch [1410805] B  ALPHA  (16)hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:25:18 Arch [1131960] C  ALPHA  Sent at 23:24      
+2001-09-12 00:25:18 Arch [0964748] D  ALPHA  ipager@nationwid|Page|Well Its bed time for me..Sweetest of dreams to you. I love you Catheleene 
+2001-09-12 00:25:18 Arch [1284371] A  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sen
+2001-09-12 00:25:18 Arch [0922216] C  ALPHA  Sent at 23:24      
+2001-09-12 00:25:18 Arch [0935670] B  ALPHA  From NOC at 12:26 AM EDT: FYI from Brian Cooper. Sams/Walmart blocked 2.5 million calls on the West Platform. -Scott  
+2001-09-12 00:25:19 Metrocall [1932858] C  ALPHA  JUANITA BOWERS-PT WANTS TO GO HOME-PLEASE CALL
+2001-09-12 00:25:20 Arch [1612942] D  ALPHA  D.  Sent at 23:24      
+2001-09-12 00:25:20 Arch [0949746] A  ALPHA  1/02:****CHG-TKT**** TYPE: Major  OP: 09/12/01 00:15:00 Tkt: NOC000000084886 STAT: WIP  COMPANY NAME: RESIDENTIAL   SITE: Atlanta - Stone Mountain  LOG: ADSL-ASM-DSG reports PCDATA outage in Norcross,
+2001-09-12 00:25:20 Arch [1284371] A  ALPHA  t at 23:24      
+2001-09-12 00:25:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0917
+2001-09-12 00:25:22 Arch [0949746] A  ALPHA  2/02:ETR: 0800 12 Sept 2001 Contact: FastAccess 1.800.317.3343 opt 3,2
+2001-09-12 00:25:22 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-12 00:25:22 Arch [0983386] C  ALPHA  367-7819
+2001-09-12 00:25:24 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 00:25:26 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-12 00:25:26 Arch [0968156] D  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:25:26 Arch [1408029] D  ALPHA  (17)hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:25:26 Arch [0900159] D  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:25:26 Arch [1611003] C  ALPHA  (23)hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTE
+2001-09-12 00:25:26 Arch [1284332] D  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:25:26 Arch [0978734] D  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  
+2001-09-12 00:25:28 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 00:25:28 Arch [1611003] C  ALPHA  D.  Sent at 23:24      
+2001-09-12 00:25:28 Arch [0978734] D  ALPHA  Sent at 23:24      
+2001-09-12 00:25:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3173
+2001-09-12 00:25:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3173
+2001-09-12 00:25:31 Skytel [005006724] B ST NUM  900-838-2715   
+2001-09-12 00:25:33 Arch [0281770] C  ALPHA  Rich Cannizzaro |F: Rob Sperandio <rsperan B:rscsw alias 
+2001-09-12 00:25:33 Arch [0464173] D  ALPHA  John Hopprich|Today's terrorists attack | As a follow up to John Chambers', Joel's, and Don's messages about the tragedy that occurred this morning I encourage each of you to take the time to deal with your personal needs as well as  -1/3
+2001-09-12 00:25:33 Skytel [005102747] C ST NUM  614-438-5555   
+2001-09-12 00:25:33 Skytel [007035414] B SH/TONE 9444    
+2001-09-12 00:25:35 Arch [0464173] D  ALPHA  those of your family and friends. If any of you need help from me or the Cisco management team please let me know. If any of you have, or know of people in our team who have, family or friends that have been affected by this tragedy  -2/3
+2001-09-12 00:25:35 Arch [1625046] B  ALPHA  reminders@yahoo-inc.com (Subj: Evening QPUSH, 9/11/2001, 9:45 pm) ARIN CN HK TW BR
+2001-09-12 00:25:35 Skytel [002844967] B SH/TONE 7373    
+2001-09-12 00:25:35 Skytel [004529061] B ST NUM  212-222-3540   
+2001-09-12 00:25:35 Skytel [005061029] B SH/TONE 5466    
+2001-09-12 00:25:35 Skytel [007035683] A  ALPHA  Insider@emcweb.com|SiteScope Alert, error, TranTrac1 URL Transaction, unable to reach server on  (step 1), https://209.64.62.245/trantrac/login?edtMID=601109999999015&edtUID=user0...|This alert is from SiteScope at http://insider.emcweb.com
+2001-09-12 00:25:37 Arch [0950818] A  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:25:37 Arch [0967263] D  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  
+2001-09-12 00:25:37 Arch [0464173] D  ALPHA  please let me know so that I can respond appropriately. I think I can say for all of us on this sad day that our thoughts are with the victims and their families. Thank you. |640   -3/3
+2001-09-12 00:25:37 Arch [0725743] D  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:25:37 Arch [1227827] A  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  
+2001-09-12 00:25:37 Arch [0988031] D  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:25:37 Arch [0967286] B  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  
+2001-09-12 00:25:37 Skytel [003328569] C  ALPHA  OCTL 0.00 UNCH CSCO 14.47 UNCH COMS 3.60 UNCH USRX 0.00 UNCH (18
+2001-09-12 00:25:39 Arch [0967263] D  ALPHA  Sent at 23:24      
+2001-09-12 00:25:39 Arch [1227827] A  ALPHA  Sent at 23:24      
+2001-09-12 00:25:39 Arch [0967286] B  ALPHA  Sent at 23:24      
+2001-09-12 00:25:39 Skytel [004405068] D  ALPHA  B.BANK OF AMERICA     
+2001-09-12 00:25:39 Skytel [002403660] D SH/TONE 1602    
+2001-09-12 00:25:39 Skytel [002845771] C  ALPHA  PHA 40.15 UNCH MRK 66.10 UNCH PFE 38.17 UNCH
+2001-09-12 00:25:39 Skytel [002153679] D SH/TONE 4048    
+2001-09-12 00:25:40 Metrocall [1115242] C  ALPHA  From: Harwood, Andrew J. Subj: ADCC Operation V2.0 ADCC Operation 00:19 atlanta cascade heights m0722 1 cause unknown_ -Oper
+2001-09-12 00:25:40 Metrocall [1006590] D  ALPHA  From: Harwood, Andrew J. Subj: ADCC Operation V2.0 ADCC Operation 00:19 atlanta cascade h
+2001-09-12 00:25:40 Metrocall [1086267] C  ALPHA  Tried callin you, please call 701---Patrick 701 (404) 296-2541
+2001-09-12 00:25:41 Skytel [005042522] C  ALPHA  (1 of 2) EOD Production:  ADDS Bottles Processed  2366,   ADDS Bottles/Hour  1034 ,    Unscheduled ADDS  1802,    Verification Queue 0,  Unscheduled CADS 61,  Total CADS Production  376,  Manifested 2191 ,  Orders to be Manifested 0,  Waiti
+2001-09-12 00:25:41 Skytel [005249751] B SH/TONE         
+2001-09-12 00:25:41 Skytel [003276510] D  ALPHA  carolyn.mcnulty@eds.com||Have you been trained on CSAA?  861-4575-911  
+2001-09-12 00:25:41 Skytel [007583449] C ST NUM  0-877-666-1921 
+2001-09-12 00:25:41 Skytel [003945950] D  ALPHA  carolyn.mcnulty@eds.com||Have you been trained on CSAA?  861-4575-911  
+2001-09-12 00:25:42 Arch [0921992] C  ALPHA  917 453-6706
+2001-09-12 00:25:42 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-12 00:25:42 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191243. 
+2001-09-12 00:25:42 Metrocall [1006590] D  ALPHA  eights m0722 1 cause unknown_ -Oper
+2001-09-12 00:25:43 Skytel [005043559] B  ALPHA  150.ARENER MANUFACT     
+2001-09-12 00:25:43 Skytel [004531793] A SH/TONE 417-0183
+2001-09-12 00:25:43 Skytel [005330530] A ST NUM  8685222010
+2001-09-12 00:25:43 Skytel [005197292] D  ALPHA  SGI 0.42 UNCH MOT 15.04 UNCH AMAT 40.03 UNCH BHI 34.55 UNCH
+2001-09-12 00:25:43 Skytel [007659754] C ST NUM  08007243624    
+2001-09-12 00:25:43 Skytel [002695278] D SH/TONE 278-9190
+2001-09-12 00:25:43 Skytel [005055724] D  ALPHA  siteseer@freshtech.com|SiteScope Alert, error, Home Page Response >10 sec., timed out reading (siteseer4.freshwater.com)|This alert is from SiteScope at http://siteseer4.freshwater.com/SiteScope/?account=smartbargains.com  Monitor:  smartba
+2001-09-12 00:25:44 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-12 00:25:45 Skytel [005110395] C ST NUM  312-456-0600   
+2001-09-12 00:25:45 Skytel [003438449] A SH/TONE 872-0247
+2001-09-12 00:25:45 Skytel [005109366] B ST NUM  25) 419-0402   
+2001-09-12 00:25:45 Skytel [002357369] C  ALPHA  002607 CYCLIC TEST 
+2001-09-12 00:25:45 Skytel [005040245] B SH/TONE 628-7923
+2001-09-12 00:25:45 Skytel [007530741] B  ALPHA  ZACK IS BACK FROM SAN FRANCISO AND I'M WAITING TO HEAR FROM. YOU.
+2001-09-12 00:25:45 Skytel [007658740] B SH/TONE 770-0640
+2001-09-12 00:25:45 Skytel [003261425] A  ALPHA  (2 of 2) sing the hand scanners. NO KEYING!
+2001-09-12 00:25:45 Skytel [003327216] A  ALPHA  002607 CYCLIC TEST 
+2001-09-12 00:25:45 Skytel [004412408] C ST NUM  618-235-0750   
+2001-09-12 00:25:45 Skytel [007582590] D SH/TONE 486-1580
+2001-09-12 00:25:45 Skytel [005051772] D  ALPHA  Ronnie p1 lot qad29586.4 mert fi mask on hold for high cds....narisa
+2001-09-12 00:25:45 Skytel [002139900] D SH/TONE 002607  
+2001-09-12 00:25:45 Skytel [007118461] D ST NUM  410-523-3979   
+2001-09-12 00:25:46 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 00:25:47 Skytel [003688707] A  ALPHA  1 (63
+2001-09-12 00:25:48 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-12 00:25:48 Arch [0935373] D  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:25      
+2001-09-12 00:25:48 Arch [0294758] B  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:25:48 Arch [0209124] B  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  
+2001-09-12 00:25:48 Arch [0945458] A  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:25:48 Arch [0284292] B  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:25:49 Metrocall [1889701] B  ALPHA  From: Harwood, Andrew J. Subj: ADCC Operation V2.0 ADCC Operation 00:19 atlanta cascade heights m0722 1 cause unknown_ -Oper
+2001-09-12 00:25:49 Metrocall [1890644] B  ALPHA  From: Harwood, Andrew J. Subj: ADCC Operation V2.0 ADCC Operation 00:19 atlanta cascade heights m0722
+2001-09-12 00:25:49 Metrocall [1064383] D  ALPHA  FOREX HIGH -  LOW YEN_119.80 - 119.00 EUR 0.9116 - 0.9068 CHF 1.6575 - 1.6420 GBP 1.4751 - 1.4715 CAD 1.5658 - 1.5628 AUD 0.5196 - 0.5135 NZD 0.4313 - 0.4257 E/C 1.4991 - 1.4996 E/Y 108.99 - 109.09 E/S 0.6168 - 0.6166 USD 133.20 - 112.80
+2001-09-12 00:25:50 Arch [0209124] B  ALPHA  Sent at 23:25      
+2001-09-12 00:25:50 Arch [0899493] B  ALPHA  ammsprod2 AMMSRead7Svc Broken
+2001-09-12 00:25:50 Arch [1608085] B  ALPHA  ammsprod2 AMMSRead7Svc Broken
+2001-09-12 00:25:50 Skytel [005001895] B  ALPHA  [sps/122] 101 sps-apps1.cps.intel.com relay 0.0 FAILURE Hostrefusing connection (/metrios/healthcheck[XMLJunctionEPO].asp)4:23:51
+2001-09-12 00:25:50 Skytel [002573606] B SH/TONE 3236    
+2001-09-12 00:25:51 Metrocall [1890644] B  ALPHA   1 cause unknown_ -Oper
+2001-09-12 00:25:52 Arch [0899493] B  ALPHA  ammsprod2 AMMSRead5Svc Broken
+2001-09-12 00:25:52 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDSTRD_EDGNY1  Database=PYR_TRADE  Mode=Incremental_Dump         # Our PID=18570    time='09/12/01 00:25:11'    sy
+2001-09-12 00:25:52 Arch [1608085] B  ALPHA  ammsprod2 AMMSRead5Svc Broken
+2001-09-12 00:25:52 Arch [0975777] A  ALPHA  Please Call-6041580
+2001-09-12 00:25:52 Arch [0959910] B  ALPHA  3 hpmille 75734-B/L-  MB 23:00 Upd - 2 of 3 - Sales -vs- Forecast by DC/Item - target time 11am.  NOT STARTED.  Sent at 23:24      
+2001-09-12 00:25:52 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-12 00:25:52 Skytel [003846329] C  ALPHA   Collections Support
+2001-09-12 00:25:52 Skytel [007569723] C ST NUM  433-170-1011-7070   
+2001-09-12 00:25:54 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDSTRD_EDGNY1  Database=PYR_TRADE  Mode=Incremental_Dump         # Our PID=18570    time='09/12/01 00:25:12'    sy
+2001-09-12 00:25:54 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-12 00:25:54 Skytel [005476298] C SH/TONE 143143  
+2001-09-12 00:25:56 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-12 00:25:56 Skytel [007657299] A ST NUM  313-749-4287   
+2001-09-12 00:25:58 Skytel [005523694] D SH/TONE 99      
+2001-09-12 00:25:58 Skytel [007658468] B ST NUM  314-789-1821   
+2001-09-12 00:25:58 Skytel [005436525] D  ALPHA  Test Lotus Notes #95-IX_T1708
+2001-09-12 00:25:58 Skytel [002817389] D  ALPHA  CISCO_VPN@fema.gov|VPN3000 Concentrator Alert (mwvpn)|5939 09/12/2001 00:23:58.470 SEV=3 AUTH/5 RPT=10 198.182.163.109 Authentication rejected: Reason = Logon Failurehandle = 315, server = 166.112.217.148, user = jmaloney, domain = nemis  

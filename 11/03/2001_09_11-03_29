@@ -1,0 +1,59 @@
+2001-09-11 03:29:00 Metrocall [1222363] C  ALPHA  -11936-12916-21920-22910-31981-32939-934-
+2001-09-11 03:29:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1916
+2001-09-11 03:29:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1916
+2001-09-11 03:29:01 Skytel [003947407] D SH/TONE 684-8855
+2001-09-11 03:29:01 Skytel [004728967] B  ALPHA  aulens00@mh.us.sbphrd.com|ATTENTION! DataStage job overrun [Batch::LoadBld] Current status [0] | 
+2001-09-11 03:29:01 Skytel [007469966] D ST NUM  210-688-6881   
+2001-09-11 03:29:03 Skytel [004534043] C SH/TONE 1       
+2001-09-11 03:29:03 Skytel {1092655} 3 2400 002188    
+2001-09-11 03:29:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6738
+2001-09-11 03:29:05 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177108. 
+2001-09-11 03:29:07 Arch [0000101] B  ALPHA  MSN 062 hello Message from NOC PCB.
+2001-09-11 03:29:09 Metrocall [1421641] C  ALPHA  RESTART     Power Up Complete
+2001-09-11 03:29:09 Metrocall [1543964] D  ALPHA  RESTART     Power Up Complete
+2001-09-11 03:29:09 Metrocall [1064379] C  ALPHA   SWISS GOLD POSITION FALLS 68.4 MLN SFR TO 35.63 BLN IN EARLY SEPT-SNB
+2001-09-11 03:29:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9661
+2001-09-11 03:29:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3309
+2001-09-11 03:29:31 Skytel [002559104] A SH/TONE 76245   
+2001-09-11 03:29:36 Skytel [007503156] B SH/TONE 6309    
+2001-09-11 03:29:36 Skytel [007583934] D ST NUM  673-7778-3
+2001-09-11 03:29:37 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177115. 
+2001-09-11 03:29:38 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 3.30 11.32 7.31 Tue Sep 11 00:30:00 MST 2001 
+2001-09-11 03:29:38 Skytel [002815691] C  ALPHA  prodops@magellan.stl.express-scripts.com|Failed: zeus VNET RPC: command reported failure|Failed: zeus VNET RPC: command reported failure At: 2001.09.11 02:29:05.602 Name: zeus VNET RPC Reason: command reported failure Details: /cm/dev2/Watc
+2001-09-11 03:29:38 Skytel [003463239] B ST NUM  314-2142-14    
+2001-09-11 03:29:39 Metrocall [0969687] B  ALPHA  SR ER 731 8080 ROSE
+2001-09-11 03:29:40 Arch [0930546] A  ALPHA  Alarm: 12:28:40AM  Boiler Network connect   Site 4 Bldg 7 Hot water supply temp is out of range.
+2001-09-11 03:29:40 Skytel [005378387] A SH/TONE 83      
+2001-09-11 03:29:40 Skytel [005047383] B  ALPHA  y-alerts@yahoo-inc.com||Fr: nicole@shopathome.com *Fall into Indoor Adventures!* ShopAtHome.com Headliners Week of Mail  
+2001-09-11 03:29:42 Skytel [005436525] D  ALPHA  Test #1
+2001-09-11 03:29:42 Skytel [003481062] B ST NUM  614-953-7079 (67    
+2001-09-11 03:29:42 Skytel [005112809] C  ALPHA  02:25CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240464: Uncorrectable write error
+2001-09-11 03:29:42 Skytel [007600874] C SH/TONE 6128    
+2001-09-11 03:29:42 Skytel [004524770] A  ALPHA  pormeb01:  Trunk Alarm from pormeb01 reason path-yellow: Status Fail Slot 1 Port 3 at 00:53:43 on 9/11
+2001-09-11 03:29:44 Skytel [007591537] A SH/TONE 004-1100
+2001-09-11 03:29:44 Skytel [007504630] B ST NUM  671-437-7771-43
+2001-09-11 03:29:44 Skytel [002750709] B SH/TONE 76245   
+2001-09-11 03:29:46 Skytel [002396296] C  ALPHA  joem@conxion.net|Please disregard page.  Thanks| 
+2001-09-11 03:29:48 Skytel [002401821] D  ALPHA  sassas00 Distributed Monitoring pf.ussa11.OTSW.dm.sassas00/Daemon status on host sassas00 09/11/01 00:16:19 PDT  Status: >>> critical <<<   ussa11.SSMC 
+2001-09-11 03:29:48 Skytel [004397329] A ST NUM  322-140-2372-1126   
+2001-09-11 03:29:48 Skytel [002861584] A ST NUM  8685227799
+2001-09-11 03:29:48 Skytel [007582749] D SH/TONE 564-0265
+2001-09-11 03:29:50 Metrocall [0153352] C  ALPHA  Frm: Kamesh Ramanathan 225 Su...........................................................................................................................................................................
+2001-09-11 03:29:50 Metrocall [1064378] C  ALPHA  ..........................................
+2001-09-11 03:29:50 Skytel [004417186] A ST NUM  370-0311-2
+2001-09-11 03:29:50 Skytel [005358755] A  ALPHA  [02/02] Application has been notified.
+2001-09-11 03:29:52 Metrocall [0300391] B  ALPHA  _01Z00_02A)_1B"n6_1A8_1C3_09Odd_1A5 but _1A8True_1A9_1B&a _1C1MONKEY SIGHTINGS: It's not `Planet of the Apes.' It's more like town of the monkey. About a dozen people in Danville, New Hampshire, report seeing a large monkey on the loose, including Fir
+2001-09-11 03:29:52 Metrocall [1064395] C  ALPHA  )?#`BAJHIAB@DbST`sKJBCUcuZ]QACgsj]V[EiHH\~]FdqHlzGEPQJT~aSPUIzAbrXKgBBMRgsTCEdtWLdDf\`eUYee[IipXj@RA@u_z@L
+2001-09-11 03:29:52 Metrocall [1064378] C  ALPHA   120.8 FROM 124.2 IN JULY-ISAE
+2001-09-11 03:29:53 Skytel [007438026] C SH/TONE 3333 (94
+2001-09-11 03:29:53 Skytel [005098183] B  ALPHA  2 way test @ 229 -Plano 2 Way Ops
+2001-09-11 03:29:54 Metrocall [0300391] B  ALPHA  e Chief David Kimball. He describes the animal as being about four feet tall, with woolly, brown fur. Kimball figures it's an escaped pet, but the owner doesn't want to report it because monkeys are illegal in the state. _0D_1C2TOUGH FIT: At six-seven 
+2001-09-11 03:29:56 Metrocall [0300391] B  ALPHA  and 405 pounds, Carl `Boomer' Nott is a big kid. He's too big to play football. The coaches at Vermont's Hartford High School would love to have Boomer on the field. They just can't find a helmet to fit him. They've talked with pro and college teams an
+2001-09-11 03:29:58 Metrocall [0300398] D  ALPHA  _01Z00_02A._030074_04
+2001-09-11 03:29:58 Metrocall [0300388] B  ALPHA  _01Z00_02Av_04
+2001-09-11 03:29:58 Metrocall [0300388] B  ALPHA  _01Z00_02Al_04
+2001-09-11 03:29:58 Metrocall [0300391] B  ALPHA  d haven't been able to locate large enough regulation headgear... _04
+2001-09-11 03:29:58 Metrocall [0300387] A  ALPHA  _01Z00_02A=_1B a_1A1_1C1Copyright 1998 DATACAST_0D_1B n5_1C1_1A8DirectView_1CB_1B n7DirectVi
+2001-09-11 03:29:58 Metrocall [1064378] C  ALPHA  TRICHET SEES EUROZONE GROWTH OF AROUND 2.0 PCT FOR 2001
+2001-09-11 03:29:58 Metrocall [1064395] C  ALPHA  )?#`B@|HIAA@CbiRdpyDVh`iqXmMAEjti}j_NbhH}J_WjRDD~L``ti}V]DPLesAAPauDDZ_RPLfCAb`D`PMW~xC
+2001-09-11 03:29:58 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1917

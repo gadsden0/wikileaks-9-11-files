@@ -1,0 +1,65 @@
+2001-09-12 02:33:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4692
+2001-09-12 02:33:00 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Disk used % for /clients/IVR/home/rswwwp/work is 86; > than 80
+2001-09-12 02:33:01 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-12 02:33:01 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192706. 
+2001-09-12 02:33:01 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=EQFA  Mode=Incremental_Dump         # Our PID=25509    time='09/12/01 02:30:21'    sybase o
+2001-09-12 02:33:02 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-12 02:33:04 Arch [0987275] C  ALPHA  s0191: 09/11 15:41:26 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:41:26
+2001-09-12 02:33:05 Skytel [005001895] B  ALPHA  [sps/18] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/seem/healthcheck.asp) 6:28:40
+2001-09-12 02:33:06 Arch [1657188] B  ALPHA  NCAGBRGQ02:Device Inaccessible
+2001-09-12 02:33:06 Skytel {0099016} 1 1200 2320 
+2001-09-12 02:33:12 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 160 processes on report1.ccbill.com. Timestamp key: 20010911233100 
+2001-09-12 02:33:12 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: winkops1 Sev:4 # 801032 NoValidDSMServerConnections BarnesAndNobleSM X.X 09/11/01 23:32:43 PDT7 Instance: PID_827_TID_1 Module: _checkConnectivity Details: Unable to connect to any DSM Servers. Will not proceed.
+2001-09-12 02:33:12 Metrocall [002700559] D  ALPHA  Frm: MyOnTheGoPortfolio News Sub: Txt: Airport Security Reinforced
+2001-09-12 02:33:12 Metrocall [1589620] B  ALPHA  Frm: noc@atlantech.net Txt: cf2.bid4assets.com - HTTP is UP
+2001-09-12 02:33:12 Metrocall [1589615] D  ALPHA  Frm: noc@atlantech.net Txt: cf2.bid4assets.com - HTTP is UP
+2001-09-12 02:33:14 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 161 processes on report1.ccbill.com. Timestamp key: 20010911233101 
+2001-09-12 02:33:14 Arch [0625740] D  ALPHA  cmattson: Ron schuster conf call 816-650-0605 PIN 10251
+2001-09-12 02:33:19 Arch [0987275] C  ALPHA  s0191: 09/11 15:47:33 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:47:34
+2001-09-12 02:33:19 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=gsm_rt  Mode=Incremental_Dump         # Our PID=24572    time='09/12/01 02:30:15'    sybase
+2001-09-12 02:33:19 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192713. 
+2001-09-12 02:33:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1045
+2001-09-12 02:33:21 Arch [0987275] C  ALPHA  s0191: 09/11 15:50:15 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:50:16
+2001-09-12 02:33:21 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=SBL  Mode=Incremental_Dump         # Our PID=24992    time='09/12/01 02:30:18'    sybase on
+2001-09-12 02:33:21 Arch [0911037] D  ALPHA  :The Problem with ID 00330734 Severity 2 Description  mopf21.pitts.bayer.com- Node Down. has not been resolved.It has been escalated to level 3 on 09/11/2001 at 19:51:39.
+2001-09-12 02:33:24 Skytel {0143279} 3 1200 202-685-7650   
+2001-09-12 02:33:25 Arch [1339701] B  ALPHA  Ed Valle <EVALLE|FW: A new Service Request: 10160|SR#: 10160023 Assigned to SLIU Account: Regarding "Quartus temporary License" Please review and update this service request in Siebel. As a reminder, please continue to prioritize mySupport s
+2001-09-12 02:33:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3301
+2001-09-12 02:33:30 Metrocall [1589615] D  ALPHA  Frm: monitor@bid4assets.com Sub: 2001-9-12, 02:37:29, CF2, HTTP, cf2.bid4assets.com:80, Pagers, Server failed to handle request, Txt: 2001-9-12, 02:37:29, CF2, HTTP, cf2.bid4assets.com:80,
+2001-09-12 02:33:30 Metrocall [0000329] C  ALPHA  THIS I.....E....R..D.....G..........................
+2001-09-12 02:33:32 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 80.76 85.42 78.27 Tue Sep 11 23:34:00 MST 2001 
+2001-09-12 02:33:32 Metrocall [1589615] D  ALPHA   Pagers, Ser
+2001-09-12 02:33:32 Skytel [007047306] C SH/TONE 3191    
+2001-09-12 02:33:33 Skytel [002861584] A ST NUM  8685429395
+2001-09-12 02:33:35 Skytel [004180257] A ST NUM  818-527-1771 (11    
+2001-09-12 02:33:35 Skytel [007459238] B ST NUM  410-636-9417   
+2001-09-12 02:33:35 Skytel [005320235] C  ALPHA  890-9988 U [400.CELLULAR            
+2001-09-12 02:33:35 Skytel [003781807] D SH/TONE 845-8744
+2001-09-12 02:33:35 Skytel [005113769] C SH/TONE 3183    
+2001-09-12 02:33:36 Arch [0247328] A  ALPHA  "~Guardian (CAP,|Guardian Alert|-------Detail-------- Console Comment: Node Down Failed to reach server RALSFILES. 
+2001-09-12 02:33:36 Arch [1657188] B  ALPHA  NCAGBRPRTA:Device Inaccessible
+2001-09-12 02:33:37 Skytel [005521715] A  ALPHA  DSST, Kevin, | * Very Important* - Please do not perform any data loads on any system until further notice.  There was block maintenance done on all sites and data loads will effect the changes made.  Any questions contact Rebecca Prengel -
+2001-09-12 02:33:37 Skytel [004102587] C  ALPHA  718-515-9437 (53
+2001-09-12 02:33:39 Skytel [003897408] A  ALPHA  DSST, Kevin, | * Very Important* - Please do not perform any data loads on any system until further notice.  There was block maintenance done on all sites and data loads will effect the changes made.  Any questions contact Rebecca Prengel -
+2001-09-12 02:33:39 Skytel [007574981] B ST NUM  852-105-3911-11
+2001-09-12 02:33:39 Skytel [005363785] C SH/TONE 3148    
+2001-09-12 02:33:40 Arch [0912340] B  ALPHA  NW, 2666 PARK HEIGHTS AVE., SHOOTING, MALE SHOT IN LEG.
+2001-09-12 02:33:41 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job73730,83092 SNYC00764 09/12 02:33 EVENTLOG,SERVICES
+2001-09-12 02:33:42 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=itg  Mode=Incremental_Dump         # Our PID=25894    time='09/12/01 02:30:24'    sybase on
+2001-09-12 02:33:42 Arch [0987275] C  ALPHA  s0191: 09/11 11:42:59 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:42:59
+2001-09-12 02:33:43 Skytel [005350248] C SH/TONE 1914    
+2001-09-12 02:33:43 Skytel [007596901] B SH/TONE 85450   
+2001-09-12 02:33:43 Skytel [007543526] B ST NUM  0-562-693-4820 
+2001-09-12 02:33:43 Skytel [007491946] C ST NUM  954-670-0411-911143 
+2001-09-12 02:33:43 Skytel [007573481] C ST NUM  909-930-1783   
+2001-09-12 02:33:43 Skytel [007589225] C SH/TONE 3375    
+2001-09-12 02:33:43 Skytel [003665006] D SH/TONE 293-8341
+2001-09-12 02:33:44 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=lis  Mode=Incremental_Dump         # Our PID=26346    time='09/12/01 02:30:27'    sybase on
+2001-09-12 02:33:44 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2566..
+2001-09-12 02:33:45 Skytel [005094397] D  ALPHA  NTManage@bsmg.com|Message from NTManage|This Message is from NMS: Device Name: TBGI_NT Address: 144.210.154.2 is Not Reachable Type: Windows NT Server/NOTES SE Ping: REQ Timed Out NMS: Device in severe error state - all other checks aborted
+2001-09-12 02:33:49 Skytel [004534043] C SH/TONE 1       
+2001-09-12 02:33:54 Skytel [008507076] B  ALPHA  01864h4b1ab010800002g
+2001-09-12 02:33:54 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:33:58 Skytel [005201254] B  ALPHA  notify@TUTOPIA.COM|Notification:Our home was attacked.|De: <Horoscope@Mailer.Mailbits.com> Asunto: Our home was attacked. Fecha: Wed, 12 Sep 2001 01:57:38 -0400 Para: <RLLANES@TUTOPIA.COM>  Esta es la cabecera de un nuevo mensaje enviado a 
+2001-09-12 02:33:58 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #35-IX_T4005
+2001-09-12 02:33:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8123

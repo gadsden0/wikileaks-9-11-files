@@ -1,0 +1,63 @@
+2001-09-11 05:57:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2064
+2001-09-11 05:57:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2064
+2001-09-11 05:57:00 Metrocall [1064378] C  ALPHA  RECORD LOW CPI FAILS TO LIFT FORINT INTO CBANK RANGE
+2001-09-11 05:57:00 Metrocall [1064395] C  ALPHA  ......................................................................................
+2001-09-11 05:57:00 Metrocall [1064381] D  ALPHA  ..............................
+2001-09-11 05:57:03 Skytel [004744856] C ST NUM  801-853-7192 (1
+2001-09-11 05:57:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6886
+2001-09-11 05:57:07 Skytel [007503156] B SH/TONE 6309    
+2001-09-11 05:57:07 Skytel [007655608] C SH/TONE 143     
+2001-09-11 05:57:07 Skytel {1328275} 1 1200 19030
+2001-09-11 05:57:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178733. 
+2001-09-11 05:57:08 Arch [0000101] B  ALPHA  MSN 006 hello Message from NOC PCB.
+2001-09-11 05:57:09 Metrocall [0277909] B  ALPHA  9-11-01 5:50 PAGE01 FAN 31 RETURN FAN IS IN FLOW ALARM CHECK ASAP. IF UNABLE TO CORRECT CONTACT GEORGE THORNE. ON
+2001-09-11 05:57:09 Metrocall [002589906] A  ALPHA  Frm: ams4tt@amsapp01-c1.sc.attws.com Sub: AMS-TT: TT677190 Txt: Critical; TT677190; TR User Assign; T
+2001-09-11 05:57:09 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage on DIY ended after 672 seconds 09/11/01 02:55:06 PDT7 623031
+2001-09-11 05:57:09 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage on CBS/WBBM ended after 673 seconds 09/11/01 02:55:
+2001-09-11 05:57:11 Metrocall [002589906] A  ALPHA  RANSMISSION; TELCO; CELL SITE; 09/11/01 02:56:45; WHPT2LU;X132 - ;We are getting massive bit and CRC errors. Also we see intermittent frame errors. Please open a ticket with Veriz
+2001-09-11 05:57:11 Metrocall [0477913] C  ALPHA  13 PDT7 623011
+2001-09-11 05:57:13 Arch [1302348] D  ALPHA  215
+2001-09-11 05:57:20 Metrocall [1544818] A  ALPHA  MTZ-NS1:Device Inaccessible
+2001-09-11 05:57:20 Metrocall [1064375] B  ALPHA  /FTSE  5116.50  +082 NIKK  10292.95  +097 DAX    4738.82  +068 CAC40  4441.86  +058 MIB30  31835   +0271 HSI  10417.36  +0051 30 _99.02/03  5.438% GOLD271.30/180  -020 S 4.18/20  PL 
+2001-09-11 05:57:21 Arch [1050283] C  ALPHA  Yahoo! Calendar|Daily Calendar, 9/11/2001, 1 Event Today |--YCalReminder=P8jQBafkkm2QbdKT1000202027 Content-type: text/plain; charset=us-ascii; Yahoo! Calendar for Tuesday September 11, 2001 From the Calendar of raycastus|221  
+2001-09-11 05:57:21 Arch [1050307] A  ALPHA  93-PLEASE CALL ERIC @ 919-271-4411.
+2001-09-11 05:57:21 Arch [0908432] A  ALPHA  jredlick|rick, I am on the line with Jeff Lee and Shawn Hendrickson right now. You can call me at : (707) 829-6416 and I can conf. you in. Jeff   
+2001-09-11 05:57:24 Metrocall [1064375] B  ALPHA  440.00 PD 450.00/0.00  +000 JG 1.420%
+2001-09-11 05:57:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9809
+2001-09-11 05:57:28 Arch [1082628] B  ALPHA  (23)syswatch: HOST/PROCESS - resswext.sec.sprint.net:CLIENT PROBLEM ID -HOSTFAIL1~resswext.sec.sprint.net~furon PROBLEM AREA - HOST FAILDESCRIPTION - furon: 2 min NO RESPONSE (PING FAIL)
+2001-09-11 05:57:28 Arch [0970454] B  ALPHA  (32)DI:-*Calculating-Summaries(4:56:48
+2001-09-11 05:57:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3457
+2001-09-11 05:57:31 Skytel [004731649] A  ALPHA  CALL ME AT 7 WAKE ME UP, ERICA
+2001-09-11 05:57:31 Skytel [003947407] D  ALPHA  ECCFTP01:Device Accessible,Device Status:Ok
+2001-09-11 05:57:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 02:56:36 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:57:33 Metrocall [1060056] C  ALPHA  1 SCRAP        Defect(s) for PRESS        F01R        on tire  TA73    Def 470 SEG RECLOSE ON TIRE            Prev msg- 2001/09/09 07:24:07:58
+2001-09-11 05:57:33 Metrocall [1064385] A  ALPHA  JY  8207/8275  -068 EC  8964/8946 -0037 BP 14558/14506 -022 SF  5917/5922  -021 CD  6401/6396  +00
+2001-09-11 05:57:33 Skytel [007575575] B  ALPHA  [MINOR] dijon: File-system "/biller/wnet/data/parser" is now 86% full.
+2001-09-11 05:57:33 Skytel [004075031] B ST NUM  504-597-8312 (71    
+2001-09-11 05:57:35 Metrocall [1064385] A  ALPHA  3 AD  5133/5116  -009 DM  4602/4591  -026 FES 9696/734/742/32 FDX 4743/4794  +056 PTB 8955/8866  -023 FGBS10357 FYB 13897 BDL 10807/10800-018 BDM 10716-012
+2001-09-11 05:57:35 Skytel [004417186] A ST NUM  370-0311-2
+2001-09-11 05:57:37 Skytel [005205694] D  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS]
+2001-09-11 05:57:37 Skytel [002817970] A  ALPHA  sitescope@crispy.di.merc-int.com| ALERT App/Topaz/SLM - Login Logout missing link "" on step 4 (http://twm-srv.me...|  Time:     2:53 AM 9/11/01 Response from server:   HTTP/1.1 200 OK    Server: Microsoft-IIS/4.0    Date: Tue, 11 Sep 2001 
+2001-09-11 05:57:38 Skytel [005330890] C SH/TONE 3303    
+2001-09-11 05:57:39 Metrocall [002110193] A  ALPHA  Take your meds.
+2001-09-11 05:57:39 Metrocall [002472775] B  ALPHA  Time to take medication.
+2001-09-11 05:57:39 Metrocall [1850070] B  ALPHA  From: Pam NelsonWalter I put you PD until 06:00 on the 12th. Also you need to leave a voice mail for the liason Dave is covering for carolyn
+2001-09-11 05:57:42 Skytel [005112809] C  ALPHA  04:56CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240464: Uncorrectable write error
+2001-09-11 05:57:42 Skytel [005436525] D  ALPHA  Test Message #85-IX_T0302
+2001-09-11 05:57:42 Skytel [003497451] C SH/TONE   (73   
+2001-09-11 05:57:42 Skytel [004524770] A  ALPHA  wil-CollegeOfStJoseph-RutlandVT-: CPE Up at 00:59:01 on 9/11
+2001-09-11 05:57:45 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178740. 
+2001-09-11 05:57:50 Skytel [005259174] B SH/TONE 28571   
+2001-09-11 05:57:52 Metrocall [1043056] A  ALPHA  Time to take your medication.
+2001-09-11 05:57:52 Metrocall [002160423] B  ALPHA  Time to take your medication.
+2001-09-11 05:57:52 Metrocall [002110161] A  ALPHA  Time to take medication.
+2001-09-11 05:57:53 Skytel [007438026] C SH/TONE 3333 (4 
+2001-09-11 05:57:53 Skytel [003641413] B ST NUM  710-395-0580 (85    
+2001-09-11 05:57:54 Arch [0927891] A  ALPHA  9103
+2001-09-11 05:57:56 Arch [1654898] A  ALPHA  netsaint <netsai|** PROBLEM: alert - SnappsMain/C|*** Server Alert *** Alert Type: PROBLEM Service: CheckHTTP Host: SnappsMain Address: 209.15.192.200 State: CRITICAL Date/Time: Tue Sept 11 05:59:16 EDT 2001 Additional Info: Connection refu
+2001-09-11 05:57:56 Arch [1427708] D  ALPHA  netsaint <netsai|** PROBLEM: alert - SnappsMain/C|*** Server Alert *** Alert Type: PROBLEM Service: CheckHTTP Host: SnappsMain Address: 209.15.192.200 State: CRITICAL Date/Time: Tue Sept 11 05:59:17 EDT 2001 Additional Info: Connection refu
+2001-09-11 05:57:58 Arch [0039822] D  ALPHA  329-2550
+2001-09-11 05:57:58 Metrocall {1211085} 3 2400 1905-8..
+2001-09-11 05:57:58 Metrocall {1250894} 1 2400 F:oracleadm@sig.com (Oracle Admin) S:MON-1031 Disk Storage Alert on /rockies/archive-phys-rockies-a B:/dev/vx/dsk/oradg/archive 32249632 28883904 3043232 91% /rockies/archive...
+2001-09-11 05:57:59 Skytel [008513138] A  ALPHA  HOLA, NO PUEDO DORMIR. ESTAS DESPIERTA? ESTOY AQUI DESPIERTO Y PENSANDO Y SI CREO QUE SIN FALTA ESTE MES DEBES LLEVAR A DAVID A REGISTRAR. PODEMOS DECIR A TU AYUDANTE QUE ABRA EL LOCAL MIENTRAS ESTAS ALLA Y PUEDO SI QUIERES MANDAR A PAUL A CHECAR S
+2001-09-11 05:57:59 Skytel [005328380] D SH/TONE 800-7902

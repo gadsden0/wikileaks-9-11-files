@@ -1,0 +1,80 @@
+2001-09-12 01:45:00 Skytel [005243127] B SH/TONE 239     
+2001-09-12 01:45:00 Skytel [005092733] D  ALPHA  dss@tcysnp34.travelocity.com|TCYSNP34 Failure executing stage_input_error.csh at 2001-09-12 00:45:00| 
+2001-09-12 01:45:00 Skytel [005072766] D SH/TONE 211     
+2001-09-12 01:45:01 Arch [0987275] C  ALPHA  s0191: 09/11 12:44:46 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:44:47
+2001-09-12 01:45:02 Skytel [007046275] A SH/TONE 2911    
+2001-09-12 01:45:02 Skytel [007617548] D  ALPHA  MSN ||Hotmail Christina Tsafoulias:ignore all my emails, the computer gods hate 
+2001-09-12 01:45:03 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-12 01:45:03 Arch [0241791] D  ALPHA  (10)REQQ time limit exceeded for:PASSPORT_FTW_O:12-sep-2001 00:02
+2001-09-12 01:45:05 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-12 01:45:05 Arch [0241791] D  ALPHA  (11)REQQ time limit exceeded for:PASSPORT_CHA_A:12-sep-2001 00:02
+2001-09-12 01:45:05 Skytel [005001895] B  ALPHA  [sps/18] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/seem/healthcheck.asp) 3:18:37
+2001-09-12 01:45:06 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-12 01:45:06 Arch [0241791] D  ALPHA  (12)REQQ time limit exceeded for:PASSPORT_SAT_D:12-sep-2001 00:02
+2001-09-12 01:45:06 Skytel {0005398} 1 1200 (3 OF 5): Online War Team; MS Pager System Subject: RE: Premier UAT site appears down, cannot wait until Wednesday Importance: High  To resolve a server issue, we will need to have SSIT looking at it.  John, can you please check
+2001-09-12 01:45:12 Arch [0960250] C  ALPHA  CALL 825 7700 RM 231 FRED HRENCHIR
+2001-09-12 01:45:12 Metrocall [004067549] D  ALPHA  ETA FOR TOW TRUCK IS 20 MINUTES
+2001-09-12 01:45:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0997
+2001-09-12 01:45:23 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-12 01:45:23 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192160. 
+2001-09-12 01:45:25 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-12 01:45:25 Arch [0979720] C  ALPHA  |Recvd an email message at void@onebox.com |from <Billing@Interland.net> subject: Account Past Due Notice for ladypussycat.com http://www.onebox.com/m/n?m=1665&u=1726928|169  
+2001-09-12 01:45:27 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-12 01:45:29 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-12 01:45:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3253
+2001-09-12 01:45:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3253
+2001-09-12 01:45:32 Skytel [005236495] D ST NUM  110005052 
+2001-09-12 01:45:32 Skytel [005006350] D  ALPHA  fmsap094: CRS: Update performance:WARNING
+2001-09-12 01:45:33 Arch [1272423] B  ALPHA  (15)bb:1: [2457010] red Tue Sep 11 22:45:13 PDT 2001 - Disk onssc-sac-p1,corp,sprint,com at PANIC level &red /var (95%) hasreached the defined disk space PANIC level (95%)/dev/vx/dsk/p1_unix/p1sybase 2879972 895228 1696747 35%
+2001-09-12 01:45:33 Skytel [002392598] B  ALPHA  01:45:12 AM
+2001-09-12 01:45:33 Skytel [005213592] C ST NUM  903-468-0590   
+2001-09-12 01:45:33 Skytel [007600671] D SH/TONE 77125   
+2001-09-12 01:45:35 Arch [1272423] B  ALPHA  (16)bb:2: /p1sybase/dev/vx/dsk/p1_unix/logs 287982 122942 136242 48% /logs/dev/vx/dsk/rootdg/nsr 983020 434347 450371 50% /nsr/dev/vx/dsk/rootdg/usr 508039 264130 193106 58% /usr/dev/vx/dsk/p1_unix/autosys 287982 149644 109540
+2001-09-12 01:45:35 Skytel [007099695] D  ALPHA  wfinley@hotwire.com|1 Weblogic servers responding beyond 5000 ms|09/11/01-22:45:22  as06m.hotwire.com:7003    22012  Not OK!  
+2001-09-12 01:45:35 Skytel [004390436] B SH/TONE 17591   
+2001-09-12 01:45:35 Skytel [005000868] B SH/TONE 0500    
+2001-09-12 01:45:36 Arch [1272423] B  ALPHA  (17)bb:3: 58%/usr/vendor/autotree/autosys3_4 /dev/vx/dsk/p1_unix/export-home471414 264227 160046 63% /export/home /dev/vx/dsk/rootdg/opt 23999741360044 799933 63% /opt /dev/vx/dsk/p1_unix/datafiles 67113884061727 1978523 68%
+2001-09-12 01:45:37 Skytel [007509300] B  ALPHA  'mailer-daemon@aol.com|returned mail: service unavailable|The original message was received at Wed, 
+2001-09-12 01:45:37 Skytel [002406719] D SH/TONE 0500    
+2001-09-12 01:45:37 Skytel [005110712] C SH/TONE 106     
+2001-09-12 01:45:37 Skytel [004449466] C SH/TONE 251     
+2001-09-12 01:45:37 Skytel [005070261] B ST NUM  0-718-590-5743 
+2001-09-12 01:45:37 Skytel [005362367] D SH/TONE 2745 U  
+2001-09-12 01:45:37 Skytel [005358000] A  ALPHA  NAIUnitedStatesCALIFORNIA@Dolch.com|ALERT -  GroupShield ticket number OA41_1000273540_CALIFORNIA was  generated|Action Taken: The attachment was quarantined from the message and replaced with a = text file informing the recipient of th
+2001-09-12 01:45:39 Skytel [008456525] D  ALPHA  31Be011?F?5??5??5?=5?=5?=5?_?F=5?=5?=5?_?F=5?=5?=5?_?F1?F?5??5??5?1?F?5??5??5?1?F?5??5??5?
+2001-09-12 01:45:39 Skytel [005330115] A  ALPHA  THIS IS VILETTER. PLEASE CALL ME AT 770 9421.
+2001-09-12 01:45:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:45:39 Skytel [007555904] A  ALPHA  NAIUnitedStatesCALIFORNIA@Dolch.com|ALERT -  GroupShield ticket number OA41_1000273540_CALIFORNIA was  generated|Action Taken: The attachment was quarantined from the message and replaced with a = text file informing the recipient of th
+2001-09-12 01:45:39 Skytel [005358000] A  ALPHA  e ac
+2001-09-12 01:45:40 Metrocall [0827484] D  ALPHA  Frm: RAdmin@Vision-ins.com Sub: Fax server VNTNT05 up for 0012:04:12:40 (d:h:m:s); load:0%; faxes sent:164755, rcvd:250924.
+2001-09-12 01:45:41 Skytel [003951056] A  ALPHA  csaa-192.168.202.7 Critical CSAA NT_Server csaa-192.168.202.7 Down ussa11.SSMC 
+2001-09-12 01:45:41 Skytel [002377811] A  ALPHA  gwsho@exchange.ml.com|IWSEUR7 : Device Inaccessible|'Device Inaccessible' alarm received from IWSEUR7 at 1:16AM on 9/12/01  A 'Device Inaccessible' alarm signifies that Compaq Insight Manager is not currently receiving network responses fro
+2001-09-12 01:45:41 Skytel [007555904] A  ALPHA  e ac
+2001-09-12 01:45:41 Skytel [005004368] A  ALPHA  sysNETIQsvc: LON job(s) 231478 SBON48P00001 2001/09/12 06:43 EVENTLOG
+2001-09-12 01:45:41 Skytel [003443166] D ST NUM  0-310-820-9944 
+2001-09-12 01:45:41 Skytel [003256927] D  ALPHA  GIVE ME A CALL I NEED TO TALK TO YOU . 222 2682 
+2001-09-12 01:45:41 Skytel [005107667] A  ALPHA  NAIUnitedStatesCALIFORNIA@Dolch.com|ALERT -  GroupShield ticket number OA41_1000273540_CALIFORNIA was  generated|Action Taken: The attachment was quarantined from the 
+2001-09-12 01:45:42 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 01:45:43 Skytel [005201376] A ST NUM  918-209-1753   
+2001-09-12 01:45:43 Skytel [007553888] A  ALPHA  896-6731No Answer Southfield Backup 248-552
+2001-09-12 01:45:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #89-IX_T1707
+2001-09-12 01:45:43 Skytel [005107667] A  ALPHA  message and replaced with a = text file informing the recipient of the ac
+2001-09-12 01:45:43 Skytel [005069928] C ST NUM  360-273-7007   
+2001-09-12 01:45:44 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-12 01:45:44 Arch [1272423] B  ALPHA  (18)bb:4: /datafiles /dev/vx/dsk/p1_unix/production 383982237409 108175 69% /production /dev/vx/dsk/rootdg/openwin 288326204757 54737 79% /usr/openwin /dev/vx/dsk/p1_unix/oracle-new 287982223353 35831 87% /oracle
+2001-09-12 01:45:44 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2518..
+2001-09-12 01:45:45 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Disk used % for /clients/IVR/home/rswwwp/work is 86; > than 80
+2001-09-12 01:45:47 Skytel [005044104] C  ALPHA  scott.thomas@lamrc.com|Lab DB - Hitachi 4 used more than allowable time limit.|The next user is waiting to use Hitachi 4. You have been using the tool for 302 minutes and your allowable time on the tool has expired, please end your session 
+2001-09-12 01:45:49 Metrocall [1064378] C  ALPHA  UPDATE 1-MORE THAN 300 FIREFI..............................
+2001-09-12 01:45:49 Metrocall [1064395] C  ALPHA  .................@..`..p.............................. .h............................@.NfPTC
+2001-09-12 01:45:49 Skytel [005080978] A ST NUM  201-843-2294   
+2001-09-12 01:45:50 Skytel [007545387] C SH/TONE 306-7977
+2001-09-12 01:45:52 Skytel [005325115] C  ALPHA  VOICE MESSAGE [558
+2001-09-12 01:45:53 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 01:45:53 Arch [1272423] B  ALPHA  (19)bb:e: /dev/vx/dsk/rootdg/rootvol 52015 41586 522889% / /dev/vx/dsk/rootdg/var 1071871 957652 60626 95% /var Pleasesee:http://ssc-sac-bs1.west.sprint.com/bb/html/ssc-sac-p1.corp.sprint.com.disk.html -oo-
+2001-09-12 01:45:54 Skytel [005061058] A ST NUM  765-297-2911   
+2001-09-12 01:45:55 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-12 01:45:57 Arch [0969351] B  ALPHA  WHAT IS YOUR ETA TO REMCS From: REMCS Supv.
+2001-09-12 01:45:58 Skytel [004436586] C ST NUM  0-860-947-1988-770  
+2001-09-12 01:45:58 Skytel [005242857] C ST NUM  801-268-7151   
+2001-09-12 01:45:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8075

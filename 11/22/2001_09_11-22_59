@@ -1,0 +1,179 @@
+2001-09-11 22:59:00 Arch [0697588] B  ALPHA   UNITED TELEPHONE SE
+2001-09-11 22:59:00 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7908
+2001-09-11 22:59:01 Metrocall [002110359] B  ALPHA  Time for meds!
+2001-09-11 22:59:01 Metrocall [002110476] D  ALPHA  Take meds.
+2001-09-11 22:59:01 Metrocall [002110356] B  ALPHA  Time to take meds.
+2001-09-11 22:59:02 Skytel [005507211] C  ALPHA  B
+2001-09-11 22:59:02 Skytel [007517962] C ST NUM  210-535-9968   
+2001-09-11 22:59:02 Skytel [007577743] D SH/TONE 834-1661
+2001-09-11 22:59:03 Skytel [003258002] A ST NUM  303-509-7709   
+2001-09-11 22:59:03 Skytel [005226005] B SH/TONE 866     
+2001-09-11 22:59:03 Skytel [002394391] B  ALPHA  ORCL 11.46 UNCH MOT 15.04 UNCH DELL 22.57 UNCH
+2001-09-11 22:59:03 Skytel [003272095] D ST NUM  9002091369
+2001-09-11 22:59:03 Skytel [0048152] C  ALPHA  PRODUCCION DE HOY OLGA 6,700 A 1.11 LA SIERRA 5,096 0.77 PANA 3,648 A 1.11 GENERAL Y 1.05 DE PRIMERA INF. IRVING V. (2 (3
+2001-09-11 22:59:03 Skytel [007040275] A  ALPHA  ddecore@us.ibm.com||UNUM BI=Y 1800-533-9695 p/c 1321144<problem near resolution>   
+2001-09-11 22:59:04 Arch [0988580] B  ALPHA  Sev1 updated Esc S3041452 DOMINIC JOSEPH 2126381539 55 WATER ST2 GLOBAL INVESTMENT BANKING EMCNCCOPS    09/11/01 22:58:29
+2001-09-11 22:59:04 Arch [0904066] A  ALPHA  Sev1 updated Esc S3041452 DOMINIC JOSEPH 2126381539 55 WATER ST2 GLOBAL INVESTMENT BANKING EMCNCCOPS    09/11/01 22:58:
+2001-09-11 22:59:04 Arch [1611051] C  ALPHA  Sev1 u..a..d..s.S..4A.5..D.........................................................................   09/11/01 22:58:29
+2001-09-11 22:59:04 Arch [0970594] A  ALPHA  Sev1 updated Esc S3041452 DOMINIC JOSEPH 2126381539 55 WATER ST2 GLOBAL INVESTMENT BANKING EMCNCCOPS    09/11/01 22:58:29
+2001-09-11 22:59:04 Arch [1047640] C  ALPHA  Sev1 updated..s.S.4A.5..D..I..C..........................................................................11/01 22:58:29
+2001-09-11 22:59:06 Arch [0904066] A  ALPHA  29
+2001-09-11 22:59:06 Skytel {1040064} 3 1200 8006524228
+2001-09-11 22:59:07 Skytel {1092655} 3 2400 002578    
+2001-09-11 22:59:08 Skytel {1329640} 3 1200 60261
+2001-09-11 22:59:08 Skytel {0008032} 1 1200 eSys update: eSys has had to leave the Richmond Data Center due to a bomb threat. We will return as soon as possible and notify. eSys.
+2001-09-11 22:59:11 Arch [0732038] B  ALPHA  (27)NCC Update: 9/11 New York, NY Verizon Outage affecting 48 DS3s. West St. Central Office is on fire. Verizon working on solutions att. . TCC tkt#2041302 NCC tkt#2041237 dlh
+2001-09-11 22:59:11 Arch [1440757] B  ALPHA  (1)NCC Update: 9/11 New York, NY Verizon Outage affecting 48 DS3s. West St. Central Office is on fire. Verizon working on solutions att. . TCC tkt#2041302 NCC tkt#2041237 dlh
+2001-09-11 22:59:11 Arch [0828617] C  ALPHA  24-PLEASE CALL PATTY AT HOME AT 908-852-8532.
+2001-09-11 22:59:11 Arch [0471274] C  ALPHA  (30)NCC Update: 9/11 New York, NY Verizon Outage affecting 48 DS3s. West St. Central Office is on fire. Verizon working on solutions att. . TCC tkt#2041302 NCC tkt#2041237 dlh
+2001-09-11 22:59:11 Arch [0697588] B  ALPHA  (3)10:ABS: Tkt:4970563, Sev:6, TIQ:162min, Queue:PLSO, Cust Name: RIVER CITY BANK
+2001-09-11 22:59:12 Metrocall [002588798] D  ALPHA  Take your Kaletra and Tizivir.
+2001-09-11 22:59:12 Metrocall [002110546] A  ALPHA  Time to take medication.
+2001-09-11 22:59:12 Metrocall [002110586] C  ALPHA  Take your meds.
+2001-09-11 22:59:12 Metrocall [1060099] A  ALPHA  Frm: MSN Txt: Hotmail Sarah J Moore:update from NY
+2001-09-11 22:59:12 Metrocall [1466337] A  ALPHA  09/11@21:56:15 DALDC01:The maste
+2001-09-11 22:59:12 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4478
+2001-09-11 22:59:12 Metrocall [1111466] C  ALPHA  09/11@21:56:15 DALDC01:The master browser has received a server announcement from the com
+2001-09-11 22:59:13 Arch [0697588] B  ALPHA  (4)11:ABS: Tkt:5005300, Sev:2, TIQ:158min, Queue:PLSO, Cust Name: SPRINT/UNITED EASTERN
+2001-09-11 22:59:14 Metrocall [1466337] A  ALPHA  r browser has received a server announcement from the computer HB-ICONECT that believes that it is the master browser for the domain on transport NetBT_Tcpip_{E7CD7022-9C94-48E. The master browser is stopping or
+2001-09-11 22:59:14 Metrocall [1111466] C  ALPHA  puter HB-ICONECT that believes that it is the master browser for the domain on transport NetBT_Tcpip_{E7CD7022-9C94-48E. The master browser is stopping or an
+2001-09-11 22:59:16 Metrocall [1466337] A  ALPHA  CONT:an election is being forced.
+2001-09-11 22:59:16 Metrocall [1111466] C  ALPHA  CONT:election is being forced.
+2001-09-11 22:59:17 Arch [1657188] B  ALPHA  NCAGBRGQ01:Device Inaccessible
+2001-09-11 22:59:17 Metrocall [1307476] B  ALPHA  (78) CALL RONNIE AT 804-392-9322(call id:8043929322)
+2001-09-11 22:59:17 Metrocall [1587859] A  ALPHA  Frm: michaelrumfelt@richlandonline.com Sub: CENTRAL Txt: JENNIFER @ CENTRAL NEEDS A PHONE CALL. RANDY
+2001-09-11 22:59:19 Arch [0977467] C  ALPHA  Sev1 updated Esc S3041452 DOMINIC JOSEPH 2126381539 55 WATER ST2 GLOBAL INVESTMENT BANKING EMCNCCOPS    09/11/01 22:58:29
+2001-09-11 22:59:19 Arch [0924725] B  ALPHA  Sev1 updated Esc S3041452 DOMINIC JOSEPH 2126381539 55 WATER ST2 GLOBAL INVESTMENT BANKING EMCNCCOPS    09/11/01 22:58:29
+2001-09-11 22:59:19 Metrocall [002110558] D  ALPHA  It's that time.
+2001-09-11 22:59:19 Metrocall [1279762] A  ALPHA  Take meds!
+2001-09-11 22:59:19 Metrocall [002106165] B  ALPHA  Time to take your medication.
+2001-09-11 22:59:19 Metrocall [1903101] D  ALPHA  Take meds .
+2001-09-11 22:59:19 Metrocall [002584300] D  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY LOS ANGELES (CNN) -- Several Arab an
+2001-09-11 22:59:21 Metrocall [002584300] D  ALPHA  d Muslim groups in California received threatening phone calls Tuesday in response to the
+2001-09-11 22:59:22 Arch [0632627] A  ALPHA  NCC Update: 9/11 New York, NY Verizon Outage affecting 48 DS3s. West St. Central Office is on fire. Verizon working on solutions att. . TCC tkt#2041302 NCC tkt#2041237 dlh
+2001-09-11 22:59:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0831
+2001-09-11 22:59:22 Arch [1656509] D  ALPHA  NCC Update: 9/11 New York, NY Verizon Outage affecting 48 DS3s. West St. Central Office is on fire. Verizon working on solutions att. . TCC tkt#2041302 NCC tkt#2041237 dlh
+2001-09-11 22:59:22 Arch [0987275] C  ALPHA  s0191: 09/11 12:36:48 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:36:48
+2001-09-11 22:59:22 Arch [1600758] B  ALPHA  (18)NCC Update: 9/11 New York, NY Verizon Outage affecting 48 DS3s. West St. Central Office is on fire. Verizon working on solutions att.
+2001-09-11 22:59:22 Arch [0478076] D  ALPHA  (8)NCC Update: 9/11 New York, NY Verizon Outage affecting 48 DS3s. West St. Central Office is on fire. Verizon working on solutions att. . TCC tkt#2041302 NCC tkt#2041237 dlh
+2001-09-11 22:59:22 Arch [0926604] D  ALPHA  NM CALLING - Compaq Environmental failure HealthStatFSM occurred 
+2001-09-11 22:59:24 Arch [0987275] C  ALPHA  s0191: 09/11 12:44:46 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:44:47
+2001-09-11 22:59:24 Arch [1600758] B  ALPHA   . TCC tkt#2041302 NCC tkt#2041237 dlh
+2001-09-11 22:59:24 Arch [0926604] D  ALPHA  on MRDAP10
+2001-09-11 22:59:26 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-11 22:59:28 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-11 22:59:31 Metrocall [002589971] A  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY LOS ANGELES (CNN) -- Several Arab and Muslim groups in California received threatening phone calls Tuesday in response to the terrorist attacks on the World Trade Center and 
+2001-09-11 22:59:31 Metrocall [002110516] B  ALPHA  Time to take medication.
+2001-09-11 22:59:31 Metrocall [1062336] A  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY LOS ANGELES (CNN) -- Several Arab and Muslim groups in California received threatening phone calls Tuesday in response t
+2001-09-11 22:59:32 Metrocall [1544820] B  ALPHA  ODC-MAIL02 "Server ODC-MAIL02/MSVR/KAIPERM - The following pending documents in mail2.box are older than 30 minutes E37D2"
+2001-09-11 22:59:32 Metrocall [002589971] A  ALPHA  the Pentagon. Maha Elgenaidi, ex
+2001-09-11 22:59:32 Metrocall [1062336] A  ALPHA  o the terrorist attacks on the World Trade Cen
+2001-09-11 22:59:32 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3087
+2001-09-11 22:59:32 Skytel [007101315] A  ALPHA  eSys update: eSys has had to leave the Richmond Data Center due to a bomb threat. We will return as soon as possible and notify. eSys
+2001-09-11 22:59:32 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 19:58:27 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 22:59:32 Skytel [005212672] A  ALPHA  eSys update: eSys has had to leave the Richmond Data Center due to a bomb threat. We will return as soon as possible and notify. eSys
+2001-09-11 22:59:34 Arch [1602952] C  ALPHA  Oracle User <ora|IMPPRD|00000 09/11/01 23:00:00 
+2001-09-11 22:59:34 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3087
+2001-09-11 22:59:34 Metrocall [0476085] B  ALPHA  Frm: Y! Txt: Fr: memories@corp.classmates.com *Kevin, You Have New Classmates!* Hi, Kevin. There's gre Mail
+2001-09-11 22:59:35 Arch [1082912] A  ALPHA  (3)NCC Update: 9/11 New York, NY Verizon Outage affecting 48 DS3s. West St. Central Office is on fire. Verizon working on solutions att. . TCC tkt#2041302 NCC tkt#2041237 dlh
+2001-09-11 22:59:35 Arch [0811974] B  ALPHA  NCC Update: 9/11 New York, NY Verizon Outage affecting 48 DS3s. West St. Central Office is on fire. Verizon working on solutions att. . TCC tkt#2041302 NCC tkt#2041237 dlh
+2001-09-11 22:59:35 Arch [1009421] D  ALPHA  (9)NCC Update: 9/11 New York, NY Verizon Outage affecting 48 DS3s. West St. Central Office is on fire. Verizon working on solutions att. . TCC tkt#2041302 NCC tkt#2041237 dlh
+2001-09-11 22:59:36 Arch [0908432] A  ALPHA  |Tierra's Birthday, 9/11/2001, 9:00 pm |give her a call and send her a card...with TIERRA and writean acyronym for it...|120  
+2001-09-11 22:59:36 Arch [0970963] A  ALPHA  Y!|| Mayor says some people alive in Trade Center. |51  
+2001-09-11 22:59:37 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190277. 
+2001-09-11 22:59:37 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-11 22:59:37 Arch [1621320] C  ALPHA  <CC@mapmobile.co|2) P/C PHOEBE CALLING ON BEHALF OF NOELLE DEAN (LUNAS MOTHER) 212 222 3482 RE: LUNA (11 DAYS OLD) ANTIBIOTICS HAVE BEEN GIVEN TO HER IN THE HOSPITAL AGAINST THE > 
+2001-09-11 22:59:37 Skytel [005342524] D  ALPHA  ldubin@wusatv9.com|Overnight Forecast 9/11/01|Dear Randy,  The coolest air of the season will move in for the weekend with temperatures struggling to get out of the 60s.  High/Low:   83/64   OVERNIGHT:   Clear & rather Cool               LO
+2001-09-11 22:59:37 Skytel [005180473] C SH/TONE 108     
+2001-09-11 22:59:37 Skytel [004197178] C ST NUM  9008972812 (49 
+2001-09-11 22:59:37 Skytel [003262524] D ST NUM  210-233-2195   
+2001-09-11 22:59:37 Skytel [005205694] D  ALPHA  AOL 34.41 UNCH MSFT 57.58 UNCH RNWK 5.51 UNCH
+2001-09-11 22:59:39 Arch [0902712] C  ALPHA  (1/1) [HCCC 825-2280] Jewish on diversion until 0700
+2001-09-11 22:59:39 Arch [0907833] C  ALPHA  Oracle User <ora|IMPPRD|00000 09/11/01 23:00:00 
+2001-09-11 22:59:39 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-11 22:59:39 Arch [1612661] B  ALPHA  Oracle User <ora|IMPPRD|00000 09/11/01 23:00:00 
+2001-09-11 22:59:39 Arch [0961281] A  ALPHA  Hi Its me again - yes I'm HOME please call me I don't know where you are  LOTS of LOVE  me.....
+2001-09-11 22:59:39 Skytel [007551567] D  ALPHA  CRITICAL 22:55:54 09/11/01 ErrCk-ppak0133.shl Phase68 Start Interface Processing for Process Group 001 - Return Code indicates a failure has occurred! (ppseprod)
+2001-09-11 22:59:39 Skytel [002380107] C  ALPHA  koneil@genuity.net|OR 913- 227-1300 PC 261694| 
+2001-09-11 22:59:39 Skytel [002570692] B ST NUM  800-759-8255   
+2001-09-11 22:59:39 Skytel [002845771] C  ALPHA  PHA 40.15 UNCH MRK 66.10 UNCH PFE 38.17 UNCH
+2001-09-11 22:59:39 Skytel [005258806] B  ALPHA  call me now thanks allen
+2001-09-11 22:59:39 Skytel [004388299] C SH/TONE 775-7569
+2001-09-11 22:59:39 Skytel [003257026] A  ALPHA  nguyen #6627301630.  rate expired 9/11.  docs. received and requesting funding 9/13.  pl. extend/relock-samuel thomas
+2001-09-11 22:59:39 Skytel [007555918] D  ALPHA  ddecore@us.ibm.com||UNUM BI=Y 1800-533-9695 p/c 1321144<problem near resolution>   
+2001-09-11 22:59:40 Metrocall [1544820] B  ALPHA  ODC-MAIL01 "Server ODC-MAIL01/MSVR/KAIPERM - The following pending documents in mail2.box are older than 30 minutes E8786"
+2001-09-11 22:59:40 Metrocall [0525954] A  ALPHA  Server:Chelmick at 10.17.1
+2001-09-11 22:59:40 Metrocall [0498815] D  ALPHA  SUE ALV 5 SOUTH 229-3310 RE PT MRS FONG SEP11/20:00
+2001-09-11 22:59:41 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-11 22:59:41 Skytel [005359966] D  ALPHA  UPDT LEVEL/1 ALERT BMCSBY PMR#:16607177 ACCT:NA AGNS ITEM:ADV-213528 OCCR'D:09/11 17:40 ACT:09/11 23:50 PTP: SEVERAL DS3S DOWN AT THE 140 WEST ST CO. VERIZON IS INVESTIGATING...DANIEL 
+2001-09-11 22:59:41 Skytel [007567696] A SH/TONE 891-3531
+2001-09-11 22:59:41 Skytel [003514068] B ST NUM  872-436-2454   
+2001-09-11 22:59:41 Skytel [003951056] A  ALPHA  scrc01 Resource: SCRC01:/NT_CPU/CPU_0/CPUprcrProcessorTimePercent,current state is : CRITICAL ussa11.SSMC 
+2001-09-11 22:59:41 Skytel [007576923] C SH/TONE 14      
+2001-09-11 22:59:41 Skytel [005322068] B  ALPHA  949-887-2701 [9850.Gardena, CA         
+2001-09-11 22:59:41 Skytel [005004368] A  ALPHA  sysNETIQsvc: HKG Job80104 STOK00330 09/12 10:59 UNKNOWN
+2001-09-11 22:59:41 Skytel [002938583] B  ALPHA  APP 0.00 UNCH AERL 0.00 UNCH TDS 96.40 UNCH USM 49.65 UNCH
+2001-09-11 22:59:42 Metrocall [0525954] A  ALPHA  .52 is DOWN.
+2001-09-11 22:59:43 Skytel [005040741] B SH/TONE 364-1661
+2001-09-11 22:59:43 Skytel [005378273] A ST NUM  708-635-2978-232323 
+2001-09-11 22:59:43 Skytel [005436525] D  ALPHA  Test #5
+2001-09-11 22:59:43 Skytel [007606756] B SH/TONE 5775    
+2001-09-11 22:59:43 Skytel [007527393] A  ALPHA  redrandolph1@cs.com||Hello charles kevin is ok he at home if you would liketo call himhis number is(
+2001-09-11 22:59:43 Skytel [005242986] C SH/TONE 17      
+2001-09-11 22:59:43 Skytel [007491946] C ST NUM  250-406-8911-911411 
+2001-09-11 22:59:43 Skytel [004450153] C SH/TONE 326     
+2001-09-11 22:59:43 Skytel [005363177] C  ALPHA  6513
+2001-09-11 22:59:43 Skytel [004570209] A  ALPHA  eSys update: eSys has had to leave the Richmond Data Center due to a bomb threat. We will return as soon as possible and notify. eSys
+2001-09-11 22:59:45 Skytel [003940721] A  ALPHA  AUTOPAGER@dm4fa2.de.sc.ti.com|AEX16 to DOWN|AEX16 moved TO DOWN from PROD on 01/09/11 at 21:59:45 COMMENTS: MACHINE IS NOT COMMUNICATING WITH AUTOMATION..ASKED EE ASST..... HIT THE STO BUTTON, AND NOW MACHINE IS TRYING TO RUN LOT WITH WRONG
+2001-09-11 22:59:45 Skytel [007109749] B ST NUM  0-111-040-0126-55   
+2001-09-11 22:59:45 Skytel [007563895] B ST NUM  1-333-453-5491-1    
+2001-09-11 22:59:45 Skytel [007604598] B SH/TONE 337-0789
+2001-09-11 22:59:45 Skytel [002204536] C SH/TONE 1234 (52
+2001-09-11 22:59:45 Skytel [007583737] C ST NUM  918-994-9494   
+2001-09-11 22:59:45 Skytel [005507708] D  ALPHA  eSys update: eSys has had to leave the Richmond Data Center due to a bomb threat. We will return as soon as possible and notify. eSys
+2001-09-11 22:59:47 Metrocall [0905526] B  ALPHA  MESSAGE WAITING6544975
+2001-09-11 22:59:47 Metrocall [002589261] D  ALPHA  F:rtb@kemper.en M:Task returned error (56x). factPullNortel1: W 1426 20010911-19:53:05 Task sttt1nt_pull terminated with error status = 139 .
+2001-09-11 22:59:47 Skytel [005344131] A ST NUM  750-325-5961   
+2001-09-11 22:59:47 Skytel [005128580] B ST NUM  9004050315
+2001-09-11 22:59:47 Skytel [004449421] D SH/TONE 218     
+2001-09-11 22:59:48 Skytel [002861584] A ST NUM  8685227799
+2001-09-11 22:59:48 Skytel [005361947] C  ALPHA  eSys update: eSys has had to leave the Richmond Data Center due to a bomb threat. We will return as soon as possible and notify. eSys
+2001-09-11 22:59:48 Skytel [002847131] C SH/TONE 99      
+2001-09-11 22:59:48 Skytel [005045270] B SH/TONE 01      
+2001-09-11 22:59:48 Skytel [005045787] C SH/TONE 379-8875
+2001-09-11 22:59:48 Skytel [003921937] A ST NUM  510-720-5558   
+2001-09-11 22:59:49 Arch [1008406] B  ALPHA  (11)NCC Update: 9/11 New York, NY Verizon Outage affecting 48 DS3s. West St. Central Office is on fire. Verizon working on solutions att. . TCC tkt#2041302 NCC tkt#2041237 dlh
+2001-09-11 22:59:49 Arch [0622104] C  ALPHA  (32)NCC Update: 9/11 New York, NY Verizon Outage affecting 48 DS3s. West St. Central Office is on fire. Verizon working on solutions att. . TCC tkt#2041302 NCC tkt#2041237 dlh
+2001-09-11 22:59:49 Arch [0967483] C  ALPHA  (16)NCC Update: 9/11 New York, NY Verizon Outage affecting 48 DS3s. West St. Central Office is on fire. Verizon working on solutions att. . TCC tkt#2041302 NCC tkt#2041237 dlh
+2001-09-11 22:59:49 Arch [0924577] A  ALPHA  Dial in acces through XO communication via Citrix is unavailable.
+2001-09-11 22:59:49 Arch [1119609] C  ALPHA  (28)NCC Update: 9/11 New York, NY Verizon Outage affecting 48 DS3s. West St. Central Office is on fire. Verizon working on solutions att. . TCC tkt#2041302 NCC tkt#2041237 dlh
+2001-09-11 22:59:50 Skytel [005508130] A SH/TONE 734-2638
+2001-09-11 22:59:50 Skytel [007463851] C ST NUM  4) 413-5200    
+2001-09-11 22:59:50 Skytel [005196450] A SH/TONE 8438    
+2001-09-11 22:59:50 Skytel [004704807] B SH/TONE 3555    
+2001-09-11 22:59:50 Skytel [002368804] B  ALPHA  I take it the servers are ok.  No need to respond if everything is good.  Thanks and talk with you tomorrow. I'll be working from home.-tm
+2001-09-11 22:59:50 Skytel [005001895] B  ALPHA  [sps/1] 100 supplier.intel.com relay 1.743 Bad response from plug-in(/metrios/aspcheck.asp) 2:06:36
+2001-09-11 22:59:50 Skytel [002865321] C  ALPHA  HAVE TALKED TO LOMIS FARGO, CONFRENCE ME IN ON YOUR RST CALL. 214 505 8973 CELL PHONE. DAVID BRIGGS (39
+2001-09-11 22:59:51 Arch [0924577] A  ALPHA   We are working with XO communication to resolve the issue. This is affecting only users that are try to dial in. John 920-6110
+2001-09-11 22:59:52 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-11 22:59:54 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-11 22:59:54 Arch [2009092] B  ALPHA  *Sports Update*.------ Trivia -----.-------------------.      QUESTION.-------------------.>END OF THE ROAD: On July 12, 1996, Andre Dawson announced he would retire at the conclusion of the season, ending a brilliant 18-year career....>Dawson is one 
+2001-09-11 22:59:54 Arch [1398238] D  ALPHA  knox6060(161.44.216.60): failed ifDescr check, expected: hme0, got: timeout for hme0
+2001-09-11 22:59:54 Skytel [003272138] C SH/TONE 6       
+2001-09-11 22:59:54 Skytel [004571083] C ST NUM  0-408-605-3251 
+2001-09-11 22:59:56 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-11 22:59:56 Arch [2009092] B  ALPHA  of only four major league players to achieve 300 career homers and stolen bases. Who else is in the 300-300 club? -------------------.      ANSWER.-------------------.He joins Willie Mays and Barry and Bobby Bonds...*******************.(c)2001 DATACAST
+2001-09-11 22:59:56 Arch [1101769] C  ALPHA  177155-11
+2001-09-11 22:59:57 Metrocall [1521863] B  ALPHA  Frm: Firestone, Brian Sub: From Blue=Brian Txt: I know we are business as usual tomorrow, but I do think we are going to have trouble keeping concentration when we start dialing at 8amEST. Please conf
+2001-09-11 22:59:57 Metrocall [0727238] B  ALPHA  CFP NATIONAL (1) ATLANTA, GA *2ND ALARM EQV* 997 COX AVE SW. LRG VACANT WAREHOUSE FIRE. EXPOSURE ISSUES OF #2 #3 SIDES. 2 ENGINES FOR BRAND PATROL. 6 ENGINES, 2 TRUCKS, CHIEF & SUPPORT UNITS O/S. (HNAN) [7O2]
+2001-09-11 22:59:58 Arch [0965689] C  ALPHA  sihp8032: Disk utilization of /home filesystem 77% is greater than 75  
+2001-09-11 22:59:58 Arch [0624854] B  ALPHA  (18)NCC Update: 9/11 New York, NY Verizon Outage affecting 48 DS3s. West St. Central Office is on fire. Verizon working on solutions att. . TCC tkt#2041302 NCC tkt#204123
+2001-09-11 22:59:58 Arch [2009092] B  ALPHA  (R).www.datacastnews.com.
+2001-09-11 22:59:58 Arch [1252467] A  ALPHA  JOB:$NPPSCPY ERROR:USER ABEND U0016. BACKUP BEEP:3
+2001-09-11 22:59:58 Arch [1000292] B  ALPHA  JOB:TGLANGX ERROR:SYSTEM ABEND S0C4. BACKUP BEEP:3
+2001-09-11 22:59:58 Arch [1414445] D  ALPHA  (8)NCC Update: 9/11 New York, NY Verizon Outage affecting 48 DS3s. West St. Central
+2001-09-11 22:59:58 Arch [0508342] B  ALPHA  (16)NCC Update: 9/11 New York, NY Verizon Outage affecting 48 DS3s. West St. Central Office is on fire. Verizon working on solutions att. . TCC tkt#2041302 NCC tkt#2041237 dlh
+2001-09-11 22:59:58 Arch [0321447] B  ALPHA  NCC Update: 9/11 New York, NY Verizon Outage affecting 48 DS3s. West St. Central Office is on fire. Verizon working on solutions att. . TCC tkt#2041302 NCC tkt#2041237 dlh
+2001-09-11 22:59:58 Skytel [007510638] D ST NUM  9002031813
+2001-09-11 22:59:58 Skytel [003487078] B ST NUM  9002993594 (79 
+2001-09-11 22:59:59 Metrocall [0043757] D  ALPHA  CALL THE DESK

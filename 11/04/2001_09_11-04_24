@@ -1,0 +1,64 @@
+2001-09-11 04:24:00 Metrocall [1543322] C  ALPHA  MAXM WDHL_T TRANSCPT kPATHNAMEo WDHL_RX1000 HAS NO CONNECTION TO SERVER, PLEASE INVESTIGATE 09/11/0101:21:03
+2001-09-11 04:24:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1971
+2001-09-11 04:24:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1971
+2001-09-11 04:24:00 Metrocall [0475145] C  ALPHA  Frm: BB@thomsoninvest.net Sub: !BB - 2078710! shilling.cpu - 200999999999999 Txt: [2078710] red Tue Sep 11 04:17:08 EDT 2001 up: 19 day(s), 1 users, 791 pro#.,..o..=..1..o.....G..
+2001-09-11 04:24:02 Metrocall [0475145] C  ALPHA  n shilling is 741 Please see: http://et-p/sysadmin/bb/
+2001-09-11 04:24:03 Skytel [005132690] A ST NUM  301-601-7444 U 
+2001-09-11 04:24:03 Skytel [002401821] D  ALPHA  206.122.40.74 Code =  JOES  - Job Output Elements ussa11.SSMC 
+2001-09-11 04:24:03 Skytel {0619497} 1 2400 31740
+2001-09-11 04:24:03 Skytel {1102375} 1 2400 57266  13 
+2001-09-11 04:24:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6793
+2001-09-11 04:24:04 Arch [0760644] B  ALPHA  123-4567
+2001-09-11 04:24:04 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|casodw|CR: 143911 Priority: 3 Assigned to: Summary:: CPU warning or critical alert 
+2001-09-11 04:24:04 Arch [0971878] B  ALPHA  Service:Dns_Roi  Host:kla-primary  Address:10.160.160.94  I
+2001-09-11 04:24:04 Arch [0983856] A  ALPHA  |ILS: Escalation Alert #B825916 for INTEL SEMICONDUCTOR LTD HONG KONG, contract 1017227, P1 |This is an ILS summary notification for case B825916 Event: Escalation Alert #B825916, Priority 1 Event Time: 11 September 2001 01:23:29  -1/3
+2001-09-11 04:24:04 Arch [1238892] D  ALPHA  (32)73:ABS: Tkt:5002505, Sev:2, TIQ:140min, Sname:XXX, CIS Id:13113925, Contact:GEOFF LADD @ 2172437583 Note:SL-GW31-CHI, SERIAL8/5/12:0 IS DOWN, LINE PROTOCOL IS DOWN UNABLE TO REACH CUST...TERRENCE/PMC/RESTON.
+2001-09-11 04:24:04 Arch [0418533] B  ALPHA  (23)36:ABS: Tkt:5002505, Sev:2, TIQ:140min, Sname:XXX, CIS Id:13113925, Contact:GEOFF LADD @ 2172437583 Note:SL-GW31-CHI, SERIAL8/5/12:0 IS DOWN, LINE PROTOCOL IS DOWN UNABLE TO REACH CUST...TERRENCE/PMC/RESTON.
+2001-09-11 04:24:06 Arch [0971878] B  ALPHA  nfo:CRITICAL - Plugin timed out after 10 seconds 
+2001-09-11 04:24:06 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2208 - 0024EB STAUG_DU 6125, cnet lost sync, Clr
+2001-09-11 04:24:06 Arch [0983856] A  ALPHA  Title: *ANS*ESPE: IGX: PROBLEMS TO COMMUNICATE , SLOT 16 NOT WORKING Site: INTEL SEMICONDUCTOR LTD HONG KONG * Contact: JEFF LEE * Phone/Email: 916 356 5724 / jeff.p.lee@intel.com * Contract: 1017227 Case Owner: DCUMMING @ +44 (0)20  -2/3
+2001-09-11 04:24:06 Arch [1238892] D  ALPHA  (1)74:ABS: Tkt:5002530, Sev:2, TIQ:143min, Sname:XXX, CIS Id:13112213, Contact:JERRY BUCCI @ 9737364784 Note:SL-GW15-PEN.,SERIAL8/1/0/3:0 IS DOWN, LINE PROTOCOL IS DOWN ,PL369728/ , SEE NOTES STANTTON-PMC
+2001-09-11 04:24:06 Arch [0418533] B  ALPHA  (24)37:ABS: Tkt:5002530, Sev:2, TIQ:143min, Sname:XXX, CIS Id:13112213, Contact:JERRY BUCCI @ 9737364784 Note:SL-GW15-PEN.,SERIAL8/1/0/3:0 IS DOWN, LINE PROTOCOL IS DOWN ,PL369728/ , SEE NOTES STANTTON-PMC
+2001-09-11 04:24:08 Arch [0983856] A  ALPHA  8734 4284 ILS Subscription Information: * Subscriber: chebrown@cisco.com (Contact this person to unsubscribe.) * ILS Event: P1 Alert P1 * Conditions: Account ID: 10080 * Recipie|640   -3/3
+2001-09-11 04:24:14 Arch [1047686] B  ALPHA  16: DR BARRETT WASH TWP 582-2816 REG DEUTSCH,WILLIAM
+2001-09-11 04:24:17 Arch [0938288] A  ALPHA  1/02:Sev1 open S3040690 PRAPHANT PAVASANT 857-2525 BANGKOK1 GLOBAL INVESTMENT BANKING GLBINTERNET Customer is trying to logon to the following web site :  http://creditsystems.chase.com to select the following options Portfolio   
+2001-09-11 04:24:17 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177733. 
+2001-09-11 04:24:18 Metrocall [1064374] B  ALPHA  YEN  121.73/83 +080 EUR  0.8988/93 +007 CHF  1.6857/63 -022 GBP  1.4562/69 -001 CAD  1.5620/30 -006 AUD  0.5141/51 +008  NZD  0.4258/68 -049 DEM  2.1748/60 -022  E/C  1.5150/63 -005 E/Y  109.44/49 +079 E/S  0.6166/73 +008 USD     114
+2001-09-11 04:24:19 Arch [0938288] A  ALPHA  2/02: 09/11/01 03:21:49
+2001-09-11 04:24:22 Metrocall [1064374] B  ALPHA  .78 +000
+2001-09-11 04:24:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9716
+2001-09-11 04:24:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3364
+2001-09-11 04:24:33 Skytel [002694547] A  ALPHA  3) wtclar@us.ibm.com||EQFX ALERT 2 Clsd Equifax 540361 SEV: 3 Dur: 5.821 HR(s) SMRY:  Larry Davis Bank of America (N103) is back on dedicated. Teclo reported a C-12 outage. ADS advised.  
+2001-09-11 04:24:33 Skytel [007040275] A  ALPHA  wtclar@us.ibm.com||EQFX ALERT 2 Clsd Equifax 540361 SEV: 3 Dur: 5.821 HR(s) SMRY:  Larry Davis Bank of America (N103) is back on dedicated. Teclo reported a C-12 outage. ADS advised.  
+2001-09-11 04:24:35 Skytel [004390436] B SH/TONE 17593   
+2001-09-11 04:24:36 Skytel [0000060] D  ALPHA  FLIGHT 53 TLC IS TRANS LOADING FROM A/C 654 AT GATE 255 TO A/C 658 AT GATE 843.-hub dispatch
+2001-09-11 04:24:38 Skytel [005525323] C SH/TONE 208     
+2001-09-11 04:24:38 Skytel [007558729] C  ALPHA  wtclar@us.ibm.com||EQFX ALERT 2 Clsd Equifax 540361 SEV: 3 Dur: 5.821 HR(s) SMRY:  Larry Davis Bank of America (N103) is back on dedicated. Teclo reported a C-12 outage. ADS advised.  
+2001-09-11 04:24:38 Skytel [004538828] D SH/TONE 6127    
+2001-09-11 04:24:38 Skytel [005209669] B ST NUM  98860291535    
+2001-09-11 04:24:40 Skytel [004547038] D SH/TONE 800-7473
+2001-09-11 04:24:42 Skytel [005436525] D  ALPHA  Test Message #78-IX_T0514
+2001-09-11 04:24:42 Skytel [004524770] A  ALPHA  spf-RiverValley-HolyokeMA-3810f: CPE Up at 00:58:01 on 9/11
+2001-09-11 04:24:44 Skytel [007048946] A  ALPHA  wtclar@us.ibm.com||EQFX ALERT 2 Clsd Equifax 540361 SEV: 3 Dur: 5.821 HR(s) SMRY:  Larry Davis Bank of America (N103) is back on dedicated. Teclo reported a C-12 outage. ADS advised.  
+2001-09-11 04:24:44 Skytel [004720765] D SH/TONE 5327    
+2001-09-11 04:24:46 Skytel [007579147] C SH/TONE 1034    
+2001-09-11 04:24:49 Arch [0988580] B  ALPHA  1/02:Sev1 open S3040690 PRAPHANT PAVASANT 857-2525 BANGKOK1 GLOBAL INVESTMENT BANKING GLBINTERNET Customer is trying to logon to the following web site :  http://creditsystems.chase.com to select the following options Portfolio
+2001-09-11 04:24:49 Arch [1047640] C  ALPHA  1/02:Sev1 open S3040690 PRAPHANT PAVASANT 857-2525 BANGKOK1 GLOBAL INVESTMENT BANKING GLBINTERNET Customer is trying to logon to the following web site :  http://creditsystems.chase.com to select the following options Portfolio
+2001-09-11 04:24:49 Arch [1401558] B  ALPHA  (16)09:ABS: Tkt:4812785, Sev:4, Opened, Sname:GTSI, CIS Id:13090665, Contact:DENNIS DUFFORD @ 8132733000 Note:SL-GW17-ATL, SERIAL6/0/1/21:0, SERIAL6/0/1/20:0, SERIAL6/0/1/19:0 IS U P, LINE PROTOCOL IS UP...CKT'S BEEN BOUNCING..WILL MONITOR...TERRE
+2001-09-11 04:24:50 Metrocall [1421210] C  ALPHA  LAKEJob 385471/BGILMOUR/PRINTFORM has MSGW status.
+2001-09-11 04:24:51 Arch [0988580] B  ALPHA  2/02: 09/11/01 03:21:49
+2001-09-11 04:24:51 Arch [1401558] B  ALPHA  (17)09:NCE/
+2001-09-11 04:24:51 Skytel [005133629] D  ALPHA  ipmonitor@parsons.com|2001-9-11, 01:33:34, SACDC01 (SERVER), SERVICE, Server failed to handle request|2001-9-11, 01:33:34, SACDC01 (SERVER), SERVICE, Server failed to handle request  
+2001-09-11 04:24:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1237..
+2001-09-11 04:24:52 Skytel [007469753] C SH/TONE 6305    
+2001-09-11 04:24:57 Arch [1047640] C  ALPHA  2/02: 09/11/01 03:21:49
+2001-09-11 04:24:57 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 1
+2001-09-11 04:24:57 Arch [1611051] C  ALPHA  1/02:Sev1 open S3040690 PRAPHANT PAVASANT 857-2525 BANGKOK1 GLOBAL INVESTMENT BANKING GLBINTERNET Customer is trying to logon to the following web site :  http://creditsystems.chase.com to select the following options Portfolio
+2001-09-11 04:24:57 Arch [1026292] B  ALPHA  Backup@NYED.us
+2001-09-11 04:24:57 Arch [0904066] A  ALPHA  1/02:Sev1 open S3040690 PRAPHANT PAVASANT 857-2525 BANGKOK1 GLOBAL INVESTMENT BANKING GLBINTERNET Customer is trying to logon to the following web site :  http://creditsystems.chase.com to select the following options Portfolio
+2001-09-11 04:24:57 Arch [0977467] C  ALPHA  1/02:Sev1 open S3040690 PRAPHANT PAVASANT 857-2525 BANGKOK1 GLOBAL INVESTMENT BANKING GLBINTERNET Customer is trying to logon to the following web site :  http://creditsystems.chase.com to select the following options Portfolio
+2001-09-11 04:24:57 Skytel [005330530] A ST NUM  8685222010
+2001-09-11 04:24:59 Arch [1425048] C  ALPHA  77740. 
+2001-09-11 04:24:59 Arch [1026292] B  ALPHA  co|Operator Attention|(Server: "NYEPSROGUE" Job: "Monday backup" Device: "HP 1") Please inser t overwritable media into the changer using the slot import command. 
+2001-09-11 04:24:59 Arch [1611051] C  ALPHA  2/02: 09/11/01 03:21:49
+2001-09-11 04:24:59 Arch [0904066] A  ALPHA  2/02: 09/11/01 03:21:49

@@ -1,0 +1,61 @@
+2001-09-11 03:33:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1920
+2001-09-11 03:33:00 Metrocall [1064377] C  ALPHA  US 10514/10425 -020 SP109500/10140-0070 FEI95785/96080/9625 9624/9615/9595/9587 SED 96662/6710/6630 96340/9........................................................................................................................3+ FV 10615+
+2001-09-11 03:33:03 Arch [0029179] C  ALPHA  04-ENJOYNG THE SITES? -PD
+2001-09-11 03:33:03 Arch [0915843] A  ALPHA  (15)From Carl Bettaney Sub:UKHD All CICS regions locked out between 07:50 and 08:20. Support Investigating.  Msg:
+2001-09-11 03:33:03 Arch [1410805] B  ALPHA  (18)From Carl Bettaney Sub:UKHD All CICS regions locked out betwe
+2001-09-11 03:33:03 Arch [1164259] A  ALPHA  From Carl Bettaney Sub:UKHD All CICS regions locked out between 07:50 and 08:20. Support Investigating.  Msg:
+2001-09-11 03:33:03 Arch [0163974] B  ALPHA  From Carl Bettaney Sub:UKHD All CICS regions locked out between 07:50 and 08:20. Support Investigating.  Msg:
+2001-09-11 03:33:03 Arch [0929241] C  ALPHA  From Carl B
+2001-09-11 03:33:03 Arch [0769433] C  ALPHA  From Carl Bettaney Sub:UKHD All CICS regions locked out between 07:50 and 08:20. Support Investigating.  Msg:
+2001-09-11 03:33:03 Arch [0975978] C  ALPHA  From Carl Bettaney Sub:UKHD All CICS regions locked out between 07:50 and 08:20. Support Investigating.  Msg:
+2001-09-11 03:33:03 Arch [0983275] C  ALPHA  From Carl Bettaney Sub:UKHD All CICS regions locked out between 07:50 and 08:20. Support Investigating.  Msg:
+2001-09-11 03:33:03 Arch [0284292] B  ALPHA  From Carl Bettaney Sub:UKHD All CICS regions locked out between 07:50 and 08:20. Support Investigating.  Msg:
+2001-09-11 03:33:05 Arch [1410805] B  ALPHA  en 07:50 and 08:20. Support Investigating.  Msg:
+2001-09-11 03:33:05 Arch [0929241] C  ALPHA  ettaney Sub:UKHD All CICS regions locked out between 07:50 and 08:20. Support Investigating.  Msg:
+2001-09-11 03:33:05 Arch [1131960] C  ALPHA  From Carl Bettaney Sub:UKHD All CICS regions locked out between 07:50 and 08:20. Support Investigating.  Msg:
+2001-09-11 03:33:05 Arch [0926807] B  ALPHA  From Carl Bettaney Sub:UKHD All CICS regions locked out between 07:50 and 08:20. Support Investigating.  Msg:
+2001-09-11 03:33:06 Skytel [0001461] B  ALPHA  GLOBEX   02:31     GEH  9663.5A   .5+   GEM    ----   ----   ESU  109550    25-   SPU  109510B   60-   NDU  137400B  350+   6JZ    8298    45-   6EZ    8985B    5+   6SZ    5944     4+   6BZ   14516B   12-   6CZ    6388B    2-   
+2001-09-11 03:33:07 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6742
+2001-09-11 03:33:09 Metrocall [1421210] C  ALPHA  LAKEJob 383688/SCLAUSSON/I$LLOF has MSGW status.
+2001-09-11 03:33:09 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-11 03:33:10 Skytel [005250519] B ST NUM  778-376-0992   
+2001-09-11 03:33:10 Skytel [1800019] A  ALPHA  GLOBEX   02:31     GEH  9663.5A   .5+   GEM    ----   ----   ESU  109550    25-   SPU  109510B   60-   NDU  137400B  350+   6JZ    8298    45-   6EZ    8985B    5+   6SZ    5944     4+   6BZ   14516B   12-   6CZ    6388B    2-   
+2001-09-11 03:33:10 Skytel [002359129] C  ALPHA  the following containers from oak are going direct to gate 15 tail 103 flight 1170.  f1r ake39394, f2r ake40502, and f5r ake30019. 
+2001-09-11 03:33:12 Skytel [005360227] A  ALPHA  E:mail@ebpp.chase.com E-ZPass Statement for 2001-09-08 -notify@ureach.com
+2001-09-11 03:33:12 Skytel [005436525] D  ALPHA  Test #41
+2001-09-11 03:33:12 Skytel [004524770] A  ALPHA  spf-BossardMetrics-PortsmouthNH-: CPE Up at 00:56:17 on 9/11
+2001-09-11 03:33:14 Skytel [007035506] A  ALPHA  BLD OPS> AVAYA GMO ALERT 1: sev1 initial server JP2002avexu1 will be taken down to replace a bad tape drive. Will update when completed. Bldr. Ops. - -877-238-5240
+2001-09-11 03:33:16 Arch [0000101] B  ALPHA  MSN 064 hello Message from NOC PCB.
+2001-09-11 03:33:16 Skytel [003071883] C  ALPHA  IBM 96.47 -0.12 NSCP 0.00 UNCH MSFT 57.58 +2.18 EDS 56.00 +1.29 (57
+2001-09-11 03:33:16 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 00:32:02 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 03:33:18 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177157. 
+2001-09-11 03:33:18 Arch [0903973] B  ALPHA  Ack:134468:T:0233 HelpTicket:134468 Phone:314-985-2917  PATROL:SAP-MFG:SYSTEMST. LOUI            Priority:  1        PType: SAP-MFG      Title:UNIX backup FAILED on host sap0010!
+2001-09-11 03:33:18 Skytel [002861584] A ST NUM  8685429395
+2001-09-11 03:33:18 Skytel [007100945] A SH/TONE 259     
+2001-09-11 03:33:20 Skytel [003457197] D SH/TONE 6559    
+2001-09-11 03:33:21 Skytel [0001074] A  ALPHA  the following containers from oak are going direct to gate 15 tail 103 flight 1170.  f1r ake39394, f2r ake40502, and f5r ake30019. 
+2001-09-11 03:33:21 Skytel [0001075] A  ALPHA  the following containers from oak are going direct to gate 15 tail 103 flight 1170.  f1r ake39394, f2r ake40502, and f5r ake30019. 
+2001-09-11 03:33:23 Skytel [004539594] C  ALPHA  the following containers from oak are going direct to gate 15 tail 103 flight 1170.  f1r ake39394, f2r ake40502, and f5r ake30019. 
+2001-09-11 03:33:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9665
+2001-09-11 03:33:27 Skytel [004429932] D ST NUM  204-743-8177-6969   
+2001-09-11 03:33:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3313
+2001-09-11 03:33:31 Arch [0801351] B  ALPHA  (25)06:ABS: Tkt:5002798, Sev:1, Opened, Sname:BNK, CIS Id:195942813, Contact:JOSEPH GANDIA/NOC @ 2122507800 Note:HOST IN NYC BOUNCING\\PWR VRFD\\RECOVER ON OWN\\NO PATTERN\\DLCI 35\\RED ALARMS ON ROUTER\\NO CHANGES\\OK TO TEST\\ROTI PSN2 SHOWS UP,
+2001-09-11 03:33:33 Arch [0801351] B  ALPHA  (26)06: CKT ID SHOWS NO ALARMS\\NO EXT DEMARC\\MFH/SMC/4598
+2001-09-11 03:33:36 Skytel [004754611] A SH/TONE 5225    
+2001-09-11 03:33:36 Skytel [007040316] D  ALPHA  Rajesh.Garodia@aexp.com||     From: Rakesh K Kanda on 09/11/2001 12:40 PM ZE5B   To:   Tara L Peterson@AMEX, Howard Toberman@AMEX, Sue Gorg@AMEX, Sheryl       Casoli@AMEX, Maureen L Cruse@AMEX cc:   Rohit R Khurana/JAPA/TRS/AEXP@AMEX, Rajes
+2001-09-11 03:33:39 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE Tray Metrics Down   Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[001]  dev_err[239]
+2001-09-11 03:33:42 Skytel [005350248] C SH/TONE 1914    
+2001-09-11 03:33:42 Skytel [005132640] A  ALPHA  4) LMNLAN1I RAMSES WIN1CIS.NSSOUTH.IBM.COM Interface TokenRing4/1 down.
+2001-09-11 03:33:48 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177164. 
+2001-09-11 03:33:50 Arch [1625046] B  ALPHA  pkao@yahoo-inc.com (Subj: DGENTCL FAILED: gentcl_au [INC][PUSHIN])Error: failed in loading AU\nonsmooth.tcl
+2001-09-11 03:33:50 Arch [0951053] D  ALPHA  |itech-view6 build(s) done  
+2001-09-11 03:33:50 Metrocall [1544818] A  ALPHA  Server 'ORD-NS0 Disk.G.Free = 44587499520, min allowable: (45000000000)
+2001-09-11 03:33:50 Skytel [005359140] B  ALPHA  ATTN OUTBOUNDS, PLS CONTINUE TO SWEEP SPSS STACK 1 IS HEAVY DUE TO MAINTENANCE 
+2001-09-11 03:33:50 Skytel [003934628] B  ALPHA  ATTN OUTBOUNDS, PLS CONTINUE TO SWEEP SPSS STACK 1 IS HEAVY DUE TO MAINTENANCE 
+2001-09-11 03:33:50 Skytel [004690086] B SH/TONE 23 U    
+2001-09-11 03:33:51 Skytel [0000060] D  ALPHA  ATTN OUTBOUNDS, PLS CONTINUE TO SWEEP SPSS STACK 1 IS HEAVY DUE TO MAINTENANCE 
+2001-09-11 03:33:51 Skytel [005087289] C  ALPHA  2525 [4005
+2001-09-11 03:33:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1186..
+2001-09-11 03:33:53 Skytel [005048779] C  ALPHA  LMNLAN1I RAMSES WIN1CIS.NSSOUTH.IBM.COM Interface TokenRing4/1 down.
+2001-09-11 03:33:55 Skytel [003944538] C  ALPHA  Alert Number: 1544571 - MVSISGA - Call 3790 Say FDTPAGE PDZLXOWD,AUTOCONNECT SEND/ONLY FAILS REPLY Y NA NA
+2001-09-11 03:33:59 Skytel [003912949] B  ALPHA  BLD OPS> AVAYA GMO ALERT 1: sev1 initial server JP2002avexu1 will be taken down to replace a bad tape drive. Will update when completed. Bldr. Ops. - -877-238-5240

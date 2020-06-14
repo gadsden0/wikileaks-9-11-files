@@ -1,0 +1,62 @@
+2001-09-12 01:59:01 Arch [0987275] C  ALPHA  s0191: 09/11 11:56:22 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:56:22
+2001-09-12 01:59:02 Skytel [005195777] A SH/TONE 555     
+2001-09-12 01:59:02 Skytel [007638666] C SH/TONE 4217    
+2001-09-12 01:59:02 Skytel [002556941] D ST NUM  900-759-8255   
+2001-09-12 01:59:03 Arch [0987275] C  ALPHA  s0191: 09/11 11:59:03 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:59:03
+2001-09-12 01:59:03 Arch [1407124] B  ALPHA  (15)NT Server KCBDCP01 UP at 01:10:02
+2001-09-12 01:59:04 Arch [0987275] C  ALPHA  s0191: 09/11 12:04:03 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:04:03
+2001-09-12 01:59:04 Skytel {0390655} 1 1200 846-3327  20   
+2001-09-12 01:59:05 Skytel {1092655} 3 2400 002638    
+2001-09-12 01:59:06 Arch [0987275] C  ALPHA  s0191: 09/11 12:12:06 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:12:07
+2001-09-12 01:59:08 Arch [0987275] C  ALPHA  s0191: 09/11 12:14:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:14:49
+2001-09-12 01:59:08 Arch [0905635] A  ALPHA  "Beyerlein, John|As per your request!|Please find attached file for your review. I look forward to hear from you again very soon. Thank you. begin 600 VIRUS_DETECTED_AND_REMOVED_readme.exe_VIRINFO.TXT
+2001-09-12 01:59:13 Skytel {0005398} 1 1200 (5 OF 6): site appears down, cannot wait until Wednesday Importance: High  To resolve a server issue, we will need to have SSIT looking at it.  John, can you please check out the uat servers and see if anything is amiss?  
+2001-09-12 01:59:14 Metrocall [1552979] A  ALPHA  Frm: Web Support Sub: www Apache DOWN Txt: 9/12/01 12:59:28 AM Help Desk 4-5500
+2001-09-12 01:59:14 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE Tray Metrics Down   Server[1] - 1       Server[2] - 0       Primary   - 1       tms_
+2001-09-12 01:59:15 Metrocall [1222396] D  ALPHA  msg[001]  dev_err[056]
+2001-09-12 01:59:19 Metrocall [0727239] B  ALPHA  CFP7: SUMMERVILLE FD (HARNETT-11) *WORKING FIRE* SHAMROCK LN in LASSITER MHP. DISP TIME APPROX 01:45. HVY FIRE SHWG FROM HWY 210. RPTD POSSIBLY AN ABND STRUCTURE. M/A FROM LILLINGTON FD (7). [7O2]
+2001-09-12 01:59:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1011
+2001-09-12 01:59:25 Arch [0987275] C  ALPHA  s0191: 09/11 12:20:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:20:24
+2001-09-12 01:59:25 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192321. 
+2001-09-12 01:59:27 Arch [0987275] C  ALPHA  s0191: 09/11 12:28:34 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:28:34
+2001-09-12 01:59:29 Arch [0987275] C  ALPHA  s0191: 09/11 12:31:16 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:31:16
+2001-09-12 01:59:29 Arch [0977210] C  ALPHA  638-8100
+2001-09-12 01:59:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3267
+2001-09-12 01:59:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3267
+2001-09-12 01:59:31 Arch [0987275] C  ALPHA  s0191: 09/11 12:36:48 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:36:48
+2001-09-12 01:59:32 Skytel [005257731] A  ALPHA  Phone Networks Report Heavy Volume, Clogged Cells Circuits[DJ NEWS]
+2001-09-12 01:59:32 Skytel [003468685] D SH/TONE 637-2269
+2001-09-12 01:59:37 Skytel [007585585] A ST NUM  67317977420411191111
+2001-09-12 01:59:37 Skytel [002383408] A  ALPHA  JOse: C21-2...MET11103...HE @ 190 psi.  Pls replace cylinder..JOseP
+2001-09-12 01:59:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:59:39 Skytel [004730819] A ST NUM  0-510-893-2967 
+2001-09-12 01:59:41 Skytel [005056599] B  ALPHA  JOse: C21-2...MET11103...HE @ 190 psi.  Pls replace cylinder..JOseP
+2001-09-12 01:59:42 Arch [0987275] C  ALPHA  s0191: 09/11 12:44:46 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:44:47
+2001-09-12 01:59:43 Skytel [004688750] D SH/TONE 3614    
+2001-09-12 01:59:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #12-IX_T4008
+2001-09-12 01:59:43 Skytel [007553888] A  ALPHA  896-6731No Answer Southfield Backup 248-552
+2001-09-12 01:59:44 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-12 01:59:45 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Disk used % for /clients/IVR/home/rswwwp/work is 86; > than 80
+2001-09-12 01:59:47 Skytel [005074691] A ST NUM  201-594-2293   
+2001-09-12 01:59:47 Skytel [005225860] B SH/TONE 125     
+2001-09-12 01:59:47 Skytel [004144648] C  ALPHA  AMD 11.85 UNCH INTC 26.07 UNCH NSM 31.05 UNCH CPQ 10.35 UNCH
+2001-09-12 01:59:48 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-12 01:59:48 Skytel [007045789] D  ALPHA  JOse: C21-2...MET11103...HE @ 190 psi.  Pls replace cylinder..JOseP
+2001-09-12 01:59:48 Skytel [003905944] C  ALPHA  ARDM 4.00 UNCH
+2001-09-12 01:59:48 Skytel [002861584] A ST NUM  8685429377
+2001-09-12 01:59:48 Skytel [003951387] C SH/TONE 4990    
+2001-09-12 01:59:49 Metrocall [0475145] C  ALPHA  FYI, E421, A890 just returned to FS21.  E821, A890, U421 OO......C.....o`@....!....421 AIQ.  Al
+2001-09-12 01:59:50 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-12 01:59:50 Arch [1422821] B  ALPHA  360-7783
+2001-09-12 01:59:50 Arch [1398238] D  ALPHA  knox6060(161.44.216.60): failed ifDescr check, expected: hme0, got: timeout for hme0
+2001-09-12 01:59:50 Skytel [004704807] B SH/TONE 3555    
+2001-09-12 01:59:50 Skytel [005209768] C SH/TONE 7171    
+2001-09-12 01:59:50 Skytel [007653284] B ST NUM  809-303-1101-42143  
+2001-09-12 01:59:50 Skytel [007094310] B SH/TONE 111     
+2001-09-12 01:59:50 Skytel [005001895] B  ALPHA  [sps/114] 101 sps-apps1.cps.intel.com relay 0.0 FAILURE Hostrefusing connection (/metrios/healthcheck[OesPrinting].asp) 3:19:57
+2001-09-12 01:59:50 Skytel [005051043] A  ALPHA  intasgac@brocu1m.bst.bls.com|Resource monitor results|oracle: INTAS_DATA  70% utilization, exceeding limit 70%  
+2001-09-12 01:59:50 Skytel [004751406] D SH/TONE 217     
+2001-09-12 01:59:54 Skytel [007567428] B SH/TONE 600-8168
+2001-09-12 01:59:56 Skytel [003330642] A  ALPHA  DJIA 9605.51 UNCH GE 39.35 UNCH
+2001-09-12 01:59:58 Skytel [005003367] B  ALPHA  root@bur-faxsvr.genuity.com|bur-faxsvr.genuity.com - /bbn is 91% full| 
+2001-09-12 01:59:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8089

@@ -1,0 +1,143 @@
+2001-09-12 00:01:00 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7970
+2001-09-12 00:01:00 Metrocall [1079407] D  ALPHA  's the
+2001-09-12 00:01:00 Metrocall [0477913] C  ALPHA  DSMServer 3.1.14.1 09/11/01 21:06:12 MDT6 Instance: ErrorHandler Module: DSMServer Details: PID=11142 TID=7 SendErrorRecoveryUpdate : Text update se
+2001-09-12 00:01:00 Skytel [005191408] A ST NUM  023-4567-89    
+2001-09-12 00:01:01 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-12 00:01:01 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190963. 
+2001-09-12 00:01:02 Skytel [002163970] A SH/TONE 6516    
+2001-09-12 00:01:02 Skytel [002746374] B SH/TONE 505     
+2001-09-12 00:01:02 Skytel [007523084] D  ALPHA  Y! ||iPAQ Pocket PC Now from $499 UPDATE 1-Hijacked-plane attacks saturate U.S. TV networks Reuters 
+2001-09-12 00:01:03 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-12 00:01:03 Skytel [005059997] D SH/TONE 268-2729
+2001-09-12 00:01:04 Skytel {1117649} 3 1200 220-9471  
+2001-09-12 00:01:04 Skytel {0454346} 3 1200 650-756-0703   
+2001-09-12 00:01:04 Skytel {1891159} 3 1200 4444 
+2001-09-12 00:01:05 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-12 00:01:05 Skytel {0662431} 1 1200 1710575   
+2001-09-12 00:01:06 Skytel {1013359} 3 2400 703-806-0257   
+2001-09-12 00:01:07 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-12 00:01:08 Metrocall [1831754] C  ALPHA  <09> ST MARYS 768-8640 KRASNOFFF RE MERRELL
+2001-09-12 00:01:08 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4540
+2001-09-12 00:01:19 Metrocall [0310455] B  ALPHA  P872163 Sev. C BofA east  icau screen showing 0 available for auths.Please call 649-7011.Tandem ops is also on the call.
+2001-09-12 00:01:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0893
+2001-09-12 00:01:22 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34
+2001-09-12 00:01:22 Arch [0739731] A  ALPHA  7200
+2001-09-12 00:01:24 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-12 00:01:26 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-12 00:01:26 Arch [0925366] B  ALPHA   318643;Sep 11 20:02:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-12 00:01:26 Arch [0910057] C  ALPHA  pc999bot1: pc999bot1@PC999.hunterdonhealthcare.org 192.168.27.1 is down! -Contact HMC Immediately
+2001-09-12 00:01:28 Arch [0987275] C  ALPHA  s0191: 09/11 15:14:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:14:21
+2001-09-12 00:01:29 Metrocall [1198314] C  ALPHA  Frm: IPN Txt: DFW| Dallas| 1 Alarm Fire| 453.875| 708 Olive x/Federal|T3 O/S 1 Story Commerical w/smoke from roof| DFW000| 14:28
+2001-09-12 00:01:29 Metrocall [1262611] A  ALPHA  Frm: IPN Txt: DFW| Dallas| 1 Alarm Fire| 453.875| 708 Olive x/Federal|T3 O/S 1 Story Commerical w/smoke from roof
+2001-09-12 00:01:29 Metrocall [1429971] A  ALPHA  ** End of Day Completed Successfully. IPL is in progress now. ** 09/11/01 22:58 QSYSOPR    HELPSYS
+2001-09-12 00:01:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3149
+2001-09-12 00:01:31 Arch [0909945] C  ALPHA  admin@networld.c|Wireless(DaveNorton) has encount|STATUS Last Test: Tue, 11 Sep 2001 22:02:06 Last Status: Server timed out Up Time: 149:45 min Down Time: 2:39 min Alert: 2 of 3 Concurrent Failures: 2 TYPE AND ADDRESSING Monitor Name: Wirel
+2001-09-12 00:01:31 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3149
+2001-09-12 00:01:31 Metrocall [1262611] A  ALPHA  | DFW000| 14:28
+2001-09-12 00:01:31 Metrocall [1064388] B  ALPHA  LCO 2900/2890  +161 CL 2777/798/800+000 2754/2744/2692/2655 2623/2591/2560/2530 HO 7961/015/060+000 HU 8150/735/560+000 NG2430/2672/000+000 3200/3177/3122/3031 064/
+2001-09-12 00:01:32 Metrocall [1064388] B  ALPHA  190/041/215/185 LGO 25500/5600+1300 PL v4400/f4350 +000 EC _3300/_3150+0150 PAm45600+000
+2001-09-12 00:01:32 Metrocall [1064387] A  ALPHA  GB 6171/6178+000 CT_3650/773/962 +000 KC_4835/5130/510+000 SB _787/_761/745+000 SE 2095/2117/241+000 CC _865/922/935 +000 OJ 8025/8250/835+000 YX 56900/
+2001-09-12 00:01:32 Skytel [002791304] C ST NUM  917-337-8111   
+2001-09-12 00:01:33 Arch [0918477] D  ALPHA  "ODNet digest" <|odnet digest: September 11, 2001|
+2001-09-12 00:01:33 Skytel [007465749] B SH/TONE 191-1911
+2001-09-12 00:01:33 Skytel [005226005] B SH/TONE 866     
+2001-09-12 00:01:33 Skytel [007439129] C SH/TONE 2633 (39
+2001-09-12 00:01:33 Skytel [002861584] A ST NUM  8685227799
+2001-09-12 00:01:35 Skytel [003904813] D  ALPHA  Cluster resource Tra
+2001-09-12 00:01:35 Skytel [005127971] A SH/TONE 236-4707
+2001-09-12 00:01:35 Skytel [004538532] B  ALPHA  FYI: Convergys is no longer assisting with Technical call volume. NCC/b
+2001-09-12 00:01:35 Skytel [005000868] B SH/TONE 0500    
+2001-09-12 00:01:35 Skytel [005001895] B  ALPHA  [sps/114] 200 sps-apps1.cps.intel.com relay 0.277 BDE OeS Servicesare running.<BR> (/metrios/healthcheck[OesPrinting].asp) 2:39:56
+2001-09-12 00:01:35 Skytel [004209192] C  ALPHA  udb@london.sps.mot.com|zombie alert|Found a zombie! 374 processes: 370 sleeping, 3 running, 1 zombie LOAD 1.01, CPUIDLE 61.0%  
+2001-09-12 00:01:35 Skytel [002376872] C  ALPHA  hevaem@conxion.net|oracleheva2.conxion.net, HTTP, 206.204.210.197:80, Server timed out, | 
+2001-09-12 00:01:35 Skytel [003260072] C SH/TONE 952-7700
+2001-09-12 00:01:36 Metrocall [1064387] A  ALPHA  57150 +0000 CR 19820/19970 +0000 DX 11464/11501  +000 EJ 10872/10761  +000  RK 95565/95625  +000
+2001-09-12 00:01:37 Skytel [004426672] A SH/TONE 912-3233
+2001-09-12 00:01:37 Skytel [005043382] B  ALPHA  ez_as@gumby.lmig.com|Bad file rejected|The data file for appl <ec> and trans <organization> has problems. File name: /var/opt/exprc/inre/queues/inre_dbs_load/in/ec/organization/partners/data/20010911082620.39844.0 (moved to the reject d
+2001-09-12 00:01:37 Skytel [003421493] B  ALPHA  8173365813YOUR NIECE
+2001-09-12 00:01:37 Skytel [007594165] B ST NUM  01817711173155721773
+2001-09-12 00:01:37 Skytel [007551545] C SH/TONE 55555   
+2001-09-12 00:01:37 Skytel [004697534] D  ALPHA  CyberSaver Alert: 9/11/01 11:59:11 PM Cyber Saver automated process failed: CyberSaver dates do not match local pl file: W:\Documentation\CyberSaverData\2001\09-01\SEP15.txt
+2001-09-12 00:01:37 Skytel [004752573] D SH/TONE 07839   
+2001-09-12 00:01:37 Skytel [005492655] D SH/TONE 371-9707
+2001-09-12 00:01:37 Skytel [002794173] D ST NUM  900-866-5141   
+2001-09-12 00:01:38 Metrocall [1064391] B  ALPHA  LME FUTURES       MCU_1460/1468 -012 MAL 1387/1397 +002 MAA 1155/1165 -010 MNI 5310/5360 -050 MSN 3800/3850 -050 MPB 4900/4950 -050 MZN _840/_845 -005
+2001-09-12 00:01:38 Metrocall [1064384] A  ALPHA  Y/C  72.53/63   +81 SGD 1.7375/390 +015 HKD 7.7983/003 -011 TW
+2001-09-12 00:01:38 Metrocall [1064376] C  ALPHA  GOVPX TREASURY 30__99.30+/31+5.378 10_101.27 /28 4.764 5Y_102.04+/04+4.117 2Y_100.19+/19+3.306   6M   3.105/095      3M   2.985/975
+2001-09-12 00:01:39 Arch [0782097] A  ALPHA  RTOP;Allison Transmission;TOP-20:30 EDT;SCP-unk;BPA-LCT Print Line;SAS-Down Onsite wrk tm;ETTR-unk;bruce;PH-3172405623;PG-3172358404;TK-19508278 -- From: GSS-MWD
+2001-09-12 00:01:39 Arch [0971491] A  ALPHA  FYI: Convergys is no longer assisting with Technical call volume. NCC/b
+2001-09-12 00:01:39 Arch [1424510] D  ALPHA  FYI: Convergys is no longer assisting with Technical call volume. NCC/b
+2001-09-12 00:01:39 Arch [0903922] A  ALPHA  FYI: Convergys is no longer assisting with Technical call volume. NCC/b
+2001-09-12 00:01:39 Arch [0554684] D  ALPHA  FYI: Convergys is no longer assisting with Technical call volume. NCC/b
+2001-09-12 00:01:39 Skytel [005043382] B  ALPHA  irec
+2001-09-12 00:01:39 Skytel [002784946] A ST NUM  202-575-4452   
+2001-09-12 00:01:39 Skytel [002390849] A  ALPHA  (ESC:CPCPSS) SYSA: JOB #PRIJ010 WAS CANCELLED BY OPERATOR. 
+2001-09-12 00:01:39 Skytel [005070795] C  ALPHA  [Corporate Operations] FYtI: GCX is completely operational. Pending 942 messages has been processed./ All TI messages has been processed. GCXWEPR2 is down , pending hp repair. T3 line beteween weehawkin and 111 walll are down gcx has no cob
+2001-09-12 00:01:40 Metrocall [1064384] A  ALPHA  D 34650/4700 +030  IDR  9020/9070 -065 PHP 51.140/240 -060 MYR 3.7995/005 +000 THB 44.300/400 +000 KRW12860/12960 +060 ZAR 8.6000/100 +889 MXN  9.510/530 +116 BRR 26600/6620 +065
+2001-09-12 00:01:40 Metrocall [0848950] B  ALPHA  Computer now up and running. Service delays 
+2001-09-12 00:01:40 Metrocall [1028220] D  ALPHA  Computer now up and running. Service delays all lines. OCC
+2001-09-12 00:01:40 Metrocall [1543803] C  ALPHA  2750 C....MARY
+2001-09-12 00:01:40 Metrocall [1111466] C  ALPHA  09/11@23:01:17 DALBK01-SNMP:cjFailureTrap: ipProductName: Backup Exec: Job Failed, cjJobN
+2001-09-12 00:01:41 Skytel [007657299] A ST NUM  313-749-4287   
+2001-09-12 00:01:41 Skytel [007563991] B SH/TONE 727-3323
+2001-09-12 00:01:41 Skytel [007515473] A  ALPHA  Y! ||Be mobile with Compaq UPDATE 1-Hijacked-plane attacks saturate U.S. TV networks Reuters  
+2001-09-12 00:01:42 Metrocall [1466337] A  ALPHA  09/11@23:01:17 DALBK01-SNMP:cjFailureTrap: ipProductName: Backup Exec: Job Failed, cjJobName: DALBK01, cjJobFailureMessage: DALPOs Source: 165.97.10.101
+2001-09-12 00:01:42 Metrocall [0848950] B  ALPHA  all lines. OCC
+2001-09-12 00:01:42 Metrocall [1064374] B  ALPHA  YEN  119.40/45 -032 EUR  0.9111/16 +008 CHF  1.6400/5
+2001-09-12 00:01:42 Metrocall [1111466] C  ALPHA  ame: DALBK01, cjJobFailureMessage: DALPOs Source: 165.97.10.101
+2001-09-12 00:01:42 Metrocall [1064377] C  ALPHA  SED97000/97170/9710 9670/9627/9579/9550 SEY 99940/99915+000 99910/ 99905/ 99870 SSI _9500/_9520-800 JGB 13879/13714 -14 US  10514/10422 +00 SP107500/10140+0000 DJ _9630/_9665 +000
+2001-09-12 00:01:43 Arch [0987275] C  ALPHA  sb3: INFO0021 - 2:45PM - POSI batch has not arrived(160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:15
+2001-09-12 00:01:43 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190970. 
+2001-09-12 00:01:43 Arch [0163087] D  ALPHA  29-PLEASE CALL JEAN AT 718-977-7810.
+2001-09-12 00:01:43 Skytel [004720225] A SH/TONE 307     
+2001-09-12 00:01:43 Skytel [005330530] A ST NUM  8685222010
+2001-09-12 00:01:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #6-IX_T1705
+2001-09-12 00:01:43 Skytel [003949410] A SH/TONE 2208    
+2001-09-12 00:01:43 Skytel [005049316] B  ALPHA  Robot.ALERT@ELSEG400|Robot ALERT ID-000089805|Date 09-11-01 Time 21:01 Robot is working   
+2001-09-12 00:01:43 Skytel [005325918] D  ALPHA  [Corporate Operations] FYtI: GCX is completely operational. Pending 942 messages has been processed./ All TI messages has been processed. GCXWEPR2 is down , pending hp repair. T3 line beteween weehawkin and 111 walll are down gcx has no cob
+2001-09-12 00:01:43 Skytel [005254751] D  ALPHA  [Corporate Operations] FYtI: GCX is completely operational. Pending 942 messages has been processed./ All TI messages has been processed. GCXWEPR2 is down , pending hp repair. T3 line beteween weehawkin and 111 walll are down gcx has no cob
+2001-09-12 00:01:44 Metrocall [1064374] B  ALPHA  0 -005 GBP  1.4730/80 -021 CAD  1.5620/30 -017 AUD  0.5168/73 -027 NZD  0.4269/79 -036 DEM  2.1455/67 -019  E/C  1.4991/96 +000 E/Y  108.99/09 +000 E/S  0.6163/66 -029 USD     113.27 -011
+2001-09-12 00:01:44 Metrocall [1064375] B  ALPHA  NIKK _9662.34   -630 30 _99.02/03  5.438% GOLD 280.00
+2001-09-12 00:01:44 Metrocall [1064377] C  ALPHA   ND 13360/13820 +000 TY 10712+ FV 10616  TU 10328+
+2001-09-12 00:01:45 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-12 00:01:45 Arch [0979375] D  ALPHA  933-8559
+2001-09-12 00:01:45 Skytel [004406001] A  ALPHA  p95line@soco.agilent.com||P95 is alive.  
+2001-09-12 00:01:45 Skytel [1293694] D  ALPHA  (sergiop): f2 paro 23:00h
+2001-09-12 00:01:45 Skytel [002357369] C  ALPHA  002599 CYCLIC TEST 
+2001-09-12 00:01:45 Skytel [003327216] A  ALPHA  002599 CYCLIC TEST 
+2001-09-12 00:01:45 Skytel [007109749] B ST NUM  500-564-4000-08117  
+2001-09-12 00:01:45 Skytel [007511792] A  ALPHA  Y! ||Be mobile with Compaq US Reels From Devastating Attack, Thousands Killed Reuters  
+2001-09-12 00:01:45 Skytel [007602683] C SH/TONE 5555    
+2001-09-12 00:01:45 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Disk used % for /clients/IVR/home/rswwwp/work is 86; > than 80
+2001-09-12 00:01:45 Skytel [007529204] B  ALPHA  Scientific American, May issue: Semantic Web
+2001-09-12 00:01:45 Skytel [002350966] B  ALPHA  UPDATE: Bomb threat in Pharr. The Convergys Threat Task Force has deemed this to be a non-credible threat. VT# 249097, Case# 157879. NCC/b
+2001-09-12 00:01:45 Skytel [002139900] D SH/TONE 002599  
+2001-09-12 00:01:46 Skytel [005058318] D  ALPHA  FYI: Convergys is no longer assisting with Technical call volume. NCC/b
+2001-09-12 00:01:48 Skytel [004734359] B ST NUM  751-480-3359   
+2001-09-12 00:01:50 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-12 00:01:50 Skytel [007109281] A SH/TONE 436-8704
+2001-09-12 00:01:52 Arch [0937903] D  ALPHA  92-GOODNIGHT, MY PRINCE.  SWEET DREAMS.  I LOVE YOU. TL.
+2001-09-12 00:01:52 Arch [1604868] B  ALPHA  "Slay, Andre D, |Everyone should report to work at their regularly schedule time. In addition for security reason please have your AT&T ID badge at all time. Andre 
+2001-09-12 00:01:52 Arch [1410805] B  ALPHA  (14)From Store Systems Data Capture: Stores With Potential Link Save Issues    Store 4678 has 3 movement files backed up.  
+2001-09-12 00:01:52 Arch [1603689] C  ALPHA  FYI: Convergys is no longer assisting with Technical call volume. NCC/b
+2001-09-12 00:01:52 Arch [1250382] D  ALPHA  "Slay, Andre D, |Everyone should report to work at their regularly schedule time. In addition for security reason please have your AT&T ID badge at all time. Andre 
+2001-09-12 00:01:52 Arch [0554684] D  ALPHA  FYI: Convergys is no longer assisting with Technical call volume. NCC/b
+2001-09-12 00:01:52 Arch [0418948] B  ALPHA  "Slay, Andre D, |Everyone should report to work at their regularly schedule time. In addition for security reason please have your AT&T ID badge at all time. Andre 
+2001-09-12 00:01:52 Skytel [002406719] D SH/TONE 0500    
+2001-09-12 00:01:52 Skytel [007535933] D SH/TONE 593-1807
+2001-09-12 00:01:54 Arch [0986866] A  ALPHA  "Slay, Andre D, |Everyone should report to work at their regularly schedule time. In addition for security reason please have your AT&T ID badge at all time. Andre 
+2001-09-12 00:01:54 Arch [0915843] A  ALPHA  (26)From Store Systems Data Capture: Stores With Potential Link Save Issues    Store 4678 has 3 movement files backed up.  
+2001-09-12 00:01:54 Arch [0916116] B  ALPHA  From Store Systems Data Capture: Stores With Potential Link Save Issues    Store 4678 has 3 movement files backed up
+2001-09-12 00:01:54 Arch [0618765] D  ALPHA  "Slay, Andre D, |Everyone should report to work at their regularly schedule time. In addition for security reason please have your AT&T ID badge at all time. Andre 
+2001-09-12 00:01:54 Arch [0630612] B  ALPHA  "Slay, Andre D, |Everyone should report to work at their regularly schedule time. In addition for security reason please have your AT&T ID badge at all time. Andre 
+2001-09-12 00:01:54 Skytel [005332045] D ST NUM  913-639-4578   
+2001-09-12 00:01:55 Metrocall [1064385] A  ALPHA  025 +000
+2001-09-12 00:01:56 Arch [0931795] A  ALPHA  | BV_PB:Backup:info:06:01:03:RDCP:RDCP BVOLS to NVOLS  
+2001-09-12 00:01:56 Arch [0916116] B  ALPHA  .  
+2001-09-12 00:01:56 Arch [0930546] A  ALPHA  Alarm: 09:01:41PM  Boiler Network connect   Site 4 Bldg 7 Hot water supply temp is out of range.
+2001-09-12 00:01:56 Skytel [004387035] C SH/TONE 320     
+2001-09-12 00:01:58 Arch [0948401] A  ALPHA  An hourly status is required for priority one ticket 083326. The Assignee, HD Supervisor, and the HelpDesk have been notified.
+2001-09-12 00:01:58 Skytel [004450153] C SH/TONE 326     
+2001-09-12 00:01:59 Metrocall [1708848] A  ALPHA  120>>>>>
+2001-09-12 00:01:59 Metrocall [0903686] B  ALPHA  Frm: Firehouse.Com Pager Notification Sub: Txt: Firehouse.com Breaking News: Officials now reporting that 265 firefighters and rescue personnel, plus dozens of other medical and police officers, peris
+2001-09-12 00:01:59 Metrocall [1849796] B  ALPHA  09/12 00:07 EDT  Sims, Jonathan    .481.0969         Alt=TIR Unit=265175

@@ -1,0 +1,48 @@
+2001-09-11 03:23:00 Metrocall [1898681] C  ALPHA  SLCDBS05:PATROL State Change,Information:Alert on 'NT_MEMORY.NT_MEMORY' from global parameter 'MEMmemAvailableBytes' cancelled; exception no longer exists.,Object Name:/NT_MEMORY/NT_MEMORY,Extra Information:
+2001-09-11 03:23:00 Metrocall [0476499] A  ALPHA  THIS 
+2001-09-11 03:23:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1910
+2001-09-11 03:23:02 Metrocall [0476499] A  ALPHA  IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1910
+2001-09-11 03:23:03 Skytel {0146920} 1 1200 EK 44.27 -0.90 EMN 38.16 +0.06 IBM 96.49 -0.10 MOT 15.02 +0.73
+2001-09-11 03:23:04 Metrocall {1250894} 1 2400 F:oracleadm@sig.com (Oracle Admin) S:MON-1031 Disk Storage Alert on /rockies/archive-phys-rockies-a B:/dev/vx/dsk/oradg/archive 32249632 29069968 2857168 92% /rockies/archive...
+2001-09-11 03:23:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6732
+2001-09-11 03:23:05 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177038. 
+2001-09-11 03:23:05 Skytel {1092655} 3 2400 002186    
+2001-09-11 03:23:05 Skytel {1102375} 1 2400 57266  9  
+2001-09-11 03:23:07 Metrocall [1457944] C  ALPHA  arSupport@NortelNetworks.com Sub: Outage Report @ MAIN on 09/11/2001 00:34:05 for 16 mins, Outage Txt: Subject: Outage Report @ MAIN on 09/11/2001 00:34:05 for 16 mins, Outage 1% on DMS-100/200 running release LET00014 Dan Platt has
+2001-09-11 03:23:09 Metrocall [0477903] D  ALPHA  TOMORROW YOU DO INTUIT. NO MATTER WHAT ARMANDO SAYS.
+2001-09-11 03:23:09 Metrocall [1064378] C  ALPHA  BARCELONA-FRANCE'S TRICHET SAYS STRONG EURO IS IN THE INTERESTS  OF ALL EUROPE
+2001-09-11 03:23:09 Metrocall [1064395] C  ALPHA  )?#`BAQHIAG@D~EAiPxlr_N`kXuJC........................................................................SzDU@@D`PMWeXC
+2001-09-11 03:23:20 Metrocall [1064378] C  ALPHA  UPDATE 1-GERMAN JULY TRADE SUR..U."W..E........n...........
+2001-09-11 03:23:20 Metrocall [1064395] C  ALPHA  .......................................................................................DCUy`@p
+2001-09-11 03:23:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9655
+2001-09-11 03:23:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177045. 
+2001-09-11 03:23:33 Skytel [002394391] B  ALPHA  ORCL 11.46 +0.39 MOT 15.04 +0.75 DELL 22.57 +1.02
+2001-09-11 03:23:33 Skytel [005506970] C  ALPHA  'SailorEminence@aol.com|LUV you|hHello there I was feelin kinda bumbed about leaving you today and then at school , we had a surprise Practical EXam My group got the only 100 YAY i have  
+2001-09-11 03:23:36 Skytel [005325115] C  ALPHA  143-6373-3 [576
+2001-09-11 03:23:38 Skytel [007457733] B  ALPHA  swmon@instantis.com|*PROLONGED* FAULT engines HTTPS: 2001-SEP-10 23:27|Error: 500 read timeout  
+2001-09-11 03:23:38 Skytel [004540235] C  ALPHA  09/11/2001 03:21:09 am: SMDWLN01 changed to Tardy.
+2001-09-11 03:23:39 Metrocall [0727238] B  ALPHA  CFP NATIONAL (1) PROVIDENCE, RI *2ND ALARM* 96 WYNDHAM AVE. 3 STY WD FRM OCC DWELLING. HVY FIRE SHWG O/A. ROOF OPENED UP. 2 DOGS FOUND INSIDE DECEASED. EMS TO THE REAR. FIRE U/C. HOLDING ALL UNITS FOR PROLONGED OVERHAUL. (TAC9/BNN) [7O2]
+2001-09-11 03:23:39 Metrocall [1545558] B  ALPHA  Frm: EA System Notification,GLENDALE,MIS Sub: TPM Problem 00820063 Txt: ExpertView has moved a problem ticket for bur1nt03 to problem state CLOSED. This means that your network management platform has discovered that the node is u
+2001-09-11 03:23:40 Skytel [002349522] A  ALPHA  DUTYMGR> FRANKLIN: SEV2 CORRECTION: San Mateo, CA, Svr SMOR01EXC17 is able to send/receive mail as of 00:13 PT. Supp restored servers to recover. -
+2001-09-11 03:23:40 Skytel [007457496] C  ALPHA  swmon@instantis.com|*PROLONGED* FAULT engines HTTPS: 2001-SEP-10 23:27|Error: 500 read timeout  
+2001-09-11 03:23:40 Skytel [003268305] A  ALPHA  Andy,  K10/ icv5ts check_ais.sh  SL=4 BCHERR(5). What is this.plz call thanks <Atul Patel 732-302-0264>
+2001-09-11 03:23:40 Skytel [002938583] B  ALPHA  APP 0.00 UNCH AERL 0.00 UNCH TDS 96.40 +1.40 USM 49.65 +1.45
+2001-09-11 03:23:40 Skytel [005110361] C  ALPHA  Subject: FYI - SRNT 0031653  - Issue Resolved IP: 129.33.47.168 Problem Type: HTTP Start: 03:00 on 09-11 Resolved: 03:24 on 09-11 
+2001-09-11 03:23:41 Metrocall [1545558] B  ALPHA  p.
+2001-09-11 03:23:42 Skytel [005346919] B  ALPHA  3) ARC 0.00 UNCH GDT 34.15 +0.20 MRK 66.10 +1.80 LLY 77.20 +0.50
+2001-09-11 03:23:42 Skytel [004436449] A ST NUM  310-994-3564   
+2001-09-11 03:23:42 Skytel [004524770] A  ALPHA  buf-McCrackinFord-PittsburghPA: CPE Up at 00:43:51 on 9/11
+2001-09-11 03:23:42 Skytel [003973355] C  ALPHA  4) OM-SW EN SERVICIO ENLACES DE AGUASCALIENTES. TRAFICO COMPLETANDOSE NORMALMENTE. (4
+2001-09-11 03:23:42 Skytel [003497451] C SH/TONE   (64   
+2001-09-11 03:23:42 Skytel [005436525] D  ALPHA  Test #95
+2001-09-11 03:23:42 Skytel [003272032] A  ALPHA  SG Chicago www.as400.ibm.com Browser-RTM Lab
+2001-09-11 03:23:44 Skytel [005061882] C SH/TONE 54234   
+2001-09-11 03:23:44 Skytel [005100153] C  ALPHA  yellowst@soco.agilent.com||stang63 (ET35558) taken offline; failure rate too high. SOURCES_YSII  
+2001-09-11 03:23:46 Skytel [004677894] B  ALPHA  yellowst@soco.agilent.com||stang63 (ET35558) taken offline; failure rate too high. SOURCES_YSII  
+2001-09-11 03:23:46 Skytel [005211276] D  ALPHA  LTC 5.33 +0.03 VTR 11.34 +0.06 LTITX 15.81 +0.01 VCRI 0.00 UNCH
+2001-09-11 03:23:50 Metrocall [1864953] C  ALPHA  Frm: MSN Txt: Hotmail RossM27yvr@netscape.net:re: Ellis wants to talk to you!
+2001-09-11 03:23:50 Metrocall [1062690] A  ALPHA  12197 TIME 03:19 ACTIVE-Pitt  PA4587_Clairn x25CircuitDown
+2001-09-11 03:23:50 Metrocall [1062690] A  ALPHA  12198 TIME 03:19 ACTIVE-Pitt  PA4584_Emlntn x25CircuitDown
+2001-09-11 03:23:50 Metrocall {1175634} 2 2400 711..
+2001-09-11 03:23:52 Arch [0760644] B  ALPHA  123-4567
+2001-09-11 03:23:53 Skytel [005041999] D ST NUM  900-834-2464   

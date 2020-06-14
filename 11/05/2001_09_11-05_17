@@ -1,0 +1,133 @@
+2001-09-11 05:17:00 Arch [0975997] D  ALPHA  OMS <omsoper@oms0 TOSC online for R\&R in Dist. 77  on the PALA . Incident on PALA 33.0 kv / MORAGA Sub
+2001-09-11 05:17:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2024
+2001-09-11 05:17:00 Metrocall [0000329] C  ALPHA  THIS IS A TE....R. D.....G..S..U..TIAL NUMBER  2024
+2001-09-11 05:17:01 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 02:14:51 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:17:03 Metrocall [1064388] B  ALPHA   PAm45600+000
+2001-09-11 05:17:03 Skytel [003414162] A SH/TONE 599-8480
+2001-09-11 05:17:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6846
+2001-09-11 05:17:04 Arch [0634239] D  ALPHA  4987*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:17 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 0 waiting
+2001-09-11 05:17:04 Arch [0986081] A  ALPHA  4987*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:17 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 0 waiting
+2001-09-11 05:17:04 Arch [0810070] B  ALPHA  4987*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:17 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 0 waiting
+2001-09-11 05:17:04 Arch [1079409] A  ALPHA  4987*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:17 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 0 waiting
+2001-09-11 05:17:05 Skytel [004024864] A  ALPHA  wingmon@firstusa.com||SiteScope neapp101 weblogic neapp101 28479 not found (0)    ********************************************************************** This transmission may contain information that is privileged, confidential and/or exemp
+2001-09-11 05:17:05 Skytel [005105954] A ST NUM  0-871-431-8714-31871434343     
+2001-09-11 05:17:05 Skytel {1092655} 3 2400 002224    
+2001-09-11 05:17:06 Arch [0986081] A  ALPHA  9140*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:17 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 1 waiting
+2001-09-11 05:17:06 Arch [0810070] B  ALPHA  9140*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:17 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 1 waiting
+2001-09-11 05:17:06 Skytel {0132085} 1 1200 1C01C0001C00000000006190100003C0700000000051C6124534F020000000001C00000000006190100003C0700000000051C6124534F02000000
+2001-09-11 05:17:10 Arch [1079409] A  ALPHA  9140*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:17 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 1 waiting
+2001-09-11 05:17:10 Arch [0634239] D  ALPHA  9140*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:17 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 1 waiting
+2001-09-11 05:17:10 Arch [0986081] A  ALPHA  5003*2H252_25R 10.100.1.233 has lost connectivity
+2001-09-11 05:17:10 Arch [0976352] A  ALPHA  (10)rbmiddl 73073-DCM-  Preferred guest has been checked and verified to be o.k.  Sent at 04:16      
+2001-09-11 05:17:10 Arch [0810070] B  ALPHA  5003*2H252_25R 10.100.1.233 has lost connectivity
+2001-09-11 05:17:12 Arch [0810070] B  ALPHA  3168*2H252_25R 10.100.0.231 has lost connectivity
+2001-09-11 05:17:12 Arch [1079409] A  ALPHA  5003*2H252_25R 10.100.1.233 has lost connectivity
+2001-09-11 05:17:12 Arch [0634239] D  ALPHA  5003*2H252_25R 10.100.1.233 has lost connectivity
+2001-09-11 05:17:12 Arch [0986081] A  ALPHA  3168*2H252_25R 10.100.0.231 has lost connectivity
+2001-09-11 05:17:13 Arch [1079409] A  ALPHA  3168*2H252_25R 10.100.0.231 has lost connectivity
+2001-09-11 05:17:13 Arch [0634239] D  ALPHA  3168*2H252_25R 10.100.0.231 has lost connectivity
+2001-09-11 05:17:13 Arch [1302348] D  ALPHA  215
+2001-09-11 05:17:19 Arch [0986081] A  ALPHA  1846*2H252_25R 10.100.0.232 has lost connectivity
+2001-09-11 05:17:19 Arch [0915934] D  ALPHA  |Case in SPSG-WW |P3 *ANS*ALPS router crash (Other::Other #189DD647) from 05:16|79  
+2001-09-11 05:17:19 Arch [0810070] B  ALPHA  1846*2H252_25R 10.100.0.232 has lost connectivity
+2001-09-11 05:17:19 Arch [0634239] D  ALPHA  1846*2H252_25R 10.100.0.232 has lost connectivity
+2001-09-11 05:17:19 Arch [1079409] A  ALPHA  1846*2H252_25R 10.100.0.232 has lost connectivity
+2001-09-11 05:17:20 Metrocall [1422750] D  ALPHA  Frm: PRODLA Sub: Alarm Txt: T602 Hi Hi Feed Rate
+2001-09-11 05:17:20 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage detected on DIY: 188 seconds so far 09/11/01 02:15:10 PDT7 621031
+2001-09-11 05:17:20 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage detected on SHOW: 192 seconds so far 09/11/01
+2001-09-11 05:17:21 Arch [0986081] A  ALPHA  7332*2H252_25R 10.100.0.233 has lost connectivity
+2001-09-11 05:17:21 Arch [0810070] B  ALPHA  7332*2H252_2...........n..3.....l..t connectivity
+2001-09-11 05:17:21 Arch [0634239] D  ALPHA  7332*2H252_25R 10.100.0.233 has lost connectivity
+2001-09-11 05:17:21 Arch [1079409] A  ALPHA  7332*2H252_2........0.....3..aP.,..t connectivity
+2001-09-11 05:17:23 Arch [0986081] A  ALPHA  5496*9/11/01 4:13:04 AM Rtr_Cisco inet_cust02 Device not responding
+2001-09-11 05:17:23 Arch [0810070] B  ALPHA  5496*9/11/01..:..:........r..i.o..........................sponding
+2001-09-11 05:17:23 Arch [0634239] D  ALPHA  5496*9/11/01 4:13:04 AM Rtr_Cisco inet_cust02 Device not responding
+2001-09-11 05:17:23 Arch [1079409] A  ALPHA  5496*9/11/01..:..:........r.i. o..........................sponding
+2001-09-11 05:17:24 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE Tray Metrics Down   Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[001]  dev_err[239]
+2001-09-11 05:17:24 Metrocall [0477913] C  ALPHA   02:15:17 PDT7 621058
+2001-09-11 05:17:24 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3417
+2001-09-11 05:17:25 Arch [0634239] D  ALPHA  7621*2H252_25R 10.100.1.231 has lost connectivity
+2001-09-11 05:17:25 Arch [0986081] A  ALPHA  7621*2H252_........................t connectivity
+2001-09-11 05:17:25 Arch [0810070] B  ALPHA  7621*2H252_25R 10.100.1.231 has lost connectivity
+2001-09-11 05:17:25 Arch [1079409] A  ALPHA  7621*2H252_2.......................t connectivity
+2001-09-11 05:17:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9769
+2001-09-11 05:17:27 Arch [1079409] A  ALPHA  1278*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:45 OMA-PIXIN01 %PIX-1-103005: Secondary Other firewall reporting failure.
+2001-09-11 05:17:27 Arch [0634239] D  ALPHA  1278*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:45 OMA-PIXIN01 %PIX-1-103005: Secondary Other firewall reporting failure.
+2001-09-11 05:17:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket 
+2001-09-11 05:17:27 Arch [0986081] A  ALPHA  1278*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:45 OMA-PIXIN01 %PIX-1-103005: Secondary Other firewall reporting failure.
+2001-09-11 05:17:27 Arch [1026292] B  ALPHA  Backup@NYED.usco|Operator Attention|(Server: "NYEPSROGUE" Job: "Monday backup" Device: "HP 1") Please inser t ove
+2001-09-11 05:17:27 Arch [0810070] B  ALPHA  1278*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:45 OMA-PIXIN01 %PIX-1-103005: Secondary Other firewall reporting failure.
+2001-09-11 05:17:27 Arch [0000101] B  ALPHA  MSN 114 hello Message from NOC PCB.
+2001-09-11 05:17:28 Arch [1425048] C  ALPHA  timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178298. 
+2001-09-11 05:17:28 Arch [1026292] B  ALPHA  rwritable media into the changer using the slot import command. 
+2001-09-11 05:17:28 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcb-wbs01 Sev:4 # 700003 LowOnSockets WBS 3.1.14.1 09/11/01 02:17:01 PDT7 Instance: ChkSysRes Module: ChkSysRes Details: HostName=labcb-wbs01 LowOnSockets: TotalConns=202 EstabConns=95 ListenConns=0 WarningMaxBad
+2001-09-11 05:17:32 Arch [0986081] A  ALPHA  6466*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:46 OMA-PIXIN02 %PIX-1-104003: Primary Switching to FAILED.
+2001-09-11 05:17:32 Arch [0810070] B  ALPHA  6466*NETLOGG..:..n..c..e. e. ..............................................................................LED.
+2001-09-11 05:17:32 Arch [1079409] A  ALPHA  6466*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:46 OMA-PIXIN02 %PIX-1-104003: Primary Switching to FAILED.
+2001-09-11 05:17:32 Arch [0634239] D  ALPHA  6466*NETLOGG..:..n..c..e..e. P.............................................................................LED.
+2001-09-11 05:17:33 Skytel [007098397] D SH/TONE 999     
+2001-09-11 05:17:34 Arch [0986081] A  ALPHA  8204*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:46 OMA-PIXIN02 %PIX-1-104004: Primary Switching to OK.
+2001-09-11 05:17:34 Arch [0810070] B  ALPHA  8204*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:46 OMA-PIXIN02 %PIX-1-104004: Primary Switching to OK.
+2001-09-11 05:17:34 Arch [1079409] A  ALPHA  8204*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:46 OMA-PIXIN02 %PIX-1-104004: Primary Switching to OK.
+2001-09-11 05:17:34 Arch [0634239] D  ALPHA  2622*10.100.0.232 alarm cleared
+2001-09-11 05:17:35 Skytel [004690086] B SH/TONE 23      
+2001-09-11 05:17:35 Skytel [007564198] B SH/TONE 6       
+2001-09-11 05:17:35 Skytel [005240623] D  ALPHA   DOWN (SS) Belgium Firewall (chimaera-be) failed
+2001-09-11 05:17:37 Skytel [007585589] B ST NUM  614-995-1526-911    
+2001-09-11 05:17:38 Skytel [003509194] C ST NUM  618-347-6803   
+2001-09-11 05:17:39 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs01 Sev:4 # 700002 LowOnCPU WBS 3.1.14.1 09/11/01 02:17:10 PDT7 Instance: ChkSysRes Module: ChkSysRes Details: HostName=labcp-wbs01 Idl=0 usr=46 sys=14 io=41
+2001-09-11 05:17:39 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs01 
+2001-09-11 05:17:39 Metrocall [0475145] C  ALPHA  Frm: BB@thomsoninvest.net Sub: !BB - 4642010! shilling.cpu - 200999999999999 Txt: [4642010] red Tue Sep 11 05:17:50 EDT 2001 up: 19 day(s), 1 users, 790 procs, load=563 LOAD AVG on shilling is 563 Please see: http://et-p/sysadmin/bb/
+2001-09-11 05:17:39 Metrocall [1423721] C  ALPHA  Frm: net
+2001-09-11 05:17:40 Skytel [004592090] C  ALPHA  SEA-BDC-WINS-1:Device Inaccessible
+2001-09-11 05:17:41 Metrocall [0477913] C  ALPHA  Sev:4 # 700003 LowOnSockets WBS 3.1.14.1 09/11/01 02:17:10 PDT7 Instance: ChkSysRes Module: ChkSysRes Details: HostName=labcp-wbs01 LowOnSockets: TotalConns=197 EstabConns=94 ListenConns=0 WarningMaxBad
+2001-09-11 05:17:41 Metrocall [1423721] C  ALPHA  iq@tisi.com Sub: TISIEXCHG01 : Overall 
+2001-09-11 05:17:41 Metrocall [002118707] A  ALPHA  Frm: netiq@tisi.com Sub: TISIEXCHG01 : Overall CPU Overloaded Txt: Overall CPU Overloaded
+2001-09-11 05:17:41 Metrocall [1560616] C  ALPHA  Frm: netiq@tisi.com Sub: TISIEXCHG01 : Overall CPU Overloaded Txt: Overall CPU Overloaded
+2001-09-11 05:17:42 Arch [0634239] D  ALPHA  8204*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:46 OMA-PIXIN02 %PIX-1-104004: Primary Switching to OK.
+2001-09-11 05:17:42 Arch [0986081] A  ALPHA  2622*10.100.0.232 alarm cleared
+2001-09-11 05:17:42 Arch [0810070] B  ALPHA  2622*10.100.0.232 alarm cleared
+2001-09-11 05:17:42 Arch [1079409] A  ALPHA  2622*10.100.0.232 alarm cleared
+2001-09-11 05:17:42 Skytel [003466095] D SH/TONE 102-0005
+2001-09-11 05:17:43 Arch [0634239] D  ALPHA  0789*10.100.0.231 alarm cleared
+2001-09-11 05:17:43 Arch [0986081] A  ALPHA  0789*10.100.....................
+2001-09-11 05:17:43 Metrocall [1423721] C  ALPHA  CPU Overloaded Txt: Overall CPU Overloaded
+2001-09-11 05:17:44 Arch [0810070] B  ALPHA  0789*10.100.0.231 alarm cleared
+2001-09-11 05:17:44 Arch [1079409] A  ALPHA  0789*10.100.....................
+2001-09-11 05:17:45 Arch [1079409] A  ALPHA  9934*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:46 OMA-PIXIN02 %PIX-1-105003: Primary Monitoring on interface 0 waiting
+2001-09-11 05:17:45 Arch [0844432] A  ALPHA  root <root@local|Host UCB-e0/0 is DOWN!|***** NetSaint 0.0.4 *****\n\nHost "e0/0 63.136.160.1" is DOWN!\n\nDate/Time
+2001-09-11 05:17:45 Arch [0634239] D  ALPHA  9934*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:46 OMA-PIXIN02 %PIX-1-105003: Primary Monitoring on interface 0 waiting
+2001-09-11 05:17:45 Arch [0986081] A  ALPHA  9934*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:46 OMA-PIXIN02 %PIX-1-105003: Primary Monitoring on interface 0 waiting
+2001-09-11 05:17:45 Arch [0555028] B  ALPHA  root <root@local|Host UCB-e0/0 is DOWN!|***** NetSaint 0.0.4 *****\n\nHost "e0/0 63.136.160.1" is DOWN!\n\nDate/Time
+2001-09-11 05:17:45 Arch [0810070] B  ALPHA  9934*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:46 OMA-PIXIN02 %PIX-1-105003: Primary Monitoring on interface 0 waiting
+2001-09-11 05:17:47 Arch [0844432] A  ALPHA  : Tue Sep 11 05:08:19 2001 \n 
+2001-09-11 05:17:47 Arch [0810070] B  ALPHA  3506*10.100.0.233 alarm cleared
+2001-09-11 05:17:47 Arch [1079409] A  ALPHA  3506*10.100.0.233 alarm cleared
+2001-09-11 05:17:47 Arch [0555028] B  ALPHA  : Tue Sep 11 05:08:21 2001 \n 
+2001-09-11 05:17:47 Arch [0986081] A  ALPHA  3506*10.100.0.233 alarm cleared
+2001-09-11 05:17:47 Arch [0634239] D  ALPHA  3506*10.100.0.233 alarm cleared
+2001-09-11 05:17:48 Skytel [003267485] D SH/TONE 5148    
+2001-09-11 05:17:49 Arch [0986081] A  ALPHA  8374*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:47 OMA-PIXIN02 %PIX-1-105006: Primary Link status 'Up' on interface 0
+2001-09-11 05:17:49 Arch [0634239] D  ALPHA  8374*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:47 OMA-PIXIN02 %PIX-1-105006: Primary Link status 'Up' on interface 0
+2001-09-11 05:17:53 Skytel [002357955] A  ALPHA  carolyn.mcnulty@eds.com||#103077 Palm - WorldCom is currently working on the Siebel incident. Peregrine incident is closed and the current Vantive case is #19500159.   
+2001-09-11 05:17:54 Metrocall [1874884] B  ALPHA   09/11/01 02:17:43; ;OR18 - ;logic id:AXE10 PKCT4ER APZ EMG_CNTL_DOWN OR18                                                                _7
+2001-09-11 05:17:55 Arch [0810070] B  ALPHA  8374*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:47 OMA-PIXIN02 %PIX-1-105006: Primary Link status 'Up' on interface 0
+2001-09-11 05:17:55 Arch [1079409] A  ALPHA  8374*NETLOGG..:..n..c..e. e. P.....ror: Sep 11 05:16:47 OMA-PIXIN02 %PIX-1-105006: Primary Link status 'Up' on interface 0
+2001-09-11 05:17:55 Arch [0986081] A  ALPHA  4558*10.100.1.231 alarm cleared
+2001-09-11 05:17:55 Arch [0634239] D  ALPHA  4558*10.100...2....aP....e..E..
+2001-09-11 05:17:55 Skytel [003945950] D  ALPHA  carolyn.mcnulty@eds.com||#103077 Palm - WorldCom is currently working on the Siebel incident. Peregrine incident is closed and the current Vantive case is #19500159.   
+2001-09-11 05:17:55 Skytel [003276510] D  ALPHA  carolyn.mcnulty@eds.com||#103077 Palm - WorldCom is currently working on the Siebel incident. Peregrine incident is closed and the current Vantive case is #19500159.   
+2001-09-11 05:17:57 Arch [0810070] B  ALPHA  4558*10.100.1.231 alarm cleared
+2001-09-11 05:17:57 Arch [1079409] A  ALPHA  4558*1..1.....2....a.. .e..ed
+2001-09-11 05:17:57 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19
+2001-09-11 05:17:57 Arch [0986081] A  ALPHA  9171*9/11/01 4:13:20 AM Rtr_Cisco inet_cust01 Device not responding
+2001-09-11 05:17:57 Arch [0634239] D  ALPHA  9171*9/11/01..:..:.@......r.i.o..net_cust01 Device not responding
+2001-09-11 05:17:57 Skytel [005436525] D  ALPHA  Test Message #42-IX_T0405
+2001-09-11 05:17:57 Skytel [004524770] A  ALPHA  spf-TheOrthopedicCenter-NashuaNH: CPE Up at 00:58:37 on 9/11
+2001-09-11 05:17:57 Skytel [005112809] C  ALPHA  04:16CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240400: Uncorrectable write error
+2001-09-11 05:17:58 Arch [0810070] B  ALPHA  9171*9/11/01 4:13:20 AM Rtr_Cisco inet_cust01 Device not responding
+2001-09-11 05:17:58 Arch [1425048] C  ALPHA  > chunk 178305. 
+2001-09-11 05:17:58 Arch [0986081] A  ALPHA  7325*Rtr_Cisco inet_cust01 alarm cleared
+2001-09-11 05:17:58 Arch [1079409] A  ALPHA  9171*9/11/01 4:13:20 AM Rtr_Cisco inet_cust01 Device not responding
+2001-09-11 05:17:59 Skytel [005190650] C  ALPHA  alert@msn.com||Hotmail OpinionSurveys/YIO Special Offer:FREE Music CD for Dogs  
+2001-09-11 05:17:59 Skytel [007109749] B ST NUM  211-312-4741-179    

@@ -1,0 +1,45 @@
+2001-09-11 04:16:00 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 144W MAJ=NONE
+2001-09-11 04:16:00 Metrocall [1070370] A  ALPHA  Frm: RAProd Sub: Task Alert - Accounting Txt: Overrun: Job = Account Coding Process - PplS
+2001-09-11 04:16:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1963
+2001-09-11 04:16:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1963
+2001-09-11 04:16:01 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 01:14:17 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 04:16:01 Skytel [005347464] C  ALPHA  MED  BOX 2029/ 4798 MOUNTAIN RD CHESAPEAKE HIGH/ CROSS ST  VENTNOR RD/ MAP 10E12
+2001-09-11 04:16:03 Skytel [002401821] D  ALPHA  sahblda2 Distributed Monitoring pf.ussa11.BLUE.dm.sahblda2/Load average (fifteen minute) on host sahblda2 09/11/01 00:00:11 PDT  Status: >> ussa11.SSMC 
+2001-09-11 04:16:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6785
+2001-09-11 04:16:04 Arch [0770336] A  ALPHA  "Shaw, Cliff" <C|No file to extract for Amex|There was no source file for this feed. You will find a copy of this message in your inbox. -----Original Message----- From: Guest Ftp Account Feeds [mailto:ftpfeeds@lodo.exactis.com] Sent: Tuesda
+2001-09-11 04:16:04 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope http://www.globaltrust.cl Production Web Sites (emt-4b) 90643 timed out reading 
+2001-09-11 04:16:06 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope http://www.skandia.com.co Production Web Sites (emt-4b) 90340 timed out reading 
+2001-09-11 04:16:06 Skytel [0001461] B  ALPHA  GLOBEX   03:15     GEH  9662.5    .5-   GEM    ----   ----   ESU  109900   325+   SPU  109900   330+   NDU  138200  1150+   6JZ    8286    57-   6EZ    8973A    7-   6SZ    5939A    1-   6BZ   14508A   20-   6CZ    6391     1+   
+2001-09-11 04:16:06 Skytel [005525174] B  ALPHA  Pending group quest count is 38.000000
+2001-09-11 04:16:10 Skytel [1800019] A  ALPHA  GLOBEX   03:15     GEH  9662.5    .5-   GEM    ----   ----   ESU  109900   325+   SPU  109900   330+   NDU  138200  1150+   6JZ    8286    57-   6EZ    8973A    7-   6SZ    5939A    1-   6BZ   14508A   20-   6CZ    6391     1+   
+2001-09-11 04:16:12 Skytel [003926118] B SH/TONE 6270    
+2001-09-11 04:16:14 Arch [1650373] B  ALPHA  NOC TKT at 04:16 AM EDT: TKT 37044 Closed - Informix 30 and 33 are generating excessive timeouts for Sams/Walmart. Assignee: Link, David A - Group: team6 [CC:dlink] 
+2001-09-11 04:16:14 Arch [0983091] A  ALPHA  NOC TKT at 04:16 AM EDT: TKT 37044 Closed - Informix 30 and 33 are generating excessive timeouts for Sams/Walmart. Assignee: Link, David A - Group: team6 [CC:team6] 
+2001-09-11 04:16:14 Arch [1650152] C  ALPHA  NOC TKT at 04:16 AM EDT: TKT 37044 Closed - Informix 30 and 33 are generating excessive timeouts for Sams/Walmart. Assignee: Link, David A - Group: team6 [CC:team6] 
+2001-09-11 04:16:18 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177642. 
+2001-09-11 04:16:18 Arch [1413952] A  ALPHA  04-PLS CALL SCOTT IN THE HARD NEWS CENTER IMMEDIATELY, 212-975-7387.
+2001-09-11 04:16:18 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope http://www.if.cl Production Web Sites (emt-4b) 42673 timed out reading 
+2001-09-11 04:16:19 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope http://www.skandia.de Production Web Sites (emt-4b) 87877 timed out reading 
+2001-09-11 04:16:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9708
+2001-09-11 04:16:25 Arch [1036247] B  ALPHA  MED  BOX 2029/ 4798 MOUNTAIN RD CHESAPEAKE HIGH/ CROSS ST  VENTNOR RD/ MAP 10E12/ TAC BRAVO/ TOC 0357/  CALL TO POLICE FROM PAY PHONE 3RD PARTY UNITS O/L UNABLE TO LOCATE PT UNITS WENT AVAILABLE -F/A
+2001-09-11 04:16:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3356
+2001-09-11 04:16:31 Arch [0925366] B  ALPHA   318643;Sep 11 00:17:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 04:16:31 Skytel [005524994] A SH/TONE 1       
+2001-09-11 04:16:31 Skytel [005135759] D ST NUM  410-3767-28    
+2001-09-11 04:16:33 Skytel [002747039] D ST NUM  548-4054-77    
+2001-09-11 04:16:39 Metrocall [1064374] B  ALPHA  YEN  121.73/78 +080 EUR  0.8992/95 +011 CHF  1.6854/64 -025 GBP  1.4565/71 +002 CAD  1.5617/27 -009 AUD  0.5149/54 +016  NZD  0.4261/71 -046 DEM  2.1744/48 -026  E/C  1.5157/59 +002 E/Y  109.47/52 +082 E/S  0.6173/78 +015 USD     114.76 -002
+2001-09-11 04:16:42 Skytel [005112809] C  ALPHA  03:16CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240416: Uncorrectable write error
+2001-09-11 04:16:44 Skytel [005130224] A  ALPHA  DRIVE HOME SAFELY, I ENJOYED YOU. LOVE, S.J.
+2001-09-11 04:16:44 Skytel [005092733] D  ALPHA  dss@tcysnp34.travelocity.com|TCYSNP34 Error occurred in cruisedata.csh at Tue Sep 11 03:16:25 CDT 2001| 
+2001-09-11 04:16:44 Skytel [002357369] C  ALPHA  002204 CYCLIC TEST 
+2001-09-11 04:16:44 Skytel [002139900] D SH/TONE 002204  
+2001-09-11 04:16:44 Skytel [003327216] A  ALPHA  002204 CYCLIC TEST 
+2001-09-11 04:16:48 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177649. 
+2001-09-11 04:16:48 Skytel [007641751] B SH/TONE 5827    
+2001-09-11 04:16:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1229..
+2001-09-11 04:16:55 Skytel [003581147] C  ALPHA  alert@msn.com||Hotmail anna grochowska:zebranie   (94
+2001-09-11 04:16:57 Skytel [004708324] B ST NUM  0-800-363-9803 
+2001-09-11 04:16:57 Skytel [005436525] D  ALPHA  Test #13
+2001-09-11 04:16:57 Skytel [004524770] A  ALPHA  wil-CornellTrading-WillistonVT-0: CPE Up at 00:58:05 on 9/11
+2001-09-11 04:16:59 Skytel [002842744] C SH/TONE 99      
+2001-09-11 04:16:59 Skytel [007109749] B ST NUM  401-114-6731-1312   

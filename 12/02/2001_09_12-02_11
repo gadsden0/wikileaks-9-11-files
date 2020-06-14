@@ -1,0 +1,97 @@
+2001-09-12 02:11:00 Metrocall [0525954] A  ALPHA  Server:Chelmick at 10.17.1.52 is DOWN.
+2001-09-12 02:11:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4670
+2001-09-12 02:11:00 Skytel [007641456] A SH/TONE 111     
+2001-09-12 02:11:00 Skytel [005255423] D  ALPHA  root@planetu.value.net|LOGIN PAGE ERROR: 66.35.224.211!|09/11/2001 23:06:41 66.35.224.211  461 Web Access Error: 500 read timeout  
+2001-09-12 02:11:00 Skytel [005343224] C ST NUM  011-1111-11    
+2001-09-12 02:11:01 Arch [0922298] C  ALPHA  "Harwood, Andrew|ADCC Lockout V2.0|ADCC Lockout 2:07 fayetteville fayetteville a2932 lock out normal recall page no lock out
+2001-09-12 02:11:01 Arch [0477145] C  ALPHA  BLISH A PL
+2001-09-12 02:11:01 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-12 02:11:01 Arch [0578226] A  ALPHA  " Ask Prod Engr |Question Still Assigned To You |> ---------- > From: Ask Prod Engr [SMTP:DAVEM@ACTEL.COM] > Sent: Tuesday, September 11, 2001 11:00:01 PM > To: Skippy; wanida.paolini@actel.com > Subject: Question Still Assigned To You > Aut
+2001-09-12 02:11:01 Arch [1425204] B  ALPHA  (17)16:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:11:01 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchD
+2001-09-12 02:11:03 Arch [0477145] C  ALPHA  (6)22:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:11:03 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-12 02:11:03 Arch [0578226] A  ALPHA  Dave Morgan <dav|Morgan's Charter Fab1 Output|> ---------- > From: Dave Morgan[SMTP:DAVEM@ACTEL.COM] > Sent: Tuesday, September 11, 2001 11:11:01 PM > To: davem@actel.com > Subject: Morgan's Charter Fab1 Output > Auto forwarded by a Rule > 
+2001-09-12 02:11:03 Arch [1425048] C  ALPHA  ata.pl line 342, <SOCK_192.168.35.19> chunk 192454. 
+2001-09-12 02:11:03 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 65 processes on report1.ccbill.com. Timestamp key: 20010911230900 
+2001-09-12 02:11:04 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 02:11:04 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 66 processes on report1.ccbill.com. Timestamp key: 20010911230901 
+2001-09-12 02:11:05 Skytel [005437867] C SH/TONE 911281  
+2001-09-12 02:11:06 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-12 02:11:06 Arch [0578226] A  ALPHA  " Ask Prod Engr |Question Still Assigned To You |> ---------- > From: Ask Prod Engr [SMTP:DAVEM@ACTEL.COM] > Sent: Tuesday, September 11, 2001 11:00:02 PM > To: Skippy; solomon.wolday@actel.com > Subject: Question Still Assigned To You > Aut
+2001-09-12 02:11:06 Skytel {1092655} 3 2400 002642    
+2001-09-12 02:11:08 Arch [0578226] A  ALPHA  " Ask Prod Engr |Question Still Assigned To You |> ---------- > From: Ask Prod Engr [SMTP:DAVEM@ACTEL.COM] > Sent: Tuesday, September 11, 2001 11:00:01 PM > To: Skippy; wanida.paolini@actel.com > Subject: Question Still Assigned To You > Aut
+2001-09-12 02:11:10 Arch [0510133] B  ALPHA  (17)17:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:11:10 Arch [0578226] A  ALPHA  " Ask Prod Engr |You Need To Assign A Question! |> ---------- > From: Ask Prod Engr [SMTP:DAVEM@ACTEL.COM] > Sent: Tuesday, September 11, 2001 11:00:01 PM > To: Skippy; Howdy Jen ; Howdy Minal > Subject: You Need To Assign A Question! > Auto
+2001-09-12 02:11:10 Arch [0625513] C  ALPHA  (20)14:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:11:10 Arch [0545165] D  ALPHA  (17)48:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:11:10 Metrocall [1064378] C  ALPHA  AUSSIE MEANDERS IN A DAZE AS U.S. TRAGEDY UNFOLDS
+2001-09-12 02:11:10 Metrocall [1064395] C  ALPHA  )?#`B...............2....@(.........................0@..`..@<.@>!`..`..P9B`{z@p
+2001-09-12 02:11:12 Arch [0625513] C  ALPHA  (21)14:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:11:12 Arch [0545165] D  ALPHA  (18)48:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:11:12 Arch [0000101] B  ALPHA  MSN 078 hello Message from NOC PCB.
+2001-09-12 02:11:18 Arch [0983091] A  ALPHA  From NOC at 02:11 AM EDT: Plz call the NOC regarding a CSMC and CSI/Vesta client call. They are disputing an explanation for an earlier issue. -Scott [CC:team6] 
+2001-09-12 02:11:18 Arch [1650152] C  ALPHA  From NOC at 02:11 AM EDT: Plz call the NOC regarding a CSMC and CSI/Vesta client call. They are disputing an explanation for an earlier issue. -Scott [CC:team6] 
+2001-09-12 02:11:19 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-12 02:11:19 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=lbs  Mode=Incremental_Dump         # Our PID=17412    time='09/12/01 02:10:03'    sybase on
+2001-09-12 02:11:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1023
+2001-09-12 02:11:21 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-12 02:11:21 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDSSPX_EQNY1  Database=eq_program  Mode=Incremental_Dump         # Our PID=17393    time='09/12/01 02:10:04'    sy
+2001-09-12 02:11:23 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-12 02:11:23 Arch [0510133] B  ALPHA  (18)17:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:11:23 Arch [1367512] C  ALPHA  (17)14:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:11:25 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-12 02:11:25 Arch [1367512] C  ALPHA  (18)14:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:11:27 Arch [0925366] B  ALPHA   318643;Sep 11 22:12:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-12 02:11:30 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-12 02:11:30 Metrocall [1421210] C  ALPHA  LAKEJob 378304/VSIOWNER/OMSJRNMGR has MSGW status.
+2001-09-12 02:11:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3279
+2001-09-12 02:11:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3279
+2001-09-12 02:11:32 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-12 02:11:33 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192461. 
+2001-09-12 02:11:33 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDSSPX_EQNY1  Database=eq_program  Mode=Incremental_Dump         # Our PID=17393    time='09/12/01 02:10:06'    sy
+2001-09-12 02:11:33 Arch [0739731] A  ALPHA  7200
+2001-09-12 02:11:33 Arch [1439455] D  ALPHA  20-THE NYPD WERE AT THE PREMISES AT 1:42 AM TO SPEAK WITH RESIDENT IN ROOM 319.
+2001-09-12 02:11:33 Skytel [004407711] D  ALPHA  DUTYMGR> VIEWPOINTE: SEV1 Dallas, TX File failed on local load on SVR V020B004 as of 23:44 MT. Supp is investigating. - 866-814-2830
+2001-09-12 02:11:33 Skytel [002747039] D SH/TONE 40970   
+2001-09-12 02:11:34 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34
+2001-09-12 02:11:35 Skytel [005338280] C SH/TONE 28865   
+2001-09-12 02:11:35 Skytel [005244073] C ST NUM  807-590-7590-7599007
+2001-09-12 02:11:35 Skytel [005001895] B  ALPHA  [sps/55] 104 supplier.intel.com relay-ssl 0.0 FAILURE Server closedconnection immediately. (/ifm/healthcheck.asp) 3:28:30
+2001-09-12 02:11:36 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-12 02:11:37 Skytel [005203253] B SH/TONE 879-1671
+2001-09-12 02:11:37 Skytel [004407481] C ST NUM  945-897-5833 U 
+2001-09-12 02:11:37 Skytel [004731963] C ST NUM  313-382-9502   
+2001-09-12 02:11:37 Skytel [004702132] B  ALPHA  support@pconline.com|Server newton FTP DOWN at 01:06:15|Server newton FTP DOWN at 01:06:15 Address: 206.
+2001-09-12 02:11:37 Skytel [005127231] D ST NUM  9774761314
+2001-09-12 02:11:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:11:41 Skytel [007102168] C SH/TONE 6023    
+2001-09-12 02:11:41 Skytel [004415444] B SH/TONE 16) 5755
+2001-09-12 02:11:43 Skytel [005178080] A SH/TONE 104     
+2001-09-12 02:11:43 Skytel [005436525] D  ALPHA  Test #10
+2001-09-12 02:11:45 Skytel [005094397] D  ALPHA  NTManage@bsmg.com|Message from NTManage|This Message is from NMS: Device Name: Campbell Router Address: 144.210.154.246 is Not Reachable Type: Router Ping: REQ Timed Out NMS: Device in severe error state - all other checks aborted.  CAMPBEL
+2001-09-12 02:11:48 Arch [0507414] B  ALPHA  (29)05:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:11:48 Arch [1405158] B  ALPHA  (14)18:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:11:48 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-12 02:11:48 Arch [0578226] A  ALPHA  Dave Morgan <dav|Morgan's Charter Upload Files|> ---------- > From: Dave Morgan[SMTP:DAVEM@ACTEL.COM] > Sent: Tuesday, September 11, 2001 11:11:05 PM > To: davem@actel.com > Subject: Morgan's Charter Upload Files > Auto forwarded by a Rule >
+2001-09-12 02:11:48 Skytel [005123097] C SH/TONE 477-1991
+2001-09-12 02:11:49 Arch [0507414] B  ALPHA  (30)05:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:11:49 Arch [1405158] B  ALPHA  (15)18:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:11:49 Arch [0578226] A  ALPHA  Postmaster@stms.|DELIVERY FAILURE: User ZHULJ (ZH|> ---------- > From: Postmaster@stms.stt.com.sg[SMTP:POSTMASTER@STMS.STT.COM.SG] > Sent: Tuesday, September 11, 2001 11:11:05 PM > To: Dave Morgan > Subject: DELIVERY FAILURE: User ZHULJ (ZHU
+2001-09-12 02:11:50 Skytel [003936554] C SH/TONE 382316  
+2001-09-12 02:11:50 Skytel [005259174] B ST NUM  004-4040-2
+2001-09-12 02:11:51 Arch [1849875] A  ALPHA  "PNADW" <pnadw@p|dworder.txt check|Sep 11 2001 11:10PM - ERROR! - dworder.txt was not found on COPYMGR!. 
+2001-09-12 02:11:51 Arch [1050542] D  ALPHA  Server mp240-unet01 HTTP,LDAP,Lotus Notes SVCDOWN at 23:10:44
+2001-09-12 02:11:51 Arch [0930661] B  ALPHA  Server mp240-unet01 HTTP,LDAP,Lotus Notes SVCDOWN at 23:10:44
+2001-09-12 02:11:52 Skytel [005058097] A  ALPHA  WARNING: Server CNApp1/Cupertino/HP/US is Not Responding. Reason: Server not responding
+2001-09-12 02:11:52 Skytel [004571707] C ST NUM  233-3333-3 (44 
+2001-09-12 02:11:53 Metrocall [1064375] B  ALPHA  NIKK _9610.10   -682 30 _99.02/03  5.438% GOLD 283.50/250 -250 S 4.23/33  PL 452.00 KS11   475.60 -64.97 HSI  _9425.97 -991.3 SSI   1435.22  -13.5 ORD   3051.30  -13.9 TWII  4176.93 -112.1 PD 455.00  JG 1.435%
+2001-09-12 02:11:53 Metrocall [1115386] C  ALPHA  From: Harwood, Andrew J. Subj: ADCC Lockout V2.0 ADCC Lockout 2:07 fayetteville fayetteville a2932 lock out normal recall page no lock out
+2001-09-12 02:11:53 Metrocall [1116629] B  ALPHA  From: Harwood, Andrew J. Subj: ADCC Lockout V2.0 ADCC Lockout 2:07 fayettevil
+2001-09-12 02:11:55 Metrocall [1116629] B  ALPHA  le fayetteville a2932 lock out normal recall page no lock out
+2001-09-12 02:11:56 Skytel [003897808] A SH/TONE 662-6696
+2001-09-12 02:11:58 Skytel [003949541] B ST NUM  508-954-4448   
+2001-09-12 02:11:58 Skytel [007047515] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 02:11:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8101
+2001-09-12 02:11:59 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-12 02:11:59 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=gsm  Mode=Incremental_Dump         # Our PID=18095    time='09/12/01 02:10:06'    sybase on

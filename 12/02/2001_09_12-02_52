@@ -1,0 +1,86 @@
+2001-09-12 02:52:00 Metrocall [1064387] A  ALPHA  GB 6171/6178+000 CT_3650/773/962 +000 KC_4835/5130/510+000 SB _787/_761/745+000 SE 2095/2117/241+000 CC _865/922/935 +000 OJ 8025/8250/835+000 YX 56900/57150 +0000 CR 19820/19970 +0000 DX 11464/11501  +000 EJ 10872/10761  +000  RK 95565/95625  +000
+2001-09-12 02:52:02 Metrocall [1544818] A  ALPHA  ORD-NS1 IW Monitor - The amount of disk space on drive E: is 120.8 MB.  "Server ORD-NS1/PO/DSVR/KAIPERM - The amount of disk space on drive E:is 120.8 MB. Threshold is 300 Meg."
+2001-09-12 02:52:02 Metrocall [1495978] C  ALPHA  (From ICON01) IR:1284325 JOB:DEDL689B ABD:U4038
+2001-09-12 02:52:02 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4711
+2001-09-12 02:52:02 Skytel [005046408] C SH/TONE 70729   
+2001-09-12 02:52:04 Metrocall [1495978] C  ALPHA   P:3 ON DALA 09/12 01:45
+2001-09-12 02:52:05 Skytel [005089442] A SH/TONE 1720    
+2001-09-12 02:52:07 Skytel {0619497} 1 2400 31740
+2001-09-12 02:52:10 Arch [0987275] C  ALPHA  sb3: INFO0021 - 2:45PM - POSI batch has not arrived(160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:15
+2001-09-12 02:52:10 Metrocall [1064391] B  ALPHA  LME FUTURES       MCU_1453/1458 -019 MAL 1373/1378 -012 MAA 1153/1163 -012 MNI 5250/5300 -110 MSN 3760/3810 -090 MPB 4830/4850 -120 MZN _836/_840 -009
+2001-09-12 02:52:12 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-12 02:52:12 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs04 Sev:4 # 36406 UnacceptableQualityOfICAPData WBS 3.1.14.1 09/11/01 23:51:49 PDT7 Instance: WBSSched_|_NBC/KPNX_|_Created:09/11/01_01:09:08 Module: GatewayConnection Details: PID=17121 TID=88 Percent of G
+2001-09-12 02:52:12 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs04 Sev:4 # 36314 ExceptionInInitializeVBIDecoder WBS 3.1.14.1 09/11/01 23:51:50 PDT7 Instance: WBSSched_|_NBC/KPNX_|_Created:09/11/01_01:09:08 Module: GatewayConnection Details: PID=17121 TID=88 Unable
+2001-09-12 02:52:17 Arch [0976352] A  ALPHA  (25)clhicks 75381-DCM-  CA7- ESC - Update - FI2180D - Apps. still researching abend. Tony Puckett updated. Impacting FINC/VDR/INV-MAT/ARG&BRZ CLUB.  Sent at 01:51      
+2001-09-12 02:52:17 Arch [0976486] B  ALPHA  Fukumi Yamaura <|ASAP: STOP Spider|Hello Sorry, at midnight. But, We received a mail from the following site. http://www.cpi.ad.jp/ It said they were in trouble with the frequent access from LYCOS Spi
+2001-09-12 02:52:17 Metrocall [0477913] C  ALPHA   to
+2001-09-12 02:52:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1064
+2001-09-12 02:52:23 Arch [1429715] A  ALPHA  22:ABS:
+2001-09-12 02:52:23 Arch [1302832] A  ALPHA  (10)"WhatsUp" <jonat|10.164.32.30 CABWGP01 Burlingame, CA is DOWN at 01:58:16 
+2001-09-12 02:52:23 Arch [0696693] B  ALPHA  (8)18:ABS:
+2001-09-12 02:52:23 Arch [1073232] A  ALPHA  (10)21:ABS:
+2001-09-12 02:52:23 Arch [0911005] D  ALPHA  (10)"WhatsUp" <jonat|10.164.32.30 CABWGP01 Burlingame, CA is DOWN at 01:58:17 
+2001-09-12 02:52:23 Arch [0285274] C  ALPHA  (27)18:ABS:
+2001-09-12 02:52:30 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192930. 
+2001-09-12 02:52:30 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-12 02:52:30 Metrocall [1544820] B  ALPHA  ORD-NS1 IW Monitor - The amount of disk space on drive E: is 120.8 MB.  "Server ORD-NS1/PO/DSVR/KAIPERM - The amount of disk space on drive E:is 120.8 MB. Threshold is 300 Meg."
+2001-09-12 02:52:30 Metrocall [1751999] D  ALPHA  31: RENO-RNO/MMH/SJC/ RNO,
+2001-09-12 02:52:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3320
+2001-09-12 02:52:32 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-12 02:52:32 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3320
+2001-09-12 02:52:32 Metrocall [1751999] D  ALPHA  DEPARTED MMH AT 11:45P,ETA SJC IS 12:40A END MESSAGE ####
+2001-09-12 02:52:32 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 23:52:42 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 02:52:34 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-12 02:52:34 Skytel [004592924] D ST NUM  1003869844
+2001-09-12 02:52:34 Skytel [003913751] B  ALPHA  DUTYMGR> BMSCLAIM: SEV1 D03WAS001/002 and 003 reporting code 7 errors during data retrieval from NCM dbs as of 21:45. Supp continues to work. No ETR - 1-866-814-2831
+2001-09-12 02:52:34 Skytel [004534043] C SH/TONE 1       
+2001-09-12 02:52:34 Skytel [002793497] C ST NUM  416-781-4785   
+2001-09-12 02:52:35 Skytel [005001895] B  ALPHA  [sps/1] 200 supplier.intel.com relay 0.211 OK Successful ASP Ping(/metrios/aspcheck.asp) 3:29:32
+2001-09-12 02:52:36 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-12 02:52:37 Skytel [005385788] D SH/TONE 316-5454
+2001-09-12 02:52:37 Skytel [004543677] D SH/TONE 70569   
+2001-09-12 02:52:37 Skytel [007547061] B ST NUM  08007243624    
+2001-09-12 02:52:37 Skytel [005362367] D SH/TONE 2745    
+2001-09-12 02:52:37 Skytel [0001461] B  ALPHA  GLOBEX   01:51     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 02:52:37 Skytel [005269691] C  ALPHA  DUTYMGR> NISSAN DS: SEV2 Memphis, TN Router NPME telco circuit is down at 00:15 MT. AT&T has informed local telco to investigate. No etu. - 800-317-6700
+2001-09-12 02:52:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:52:39 Skytel [004540872] C ST NUM  51) 1-213-215-0861  
+2001-09-12 02:52:39 Skytel [004538828] D SH/TONE 6127    
+2001-09-12 02:52:39 Skytel [005508296] C  ALPHA  RP TESTGRAVE
+2001-09-12 02:52:41 Skytel [1800019] A  ALPHA  GLOBEX   01:51     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 02:52:41 Skytel [004686293] B  ALPHA  CALL JEFFREY EVANS ASAP TO REPORT TO WORK NOW. 678 637 8234 (23
+2001-09-12 02:52:43 Skytel [002391020] D  ALPHA  1) :05*4*573352
+2001-09-12 02:52:43 Skytel [002406502] B  ALPHA  maillog@2waybeats.com|2waybeats.com VDE/CGI script output|1[!A0][D32801]!*+ThaLiks+BestUCan\DJEv\2WayBeats.com;2,T094%VLrLda35Asa6Avlra9AeA#ld6VLrDsvlrLdD#eDqa4Dsa95VA#vldRVLrLda35Asa6Avlra9AeA#ld6VLrDsvlrLdD#eDqa4Dsa95VA#vldRVLrLd2Aevlrld9
+2001-09-12 02:52:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #56-IX_T3904
+2001-09-12 02:52:43 Skytel [005203942] B ST NUM  918-267-5050   
+2001-09-12 02:52:44 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-12 02:52:44 Arch [1642687] D  ALPHA  (8)19:ABS:
+2001-09-12 02:52:44 Arch [1415010] A  ALPHA  (9)18:ABS:
+2001-09-12 02:52:44 Arch [0733722] C  ALPHA  17:ABS:
+2001-09-12 02:52:44 Arch [0855230] D  ALPHA  (31)78:ABS:
+2001-09-12 02:52:44 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.145.25.30 HOUBWGP01 is DOWN at 01:58:21 
+2001-09-12 02:52:44 Arch [0485957] B  ALPHA  (23)WhatsUp@mail.spr|10.145.25.30 HOUBWGP01 is DOWN at 01:58:21 
+2001-09-12 02:52:45 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.80.105.21 ILBWGP01 is DOWN at 01:58:21 
+2001-09-12 02:52:45 Skytel [009997041] A  ALPHA  whatsup@aig.com|Server Theta DOWN at 02:51:35| 
+2001-09-12 02:52:45 Skytel [004527605] B SH/TONE 1599    
+2001-09-12 02:52:45 Skytel [002357369] C  ALPHA  002656 CYCLIC TEST 
+2001-09-12 02:52:45 Skytel [003932285] D SH/TONE 3018    
+2001-09-12 02:52:45 Skytel [003327216] A  ALPHA  002656 CYCLIC TEST 
+2001-09-12 02:52:45 Skytel [002139900] D SH/TONE 002656  
+2001-09-12 02:52:47 Arch [0979634] A  ALPHA  postmaster@INTRA|Delivery Status Notification (Fa|This is an automatically generated Delivery Status Notification. Delivery to the following recipients failed. 8007208398.0993931+AEA-pagenet.net Received: from k2.corp.eschelon.com ([10.168.0
+2001-09-12 02:52:47 Skytel [005062410] C  ALPHA  owens@mdsiv3.jpl.nasa.gov|| 2352 DC+6=6 BQ+0=0 CM+9=9  
+2001-09-12 02:52:47 Skytel [005124359] B SH/TONE 111     
+2001-09-12 02:52:47 Skytel [002392710] B  ALPHA  Jose, critical interlock on imp13101. I was running dummy wafers...1st particle test failed. N=597.    Mae (8
+2001-09-12 02:52:47 Skytel [005524994] A SH/TONE 1       
+2001-09-12 02:52:49 Arch [0979634] A  ALPHA  This is an automatically generated Delivery Status Notification. Delivery to the following recipients failed. 8007208398.0993931+AEA-pagenet.net Received: from k2.corp.eschelon.com ([10.168.0.20]) by INTRANET5.corp.eschelon.com with Microsof
+2001-09-12 02:52:49 Metrocall [1575802] C  ALPHA  58193:Critical; TT677871; TR User Assign; NETRAC; RECT_24V_MAINS; RECTIFIERS ARE NO LONGER; 09/11/01 23:52:35; ;A070 - ;logic id:AXE10 ATLT3ER-A070 POW EXTERNAL ALARM EXTRN_ALRM RECT 24V MAINS                                     _7
+2001-09-12 02:52:51 Arch [0979634] A  ALPHA  postmaster@INTRA|Delivery Status Notification (Fa|This is an automatically generated Delivery Status Notification. Delivery to the following recipients failed. 8007208398.0993931+AEA-pagenet.net Received: from k2.corp.eschelon.com ([10.168.0
+2001-09-12 02:52:51 Arch [0987275] C  ALPHA  s0191: 09/11 15:41:26 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:41:26
+2001-09-12 02:52:51 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192937. 
+2001-09-12 02:52:53 Arch [0979634] A  ALPHA  This is an automatically generated Delivery Status Notification. Delivery to the following recipients failed. 8007208398.0993931+AEA-pagenet.net Received: from k2.corp.eschelon.com ([10.168.0.20]) by INTRANET5.corp.eschelon.com with Microsof
+2001-09-12 02:52:53 Arch [0987275] C  ALPHA  s0191: 09/11 15:47:33 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:47:34
+2001-09-12 02:52:55 Arch [0987275] C  ALPHA  s0191: 09/11 15:50:15 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:50:16
+2001-09-12 02:52:56 Skytel [005056599] B  ALPHA  Jose, critical interlock on imp13101. I was running dummy wafers...1st particle test failed. N=597.    Mae
+2001-09-12 02:52:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8142
+2001-09-12 02:52:59 Arch [0979634] A  ALPHA  This is an automatically generated Delivery Status Notification. Delivery to the following recipients failed. 8007208398.0993931+AEA-pagenet.net Received: from k2.corp.eschelon.com ([10.168.0.20]) by INTRANET5.corp.eschelon.com with Microsof
+2001-09-12 02:52:59 Arch [0907873] A  ALPHA  888-149

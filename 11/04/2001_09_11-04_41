@@ -1,0 +1,50 @@
+2001-09-11 04:41:03 Metrocall [1060385] A  ALPHA  1 Service not available, remote server has closed connection Not connected. Not connected. Not connected. Not connected. Not connected. Not connected.
+2001-09-11 04:41:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6810
+2001-09-11 04:41:04 Arch [1413508] B  ALPHA  7
+2001-09-11 04:41:04 Arch [1275092] B  ALPHA  ID: 215348 Host: I01188-prt1 Text: DTA005 8  
+2001-09-11 04:41:04 Arch [1446718] D  ALPHA  7: EMERGISOFT interface is down
+2001-09-11 04:41:04 Arch [0944834] A  ALPHA  58985
+2001-09-11 04:41:04 Arch [0932136] C  ALPHA  7: EMERGISOFT interface is down
+2001-09-11 04:41:04 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 
+2001-09-11 04:41:04 Arch [1060702] D  ALPHA  root: Ocala A96/A13/A86 001DE1 AL Link receive failure 09-11-01 08:39:45
+2001-09-11 04:41:04 Skytel {1169678} 3 1200 490-9552  
+2001-09-11 04:41:04 Skytel {1092655} 3 2400 002212    
+2001-09-11 04:41:06 Arch [1425048] C  ALPHA  342, <SOCK_192.168.35.19> chunk 177917. 
+2001-09-11 04:41:11 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-11 04:41:11 Metrocall [1421210] C  ALPHA  LAKEJob 383688/SCLAUSSON/I$LLOF has MSGW status.
+2001-09-11 04:41:11 Metrocall [1578487] B  ALPHA  TIPSY(SMJOBD/COMOPS)Waiting for reply to message on message queue QSYSOPR. 010911 014055
+2001-09-11 04:41:11 Metrocall [1544820] B  ALPHA  GREN-ST1 Server Startup !! bizzoot!!
+2001-09-11 04:41:11 Metrocall [1104159] D  ALPHA  Frm: AMDC CAMS Sub: Errors in FTP from NFC Txt: 421 Service not available, remote server has closed connection Not connected. Not connected. Not connected. Not connected. Not connected. Not connected.
+2001-09-11 04:41:13 Metrocall [1421210] C  ALPHA  LAKEJob 378304/VSIOWNER/OMSJRNMGR has MSGW status.
+2001-09-11 04:41:13 Metrocall [1421210] C  ALPHA  LAKEJob 385471/BGILMOUR/PRINTFORM has MSGW status.
+2001-09-11 04:41:20 Metrocall [1544818] A  ALPHA  GREN-ST1 Server Startup !! bizzoot!!
+2001-09-11 04:41:20 Metrocall [1466337] A  ALPHA  09/11@03:32:40 DALDC01:The master browser has received a server announcement from the computer HB-ICONECT that believes that it is the master browser for the domain on transport NetBT_Tcpip_{E7CD7022-9C9
+2001-09-11 04:41:20 Metrocall [1111466] C  ALPHA  09/11@03:32:40 DALDC01:The master browser has received a server announcement from the computer HB-ICONECT that believes that it is the master browser for the domain on transport NetBT_Tcpip_{E7CD7022-9C94-48E. The master browser is stopping or an
+2001-09-11 04:41:22 Metrocall [1466337] A  ALPHA  4-48E. The master browser is stopping or
+2001-09-11 04:41:22 Metrocall [1111466] C  ALPHA  CONT:election is being forced.
+2001-09-11 04:41:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9733
+2001-09-11 04:41:27 Arch [1060702] D  ALPHA  root: Ocala A58 001DE0 AL Link receive failure 09-11-01 08:39:22
+2001-09-11 04:41:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3381
+2001-09-11 04:41:31 Arch [0925366] B  ALPHA   318643;Sep 11 00:42:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 04:41:31 Skytel [007579147] C SH/TONE 1034    
+2001-09-11 04:41:32 Arch [1666850] A  ALPHA  3196
+2001-09-11 04:41:35 Skytel [002376872] C  ALPHA  hevaem@conxion.net|oracleheva2.conxion.net, HTTP, 206.204.210.197:80, Server timed out, | 
+2001-09-11 04:41:36 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177924. 
+2001-09-11 04:41:36 Skytel [004517566] D  ALPHA  [31152]: NYMKTDATA The Application log file is full...
+2001-09-11 04:41:39 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 151W MAJ=NONE
+2001-09-11 04:41:40 Skytel [004407894] B  ALPHA  1) alert@msn.com|Hotmail NFL.com:NFL.com E-Reports for Sunridge Church 9/11/01  
+2001-09-11 04:41:40 Skytel [004547038] D SH/TONE 800-7473
+2001-09-11 04:41:42 Skytel [005203941] B  ALPHA  1512*Host business.cch.com HTTP Content Scan DOWN at 03:41:55  
+2001-09-11 04:41:42 Skytel [005436525] D  ALPHA  Test #82
+2001-09-11 04:41:42 Skytel [004524770] A  ALPHA  spr-CoffeePause-AgawamNY-01: CPE Up at 00:58:49 on 9/11
+2001-09-11 04:41:42 Skytel [005112809] C  ALPHA  03:36CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240400: Uncorrectable write error
+2001-09-11 04:41:44 Skytel [007109749] B SH/TONE 696117  
+2001-09-11 04:41:44 Skytel [007587065] C SH/TONE 2       
+2001-09-11 04:41:51 Skytel [007588530] A SH/TONE 3391    
+2001-09-11 04:41:51 Skytel [0000060] D  ALPHA  A MGR OR TEAMLEADER FOR TEAM 40 PLEASE CALL INTL CINCS RECON AT 797-7020 CONCERNING AMJ48125, AMJ49664 & AMJ45494 FROM FLIGHT 0052/SJU....   -ICR
+2001-09-11 04:41:53 Skytel [005525323] C  ALPHA  B
+2001-09-11 04:41:53 Skytel [003481167] D ST NUM  614-431-4302   
+2001-09-11 04:41:55 Skytel [003448531] A SH/TONE 1127    
+2001-09-11 04:41:55 Skytel [002781637] B SH/TONE 712-3344
+2001-09-11 04:41:57 Skytel [007438052] B SH/TONE 3333 (55
+2001-09-11 04:41:57 Skytel [007596901] B SH/TONE 85450   

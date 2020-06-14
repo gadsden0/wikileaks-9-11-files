@@ -1,0 +1,115 @@
+2001-09-11 23:11:00 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34
+2001-09-11 23:11:00 Skytel [007524464] A ST NUM  410-981-1358   
+2001-09-11 23:11:00 Skytel [004406001] A  ALPHA  p95sqa@soco.agilent.com||PAUSED: hfn1r (HFEI) testing E4445A US41220057 at P95_II Slot #11  
+2001-09-11 23:11:01 Skytel [005112322] A  ALPHA  p95sqa@soco.agilent.com||PAUSED: hfn1r (HFEI) testing E4445A US41220057 at P95_II Slot #11  
+2001-09-11 23:11:01 Skytel [007537805] D SH/TONE 689-8011
+2001-09-11 23:11:01 Skytel [004532236] D ST NUM  618-7299-81    
+2001-09-11 23:11:02 Arch [0739731] A  ALPHA  7200
+2001-09-11 23:11:03 Skytel [004592666] C  ALPHA  p95sqa@soco.agilent.com||PAUSED: hfn1r (HFEI) testing E4445A US41220057 at P95_II Slot #11  
+2001-09-11 23:11:04 Arch [0602772] B  ALPHA  Super-User <root|Trap Message|Time: Tue Sep 11 23:11:31 2001 Agent Address: 208.30.227.50 Specific Trap: Process Start Trap (11) Description: in-named Regexp: named.* Current PID: 7135 
+2001-09-11 23:11:06 Skytel {1092655} 3 2400 002582    
+2001-09-11 23:11:08 Metrocall [1064375] B  ALPHA  NIKK _9773.71  -0519 HSI _9547.23   -0870 SSI  1455.22    -111 ORD  3064.40    -118 KS11  474.62  -65.95 TWII 4176.93  -112.1 30 _99.02/03  5.438% GOLD 278.00/300 -800 S 4.17/27  PL 450.00 PD 462.00  JG 1.440%
+2001-09-11 23:11:08 Metrocall [1849796] B  ALPHA  09/11 23:15 EDT  Howard, James     .531.0921         Alt=PRA Unit=265408
+2001-09-11 23:11:09 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-11 23:11:09 Arch [1275430] B  ALPHA  72-BOMB THREAT, 100 BERGEN. JUST REPORTED TO COMMAND CTR. JACK
+2001-09-11 23:11:09 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE:PDSSPX_EQNY1(eq_program) --> PDSTRD_EDGNY1(eq_program)latency for REPSERVER > 15 - LAST= Sep 11 2001 11:05:16:526PM CURR= Sep 11 2001 11:10:31:526PM @23:1
+2001-09-11 23:11:09 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190410. 
+2001-09-11 23:11:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER .@0...
+2001-09-11 23:11:11 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-11 23:11:13 Arch [0987275] C  ALPHA  s0191: 09/11 15:14:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:14:21
+2001-09-11 23:11:17 Arch [1101769] C  ALPHA  1-17330-4011
+2001-09-11 23:11:17 Arch [1063218] A  ALPHA  95-PLS CALL BILL @ 925-709-8533.
+2001-09-11 23:11:17 Arch [1001884] D  ALPHA  From informix at 11:11 PM EDT: Carrier -> Report script done  
+2001-09-11 23:11:19 Arch [1063218] A  ALPHA  96-PLS CALL BILL @ 925-709-8533.
+2001-09-11 23:11:20 Arch [0987275] C  ALPHA  sb3: INFO0021 - 2:45PM - POSI batch has not arrived(160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:15
+2001-09-11 23:11:20 Arch [0944991] D  ALPHA  PAGE FROM lifeline:  alert 8942538 AMDB_FD_Dev dba nyamdsyb01.gsam.gs.com FD_TEST nyamdsyb01.gsam.gs.com_DBA (FD_TEST): 00:00000:00000:kernel  Abnormal exit detected - SQL Server process level execution bindings will be cleared on startup. 
+2001-09-11 23:11:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0843
+2001-09-11 23:11:22 Arch [0000101] B  ALPHA  MSN 120 hello Message from NOC PCB.
+2001-09-11 23:11:22 Arch [1142036] B  ALPHA  312 MOSXS2:Device Inaccessible
+2001-09-11 23:11:22 Arch [0944991] D  ALPHA  1/02:PAGE FROM lifeline:  alert 8942527 AMDB_TPS dba nyamdsyb01.gsam.gs.com AM_TPS_DEV nyamdsyb01.gsam.gs.com_DBA (AM_TPS_DEV): ERROR: File to Monitor  ct_connect():networkpacketlayer:internalnetlibraryerror:Net-Libprotocoldrivercalltoconnec
+2001-09-11 23:11:24 Arch [0944991] D  ALPHA  2/02:ttwoendpointsfailed does not exist or is not writable 
+2001-09-11 23:11:26 Arch [0944991] D  ALPHA  PAGE FROM lifeline:  alert 8942541 AMDB_FD_Dev dba nyamdsyb01.gsam.gs.com FD_DEV nyamdsyb01.gsam.gs.com_DBA (FD_DEV): 00:00000:00000:kernel  Abnormal exit detected - SQL Server process level execution bindings will be cleared on startup. 
+2001-09-11 23:11:26 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-11 23:11:26 Arch [0925366] B  ALPHA   318643;Sep 11 19:12:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 23:11:28 Arch [0944991] D  ALPHA  PAGE FROM lifeline:  alert 8942528 AMDB_TPS dba nyamdsyb01.gsam.gs.com AM_TPS_DEV nyamdsyb01.gsam.gs.com_DBA (AM_TPS_DEV): AUDIT CHECK: Failed to login to Parms Server AM_TPS_DEV 
+2001-09-11 23:11:30 Arch [0944991] D  ALPHA  PAGE FROM lifeline:  alert 8942548 AMDB_FD_Dev dba nyamdsyb01.gsam.gs.com FD_DEMO nyamdsyb01.gsam.gs.com_DBA (FD_DEMO): 00:00000:00000:kernel  Abnormal exit detected - SQL Server process level execution bindings will be cleared on startup. 
+2001-09-11 23:11:32 Arch [0944991] D  ALPHA  1/02:PAGE FROM lifeline:  alert 8942542 AMDB_FD_Dev dba nyamdsyb01.gsam.gs.com FD_PATCH nyamdsyb01.gsam.gs.com_DBA (FD_PATCH): 00:00000:00000:kernel  Abnormal exit detected - SQL Server process level execution bindings will be cleared on 
+2001-09-11 23:11:32 Arch [1000433] A  ALPHA  10-THERE WILL BE NO TRAINING TOMORROW. I WILL PAGE YOU W/ FURTHER DETAILS TOMORROW. PLS !1/2 010
+2001-09-11 23:11:32 Arch [0769999] D  ALPHA  109-109
+2001-09-11 23:11:32 Skytel [005044104] C SH/TONE 371     
+2001-09-11 23:11:32 Skytel [007563399] B SH/TONE 218-1770
+2001-09-11 23:11:32 Skytel [007494792] C ST NUM  968-532-3411   
+2001-09-11 23:11:32 Skytel [004525450] C SH/TONE 379-7236
+2001-09-11 23:11:32 Skytel [004541318] B ST NUM  854-845-2809   
+2001-09-11 23:11:33 Skytel [0001809] A  ALPHA  * News Update *.>BUSH: In Oval Office address, Pres. Bush mourns deaths of thousands in East Coast terror attacks & vows to avenge their killings..>PA: Hijacked jet that crashed S.E. of Pittsburgh was headed for presidential retreat at Camp David, rep
+2001-09-11 23:11:33 Skytel [002814355] A  ALPHA  Mike - if its not a problem I need to take tomorrow off to attend a funeral.  I'll try to touch base in the AM -- BW 781-944-4566
+2001-09-11 23:11:33 Skytel [007542804] B SH/TONE 921-6093
+2001-09-11 23:11:33 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 20:10:48 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 23:11:33 Skytel [004737433] C  ALPHA  216-1405 [6175.Chula Vista, CA     
+2001-09-11 23:11:33 Skytel [002392598] B  ALPHA  11:11:12 PM
+2001-09-11 23:11:34 Arch [1000433] A  ALPHA  10- CALL IF YOU HAVE ANY QUESTIONS. -CARRIE 917-273-8776 !2/2 010
+2001-09-11 23:11:34 Arch [0327501] D  ALPHA  From:a sybase application <sybase@njros1un817.prudential.com>@PRUDENTIAL Body:[There is no output file or error code file exist for  njpzpt01_db_ORdev.dumpdb.20010911230729] 1S
+2001-09-11 23:11:34 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-11 23:11:34 Arch [0572683] C  ALPHA  (24)On line with Bill Dillinger. Please call ESOCC 800-800-8129
+2001-09-11 23:11:34 Arch [0944991] D  ALPHA  2/02:startup. 
+2001-09-11 23:11:34 Arch [1403631] D  ALPHA  PAGE FROM lifeline:  alert 8942530 Custody_Technology_DBA dba nodbpss01.eq.gs.com NYCTWEBP01 nyctpss09.eq.gs.com_DBA (NYCTWEBP01): Problem connecting to NYCTWEBP01.Parms 
+2001-09-11 23:11:34 Arch [0921661] D  ALPHA  PAGE FROM lifeline:  alert 8942530 Custody_Technology_DBA dba nodbpss01.eq.gs.com NYCTWEBP01 nyctpss09.eq.gs.com_DBA (NYCTWEBP01): Problem connecting to NYCTWEBP01.Parms 
+2001-09-11 23:11:34 Metrocall [1691167] D  ALPHA  EMERGENCY PAGE OUT FOR TOMMORROWS 24 HR SHIFT W/ TRAVIS/ RIGHT KNOW ANYTIME
+2001-09-11 23:11:34 Metrocall [1691167] D  ALPHA  CONT:WOULD BE HELPFULL
+2001-09-11 23:11:35 Arch [0327501] D  ALPHA  T MSG: PLS RESPOND IN 20 MIN. O/W "Mayur R Patel" WILL BE PAGED.
+2001-09-11 23:11:35 Arch [1403631] D  ALPHA  PAGE FROM lifeline:  alert 8942532 Custody_Technology_DBA dba nodbpss01.eq.gs.com NYPBTRDP02 nyctpss11.eq.gs.com_DBA (NYPBTRDP02): Problem connecting to NYPBTRDP02.Parms 
+2001-09-11 23:11:35 Arch [0921661] D  ALPHA  PAGE FROM lifeline:  alert 8942532 Custody_Technology_DBA dba nodbpss01.eq.gs.com NYPBTRDP02 nyctpss11.eq.gs.com_DBA (NYPBTRDP02): Problem connecting to NYPBTRDP02.Parms 
+2001-09-11 23:11:35 Skytel [0001809] A  ALPHA  orts say..>D.C.: Officials link Osama bin Laden to today's terror attacks, aided by an intercept of communications between his supporters & cell-phone calls from victims aboard hijacked jets..>N.Y.C.: Reports say 265 firefighters are dead & 85 police o
+2001-09-11 23:11:35 Skytel [002401821] D  ALPHA  saspcd00 Distributed Monitoring PALM.dm.ussa17.Unix.saspcd00/Daemon status on host saspcd00 09/11/01 20:04:15 PDT  Status: >>> critical <<< ussa17.PALM 
+2001-09-11 23:11:35 Skytel [007576874] C SH/TONE 14      
+2001-09-11 23:11:35 Skytel [005001895] B  ALPHA  [sps/140] 100 sps-apps1.cps.intel.com relay-rialto105 0 Error:relay-rialto105.mpi did not return a valid Metrios API response coderunning (sps/140) 2:16:13
+2001-09-11 23:11:35 Skytel [007047465] C SH/TONE 36800   
+2001-09-11 23:11:37 Arch [0925180] D  ALPHA  advise=go to jersey city-ellis island area or liberty state park along the upper bay.
+2001-09-11 23:11:37 Skytel [0001809] A  ALPHA  fficers are missing following terror attack on World Trade Center..>AIR TRAVEL: Air traffic around nation is halted for 1st time in history; won't resume before Wed., officials say..>INTL SUPPORT: Govts around world offer condolences to terror-stric
+2001-09-11 23:11:37 Skytel [007553078] B ST NUM  849-215-6925   
+2001-09-11 23:11:37 Skytel [007066427] C ST NUM  08007243624    
+2001-09-11 23:11:37 Skytel [005003958] B SH/TONE 05708   
+2001-09-11 23:11:37 Skytel [002694718] D ST NUM  9884565845
+2001-09-11 23:11:38 Metrocall [1849796] B  ALPHA  09/11 23:15 EDT  Howard, James     .531.0921         Alt=PFA Unit=265408
+2001-09-11 23:11:39 Skytel [0001809] A  ALPHA  ken America....*******************.(c)2001 DATACAST(R).www.datacastnews.com.
+2001-09-11 23:11:39 Skytel [005247938] A SH/TONE 491-4185
+2001-09-11 23:11:39 Skytel [004749616] A ST NUM  979-732-9149   
+2001-09-11 23:11:39 Skytel [003916993] A  ALPHA  LIV -  HP - 11:00pm - Sharon - 516 803 9327 -  ASA: LI - 24  Que -LI-0  -Res - 14 , Aegis -  NYC - 52   LI - 0.
+2001-09-11 23:11:39 Skytel [005058097] A  ALPHA  Server CNMAIL1/Cupertino/HP/US is Responding or has been restarted.
+2001-09-11 23:11:39 Skytel [002852034] A ST NUM  903-865-0248-911 (69
+2001-09-11 23:11:39 Skytel [003933261] D  ALPHA  HPNotification@cc-inc.com|ABORT #J1604  LASALLE  |#O408194 J1604  LASALLE  JOBS.UBID         09/11/01 20:00 DISPATCH,MGR.EXPRESS.......Please attend to this job ABORT. Thank You.   
+2001-09-11 23:11:41 Skytel [005108306] A  ALPHA  p95sqa@soco.agilent.com||PAUSED: hfn1r (HFEI) testing E4445A US41220057 at P95_II Slot #11  
+2001-09-11 23:11:41 Skytel [004749782] B ST NUM  278-626-0021   
+2001-09-11 23:11:41 Skytel [005004368] A  ALPHA  sysNETIQsvc: LON job(s) 207916 SLON00011 2001/09/12 04:11 EVENTLOG
+2001-09-11 23:11:41 Skytel [002675679] D SH/TONE 393-1375
+2001-09-11 23:11:43 Skytel [007573729] A SH/TONE 469-5016
+2001-09-11 23:11:43 Skytel [005069670] B SH/TONE 765-4321
+2001-09-11 23:11:43 Skytel [005436525] D  ALPHA  Test #10
+2001-09-11 23:11:43 Skytel [005413861] B SH/TONE 4       
+2001-09-11 23:11:43 Skytel [005111149] D SH/TONE 99      
+2001-09-11 23:11:43 Skytel [005201378] A ST NUM  023-456-7890   
+2001-09-11 23:11:43 Skytel [002750572] D ST NUM  112-312-3123   
+2001-09-11 23:11:43 Skytel [005340637] D ST NUM  301-937-4709   
+2001-09-11 23:11:45 Skytel [007109749] B ST NUM  091-831-7760   
+2001-09-11 23:11:45 Skytel [005343224] C ST NUM  011-1111-11    
+2001-09-11 23:11:47 Arch [0944991] D  ALPHA  PAGE FROM lifeline:  alert 8942546 AMDB_FD_Dev dba nyamdsyb01.gsam.gs.com FD_QA nyamdsyb01.gsam.gs.com_DBA (FD_QA): 00:00000:00000:kernel  Abnormal exit detected - SQL Server process level execution bindings will be cleared on startup. 
+2001-09-11 23:11:47 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-11 23:11:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190417. 
+2001-09-11 23:11:47 Arch [1426079] D  ALPHA  PAGE FROM lifeline:  alert 8942793 PRIME PS1 insdb8502.inz.gs.com PRIME-FEED-IDC216 job has been running longer than expected 
+2001-09-11 23:11:47 Metrocall [0646042] C  ALPHA  07-HI, THIS IS JEANELL. I'M NOT SURE IF YOU ARE TRYING TO GET A HOLD OF ME. YOU MAY REACH ME AT 805-527-8411 OR YOU MAY PAGE ME AT 818-513-8700.
+2001-09-11 23:11:48 Skytel [007572113] A ST NUM  900-830-0005   
+2001-09-11 23:11:48 Skytel [007469966] D ST NUM  210-688-6881   
+2001-09-11 23:11:49 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-11 23:11:49 Arch [0939437] D  ALPHA  CA Helpdesk <CAH|mc0300ux234|CR: 144078 Priority: 5 Assigned to: Scott, Jeffrey Summary:: System availability warning or critical alert 
+2001-09-11 23:11:50 Arch [0939437] D  ALPHA  CA Helpdesk <CAH|mc0300ux234|CR: 144084 Priority: 5 Assigned to: Scott, Jeffrey Summary:: Agent not responding 
+2001-09-11 23:11:50 Skytel [004485550] D  ALPHA  831-685-8105 [3648
+2001-09-11 23:11:52 Skytel [004111155] A ST NUM  312-664-2727 (3
+2001-09-11 23:11:52 Skytel [007462325] B ST NUM  968-8694-69    
+2001-09-11 23:11:54 Skytel [005210701] D ST NUM  900-759-8255   
+2001-09-11 23:11:54 Skytel [007560268] D SH/TONE 797-6342
+2001-09-11 23:11:58 Arch [0600894] D  ALPHA  T1131 [CXNDB] NoTone (34 chan): EASTBANK/CNN:*, EASTBANK/HLN:*, EASTBANK/MTV:*, EASTBANK/BET:4, EASTBANK/FX:4, EASTBANK/FSSW:*, EASTBANK/HGTV:*, EASTBANK/FOOD:*, EASTBANK/MNBC:*, ORLEANS/CNN:*, ORLEAN
+2001-09-11 23:11:58 Skytel [002741601] A ST NUM  9009429422
+2001-09-11 23:11:59 Metrocall [1708650] C  ALPHA   SUBJ:  MSG:AG1EXS01: Backup Operation Successful.
+2001-09-11 23:11:59 Metrocall [002119221] B  ALPHA  atus.asp ??does not contain: SFSA0005 SUCCEEDED
+2001-09-11 23:11:59 Metrocall [1401376] A  ALPHA  /:DDC/: UPDATE: ON 12KV FDR B181, CAUSE OF 09/07 LO WAS DETERMINED TO BE CABLE FAULT ON CUSTOMER'S  CABLE. 
+2001-09-11 23:11:59 Metrocall [002612242] A  ALPHA  Frm: Leslie Jackson Sub: boy was it hard to say good by today ! I want to be enfolded in your arms, to be consumed by your body, your emotions, your heart. It's very nice to finally be on the same page ! (and soon to be h

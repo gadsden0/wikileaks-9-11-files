@@ -1,0 +1,87 @@
+2001-09-11 07:14:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2141
+2001-09-11 07:14:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2141
+2001-09-11 07:14:01 Skytel [005355272] C SH/TONE 3661    
+2001-09-11 07:14:03 Arch [1023789] D  ALPHA  598-6190
+2001-09-11 07:14:03 Arch [1053997] D  ALPHA  CT:INJ JOHN HANSON APTS @500 N BENTZ ST BLDG 4 FRED BOX:2-7 DUE:A29
+2001-09-11 07:14:03 Arch [1425002] C  ALPHA  postmaster@uboc.|Tao has 172 msgs in holding|******************************************************************************* This communication (including any attachments) may contain privileged or confidential information intended for a sp
+2001-09-11 07:14:03 Arch [1238892] D  ALPHA  /PMC
+2001-09-11 07:14:03 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6963
+2001-09-11 07:14:03 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179578. 
+2001-09-11 07:14:03 Skytel [004570774] B ST NUM  958-805-6060   
+2001-09-11 07:14:03 Skytel [007040275] A  ALPHA  cbranch@us.ibm.com||NSALERT Clsd Pathmark 2374527 SEV: 2 Dur: 6.095 HR(s) SMRY:  Store 568 is up on main power.  Reason for outage unknown.  Transferring PR to PSICUST for closure.  Corey D Branch  
+2001-09-11 07:14:03 Skytel [007554713] C  ALPHA  cbranch@us.ibm.com||NSALERT Clsd Pathmark 2374527 SEV: 2 Dur: 6.095 HR(s) SMRY:  Store 568 is up on main power.  Reason for outage unknown.  Transferring PR to PSICUST for closure.  Corey D Branch  
+2001-09-11 07:14:03 Skytel {0129003} 3 2400 911-3648-44    
+2001-09-11 07:14:03 Skytel {0929086} 1 2400 853-8777-6
+2001-09-11 07:14:03 Skytel {0177247} 3 2400 7016 
+2001-09-11 07:14:04 Skytel {1092655} 3 2400 002263    
+2001-09-11 07:14:05 Skytel {0341587} 1 1200 9800 
+2001-09-11 07:14:11 Arch [0418533] B  ALPHA  (11)56:ABS: Tkt:5002894, Sev:2, TIQ:135min, Sname:XXX, CIS Id:13072501, Contact:SAVVIS NCC @ 8886386771 Note:SL-GW3-KC,HSSI11/0 IS DOWN, LINE PROTOCOL IS DOWN,FMS SHOWS DISCO READ Y, CUST NOT AVAILABLE....... JEDWARDS/PMC
+2001-09-11 07:14:11 Arch [1238892] D  ALPHA  (20)93:ABS: Tkt:5002894, Sev:2, TIQ:135min, Sname:XXX, CIS Id:13072501, Contact:SAVVIS NCC @ 8886386771 Note:SL-GW3-KC,HSSI11/0 IS DOWN, LINE PROTOCOL IS DOWN,FMS SHOWS DISCO READ Y, CUST NOT AVAILABLE....... JEDWARDS/PMC
+2001-09-11 07:14:11 Metrocall [1496845] D  ALPHA  Frm: Kelley.Cook@ci.austin.tx.us Sub: FW: APD COMMUNICATIONS INCIDENT LOG Txt: Attached is the APD Communications Incident Log for Tuesday, September 11, 2001. <<COMM LOG 091101.doc>>
+2001-09-11 07:14:11 Metrocall [1191895] B  ALPHA  PE SWAT:  Case # 510900-When trying
+2001-09-11 07:14:11 Metrocall [1005581] D  ALPHA  AV9214.071126,STOP & SHOP  # 863,ISP.3,C0.,/TAPE FAILURE ERRS,.,(732)545-9050.,S24,COD=N.7025,1027133,09/11/01,2.980 EASTON AVENUE,.SOMERSET,NJ,08873
+2001-09-11 07:14:13 Arch [0418533] B  ALPHA  (12)57:ABS: Tkt:5002925, Sev:2, TIQ:137min, Sname:XXX, CIS Id:13098836, Contact:STEPHANIE IMPLAZZA @ 2128136000 Note:SL-GW28-PEN, SERIAL6/1/0/9:0 IS DOWN, LINE PROTOCOL IS DOWN UNABLE TO REACH CUST...TERRENCE/PMC/RESTON.
+2001-09-11 07:14:13 Arch [1238892] D  ALPHA  (21)94:ABS: Tkt:5002925, Sev:2, TIQ:137min, Sname:XXX, CIS Id:13098836, Contact:STEPHANIE IMPLAZZA @ 2128136000 Note:SL-GW28-PEN, SERIAL6/1/0/9:0 IS DOWN, LINE PROTOCOL IS DOWN UNABLE TO REACH CUST...TERRENCE/PMC/RESTON.
+2001-09-11 07:14:13 Arch [0968156] D  ALPHA  From Michael Trace Sub:UKNTS700 did not come back up from reboot. Felipe will get someone at site to look at screen. mttrace Msg:
+2001-09-11 07:14:13 Arch [0939829] B  ALPHA  Cyclone@carmax.c|Critical Event|HTTP Service RESPONSE_TIME is slow (49.280 vs 10.000) on Flood:5001/inde= x.as
+2001-09-11 07:14:13 Arch [0903293] D  ALPHA  aa034187: SUCCESS: RMS Import Successful
+2001-09-11 07:14:13 Arch [0949289] C  ALPHA  aa034187: SUCCESS: RMS Import Successful
+2001-09-11 07:14:13 Arch [0977776] A  ALPHA  Cyclone@carmax.c|Critical Event|HTTP Service RESPONSE_TIME is slow (49.280 vs 10.000) on Flood:5001/inde= x.asp 
+2001-09-11 07:14:13 Metrocall [1191895] B  ALPHA   to access the price sheet, the following error is received: Cannot find server or DNS error.  Please join the conference call at 1 (877) 250-4160,  Passcode is 7410
+2001-09-11 07:14:15 Arch [0939829] B  ALPHA  p 
+2001-09-11 07:14:24 Arch [0570843] C  ALPHA  From: Andy 410 689-1706 - The west coast is up and running with all servers. DRI download is complete. Collections have been updated. Dialer has been updated.
+2001-09-11 07:14:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9886
+2001-09-11 07:14:26 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179585. 
+2001-09-11 07:14:26 Arch [0432616] C  ALPHA  09-PLEASE CALL JEFF TAGGART AT 212-989-2557 PROBLEMS W/CREDIT SYSTEMS.
+2001-09-11 07:14:26 Arch [1026292] B  ALPHA  Backup@NYED.usco|Operator Attention|(Server: "NYEPSROGUE" Job: "Monday backup" Device: "HP 1") Please inser t overwritable media into the changer using the slot import command. 
+2001-09-11 07:14:30 Arch [1252264] C  ALPHA  (32)05:ABS: Tkt:5003102, Sev:3, TIQ:42min, Queue:DSOC, Cust Name: US COURTS/DCN-3RD CIRCUIT
+2001-09-11 07:14:30 Arch [0578226] A  ALPHA  fsboxing@pub.fos|Cb7Q7"2<!"2iQ/9)GsPEO"!"GsV0UPF8|DQoNCj4gLS0tLS0tLS0tLQ0KPiBGcm9tOiAJZnNib3hpbmdAcHViLmZvc2hhbi5nZC5jbltTTVRQ OkZTQk9YSU5HQFBVQi5GT1NIQU4uR0QuQ05dDQo+IFNlbnQ6IAlUdWVzZGF5LCBTZXB0ZW1iZXIg MTEsIDIwMDEgNDowMzozNSBBTQ0KPiBUbzogC
+2001-09-11 07:14:31 Metrocall [1146083] A  ALPHA  PE SWAT:  Case # 510900-When trying to access the price sheet, the following error is received: Cannot find server or DNS error.  Please join the conference call at 1 (877) 250-4160,  Passcode is 7410
+2001-09-11 07:14:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3534
+2001-09-11 07:14:31 Metrocall [002588083] A  ALPHA  Frm: bin@hpov1.noc.att.com Sub: NNM_Alarm Txt: Normal Tue Sep 11 07:14:01 ugn-atm.noc.att.com IF AT2/0/0.1:172.31.28.78 up
+2001-09-11 07:14:31 Skytel [005352330] C  ALPHA  albertagrass@yahoo.ca||glad to hear it, have a great day! love ya 
+2001-09-11 07:14:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 04:14:24 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 07:14:33 Metrocall [1373376] A  ALPHA  06-PLEASE CALL: 7418743
+2001-09-11 07:14:33 Metrocall [1064391] B  ALPHA  LME FUTURES       MCU_1442/1444 -002 MAL 1370/1371 -006 MAA 1140/1150 -015 MNI 5080/5110 -050 MSN 3750/3775 -025 MPB 4790/4800 -010 MZN _830/_831 -005
+2001-09-11 07:14:35 Arch [0000101] B  ALPHA  MSN 043 hello Message from NOC PCB.
+2001-09-11 07:14:35 Skytel [005353645] D  ALPHA  FYI: PROB136426 Status Is Temp Fix : User is getting a security error when trying to search - contact Mike at:952 841-5740- ex 71527
+2001-09-11 07:14:35 Skytel [005047463] B  ALPHA  FYI: PROB136426 Status Is Temp Fix : User is getting a security error when trying to search - contact Mike at:952 841-5740- ex 71527
+2001-09-11 07:14:35 Skytel [005117741] D SH/TONE 143 (45 
+2001-09-11 07:14:37 Arch [0979481] C  ALPHA   NORMAL EMC-FRNK\SYB6-CTL\FLR5-T Crit3 102.0 Deg F
+2001-09-11 07:14:37 Arch [0969168] A  ALPHA   NORMAL EMC-FRNK\SYB6-CTL\FLR5-T Crit3 102.0 Deg F
+2001-09-11 07:14:37 Arch [0981993] C  ALPHA   NORMAL EMC-FRNK\SYB6-CTL\FLR5-T Crit3 102.0 Deg F
+2001-09-11 07:14:37 Skytel [005004722] A  ALPHA  J STANGARONE 10 BRYANT CRE#    2EWP428-2783 CC 1 TUES PAP       4146 910
+2001-09-11 07:14:37 Skytel [002390716] D ST NUM  89) 212-449-1895    
+2001-09-11 07:14:37 Skytel [005345712] A  ALPHA  iconvent@metlife.com||09/11/01 07:14AM Maestro schedule INAHD01 started   
+2001-09-11 07:14:37 Skytel [004416060] D SH/TONE 948-3753
+2001-09-11 07:14:37 Skytel [004730812] D SH/TONE 1111    
+2001-09-11 07:14:39 Skytel [005048779] C  ALPHA  cbranch@us.ibm.com||NSALERT Clsd Pathmark 2374527 SEV: 2 Dur: 6.095 HR(s) SMRY:  Store 568 is up on main power.  Reason for outage unknown.  Transferring PR to PSICUST for closure.  Corey D Branch  
+2001-09-11 07:14:39 Skytel [004720965] B ST NUM  504-714-5872   
+2001-09-11 07:14:39 Skytel [004687946] C  ALPHA  YOU LEFT YOUR PHONE AT HOME. 
+2001-09-11 07:14:39 Skytel [005060168] C ST NUM  307-442-2572   
+2001-09-11 07:14:40 Skytel [007042012] D ST NUM  977-729-6677   
+2001-09-11 07:14:40 Skytel [005252056] C ST NUM  900-551-0864   
+2001-09-11 07:14:42 Skytel [005132640] A  ALPHA  27) cbranch@us.ibm.com||NSALERT Clsd Pathmark 2374527 SEV: 2 Dur: 6.095 HR(s) SMRY:  Store 568 is up on main power.  Reason for outage unknown.  Transferring PR to PSICUST for closure.  Corey D Branch  
+2001-09-11 07:14:42 Skytel [004541412] B SH/TONE 9999    
+2001-09-11 07:14:42 Skytel [004524770] A  ALPHA  wor-TurnerConstruction-HudsonMA-: CPE Down at 01:47:23 on 9/11
+2001-09-11 07:14:42 Skytel [004451437] D SH/TONE 426-6748
+2001-09-11 07:14:43 Metrocall [002460314] C  ALPHA  ce at Eterm. We offer Fast,
+2001-09-11 07:14:44 Skytel [004751730] A ST NUM  900-241-3624   
+2001-09-11 07:14:44 Skytel [004541819] C  ALPHA  cbranch@us.ibm.com||NSALERT Clsd Pathmark 2374527 SEV: 2 Dur: 6.095 HR(s) SMRY:  Store 568 is up on main power.  Reason for outage unknown.  Transferring PR to PSICUST for closure.  Corey D Branch  
+2001-09-11 07:14:44 Skytel [005116793] C SH/TONE 6214    
+2001-09-11 07:14:44 Skytel [004209151] D  ALPHA  ktrader|Please call Ken at 925-398-6983. We have a Stratacom escalation for Intel that we need assistance on. Eric Louzau is On-Call engineer but has not responded.    (30
+2001-09-11 07:14:44 Skytel [005227772] D SH/TONE 215 (1  
+2001-09-11 07:14:46 Skytel [005337988] B  ALPHA  (0129257000)543872-00 MADLE'S HARDWARE LEROY 610-797-0434 SYS DWN LD 5438720001
+2001-09-11 07:14:46 Skytel [005208847] D  ALPHA  8:30 meeting Back Bay Assoc. Lenox Hotel - 10:30 Century Bank Bd. meeting (Medford), 3:00 meeting at QCC with Jeffrey Davis
+2001-09-11 07:14:48 Skytel [007649299] A ST NUM  08007243624    
+2001-09-11 07:14:50 Skytel [004420386] A SH/TONE 944-3195
+2001-09-11 07:14:52 Skytel [005003838] D  ALPHA  NetIQ@daimlerchrysler.com|NetIQ Event from SHPMON01 - NetIQmc does not exist on machine shpmts09|-  
+2001-09-11 07:14:53 Skytel [007512013] D  ALPHA  Y! ||Fr: creditoffer@flowgo.com *Congratulations On Your New MasterCard* Fun Town has teamed up Mail
+2001-09-11 07:14:53 Skytel [0001353] C  ALPHA  106702@emc.fedex.com||ssd702+30 late arvl 1525 with 6.3k m/s  no chase  
+2001-09-11 07:14:53 Skytel [005002441] C  ALPHA  Watcher: nyb01c-051: mount=/ device=/dev/sd0a Used 99% of 37036 Kb, 406 Kb left on nyb01c-051
+2001-09-11 07:14:54 Metrocall [1487075] A  ALPHA  3/25/2001 and ends in the last four digits 9460.  Please follow the steps below to confirm your bank account.   How to confirm your bank account:  PayPal made two small deposits into the bank account you just  registered.  These deposits should appear 
+2001-09-11 07:14:56 Metrocall [1487075] A  ALPHA  in your bank account  in 2-4 business days.
+2001-09-11 07:14:57 Skytel [005436525] D  ALPHA  nMCI Test #44
+2001-09-11 07:14:57 Skytel [007570660] B ST NUM  515-990-4113-911    
+2001-09-11 07:14:59 Skytel [002751986] A SH/TONE 3461    
+2001-09-11 07:14:59 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Disk used % for /clients/IVR/home/rswwwp/work is 85; > than 80

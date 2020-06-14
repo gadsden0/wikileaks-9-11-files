@@ -1,0 +1,65 @@
+2001-09-12 02:27:02 Skytel [005114113] A ST NUM  301-369-9756   
+2001-09-12 02:27:02 Skytel [007574660] B SH/TONE 303-1640
+2001-09-12 02:27:11 Skytel [007529050] C  ALPHA  reply@gomail.net||  
+2001-09-12 02:27:12 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=PUBLISH_SUBSCRIBE  Mode=Incremental_Dump         # Our PID=14428    time='09/12/01 02:25:10
+2001-09-12 02:27:12 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34
+2001-09-12 02:27:12 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 124 processes on report1.ccbill.com. Timestamp key: 20010911232502 
+2001-09-12 02:27:12 Metrocall [1424509] D  ALPHA  Frm: FUNCTIONAL Txt: TESTING this message
+2001-09-12 02:27:14 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-12 02:27:14 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 125 processes on report1.ccbill.com. Timestamp key: 20010911232502 
+2001-09-12 02:27:14 Arch [1275259] C  ALPHA  44-PLEASE CALL SEAN AT 548-4706.
+2001-09-12 02:27:15 Skytel [007492345] C ST NUM  7000171647420420420 
+2001-09-12 02:27:15 Skytel [002204536] C SH/TONE 1234 (57
+2001-09-12 02:27:16 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-12 02:27:17 Arch [0987275] C  ALPHA  s0191: 09/11 15:14:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:14:21
+2001-09-12 02:27:19 Metrocall [1081699] A  ALPHA  Frm: mon@obongo.com Sub: !BB - 3034010! st-ds01.obongo.com.conn - 500010012023001 Txt: [3034010] st-ds01.obongo.com.conn red Tue Sep 11 23:24:17 PDT 2001 bb-network.sh: Can't ping st-ds01.obongo.com... No Response from 10.12.23.1 Please see
+2001-09-12 02:27:19 Skytel [005068829] D  ALPHA  I'M JUST GOING TO BED. SORRY IT TOOK SO LONG TO PAGE. I WAS WATCHING THE NEWS. I MISS YOU AND I WILL TALK TO YOU TOMORROW. XO XO XO 
+2001-09-12 02:27:20 Skytel [003436448] A SH/TONE 3992    
+2001-09-12 02:27:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1039
+2001-09-12 02:27:21 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-12 02:27:21 Metrocall [1421210] C  ALPHA  LAKEJob 378304/VSIOWNER/OMSJRNMGR has MSGW status.
+2001-09-12 02:27:22 Skytel [002267700] B ST NUM  238-2274 (15   
+2001-09-12 02:27:24 Skytel [004587207] B SH/TONE 1289    
+2001-09-12 02:27:26 Skytel [005041240] C SH/TONE 7415    
+2001-09-12 02:27:28 Skytel [005342952] C SH/TONE 6400    
+2001-09-12 02:27:29 Arch [1612111] D  ALPHA  Oh-Shit@ccbill.c|Subject: Server Problem 1:1:1/200:0.28:0.33:0.33 ALERT Primary Processlist 62 (62:9) http://64.38.240.107/system/stat.cgi 
+2001-09-12 02:27:30 Metrocall [1064385] A  ALPHA  JY  8317/8385  +042 EC  9067/9047 +0067 BP 14526/14300 +000 SF  6005/6010  +070 CD  6388/6380  -010 AD  5169/5152  +031 DM  4636/4626  +034 FES 9708/747/752/45 FDX 4270/4314  -416 PTB 9039/8927  +002 FGBS10425 FYB 13897 BDL 108
+2001-09-12 02:27:30 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-12 02:27:31 Arch [1612111] D  ALPHA  Oh-Shit@ccbill.c|Subject: Server Problem 1:1:3/200:0.29:0.28:0.25 ALERT Primary Processlist 61 (61:9) http://64.38.240.111/system/stat.cgi 
+2001-09-12 02:27:31 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=sod  Mode=Incremental_Dump         # Our PID=14984    time='09/12/01 02:25:13'    sybase on
+2001-09-12 02:27:31 Arch [0987275] C  ALPHA  sb3: INFO0021 - 2:45PM - POSI batch has not arrived(160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:15
+2001-09-12 02:27:31 Arch [0739731] A  ALPHA  7200
+2001-09-12 02:27:31 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192643. 
+2001-09-12 02:27:32 Arch [1612111] D  ALPHA  Oh-Shit@ccbill.c|Subject: Server Problem 1:1:4/200:0.12:0.20:0.24 ALERT Primary Processlist 61 (61:9) http://64.38.240.112/system/stat.cgi 
+2001-09-12 02:27:32 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-12 02:27:32 Metrocall [1284073] C  ALPHA  09-11-01 23:27:00 Spot not playing
+2001-09-12 02:27:32 Metrocall [1284194] A  ALPHA  09-11-01 23:27:00 Spot not playing
+2001-09-12 02:27:32 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3295
+2001-09-12 02:27:32 Metrocall [1064385] A  ALPHA  84/10861-006 BDM 10836+006
+2001-09-12 02:27:32 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3295
+2001-09-12 02:27:34 Arch [1612111] D  ALPHA  Oh-Shit@ccbill.c|Subject: Server Problem 1:1:5/200:0.38:0.32:0.27 ALERT Primary Processlist 62 (62:9) http://64.38.240.117/system/stat.cgi 
+2001-09-12 02:27:34 Arch [0926604] D  ALPHA  NM CALLING - Compaq Environmental failure HealthStatFSM occurred on MRDAP10
+2001-09-12 02:27:36 Arch [1612111] D  ALPHA  Oh-Shit@ccbill.c|Subject: Server Problem 1:1:6/200:0.25:0.27:0.26 ALERT Primary Processlist 63 (63:9) http://64.38.240.118/system/stat.cgi 
+2001-09-12 02:27:38 Arch [1612111] D  ALPHA  Oh-Shit@ccbill.c|Subject: Server Problem 1:1:7/200:0.27:0.19:0.17 ALERT Primary Processlist 65 (65:9) http://64.38.240.119/system/stat.cgi 
+2001-09-12 02:27:39 Skytel [003950157] D  ALPHA  LATA +RDDD012E   RCS DECODER ERR LTRECICP
+2001-09-12 02:27:42 Arch [1612111] D  ALPHA  Oh-Shit@ccbill.c|Subject: Server Problem 1:1:1/200:0.38:0.21:0.16 ALERT Primary Processlist 63 (63:9) http://64.38.240.120/system/stat.cgi 
+2001-09-12 02:27:43 Skytel [005043559] B  ALPHA  150.ARENER MANUFACT     
+2001-09-12 02:27:43 Skytel [004388966] B SH/TONE 333-8717
+2001-09-12 02:27:43 Skytel [004524770] A  ALPHA  wor-GalaxyPower-WestboroughMA-38: CPE Up at 02:28:05 on 9/12
+2001-09-12 02:27:43 Skytel [007569517] D SH/TONE 239-2569
+2001-09-12 02:27:47 Skytel [005257731] A  ALPHA  Phone Networks Report Heavy Volume, Clogged Cell Circuits[DJ NEWS]
+2001-09-12 02:27:49 Metrocall [1589620] B  ALPHA  Frm: noc@atlantech.net Txt: cf2.bid4assets.com - HTTP is DOWN
+2001-09-12 02:27:49 Metrocall [1589615] D  ALPHA  Frm: noc@atlantech.net Txt: cf2.bid4assets.com - HTTP is DOWN
+2001-09-12 02:27:49 Metrocall [1589615] D  ALPHA  Frm: noc@atlantech.net Txt: cf3.bid4assets.com - HTTP is DO
+2001-09-12 02:27:50 Skytel [004574887] B ST NUM  410-693-5086   
+2001-09-12 02:27:50 Skytel [005001895] B  ALPHA  [piter/4] 200 supplier.intel.com relay-ssl 0.392 ePO Application OK.(/epo/healthcheck.asp) 4:38:30
+2001-09-12 02:27:50 Skytel [004397995] C  ALPHA  IntelliWatch Monitor: WARNING - Server CVGNA01.US.Schneider-Electric.com/A/SVR/Schneider MAY HAVE crashed. Waiting 300 seconds...
+2001-09-12 02:27:51 Metrocall [1589615] D  ALPHA  WN
+2001-09-12 02:27:54 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:27:56 Skytel [004415444] B ST NUM  08) 65444 
+2001-09-12 02:27:57 Arch [1666850] A  ALPHA  3196
+2001-09-12 02:27:58 Skytel [005178080] A SH/TONE 104     
+2001-09-12 02:27:58 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #62-IX_T4103
+2001-09-12 02:27:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8117
+2001-09-12 02:27:59 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-12 02:27:59 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192650. 

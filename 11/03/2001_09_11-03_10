@@ -1,0 +1,60 @@
+2001-09-11 03:10:00 Metrocall [1544818] A  ALPHA  Server 'HAY-NS2 Disk.E.Free = 158042112, min allowable: (300000000)
+2001-09-11 03:10:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1897
+2001-09-11 03:10:00 Metrocall [1466337] A  ALPHA  09/11@00:40:06 MEXBK01:The server has encountered a network error.
+2001-09-11 03:10:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1897
+2001-09-11 03:10:00 Metrocall [1111466] C  ALPHA  09/11@00:40:06 MEXBK01:The server has encountered a network error.
+2001-09-11 03:10:01 Skytel [005524994] A SH/TONE 1       
+2001-09-11 03:10:01 Skytel [009992843] C  ALPHA  111-1111
+2001-09-11 03:10:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6719
+2001-09-11 03:10:05 Skytel [004709027] A ST NUM  210-677-5448   
+2001-09-11 03:10:06 Skytel [004702132] B  ALPHA  support@pconline.com|Server volt WWW DOWN at 02:03:53|Server volt WWW DOWN at 02:03:53 Address: 206.145.
+2001-09-11 03:10:11 Metrocall [0848874] C  ALPHA  113. URGENT.
+2001-09-11 03:10:14 Skytel [002750709] B SH/TONE 76245   
+2001-09-11 03:10:16 Skytel [002559104] A SH/TONE 76245   
+2001-09-11 03:10:18 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 176891. 
+2001-09-11 03:10:18 Arch [1026292] B  ALPHA  Backup@NYED.usco|Operator Attention|(Server: "NYEPSROGUE" Job: "Monday backup" Device: "HP 1") Please inser t overwritable media into the changer using the slot import command. 
+2001-09-11 03:10:18 Skytel [004678548] B  ALPHA  spectrum@ascend.com||  Alarm SET: ModelName:        135.119.1.40 Mtype:            WA_Link IPAddress:        135.119.1.40 Date:             09/11/2001 Time:             00:10:06 AlarmID:          83248 Condition:        RED CauseCode:      
+2001-09-11 03:10:20 Metrocall [1064382] D  ALPHA  DKK   74413/20 +002 NOK  7.9580/30 -...........5..5..5.............................................................................................................................................................................237/356 -287
+2001-09-11 03:10:20 Skytel [002376872] C  ALPHA  svcaem1@conxion.net|onl-sf-1.symantec.com, HTTP, 206.204.52.68:80, Server timed out, | 
+2001-09-11 03:10:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9642
+2001-09-11 03:10:25 Arch [1419478] B  ALPHA  FTT GCSC: N460437 NG: Server Support has reported that exchange servers 17 and 19 are back up. Service Restored.
+2001-09-11 03:10:25 Arch [0982242] A  ALPHA  FTT GCSC: N460437 NG: Server Support has reported that exchange servers 17 and 19 are back up. Service Restored.
+2001-09-11 03:10:29 Skytel [003261425] A  ALPHA  THE WEST MATRIX IS IN FULL AUTOMATION....
+2001-09-11 03:10:30 Metrocall [1422894] D  ALPHA  CANCEL THAT ALARM ACTIVATION
+2001-09-11 03:10:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3290
+2001-09-11 03:10:30 Metrocall [1064377] C  ALPHA  US 10514/10423 -020 S..0. 5.....4........E..................................................................................................................................................
+2001-09-11 03:10:33 Arch [1612317] D  ALPHA  RT_SALEMPL  ARCserveIT:  E0015 Job 425: Backup Operation Failed
+2001-09-11 03:10:36 Skytel [005043128] C SH/TONE 822-6256
+2001-09-11 03:10:36 Skytel [005228862] D SH/TONE 2002    
+2001-09-11 03:10:39 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 42.06 67.62 51.86 Tue Sep 11 00:11:00 MST 2001 
+2001-09-11 03:10:39 Metrocall [1062690] A  ALPHA  12172 TIME 03:06 ACTIVE-Pitt  PA4098_NatHgt x25CircuitDown
+2001-09-11 03:10:39 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcb-wbs03 Sev:4 # 700003 LowOnSockets WBS 3.1.14.1 09/11/01 00:10:14 PDT7 Instance: ChkSysRes Module: ChkSysRes Details: HostName=labcb-wbs03 Low
+2001-09-11 03:10:41 Metrocall [0477913] C  ALPHA  OnSockets: TotalConns=157 EstabConns=53 ListenConns=0 WarningMaxBad
+2001-09-11 03:10:42 Skytel [005178080] A SH/TONE 104     
+2001-09-11 03:10:42 Skytel [009992677] B  ALPHA  FLT1011 APPROX 45 MIN LATE, FLT1153 ETA 0444
+2001-09-11 03:10:42 Skytel [005226605] D ST NUM  8683241838
+2001-09-11 03:10:43 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs03 Sev:4 # 700003 LowOnSockets WBS 3.1.14.1 09/11/01 00:10:17 PDT7 Instance: ChkSysRes Module: ChkSysRes Details: HostName=labcp-wbs03 LowOnSockets: TotalConns=175 EstabConns=73 ListenConns=0 WarningMaxBad
+2001-09-11 03:10:44 Skytel [002357369] C  ALPHA  002182 CYCLIC TEST 
+2001-09-11 03:10:44 Skytel [003327216] A  ALPHA  002182 CYCLIC TEST 
+2001-09-11 03:10:44 Skytel [002139900] D SH/TONE 002182  
+2001-09-11 03:10:46 Arch [1060702] D  ALPHA  root: Ocala A96/A13/A86 001DE1 AL Link receive failure 09-11-01 07:09:44
+2001-09-11 03:10:48 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 176898. 
+2001-09-11 03:10:48 Arch [1660708] B  ALPHA  FTT GCSC: N460437 NG: Server Support has reported that exchange servers 17 and 19 are back up. Service Restored.
+2001-09-11 03:10:48 Arch [0979407] D  ALPHA  FTT GCSC: N460437 NG: Server Support has reported that exchange servers 17 and 19 are back up. Service Restored.
+2001-09-11 03:10:48 Arch [1236605] D  ALPHA  FTT GCSC: N460437 NG: Server Support has reported that exchange servers 17 and 19 are back up. Service Restored.
+2001-09-11 03:10:48 Metrocall [1829656] C  ALPHA  PLEASE CALL 495-8260 TRUDY
+2001-09-11 03:10:50 Metrocall [1338309] B  ALPHA  Frm: Rodney.Newsom@chase.com Sub: LRS Night Run Txt: Waiting to reboot
+2001-09-11 03:10:50 Metrocall [0525524] B  ALPHA  03:45 NBWK SYSB PORT4           NO >MAJ Network port serial fault - Network port serial fault
+2001-09-11 03:10:50 Metrocall [0525524] B  ALPHA  03:45 NBWK SYSB SYSTEM          NO >MAJ Network port serial fault
+2001-09-11 03:10:50 Metrocall [1580894] D  ALPHA  Tue 02:07:31, HTBG [49]: Critical, MTX105 CBsy CCH 1 DRU
+2001-09-11 03:10:50 Skytel [003934628] B  ALPHA  23985@emc.fedex.com||pushback on early departures and chase city aircraft asap.....  
+2001-09-11 03:10:51 Skytel [0000060] D  ALPHA  FLIGHT 1472 OKC CALL 224-8582 A.S.A.P.-hub dispatch  
+2001-09-11 03:10:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1163..
+2001-09-11 03:10:52 Metrocall [0525524] B  ALPHA   - Network port serial fault
+2001-09-11 03:10:55 Skytel [003951056] A  ALPHA  snvc17 Resource: SNVC17:/NT_CPU/CPU_1/CPUprcrProcessorTimePercent,current state is : CRITICAL ussa11.SSMC 
+2001-09-11 03:10:55 Skytel [005004368] A  ALPHA  sysNETIQsvc: HKG Job80104 STOK00330 09/11 15:09 UNKNOWN
+2001-09-11 03:10:57 Skytel [005436525] D  ALPHA  Test #10
+2001-09-11 03:10:57 Skytel [005111022] D  ALPHA  FLT1011 APPROX 45 MIN LATE, FLT1153 ETA 0444
+2001-09-11 03:10:57 Skytel [004524770] A  ALPHA  wil-ComprehensiveNetwor-Burlingt: CPE Down at 00:36:31 on 9/11
+2001-09-11 03:10:57 Skytel [005203941] B  ALPHA  9292*Host health.cch.com HTTP Content Scan DOWN at 02:10:33  
+2001-09-11 03:10:57 Skytel [005112809] C  ALPHA  02:05CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240400: Uncorrectable write error

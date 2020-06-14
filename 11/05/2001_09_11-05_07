@@ -1,0 +1,113 @@
+2001-09-11 05:07:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2014
+2001-09-11 05:07:01 Metrocall [1043759] D  ALPHA  Frm: Dodson, Kirk (Tulsa, OK) Sub: FW: DAILY SAFETY TIP Txt: Cargo Securement - As a professional Unisource driver, you are responsible for making sure the cargo you haul is
+2001-09-11 05:07:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2014
+2001-09-11 05:07:03 Metrocall [1043759] D  ALPHA   safe from shifting and falling. Why is this important? Because the customer is 1.) Trusting (and paying) u
+2001-09-11 05:07:06 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6836
+2001-09-11 05:07:06 Arch [0634239] D  ALPHA  1463*NETLOGGER: IPRED message: Sep 11 01:59:06 oma-dmz02.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:06 Arch [0986081] A  ALPHA  1463*NETLOGGER: IPRED message: Sep 11 01:59:06 oma-dmz02.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:06 Arch [0810070] B  ALPHA  1463*NETLOGGER: IPRED message: Sep 11 01:59:06 oma-dmz02.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:06 Arch [1079409] A  ALPHA  1463*NETLOGGER: IPRED message: Sep 11 01:59:06 oma-dmz02.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:08 Arch [0634239] D  ALPHA  3241*NETLOGGER: IPRED message: Sep 11 01:59:09 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:08 Arch [1026292] B  ALPHA  Backup@NYED.usco|Operator Attention|(Server: "NYEPSROGUE" Job: "Monday backup" Device: "HP 1") Please inser t overwritable
+2001-09-11 05:07:08 Arch [0986081] A  ALPHA  5218*N..L..G..:..P.....e..a... .p.....0..0..4..h..`.z02-out.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:08 Arch [0944991] D  ALPHA  PAGE FROM lifeline:  alert 8931347 AMDB_FD dba nyfdpsyb01.gsam.gs.com FD_PROD nyfdpsyb01.gsam.gs.com_DBA (FD_PROD): 01-09-
+2001-09-11 05:07:08 Arch [0810070] B  ALPHA  5218*NETLOGGER: IPRED message: Sep 11 01:59:05 oma-dmz02-out.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:08 Arch [1079409] A  ALPHA  5218*NETLOGG..:..P.....e..a.:..e. ....0..0.....`..`..0..h.t.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:08 Skytel {0619497} 1 2400 31740
+2001-09-11 05:07:09 Metrocall [002589700] B  ALPHA  iiava2 Node Down. 2001/09/11 03:54:28
+2001-09-11 05:07:09 Metrocall [002589700] B  ALPHA  iiamd1 Node Up. 2001/09/11 03:59:24
+2001-09-11 05:07:09 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE Tray Metrics Down   Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[002]  dev_err[239
+2001-09-11 05:07:10 Arch [1026292] B  ALPHA   media into the changer using the slot import command. 
+2001-09-11 05:07:10 Arch [0810070] B  ALPHA  3241*NETLOGGER: IPRED message: Sep 11 01:59:09 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:10 Arch [0944991] D  ALPHA  11 05:06:48 DBmaint.func_dump: ERROR: Dump for FD_PROD.PASSPORT_data failed 
+2001-09-11 05:07:10 Arch [1079409] A  ALPHA  3241*NETLOGGER: IPRED message: Sep 11 01:59:09 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:10 Arch [0634239] D  ALPHA  4665*NETLOGGER: IPRED message: Sep 11 01:59:10 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:10 Arch [0986081] A  ALPHA  3241*NETLOGGER: IPRED message: Sep 11 01:59:09 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:11 Metrocall [1222396] D  ALPHA  ]
+2001-09-11 05:07:12 Arch [0986081] A  ALPHA  4665*NETLOGGER: IPRED message: Sep 11 01:59:10 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:12 Arch [0810070] B  ALPHA  4665*NETLOGGER: IPRED message: Sep 11 01:59:10 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:12 Arch [1079409] A  ALPHA  4665*NETLOGGER: IPRED message: Sep 11 01:59:10 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:12 Arch [0634239] D  ALPHA  8747*NETLOGGER: IPRED message: Sep 11 01:59:13 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:15 Arch [0986081] A  ALPHA  4196*NETLOGGER: IPRED message: Sep 11 01:59:14 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:15 Arch [0634239] D  ALPHA  0952*NETLOGGER: IPRED message: Sep 11 01:59:17 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:15 Arch [0810070] B  ALPHA  4196*NETLOGGER: IPRED message: Sep 11 01:59:14 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:15 Arch [0000101] B  ALPHA  MSN 109 hello Message from NOC PCB.
+2001-09-11 05:07:15 Arch [1079409] A  ALPHA  4196*NETLOGGER: IPRED message: Sep 11 01:59:14 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:17 Arch [0986081] A  ALPHA  0952*NETLOGGER: IPRED message: Sep 11 01:59:17 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:17 Arch [0810070] B  ALPHA  0952*NETLOGGER: IPRED message: Sep 11 01:59:17 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:17 Arch [1079409] A  ALPHA  0952*NETLOGGER: IPRED message: Sep 11 01:59:17 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:18 Metrocall [002589700] B  ALPHA  iiava2 Node Up. 2001/09/11 03:59:28
+2001-09-11 05:07:19 Arch [0986081] A  ALPHA  6297*NETLOGGER: IPRED message: Sep 11 01:59:18 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:19 Arch [0810070] B  ALPHA  6297*NETLOGG..:........e..a..:..e. ........................................................................ IN, vid 7
+2001-09-11 05:07:19 Arch [1079409] A  ALPHA  6297*NETLOGGER: IPRED message: Sep 11 01:59:18 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:19 Arch [0634239] D  ALPHA  6297*NETLOGG..:........e..aP.:..e. ........................................................................ IN, vid 7
+2001-09-11 05:07:21 Arch [0986081] A  ALPHA  1449*NETLOGGER: IPRED message: Sep 11 01:59:21 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:21 Arch [0810070] B  ALPHA  1449*NETLOGG..:........E..aP.:..e. ........................................................................ IN, vid 7
+2001-09-11 05:07:21 Arch [1079409] A  ALPHA  1449*NETLOGGER: IPRED message: Sep 11 01:59:21 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:21 Arch [0634239] D  ALPHA  1449*NETLOGG..:..P.....e..a..:..e. ........................................................................ IN, vid 7
+2001-09-11 05:07:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9759
+2001-09-11 05:07:27 Arch [0634239] D  ALPHA  0363*NETLOGGER: IPRED message: Sep 11 01:59:22 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:27 Arch [0986081] A  ALPHA  0363*NETLOGGER: IPRED message: Sep 11 01:59:22 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out
+2001-09-11 05:07:27 Arch [0810070] B  ALPHA  0363*NETLOGGER: IPRED message: Sep 11 01:59:22 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:27 Arch [1079409] A  ALPHA  0363*NETLOGGER: IPRED message: Sep 11 01:59:22 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:28 Arch [0986081] A  ALPHA  2920*NETLOGGER: IPRED message: Sep 11 01:59:25 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:28 Arch [1425048] C  ALPHA   at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178191. 
+2001-09-11 05:07:28 Arch [0810070] B  ALPHA  2920*NETLOGGER: IPRED message: Sep 11 01:59:25 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:28 Arch [1079409] A  ALPHA  2920*NETLOGGER: IPRED message: Sep 11 01:59:25 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:31 Skytel [007547009] A ST NUM  08007243624    
+2001-09-11 05:07:31 Skytel [003928591] D SH/TONE 1       
+2001-09-11 05:07:31 Skytel [004365963] C  ALPHA  SEP 11 04:03 AM C MESSAGE 5022 PRIORITY 1 NIU 0 A CONNECTION TO A ROUTE FAILED CONNECT FAIL PROCESS NOP_INET_2 ROUTE 022 
+2001-09-11 05:07:32 Arch [0634239] D  ALPHA  2920*NETLOGGER: IPRED message: Sep 11 01:59:25 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:32 Arch [0986081] A  ALPHA  6509*NETLOGG..:..P.....e..a.:..e. ....0..8..6..-..d.....)...c..e....-..I..E..I..TATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:32 Arch [0810070] B  ALPHA  6509*NETLOGGER: IPRED message: Sep 11 01:59:26 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:32 Arch [1079409] A  ALPHA  6509*NETLOGG..:..P.....e..a.:..e. ....0..8.....}..d..0..a...C..e....m..I..E..I..TATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:32 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3407
+2001-09-11 05:07:33 Skytel [005132690] A  ALPHA  AL  Division code D, G, N non longer recognised by Info only E is allowed in div code field on following panels  CBA0QSSR  CBA0QSPR  CBA0QSCH  BLG0MS00  BLG0C100  BLG0B100  Ring Sally for status as soon as possible.  
+2001-09-11 05:07:33 Skytel [002861584] A ST NUM  8685429377
+2001-09-11 05:07:33 Skytel [005099415] B  ALPHA  HWTRSCH@emc.fedex.com|usda hold|Please return this freight back to MEMH including ppwk. Freight was selected by USDA at the MEMH. Ref awb: 02386653711   Logan HWTRSCH  
+2001-09-11 05:07:33 Skytel [007563679] D ST NUM  223-295-4041   
+2001-09-11 05:07:34 Arch [0634239] D  ALPHA  6509*NETLOGGER: IPRED message: Sep 11 01:59:26 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:34 Arch [0986081] A  ALPHA  8077*NETLOGGER: IPRED message: Sep 11 01:59:29 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:36 Arch [0634239] D  ALPHA  8077*NETLOGGER: IPRED message: Sep 11 01:59:29 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:36 Skytel [0000060] D  ALPHA  ADHOC FLIGHT 1580 EWR-BDL IS SCHEDULED TO DEPART AT 11:00Z ON A/C 191 AT GATE 124.-hub dispatch
+2001-09-11 05:07:36 Skytel [002817970] A  ALPHA  sitescope@crispy.di.merc-int.com| ALERT App/Topaz/SLM - Login Logout missing link "" on step 4 (http://twm-srv.me...|  Time:     2:03 AM 9/11/01 Response from server:   HTTP/1.1 200 OK    Server: Microsoft-IIS/4.0    Date: Tue, 11 Sep 2001 
+2001-09-11 05:07:38 Skytel [008477645] D  ALPHA  Rep. AUT.04:03 CMtel:1277,3,42 (7 (8
+2001-09-11 05:07:38 Skytel [006518475] C  ALPHA  1) 1) SEP 11 04:03 AM C MESSAGE 5022 PRIORITY 1 NIU 0 A CONNECTION TO A ROUTE FAILED CONNECT FAIL PROCESS NOP_INET_2 ROUTE 022 
+2001-09-11 05:07:38 Skytel [005098570] C SH/TONE 1       
+2001-09-11 05:07:40 Arch [0810070] B  ALPHA  8077*NETLOGGER: IPRED message: Sep 11 01:59:29 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:07:40 Arch [1079409] A  ALPHA  8077*NETLOGG..:........e..a.:..e. ........................................................................ IN, vid 7
+2001-09-11 05:07:40 Arch [0986081] A  ALPHA  1552*NETLOGGER: IPRED message: Sep 11 01:59:30 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:40 Arch [0634239] D  ALPHA  1552*NETLOGG..:..P.....e..a..:..e. ........................................................................ IN, vid 7
+2001-09-11 05:07:40 Skytel [002818396] D SH/TONE 4000 (5 
+2001-09-11 05:07:40 Skytel [007589212] D SH/TONE 3395    
+2001-09-11 05:07:42 Arch [0810070] B  ALPHA  1552*NETLOGGER: IPRED message: Sep 11 01:59:30 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:42 Arch [1079409] A  ALPHA  1552*NETLOGGER: IPRED message: Sep 11 01:59:30 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:07:42 Arch [0986081] A  ALPHA  8938*NETLOGGER: IPRED message: Sep 11 01:59:33 oma-dmz02-out.wic.west.com %IPRED-E-SEND_VRRP, detected interface down
+2001-09-11 05:07:42 Skytel [005456996] B  ALPHA  6) SEP 11 04:03 AM C MESSAGE 5022 PRIORITY 1 NIU 0 A CONNECTION TO A ROUTE FAILED CONNECT FAIL PROCESS NOP_INET_2 ROUTE 022 
+2001-09-11 05:07:42 Skytel [005436525] D  ALPHA  Test Message #31-IX_T0403
+2001-09-11 05:07:42 Skytel [003462889] C ST NUM  801-387-2612   
+2001-09-11 05:07:42 Skytel [005129573] B SH/TONE 483-3500
+2001-09-11 05:07:42 Skytel [004524770] A  ALPHA  wor-CentralNEEndodontics-Fitchbu: CPE Up at 00:58:15 on 9/11
+2001-09-11 05:07:43 Metrocall [1485566] D  ALPHA  sh into 01:55 HondoC was called and will check network. MOre information will follow soon. TonyV
+2001-09-11 05:07:44 Skytel [007109749] B ST NUM  046-071-1707   
+2001-09-11 05:07:44 Skytel [003327216] A  ALPHA  002221 CYCLIC TEST 
+2001-09-11 05:07:44 Skytel [002357369] C  ALPHA  002221 CYCLIC TEST 
+2001-09-11 05:07:44 Skytel [002139900] D SH/TONE 002221  
+2001-09-11 05:07:47 Arch [0944991] D  ALPHA  PAGE FROM lifeline:  alert 8931353 AMDB_SM diskinfo nyfdpsyb01.gsam.gs.com capacity Disk /sybdump is at 100 % of capacity, which is > 98 
+2001-09-11 05:07:48 Skytel [002851218] A  ALPHA  cr_apps@nextel.com||: TRIS/OVE   East & NY tris databases are late due to long running batch.  
+2001-09-11 05:07:49 Arch [0944991] D  ALPHA  PAGE FROM lifeline:  alert 8931351 AMDB_FD dba nyfdpsyb01.gsam.gs.com FD_PROD nyfdpsyb01.gsam.gs.com_DBA (FD_PROD): 01-09-11 05:07:19 DBmaint.func_dump: ERROR: Dump for FD_PROD.SMART_data failed 
+2001-09-11 05:07:49 Arch [0964998] B  ALPHA  Hairy@honeywell.|Job completed normally: D0205SI-|Arcana Scheduler job "D0205SI- Send Part-Adds to Oracle" completed successfully with return code 0 Job Started: 9/11/01 4:00:01 AM Job Ended: 9/11/01 4:00:07 AM 
+2001-09-11 05:07:50 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb8 login content match error on step 2, http://192.168.67.168:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informat
+2001-09-11 05:07:50 Skytel [007027751] B SH/TONE 1 (56   
+2001-09-11 05:07:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1280..
+2001-09-11 05:07:52 Metrocall [1545041] A  ALPHA  Frm: fax@act0911.com Txt: ASP ARTS1 is UP
+2001-09-11 05:07:57 Arch [0986081] A  ALPHA  4086*NETLOGGER: IPRED message: Sep 11 01:59:33 oma-dmz02.wic.west.com %IPRED-I-STATE, Int Dwn, B->I, I/F IN, vid 7
+2001-09-11 05:07:57 Arch [0810070] B  ALPHA  8938*NETLOGGER: IPRED message: Sep 11 01:59:33 oma-dmz02-out.wic.west.com %IPRED-E-SEND_VRRP, detected interface down
+2001-09-11 05:07:57 Arch [1079409] A  ALPHA  8938*NETLOGGER: IPRED message: Sep 11 01:59:33 oma-dmz02-out.wic.west.com %IPRED-E-SEND_VRRP, detected interface down
+2001-09-11 05:07:57 Arch [0634239] D  ALPHA  8938*NETLOGGER: IPRED message: Sep 11 01:59:33 oma-dmz02-out.wic.west.com %IPRED-E-SEND_VRRP, detected interface down
+2001-09-11 05:07:57 Skytel [005112809] C  ALPHA  04:06CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240416: Uncorrectable write error
+2001-09-11 05:07:57 Skytel [005203941] B  ALPHA  7727*Host health.cch.com HTTP Content Scan DOWN at 04:07:14  
+2001-09-11 05:07:59 Arch [0810070] B  ALPHA  4086*NETLOGGER: IPRED message: Sep 11 01:59:33 oma-dmz02.wic.west.com %IPRED-I-STATE, Int Dwn, B->I, I/F IN, vid 7
+2001-09-11 05:07:59 Arch [1079409] A  ALPHA  4086*NETLOGGER: IPRED message: Sep 11 01:59:33 oma-dmz02.wic.west.com %IPRED-I-STATE, Int Dwn, B->I, I/F IN, vid 7
+2001-09-11 05:07:59 Arch [0634239] D  ALPHA  4086*NETLOGGER: IPRED message: Sep 11 01:59:33 oma-dmz02.wic.west.com %IPRED-I-STATE, Int Dwn, B->I, I/F IN, vid 7

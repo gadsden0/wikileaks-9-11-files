@@ -1,0 +1,57 @@
+2001-09-11 03:37:00 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router 611FP-1MBT at 00:33:29 Txt: Router 611FP-1MBT UP at 00:33:29 Address: 209.247.46.226 Date: 09/11/2001 Status: Active and responding ( 0)
+2001-09-11 03:37:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1924
+2001-09-11 03:37:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1924
+2001-09-11 03:37:03 Skytel [007035414] B SH/TONE 9444    
+2001-09-11 03:37:03 Skytel [002401821] D  ALPHA  206.122.40.67 $HASP050 JES2 RESOURCE SHORTAGE OF JOES - 80% UTILIZATION REACHED ussa11.SSMC 
+2001-09-11 03:37:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6746
+2001-09-11 03:37:05 Arch [0492587] C  ALPHA  STALL DNS54EEZ.DBF R       3000
+2001-09-11 03:37:05 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177199. 
+2001-09-11 03:37:08 Skytel {0619497} 1 2400 31740
+2001-09-11 03:37:09 Metrocall [1544818] A  ALPHA  Server 'HAY-NS2 Disk.E.Free = 158042112, min allowable: (300000000)
+2001-09-11 03:37:09 Metrocall [1466337] A  ALPHA  09/11@02:28:51 DALPS01:The session setup from the computer HNB-BASECFG-150 failed to authenticate. The name of the account referenced in the security database is HNB-B
+2001-09-11 03:37:09 Metrocall [1111466] C  ALPHA  09/11@02:28:51 DALPS01:The session setup from the computer HNB-BASECFG-150 failed to authenticate. The name of the account referenced in the security database is HNB-BASECFG-150$. The following error occurred: (null)
+2001-09-11 03:37:11 Metrocall [1466337] A  ALPHA  ASECFG-150$. The following error occurred: (null)
+2001-09-11 03:37:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9669
+2001-09-11 03:37:25 Arch [0000101] B  ALPHA  MSN 066 hello Message from NOC PCB.
+2001-09-11 03:37:25 Arch [0944834] A  ALPHA  8880
+2001-09-11 03:37:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177206. 
+2001-09-11 03:37:30 Metrocall [1363643] C  ALPHA  Frm: busintel@tickets.com Sub: =?iso-8859-1?Q?Load Plan Completion - Load Advantix artsoft/histdb stage table?=
+2001-09-11 03:37:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3317
+2001-09-11 03:37:31 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 03:37:31 Arch [0320272] A  ALPHA  ALEXANDRIAroot - hrnais02.hrnais02_df-FULL.FAILURE
+2001-09-11 03:37:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 00:37:23 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 03:37:31 Skytel [007645961] C ST NUM  508-937-7609   
+2001-09-11 03:37:35 Skytel [002405037] D  ALPHA  nms@svcanms.conxion.com|Sep11-00:37|There are 7 active alarms  
+2001-09-11 03:37:35 Skytel [003934628] B  ALPHA  23985@emc.fedex.com||attention spss: focus on your early departures in the bag stands  
+2001-09-11 03:37:36 Skytel [0001075] A  ALPHA  3902 x-LAX eta 0320.
+2001-09-11 03:37:36 Skytel [0001074] A  ALPHA  3902 x-LAX eta 0320.
+2001-09-11 03:37:36 Skytel [004702132] B  ALPHA  support@pconline.com|Server newton FTP,POP3 DOWN at 02:31:15|Server newton FTP,POP3 DOWN at 02:31:15 Add
+2001-09-11 03:37:36 Skytel [005359793] A  ALPHA  root@isffin01.internal.merial.com|/home full|/dev/vg00/lvol4 /home filesystem 100 full    ---------------------------------------------------------------------------- This email and any files transmitted with it are confidential and intende
+2001-09-11 03:37:38 Skytel [004539594] C  ALPHA  3902 x-LAX eta 0320.
+2001-09-11 03:37:38 Skytel [005054539] C  ALPHA  root@isffin01.internal.merial.com|/home full|/dev/vg00/lvol4 /home filesystem 100 full    ---------------------------------------------------------------------------- This email and any files transmitted with it are confidential and intende
+2001-09-11 03:37:39 Metrocall [1466337] A  ALPHA  09/11@02:32:39 DALDC01:The master browser has received a server announcement from the computer HB-ICONECT that believes that it is the master browser for the domain on transport NetBT_Tcpip_{E7CD7022-9C94-48E. The master browse
+2001-09-11 03:37:39 Metrocall [002178508] D  ALPHA  EMAIL The New York Times Direct  Today's Headlines from NYTimes.com Tuesday, September 11, 2001 TODAY'S HEADLINES The New York Times on the Web Tuesday, September 11, 2001 ------------------------------------------------------------ For news update
+2001-09-11 03:37:40 Skytel [003944538] C  ALPHA  NetCmmnd@wscmdpost.pncbank.com|Alert from System Management - SYSA FDTPAGE|FDTPAGE PDZLXOWD,AUTOCONNECT SEND/ONLY FAILS REPLY Y  
+2001-09-11 03:37:41 Metrocall [1466337] A  ALPHA  r is stopping or
+2001-09-11 03:37:41 Metrocall [002178508] D  ALPHA  d throu
+2001-09-11 03:37:41 Metrocall [1111466] C  ALPHA  09/11@02:32:39 DALDC01:The ma................................................................................................................................................................................................
+2001-09-11 03:37:42 Skytel [005436525] D  ALPHA  Test Message #3-IX_T1702
+2001-09-11 03:37:42 Skytel [004524770] A  ALPHA  spf-USINewEngland-ManchesterNH-3: CPE Up at 00:57:43 on 9/11
+2001-09-11 03:37:42 Skytel [005112809] C  ALPHA  02:35CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240416: Uncorrectable write error
+2001-09-11 03:37:42 Skytel [007553888] A  ALPHA  896-6731No Answer Southfield Backup 248-552
+2001-09-11 03:37:43 Metrocall [1466337] A  ALPHA  CONT:an election is being forced.
+2001-09-11 03:37:43 Metrocall [1111466] C  ALPHA  browser is stopping or
+2001-09-11 03:37:44 Skytel [002357369] C  ALPHA  002191 CYCLIC TEST 
+2001-09-11 03:37:44 Skytel [003327216] A  ALPHA  002191 CYCLIC TEST 
+2001-09-11 03:37:44 Skytel [002139900] D SH/TONE 002191  
+2001-09-11 03:37:48 Metrocall [1061722] C  ALPHA  Frm: Bbrother Sub: !BB - 1974610! beta.disk - 100208184226141 Txt: [1974610] purple Wed Sep 5 21:22:48 PDT 2001 - Disk on beta at WARNING level &yellow /home (87%) has reached the defined disk space WARNING level (85%) /dev/vg1/var 524268 7
+2001-09-11 03:37:48 Metrocall [0753913] C  ALPHA  ADDITIONAL INFO:  #85 AAA ALSO ALL MILES TO VEHICLE
+2001-09-11 03:37:48 Metrocall [1902004] B  ALPHA  Frm: Bbrother Sub: !BB - 1974610! beta.disk - 100208184226141 Txt: [1974610] purple Wed Sep 5 21:22:48 PDT 2001 - Disk on beta at WARNING level &yellow /home (87%) has reached the defined 
+2001-09-11 03:37:48 Skytel [002864402] A  ALPHA  cindypot23@my.smart.com.ph|BHey| nasa haus ka na? naku slip ka na noh? sabi na eh 2lugan mo ko eh! hmp! nyt po. ilove u. bati na tayo.   
+2001-09-11 03:37:50 Metrocall [1902004] B  ALPHA  disk space WARNING level (85%) /dev/vg1/var 524268 7
+2001-09-11 03:37:50 Metrocall [0153352] C  ALPHA  Frm: Kamesh Ramanalharr Sub: The Internet process for 09/10/2001 has Successfully Completed Txt: from internet proccess
+2001-09-11 03:37:52 Arch {0412152} 3 2400 THIS IS A@teST PERIODIC PAGE SEQUENTIAL NUMBER  1190..
+2001-09-11 03:37:53 Skytel [003870670] D  ALPHA  reach me on channel 2  S.Diederich
+2001-09-11 03:37:55 Skytel [007519070] D  ALPHA  Iubitel,somnic usor si sa stii ca te iubesc si ca imi lipsesti mult,mult.Cu dragoste,Mihutu
+2001-09-11 03:37:59 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-11 03:37:59 Skytel [003858033] A SH/TONE 468     

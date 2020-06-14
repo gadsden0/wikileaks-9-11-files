@@ -1,0 +1,65 @@
+2001-09-11 03:03:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1890
+2001-09-11 03:03:00 Metrocall [1064376] C  ALPHA  GOVPX TREASURY 30__99.03 /05+5.437 10_101.09 /10 4.835 5Y_101.08+..................................................................
+2001-09-11 03:03:00 Metrocall [1064377] C  ALPHA  ...........................................................................
+2001-09-11 03:03:00 Metrocall [0000329] C  ALPHA  ..................
+2001-09-11 03:03:02 Metrocall [0000329] C  ALPHA  RIODIC PAGE SEQUENTIAL NUMBER  1890
+2001-09-11 03:03:03 Skytel [0001048] C  ALPHA  PERFORMANCE FEED TRANSMITTED 0301 HR.  MORGAN ADVISED.  H.M.-COMMAND CENTER
+2001-09-11 03:03:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6712
+2001-09-11 03:03:05 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 176807. 
+2001-09-11 03:03:05 Skytel {1079475} 3 1200 50413
+2001-09-11 03:03:09 Metrocall [002286026] C  ALPHA  5060>>>>>
+2001-09-11 03:03:09 Metrocall [1545041] A  ALPHA  Frm: fax@act0911.com Txt: smtp.cfgg.org is UP
+2001-09-11 03:03:09 Metrocall [002589691] C  ALPHA  Frm: ercoracledbagroup@ercgroup.com Sub: EVENT TSFull_EDBUP01 CLEARED Txt: Name : TSFull_EDBUP01 Target Name : pvmco.world Target Type : Database Node Name : 
+2001-09-11 03:03:10 Arch [0870284] D  ALPHA  Wendy Javier|Please check queue |Hello there, I am working on a launch. Can you please check the queue? It doesn't look like it's moving... Thanks, Wendy|153  
+2001-09-11 03:03:11 Arch [1617998] D  ALPHA  smartlady|thinking of you |Hi Gody, Sorry so late, I just replied to your email. Glad to know u r home safely. I miss u... Karen |129  
+2001-09-11 03:03:11 Arch [0960635] C  ALPHA  Wendy Javier|Please check queue |Hello there, I am working on a launch. Can you please check the queue? It doesn't look like it's moving... Thanks, Wendy|153  
+2001-09-11 03:03:11 Arch [1082628] B  ALPHA  (15)syswatch: HOST/PROCESS - resswext.sec.sprint.net:CLIENT PROBLEM ID -HOSTFAIL1~resswext.sec.sprint.net~resunfw PROBLEM AREA - HOST FAILDESCRIPTION - resunfw: 1 min NO RESPONSE (PING FAIL)
+2001-09-11 03:03:11 Metrocall [002589691] C  ALPHA  er-edb-up01.erc.gecapital.com Tablespace Full Event test "Tablespace Full" is cleared CLEARED Sep 11 2001 02:02:33 AM
+2001-09-11 03:03:12 Arch [0278688] A  ALPHA  TAIL SWAPS OKC 0734 TAIL 909 R9P12, ABY-BFM 0366 TAIL 214 R5P14 .  (0703)
+2001-09-11 03:03:12 Arch [0783541] B  ALPHA  53-PLEASE CALL CADET AT 212-966-8000.
+2001-09-11 03:03:16 Arch [0622850] A  ALPHA  628-0124
+2001-09-11 03:03:18 Arch [0908501] B  ALPHA  Roman_Nirenberg@|BONY Accounting Feed|The BONY accounting feed finished at 02:54 am on 09/11/01. Thank you, Roman The information in this e-mail, and any attachment therein, is confidential and for use by the addressee only. If you are not t
+2001-09-11 03:03:20 Metrocall [1545041] A  ALPHA  Frm: fax@act0911.com Txt: 216-166-229-4.madisonriver.net is UP
+2001-09-11 03:03:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9635
+2001-09-11 03:03:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3283
+2001-09-11 03:03:33 Arch [0916116] B  ALPHA  From Store Systems Data Capture: Stores With Potential Link Save Issues    Store 4933 has 20 movement files backed up.  
+2001-09-11 03:03:33 Arch [1410805] B  ALPHA  (13)From Store Systems Data Capture: Stores With Potential Link Save Issues    Store 4933 has 20 movement files backed up.  
+2001-09-11 03:03:33 Arch [0915843] A  ALPHA  (10)From Store Systems Data Capture: Stores With Potential Link Save Issues    Store 4933 has 20 movement files backed up.  
+2001-09-11 03:03:33 Skytel [007588498] A SH/TONE 3385    
+2001-09-11 03:03:33 Skytel [002790166] B ST NUM  462-6249 (1    
+2001-09-11 03:03:33 Skytel [002401821] D  ALPHA  sasdsp17 Distributed Monitoring pf.ussa11.OTSW.dm.sasdsp17/CPU time: user plus sys on host sasdsp17 09/10/01 23:12:00 PDT  Status: >>> crit ussa11.SSMC 
+2001-09-11 03:03:33 Skytel [004690331] C  ALPHA  netrangr@prodrubdir.hew.us.ml.com|Alm: 4 3150:0 1|Tme: 2001/09/11 03:03:26 Src: I tpcb.teleplex.ml.com:3897 Dst: I 216.35.94.76:21 NSX: [10008.12501.41] SID: 3150 "FTP SITE" Msg: "SITE"    
+2001-09-11 03:03:34 Skytel [007555619] A  ALPHA  netrangr@prodrubdir.hew.us.ml.com|Alm: 4 3150:0 1|Tme: 2001/09/11 03:03:26 Src: O tpcb.teleplex.ml.com:3897 Dst: I 216.35.94.76:21 NSX: [10008.17001.41] SID: 3150 "FTP SITE" Msg: "SITE"    
+2001-09-11 03:03:36 Skytel [007560115] A ST NUM  738-1888-84    
+2001-09-11 03:03:36 Skytel [004041776] A ST NUM  333102 (28
+2001-09-11 03:03:36 Skytel [007559861] B ST NUM  210-637-2869   
+2001-09-11 03:03:36 Skytel [003934518] B  ALPHA  netrangr@prodrubdir.hew.us.ml.com|Alm: 4 3150:0 1|Tme: 2001/09/11 03:03:26 Src: O tpcb.teleplex.ml.com:3897 Dst: I 216.35.94.76:21 NSX: [10008.17001.41] SID: 3150 "FTP SITE" Msg: "SITE"    
+2001-09-11 03:03:36 Skytel [005002044] D  ALPHA  Server Chicago_Notes_1/SYBASE is Responding or has been restarted.
+2001-09-11 03:03:37 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 176814. 
+2001-09-11 03:03:39 Metrocall [1545041] A  ALPHA  Frm: fax@act0911.com Txt: 216-166-229-4.madisonriver.net is UP
+2001-09-11 03:03:39 Metrocall [1146325] B  ALPHA  AX01-11855 Loc:912 MONTGOMERY ST, ,SubZone:5410 Nature: ALS /? Desc: Advanced Life Support 21 yom can't breath Units: E204 M202
+2001-09-11 03:03:40 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 79.86 65.01 39.03 Tue Sep 11 00:04:00 MST 2001 
+2001-09-11 03:03:40 Skytel [002818396] D SH/TONE 4000 (3 
+2001-09-11 03:03:40 Skytel [005138014] D  ALPHA  Cisco Systems, Verizon To Offer Advanced Teleworker Programs[DJ NEWS]
+2001-09-11 03:03:42 Skytel [004477540] B  ALPHA  1) COMP 1688.51 +0.81 MOT 14.30 +0.01 DJX 0.00 UNCH IRID 0.00 UNCH
+2001-09-11 03:03:42 Skytel [007596901] B SH/TONE 85450   
+2001-09-11 03:03:42 Skytel [005350248] C SH/TONE 1914    
+2001-09-11 03:03:42 Skytel [004524770] A  ALPHA  spr-TexonINT-Russell-01: CPE Down at 00:36:47 on 9/11
+2001-09-11 03:03:42 Skytel [003462889] C ST NUM  801-387-2612   
+2001-09-11 03:03:42 Skytel [005436525] D  ALPHA  Test #27
+2001-09-11 03:03:42 Skytel [005197292] D  ALPHA  SGI 0.42 +0.01 MOT 14.32 +0.03 AMAT 40.44 +0.16 BHI 33.76 -0.19
+2001-09-11 03:03:44 Skytel [1293694] D  ALPHA  (sergiop): F3 NEGOCIOS/DEPORTES INICIO 1:10
+2001-09-11 03:03:44 Skytel [007112696] C SH/TONE 633-2418
+2001-09-11 03:03:46 Arch [0000101] B  ALPHA  MSN 050 hello Message from NOC PCB.
+2001-09-11 03:03:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 00:01:59 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 03:03:46 Skytel [004571022] D ST NUM  809-9266-2
+2001-09-11 03:03:48 Skytel [002861584] A ST NUM  8685429395
+2001-09-11 03:03:50 Metrocall [002356849] A  ALPHA  5060>>>>>
+2001-09-11 03:03:50 Metrocall [1545041] A  ALPHA  Frm: fax@act0911.com Txt: ASP ARTS1 is UP
+2001-09-11 03:03:50 Skytel [003934628] B  ALPHA  23985@emc.fedex.com||second floor differential is 68,551 at this time, secondary 2 is at 15,000  
+2001-09-11 03:03:50 Skytel [003944611] A  ALPHA  CIM@innovex.com|ITMS-IIS-LAN2 : Device Inaccessible|ITMS-IIS-LAN2:Device Inaccessible  
+2001-09-11 03:03:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1156..
+2001-09-11 03:03:59 Skytel [007591537] A SH/TONE 00120   
+2001-09-11 03:03:59 Skytel [007494512] A SH/TONE 375-0558
+2001-09-11 03:03:59 Skytel [002151415] B ST NUM  45555555555555555555
+2001-09-11 03:03:59 Skytel [004535801] C SH/TONE 254     

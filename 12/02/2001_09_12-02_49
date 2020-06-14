@@ -1,0 +1,56 @@
+2001-09-12 02:49:01 Arch [0000101] B  ALPHA  MSN 096 hello Message from NOC PCB.
+2001-09-12 02:49:03 Skytel [002401821] D  ALPHA  shbr07.saipc.eds.com The interface lan0 on shbr07.saipc.eds.com is Down. ussa11.SSMC 
+2001-09-12 02:49:04 Arch [0510613] B  ALPHA  (10)77:ABS:
+2001-09-12 02:49:04 Arch [1407124] B  ALPHA  (20)NT Server KCMSEP01 SMTP SVCDOWN at 02:00:12
+2001-09-12 02:49:04 Arch [0509573] B  ALPHA  (30)36:ABS:
+2001-09-12 02:49:04 Arch [0515392] A  ALPHA  (24)19:ABS:
+2001-09-12 02:49:10 Metrocall [1707223] B  ALPHA  Frm: inetsmon@bankofamerica.com Sub: Inets monitor Txt: /usr on dalcache1.bankofamerica.com is at 90%
+2001-09-12 02:49:12 Arch [0987275] C  ALPHA  s0191: 09/11 11:59:03 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:59:03
+2001-09-12 02:49:12 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192895. 
+2001-09-12 02:49:14 Arch [0987275] C  ALPHA  s0191: 09/11 12:04:03 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:04:03
+2001-09-12 02:49:15 Arch [0987275] C  ALPHA  s0191: 09/11 12:12:06 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:12:07
+2001-09-12 02:49:17 Arch [0987275] C  ALPHA  s0191: 09/11 12:14:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:14:49
+2001-09-12 02:49:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1061
+2001-09-12 02:49:23 Arch [1034574] D  ALPHA  (24)15:ABS:
+2001-09-12 02:49:23 Arch [1071310] D  ALPHA  23:ABS:
+2001-09-12 02:49:25 Arch [0951053] D  ALPHA  |itech-view6 build(s) done  
+2001-09-12 02:49:30 Arch [0162727] B  ALPHA  369-1583
+2001-09-12 02:49:30 Arch [0987275] C  ALPHA  s0191: 09/11 12:20:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:20:24
+2001-09-12 02:49:32 Arch [0987275] C  ALPHA  s0191: 09/11 12:28:34 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:28:34
+2001-09-12 02:49:32 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 23:47:01 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 02:49:32 Skytel [004694661] B SH/TONE 1       
+2001-09-12 02:49:32 Skytel [007645961] C ST NUM  410-894-2406   
+2001-09-12 02:49:32 Skytel [005543817] C SH/TONE 727-6928
+2001-09-12 02:49:34 Arch [0987275] C  ALPHA  s0191: 09/11 12:31:16 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:31:16
+2001-09-12 02:49:35 Skytel [005001895] B  ALPHA  [sps/42] 200 supplier.intel.com relay-rialto105 2.001 Application isokay (/rcc/healthcheck.asp) 3:45:43
+2001-09-12 02:49:35 Skytel [002971940] B  ALPHA  MSFT 57.58 UNCH SKYT 0.00 UNCH NOVL 3.99 UNCH INTL 15.16 UNCH (23
+2001-09-12 02:49:35 Skytel [004704807] B SH/TONE 3555    
+2001-09-12 02:49:36 Arch [0987275] C  ALPHA  s0191: 09/11 12:36:48 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:36:48
+2001-09-12 02:49:37 Skytel [003598901] B  ALPHA  MSFT 57.58 UNCH NFB 27.09 UNCH INTC 26.07 UNCH EFII 18.49 UNCH (14
+2001-09-12 02:49:39 Skytel [003522371] A SH/TONE 214     
+2001-09-12 02:49:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:49:39 Skytel [002936906] C SH/TONE 86285   
+2001-09-12 02:49:39 Skytel [005002438] B  ALPHA  Watcher: snyc12723: FaxSr_Notify service has Stopped
+2001-09-12 02:49:41 Skytel [003945428] B  ALPHA  "Hicap Great Lakes RSM" "SPUBAB2-2 MT02A1-3" "NPA000106644" "XXXXXX" "2001091200907" "ZAU" "GREAT LAKES" "HIGH CAP HIT AND CLEARED" "TSP YES" "JAMES SUMMERSON" "Multiple NO" "2" 
+2001-09-12 02:49:41 Skytel [004208344] C  ALPHA  361-4846 (21
+2001-09-12 02:49:42 Arch [0937381] B  ALPHA  :The Problem with ID 00330734 Severity 2 Description  mopf21.pitts.bayer.com- Node Down. has not been resolved.It has been escalated to level 1 on 09/11/2001 at 17:22:35.
+2001-09-12 02:49:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #51-IX_T3902
+2001-09-12 02:49:43 Skytel [007596901] B SH/TONE 85450   
+2001-09-12 02:49:43 Skytel [005363177] C  ALPHA  6513
+2001-09-12 02:49:44 Arch [0909767] B  ALPHA  (15)18:ABS:
+2001-09-12 02:49:44 Arch [0977403] C  ALPHA  (13)18:ABS:
+2001-09-12 02:49:44 Arch [0135344] A  ALPHA  21:ABS:
+2001-09-12 02:49:45 Skytel [004751730] A ST NUM  900-241-3624   
+2001-09-12 02:49:45 Skytel [002357369] C  ALPHA  002655 CYCLIC TEST 
+2001-09-12 02:49:45 Skytel [007593848] C ST NUM  0-562-989-4603 
+2001-09-12 02:49:45 Skytel [002139900] D SH/TONE 002655  
+2001-09-12 02:49:45 Skytel [003327216] A  ALPHA  002655 CYCLIC TEST 
+2001-09-12 02:49:47 Skytel [005062410] C  ALPHA  harmds@mdsbuild.jpl.nasa.gov||0911 234942 Tue MDS restart returns 0 1 0  
+2001-09-12 02:49:51 Metrocall [1064374] B  ALPHA  YEN  118.93/01 -079 EUR  0.9126/31 +023 CHF  1.6485/15 +080 GBP  1.4753/58 +002 CAD  1.5631/37 -006 AUD  0.5186/91 -009 NZD  0.4295/15 -010 DEM  2.1422/34 -052  E/C  1.5057/59 +066 E/Y  108.51/54 -048 E/S  0.6179/83 -013 USD     113.13 -025
+2001-09-12 02:49:54 Skytel [005345221] B  ALPHA  DUTYMGR> NISSAN DS: SEV2 Memphis, TN Router NPME telco circuit is down at 00:15 MT. AT&T has informed local telco to investigate. No etu. - 800-317-6700
+2001-09-12 02:49:55 Arch [0987275] C  ALPHA  s0191: 09/11 12:44:46 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:44:47
+2001-09-12 02:49:55 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192902. 
+2001-09-12 02:49:57 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-12 02:49:58 Skytel [002406502] B  ALPHA  maillog@2waybeats.com|2waybeats.com VDE/CGI script output|1[!A0][D32801]!*+Redman+Let'sGetDirty/DJEv/2WayBeats.com;2,T099%6LdVCsvldRCRLdVCvldCR-2CLrLdVC#s.RtvldlrC#eLrLdVC#svldC#elrRs+6LdVCsvldRCRLdVCvldCR-2CLrLdVC#s.RtvldlrC#eLrLdVC#svldC#
+2001-09-12 02:49:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8139
+2001-09-12 02:49:59 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14

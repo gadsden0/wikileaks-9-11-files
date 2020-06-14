@@ -1,0 +1,72 @@
+2001-09-11 04:01:00 Metrocall [0265762] A  ALPHA  (92)9/11 4:03 am FRANCIS 2234 LAKETON RD WILKINSBURG PA 15221 GRAHAM WILLIAM
+2001-09-11 04:01:00 Metrocall [002682271] D  ALPHA  Atlanta NT Server FANPATL:IP Device was down, now responding.
+2001-09-11 04:01:00 Metrocall [1363643] C  ALPHA  Frm: busintel@tickets.com Sub: =?iso-8859-1?Q?Load Plan Completion - Clean & Load Stage T
+2001-09-11 04:01:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1948
+2001-09-11 04:01:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1948
+2001-09-11 04:01:01 Metrocall [1363643] C  ALPHA  ables.?= Txt: Step 1 Completed Successfully.
+2001-09-11 04:01:01 Skytel [005484932] B SH/TONE 671-6200
+2001-09-11 04:01:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6770
+2001-09-11 04:01:05 Arch [0529957] B  ALPHA  west Airlines
+2001-09-11 04:01:05 Arch [0976352] A  ALPHA  (6)jmspeag 72674-DCM-  FYI - BUYPASS engaging Engineers on routing issue with NAK-2, No ETTR. No impact due to redundancy  Sent at 03:00      
+2001-09-11 04:01:05 Arch [1612111] D  ALPHA  monitor@ccbill.c|EPX PROBLEM WITH front5c.ccbill.|ALERT: No Connection to EPX port Tue Sep 11 01:01:15 MST 2001 
+2001-09-11 04:01:06 Arch [1612111] D  ALPHA  monitor@ccbill.c|SELECTCHECK PROBLEM WITH front5c|ALERT: No Connection to Selectcheck port 443 Tue Sep 11 01:01:15 MST 2001 
+2001-09-11 04:01:06 Arch [1640037] B  ALPHA  TOBACCO RD 5208 W 10TH ST HELD UP B/F ARMED W/25.CAL HANDGUN DET ON THE WAY TO SCENE. FROM: SP301
+2001-09-11 04:01:08 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2219 - 00246B ST_AUG_S_6125, cnet lost sync, Set
+2001-09-11 04:01:08 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope http://www2.americanskandia.com Production Web Sites (emt-4b) 90630 timed out reading 
+2001-09-11 04:01:08 Skytel {1474890} 3 1200 292-2669  
+2001-09-11 04:01:09 Metrocall [0265762] A  ALPHA  CONT:(412) 244-9370
+2001-09-11 04:01:10 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope CO Pipeline Ping (SKANWEB03) UUNet Web Hosting Servers 101331 failed 
+2001-09-11 04:01:12 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope http://stctestbroker.wheretoinvest.com - Client Production Web Sites (emt-4b) 67682 timed out reading, http://stctestbroker.wheretoinvest.com/error.html 
+2001-09-11 04:01:14 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope ComNet SQL 7 Ping (SKANDB02) UUNet Web Hosting Servers 52095 failed 
+2001-09-11 04:01:16 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope http://www.intelligentfund.com Production Web Sites (emt-4b) 42666 timed out reading 
+2001-09-11 04:01:18 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177479. 
+2001-09-11 04:01:20 Metrocall [1064386] A  ALPHA  MONEY MARKETS FF__3.500 PR 6.500 EU$ 3.44/3.36/3.24 LIB 3.50/3.36/3.32 EIB4.301/4.242/114 REP 3.47/3.40/3.36 DCP 3.46/3.33/3.29 UBA 3.41/3.21/3.18 BBA 3.50/3.36/3.32 UCD 3.42/3.31/3.24
+2001-09-11 04:01:20 Metrocall [1064374] B  ALPHA  YEN  121.72/74 +079 EUR  0.8995/97 +014 CHF  1.6852/58 -
+2001-09-11 04:01:22 Metrocall [1064374] B  ALPHA  027 GBP  1.4562/67 -001 CAD  1.5631/36 +005 AUD  0.5147/52 +014  NZD  0.4261/66 -046 DEM  2.1744/48 -026  E/C  1.5157/62 +002 E/Y  109.40/45 +075 E/S  0.6173/79 +015 USD     114.75 -003
+2001-09-11 04:01:22 Metrocall [1064384] A  ALPHA  Y/C  72.14/24   +42 SGD 1.7528/538 +025 HKD 7.7994/002 -
+2001-09-11 04:01:24 Metrocall [1064384] A  ALPHA  004 TWD 34650/4750 +050  IDR  9085/9100 +025 PHP 51.290/340 +190 PLN 4.2090/120 +012 THB 44.740/790 +130 KRW12965/12971 +165 ZAR 8.5345/445 +234 MXN  9.391/401 -003 BRR 25950/5960 +700
+2001-09-11 04:01:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9693
+2001-09-11 04:01:25 Arch [1407003] C  ALPHA  I 74/W PITTSBOR EXIT W/B 10-50 UNKNOWN/DISP
+2001-09-11 04:01:27 Arch [0391843] A  ALPHA  775-8011
+2001-09-11 04:01:29 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope http://www.skandia.at Production Web Sites (emt-4b) 90335 timed out reading 
+2001-09-11 04:01:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3341
+2001-09-11 04:01:31 Arch [0925366] B  ALPHA   318643;Sep 11 00:02:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 04:01:31 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope AS Marimba Ping (SKANWEB02) UUNet Web Hosting Servers 56570 failed 
+2001-09-11 04:01:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 01:01:25 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 04:01:33 Arch [1439547] C  ALPHA  SiteScope http://www.skandia.com.co Production Web Sites (emt-4b) 90337 timed out reading 
+2001-09-11 04:01:33 Skytel [007588498] A SH/TONE 3385    
+2001-09-11 04:01:33 Skytel [002861584] A ST NUM  8685429395
+2001-09-11 04:01:33 Skytel [005225860] B SH/TONE 125     
+2001-09-11 04:01:35 Arch [1439547] C  ALPHA  SiteScope http://www.inteligentfund.cl Production Web Sites (emt-4b) 42660 timed out reading 
+2001-09-11 04:01:35 Skytel [005053216] A  ALPHA  young.c.jun@verizon.com||Mike, Adhoc had a problem and need to increase length of columns. Although reports can be delivered in time. Thanks Vic  
+2001-09-11 04:01:35 Skytel [005492655] D SH/TONE 371-9707
+2001-09-11 04:01:36 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope ComNet Ping (SKANDB01) UUNet Web Hosting Servers 98455 failed 
+2001-09-11 04:01:38 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope https://www.australianskandia.com.au/AU_ServiceOnline Production Web Sites (emt-4b) 64421 timed out reading, https://www.australianskandia.com.au/AU_ServiceOnline/ 
+2001-09-11 04:01:39 Metrocall [002589620] B  ALPHA  Frm: notifier@solutions.att.com Sub: LAC CIRCUIT DOWN!!! Txt: The following LAC circuit is down md38-01-ba13-7505 Serial1/2 honteg-01-a-4700 Serial0 no MI
+2001-09-11 04:01:39 Metrocall [1421641] C  ALPHA  Check Point 3 not reached on time.  After PBS0010L
+2001-09-11 04:01:39 Metrocall {1140020} 3 2400 10.14.16.4 is Up 03:58:45 09/11/01...
+2001-09-11 04:01:40 Arch [0968864] A  ALPHA  (12)The file: SWSTTD1H is out of date.
+2001-09-11 04:01:42 Skytel [007465454] D  ALPHA  tdaley@baesystems.com||ORAFIN Backup DB Shutdown notice  
+2001-09-11 04:01:42 Skytel [005049316] B  ALPHA  Robot.ALERT@ELSEG400|Robot ALERT ID-000089767|Date 09-11-01 Time 01:01 Robot is working   
+2001-09-11 04:01:42 Skytel [002695782] B  ALPHA    SiteScope/Databases - Sacramento/Yuba - FTP Service/23137/not found (1722)/
+2001-09-11 04:01:42 Skytel [005436525] D  ALPHA  Test #20
+2001-09-11 04:01:42 Skytel [004524770] A  ALPHA  wil-CTC-WillistonVT-01: CPE Up at 00:58:47 on 9/11
+2001-09-11 04:01:44 Skytel [003779836] D  ALPHA    SiteScope/Databases - Sacramento/Colusa - SQLServerAgent Service/67484/not found (1722)/
+2001-09-11 04:01:44 Skytel [002357369] C  ALPHA  002199 CYCLIC TEST 
+2001-09-11 04:01:44 Skytel [003327216] A  ALPHA  002199 CYCLIC TEST 
+2001-09-11 04:01:44 Skytel [002139900] D SH/TONE 002199  
+2001-09-11 04:01:44 Skytel [003932285] D SH/TONE 3018 U  
+2001-09-11 04:01:48 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope AS Marimba Ping (SKANWEB01) UUNet Web Hosting Servers 56559 failed 
+2001-09-11 04:01:48 Skytel [002401821] D  ALPHA  206.122.40.74 Refer to message IDC3009I for abend solution ussa11.SSMC 
+2001-09-11 04:01:49 Arch [1439547] C  ALPHA  SiteScope http://www.inteligentfund.com Production Web Sites (emt-4b) 42671 timed out reading 
+2001-09-11 04:01:50 Metrocall [002596344] C  ALPHA  Frm: reminder@junglemate.com Sub: Reminder: Get up at 3:00 a.m. Txt: Reminder! Title: Get up at 3:00 a.m. Date: Tuesday,
+2001-09-11 04:01:51 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope http://marketmaster.americanskandia.com/mm2k/ Production Web Sites (emt-4b) 68518 timed out reading, http://www.americanskandia.com/nsl/login_blank_nav.htm 
+2001-09-11 04:01:51 Skytel [005080627] A  ALPHA  alert@msn.com||Hotmail Colleen at GetMusic:WIN a Trip to see BRITNEY in Vegas! + SVALA, VMA pix and ELVIS  
+2001-09-11 04:01:53 Arch [1047435] C  ALPHA  109-109
+2001-09-11 04:01:53 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope https://www.skandia.com.co/CO_Transacciones/ Production Web Sites (emt-4b) 90341 timed out reading 
+2001-09-11 04:01:55 Arch [1439547] C  ALPHA  SiteScope http://www.globaltrust.cl Production Web Sites (emt-4b) 90640 timed out reading 
+2001-09-11 04:01:57 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177486. 
+2001-09-11 04:01:57 Arch [1439547] C  ALPHA  SiteScope http://www.intelligentfund.cl Production Web Sites (emt-4b) 42666 timed out reading 
+2001-09-11 04:01:59 Skytel [003927673] C  ALPHA  wepex-hd@wcom.com|Test Page...No outages at this time!!|There are No major problems at this time....gerald   (6
+2001-09-11 04:01:59 Skytel [002842744] C SH/TONE 99      
+2001-09-11 04:01:59 Skytel [007118207] D ST NUM  454-187-8183-11

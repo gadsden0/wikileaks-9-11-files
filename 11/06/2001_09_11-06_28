@@ -1,0 +1,91 @@
+2001-09-11 06:28:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2095
+2001-09-11 06:28:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2095
+2001-09-11 06:28:01 Metrocall [0775863] B  ALPHA  <0001> LOWER BUCK 215 785 6251/TERRI MARION WILSON PLS CALL BACK
+2001-09-11 06:28:01 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 144W MAJ=NONE
+2001-09-11 06:28:01 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 03:26:59 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 06:28:03 Skytel [002219665] A SH/TONE * (31   
+2001-09-11 06:28:03 Skytel [004572314] C  ALPHA  recon_hm1.txt
+2001-09-11 06:28:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6917
+2001-09-11 06:28:04 Arch [1025942] B  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 04700320 from cluster 1082 to cluster 2028), status C3AE181B, extended status 00000032. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-11 06:28:04 Arch [1423779] A  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 04700320 from cluster 1082 to cluster 2028), status C3AE181B, extended status 00000032. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-11 06:28:04 Arch [0927447] B  ALPHA  98-WE NEED YOUR ASSISTANCE IN TROUBLESHOOTING 3G/WNS NET ISSUES. URGENT. 425-580-2267. STEVEN...
+2001-09-11 06:28:05 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb2 login content match error on step 2, http://192.168.67.182:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informat
+2001-09-11 06:28:05 Skytel {0152808} 3 2400 3441 
+2001-09-11 06:28:06 Arch [0927447] B  ALPHA  2...WILLIAMS.
+2001-09-11 06:28:06 Arch [0000101] B  ALPHA  MSN 021 hello Message from NOC PCB.
+2001-09-11 06:28:06 Skytel {1907528} 1 1200 TONE ONLY
+2001-09-11 06:28:06 Skytel {0298536} 3 1200 83810
+2001-09-11 06:28:06 Skytel {1551415} 3 1200 4444 
+2001-09-11 06:28:15 Arch [1046449] A  ALPHA  410 409-2475
+2001-09-11 06:28:17 Arch [0923945] C  ALPHA  access_infopump@|Successful Rocco - Concorde Feed|Concorde feed process started ..on Sep 11, 2001 6:04:25 1. Concorde extract reporting as of : Sep 10 2001 12:00AM 2. Concorde Money Market/SWAP Deals : 1534 3. Concorde IRM REPORT reporting a
+2001-09-11 06:28:17 Arch [0949243] C  ALPHA  From: Czubachowski, Louis (Exchange)- Running late. I will meet you in the dining room at 8:15 AM.  IF this is a problem Pls beep me Lou 
+2001-09-11 06:28:19 Arch [0473752] C  ALPHA  (8)88-I NEED TO TAKE A VACATION DAY. MY BABY IS SICK. CYNTHIA EVANS 678-363-5612.
+2001-09-11 06:28:20 Metrocall [002265311] D  ALPHA  Frm: MSN Txt: Hotmail news@ebgames.com:EBgames.com Newsletter 09.11.01
+2001-09-11 06:28:20 Metrocall [0048302] D  ALPHA  Frm: Mail, Remedy Sub: #00029566, Medium Txt: First page Primary Case submitted Assigned to Rtl Systems Mainframe Arr: 09/11/2001 6:27:35 AM Req: VA Computer Operations Dsc: RID353..P..C..1..S.....4A.
+2001-09-11 06:28:22 Arch [0909854] D  ALPHA  ALERT#: 1 WB09110036 STOP & SHOP 0576 ISS400 516-541-3922 58023
+2001-09-11 06:28:22 Arch [0634239] D  ALPHA  NOC TKT at 06:28 AM EDT: TKT 37074 Transfer. - Latency occurred on the ATM from the POP site to Denver [CC:lanpri] 
+2001-09-11 06:28:24 Arch [0634239] D  ALPHA  NOC TKT at 06:28 AM EDT: TKT 37074 Closed - Latency occurred on the ATM from the POP site to Denver [CC:lanpri] 
+2001-09-11 06:28:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9840
+2001-09-11 06:28:26 Arch [0472136] C  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_odd_file_distribution.ksh 0 Body:Skipping ODD distribuaion since it is not friday. Exiting successfully.
+2001-09-11 06:28:26 Arch [1616636] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_odd_file_distribution.ksh 0 Body:Skipping ODD distribuaion since it is not friday. Exiting successfully.
+2001-09-11 06:28:26 Arch [0893661] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_odd_file_distribution.ksh 0 Body:Skipping ODD distribuaion since it is not friday. Exiting successfully.
+2001-09-11 06:28:28 Arch [0472136] C  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_actuate4_add_users.ksh 0 Body:Skipping pace2_actuate4_add_users.ksh since it is not friday. Exiting successfully.
+2001-09-11 06:28:28 Arch [0931795] A  ALPHA  |OPC: franklin: /dev/vg04/lvol1, mounted at /mail, is at 96  
+2001-09-11 06:28:30 Arch [1616636] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_actuate4_add_users.ksh 0 Body:Skipping pace2_actuate4_add_users.ksh since it is not friday. Exiting successfully.
+2001-09-11 06:28:30 Arch [0472136] C  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_stmt_privileges.ksh 0 Body:Skipping file transfer since it is not Friday. Exiting successfully.
+2001-09-11 06:28:30 Arch [0893661] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_actuate4_add_users.ksh 0 Body:Skipping pace2_actuate4_add_users.ksh since it is not friday. Exiting successfully.
+2001-09-11 06:28:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3488
+2001-09-11 06:28:31 Skytel [005524994] A SH/TONE 1       
+2001-09-11 06:28:31 Skytel [007640837] B SH/TONE 555     
+2001-09-11 06:28:32 Arch [1616636] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_stmt_privileges.ksh 0 Body:Skipping file transfer since it is not Friday. Exiting successfully.
+2001-09-11 06:28:33 Skytel [005491089] A SH/TONE 1998    
+2001-09-11 06:28:34 Arch [0472136] C  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_cdd_distribution.ksh 0 Body:Skipping CDD ditribution since it is not friday. Exiting successfully.
+2001-09-11 06:28:34 Arch [1616636] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_cdd_distribution.ksh 0 Body:Skipping CDD ditribution since it is not friday. Exiting successfully.
+2001-09-11 06:28:34 Arch [0893661] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_stmt_privileges.ksh 0 Body:Skipping file transfer since it is not Friday. Exiting successfully.
+2001-09-11 06:28:35 Metrocall [1064381] D  ALPHA  IRAQ SAYS IT SHOOTS DOWN U.S. RECONN..S.^ ...C..,..E.N..IN  TWO WEEKS
+2001-09-11 06:28:36 Arch [0893661] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_cdd_distribution.ksh 0 Body:Skipping CDD ditribution since it is not friday. Exiting successfully.
+2001-09-11 06:28:37 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179075. 
+2001-09-11 06:28:37 Arch [1616636] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_mholding_distribution.ksh 0 Body:Skipping mholding distribution since it is not friday. Exiting successfully.
+2001-09-11 06:28:37 Arch [0472136] C  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_mholding_distribution.ksh 0 Body:Skipping mholding distribution since it is not friday. Exiting successfully.
+2001-09-11 06:28:37 Arch [0893661] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_mholding_distribution.ksh 0 Body:Skipping mholding distribution since it is not friday. Exiting successfully.
+2001-09-11 06:28:37 Skytel [004539441] A  ALPHA  PLEASE CALL DENTON AT EXTENSION 6339 ASAP.
+2001-09-11 06:28:39 Arch [0472136] C  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_ops_distribution.ksh 0 Body:Skipping transfer output since it is not friday. Exiting successfully.
+2001-09-11 06:28:39 Arch [0951880] C  ALPHA  "ccbu-rel-eng"|Summary of build errors on BUILD-ICM-50 (08848r). ||66  
+2001-09-11 06:28:40 Skytel [005492818] A ST NUM  -                   
+2001-09-11 06:28:40 Skytel [005051613] D  ALPHA  (1 of 2) Case  064408 MA1BAM    Tucson, AZ      Alltel          0% Out, Cum=00:54   Fully Restored      09/11 05:24 Note#3  P1: CDMA-MM         The mm8b (Primary) it is up and and there are call processing, backup node is up too. the system
+2001-09-11 06:28:41 Arch [1616636] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_ops_distribution.ksh 0 Body:Skipping transfer output since it is not friday. Exiting successfully.
+2001-09-11 06:28:41 Arch [0472136] C  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_actuate4_add_shared_users.ksh 0 Body:Skipping pace2_actuate4_add_shared_users.ksh since it is not friday. Exiting successfully.
+2001-09-11 06:28:41 Arch [0951146] C  ALPHA  95831 TIME 18:22 ACTIVE-ECP1 CELL 53 <BEELINE> CINGULAR TOWER BEACON LIGHT FAILURE
+2001-09-11 06:28:41 Arch [0893661] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_ops_distribution.ksh 0 Body:Skipping transfer output since it is not friday. Exiting successfully.
+2001-09-11 06:28:41 Metrocall [0776055] B  ALPHA  Frm: Southwest Airlines Sub: southwest.com Weekly Internet Specials September 11, 2001 Txt: Southwest Airlines e-mail update for September 11, 2001
+2001-09-11 06:28:41 Metrocall [0639948] D  ALPHA  Frm: Freiherr, Steve Sub: FW: Late Arrival / Out of Office Txt: Wednesday, 12 Sept. - Late A
+2001-09-11 06:28:42 Skytel [005436525] D  ALPHA  Test #13-IX_T0401
+2001-09-11 06:28:42 Skytel [004402286] D  ALPHA  diecom1d@web.lmig.com|UDB Offline-archive web: MULTIPLE FAILURES (4)|NODE NAME: web JOBID: DIECOM1D REPORT FILE: archive_DIECOM1D.2001-09-11.06:28:40.rpt  
+2001-09-11 06:28:42 Skytel [004524770] A  ALPHA  cam-CommunityNationalBank-Sudbur: CPE Down at 01:32:45 on 9/11
+2001-09-11 06:28:42 Skytel [004431723] C ST NUM  899-0200 (3    
+2001-09-11 06:28:42 Skytel [003926118] B SH/TONE 6270    
+2001-09-11 06:28:42 Skytel [007553888] A  ALPHA  896-6731No Answer Southfield Backup 248-552
+2001-09-11 06:28:42 Skytel [005102305] A  ALPHA  Sep11:06-21:morhp321:ORA-1142 signalled during: ALTER TABLESPACE PSAPCE4D END BACKUP... 
+2001-09-11 06:28:43 Arch [1616636] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_actuate4_add_shared_users.ksh 0 Body:Skipping pace2_actuate4_add_shared_users.ksh since it is not friday. Exiting successfully.
+2001-09-11 06:28:43 Metrocall [0639948] D  ALPHA  rrival, between 10:30 and 11:00 a.m. Friday, 14 Sept. - Out of office. Thanks. James K Johnson II Corporate
+2001-09-11 06:28:43 Metrocall [1064378] C  ALPHA  GROSS YIELD AT ITALY 12-MO BOT AUCTION SET AT 3.915 PCT (4.140)
+2001-09-11 06:28:43 Metrocall [1064395] C  ALPHA  )?#`BACHI@F@DBORgtzZBsIbsHbBCTPRZdFYYPLVRv[OPPi}QAAjpzdf_NPTxmQAAjHFZyrqZhJDNh`TMEsEhpThAHDCXgP@p
+2001-09-11 06:28:44 Skytel [005069816] C  ALPHA  root@mastars2k.wcomnet.com||RemoteManagement was down. RemoteManagement has been restarted  
+2001-09-11 06:28:44 Skytel [004071030] B ST NUM  507-774-8504   
+2001-09-11 06:28:44 Skytel [003327216] A  ALPHA  002248 CYCLIC TEST 
+2001-09-11 06:28:44 Skytel [003836915] A  ALPHA  root@mastars2k.wcomnet.com||RemoteManagement was down. RemoteManagement has been restarted  
+2001-09-11 06:28:44 Skytel [002357369] C  ALPHA  002248 CYCLIC TEST 
+2001-09-11 06:28:44 Skytel [002139900] D SH/TONE 002248  
+2001-09-11 06:28:46 Skytel [005321986] A  ALPHA  frank.steltz@ulticom.com|Miata to McElroy for body work|Miata to McElroy for body work   [8001
+2001-09-11 06:28:48 Skytel [004545438] D SH/TONE 2345 (96
+2001-09-11 06:28:50 Metrocall [002572990] D  ALPHA  Frm: Y! Txt: Fr: GreatDeals@Autonation.com *AutoNation Used Car Sale at Shoreline* =20 =20 First ever Mail
+2001-09-11 06:28:50 Metrocall [1697916] D  ALPHA  Frm: ServersAlive@hpccoa2.corp.hp.com Sub: at-sqlcluster-FDISK is DOWN Txt: at-sqlcluster-FDISK is DOWN Mail generated by 
+2001-09-11 06:28:50 Skytel [004390436] B SH/TONE 17593   
+2001-09-11 06:28:51 Skytel [002553148] D SH/TONE         
+2001-09-11 06:28:52 Metrocall [1697916] D  ALPHA  Servers Alive at Tuesday, September 11, 2001 3:30:11 AM
+2001-09-11 06:28:55 Skytel [002380618] C  ALPHA  THE SUMMIT BATCH IS STILL SHOWING THE STATUS OF RUNNING. RICK FREESE. 609-282-4146.
+2001-09-11 06:28:55 Skytel [005190494] D SH/TONE 798-1345
+2001-09-11 06:28:55 Skytel [003280465] A  ALPHA  THE SUMMIT BATCH IS STILL SHOWING THE STATUS OF RUNNING. RICK FREESE. 609-282-4146.
+2001-09-11 06:28:55 Skytel [003785300] B  ALPHA  THE SUMMIT BATCH IS STILL SHOWING THE STATUS OF RUNNING. RICK FREESE. 609-282-4146.
+2001-09-11 06:28:55 Skytel [002365520] A  ALPHA  THE SUMMIT BATCH IS STILL SHOWING THE STATUS OF RUNNING. RICK FREESE. 609-282-4146.
+2001-09-11 06:28:57 Skytel [005524707] A  ALPHA  THE SUMMIT BATCH IS STILL SHOWING THE STATUS OF RUNNING. RICK FREESE. 609-282-4146.

@@ -1,0 +1,450 @@
+2001-09-11 13:22:00 Arch [0911134] D  ALPHA   equity71 SYBASE: check_systems() - Nightly DUMPS does not seem to run on eqny-cshprod1.ny.jpmorgan.com for EQ_CSW_PROD --->> sybsystemprocs @13:11 09/11/01 
+2001-09-11 13:22:00 Weblink_B [0031591] B  ALPHA  Final: 080737-010911- Problem:Formscan is down, affecting Statements @ 10:12 
+2001-09-11 13:22:01 Metrocall [002617060] B  ALPHA  Frm: Y! Txt: High-ranking city police official says the number of people killed or injured could be in the thousands.
+2001-09-11 13:22:01 Metrocall [0414444] D  ALPHA  re working intermittently. -Carter
+2001-09-11 13:22:01 Metrocall [1028464] A  ALPHA  BC PLEAE CALL US AND LET US KNOW YOU ARE OK .  SUS
+2001-09-11 13:22:01 Metrocall [1708480] A  ALPHA  [Everyone] Due to the terrorist attack on NYC, there has been a DAP failure in Worldcom's network affecting the entire East coast. As a result, toll-free pager numbers are working intermittently. -Carter
+2001-09-11 13:22:01 Skytel [007515136] A  ALPHA  9999.COLUMBIA NATL M     
+2001-09-11 13:22:01 Skytel [004397057] A  ALPHA  Please call TSCC, Jim Barabas would like to speak with you .. Vi/TSCC - 732-699-4824/800-458-4826
+2001-09-11 13:22:01 Skytel [003415556] B ST NUM  847-9082 (16   
+2001-09-11 13:22:01 Skytel [004538249] C  ALPHA  (...) 5000 Bad file number
+2001-09-11 13:22:01 Skytel [003483397] B SH/TONE 429-0461
+2001-09-11 13:22:01 Skytel [005326597] B  ALPHA  00: 121255
+2001-09-11 13:22:01 Skytel [005360648] C SH/TONE 86 (58  
+2001-09-11 13:22:01 Skytel [005192074] C  ALPHA  ar@cos.agilent.com|BLT Loveland USC:  1167625m|BLT Site:  loveland usc 1000228839 Distributed Server  Tue, Sep 11, 2001 06:20:33 PM BST   connie janssen     customer name:  david m braun     emp#:  00083872     telnet:  636-8912     site:  
+2001-09-11 13:22:01 Skytel [005201795] A SH/TONE 924-5300
+2001-09-11 13:22:01 Skytel [002817933] D  ALPHA  (...) 5000 Bad file number
+2001-09-11 13:22:01 Skytel [007646990] D SH/TONE 8888    
+2001-09-11 13:22:01 Skytel [003268227] A  ALPHA  nvora@cylink.com|FW: Escalation Remedy 15891 (UBS Warburg)|  > ---------- > From
+2001-09-11 13:22:02 Weblink_B [0031591] B  ALPHA  Upgraded @ 10:26 -Resolved @ 1220. RRC [76]
+2001-09-11 13:22:02 Weblink_B [0763177] C  ALPHA  Final: 080737-010911- Problem:Formscan is down, affecting Statements @ 10:12 Upgraded @ 10:26 -Resolved @ 1220
+2001-09-11 13:22:03 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7331
+2001-09-11 13:22:03 Metrocall [0499667] A  ALPHA  NPHRA01:Device Accessible,Device Status:Degraded
+2001-09-11 13:22:03 Metrocall [1028464] A  ALPHA  ANNA
+2001-09-11 13:22:03 Metrocall [1145521] A  ALPHA  Frm: Nexus EDI Sub: nexus02 (Job soimpsg1): Error in Step 010 Txt: Please examine the contents of $BSE/interfaces/soimp/sipo/data
+2001-09-11 13:22:03 Skytel [004686354] A  ALPHA  ITO@dlj.com|eqox - SiacLine Handler Error|Sep 11 13:16:25 eqox SiacLineHandler-CMSG-OUT[10698]: ERROR: Lost connection to destination   
+2001-09-11 13:22:03 Skytel [005483539] A SH/TONE 525-3595
+2001-09-11 13:22:03 Skytel [004060056] C  ALPHA  908-432-2198.Bedminster, NJ       (94
+2001-09-11 13:22:03 Skytel [002569367] B ST NUM  1-301-808-7773 (79  
+2001-09-11 13:22:03 Skytel [002824217] C  ALPHA  {gsiprod}No RT Gov pos updates, now = 13:18:00, lastUpd = 10:04:57
+2001-09-11 13:22:03 Skytel [004413850] C SH/TONE 523-8892
+2001-09-11 13:22:03 Skytel [002164744] C SH/TONE 969-6183
+2001-09-11 13:22:03 Skytel [004523420] D ST NUM  714-645-4550   
+2001-09-11 13:22:03 Skytel [005325713] A ST NUM  9683241954
+2001-09-11 13:22:03 Skytel [005342101] B  ALPHA  ScheinbergSA@NAVSEA.NAVY.MIL|test|    Adam Scheinberg Naval Sea Systems Command, SEA00I (703) 602-4111 x402 Pager:  <mailto:bbscheinbergsa@navsea.navy.mil> bbscheinbergsa@navsea.navy.mil  
+2001-09-11 13:22:04 Weblink_B [0763177] C  ALPHA  . RRC [88]
+2001-09-11 13:22:04 Weblink_B [0864706] A  ALPHA  FR:x400@wtmsg1.lnc.com>09/11 12:20 - wtmsg1 EXCHG2 backlog=69 [94]
+2001-09-11 13:22:05 Arch [0942125] D  ALPHA  From informix at 01:22 PM EDT: SENDQ greater than 40000 elements behind - 77463 on ibm28 [CC:informix loock t6_everyone] 
+2001-09-11 13:22:05 Arch [0949157] B  ALPHA  From informix at 01:22 PM EDT: SENDQ greater than 40000 elements behind - 77463 on ibm28 [CC:informix loock t6_everyone] 
+2001-09-11 13:22:05 Arch [0917190] B  ALPHA  Y! <y-finance@ya|iPAQ Pocket PC Now from $499 CSCO 0.00 0.00; TIBX 0.00 0.00; UPS 0.00 0.00; Delayed Reuters 
+2001-09-11 13:22:05 Arch [1650152] C  ALPHA  From informix at 01:22 PM EDT: SENDQ greater than 40000 elements behind - 77463 on ibm28 [CC:informix loock t6_everyone] 
+2001-09-11 13:22:05 Arch [1601854] D  ALPHA  grpMFG Remedy TT - (InPg) - 278073 RTUC 09/11/01 11:41:19 The Node rtuc.mmm.com is Down.
+2001-09-11 13:22:05 Arch [0981917] D  ALPHA  82-HI, TOMMY.  PLEASE CALL LISA AT HOME IF YOU ARE AVAILABLE.
+2001-09-11 13:22:05 Arch [1015100] D  ALPHA  MSN <alert@msn.c|Hotmail confirmation@monster.com:Confirmation of Submission 
+2001-09-11 13:22:05 Skytel [002164896] A ST NUM  849-955-6058   
+2001-09-11 13:22:05 Skytel [003916305] A  ALPHA  787-882-3560
+2001-09-11 13:22:05 Skytel [002358319] D  ALPHA  {gsiprod}No RT Gov pos updates, now = 13:18:00, lastUpd = 10:04:57
+2001-09-11 13:22:05 Skytel [004434983] B SH/TONE 2110    
+2001-09-11 13:22:05 Skytel [007027478] B SH/TONE 61671   
+2001-09-11 13:22:05 Skytel [002938532] B  ALPHA  8989 (88
+2001-09-11 13:22:05 Skytel [007026730] C ST NUM  1-408-283-8118 
+2001-09-11 13:22:05 Skytel [008479780] B  ALPHA  7) 7) : Inversisn cerrada desde las 9:30 AM, Tasa 10% Saldo 80Mill  Saludos H Ozuna
+2001-09-11 13:22:05 Skytel [005122586] C SH/TONE 2266    
+2001-09-11 13:22:05 Skytel [007437721] C ST NUM  966-7227 (74   
+2001-09-11 13:22:05 Skytel [002386600] C  ALPHA  P-checking to se if this works. Things calming down,fed will offer liquidity. New patriotism to follow. xo-maia-1774801
+2001-09-11 13:22:05 Skytel [003457197] D SH/TONE 6559    
+2001-09-11 13:22:06 Skytel {1880097} 3 1200 714-544-3347   
+2001-09-11 13:22:06 Skytel {0653195} 1 1200 2125563943
+2001-09-11 13:22:06 Skytel {0568324} 3 1200 954-349-6032  2
+2001-09-11 13:22:06 Skytel {0568862} 3 1200 911  
+2001-09-11 13:22:06 Skytel {0576519} 3 1200 917-930-6547   
+2001-09-11 13:22:06 Skytel {0147041} 3 1200 8884035876
+2001-09-11 13:22:06 Skytel {1170244} 3 1200 505-699-2327   
+2001-09-11 13:22:06 Skytel {1888582} 3 1200 800-866-5141   
+2001-09-11 13:22:07 Skytel {1492658} 1 1200 BATEY.CC.TELCORDIA.COM RUP HAS FAILED FROM C/P MONITORED BY ADMINS PCM REPEAT0 T
+2001-09-11 13:22:08 Skytel {0677717} 3 1200 281-927-3075   
+2001-09-11 13:22:08 Skytel {1584949} 1 1200 6) BATEY.CC.TELCORDIA.COM RUP HAS FAILED FROM C/P MONITORED BY ADMINS PCM REPEAT0 TECNJ Sent@13:21..
+2001-09-11 13:22:09 Arch [0901691] C  ALPHA  From-robinsgt.... please call gerald robins at 35633 thanks
+2001-09-11 13:22:09 Arch [0969963] C  ALPHA  43850
+2001-09-11 13:22:09 Skytel {0443925} 3 1200 8004241980
+2001-09-11 13:22:09 Weblink_B [0008835] A  ALPHA  Hello Belinda - need you to stop in @ Van Heusen in Reading -- bring an empty back ... thanks!
+2001-09-11 13:22:10 Skytel {0741280} 1 2400 108  
+2001-09-11 13:22:10 Skytel {0176153} 3 2400 1-650-348-2003 
+2001-09-11 13:22:10 Skytel {1625396} 1 2400 0004C00000000005CD01000016010000000005C86121.
+2001-09-11 13:22:10 Skytel {1902194} 3 2400 301  42   
+2001-09-11 13:22:11 Arch [0979773] D  ALPHA  11-PLEASE CALL YOUR COUSIN VANESSA AT 328-7260.  JUST WANT TO MAKE SURE KENYA IS OKAY.
+2001-09-11 13:22:11 Skytel {1692244} 1 1200 silvania@planetarium.com.br||Como est=E3o as coisas por a=ED, Isso e uma tragedia, sinto muito. Espero que n=E3o comece uma outra guerra. O mundo todo esta em luto por = isso. Muitas vidas inocentes sacrificadas. Sil.
+2001-09-11 13:22:12 Metrocall [1543155] A  ALPHA  #34 10:21 TONY KASHA 602-318-3954 PLEASE CALL RE. SLAB INSPECTION
+2001-09-11 13:22:12 Metrocall [1363776] A  ALPHA  06-PLEASE CALL SHAK 954-435-6979 ASAP.
+2001-09-11 13:22:12 Metrocall [1580894] D  ALPHA  Tue 12:19:29, HTBG [49]: Critical, MTX105 CBsy CTU 0 DCSM
+2001-09-11 13:22:12 Metrocall [1064380] D  ALPHA   U.S. CASH LPG-PROPANE JUMPS ON U.S. VIOLENCE BEFORE CLOSE
+2001-09-11 13:22:12 Metrocall [1064381] D  ALPHA  U.S. CASH LPG-PROPANE JUMPS ON U.S. VIOLENCE BEFORE CLOSE
+2001-09-11 13:22:13 Arch [0983684] B  ALPHA  6553
+2001-09-11 13:22:13 Arch [1656154] C  ALPHA  CONGRATULATIONS!!!!!! BECKY & CRYSTAL
+2001-09-11 13:22:13 Arch [0975621] B  ALPHA  714 773-8212
+2001-09-11 13:22:14 Arch [1046191] D  ALPHA  gomeara| Carmine confirms that we did NOT any PS staff in or working at the world trade center ! Where are we with the rest of CA in NY ?   
+2001-09-11 13:22:14 Arch [0911415] B  ALPHA  "Mansfield, Will|When you get a chance can you phone me at 473-2634. Thx William Mansfield, Corporal 
+2001-09-11 13:22:14 Arch [0930292] B  ALPHA  Marquita Foust|BSN urgent conference call today at 1:30 pm...bridge number 866-902-7865 id 9112001 Thanks Marquita Foust mfoust ||129  
+2001-09-11 13:22:14 Arch [0910420] B  ALPHA  THE VEGETATION MANAGEMENT MEETING SCHEDULED WED IS CANCELLED.  THE CHIEF OFFICER
+2001-09-11 13:22:14 Arch [0911134] D  ALPHA   equi
+2001-09-11 13:22:14 Arch [0918819] A  ALPHA  Heidi Burt||call me 408 853 1913 Heidi Burt Program Manager Manufacturing Operations Planning Phone:408-853-1913|112  
+2001-09-11 13:22:14 Arch [0886197] B  ALPHA  THE VEGETATION MANAGEMENT MEETING SCHEDULED WED IS CANCELLED.  THE CHIEF OFFICER
+2001-09-11 13:22:14 Metrocall [1398885] B  ALPHA  Frm: Lawson, John W. Sub: FW: Txt: FYI.....please distribute this request for information. Should you ident
+2001-09-11 13:22:14 Metrocall [1064378] C  ALPHA  DEUTSCHE BOERSE SAYS RECEIVES A BOMB THREAT
+2001-09-11 13:22:14 Metrocall [1064395] C  ALPHA  )?#`B@rHH|@@BrIEjuJ\NQEPPi|VeSbhJ\FsSPThlNKIkQZZBB`aSylIATdThlFh`@RA@wjopL
+2001-09-11 13:22:15 Arch [0631912] C  ALPHA  THE VEGETATION MANAG
+2001-09-11 13:22:15 Arch [1048338] A  ALPHA  spakkam|Jay, I sent a MM for 4pm meeting today in SJ-17. Can you confirm if you can attend. Sairaj Pakkam  
+2001-09-11 13:22:15 Arch [0938109] D  ALPHA  |ILS: Case Create,B827574,P3,Title:*ANS*CMS: FAULTY POWER SUPPLY ON 5500 SWITCH (LAN SWITCHING::CAT5000/2926G/2926 ,Owner:TACDOCS,Site
+2001-09-11 13:22:15 Weblink_B [0069195] C  ALPHA  Rec'd your msg this morning, have tried paging you since then, are you ok? I'm home, will pick-up children regular time. Call me if you can. love you [78]
+2001-09-11 13:22:15 Weblink_B [0761609] C  ALPHA  Berni returning call ,could you please call her at
+2001-09-11 13:22:16 Arch [0911415] B  ALPHA  Advanced Officer Training Unit 909-473-2634 
+2001-09-11 13:22:16 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342
+2001-09-11 13:22:16 Arch [0911134] D  ALPHA  ty71 SYBASE: check_systems() - Nightly DUMPS does not seem to run on eqny-cshprod1.ny.jpmorgan.com for EQ_CLWISE_PROD --->> CERD_CORPORATE @13:11 09/11/01 
+2001-09-11 13:22:16 Arch [1053997] D  ALPHA  CT:CHEST 1475 TANEY AVE @AMBER RIDGE MED CTR FRED BOX:2-4 DUE:A29 M2 M7
+2001-09-11 13:22:16 Arch [0631912] C  ALPHA  EMENT MEETING SCHEDULED WED IS CANCELLED.  THE CHIEF OFFICER
+2001-09-11 13:22:16 Arch [0910420] B  ALPHA  S MEETING THURSDAY IS CANCELLED.
+2001-09-11 13:22:16 Arch [0899681] A  ALPHA  MGRS- PLEASE GO OUT TO YOUR SUPERVISORS AND ASK THEM TO PERSONALLY SOLICIT OT FOR TOMORROW ALL DAY.  WE ANTISIPATE BUS AS USUAL IN NY BUT AR
+2001-09-11 13:22:16 Arch [0938109] D  ALPHA  /Cont ract:PERSHING DIV OF DLJ SEC CORPORATION/1010843,Contact:WILLIAM KUNZLER@973 360 2929 |-- ILS  -1/2
+2001-09-11 13:22:16 Arch [0283584] A  ALPHA  "JPMPRG::SCH"@jp|PBD Orders more than 15 min. old|
+2001-09-11 13:22:16 Arch [0886197] B  ALPHA  S MEETING THURSDAY IS CANCELLED.
+2001-09-11 13:22:16 Metrocall [1398885] B  ALPHA  ify any VDOT employee who may have been at any of the locations, please pass the information
+2001-09-11 13:22:16 Metrocall [0279809] A  ALPHA  Frm: CrewSch@nwairlink.com Sub: Txt: The next company conference call will take place at 1:00pm. The phone number is 1-800-40
+2001-09-11 13:22:16 Metrocall [0958576] A  ALPHA  Frm: CrewSch@nwairlink.com Sub: Txt: The next company conference call will take place at 1:00pm. The phone number is 1-800-403-1024. The pin number is 413028.
+2001-09-11 13:22:16 Metrocall [0749028] B  ALPHA  Frm: CrewSch@nwairlink.com Sub: Txt: The next company conference call w
+2001-09-11 13:22:17 Weblink_B [0761609] C  ALPHA   302-457-4349.
+2001-09-11 13:22:17 Weblink_B [0062653] D  ALPHA  TEST PAGE 2536974
+2001-09-11 13:22:17 Weblink_B [0160000] A  ALPHA  13 610-270-2938--
+2001-09-11 13:22:18 Arch [1425048] C  ALPHA  , <SOCK_192.168.35.19> chunk 183669. 
+2001-09-11 13:22:18 Arch [0911134] D  ALPHA   equity71 SYBASE: check_systems() - Nightly DUMPS does not seem to run on eqny-cshprod1.ny.jpmorgan.com for EQ_CLWISE_PROD --->> gmcd @13:11 09/11/01 
+2001-09-11 13:22:18 Arch [0899681] A  ALPHA  E PREPARING FOR CLOSURE. LISA
+2001-09-11 13:22:18 Arch [0631912] C  ALPHA  S MEETING THURSDAY IS CANCELLED.
+2001-09-11 13:22:18 Arch [1006869] B  ALPHA  slyall|sent you an email on 12.2M customer found bugs by eng director for "splob". Sam   
+2001-09-11 13:22:18 Metrocall [0279809] A  ALPHA  3-1024. The pin number is 413028.
+2001-09-11 13:22:18 Metrocall [0749028] B  ALPHA  ill take place at 1:00pm. The phone number is 1-800-403-1024. The pin number is 413028.
+2001-09-11 13:22:18 Metrocall [1061073] A  ALPHA  Frm: CrewSch@nwairlink.com Sub: Txt: The next company conference call will take place at 1:00pm. The phone number is 1-800-403-1024. The pin number is 413028.
+2001-09-11 13:22:18 Metrocall [1225273] C  ALPHA  [Everyone] Due to the terrorist att........................0..@..E....!! .@..b..A.H
+2001-09-11 13:22:19 Weblink_B [0160000] A  ALPHA   CHARLOTTE NORRISTOWN SCHL DIST/WW 401 N WHITEHALL RD D/M SOAP CONSTANTLY DISPERS. THOUGHT U WERE COMING YEST, SVC 1ST THINGTMRW AM. ITS TH END
+2001-09-11 13:22:20 Arch [0945054] D  ALPHA  DATACASTnews.com.CY     19.31   Unch.NETE   13.14   Unch.TMS    24.18   Unch.VIGN    6.23   Unch.
+2001-09-11 13:22:20 Arch [1607254] B  ALPHA  KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL ...chris
+2001-09-11 13:22:20 Arch [1665952] A  ALPHA  417-6812
+2001-09-11 13:22:20 Arch [1426039] B  ALPHA   Larry Jacobson <ljacobson@real.com> all ok?? call me when you have a chance.... 206-674-2375. : 
+2001-09-11 13:22:20 Arch [0588732] D  ALPHA  A MAN WHO REFUSED HIS NAME SAID HE WILL CALL BACK
+2001-09-11 13:22:20 Arch [0904106] C  ALPHA  72-WENT TO HOSP FOR BLOOD DONATIONS.  YOU CAN REACH ME ON MY CELL PHONE.  EVA.
+2001-09-11 13:22:20 Arch [1155591] B  ALPHA  9
+2001-09-11 13:22:20 Arch [1284338] A  ALPHA  From Don & Alison Moseley Sub:FROM RICHARD McKEEAN Msg:Pass along to Russ -- Victoria Rood was in a traffic accident this morning.  She is okay but is at home today.  --  AL  P.S. Let me know if I ...
+2001-09-11 13:22:20 Metrocall [0007609] C  ALPHA  Jeff Eller is back from his meeting. Would like to give you an update.
+2001-09-11 13:22:20 Metrocall [1225273] C  ALPHA  dcom's network affecting the entire East coast. As a result, toll-free pager numbers are working intermittently. -Carter
+2001-09-11 13:22:20 Metrocall [1708526] D  ALPHA   MSG: High-ranking city police official s
+2001-09-11 13:22:20 Metrocall [1849796] B  ALPHA  09/11 13:27 EDT  Zerby, Michael    .398.3097         Alt=TIR Unit=260167
+2001-09-11 13:22:20 Weblink_B [1784664] C  ALPHA  Are you a lost Pager!  please call home  -Bill Conrad x73313
+2001-09-11 13:22:21 Skytel {1013192} 3 2400 27  301-812-1274    
+2001-09-11 13:22:21 Skytel {0717237} 1 2400 AMINE: POR FAVOR HABLAME A LA CASA SI PUEDES. TE QUIERO MUCHO. TU MAMA.
+2001-09-11 13:22:22 Arch [1284338] A  ALPHA  need to drive to New Orleans to pick you up.  
+2001-09-11 13:22:22 Skytel {0139911} 3 2400 816-501-6342   
+2001-09-11 13:22:22 Skytel {0619497} 1 2400 31740
+2001-09-11 13:22:24 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0254
+2001-09-11 13:22:24 Metrocall [1281123] A  ALPHA  N YOU PLEASE ASK BONNIE TO CALL ME AT 716/784-0046.  ELAINE AND     I WOULD LIKE TO SPEAK TO HER.  THANKS, LINDA
+2001-09-11 13:22:24 Metrocall [0659110] B  ALPHA  wSch@nwairlink.com Sub: Txt: The next company conference call will take place at 1:00pm. The phone num
+2001-09-11 13:22:24 Metrocall [0957083] C  ALPHA  Frm: CrewSch@nwairlink.com Sub: Txt: The next company conference call will take place at 1:00pm. The phone number is 1-800-403-1024. The pin number is 413028.
+2001-09-11 13:22:24 Metrocall [1415815] B  ALPHA  Frm: CrewSch@nwairlink.com Sub: Txt: The next company conference call will take pla
+2001-09-11 13:22:24 Weblink_B [0042281] C  ALPHA  12:00PM Send Mark Ruckman your updated project plans and status sheets by COB Today [74]
+2001-09-11 13:22:24 Weblink_B [0499307] C  ALPHA  15 405 AMPERE ,  BLOC EN FEU, 3 CASERNES  EN DIREC
+2001-09-11 13:22:25 Metrocall [1576317] D  ALPHA  Frm: 129242@my2way.com Txt: if u can call, call 732-420-5601 johng
+2001-09-11 13:22:25 Metrocall [0659110] B  ALPHA  ber is 1-800-403-1024. The pin number is 413028.
+2001-09-11 13:22:25 Metrocall [1415815] B  ALPHA  ce at 1:00pm. The phone number is 1-800-403-1024. The pin number is 413028.
+2001-09-11 13:22:25 Metrocall [002117206] B  ALPHA  57718:Major; TT677499; TR User Assign; CELL; HARDWARE; DIGITAL; 09/11/01 10:22:14; BOST4ER;G702 - ;Please replace Low Power Device MDVC-8130 - 8132 (Channel 207) at site G702C...calls on this radio have been tested and are dropping...
+2001-09-11 13:22:26 Arch [0281581] D  ALPHA  2698/ROSANNA /GLENDALE ADVENTIS/818-409-8168/NEED TO SCHED AN APPT
+2001-09-11 13:22:26 Arch [0967447] B  ALPHA  THE VEGETATION MANAGEMENT MEETING SCHEDULED WED IS CANCELLED.  THE CHIEF OFFICER
+2001-09-11 13:22:26 Arch [0000101] B  ALPHA  MSN 091 hello Message from NOC PCB.
+2001-09-11 13:22:26 Weblink_B [0499307] C  ALPHA  TION...JSA
+2001-09-11 13:22:27 Metrocall [1283921] A  ALPHA  Frm: EA System Notification,GLENDALE,MIS Sub: New Hot News - ISW Synchronization is d Txt: Title: ISW Synchronization is down Added By: HYDEGAR Begin Date: 9/11/2001 Begin Time: 10:14:12 Description: ISW synchronization is down. The ISW tea
+2001-09-11 13:22:28 Arch [0971715] A  ALPHA  69870-01
+2001-09-11 13:22:28 Arch [0922746] C  ALPHA  69870-01
+2001-09-11 13:22:28 Arch [0967447] B  ALPHA  S MEETING THURSDAY IS CANCELLED.
+2001-09-11 13:22:28 Weblink_B [0153496] C  ALPHA  Hi, Was Riemer ok with the plans? Ernie Thibodeau 720-962-1474 [08]
+2001-09-11 13:22:28 Weblink_B [1121071] D  ALPHA  12:00PM U8BB Staff Meeting
+2001-09-11 13:22:28 Weblink_B [0499307] C  ALPHA  DECOUVERTE D'UN COLIS SUSPECT PRES DU PARLEMENT D'OTTAWA. L'EDIFICE EST EVACUE. 
+2001-09-11 13:22:30 Weblink_B [0499307] C  ALPHA  AFFAIRES PUBLIQUES
+2001-09-11 13:22:31 Arch [0945315] A  ALPHA  S100627M:RMILLS/SY878ITRMI:SY878 00000000 is unable to allocate a record in WIPFHL01 (R C G S D F).
+2001-09-11 13:22:31 Arch [0977030] B  ALPHA  391-03
+2001-09-11 13:22:31 Skytel [005100934] B SH/TONE 2927    
+2001-09-11 13:22:31 Skytel [005479939] A SH/TONE 565-4233
+2001-09-11 13:22:31 Skytel [005092357] B  ALPHA  {sybase}cprdsyb1/CPR_DEV_back is Down at Tue Sep 11 13:22:01 EDT 2001.
+2001-09-11 13:22:31 Skytel [004745737] C SH/TONE 474-8350
+2001-09-11 13:22:31 Skytel [005129866] C ST NUM  712-671-8641   
+2001-09-11 13:22:31 Skytel [002844294] B ST NUM  381-599-7807   
+2001-09-11 13:22:33 Arch [1053990] B  ALPHA  510 271-9870
+2001-09-11 13:22:33 Skytel [002571537] A ST NUM  0-212-966-0676 
+2001-09-11 13:22:33 Skytel [005256470] B  ALPHA  Guardian@wcom.com|Program DRWTSN32 is running on node NTMD064001.|Condition corrected for rule PGM_DRWATSON on NTMD064001. Re-check result: Program DRWTSN32 is not running on node NTMD064001.  
+2001-09-11 13:22:33 Skytel [002557328] A ST NUM  813-829-3422   
+2001-09-11 13:22:33 Skytel [005340821] B ST NUM  900-753-6336   
+2001-09-11 13:22:33 Skytel [007038363] C SH/TONE 1234    
+2001-09-11 13:22:33 Skytel [005415955] A  ALPHA  887-4584 (81
+2001-09-11 13:22:33 Skytel [005509532] D ST NUM  800-227-3030   
+2001-09-11 13:22:33 Skytel [005067805] D SH/TONE 766-2222
+2001-09-11 13:22:33 Skytel [002369687] B  ALPHA  NV00555842 Sev 1 Client called and stated she is hung-up in HAL NV-EHD-CLAIMS POTOSKI, DINAH  M. 530-345-9785
+2001-09-11 13:22:33 Skytel [002572058] C ST NUM  307-622-2860   
+2001-09-11 13:22:33 Skytel [005132826] C ST NUM  800-550-0108-107    
+2001-09-11 13:22:33 Skytel [005340696] C SH/TONE 2009    
+2001-09-11 13:22:33 Skytel [004679195] C  ALPHA   - Services off on POPCORN at 10:20   (50
+2001-09-11 13:22:33 Skytel [002391442] A ST NUM  202-863-9210   
+2001-09-11 13:22:33 Skytel [004407572] B  ALPHA  Cynthia.D.Conliffe@bankofamerica.com|Hansen #6205720110|Hi And, The above loan file has been approved and is not eligible for
+2001-09-11 13:22:33 Skytel [005109145] C  ALPHA  Please join me at 2:00 PM on Bridge #336-6000 or 888-699-0348 Pin# 7121 to discuss the Sprint staging MR's.....If you have any questions please give me a call.....John Stevens
+2001-09-11 13:22:33 Skytel [002868635] C SH/TONE 99      
+2001-09-11 13:22:33 Skytel [002379679] D  ALPHA  5555
+2001-09-11 13:22:34 Weblink_B [1217009] A  ALPHA  60 318-257-2399-- LOUIS VANHOOOSE LOUISIANA TECH ATHLETIC DEPT 1450 W ALABAMA AVE HAS DYE ON HIS UNIFORMS NDS HELP GETTING IT OUT. END
+2001-09-11 13:22:34 Weblink_B [1231382] B  ALPHA  From: alert@msn.com - Nate: lezzzz go eat you feckhead [
+2001-09-11 13:22:35 Skytel [002566817] A ST NUM  917-915-0796   
+2001-09-11 13:22:35 Skytel [007511087] D  ALPHA  Y! ||$499 deals on iPAQ Pocket PC Harrisburg, PA Sunny 57 - 79 F  WNI  
+2001-09-11 13:22:35 Skytel [005229729] A SH/TONE 9850    
+2001-09-11 13:22:35 Skytel [004545828] B SH/TONE 567     
+2001-09-11 13:22:35 Skytel [005101355] C SH/TONE 218-1423
+2001-09-11 13:22:35 Skytel [005108768] A SH/TONE 6 (87   
+2001-09-11 13:22:35 Skytel [004407572] B  ALPHA   a heloc. Have a great day! Cynthia  
+2001-09-11 13:22:35 Skytel [007552173] D ST NUM  712-276-3035   
+2001-09-11 13:22:35 Skytel [002285224] C SH/TONE 117     
+2001-09-11 13:22:35 Skytel [002818599] B  ALPHA  8123
+2001-09-11 13:22:35 Skytel [004421677] D ST NUM  1-773-476-8505-38944
+2001-09-11 13:22:35 Skytel [005169710] D ST NUM  1) 973-728-3605-2   
+2001-09-11 13:22:35 Weblink_B {1265487} 3 1200 QB].$BpOh.3
+2001-09-11 13:22:37 Arch [0911134] D  ALPHA   equity71 SYBASE: check_systems() - Nightly DUMPS does not seem to run on eqny-cshprod1.ny.jpmorgan.com for EQ_CLWISE_PROD --->> gmcd_stage @13:11 09/11/01 
+2001-09-11 13:22:37 Arch [1370859] C  ALPHA  5677
+2001-09-11 13:22:37 Arch [1356752] A  ALPHA   RVListener not receiving msg in 1 minutes
+2001-09-11 13:22:37 Skytel [002463792] A ST NUM  710-578-1152 (76    
+2001-09-11 13:22:37 Skytel [003916976] A SH/TONE 858585  
+2001-09-11 13:22:37 Skytel [004435379] A SH/TONE 4012    
+2001-09-11 13:22:37 Skytel [005131324] D ST NUM  310-468-6610   
+2001-09-11 13:22:37 Skytel [007520575] D ST NUM  732-819-8988   
+2001-09-11 13:22:37 Skytel [002845371] C SH/TONE 250-2299
+2001-09-11 13:22:37 Skytel [007463352] C ST NUM  561-716-8184   
+2001-09-11 13:22:37 Skytel [003944255] D ST NUM  208-863-9025   
+2001-09-11 13:22:37 Skytel [004548664] C SH/TONE 326-2704
+2001-09-11 13:22:37 Skytel [004681521] A SH/TONE 16444   
+2001-09-11 13:22:37 Skytel [005046580] B ST NUM  9884600779
+2001-09-11 13:22:37 Skytel [007511864] C  ALPHA  Reply from SHARON PRATHER  is Do you just want mae, sm, rd, gm? to Yes
+2001-09-11 13:22:37 Skytel [002791733] B ST NUM  215-855-9529 (79    
+2001-09-11 13:22:37 Skytel [003329717] B  ALPHA  prd04 and 05 down, lan issue, no att on site, no eta  Mark Hodges - SunIT Ops
+2001-09-11 13:22:37 Skytel [002358325] B SH/TONE 805-4725
+2001-09-11 13:22:37 Skytel [002812464] A SH/TONE 38924   
+2001-09-11 13:22:37 Skytel [004719546] C SH/TONE 109     
+2001-09-11 13:22:37 Skytel [0717237] B  ALPHA  AMINE: POR FAVOR HABLAME A LA CASA SI PUEDES. TE QUIERO MUCHO. TU MAMA.
+2001-09-11 13:22:37 Skytel [002783801] C ST NUM  800-759-8255   
+2001-09-11 13:22:37 Skytel [003448765] D ST NUM  947-816-8612   
+2001-09-11 13:22:37 Skytel [007567166] D SH/TONE 569-9400
+2001-09-11 13:22:37 Skytel [002276541] D SH/TONE 252     
+2001-09-11 13:22:37 Skytel [002811577] C  ALPHA  The cancellation # for your 6-night hotel reservations in New Orleans is 54080386.  Denita
+2001-09-11 13:22:37 Skytel [005249087] D SH/TONE 8156    
+2001-09-11 13:22:39 Arch [0911134] D  ALPHA   equity71 SYBASE: check_systems() - Nightly DUMPS does not seem to run on eqny-cshprod1.ny.jpmorgan.com for EQ_CLWISE_PROD --->> gmcd_wh @13:11 09/11/01 
+2001-09-11 13:22:39 Arch [1425416] C  ALPHA  See John Boggi in the data center.   
+2001-09-11 13:22:39 Arch [0775431] B  ALPHA  (25)(061105072000)WB05072000 INS 10/19/01 17:00 AS HUSQV ARNA FORES 9 7349 STATESVILLE R D CHARLOTTE NC NC CALL CR EATED BY JOB COST,XB05070008 NORTEL 9150 REMOTE FO R TWO NEW OFFICES.TWO REMOTE LOCATIONS WILL BE INS
+2001-09-11 13:22:39 Arch [0326603] C  ALPHA  (22)(013109110060)HI.. RONDA HERE.. I HAVE A PART FOR DAN MOHR AND NEED HIS SHIP TO ADDRESS.. RDSU1A FOR ZELLER SUPER WAREHOUSE, WB08230623.. CALL ME AT 419-529-1578 TODAY MY VM LINE IS 740-397-3660 THANX
+2001-09-11 13:22:39 Skytel [002788291] A ST NUM  900-777-5977   
+2001-09-11 13:22:39 Skytel [005353416] C ST NUM  662-1088-6
+2001-09-11 13:22:39 Skytel [005191364] B SH/TONE 99      
+2001-09-11 13:22:39 Skytel [007520327] B  ALPHA  Y! ||Be mobile with Compaq Man Arrested for 1971 Air Canada Hijacking Reuters  
+2001-09-11 13:22:39 Skytel [005176645] B ST NUM  425-775-3922   
+2001-09-11 13:22:39 Skytel [005112141] D  ALPHA  404-284-7833.ASHLEY STEWART      
+2001-09-11 13:22:39 Skytel [005387977] C SH/TONE 3       
+2001-09-11 13:22:39 Skytel [007568584] C ST NUM  435-0645-98    
+2001-09-11 13:22:39 Skytel [005352265] C SH/TONE 999999  
+2001-09-11 13:22:39 Skytel [002391624] C ST NUM  1-877-265-4557 
+2001-09-11 13:22:39 Skytel [004728520] C ST NUM  310-714-7740 (48    
+2001-09-11 13:22:39 Skytel [003261384] C SH/TONE 222     
+2001-09-11 13:22:39 Skytel [007512779] C  ALPHA  Y! ||$499 deals on iPAQ Pocket PC Latin Grammy Awards canceled Reuters  
+2001-09-11 13:22:39 Skytel [004743883] C ST NUM  202-514-5855 (6
+2001-09-11 13:22:39 Skytel [002676286] D  ALPHA  B7 all power is out .  Building is being evacuated at this time. Reported by Mary K Pierce.   (44
+2001-09-11 13:22:39 Skytel [002273486] D ST NUM  209-951-9813   
+2001-09-11 13:22:39 Skytel [002366788] B ST NUM  619-719-8547   
+2001-09-11 13:22:39 Skytel [005506755] A  ALPHA  MARINA MOONEY CAN BE REACHED AT 201-823-3181.
+2001-09-11 13:22:39 Weblink_B [1231382] B  ALPHA  21]
+2001-09-11 13:22:39 Weblink_B [1185141] B  ALPHA  From SJEVM5(RMSSEC): Chris, ASanceau c
+2001-09-11 13:22:41 Arch [0902253] D  ALPHA  8911100-103
+2001-09-11 13:22:41 Skytel [007551835] C  ALPHA  usersup@afespro.redcross.org||RE: Review Clarify Case 364211, it has been updated. PRIORITY: Routine SEVERITY: Routine TITLE: Intouch: List Mgr.- Apheresis Donor Lists not Matching BY: NguyenTh AT 09/11/01 13:22:23 SE Analysis: To find dono
+2001-09-11 13:22:41 Skytel [005338833] A SH/TONE 1       
+2001-09-11 13:22:41 Skytel [004515800] C SH/TONE 216-4972
+2001-09-11 13:22:41 Skytel [007513298] A  ALPHA  alerts-reply@yahoo-in|Yahoo! Breaking News|<html> <head> <title> Yahoo! Breaking News </title> </hea
+2001-09-11 13:22:41 Skytel [005361372] D ST NUM  256-090-1411   
+2001-09-11 13:22:41 Skytel [004728287] D  ALPHA  hfeathers@ci.pleasanton.ca.us||CALL POLICE DISPATCH ASAP  
+2001-09-11 13:22:41 Skytel [003925968] A SH/TONE 4550 (67
+2001-09-11 13:22:41 Skytel [003270480] A  ALPHA  B7 all power is out .  Building is being evacuated at this time. Reported by Mary K Pierce.   (89
+2001-09-11 13:22:41 Skytel [005117916] D SH/TONE 1815    
+2001-09-11 13:22:41 Skytel [007577565] D ST NUM  632-392-2531   
+2001-09-11 13:22:41 Skytel [007527388] D SH/TONE 1       
+2001-09-11 13:22:41 Skytel [004727635] A  ALPHA  914-645-3117.White Plains, NY    
+2001-09-11 13:22:41 Skytel [005187933] D ST NUM  810-833-0546   
+2001-09-11 13:22:41 Skytel [003947097] C  ALPHA  I AM AT THE CORNER OF ATLANTIC AND VANWICH AT THE AMCO GAS STATION.
+2001-09-11 13:22:41 Weblink_B [1185141] B  ALPHA  alled. Please page Allan with a number where you can be reached. Delma [51]
+2001-09-11 13:22:42 Skytel [004738664] C SH/TONE 256-0355
+2001-09-11 13:22:42 Skytel [005222765] D ST NUM  900-999-7574   
+2001-09-11 13:22:42 Skytel [005111530] C SH/TONE 17713   
+2001-09-11 13:22:42 Skytel [007003745] A  ALPHA  973-822-0873 [2893
+2001-09-11 13:22:42 Skytel [003274094] D  ALPHA  NY0000000189840 Connections Error: Other assignee CONNECTIONS Production Triage Site 4S7 Sev.2
+2001-09-11 13:22:42 Skytel [005041248] A ST NUM  582-9341 U
+2001-09-11 13:22:42 Skytel [003944676] B  ALPHA  Guardian@wcom.com|Program DRWTSN32 is running on node NTMD064001.|Condition corrected for rule PGM_DRWATSON on NTMD064001. Re-check result: Program DRWTSN32 is not running on node NTMD064001.  
+2001-09-11 13:22:42 Skytel [003305959] B SH/TONE 5525    
+2001-09-11 13:22:43 Skytel [005379045] B ST NUM  301-980-9148   
+2001-09-11 13:22:43 Skytel [003465575] B ST NUM  800-759-8255   
+2001-09-11 13:22:43 Skytel [003454056] C SH/TONE 850-8080
+2001-09-11 13:22:43 Skytel [003203307] C ST NUM  9886143128 (4  
+2001-09-11 13:22:43 Skytel [003452394] C SH/TONE 450     
+2001-09-11 13:22:43 Skytel [007600874] C SH/TONE 6128    
+2001-09-11 13:22:43 Skytel [003897062] B  ALPHA  6260663@archwireless.net|Wireless Message|i love you. how are u doing?  Azita Mu
+2001-09-11 13:22:43 Skytel [003417448] C ST NUM  9005599132
+2001-09-11 13:22:43 Skytel [007041636] B SH/TONE 251-7387
+2001-09-11 13:22:43 Skytel [005040741] B  ALPHA  B7 all power is out .  Building is being evacuated at this time. Reported 
+2001-09-11 13:22:43 Skytel [005210723] A  ALPHA  (1 of 2) Please call the Minute Maid Helpdesk on a printer dispatch. Marsha 888-
+2001-09-11 13:22:43 Skytel [007562990] D SH/TONE 696-4312
+2001-09-11 13:22:43 Skytel [005040100] B  ALPHA  Jim,   We are still operational.  Customer response is low but calls still flowing.-ps9489r@sears.com
+2001-09-11 13:22:44 Skytel [005354873] C  ALPHA  A
+2001-09-11 13:22:44 Skytel [005328497] A SH/TONE 91110   
+2001-09-11 13:22:44 Skytel [004555376] A SH/TONE 222     
+2001-09-11 13:22:44 Skytel [003945597] D ST NUM  503-698-4743   
+2001-09-11 13:22:44 Skytel [005040245] B ST NUM  209-6054-1
+2001-09-11 13:22:44 Skytel [005329022] D ST NUM  516-746-6714-2 
+2001-09-11 13:22:44 Skytel [003948659] A ST NUM  629-235-8911   
+2001-09-11 13:22:44 Skytel [002357369] C  ALPHA  002386 CYCLIC TEST 
+2001-09-11 13:22:44 Skytel [003905919] D  ALPHA  B7 all power is out .  Building is being evacuated at this time. Reported by Mary K Pierce.   (53
+2001-09-11 13:22:44 Skytel [005521523] A  ALPHA  hfeathers@ci.pleasanton.ca.us||CALL POLICE DISPATCH ASAP  
+2001-09-11 13:22:44 Skytel [002567415] B SH/TONE 99      
+2001-09-11 13:22:44 Skytel [007663735] B  ALPHA  718-595-6565
+2001-09-11 13:22:44 Skytel [005118965] B SH/TONE 64900   
+2001-09-11 13:22:44 Skytel [007046004] B  ALPHA  B7 all power is out .  Building is being evacuated at this time. Reported by Mary K Pierce.  
+2001-09-11 13:22:44 Skytel [005003254] B  ALPHA  I/S Remedy: GPM I
+2001-09-11 13:22:44 Skytel [005040741] B  ALPHA  by Mary K Pierce.  
+2001-09-11 13:22:44 Skytel [007585786] C SH/TONE 361-0822
+2001-09-11 13:22:44 Skytel [005340538] C ST NUM  505-385-0538   
+2001-09-11 13:22:44 Skytel [003436026] C SH/TONE 226     
+2001-09-11 13:22:44 Skytel [003951481] C  ALPHA  HD: Per Glen Gorzelany, next Crisis Management update will be at 10:30 AM MST. C
+2001-09-11 13:22:44 Skytel [004398321] A  ALPHA  Eileen.Fukuyama@nissan-usa.com||I made need to route 9-nissan to the same log te
+2001-09-11 13:22:44 Skytel [004749695] D ST NUM  660-737-6606-911    
+2001-09-11 13:22:44 Skytel [005247100] D ST NUM  770-472-1273   
+2001-09-11 13:22:44 Skytel [005189244] D ST NUM  504-246-7359   
+2001-09-11 13:22:44 Skytel [007100795] C ST NUM  704-231-9226   
+2001-09-11 13:22:44 Skytel [003327216] A  ALPHA  002386 CYCLIC TEST 
+2001-09-11 13:22:44 Skytel [002139900] D SH/TONE 002386  
+2001-09-11 13:22:44 Skytel [007094902] B  ALPHA  CC@mapmobile.com||72) P/C MOTHER  
+2001-09-11 13:22:44 Skytel [007663740] D  ALPHA  (1/1) P.D. OPERATIONS IS REQUESTING THE DEP TAKE AIR SAMPLES AT THE WORLD TRADE 
+2001-09-11 13:22:45 Weblink_B [1788648] C  ALPHA  (0000000000)1:PLS CALL CHRIS SULOCK, FRANZ COMP 267-304-6592 ABOUT STATUS OF SVC CALL, THX, KATHY
+2001-09-11 13:22:46 Skytel [003264773] B  ALPHA  prd04 and 05 down, lan issue, no att on site, no eta  Mark Hodges - SunIT Ops
+2001-09-11 13:22:46 Skytel [005003254] B  ALPHA  D: NY00907711 - Medium  - New - Single User - User: WILFRED ARCHAMBEAULT x 243 0855 PRI003170 - WTC applications on Mainframe that are down.
+2001-09-11 13:22:46 Skytel [002752517] B ST NUM  697-7100-1 (73 
+2001-09-11 13:22:46 Skytel [004398321] A  ALPHA  rm - waiting on a response from Corp Comm  
+2001-09-11 13:22:46 Skytel [004405515] C SH/TONE 22799   
+2001-09-11 13:22:46 Skytel [007663740] D  ALPHA  CENTER. // CC 595-6777
+2001-09-11 13:22:46 Skytel [002751500] D ST NUM  2) 404-964-1562
+2001-09-11 13:22:46 Skytel [004749710] D ST NUM  719-338-3338   
+2001-09-11 13:22:48 Arch [0937398] B  ALPHA  tkhurana|when your teams have contacted the various schools, pls call me to notify me of how many people we have present/gone on day shift.  
+2001-09-11 13:22:48 Arch [0938109] D  ALPHA  ID: A126001932-S83211|255   -2/2
+2001-09-11 13:22:48 Metrocall [1223423] D  ALPHA  Job # 164 QUEST DIAGNOSTICS LS: STD    Rdy: 1019 Exdl: 1319 P/U:PLEASANTON QDX 1439 CEDARWOOD LN,BLDG C6 PLEASANTON D/L:QUEST DIAGNOSTICS 6511 GOLDEN GATE DR QUEST DIAG., CA Wt:    1    1 OTHER Caller: DBC Ref: MONO/TAYLOR
+2001-09-11 13:22:48 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2510
+2001-09-11 13:22:48 Metrocall [1048490] C  ALPHA  Frm: Sannutti,
+2001-09-11 13:22:48 Skytel [005360159] D SH/TONE 562-2619
+2001-09-11 13:22:48 Skytel [004677264] A  ALPHA  When you get home, please test your remote connectivity & send me email confirming you can log in : Frank Price IISG web page
+2001-09-11 13:22:48 Skytel [003270424] C  ALPHA  SOPC Router maggw is UP (15
+2001-09-11 13:22:48 Skytel [007457559] B SH/TONE 305-5650
+2001-09-11 13:22:49 Arch [0982773] B  ALPHA  jastein|I can't get a line out to call you. I'm cancelling our rating and ranking meeting today. Will reschedule for Thursday.   
+2001-09-11 13:22:49 Arch [0876041] C  ALPHA  ||Call me. Are you OK? Susan|28  
+2001-09-11 13:22:50 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2510
+2001-09-11 13:22:50 Metrocall [002462139] C  ALPHA  (109618304)IUA,232170,STJOSA,SPENCER,CCU\9129275580,UNK,U,127,CALL W\ETA
+2001-09-11 13:22:50 Metrocall [1048490] C  ALPHA   Adam 1LT Sub: Txt: 2-1340/0718 1LT Adam A. Sannutti Deputy DISSO
+2001-09-11 13:22:50 Metrocall [1363054] D  ALPHA  Job # 131 KAISER-VALLEY CSA LS: STD    Rdy: 1218 Exdl: 1518 P/U:FERTILLITY CLINIC 2521 STOCKTON BLVD,4TH SACRAMENTO D/L:KAISER/LAB 2025 MORSE AVE,1ST FLR SACRAME
+2001-09-11 13:22:50 Skytel [003480097] A ST NUM  3056554237
+2001-09-11 13:22:50 Skytel [007513260] D ST NUM  662-562-7911   
+2001-09-11 13:22:50 Skytel [004395798] B SH/TONE 5274    
+2001-09-11 13:22:52 Metrocall [1413361] A  ALPHA  CALL LARRY NOW-URGENT-CALL ME NOW IT IS 10:23
+2001-09-11 13:22:52 Metrocall [1363054] D  ALPHA  NTO Wt:    0    1  Caller: BARBARA Ref: 6616940
+2001-09-11 13:22:52 Metrocall [1064374] B  ALPHA  YEN  118.93/03 -200 EUR  0.9132/37 +151 CHF  1.6430/40 -449 GBP  1.4734/39
+2001-09-11 13:22:52 Metrocall [1899053] D  ALPHA  Please Call-5-6144 4335
+2001-09-11 13:22:52 Metrocall [1398502] B  ALPHA  Frm: Y! Txt: Aqu Your faults are magnified. You think yourself into a hole. Focu
+2001-09-11 13:22:52 Metrocall [0152973] D  ALPHA  PER MAJOR COOK AT 1330 HRS TODAY A OPERATIONS DIVISION SUPERVISORS MEETING WILL BE HEL
+2001-09-11 13:22:52 Skytel [007536179] A ST NUM  516-679-7911   
+2001-09-11 13:22:52 Skytel [003490354] A SH/TONE         
+2001-09-11 13:22:52 Skytel [002748337] A SH/TONE 288     
+2001-09-11 13:22:52 Skytel [007594165] B ST NUM  78771773874153372696
+2001-09-11 13:22:52 Skytel [004517303] B  ALPHA  gregory scott:Dana, sorry, call me on (303) 263-4129
+2001-09-11 13:22:52 Skytel [005316662] B SH/TONE 227227  
+2001-09-11 13:22:52 Skytel [002815935] D SH/TONE 01      
+2001-09-11 13:22:52 Skytel [003915576] C  ALPHA  732-420-5600
+2001-09-11 13:22:52 Skytel [002849081] C SH/TONE 256-9308
+2001-09-11 13:22:52 Skytel [005054258] A SH/TONE 226     
+2001-09-11 13:22:52 Skytel [005409960] C  ALPHA  3232246) (98
+2001-09-11 13:22:52 Weblink_B [0607278] D  ALPHA  P000818483 Pri2   ORWAUS    AUSER      FRANKE    TIMOTHY   7158422077   0000 WAUS LAN CONNECTION: User reporting a problem with connecting to [08]
+2001-09-11 13:22:52 Weblink_B [0214766] D  ALPHA  P000818484 Pri3   ORCRYMM   AUSER      CZAPKEWICZSANDRA    6103980311   36
+2001-09-11 13:22:54 Metrocall [1363054] D  ALPHA  Job # 131 Comment: ROUND TRIP, FIRST LEG IS JOB 129
+2001-09-11 13:22:54 Metrocall [1064374] B  ALPHA   +171 CAD  1.5663/68 +037 AUD  0.5214/19 +081  NZD  0.4339/49 +032 DEM  2.1410/15 -360  E/C  1.5013/18 -142 E/Y  108.75/85 +010 E/S  0.6196/98 +038 USD     113.11 -167
+2001-09-11 13:22:54 Metrocall [1198344] C  ALPHA  Frm: Christy Stanley Sub: Txt: Chris called: his parents are fine.
+2001-09-11 13:22:54 Metrocall [0152973] D  ALPHA  D IN THE JAIL CONFERENCE WORK ROOM  (HCSD DISP)
+2001-09-11 13:22:54 Metrocall [002287257] C  ALPHA  ALL UNITS ARE ON STAND BY STATUS, SUBJECT TO CALL OUT,  UNTIL FUR
+2001-09-11 13:22:54 Skytel [002851137] A  ALPHA  SHANE WITH ALPHA DATE IM AT A SHELL SITE. WERE HAVING VSAT PROBLEMS. PLEASE CALL ME BACK ON MY CELL 513 617 3432 
+2001-09-11 13:22:54 Skytel [004742976] A SH/TONE 692-7200
+2001-09-11 13:22:54 Skytel [005344840] C  ALPHA  i heard ALL baout the news. i been watching the news tonight. no shit! u could have been in that plane from bo
+2001-09-11 13:22:54 Skytel [002852932] B  ALPHA  B7 all power is out .  Building is being evacuated at this time. Reported by Mary K Pierce.  
+2001-09-11 13:22:54 Skytel [005367492] B SH/TONE 737-7790
+2001-09-11 13:22:54 Skytel [002963910] B  ALPHA  747-5615 (55
+2001-09-11 13:22:54 Skytel [005416015] D  ALPHA  JOE CAN THEY TIME STUDY A JOB WITH 3 ENGINEERS? AND IF NOT THEN SEND SOMEBODY TO THE FRASER DEW MACHINES.......DAVE FROM: PFT @ U1  (88
+2001-09-11 13:22:54 Skytel [004747593] C ST NUM  708-373-7076 (81    
+2001-09-11 13:22:54 Skytel [003453132] D ST NUM  900-759-8255 (65    
+2001-09-11 13:22:54 Skytel [005113921] A ST NUM  201-801-0999   
+2001-09-11 13:22:54 Skytel [004678856] C  ALPHA  When you get home, please test your remote connectivity & send me email confirming you can log in : Frank Price IISG web page
+2001-09-11 13:22:54 Weblink_B [0214766] D  ALPHA  07 LEHV CRYSTAL WAREHOUSE: User is reporting Crystal Warehouse probl
+2001-09-11 13:22:54 Weblink_B [0931018] C  ALPHA  Fr
+2001-09-11 13:22:55 Metrocall [002472694] B  ALPHA  83-PLEASE CALL DOUG 203-260-2201
+2001-09-11 13:22:55 Metrocall [002287257] C  ALPHA  THER NOTICE PER 101.
+2001-09-11 13:22:55 Metrocall [1576317] D  ALPHA  Frm: 136711@my2way.com Txt: you're missing all the ex
+2001-09-11 13:22:55 Metrocall [1221803] C  ALPHA  PGL91 PAT HARRINGTON 518 783 1281 PLS CL  RE THE BUYERS GUIDE
+2001-09-11 13:22:55 Metrocall [0527020] D  ALPHA  09/11/01 13:23 rad failed(fsh)
+2001-09-11 13:22:56 Arch [0073483] C  ALPHA  36
+2001-09-11 13:22:56 Arch [0182963] A  ALPHA  Steve Winter 713-869-1726 call again
+2001-09-11 13:22:56 Arch [0935670] B  ALPHA  From informix at 01:23 PM EDT: SENDQ greater than 40000 elements behind - 77241 on ibm28 [CC:informix loock t6_everyone] 
+2001-09-11 13:22:56 Arch [0966618] C  ALPHA  Your msg was not clear. I am at my desk. Call me...34657 ep
+2001-09-11 13:22:56 Arch [0939185] A  ALPHA  DATACASTnews.com.AAPL   17.37   Unch.KKD    27.60   Unch.LUV    17.12   Unch.
+2001-09-11 13:22:56 Arch [0911134] D  ALPHA   equity71 SYBASE: check_systems() - Nightly DUMPS does not seem t
+2001-09-11 13:22:56 Arch [1036266] C  ALPHA  1:20 PM - Test page from the Help Desk.  If received, please call ext. 74600 at your convenience and ask for Maureen or Claire. - Maureen
+2001-09-11 13:22:56 Arch [1025475] A  ALPHA  From informix at 01:23 PM EDT: SENDQ greater than 40000 elements behind - 77241 on ibm28 [CC:informix loock t6_everyone] 
+2001-09-11 13:22:56 Arch [0939437] D  ALPHA  CA Helpdesk <CAH|mc0300ux214|CR: 143647 Priority: 5 Assigned to: Ahern, Mark Summary::
+2001-09-11 13:22:56 Metrocall [1890445] D  ALPHA  023071696  K      MARGARET BARNETT     8703645131            0211           /
+2001-09-11 13:22:56 Skytel [005344840] C  ALPHA  ston!! god, i love you! xxxxxxxxx
+2001-09-11 13:22:56 Skytel [005436497] A ST NUM  218-282-3452 (77    
+2001-09-11 13:22:56 Skytel [005132112] A  ALPHA  United@ua2go.com|Flifo Error!|Tue Sep 11 13:21:34 EDT 2001(Flifo);java.lang.NullPointerException;Exception  
+2001-09-11 13:22:56 Skytel [003266653] D ST NUM  730-969-6660   
+2001-09-11 13:22:56 Skytel [005195222] B SH/TONE 99999   
+2001-09-11 13:22:56 Skytel [005258064] A ST NUM  704-892-1144   
+2001-09-11 13:22:56 Skytel [002283866] C SH/TONE 832-3542
+2001-09-11 13:22:56 Skytel [007465946] C ST NUM  709-217-9915   
+2001-09-11 13:22:56 Skytel [007512026] C  ALPHA  Y! || High-ranking city police official says the number of people killed or injured could be in the 
+2001-09-11 13:22:56 Skytel [002374366] D  ALPHA  When you get home, please test your remote connectivity & send me email confirming you can log in : Frank Price IISG web page
+2001-09-11 13:22:57 Metrocall [1193920] A  ALPHA  Frm: CrewSch@nwairlink.com Sub: Txt: The next company conference call will take place at 1:00pm. The phone number is 1-800-403-1024. The pin number is 413028.
+2001-09-11 13:22:57 Metrocall [1576317] D  ALPHA  citement. just heard from brian. we're in netac 732 420 5601 mel
+2001-09-11 13:22:57 Metrocall [0417543] B  ALPHA  (51)[Everyone] Due to the terrorist attack on NYC, there has been a DAP failure in Worldcom's network affecting the entire East coast. As a result, toll-free pager numbers are working intermittentl
+2001-09-11 13:22:57 Skytel [007611366] B SH/TONE 1       
+2001-09-11 13:22:57 Skytel [004516460] D SH/TONE 4200    
+2001-09-11 13:22:57 Skytel [005362916] B SH/TONE 99      
+2001-09-11 13:22:57 Skytel [002285545] C ST NUM  512-262-6365   
+2001-09-11 13:22:57 Skytel [007518699] C  ALPHA  y-alerts@yahoo-inc.com|| High-ranking city police official says the number of people killed or injur
+2001-09-11 13:22:57 Skytel [007523048] C  ALPHA  Y! ||Fr: ujvbwi10dmi@msn.com *Expand Your Business! [cd210l]* Expand your business! Make it eas Mail
+2001-09-11 13:22:58 Arch [1611603] A  ALPHA  call comminucations MTAPD Comm Ctr (1/1)
+2001-09-11 13:22:58 Arch [0931298] A  ALPHA  920-6308
+2001-09-11 13:22:58 Arch [0911134] D  ALPHA  o run on eqny-cshprod1.ny.jpmorgan.com for EQ_CLWISE_PROD --->> master @13:11 09/11/01 
+2001-09-11 13:22:58 Arch [0391768] C  ALPHA  788-0393
+2001-09-11 13:22:58 Arch [0939437] D  ALPHA   Hardware installation/reconfiguration/failure 
+2001-09-11 13:22:58 Arch [0927471] D  ALPHA  lirich|Please call me at 916-768-6764   
+2001-09-11 13:22:58 Weblink_B [0931018] C  ALPHA  om: Product.Status@bankofamerica.com Subject: . - NC Current Day detail reporting is incorrect. [25]
+2001-09-11 13:22:58 Weblink_B [0069161] C  ALPHA  From: Product.Status@bankofamerica.com Subject: . - NC Current Day detail reporting is incorrect. [96]
+2001-09-11 13:22:59 Metrocall [0552806] B  ALPHA  CALL 323 890-7500 AND LEAVE STATUS FOR NMRT OR DMAT ASAP
+2001-09-11 13:22:59 Metrocall [0417543] B  ALPHA  y. -Carter
+2001-09-11 13:22:59 Metrocall [1228786] A  ALPHA  THIS IS A COMMAND NOTIFICATION ON A BOMB THREAT AT OLYMPUS HIGH SCHOOL, 4055 S 2300 E. CALL CAME IN AT 1050 HRS.  LT WARDLE ON S
+2001-09-11 13:22:59 Metrocall [1062138] C  ALPHA  Node totera-rtr-b-.metrocall.com status change: Router Up ~
+2001-09-11 13:22:59 Skytel [003915121] A  ALPHA  alexander.lee@us.ibm.com|You've got mail!| 
+2001-09-11 13:22:59 Skytel [002867455] D  ALPHA  FROM: CARVM8(WTCADJ) Due to the recent disaster,all NON-Essential network traffic hasbeen requested to be stopped including E2E testing.  Russ,Regions E2E will have to be rescheduled. Call An
+2001-09-11 13:22:59 Skytel [005109874] A  ALPHA  553-7759
+2001-09-11 13:22:59 Skytel [007511932] D  ALPHA  Y! || High-ranking city police official says the number of people killed or injured could be in the 
+2001-09-11 13:22:59 Skytel [004754806] B SH/TONE 252-3712
+2001-09-11 13:22:59 Skytel [003442548] B ST NUM  949-551-1781   
+2001-09-11 13:22:59 Skytel [005343103] D ST NUM  1-401-091-1365-70000000000     
+2001-09-11 13:22:59 Skytel [005053822] D ST NUM  925-675-3508   
+2001-09-11 13:22:59 Skytel [007100664] C  ALPHA  5756633 PCK WNDVAC DECATUR HOSPITAL 4045016695 F TWYMAN 508A 272
+2001-09-11 13:22:59 Skytel [007512189] D SH/TONE 260-2198
+2001-09-11 13:22:59 Skytel [004688894] D SH/TONE 2) 5525 
+2001-09-11 13:22:59 Skytel [004044029] D  ALPHA  118-7878-7 (3
+2001-09-11 13:22:59 Skytel [007437433] C  ALPHA   It appears that they have sent everyone home @PDC, bld 1, 2 &3 From: Vernon Clark (1-313-3237626) (14
+2001-09-11 13:22:59 Skytel [002356606] D  ALPHA  y-alerts@yahoo-inc.com|| High-ranking city police official says the number of people killed or injured could be in the thousands.  

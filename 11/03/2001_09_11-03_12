@@ -1,0 +1,66 @@
+2001-09-11 03:12:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1899
+2001-09-11 03:12:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1899
+2001-09-11 03:12:03 Skytel [004678548] B  ALPHA  spectrum@ascend.com||  Alarm CLEARed: ModelName:        135.119.1.40 Mtype:            WA_Link IPAddress:        135.119.1.40 Date:             09/11/2001 Time:             00:11:06 AlarmID:          83248 Condition:        RED CauseCode:  
+2001-09-11 03:12:03 Skytel [007567765] B SH/TONE 177-1184
+2001-09-11 03:12:03 Skytel [004570774] B ST NUM  488-0560-60    
+2001-09-11 03:12:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6721
+2001-09-11 03:12:05 Skytel [005250089] C SH/TONE 201437  
+2001-09-11 03:12:06 Skytel [005123762] A ST NUM  918-259-2729   
+2001-09-11 03:12:06 Skytel [002270524] D SH/TONE 960638  
+2001-09-11 03:12:07 Arch [0000101] B  ALPHA  MSN 054 hello Message from NOC PCB.
+2001-09-11 03:12:09 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 176912. 
+2001-09-11 03:12:12 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   23752 OPEN suntvpa:23752 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 20054 OPEN sunapp1:20054 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat 
+2001-09-11 03:12:12 Skytel [003599337] C  ALPHA  MSFT 57.58 +2.18 ORCL 11.46 +0.39 NOVL 3.99 +0.07 MCI 25.15 +0.30 (48
+2001-09-11 03:12:14 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:12:16 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   18322 OPEN suntvpa:18322 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 30758 OPEN sunapp1:30758 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat 
+2001-09-11 03:12:16 Skytel [003893130] C ST NUM  0-719-290-9103 
+2001-09-11 03:12:16 Skytel [005257731] A  ALPHA  MCIC 0.00 UNCH WCOM 12.92 -0.06
+2001-09-11 03:12:18 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   20291 OPEN suntvpa:20291 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 16952 OPEN sunapp1:16952 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat
+2001-09-11 03:12:20 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   27343 OPEN suntvpa:27343 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 5747 OPEN sunapp1:5747 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:12:20 Arch [1082628] B  ALPHA  (16)syswatch: HOST/PROCESS - resswext.sec.sprint.net:CLIENT PROBLEM ID -HOSTFAIL1~resswext.sec.sprint.net~resunfw PROBLEM AREA - HOST FAILDESCRIPTION - resunfw: 2 min NO RESPONSE (PING FAIL)
+2001-09-11 03:12:22 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-11 03:12:24 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   31974 OPEN suntvpa:31974 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 24983 OPEN sunapp1:24983 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat 
+2001-09-11 03:12:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9644
+2001-09-11 03:12:25 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:12:25 Skytel [005041240] C SH/TONE 7415    
+2001-09-11 03:12:27 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   11747 OPEN suntvpa:11747 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 3694 OPEN sunapp1:3694 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj
+2001-09-11 03:12:27 Metrocall {1250894} 1 2400 F:oracleadm@sig.com (Oracle Admin) S:MON-1031 Disk Storage Alert on /rockies/archive-phys-rockies-a B:/dev/vx/dsk/oradg/archive 32249632 28865024 3062112 91% /rockies/archive...
+2001-09-11 03:12:31 Arch [0959910] B  ALPHA  24 From Carl Bettaney Sub:UKHD X Brackmills hanging garment sorter printers were unavailable from 00:27 to 02:40. Cause TBC. CB. Msg:
+2001-09-11 03:12:32 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3292
+2001-09-11 03:12:33 Arch [1612317] D  ALPHA  RT_LAMESA  ARCserveIT:  E0015 Job 582: Backup Operation Failed
+2001-09-11 03:12:33 Arch [1164259] A  ALPHA  From Carl Bettaney Sub:UKHD X Brackmills hanging garment sorter printers were unavailable from 00:27 to 02:40. Cause TBC. CB. Msg:
+2001-09-11 03:12:33 Skytel [007575575] B  ALPHA  [MINOR] dijon: File-system "/biller/wnet/data/parser" is now 86% full.
+2001-09-11 03:12:35 Skytel [002376872] C  ALPHA  svcaem1@conxion.net|onl-sf-1.symantec.com, HTTP, 206.204.52.68:80, Server Recovered, | 
+2001-09-11 03:12:35 Skytel [005437867] C SH/TONE 911281  
+2001-09-11 03:12:36 Skytel [0001461] B  ALPHA  GLOBEX   02:11     GEH  9663.5A   .5+   GEM    ----   ----   ESU  109575  UNCH    SPU  109600    30+   NDU  137450   400+   6JZ    8296A   47-   6EZ    8968    12-   6SZ    5936     4-   6BZ   14502A   26-   6CZ    6388B    2-   
+2001-09-11 03:12:37 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 176919. 
+2001-09-11 03:12:38 Skytel [002157643] C SH/TONE 38) 101 
+2001-09-11 03:12:39 Metrocall [0088087] B  ALPHA  F:oracleadm@sig.com (Oracle Admin) S:MON-1031 Disk Storage Alert on /rockies/archive-phys-rockies-a B:/dev/vx/dsk/oradg/archive 32249632 28865024 3062112 91% /rockies/archive
+2001-09-11 03:12:39 Metrocall [1545558] B  ALPHA  Frm: EA System Notification,GLENDALE,MIS Sub: TPM Proble
+2001-09-11 03:12:40 Skytel [1800019] A  ALPHA  GLOBEX   02:11     GEH  9663.5A   .5+   GEM    ----   ----   ESU  109575  UNCH    SPU  109600    30+   NDU  137450   400+   6JZ    8296A   47-   6EZ    8968    12-   6SZ    5936     4-   6BZ   14502A   26-   6CZ    6388B    2-   
+2001-09-11 03:12:40 Skytel [005192409] C  ALPHA  DELL 22.57 +1.02 EMC 13.95 +0.60 AMGN 64.10 +0.20 MSFT 57.61 +2.21
+2001-09-11 03:12:40 Skytel [005138014] D  ALPHA  EGRP 0.00 UNCH MSFT 57.58 +2.18 CSCO 14.45 +0.09 INKT 3.15 +0.25
+2001-09-11 03:12:41 Metrocall [1545558] B  ALPHA  m 00820063 Txt: Hostname: bur1nt03 Description: Examine Backup Exec recent job history log for details on error backup. An unusual error (124) was encountered while enumerating the con
+2001-09-11 03:12:42 Skytel [004571232] A  ALPHA  INTC 26.07 +0.18 AMZN 8.63 +0.12 DELL 22.57 +1.02 MSFT 57.58 +2.18
+2001-09-11 03:12:47 Metrocall [0088087] B  ALPHA  F:oracleadm@sig.com (Oracle Admin) S:MON-1031 Disk Storage Alert on /rockies/archive-phys-rockies-a B:/dev/vx/dsk/oradg/archive 32249632 28865024 3062112 91% /rockies/archive
+2001-09-11 03:12:50 Skytel [002693038] D  ALPHA  CWM 0.00 UNCH CCR 39.80 +1.35 DJIA 9605.51 -0.34 (1
+2001-09-11 03:12:50 Skytel [007486118] B ST NUM  229-004-4919-1191191
+2001-09-11 03:12:57 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:12:57 Arch [0163974] B  ALPHA  From Carl Bettaney Sub:UKHD X Brackmills hanging garment sorter printers were unavailable from 00:27 to 02:40. Cause TBC. CB. Msg:
+2001-09-11 03:12:57 Arch [0915843] A  ALPHA  (12)From Carl Bettaney Sub:UKHD X Brackmills hanging garment sorter printers were unavailable from 00:27 to 02:40. Cause TBC. CB. Msg:
+2001-09-11 03:12:57 Arch [0769433] C  ALPHA  From Carl Bettaney Sub:UKHD X Brackmills hanging garment sorter printers were unavailable from 00:27 to 02:40. Cause TBC. CB. Msg:
+2001-09-11 03:12:57 Arch [0284292] B  ALPHA  From Carl Bettaney Sub:UKHD X Brackmills hanging garment sorter printers were unavailable from 00:27 to 02:40.
+2001-09-11 03:12:57 Arch [0983275] C  ALPHA  From Carl Bettaney Sub:UKHD X Brackmills hanging garment sorter printers were unavailable from 00:27 to 02:40. Cause TBC. CB. Msg:
+2001-09-11 03:12:57 Arch [1023789] D  ALPHA  598-4264
+2001-09-11 03:12:57 Skytel [004517601] A  ALPHA  MSFT 57.58 +2.18 IBM 96.47 -0.12 HWP 17.89 -0.19 SUNW 10.29 -0.30
+2001-09-11 03:12:57 Skytel [005330530] A ST NUM  8685222010
+2001-09-11 03:12:57 Skytel [004524770] A  ALPHA  spr-WhalleyComputer-SouthwickMA-: CPE Up at 00:58:51 on 9/11
+2001-09-11 03:12:57 Skytel [005436525] D  ALPHA  Test #8
+2001-09-11 03:12:59 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   4981 OPEN suntvpa:4981 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 26176 OPEN sunapp1:26176 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:12:59 Arch [0929241] C  ALPHA  From Carl Bettaney Sub:UKHD X Brackmills hanging garment sorter printers were unavailable from 00:27 to 02:40. Cause TBC. CB. Msg:
+2001-09-11 03:12:59 Arch [0926807] B  ALPHA  From Carl Bettaney Sub:UKHD X Brackmills hanging garment sorter printers were unavailable fr
+2001-09-11 03:12:59 Arch [0284292] B  ALPHA   Cause TBC. CB. Msg:
+2001-09-11 03:12:59 Arch [0975978] C  ALPHA  From Carl Bettaney Sub:UKHD X Brackmills hanging garment sorter printers were unavailable from 00:27 to 02:40. Cause TBC. CB. Msg:
+2001-09-11 03:12:59 Arch [1629007] D  ALPHA  cjbacon 72156 FSGLOBAL FYI| Store Item Team determined ASDA scale communication 
+2001-09-11 03:12:59 Arch [1410805] B  ALPHA  (15)From Carl Bettaney Sub:UKHD X Brackmills hanging garment sorter printers were unavailable from 00:27 to 02:40. Cause TBC. CB. Msg:
+2001-09-11 03:12:59 Arch [1131960] C  ALPHA  From Carl Bettaney Sub:UKHD X Brackmills hanging garment sorter printers were unavailable from 00:

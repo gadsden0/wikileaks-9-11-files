@@ -1,0 +1,122 @@
+2001-09-11 22:24:00 Skytel [0001269] B  ALPHA  ERT/MERT PAGER TEST ALL MEMBERS ON SITE CALL 6113 OR CALL IN ON RADIO
+2001-09-11 22:24:00 Skytel [007584756] B ST NUM  816-682-0247   
+2001-09-11 22:24:01 Skytel [007003021] D ST NUM  820-282-4135   
+2001-09-11 22:24:01 Skytel [002361863] B  ALPHA  PAGEING,1,Application TODI ERROR 1 0 4096 19:22  09/11/01
+2001-09-11 22:24:02 Arch [0987275] C  ALPHA  s0191: 09/11 12:44:46 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:44:47
+2001-09-11 22:24:02 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7873
+2001-09-11 22:24:02 Arch [0928260] B  ALPHA  I will see you tomorrow baby.  Sleep tight.  Sweet dreams Sparrow....
+2001-09-11 22:24:03 Skytel [007554713] C  ALPHA  gcthomas@us.ibm.com||NSALERT Init Pathmark  02375212  SEV: 2 Dur: 0 HR(s) SMRY: PSI Store 645 was down on NMC. Contacted Store support who verified that store was down, located in NY,  No response from store as of yet. ADVNETO will continue
+2001-09-11 22:24:04 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-11 22:24:05 Skytel [002161825] A ST NUM  313-819-2831   
+2001-09-11 22:24:05 Skytel [005374096] A ST NUM  817-246-9446   
+2001-09-11 22:24:05 Skytel [007040275] A  ALPHA  gcthomas@us.ibm.com||NSALERT Init Pathmark  02375212  SEV: 2 Dur: 0 HR(s) SMRY: PSI Store 645 was down on NMC. Contacted Store support who verified that store was down, located in NY,  No response from store as of yet. ADVNETO will continue
+2001-09-11 22:24:05 Skytel [007463184] A  ALPHA  ASM2K-NASD@nasd.com|CLTSEQP00|09/11-22:24 - FS: /usr/alexbkup is at 94%  
+2001-09-11 22:24:06 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-11 22:24:06 Skytel {1256298} 3 1200 514-830-1668   
+2001-09-11 22:24:08 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-11 22:24:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4443
+2001-09-11 22:24:17 Metrocall [002567097] C  ALPHA  Shelton Mem Dr: KFC DANVI WALK COOLER TOO HOT
+2001-09-11 22:24:17 Metrocall [0887313] A  ALPHA  Sub: Hurricane Probabilities Atlantic Frm: StormTrack7@wjhg.com Txt: @ 11 PM AST
+2001-09-11 22:24:19 Arch [0778584] C  ALPHA  NOC TKT at 10:24 PM EDT: TKT 36990 Transfer. - eos1526 has channels dying Assignee: - Group: vrupri [CC:vrupri] 
+2001-09-11 22:24:22 Skytel {0145297} 3 2400 877-206-0218   
+2001-09-11 22:24:23 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0796
+2001-09-11 22:24:23 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-11 22:24:23 Arch [0965263] D  ALPHA  jlintner|Urgent, Pls. call John Lintner asap at 201.459.6368. Thx.   
+2001-09-11 22:24:23 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 189885. 
+2001-09-11 22:24:24 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-11 22:24:26 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-11 22:24:28 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-11 22:24:29 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3052
+2001-09-11 22:24:29 Metrocall [1698287] D  ALPHA  COMMAND PAGE: PER SGT ISETT .. OFFICER WILLIAMS WITNESSED A DRUG BUY, OFFICERS ENGAGED IN PURSUIT .. VEH INTO FENCE 
+2001-09-11 22:24:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3052
+2001-09-11 22:24:30 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-11 22:24:30 Arch [0930273] A  ALPHA  9301
+2001-09-11 22:24:31 Skytel [005344006] B  ALPHA  Pls call DSAIC Ediger: 395-3935.
+2001-09-11 22:24:31 Skytel [005427975] B ST NUM  805-467-9884   
+2001-09-11 22:24:32 Metrocall [1698287] D  ALPHA  AT 305 WASHINGTON ST .. NO INJURIES AND TWO ACTORS IN CUSTODY .. [COMM / APGAR]
+2001-09-11 22:24:32 Skytel [007100687] D SH/TONE 644-0477
+2001-09-11 22:24:32 Skytel [005352717] D SH/TONE 3922    
+2001-09-11 22:24:32 Skytel [005507211] C  ALPHA  B
+2001-09-11 22:24:32 Skytel [005484045] D ST NUM  210-283-7180   
+2001-09-11 22:24:32 Skytel [004518796] D ST NUM  708-748-3574 (2563  
+2001-09-11 22:24:35 Skytel [004420257] A ST NUM  381-370-2562   
+2001-09-11 22:24:35 Skytel [007656487] B SH/TONE 915-8418
+2001-09-11 22:24:36 Arch [0033669] B  ALPHA  "WRAL.com"|Tropical Storm Felix Advisory Number 13 |At 11 pm ast, 0300z, the center of tropical storm felix was located near latitude 20.7 north, longitude 48.6 west. This position is far out over the central tropical atlantic ocean  -1/3
+2001-09-11 22:24:37 Skytel [003421489] A ST NUM  761-296-6451   
+2001-09-11 22:24:37 Skytel [003054910] D ST NUM  800-227-3030   
+2001-09-11 22:24:37 Skytel [002743861] B SH/TONE 49      
+2001-09-11 22:24:37 Skytel [007563063] B ST NUM  809-370-0165   
+2001-09-11 22:24:37 Skytel [003781306] C ST NUM  0-510-818-0184 
+2001-09-11 22:24:37 Skytel [002860083] A ST NUM  381-655-9023 U 
+2001-09-11 22:24:38 Arch [0600894] D  ALPHA  T1114 [CXNDB] Pager on CXNDB failed to send at least 1 pages in 00:10:00.
+2001-09-11 22:24:38 Arch [1000333] D  ALPHA  42-OXNARD TRANSMITTED AT 725 PM. JOE
+2001-09-11 22:24:38 Arch [0033669] B  ALPHA  about 880 miles, 1415 km, east-northeast of the northern leeward islands. Felix is moving toward the north northwest near 10 mph, 17 km/hr and a turn toward the north is expected during the next 24 hours. Maximum sustained winds are  -2/3
+2001-09-11 22:24:38 Arch [1657188] B  ALPHA  NCAGBRWS02:Device Inaccessible
+2001-09-11 22:24:38 Metrocall [1246346] C  ALPHA  5759963 3RD NOTICE: CALL MARK WILLIAMS, VP OF SALES, CELL PHONE 210-884-4430
+2001-09-11 22:24:39 Skytel [003467841] A ST NUM  714-478-2799 (18    
+2001-09-11 22:24:39 Skytel [003437765] B ST NUM  302-736-1214   
+2001-09-11 22:24:39 Skytel [007648455] B SH/TONE 249     
+2001-09-11 22:24:39 Skytel [005048779] C  ALPHA  gcthomas@us.ibm.com||NSALERT Init Pathmark  02375212  SEV: 2 Dur: 0 HR(s) SMRY: PSI Store 645 was down on NMC. Contacted Store support who verified that store was down, located in NY,  No response from store as of yet. ADVNETO will continue
+2001-09-11 22:24:39 Skytel [002153679] D SH/TONE 4048    
+2001-09-11 22:24:40 Arch [0033669] B  ALPHA  near 40 mph, 65 km/hr, with higher gusts. Some strengthening is forecast during the next 24 hours. Tropical storm force winds extend outward up to 175 miles 280 km from the c|640   -3/3
+2001-09-11 22:24:41 Arch [0909945] C  ALPHA  354
+2001-09-11 22:24:41 Skytel [005201494] B ST NUM  097-4197-4
+2001-09-11 22:24:41 Skytel [003519825] A SH/TONE 780-8621
+2001-09-11 22:24:41 Skytel [002863962] C ST NUM  808-568-8026   
+2001-09-11 22:24:41 Skytel [004434644] B SH/TONE 11      
+2001-09-11 22:24:41 Skytel [005412824] C ST NUM  08007598255    
+2001-09-11 22:24:41 Skytel [002553162] C SH/TONE 2       
+2001-09-11 22:24:41 Skytel [004426205] D SH/TONE 449-4667
+2001-09-11 22:24:43 Arch [0935581] D  ALPHA  01-PLEASE CALL RENE. 908-322-1520.
+2001-09-11 22:24:43 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-11 22:24:43 Skytel [005204451] A SH/TONE 383-2571
+2001-09-11 22:24:43 Skytel [002357089] A SH/TONE 2700    
+2001-09-11 22:24:43 Skytel [003932771] A ST NUM  808-931-1093   
+2001-09-11 22:24:43 Skytel [003857131] C ST NUM  800-227-3030   
+2001-09-11 22:24:43 Skytel [007637602] A ST NUM  8774168035
+2001-09-11 22:24:43 Skytel [007611236] B  ALPHA  508-496-3296.Fall River, MA      
+2001-09-11 22:24:43 Skytel [003446886] B ST NUM  880-071-3612-5 (78  
+2001-09-11 22:24:43 Skytel [004547038] D SH/TONE 800-7473
+2001-09-11 22:24:43 Skytel [0001383] B  ALPHA  ERT/MERT PAGER TEST ALL MEMBERS ON SITE CALL 6113 OR CALL IN ON RADIO
+2001-09-11 22:24:43 Skytel [005132640] A  ALPHA  gcthomas@us.ibm.com||NSALERT Init Pathmark  02375212  SEV: 2 Dur: 0 HR(s) SMRY: PSI Store 645 was down on NMC. Contacted Store support who verified that store was down, located in NY,  No response from store as of yet. ADVNETO will continue
+2001-09-11 22:24:45 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-11 22:24:45 Skytel [004750706] A ST NUM  707-774-4963 (80    
+2001-09-11 22:24:45 Skytel [002281456] A SH/TONE 1068    
+2001-09-11 22:24:45 Skytel [003448951] B ST NUM  730-736-2843   
+2001-09-11 22:24:45 Skytel [007109749] B ST NUM  812-454-1141-1 
+2001-09-11 22:24:45 Skytel [004541819] C  ALPHA  gcthomas@us.ibm.com||NSALERT Init Pathmark  02375212  SEV: 2 Dur: 0 HR(s) SMRY: PSI Store 645 was down on NMC. Contacted Store support who verified that store was down, located in NY,  No response from store as of yet. ADVNETO will continue
+2001-09-11 22:24:45 Skytel [003468286] D ST NUM  710-783-1577   
+2001-09-11 22:24:46 Skytel [002405255] B ST NUM  100000005 
+2001-09-11 22:24:46 Skytel [005087245] D ST NUM  395-7778 U
+2001-09-11 22:24:46 Skytel [002286474] C ST NUM  947-755-9079   
+2001-09-11 22:24:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 19:22:43 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 22:24:47 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-11 22:24:48 Skytel [005415696] A ST NUM  201-572-7636   
+2001-09-11 22:24:48 Skytel [003452432] A SH/TONE 3135    
+2001-09-11 22:24:48 Skytel [007457563] C SH/TONE 305-5650
+2001-09-11 22:24:48 Skytel [002353048] C  ALPHA  cmhcmr01: Bank One cmhcmr01 Host down: No response to ping twice  
+2001-09-11 22:24:48 Skytel [004677264] A  ALPHA  SSeer OK: SiteScope/Web Servers/BroadVision Login for Host2 Akamai Off/3678/12.81 sec, 10 steps, 67K total/
+2001-09-11 22:24:49 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-11 22:24:49 Metrocall [1704370] A  ALPHA  Frm: Valchacon@aol.com Sub: (no subject) Txt: David....Hello ...Where are you call home let me know DaD!!!
+2001-09-11 22:24:49 Metrocall [1786373] B  ALPHA  clock is off by - Txt: LHREXCHANGE Warning since 9/11/01 10:24 PM The clock is off by - 0:00:11.
+2001-09-11 22:24:49 Metrocall [0643730] A  ALPHA  TODY .. [COMM / APGAR]
+2001-09-11 22:24:49 Metrocall [1224106] C  ALPHA  Job # 599 NCM-OAKLAND LS: ECON   Rdy: 1928 Exdl: 0028 P/U:VALLEJO/ 00 VALLEJO D/L:NCM OFF OAKLAND Wt:    0 Caller: ARMANDO Ref: TRIPLICATES/P/U
+2001-09-11 22:24:49 Metrocall [1698282] C  ALPHA  COMMAND PAGE: PER SGT ISETT .. OFFICER WILLIAMS WITNESSED A DRUG BUY, OFFICERS ENGAGED
+2001-09-11 22:24:50 Skytel [002739106] A ST NUM  6137247189
+2001-09-11 22:24:50 Skytel [003471777] A SH/TONE 0000    
+2001-09-11 22:24:50 Skytel [005001895] B  ALPHA  [sps/55] 104 supplier.intel.com relay-ssl 0.0 FAILURE Server closedconnection immediately. (/ifm/healthcheck.asp) 2:08:29
+2001-09-11 22:24:51 Metrocall [1698282] C  ALPHA   IN PURSUIT .. VEH INTO FENCE AT 305 WASHINGTON ST .. NO INJURIES AND TWO ACTORS IN CUSTODY .. [COMM / APGAR]
+2001-09-11 22:24:52 Skytel [002402363] C  ALPHA  SSeer OK: SiteScope/Web Servers/BroadVision Login for Host2 Akamai Off/3678/12.81 sec, 10 steps, 67K total/
+2001-09-11 22:24:52 Skytel [005360432] A  ALPHA  CALL 516-771-4907. -MICHELLE
+2001-09-11 22:24:54 Arch [1641901] D  ALPHA  Please call OCC ASAP concerning VPN access issue, 973-716-5051.   
+2001-09-11 22:24:54 Arch [0938387] A  ALPHA  Please call OCC ASAP concerning VPN access issue, 973-716-5051.   
+2001-09-11 22:24:54 Skytel [002281409] A ST NUM  9003867407
+2001-09-11 22:24:54 Skytel [005004865] A  ALPHA  SSeer OK: SiteScope/Web Servers/BroadVision Login for Host2 Akamai Off/3678/12.81 sec, 10 steps, 67K total/
+2001-09-11 22:24:54 Skytel [003916993] A  ALPHA  TRAMSDEN@cablevision.com|Oakland|09/11  OAK   9PM   ASA   :06   
+2001-09-11 22:24:56 Skytel [004107867] C SH/TONE 88888   
+2001-09-11 22:24:57 Metrocall [0923865] C  ALPHA  SEV:1 RESTORE:GA IDXRad Trans Reports Down -Attachmate Problem?*LOC:ROC Georgia*STATUS:Service has been restored *END:18:58 PT*DURATION:Hrs: 10 Min: 38*PM:1247017
+2001-09-11 22:24:58 Skytel [005436525] D  ALPHA  Test Message #48-IX_T0109
+2001-09-11 22:24:58 Skytel [004743012] B ST NUM  702-276-7226   
+2001-09-11 22:24:58 Skytel [005366894] D ST NUM  917-271-1792   
+2001-09-11 22:24:58 Skytel [007462895] D SH/TONE 437-0937
+2001-09-11 22:24:59 Metrocall [1544357] B  ALPHA  Frm: BMC Patrol Txt: orip1 Alarm #2 of 'global' parameter 'OverdueJobs' triggered on ORACLE_JOBS.nnp1. 1 <= 1.00 <= 100

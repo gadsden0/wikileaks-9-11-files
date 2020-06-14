@@ -1,0 +1,74 @@
+2001-09-12 01:08:00 Metrocall [0643730] A  ALPHA  COMMAND PAGE: PER SGT CONWAY .. APD CAR 12 WAS INVOLVED IN A MINOR TRAFFIC ACCIDENT IN THE 100BLK S 9TH ST .. [COMM / APGAR]
+2001-09-12 01:08:00 Metrocall [1698282] C  ALPHA  COMMAND PAGE: PER SGT CONWAY .. APD CAR 12 WAS INVOLVED IN A MINOR TRAFFIC ACCIDENT IN THE 100BLK S 9TH 
+2001-09-12 01:08:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4607
+2001-09-12 01:08:00 Skytel [003932285] D SH/TONE 3018 U  
+2001-09-12 01:08:00 Skytel [002154487] B SH/TONE 6360    
+2001-09-12 01:08:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8037
+2001-09-12 01:08:01 Arch [0987275] C  ALPHA  s0191: 09/11 15:56:49 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:56:49
+2001-09-12 01:08:03 Arch [0987275] C  ALPHA  s0191: 09/11 16:02:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 16:02:48
+2001-09-12 01:08:03 Arch [0926604] D  ALPHA  NM CALLING - Compaq Environmental failure HealthStatFSM occurred on MRDAP10
+2001-09-12 01:08:05 Skytel [005384363] C  ALPHA  applmgr@hp05fat.finance.sel.sony.com|   SMOESOPG in PROD on 12-SEP-2001|Orders Transmitted: INTEK 2, WO Opened: 3 WO Completed: 0 Pick Released: 37 Deliveries Sent to DMPLUS: 3P1 35, Delivery Status: 3P1 CL 221, Invoices: CNT 0, AMT  
+2001-09-12 01:08:06 Metrocall [1698282] C  ALPHA  ST .. [COMM / APGAR]
+2001-09-12 01:08:06 Skytel {0446761} 3 1200 408-219-1521  4
+2001-09-12 01:08:07 Skytel {1092655} 3 2400 002621    
+2001-09-12 01:08:10 Arch [0000101] B  ALPHA  MSN 048 hello Message from NOC PCB.
+2001-09-12 01:08:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0960
+2001-09-12 01:08:23 Arch [1080385] A  ALPHA  Please call the OCC at 888-878-1904 ASAP as per Joel   
+2001-09-12 01:08:29 Metrocall [1064384] A  ALPHA  Y/C  72.53/63   +81 SGD 1.7370/385 +010 HKD 7.7987/998 -007 TWD 34400/4500 -220  IDR  9060/9110 -025 PHP 51.140/240 -060 MYR 3.7995/005 +000 THB 44.400/500 +100 KRW12860/12960 +060 ZAR 8.5900/000 -100 MXN  9.510/530 +116 BRR 26600/6620 +065
+2001-09-12 01:08:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3216
+2001-09-12 01:08:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3216
+2001-09-12 01:08:31 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191733. 
+2001-09-12 01:08:31 Arch [1207071] D  ALPHA  11-PLEASE CALL TOM, URGENT. 212-899-1021.
+2001-09-12 01:08:31 Arch [0987275] C  ALPHA  s0191: 09/11 11:42:59 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:42:59
+2001-09-12 01:08:31 Arch [1050542] D  ALPHA  Server MP240-Mail02 Lotus Notes SVCDOWN at 22:03:44
+2001-09-12 01:08:33 Arch [1207071] D  ALPHA  12-PLEASE CALL TOM, URGENT. 212-899-1021.
+2001-09-12 01:08:33 Arch [0987275] C  ALPHA  s0191: 09/11 11:48:17 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:48:18
+2001-09-12 01:08:33 Arch [1046295] B  ALPHA  |ILS: Notes #B828481 for LOCKHEED MARTIN SERVICES, contract 1084099, P1 |This is an ILS summary notification for case B828481 Event: Notes #B828481, Priority 1 Event Time: 11 September 2001 22:09:02 Title: 9/11:US WORLD ATTACK PARTS  -1/3
+2001-09-12 01:08:33 Skytel [003925524] B  ALPHA  opr@intrdp02.abn.com|Accounting Run Update|The update section for .prd is starting...  
+2001-09-12 01:08:33 Skytel [007487892] B ST NUM  643-940-1737-7 
+2001-09-12 01:08:35 Arch [1207071] D  ALPHA  13-PLEASE CALL TOM, URGENT. 212-899-1021.
+2001-09-12 01:08:35 Arch [1046295] B  ALPHA  REQUEST Site: LOCKHEED MARTIN SERVICES * Contact: RANDY WOOD * Phone/Email: 703 484 5619 / rwoodiii@cisco.com * Contract: 1084099 Case Owner: SSEGAL @ 14085265744 ILS Subscription Information: * Subscriber: rosummey@cisco.com (Contact  -2/3
+2001-09-12 01:08:35 Skytel [005001895] B  ALPHA  [sps/55] 200 supplier.intel.com relay-ssl 0.486 Application is okay(/ifm/healthcheck.asp) 2:43:25
+2001-09-12 01:08:35 Skytel [005507886] D  ALPHA  Test message
+2001-09-12 01:08:35 Skytel [005307435] C SH/TONE 677-6510
+2001-09-12 01:08:37 Arch [1046295] B  ALPHA  this person to unsubscribe.) * ILS Event: Update * Conditions: Contract ID: 1084099 * Recipients: rosummey@epage.cisco.com * Send e-mails Always * Expires Never * Time Sent|640   -3/3
+2001-09-12 01:08:37 Arch [0529963] C  ALPHA  whatsup@warren.k|Server MSDWT_LO DOWN at 00:07:10|Server MSDWT_LO DOWN at 00:07:10 Address: 10.77.254.254 Info 1: Info 2: Date: 09/12/01 Status: Timed Out ( 11010) Svcs: Notes: 
+2001-09-12 01:08:37 Arch [0900779] C  ALPHA   Sub:WTC UPDATE #12d  Msg:      WTC UPDATE #12d BEGINS AT midnight (12:00am) ON WED SEP 12, 2001           <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />         1a      
+2001-09-12 01:08:37 Skytel [003954236] D  ALPHA  root@sp0809.idc.ikon.org|"National Lockbox Message"|Nightly LB reports for TLD are present.  
+2001-09-12 01:08:37 Skytel [004752573] D SH/TONE 07839   
+2001-09-12 01:08:39 Arch [1046295] B  ALPHA  |ILS: Notes #B828481 for LOCKHEED MARTIN SERVICES, contract 1084099, P1 |This is an ILS summary notification for case B828481 Event: Notes #B828481, Priority 1 Event Time: 11 September 2001 22:09:03 Title: 9/11:US WORLD ATTACK PARTS  -1/3
+2001-09-12 01:08:39 Skytel [005342794] C ST NUM  872-344-5043   
+2001-09-12 01:08:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:08:41 Skytel [004436305] A SH/TONE 3530    
+2001-09-12 01:08:41 Skytel [005254108] D  ALPHA  root@sp0809.idc.ikon.org|"National Lockbox Message"|Nightly LB reports for TLD are present.  
+2001-09-12 01:08:41 Skytel [007579357] D SH/TONE 55555   
+2001-09-12 01:08:42 Arch [0942635] C  ALPHA  tony.missana@eds|% Memory Used service on Louisville BDC 1 is OK received Physical memory ok - 96.4 MB (75%) of 127.4 MB used 
+2001-09-12 01:08:42 Arch [0949822] D  ALPHA  tony.missana@eds|% Memory Used service on Louisville BDC 1 is OK received Physical memory ok - 96.4 MB (75%) of 127.4 MB used 
+2001-09-12 01:08:42 Arch [0977173] B  ALPHA  LIVE CALL FROM:  9726179612
+2001-09-12 01:08:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #60-IX_T1706
+2001-09-12 01:08:43 Skytel [005042788] B  ALPHA  HAPPENED TODAY
+2001-09-12 01:08:43 Skytel [007553888] A  ALPHA  896-6731No Answer Southfield Backup 248-552
+2001-09-12 01:08:44 Arch [1006513] A  ALPHA  725-8885
+2001-09-12 01:08:45 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2481..
+2001-09-12 01:08:45 Skytel [002264307] A SH/TONE 6801    
+2001-09-12 01:08:45 Skytel [007584756] B ST NUM  816-564-8836   
+2001-09-12 01:08:45 Skytel [005169641] C SH/TONE 292     
+2001-09-12 01:08:46 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2481..
+2001-09-12 01:08:47 Skytel [0001028] B  ALPHA  SPORTS BRIEFS: In wake of attack, baseball, others cancel Tuesday slate. Three seeds fall at President's cup in Tashkent tennis. Pavel, Portas advance to second round at Gelsor Open tennis. No. 1 Kuerten ousted from Brazil Open. Attacks can
+2001-09-12 01:08:48 Skytel [007465749] B ST NUM  872-395-3575   
+2001-09-12 01:08:50 Skytel [007109281] A SH/TONE 436-8846
+2001-09-12 01:08:50 Skytel [002280864] A ST NUM  313-386-0293   
+2001-09-12 01:08:51 Metrocall [002589854] D  ALPHA  Frm: sms_alarm@hsmtmr01.entp.attws.com Txt: MF31 not connected to Mainframe application.(swmgr_we)--Sep 11, 2001 22:08
+2001-09-12 01:08:52 Arch [0987275] C  ALPHA  s0191: 09/11 11:56:22 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:56:22
+2001-09-12 01:08:52 Skytel [005208500] B  ALPHA  mike please call the service center 212 325 1000 sun is on the line wants to talk to you
+2001-09-12 01:08:54 Arch [0987275] C  ALPHA  s0191: 09/11 11:59:03 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:59:03
+2001-09-12 01:08:54 Skytel [005067339] C  ALPHA  09/12/01 00:05 SYSF IOS003A DRIVE 0E35 NOT READY/OFFLINE
+2001-09-12 01:08:55 Arch [0987275] C  ALPHA  s0191: 09/11 12:04:03 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:04:03
+2001-09-12 01:08:56 Skytel [007659868] D ST NUM  788-361-5911-911    
+2001-09-12 01:08:57 Arch [1009091] A  ALPHA  OPSS FOR SSYS IS NOT ACTIVE
+2001-09-12 01:08:57 Arch [0987275] C  ALPHA  s0191: 09/11 12:12:06 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:12:07
+2001-09-12 01:08:57 Arch [1657188] B  ALPHA  NCAGBRGQ01:Device Accessible,Device Status:Ok
+2001-09-12 01:08:58 Skytel [002558574] D SH/TONE 1078    
+2001-09-12 01:08:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8038
+2001-09-12 01:08:59 Arch [0987275] C  ALPHA  s0191: 09/11 12:14:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:14:49
+2001-09-12 01:08:59 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4608

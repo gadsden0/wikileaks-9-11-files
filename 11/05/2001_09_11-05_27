@@ -1,0 +1,51 @@
+2001-09-11 05:27:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2034
+2001-09-11 05:27:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2034
+2001-09-11 05:27:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6856
+2001-09-11 05:27:04 Arch [1275092] B  ALPHA  ID: 215391 Host: I01543-prt1 Text: DTA005 138  
+2001-09-11 05:27:04 Arch [0903170] A  ALPHA  570 341-6159
+2001-09-11 05:27:04 Arch [0942895] D  ALPHA  Production Pipel|Trace processing run summary for|End of Trace processing run report for 2001-09-10 at Tue Sep 11 03:45:36 EDT 2001 23187 Trace files were processed Project entries delivered today 19866874671980 NIH_RAT 6634 19866878267870 M
+2001-09-11 05:27:06 Arch [1275092] B  ALPHA  ID: 215392 Host: I01543-prt1 Text: DTA005 109  
+2001-09-11 05:27:07 Skytel [0000060] D  ALPHA  DELAY CODE:  +8MS
+2001-09-11 05:27:08 Arch [0944991] D  ALPHA  PAGE FROM lifeline:  alert 8931483 AMDB_CR dba nyampsyb01.gsam.gs.com AM_CLRPT_PRD2 nyampsyb01.gsam.gs.com_DBA (AM_CLRPT_PRD2): ERROR: Load database AM_CLRPT_PRD2.am_clrpt failed, aborting 
+2001-09-11 05:27:09 Metrocall [0848090] C  ALPHA  F:fvs S:Servers Alive keep alive mail (DSFVS) M:Servers Alive keep alive mail (D
+2001-09-11 05:27:11 Metrocall [1064381] D  ALPHA  CRUDE CONTRACT PRICES (UPDATES BRUNEI)
+2001-09-11 05:27:12 Skytel [005436525] D  ALPHA  Test Message #50-IX_T0112
+2001-09-11 05:27:12 Skytel [004682599] B  ALPHA  mbcopeland@fedex.com|flt 1580 tail swap to N242FE at gate 122  
+2001-09-11 05:27:12 Skytel [004524770] A  ALPHA  wil-Agrimark-MontpelierVT-02: CPE Up at 00:58:19 on 9/11
+2001-09-11 05:27:12 Skytel [005112809] C  ALPHA  04:26CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240384: Uncorrectable write error
+2001-09-11 05:27:12 Skytel [005203941] B  ALPHA  0575*Host business.cch.com HTTP Content Scan DOWN at 04:25:13  
+2001-09-11 05:27:14 Skytel [007530741] B  ALPHA  09 LEE CHRYSTAL        
+2001-09-11 05:27:20 Skytel [002405037] D  ALPHA  nms@svcanms.conxion.com|Sep11-02:27|All RED alarms have cleared  
+2001-09-11 05:27:22 Skytel [007518523] C  ALPHA  Classmates.com@opt39.opt-in-net.net|Find Your Old Friends On The Net!|<html> <table width=100%> <tr>
+2001-09-11 05:27:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9779
+2001-09-11 05:27:30 Arch [0910057] C  ALPHA  pc999bot1: pc999bot1@PC999.hunterdonhealthcare.org 192.168.27.1 is down! -Contact HMC Immediately
+2001-09-11 05:27:31 Metrocall [0643797] B  ALPHA  Frm: Sitescope@freshwater.com Txt: Member Information Lookup content match error on step 2, http://mil/cgi-bin/mil
+2001-09-11 05:27:31 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE Tray Metrics Down   Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[000]  de
+2001-09-11 05:27:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3427
+2001-09-11 05:27:31 Metrocall [1412546] A  ALPHA  PAGE FROM operator: Critical:eqcctk01a docAutofiled.ex process stopped(eqcctk01a).
+2001-09-11 05:27:31 Skytel [003928591] D SH/TONE 1       
+2001-09-11 05:27:33 Metrocall [1222396] D  ALPHA  v_err[239]
+2001-09-11 05:27:33 Skytel [007575575] B  ALPHA  [MINOR] dijon: File-system "/biller/wnet/data/parser" is now 86% full.
+2001-09-11 05:27:38 Skytel [002851148] D  ALPHA  adhoc f1580 mem/ewr sta 09:30am has 2 pos ewr. 2 1/2 pos jfk...1 pos swf-ewr control room (31
+2001-09-11 05:27:38 Skytel [002401096] C  ALPHA  adhoc f1580 mem/ewr sta 09:30am has 2 pos ewr. 2 1/2 pos jfk...1 pos swf-ewr control room
+2001-09-11 05:27:40 Skytel [005213906] A  ALPHA  1199
+2001-09-11 05:27:42 Skytel [002813792] A  ALPHA  adhoc f1580 mem/ewr sta 09:30am has 2 pos ewr. 2 1/2 pos jfk...1 pos swf-ewr control room
+2001-09-11 05:27:44 Skytel [002406520] C  ALPHA  adhoc f1580 mem/ewr sta 09:30am has 2 pos ewr. 2 1/2 pos jfk...1 pos swf-ewr control room
+2001-09-11 05:27:46 Skytel [005176333] D SH/TONE 9323    
+2001-09-11 05:27:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178407. 
+2001-09-11 05:27:48 Skytel [003477655] B SH/TONE 101     
+2001-09-11 05:27:48 Skytel [005420828] D ST NUM  910-530-9446 (28    
+2001-09-11 05:27:50 Skytel [002279468] D ST NUM  918-435-5599   
+2001-09-11 05:27:57 Arch [1666850] A  ALPHA  3196
+2001-09-11 05:27:57 Arch [0634239] D  ALPHA  0042*NETLOGGER: IPRED message: Sep 11 02:21:22 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:27:57 Arch [0986081] A  ALPHA  0042*NETLOGGER: IPRED message: Sep 11 02:21:22 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:27:57 Arch [1654898] A  ALPHA  netsaint <netsai|** PROBLEM: alert - SnappsMain/C|*** Server Alert *** Alert Type: PROBLEM Service: CheckHTTP Host: Snapps
+2001-09-11 05:27:57 Arch [0810070] B  ALPHA  0042*NETLOGGER: IPRED message: Sep 11 02:21:22 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:27:57 Arch [1427708] D  ALPHA  netsaint <netsai|** PROBLEM: alert - SnappsMain/C|*** Server Alert *** Alert Type: PROBLEM Service: CheckHTTP Host: Snapps
+2001-09-11 05:27:57 Arch [1079409] A  ALPHA  0042*NETLOGGER: IPRED message: Sep 11 02:21:22 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:27:57 Arch [0000101] B  ALPHA  MSN 119 hello Message from NOC PCB.
+2001-09-11 05:27:58 Arch [0986081] A  ALPHA  2960*NETLOGGER: IPRED message: Sep 11 02:21:27 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:27:58 Arch [1654898] A  ALPHA  Main Address: 209.15.192.200 State: CRITICAL Date/Time: Tue Sept 11 05:29:17 EDT 2001 Additional Info: Connection refu
+2001-09-11 05:27:58 Arch [1079409] A  ALPHA  2960*NETLOGGER: IPRED message: Sep 11 02:21:27 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:27:58 Arch [1427708] D  ALPHA  Main Address: 209.15.192.200 State: CRITICAL Date/Time: Tue Sept 11 05:29:17 EDT 2001 Additional Info: Connection refu
+2001-09-11 05:27:58 Arch [0810070] B  ALPHA  2960*NETLOGGER: IPRED message: Sep 11 02:21:27 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7

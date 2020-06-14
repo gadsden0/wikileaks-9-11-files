@@ -1,0 +1,67 @@
+2001-09-11 04:30:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1977
+2001-09-11 04:30:00 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 148W MAJ=NONE
+2001-09-11 04:30:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1977
+2001-09-11 04:30:01 Arch [1005985] A  ALPHA  --- Equipment ID [0441 ] status change - interference Equipment ID [0441 ] Event
+2001-09-11 04:30:01 Skytel [003947407] D  ALPHA  NIMS01:Device Accessible,Device Status:Ok
+2001-09-11 04:30:01 Skytel [007523084] D SH/TONE 223-6772
+2001-09-11 04:30:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6799
+2001-09-11 04:30:04 Skytel {1345281} 1 1200 Home Depot Selects Ariba to Manage Corporate Spend[DJ NEWS].
+2001-09-11 04:30:08 Arch [0870953] C  ALPHA  |Check Do_cycle .... Jeff  
+2001-09-11 04:30:09 Metrocall [002119022] D  ALPHA  Frm: impsystem@attws.com Sub: TT677157 - 1 Txt: WNCC lost visibility to Seattle 3G MSC,SGSN, and SIG boxes.
+2001-09-11 04:30:09 Metrocall [002589261] D  ALPHA  Frm: impsystem@attws.com Sub: TT677157 - 1 Txt: WNCC lost visibility to Seattle 3G MSC,SGSN, and SIG boxes.
+2001-09-11 04:30:09 Metrocall [1587414] B  ALPHA  MESSAGE WAI
+2001-09-11 04:30:11 Metrocall [1587414] B  ALPHA  TING355-0346
+2001-09-11 04:30:14 Arch [1355675] C  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 04:30:14 Arch [1423082] C  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 04:30:14 Arch [0967052] D  ALPHA  84-PLEASE CALL DOMINIC. PRIMARY SUPPORT. 201-796-3769.
+2001-09-11 04:30:14 Arch [1080366] D  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 04:30:17 Arch [1426437] B  ALPHA  sybase@jpmorgan.|SAMSON: Error Detected|sybamsol has blocked processes [Tue Sep 11 04:29:43 EDT 2001] 
+2001-09-11 04:30:17 Arch [0949108] B  ALPHA  sybase@jpmorgan.|SAMSON: Error Detected|sybamsol has blocked processes [Tue Sep 11 04:29:43 EDT 2001] 
+2001-09-11 04:30:17 Arch [0281611] C  ALPHA  sybase@jpmorgan.|SAMSON: Error Detected|sybamsol has blocked processes [Tue Sep 11 04:29:43 EDT 2001] 
+2001-09-11 04:30:18 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177798. 
+2001-09-11 04:30:18 Metrocall [1652163] A  ALPHA  Frm: Intellicast Daily Email Planner Sub: Intellicast.com Daily Weather Planner for Tuesday, September 11, 2001 Txt: ==================== ..Intellicast.com Daily Weather Planner ..Tuesday, September 1
+2001-09-11 04:30:18 Metrocall [1104994] A  ALPHA  Frm: jmizzi@bidcom.com Sub: E
+2001-09-11 04:30:18 Metrocall [1064379] C  ALPHA   MALAYSIA'S TIN EXTENDS LOSSES, IGNORES LME
+2001-09-11 04:30:20 Metrocall [1104994] A  ALPHA  xcess Oracle processes in Production - 404 Txt: Total no. of processes : 404
+2001-09-11 04:30:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9722
+2001-09-11 04:30:27 Arch [0975674] C  ALPHA  379-5502
+2001-09-11 04:30:31 Metrocall [002588047] D  ALPHA  Frm: Muralidhar Devarakonda Sub: server status Txt: Machine 30kcerent1.nsf.att.com not up on Tue Sep 11 04:16:00 2001. status 256.Machine 30kcerent2.nsf.att.com not up on Tue Sep 11 04:16:00 2001 status 256.Machine mtcerent3.nsf.att.com not up on T
+2001-09-11 04:30:32 Metrocall [002680232] C  ALPHA  Frm: impsystem@attws.com Sub: TT677157 - 1 Txt: WNCC lost visibility to Seattle 3G MSC,SGSN, and SIG boxes.
+2001-09-11 04:30:32 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3370
+2001-09-11 04:30:33 Arch [0282429] D  ALPHA  PCSTECH <compops|.. GERMANY SITE UNABLE TO ACCESS OPTION 2 IN CP08 DUE TO CP08020 IN PROCESS- ING STATUS. OPS RESET STATUS AS PER PC AND CICS TO CLEAR PROBLEM AT_4:10. 
+2001-09-11 04:30:33 Metrocall [002588047] D  ALPHA  ue Sep 11 04:16:00 2001 status 2
+2001-09-11 04:30:33 Skytel [005206684] D  ALPHA  MSFT 57.58 +2.18 ICOR 0.00 UNCH IBM 96.47 -0.12 AOL 34.41 +2.13
+2001-09-11 04:30:33 Skytel [004679824] A  ALPHA   File GPPRICPM not transfered.
+2001-09-11 04:30:35 Skytel [007556385] A  ALPHA  PIR 10.00 -0.05 ZQK 15.92 +0.02 AEOS 21.50 -0.74 THC 56.77 -1.21
+2001-09-11 04:30:35 Skytel [005240623] D  ALPHA   UP (SS) France Firewall (basilisk-fr) 0.28 sec
+2001-09-11 04:30:35 Skytel [007640234] C SH/TONE 878-4999
+2001-09-11 04:30:35 Skytel [005244073] C ST NUM  071-947-9075   
+2001-09-11 04:30:35 Skytel [002370091] C ST NUM  0-877-366-3236 
+2001-09-11 04:30:37 Skytel [003329328] A  ALPHA  MSFT 56.82 +1.42 SUNW 10.46 -0.13 CSCO 14.43 +0.07 IBM 96.25 -0.34 (36
+2001-09-11 04:30:37 Skytel [005112125] D  ALPHA  MSFT 57.58 +2.18 CBR 5.80 -0.09 BEAS 13.97 +0.31
+2001-09-11 04:30:37 Skytel [005228862] D SH/TONE 2002    
+2001-09-11 04:30:38 Skytel [005048779] C  ALPHA  reharris@us.ibm.com||NSALERT2 Init Pathmark 2374508 SEV: 2 Dur: 5.7 HR(s) SMRY:  Robbie E Harris Pathmark Store 535 is showing down in Netview.  Contacting AT&T to investigate the circuit.  Updates to follow.  
+2001-09-11 04:30:40 Skytel [003944538] C  ALPHA  Alert Number: 1546211 - MVSISGA - Call 3790 Say CMB206I NO LINES AVAILABLE NA NA NA NA
+2001-09-11 04:30:40 Skytel [003050969] C SH/TONE         
+2001-09-11 04:30:42 Skytel [007650016] A SH/TONE 222     
+2001-09-11 04:30:42 Skytel [005132640] A  ALPHA  7) reharris@us.ibm.com||NSALERT2 Init Pathmark 2374508 SEV: 2 Dur: 5.7 HR(s) SMRY:  Robbie E Harris Pathmark Store 535 is showing down in Netview.  Contacting AT&T to investigate the circuit.  Updates to follow.  
+2001-09-11 04:30:42 Skytel [005436525] D  ALPHA  Test #93
+2001-09-11 04:30:42 Skytel [004524770] A  ALPHA  wor-TurnerConstruction-HudsonMA-: CPE Up at 00:58:29 on 9/11
+2001-09-11 04:30:42 Skytel [005112809] C  ALPHA  03:26CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240400: Uncorrectable write error
+2001-09-11 04:30:44 Skytel [003954036] B  ALPHA  NIMS01:Device Inaccessible
+2001-09-11 04:30:44 Skytel [007109749] B ST NUM  347-6770-64    
+2001-09-11 04:30:44 Skytel [007541750] B SH/TONE 1403    
+2001-09-11 04:30:44 Skytel [004701816] C SH/TONE 757-6006
+2001-09-11 04:30:44 Skytel [005201395] A  ALPHA  Tessy422@hotmail.com|--> A  Vacation on us! |You have been specially selected to qualify for the following:  Premium Vacation Package and Pentium PC Giveaway To review the details of the please click on the link  with the confirmation n
+2001-09-11 04:30:44 Skytel [003857140] B  ALPHA  PLEASE CALL DEAN 310-396-1167.
+2001-09-11 04:30:46 Arch [1060702] D  ALPHA  root: Ocala A96/A13/A86 001DE1 AL Link receive failure 09-11-01 08:24:45
+2001-09-11 04:30:46 Skytel [005201395] A  ALPHA  umbe
+2001-09-11 04:30:47 Metrocall {1175634} 2 2400 711..
+2001-09-11 04:30:50 Skytel [009993376] A ST NUM  730-224-4672-1111   
+2001-09-11 04:30:51 Arch [0922767] D  ALPHA  <GSKE-Commerce@g|Production RunwayCleanup|The job has finished.Job Status Summary: OK= 3 Exceptions= 0 
+2001-09-11 04:30:51 Skytel [005068982] B  ALPHA  CDNOW#2.2155.13--8BWsBVI8ScC.1@cda01.cdnow.com|Final Notice About Your FFWD Rewards Membership|Dear Joretha,  This email serves as your final notice that CDNOW's Fast Forward Rewards=99=  Program will end on September 30, 2001 at 11:59 p.m.
+2001-09-11 04:30:51 Skytel [007591738] C SH/TONE 28529   
+2001-09-11 04:30:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1243..
+2001-09-11 04:30:53 Skytel [007488206] D SH/TONE 577-5000
+2001-09-11 04:30:57 Skytel [005330530] A ST NUM  8685222010
+2001-09-11 04:30:59 Skytel [007606522] C ST NUM  614-381-9387   

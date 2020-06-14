@@ -1,0 +1,51 @@
+2001-09-11 03:59:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1946
+2001-09-11 03:59:00 Metrocall [1580909] D  ALPHA  EMAIL Super-User  Output from "cron" command Your "cron" job on cxl1 /usr/cellular/utility/killold.job  produced the following output:  sh: /Qr/g..u(.r/.ti.i4./{......................
+2001-09-11 03:59:00 Metrocall [0000329] C  ALPHA  ................................................
+2001-09-11 03:59:01 Metrocall [0000329] C  ALPHA   1946
+2001-09-11 03:59:01 Skytel [005091215] D  ALPHA  wn@solutions.att.com|Tkt#0570912-CITICORP|MEXMONT-01-CU-DL3800-E1 up after manual restore-monitoring-GCSC 9194741488  
+2001-09-11 03:59:01 Skytel [007469966] D ST NUM  210-688-6881   
+2001-09-11 03:59:03 Skytel [007112724] B ST NUM  796969 (1712   
+2001-09-11 03:59:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6768
+2001-09-11 03:59:05 Arch [0915934] D  ALPHA  |Case in SPSG-WW |P3 *ANS*(B-ag2) We need a new VIP and PA - Card (Hardware::Hardware failure, Need R from 03:58|112  
+2001-09-11 03:59:05 Skytel {1092655} 3 2400 002198    
+2001-09-11 03:59:18 Metrocall [002589620] B  ALPHA  Frm: wn@solutions.att.com Sub: Tkt#0570912-CITICORP Txt: MEXMONT-01-CU-DL3800-E1 up after manual restore-monitoring-GCSC 9194741488
+2001-09-11 03:59:18 Metrocall [002589558] B  ALPHA  Frm: wn@solutions.att.com Sub: Tkt#0570912-CITICORP Txt: MEXMONT-01-CU-DL3800-E1 up after manual restore
+2001-09-11 03:59:20 Metrocall [002589558] B  ALPHA  -monitoring-GCSC 9194741488
+2001-09-11 03:59:25 Arch [1060702] D  ALPHA  root: Ocala A58 001DE0 AL Link receive failure 09-11-01 07:54:22
+2001-09-11 03:59:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9691
+2001-09-11 03:59:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177458. 
+2001-09-11 03:59:27 Arch [100158551] B  ALPHA  netsaint@IS2Web.|NetSaint alert for PGH11|PGH11 is down 
+2001-09-11 03:59:27 Arch [0980998] B  ALPHA  netsaint@IS2Web.|NetSaint alert for PGH11(PGH11 a|After tries PGH11(PGH11 at AC4) is in a state, command returned: PING CRITICAL - Packet loss = 0%, RTA = 274.20 ms
+2001-09-11 03:59:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3339
+2001-09-11 03:59:31 Arch [1612111] D  ALPHA  monitor@ccbill.c|EPX PROBLEM WITH front4c.ccbill.|ALERT: No Connection to EPX port Tue Sep 11 00:57:34 MST 2001 
+2001-09-11 03:59:33 Arch [1612111] D  ALPHA  monitor@ccbill.c|SELECTCHECK PROBLEM WITH front4c|ALERT: No Connection to Selectcheck port 443 Tue Sep 11 00:57:34 MST 2001 
+2001-09-11 03:59:35 Arch [1612111] D  ALPHA  Oh-Shit@ccbill.c|Subject: Server Problem 1:1:246/200:0.06:0.06:0.02 ALERT Last Sale 246 (20:11) http://64.38.240.102/system/stat.cgi 
+2001-09-11 03:59:36 Skytel [007559861] B SH/TONE 000411  
+2001-09-11 03:59:38 Skytel [004540235] C  ALPHA  09/11/2001 03:58:27 am: SPSMLN01 changed to Ok.
+2001-09-11 03:59:38 Skytel [003904970] C  ALPHA  Venezuela Regulator: 5 More Days For AES/CANTV Decision[DJ NEWS]
+2001-09-11 03:59:38 Skytel [007584589] D ST NUM  564-838-5911-911    
+2001-09-11 03:59:40 Skytel [007557466] C SH/TONE 654-5961
+2001-09-11 03:59:40 Skytel [003470812] D ST NUM  900-826-5348   
+2001-09-11 03:59:42 Arch [0986678] B  ALPHA  MSN <alert@msn.c|Hotmail urnew_merchant117@customernotes.:Start Accepting Credit Cards NOW!! 
+2001-09-11 03:59:42 Skytel [005436525] D  ALPHA  Test #12
+2001-09-11 03:59:42 Skytel [004524770] A  ALPHA  wor-EastCareAmbulance-WorcesterM: CPE Up at 00:57:57 on 9/11
+2001-09-11 03:59:42 Skytel [005112809] C  ALPHA  02:55CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240400: Uncorrectable write error
+2001-09-11 03:59:44 Skytel [002812402] A  ALPHA  wn@solutions.att.com|Tkt#0570912-CITICORP|MEXMONT-01-CU-DL3800-E1 up after manual restore-monitoring-GCSC 9194741488  
+2001-09-11 03:59:44 Skytel [003779836] D  ALPHA    SiteScope/Databases - Sacramento/Colusa - Disk Space on D Drive/67480/no data/
+2001-09-11 03:59:46 Arch [1276070] B  ALPHA  netsaint@IS2Web.|NetSaint alert for PGH11|PGH11 is down
+2001-09-11 03:59:46 Skytel [005524994] A SH/TONE 1       
+2001-09-11 03:59:48 Metrocall [1064378] C  ALPHA  SHARP INCREASE IN MONEY SUPPLY AN INFLATION RISK FACTOR -CBANK  AUG 30 BOARD ...
+2001-09-11 03:59:48 Metrocall [1064395] C  ALPHA  ,..#...........g..................................................................................................[o@p
+2001-09-11 03:59:48 Skytel [002401821] D  ALPHA  sassap05-qfe0.erpssmc.eds.com The interface hme0 on sassap05-qfe0.erpssmc.eds.com is Down. ussa11.SSMC 
+2001-09-11 03:59:48 Skytel [002861584] A ST NUM  8685227799
+2001-09-11 03:59:50 Metrocall [0300391] B  ALPHA  _01Z00_02A)_1B"n6_1A8_1C3_09Movies_1A9_1B&a _1C3 _1C1BOX OFFICE _0D_1C2Fight made right for `The Musketeer,' which parlayed its mix of traditional swashbuckling and Hong Kong action choreography into the top spot among the nation's movies. The revisio
+2001-09-11 03:59:50 Skytel [002693664] A  ALPHA  Venezuela Regulator: 5 More Days For AES/CANTV Decision[DJ NEWS]
+2001-09-11 03:59:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1212..
+2001-09-11 03:59:52 Metrocall [0300391] B  ALPHA  nist take on the Alexandre Dumas classic, `The Three Musketeers,' took in $10.7M on the 1st weekend of the fall film season. `Two Can Play that Game,' the battle-of-the-sexes romantic comedy starring Vivica A. Fox and Morris Chestnut, opened in the No.
+2001-09-11 03:59:54 Metrocall [0300391] B  ALPHA   2 spot, raking in $8.3M. The No. 3 movie was another debut; `Rock Star,' starring Mark Wahlberg and Jennifer Aniston, earned $6.2M. `Our Lady of the Assassins,' a gritty Spanish-language look at violence-wracked Colombia, opened on 4 screens in Los An
+2001-09-11 03:59:56 Metrocall [0300391] B  ALPHA  geles and New York... _04
+2001-09-11 03:59:57 Skytel [002695782] B  ALPHA    SiteScope/Databases - Sacramento/Colusa - SQLServerAgent Service/67484/not found (1722)/
+2001-09-11 03:59:57 Skytel [004682599] B SH/TONE 734-2563
+2001-09-11 03:59:59 Skytel [003954036] B  ALPHA  NIMS01:Device Inaccessible
+2001-09-11 03:59:59 Skytel [004406001] A  ALPHA  p95sqa@soco.agilent.com||P95_II is alive.  
+2001-09-11 03:59:59 Skytel [005553914] C  ALPHA  opalis@wldc.com||CR file has not been received from Davidsohn. "FMG Run 6 B" job may not have been executed at Davidsohn.  

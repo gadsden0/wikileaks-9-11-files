@@ -1,0 +1,89 @@
+2001-09-11 04:59:00 Metrocall [1064385] A  ALPHA  JY  8218/8286  -054 EC  8972/8952 -0029 BP 14540/14482 -034 SF  5922/5926  -013 CD  6400/6396  +002 AD  5141/5124  +002 DM  4602/4591  -026 FES 9697/733/740/32 FDX 4783/4836  +096 PTB 8962/8880  -016 FGBS10357 FYB 13897 BDL 10803/10800-022 BDM 10715-0
+2001-09-11 04:59:01 Skytel [005138307] A SH/TONE 447-5707
+2001-09-11 04:59:02 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2006
+2001-09-11 04:59:02 Metrocall [1188682] C  ALPHA  Interface Serial1/0.103  on macon-rtr-c.metrocall.com is Down. Reason: HPOV cannot ping interface ~
+2001-09-11 04:59:02 Metrocall [1064385] A  ALPHA  13
+2001-09-11 04:59:02 Metrocall [1180298] C  ALPHA  Interface Serial1/0.103  on macon-rtr-c.metrocall.com is
+2001-09-11 04:59:02 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2006
+2001-09-11 04:59:02 Metrocall [1578603] C  ALPHA  Interface Serial1/0.103  on macon-rtr-c.metrocall.com is Down. Reason: HPOV cannot ping interface ~
+2001-09-11 04:59:02 Metrocall [1402531] A  ALPHA  Interface Serial1/0.103  on macon-rtr-c.metrocall.com is Down. Reason: HPOV c
+2001-09-11 04:59:03 Metrocall [1261323] C  ALPHA  Frm: fusasitescope@wingspan.com Txt: elgweb1 login content match error on step 2, http://192.168.67.181:7001/cmsonline/main/cmslogin.jsp
+2001-09-11 04:59:03 Metrocall [1180298] C  ALPHA   Down. Reason: HPOV cannot ping interface ~
+2001-09-11 04:59:03 Metrocall [1402531] A  ALPHA  annot ping interface ~
+2001-09-11 04:59:03 Skytel [004593812] B ST NUM  778-355-8342 U 
+2001-09-11 04:59:03 Skytel [004215449] C ST NUM  797-3912 (11   
+2001-09-11 04:59:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6828
+2001-09-11 04:59:04 Arch [0951146] C  ALPHA  811134 .MAXRETRY-CATCHER PROBLEM 09/11/01 05:00:06
+2001-09-11 04:59:04 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 04:59:05 Skytel [005240623] D  ALPHA   UP (SS) Germany Firewall (satyr-de) 0.25 sec
+2001-09-11 04:59:05 Skytel [005377455] D SH/TONE 266-4897
+2001-09-11 04:59:05 Skytel {1092655} 3 2400 002218    
+2001-09-11 04:59:06 Skytel {0132085} 1 1200 0001C00000000006190100003C0700000000051C6124534F02000000.
+2001-09-11 04:59:10 Arch [1612111] D  ALPHA  monitor@ccbill.c|HTTPD Frontend front2r.escrub.co|ERROR: could not connect to front2r.escrub.com on port 80 (httpd). Timestamp: 20010911015401 
+2001-09-11 04:59:13 Metrocall [1104994] A  ALPHA  Frm: jmizzi@bidcom.com Sub: Excess Oracle processes in Production - 405 Txt: Total no. of processes : 405
+2001-09-11 04:59:13 Metrocall [1261323] C  ALPHA  Frm: fusasitescope@wingspan.com Txt: elgweb2 login content match error on step 2, http://192.168.67.182:7001/cmsonline/main/c
+2001-09-11 04:59:15 Metrocall [1261323] C  ALPHA  mslogin.jsp
+2001-09-11 04:59:17 Arch [0015149] D  ALPHA  atn0 severe atn0 PT031 4 resync/test after ipt stopped/started: RESYNC:FAIL TESTIPT:FAIL Possible Comm problem!! AT Tue Sep 11 08:59:19 GMT 2001
+2001-09-11 04:59:17 Arch [0183689] C  ALPHA  atn0 severe atn0 PT031 4 resync/test after ipt stopped/started: RESYNC:FAIL TESTIPT:FAIL Possible Comm problem!! at Tue Sep 11 08:59:19 GMT 2001
+2001-09-11 04:59:19 Arch [0320272] A  ALPHA  PATROLpatrol - ntmprd02.NSNETWORK-NSNETWORK-NETPingHrnais02 ALARM/ALARM 1<=1.000000<=1.Critical
+2001-09-11 04:59:20 Metrocall [1261323] C  ALPHA  Frm: fusasitescope@wingspan.com Txt: elgweb8 login content match error on step 2, http://192.168.67.168:7001/cmsonline/main/cmslogin.jsp
+2001-09-11 04:59:23 Arch [0965689] C  ALPHA  bdhp4231: Disk utilization of /home filesystem 81% is greater than 80
+2001-09-11 04:59:23 Arch [1048904] C  ALPHA  Keogh_Katherine@|Hi All Please call Conor Corcoran of the C4 Group in Cork at ext 5328. Since this morning's upgrade, users are unable to add text and application is not performing properly. Many than
+2001-09-11 04:59:23 Arch [0971878] B  ALPHA  Service:Dns_Roi  Host:kla-primary  Address:10.160.160.94  Info:CRITICAL - Plugin timed out after 10 seconds 
+2001-09-11 04:59:23 Arch [1164259] A  ALPHA  From Heath Noland: CC 537056 to switch the primary and secondary FastE networks at 6035 was successful.        
+2001-09-11 04:59:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9751
+2001-09-11 04:59:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178105. 
+2001-09-11 04:59:29 Arch [0769999] D  ALPHA  109-109
+2001-09-11 04:59:30 Metrocall [1261323] C  ALPHA  Frm: fusasitescope@wingspan.com Txt: elgweb10 login content match error on step 2, http://192.168.67.173:7001/cmsonline/main/cmslogin.jsp
+2001-09-11 04:59:30 Metrocall [0957065] C  ALPHA  NEW MESSAGES WAITING-->391-5558
+2001-09-11 04:59:30 Metrocall [0555324] D  ALPHA  S/J 3RD RE; KIRSHERMNAN 321-3857 OUT TO LUNCH
+2001-09-11 04:59:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3399
+2001-09-11 04:59:37 Skytel [005507772] D ST NUM  778-355-8342 U 
+2001-09-11 04:59:37 Skytel [005133629] D  ALPHA  ipmonitor@parsons.com|2001-9-11, 02:08:09, SACDC01 (SERVER), SERVICE, Server failed to handle request|2001-9-11, 02:08:09, SACDC01 (SERVER), SERVICE, Server failed to handle request  
+2001-09-11 04:59:37 Skytel [002810420] B  ALPHA  F:ap             S:Alarm              N CL 0156 b230-     core_20              (45
+2001-09-11 04:59:37 Skytel [007638076] D SH/TONE 541     
+2001-09-11 04:59:37 Skytel [005343543] B  ALPHA  PROBLEM: 16602403 WAS OPENED 
+2001-09-11 04:59:37 Skytel [005104950] B ST NUM  770-750-0252   
+2001-09-11 04:59:38 Skytel [005525323] C  ALPHA  B
+2001-09-11 04:59:38 Skytel [007567175] B  ALPHA  NOC-PagerNotify@UU.NET|C-NOC-000008042|09/11/01 04:49:00 HOU3 TNT num cust=4608 ESC=3 TRANSPORT Multiple tnts are bouncing affecting approximately 80% of the west-houston2 rotary.  Circuits are being called out to telco.  
+2001-09-11 04:59:40 Arch [0764510] D  ALPHA  (28)ipdial@vaipd05 (|@ ERROR: MREC file not received from sea-tcm-01 
+2001-09-11 04:59:40 Arch [0999102] D  ALPHA  From:PAERSCNHM01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server PAERSCNML25/SERVER/Prudential is Responding Body:Server PAERSCNML25/SERVER/Prudent
+2001-09-11 04:59:40 Arch [1600758] B  ALPHA  (32)50:ABS: Tkt:5002947, Sev:3, Routed, Sname:FOOT, CIS Id:800120034, Contact:ON SITE @ 6154438017 Note:SEEING CKT BOUNCING @ ATL*HI1*U8 PORT: 4:1 FMS-56921342
+2001-09-11 04:59:40 Arch [0915948] D  ALPHA  From:PAERSCNHM01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server PAERSCNML25/SERVER/Prudential is Responding Body:Server PAERSCNML25/SERVER/Prudential is Responding or has been  restarted.
+2001-09-11 04:59:40 Arch [1614034] A  ALPHA  From:PAERSCNHM01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server PAERSCNML25/SERVER/Prudential is Responding Body:Server PAERSCNML25/SERVER/Prudential is Responding or has been  restarted.
+2001-09-11 04:59:40 Skytel [005053904] A  ALPHA  PR 813728 NEW High Asg: Mdc Care Cust: Scott Clevell Ph#: 901-546-5457 Loc:  p-Multi RF Guns spread over whole of wareho (1
+2001-09-11 04:59:42 Arch [0999102] D  ALPHA  ial is Responding or has been  restarted.
+2001-09-11 04:59:42 Skytel [004686822] B  ALPHA  F:ap             S:Alarm              N CL 0156 b230-     core_20             
+2001-09-11 04:59:42 Skytel [005436525] D  ALPHA  Test Message #21-IX_T1714
+2001-09-11 04:59:42 Skytel [004524770] A  ALPHA  wor-PegasusSatelliteTV-MarlboroM: CPE Up at 00:58:23 on 9/11
+2001-09-11 04:59:42 Skytel [005111022] D  ALPHA  FLT1011 ETA 0515, FLT1153 ARR 0441, FLT1702 ETA 0507, FLT1421 ETA 0458, FLT1703 ETA 0535, FLT1463 ETA 0539, *ADHOC FLT1170 AFW-ATL DUE TO LATE OAK FLT1101 ETA 0644 W/4.5 POS M/S.
+2001-09-11 04:59:42 Skytel [007438052] B SH/TONE 3333 (56
+2001-09-11 04:59:42 Skytel [005043559] B  ALPHA  150.ARENER MANUFACT     
+2001-09-11 04:59:42 Skytel [005112809] C  ALPHA  03:56CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240384: Uncorrectable write error
+2001-09-11 04:59:42 Skytel [009992677] B  ALPHA  FLT1011 ETA 0515, FLT1153 ARR 0441, FLT1702 ETA 0507, FLT1421 ETA 0458, FLT1703 ETA 0535, FLT1463 ETA 0539, *ADHOC FLT1170 AFW-ATL DUE TO LATE OAK FLT1101 ETA 0644 W/4.5 POS M/S.
+2001-09-11 04:59:44 Arch [0976352] A  ALPHA  (7)From Heath Noland: CC 537056 to switch the primary and secondary FastE networks at 6035 was successful.        
+2001-09-11 04:59:44 Arch [0921771] C  ALPHA  From wi at 05:00 AM EDT: More than 10 webevents did not send to client. Advise programmer within 24 hours.  
+2001-09-11 04:59:44 Skytel [004215408] A ST NUM  797-3912 (4    
+2001-09-11 04:59:44 Skytel [007109749] B ST NUM  646-1774-67    
+2001-09-11 04:59:44 Skytel [002377208] C SH/TONE 4444    
+2001-09-11 04:59:44 Skytel [003938556] D  ALPHA  telalerts failed on SVUtil0 09/11/01 04:58:48
+2001-09-11 04:59:45 Arch [1184785] A  ALPHA  From:PAERSCNHM01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server PAERSCNML25/SERVER/Prudential is Responding Body:Server PAERSCNML25/SERVER/Prudential is Responding or has been  restarted.
+2001-09-11 04:59:45 Arch [0950756] B  ALPHA  From:PAERSCNHM01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server PAERSCNML25/SERVER/Prudential is Responding Body:Server PAERSCNML25/SERVER/Prudential is Responding or has been  restarted.
+2001-09-11 04:59:45 Arch [1080426] C  ALPHA  From:PAERSCNHM01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server PAERSCNML25/SERVER/Prudential is Responding Body:Server PAERSCNML25/SERVER/Prudential is Responding or has been  restarted.
+2001-09-11 04:59:45 Arch [0950772] B  ALPHA  From:PAERSCNHM01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server PAERSCNML25/SERVER/Prudential is Responding Body:Server PAERSCNML25/SERVER/Prudential is Responding or has been  restarted.
+2001-09-11 04:59:48 Metrocall [0300391] B  ALPHA  _01Z00_02A)_1B"n6_1A8_1C3_09Odd_1A5 but _1A8True_1A9_1B&a _1C1MONKEY SIGHTINGS: It's not `Planet of the Apes.' It's more like town of the monkey. About a dozen people in Danville, New Hampshire, report seeing a large monkey on the
+2001-09-11 04:59:48 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE Tray Metrics Down   Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[010]  dev_err[239]
+2001-09-11 04:59:48 Skytel [003927703] B  ALPHA  NOC-PagerNotify@UU.NET|C-NOC-000008042|09/11/01 04:49:00 HOU3 TNT num cust=4608 ESC=3 TRANSPORT Multiple tnts are bouncing affecting approximately 80% of the west-houston2 rotary.  Circuits are being called out to telco.  
+2001-09-11 04:59:50 Metrocall [0300391] B  ALPHA   loose, including Fire Chief David Kimball. He describes the animal as being about four feet tall, with woolly, brown fur. Kimball figures it's an escaped pet, but the owner doesn't want to report it because monkeys are illegal in the state. _0D_1C2TOU
+2001-09-11 04:59:50 Skytel [005207087] D  ALPHA  FLT1011 ETA 0515, FLT1153 ARR 0441, FLT1702 ETA 0507, FLT1421 ETA 0458, FLT1703 ETA 0535, FLT1463 ETA 0539, *ADHOC FLT1170 AFW-ATL DUE TO LATE OAK FLT1101 ETA 0644 W/4.5 POS M/S.
+2001-09-11 04:59:50 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb8 login content match error on step 2, http://192.168.67.168:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informat
+2001-09-11 04:59:52 Metrocall [0300391] B  ALPHA  GH FIT: At six-seven and 405 pounds, Carl `Boomer' Nott is a big kid. He's too big to play football. The coaches at Vermont's Hartford High School would love to have Boomer on the field. They just can't find a helmet to fit him. They've talked with pro
+2001-09-11 04:59:54 Metrocall [0300391] B  ALPHA   and college teams and haven't been able to locate large enough regulation headgear... _04
+2001-09-11 04:59:57 Arch [0980998] B  ALPHA  netsaint@IS2Web.|NetSaint alert for PGH11(PGH11 a|After tries PGH11(PGH11 at AC4) is in a state, command returned: PING CRITICAL - Packet loss = 0%, RTA = 274.20 ms 
+2001-09-11 04:59:57 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178112. 
+2001-09-11 04:59:57 Skytel [002867432] C SH/TONE 47247   
+2001-09-11 04:59:59 Arch [100158551] B  ALPHA  netsaint@IS2Web.|NetSaint alert for PGH11|PGH11 is down 
+2001-09-11 04:59:59 Arch [1276070] B  ALPHA  netsaint@IS2Web.|NetSaint alert for PGH11|PGH11 is down
+2001-09-11 04:59:59 Skytel [007641456] A SH/TONE 111     
+2001-09-11 04:59:59 Skytel [004406001] A  ALPHA  p95sqa@soco.agilent.com||P95_II is alive.  
+2001-09-11 04:59:59 Skytel [003914349] D  ALPHA  _sqlsvc@compasstools.com|1-Leads| 

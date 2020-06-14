@@ -1,0 +1,84 @@
+2001-09-12 02:51:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PA.D..D..D..I.. ..M @.. 4.10
+2001-09-12 02:51:02 Skytel [002163970] A SH/TONE 6516    
+2001-09-12 02:51:04 Skytel [002862485] B  ALPHA  DUTYMGR> NISSAN DS: SEV2 Memphis, TN Router NPME telco circuit is down at 00:15 MT. AT&T has informed local telco to investigate. No etu. - 800-317-6700
+2001-09-12 02:51:06 Arch [0908108] D  ALPHA  1/02:****CHG-TKT**** TYPE: Major  OP: 09/12/01 01:29:39 Tkt: NOC000000084892 STAT: WIP  COMPANY NAME: RESIDENTIAL   SITE: Biloxi  LOG: SMS00BHM reports all circuits are down once again.  500 customers
+2001-09-12 02:51:06 Arch [1265683] A  ALPHA  1/02:****CHG-TKT**** TYPE: Major  OP: 09/12/01 01:29:39 Tkt: NOC000000084892 STAT: WIP  COMPANY NAME: RESIDENTIAL   SITE: Biloxi  LOG: SMS00BHM reports all circuits are down once again.  500 customers
+2001-09-12 02:51:06 Skytel {0143279} 3 1200 202-685-7650   
+2001-09-12 02:51:08 Arch [0908108] D  ALPHA  2/02:Christopher Juckins at FastAccess  1.800.747.5150 pin 5226303
+2001-09-12 02:51:08 Skytel {0299765} 3 1200 DUTYMGR> NISSAN DS: SEV2 Memphis, TN Router NPME telco circuit is down at 00:15 MT. AT&T has informed local telco to investigate. No etu. - 800-317-6700..
+2001-09-12 02:51:10 Arch [0000101] B  ALPHA  MSN 097 hello Message from NOC PCB.
+2001-09-12 02:51:12 Arch [0507358] D  ALPHA  :00330778 Severity: 2  mocpdu.pitts.bayer.com- UPS- Switched to battery backup power- utility power failure.
+2001-09-12 02:51:12 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-12 02:51:12 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192916. 
+2001-09-12 02:51:12 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1063
+2001-09-12 02:51:14 Arch [0796801] A  ALPHA  15:ABS:
+2001-09-12 02:51:14 Arch [1009177] C  ALPHA  (26)18:ABS:
+2001-09-12 02:51:14 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 02:51:14 Arch [0866780] D  ALPHA  (32)16:ABS:
+2001-09-12 02:51:14 Arch [0776852] B  ALPHA  (15)23:ABS:
+2001-09-12 02:51:14 Arch [1407124] B  ALPHA  (22)NT Server KCMSEP01 SMTP SVCDOWN at 02:00:24
+2001-09-12 02:51:15 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-12 02:51:18 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-12 02:51:21 Arch [1265683] A  ALPHA  2/02:Christopher Juckins at FastAccess  1.800.747.5150 pin 5226303
+2001-09-12 02:51:27 Arch [0925366] B  ALPHA   318643;Sep 11 22:52:03 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-12 02:51:30 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-12 02:51:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3319
+2001-09-12 02:51:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3319
+2001-09-12 02:51:32 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-12 02:51:32 Skytel [005543817] C SH/TONE 727-6928
+2001-09-12 02:51:33 Skytel [004541330] A ST NUM  900-841-1640   
+2001-09-12 02:51:34 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-12 02:51:34 Arch [1379855] D  ALPHA  (13)17:ABS:
+2001-09-12 02:51:34 Arch [0506853] B  ALPHA  (8)18:ABS:
+2001-09-12 02:51:34 Arch [1272423] B  ALPHA  (16)bb:1: [2561110] red Tue Sep 11 23:51:23 PDT 2001 - Disk onssc-sac-p1,corp,sprint,com at PANIC level &red /var (95%) hasreached the defined disk space PANIC level (95%)/dev/vx/dsk/p1_unix/p1sybase 2879972 895228 1696747 35%
+2001-09-12 02:51:35 Skytel [005001895] B  ALPHA  [sps/66] 200 sps-apps1.cps.intel.com relay-rialto105 2.277Application is okay (/rcc/healthcheck.asp) 3:29:09
+2001-09-12 02:51:36 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-12 02:51:37 Skytel [005269691] C  ALPHA  DUTYMGR> NISSAN DS: SEV2 Memphis, TN Router NPME telco circuit is down at 00:15 MT. AT&T has informed local telco to investigate. No etu. - 800-317-6700
+2001-09-12 02:51:37 Skytel [004405296] A  ALPHA  I JUST WANT TO KNOW WHAT'S THE PIN NUMBER FOR MY CARD IS? CHARLENE PACHECO. 505 363 8439.
+2001-09-12 02:51:37 Skytel [005122108] D SH/TONE 117     
+2001-09-12 02:51:37 Skytel [003917363] A  ALPHA  (2 of 2) y down.  Billy
+2001-09-12 02:51:39 Skytel [003950157] D  ALPHA  LATA +RDDD012E   RCS DECODER ERR LTRECICP
+2001-09-12 02:51:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:51:42 Metrocall [1224637] D  ALPHA  Job 339 Transfered
+2001-09-12 02:51:42 Metrocall [1224106] C  ALPHA  Job # 339 KAISER-SOUTH BAY CSA LS: STD    Rdy: 1700 Exdl: 2000 P/U:KAISER MARINA PLAYA 1333 LAWRENCE EXPWY DR#1691/92 SANTA CLARA D/L:NCM KAISER SCHEDULED SVCS ROUTE WORK OAKLAND Wt:    0 Caller: SUSAN DAVIS J
+2001-09-12 02:51:43 Metrocall [1224106] C  ALPHA  Code: PRESCH 366
+2001-09-12 02:51:43 Skytel [002406502] B  ALPHA  maillog@2waybeats.com|2waybeats.com VDE/CGI script output|1[!A0][D32801]!*+NORE+Grimey/DJEv/2WayBeats.com;2,T093%3VLdLrAslda6Ava9A9B3AA9B3ALdAAldA9BVBvBBB3VLdAslda6Ava9A9B3AA9B3ALdAAldA9BVBvBBB4VLdEsa6Evld+AqVLdEsa6Evld+BeLdEld5+Aqa94VLdEsa
+2001-09-12 02:51:43 Skytel [007553888] A  ALPHA  896-6731No Answer Southfield Backup 248-552
+2001-09-12 02:51:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #54-IX_T4606
+2001-09-12 02:51:43 Skytel [003924713] C SH/TONE 121 U   
+2001-09-12 02:51:43 Skytel [007084271] D SH/TONE 248     
+2001-09-12 02:51:44 Arch [0544970] C  ALPHA  (31)17:ABS:
+2001-09-12 02:51:44 Arch [1272423] B  ALPHA  (17)bb:2: /p1sybase/dev/vx/dsk/p1_unix/logs 287982 123290 135894 48% /logs/dev/vx/dsk/rootdg/nsr 983020 434347 450371 50% /nsr/dev/vx/dsk/rootdg/usr 508039 264133 193103 58% /usr/dev/vx/dsk/p1_unix/autosys 287982 149644 109540
+2001-09-12 02:51:44 Arch [1005646] D  ALPHA  (26)28:ABS:
+2001-09-12 02:51:44 Arch [1407124] B  ALPHA  (23)NT Server KCMSEP01 UP at 02:01:25
+2001-09-12 02:51:45 Arch [1272423] B  ALPHA  (18)bb:3: 58%/usr/vendor/autotree/autosys3_4 /dev/vx/dsk/p1_unix/export-home471414 264234 160039 63% /export/home /dev/vx/dsk/rootdg/opt 23999741351924 808053 63% /opt /dev/vx/dsk/p1_unix/production 383982 237409108175 69% /production
+2001-09-12 02:51:45 Metrocall [1224106] C  ALPHA  Job # 339 Ref: 8747600 Comment: DRIVER 1691 PICK UP FOR KAISER OAKLAND ACCOUNTS PAYABLE.  PICK UP BOX IS THE SME AS THE BOX FOR SANTA TERESA.  THIS PACKAGE MUST BE DELIVERED BY 7:00AM THE FOLLOWING DAY.  LOCK BOX BY MAIL BOXES
+2001-09-12 02:51:45 Skytel [007459189] B ST NUM  0-510-932-3232 
+2001-09-12 02:51:47 Arch [1272423] B  ALPHA  (19)bb:4: /dev/vx/dsk/p1_unix/datafiles 6711388 41969851843265 70% /datafiles /dev/vx/dsk/rootdg/openwin 288326 20475754737 79% /usr/openwin /dev/vx/dsk/p1_unix/oracle-new 287982 22335335831 87% /oracle /dev/vx/dsk/rootdg/rootvol
+2001-09-12 02:51:47 Skytel [005059590] B  ALPHA  DUTYMGR> NISSAN DS: SEV2 Memphis, TN Router NPME telco circuit is down at 00:15 MT. AT&T has informed local telco to investigate. No etu. - 800-317-6700
+2001-09-12 02:51:47 Skytel [007062667] C ST NUM  410-205-3485   
+2001-09-12 02:51:49 Skytel [007641751] B SH/TONE 5827    
+2001-09-12 02:51:50 Skytel [002867623] B ST NUM  34949 (81 
+2001-09-12 02:51:50 Skytel [007466020] B ST NUM  908-922-0811   
+2001-09-12 02:51:50 Skytel [005414063] D ST NUM  634-718-0056 (84    
+2001-09-12 02:51:51 Arch [0901087] D  ALPHA  :The Problem with ID 00330779 Severity 2 Description  mocpfa.pitts.bayer.com- Node Down. has not been resolved.It has been escalated to level 1 on 09/11/2001 at 18:55:13.
+2001-09-12 02:51:51 Arch [0911134] D  ALPHA   equity71 SYBASE: check_db(PDS1_EQCSWLN) MAYBE OPEN TRANSACTION in syslogshold tempdb|80 - PDS1_EQCSWLN @02:51 09/12/01 
+2001-09-12 02:51:51 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34
+2001-09-12 02:51:51 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192923. 
+2001-09-12 02:51:51 Metrocall [002567097] C  ALPHA  Hannon's #7: KFC 7 Cli KW DEMAND   SNS FAIL
+2001-09-12 02:51:51 Metrocall [1064375] B  ALPHA  NIKK _9610.10   -682 30 _99.02/03  5.438% GOLD 284.50/250 -150 S 4.22/30  PL 452.00 KS11   475.60 -64.97 HSI  _9260.78 -156.5 SSI   1435.63  -13.1 ORD   3051.30  -13.9 TWII  4176.93 -11
+2001-09-12 02:51:51 Metrocall [1224106] C  ALPHA  Job # 339 LOCK BOX
+2001-09-12 02:51:51 Metrocall [1544820] B  ALPHA  ORD-NS1 IW Monitor - The amount of disk space on drive E: is 120.8 MB.  "Server ORD-NS1/PO/DSVR/KAIPERM - The amount of disk space on drive E:is 120.8 MB. Threshold is 300 Meg."
+2001-09-12 02:51:53 Arch [0949746] A  ALPHA  1/02:****CHG-TKT**** TYPE: Major  OP: 09/12/01 01:29:39 Tkt: NOC000000084892 STAT: WIP  COMPANY NAME: RESIDENTIAL   SITE: Biloxi  LOG: SMS00BHM reports all circuits are down once again.  500 customers
+2001-09-12 02:51:53 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-12 02:51:53 Metrocall [1064375] B  ALPHA  2.1 PD 455.00  JG 1.430%
+2001-09-12 02:51:55 Arch [1272423] B  ALPHA  (20)bb:e: 52015 41586 5228 89% //dev/vx/dsk/rootdg/var 1071871 959233 59045 95% /var Please see:http://ssc-sac-bs1.west.sprint.com/bb/html/ssc-sac-p1.corp.sprint.com.disk.html -oo-
+2001-09-12 02:51:55 Arch [1301291] C  ALPHA  (18)22:ABS:
+2001-09-12 02:51:55 Arch [0911005] D  ALPHA  (9)"WhatsUp" <jonat|10.165.88.21 CABWGP02 is DOWN at 01:58:16 
+2001-09-12 02:51:55 Arch [1607249] A  ALPHA  (2)"WhatsUp" <jonat|10.130.174.46 DATAOPSATL is DOWN at 01:58:16 
+2001-09-12 02:51:55 Arch [0949746] A  ALPHA  2/02:Christopher Juckins at FastAccess  1.800.747.5150 pin 5226303
+2001-09-12 02:51:55 Arch [1302832] A  ALPHA  (9)"WhatsUp" <jonat|10.165.88.21 CABWGP02 is DOWN at 01:58:16 
+2001-09-12 02:51:55 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-12 02:51:56 Skytel [002349522] A  ALPHA  DUTYMGR> NISSAN DS: SEV2 Memphis, TN Router NPME telco circuit is down at 00:15 MT. AT&T has informed local telco to investigate. No etu. - 800-317-6700
+2001-09-12 02:51:57 Arch [0987275] C  ALPHA  s0191: 09/11 15:14:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:14:21
+2001-09-12 02:51:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8141

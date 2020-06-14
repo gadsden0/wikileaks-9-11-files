@@ -1,0 +1,116 @@
+2001-09-11 22:40:02 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7889
+2001-09-11 22:40:02 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-11 22:40:02 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190060. 
+2001-09-11 22:40:02 Skytel [005255304] C ST NUM  417-351-8181 (87    
+2001-09-11 22:40:02 Skytel [005087364] B  ALPHA  243-8498.HABDANK LES         
+2001-09-11 22:40:04 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-11 22:40:05 Skytel [005001895] B  ALPHA  [sps/97] 104 supplier.intel.com relay-ssl 0.0 FAILURE Server closedconnection immediately. (/lift/healthcheck.asp) 2:09:59
+2001-09-11 22:40:05 Skytel [007659433] C SH/TONE 411-0113
+2001-09-11 22:40:06 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-11 22:40:07 Skytel [004660535] B SH/TONE 1       
+2001-09-11 22:40:08 Arch [0965689] C  ALPHA  sihp8032: Disk utilization of /home almost full, Please open minor ticket to G.IS1E2E. filesystem is now ok  
+2001-09-11 22:40:08 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-11 22:40:09 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-11 22:40:09 Arch [0965689] C  ALPHA  sihp8032: Disk utilization of /home filesystem 77% is greater than 75
+2001-09-11 22:40:09 Skytel [008507076] B  ALPHA  01827h4b1ab01400002g
+2001-09-11 22:40:09 Skytel [003893710] D  ALPHA  ncarlson@aprisma.com|System Down - ISP down|Planned Outage: unplanned Outage Date: 9-11 Outage Time: 9:50pm Function/Application: NYC office Impact: No link to office, internal or external Location of outage: Durham Root cause: Hijackers, p
+2001-09-11 22:40:09 Skytel [005133900] D  ALPHA  WFLA-WxWarn@eastern.weatherwarn.net| Hurricane Public Advisory|TROP DEP REMAINS WEAK & POORLY ORGANIZED TROP DEP EIGHT NOW @ 25.4 N. LAT 84.6 W. LON  MAX WIND ARE NEAR  30 MPH.  MOVIN TOWARD THE WEST-SOUTHWEST NEAR  5 MPH.  PRES. IS 1009 MB
+2001-09-11 22:40:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4459
+2001-09-11 22:40:11 Skytel [005047007] D ST NUM  761-575-9322-216    
+2001-09-11 22:40:13 Skytel [005134702] D SH/TONE 102 (2  
+2001-09-11 22:40:13 Skytel [003446886] B ST NUM  900-713-6125 (79    
+2001-09-11 22:40:13 Skytel [005436525] D  ALPHA  JULIE 
+2001-09-11 22:40:13 Skytel [002379244] D ST NUM  404-430-1132   
+2001-09-11 22:40:15 Arch [1236687] D  ALPHA  (13)78-BRUCE, PLEASE CALL ME ON THE PCS.  I'M AT MY PARENT'S.  --LOVE, CARMEN  913-226-6384
+2001-09-11 22:40:15 Skytel [004593015] B ST NUM  746-523-1762   
+2001-09-11 22:40:15 Skytel [007109749] B ST NUM  470-991-1615-1179   
+2001-09-11 22:40:15 Skytel {0126010} 1 1200 dknuth|Team - Please join the following conference bridge at 10:45pm EST to complete Bob's request. 877-526-8245 - ID# 122564. Thanks, Dave  .
+2001-09-11 22:40:17 Metrocall [1708650] C  ALPHA   SUBJ:  MSG:AGSHDS01: Backup Operation Successful.
+2001-09-11 22:40:17 Skytel {0554820} 3 1200 209-763-5272   
+2001-09-11 22:40:19 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0812
+2001-09-11 22:40:19 Arch [0960667] C  ALPHA  412-255-2935 COUNTY CAPTAIN OF SECURITY CALLED STATES SHERIFFS DOING A SWEEP  FOUND THE FORBES AVE SIDE OF THE CITY-COUNTY BLDG OPEN  THEY THEN FOUND CITY MAINT
+2001-09-11 22:40:19 Arch [0904856] C  ALPHA  412-255-2935 COUNTY CAPTAIN OF SECURITY CALLED STATES SHERIFFS DOING A SWEEP  FOUND THE FORBES AVE SIDE OF THE CITY-COUNTY BLDG OPEN  THEY THEN FOUND
+2001-09-11 22:40:19 Arch [1051535] D  ALPHA  412-255-2935 COUNTY CAPTAIN OF SECURITY CALLED STATES SHERIFFS DOING A SWEEP  FOUND THE FORBES AVE SIDE OF THE CITY-COUNTY BLDG OPEN  THEY THEN FOUND
+2001-09-11 22:40:21 Arch [0904856] C  ALPHA  CITY MAINTANCE EMPLOYEE INSIDE WITH A KEY EMPLOYEE STATES HE WAS INSIDE STUDYING FOR A TEST SHERIFFS ARE QUESTIONING. PGH EOC OPS ROOM
+2001-09-11 22:40:21 Arch [1051535] D  ALPHA  CITY MAINTANCE EMPLOYEE INSIDE WITH A KEY EMPLOYEE STATES HE WAS INSIDE STUDYING FOR A TEST SHERIFFS ARE QUESTIONING. PGH EOC OPS ROOM
+2001-09-11 22:40:21 Arch [0977241] C  ALPHA  472-1650
+2001-09-11 22:40:23 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-11 22:40:23 Arch [0492587] C  ALPHA  STALL DNS54EEZ.DBF R       3000
+2001-09-11 22:40:24 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-11 22:40:26 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-11 22:40:27 Metrocall [1521661] D  ALPHA  call tess at 704-331-4726, asap
+2001-09-11 22:40:27 Metrocall [002462169] C  ALPHA  Frm: 5618053271@airmessage.net Sub: Message from a two-way device Txt: FWD from P WIZ : Fr:Shortie1diamonds@ Su:Re: shortie I'M GIVING U A LIMIT TO CALL ME, NOT LATE R THE NEXT DAY <HTM
+2001-09-11 22:40:28 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-11 22:40:28 Arch [0964767] D  ALPHA  Yahoo! Reminder |Conference call on Tuesday, Sept|Hi, garycx_fhb! Conference call on Tuesday, September 11th @ 11:00 EDT, 888-476-612, 9/11/2001, 11:00 pm 11:00 pm - 12:00 am ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+2001-09-11 22:40:28 Arch [1612753] A  ALPHA  T8856 [ZITWAHAMDS2] SysMon on ZITWAHAPS2: (SysMon) CM Runstats Tot=2278,Act=204,OK=1783,Err=292 5.40=5,10.9=11,10.10=6,13.43=72,15.29=1,20.0=157,21.23=8,21.44=25,21.45=2,21.46=5 
+2001-09-11 22:40:29 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3068
+2001-09-11 22:40:29 Metrocall [002462169] C  ALPHA  L><FONT FACE=arial,helvetica><FONT SIZE=2>I'M GIVING U
+2001-09-11 22:40:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3068
+2001-09-11 22:40:31 Skytel [007522947] A  ALPHA  reminders@yahoo-inc.com|Go to bed!, 9/11/2001, 11:00 pm| 
+2001-09-11 22:40:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 19:40:25 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 22:40:31 Skytel [003417094] B SH/TONE 7070    
+2001-09-11 22:40:31 Skytel [004447111] B  ALPHA  CPQ 10.35 UNCH NSCP 0.00 UNCH CSCO 14.47 UNCH DJIA 9605.51 UNCH
+2001-09-11 22:40:31 Skytel [004448520] C ST NUM  804-964-0163   
+2001-09-11 22:40:31 Skytel [002361863] B  ALPHA  PAGEING,1,Application TODI ERROR 1 0 4096 19:36  09/11/01
+2001-09-11 22:40:32 Metrocall [1305447] 7:41:49 PM B  ALPHA  Please call Robert Dereal with the LA Times ----- another number 510-708-3223    [W/C] (1/1)
+2001-09-11 22:40:33 Skytel [004542612] B SH/TONE 6351    
+2001-09-11 22:40:33 Skytel [004405151] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com Lon
+2001-09-11 22:40:33 Skytel [002822678] B  ALPHA  INTC 26.07 UNCH IFMX 0.00 UNCH SUNW 10.29 UNCH IBM 96.47 UNCH (17
+2001-09-11 22:40:33 Skytel [004686110] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 22:40:33 Skytel [002392598] B  ALPHA  10:40:12 PM
+2001-09-11 22:40:33 Skytel [005107863] B SH/TONE 70568   
+2001-09-11 22:40:33 Skytel [007516059] C  ALPHA  y-alerts@yahoo-inc.com|| Mayor says some people alive in Trade Center.   
+2001-09-11 22:40:35 Skytel [004405151] D  ALPHA  gMsg
+2001-09-11 22:40:35 Skytel [007464358] B  ALPHA  ELCOME TO SKY PAGER.5167
+2001-09-11 22:40:35 Skytel [007046191] D  ALPHA  ELCOME TO SKY PAGER.630713040947
+2001-09-11 22:40:35 Skytel [005345829] B  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 22:40:35 Skytel [004534702] D ST NUM  632-321-6656 (2
+2001-09-11 22:40:37 Skytel [005190584] C  ALPHA  562-630-4102 U
+2001-09-11 22:40:37 Skytel [005324475] C ST NUM  0-212-274-0870 
+2001-09-11 22:40:37 Skytel [002794173] D ST NUM  U    *         * *  
+2001-09-11 22:40:37 Skytel [002745532] D ST NUM  *    *         * *  
+2001-09-11 22:40:38 Metrocall [0076206] D  ALPHA  Frm: rdt@silverstatecu.com Sub: Server WAP UP at 19:44:01 Txt: Server WAP UP at 19:44:01 Address: 10..P8.P4L^F..`VL=.&...n.#H`tA`0. ..0'.00@ ..`0.p:..i..pI.B.....`.j..h.., .. .`C. ..`.....
+2001-09-11 22:40:39 Skytel [005360843] C  ALPHA  5760656 PCK BIGAIR LONG BEACH MEMORIAL ME 5629331627 C BOWEN 351B 293
+2001-09-11 22:40:39 Skytel [005376068] B SH/TONE 28600   
+2001-09-11 22:40:39 Skytel [003939265] A  ALPHA  bet this is in your car..5-7808
+2001-09-11 22:40:39 Skytel [004689866] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 22:40:39 Skytel [007641549] D ST NUM  702-977-4750   
+2001-09-11 22:40:40 Metrocall [1064377] C  ALPHA  SED96980/97130/9704 9666/9626.A..h..I.2\,Ee.9../a.1p..@P.@O.",.P .@D.P .H..X..0........8..1.....,...............................X..J..T....@;.....M...................H!@@..@........................H.. ..H.$...
+2001-09-11 22:40:40 Metrocall [1064382] D  ALPHA  (..0..\....O.@..P..Y....PRH....H.
+2001-09-11 22:40:41 Skytel [007047515] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 22:40:41 Skytel [005249751] B ST NUM  U    *         * *  
+2001-09-11 22:40:41 Skytel [007031254] B SH/TONE 454-5144
+2001-09-11 22:40:41 Skytel [004720092] D ST NUM  08007243624    
+2001-09-11 22:40:43 Skytel [004752740] B ST NUM  U    *         * *  
+2001-09-11 22:40:43 Skytel [004693865] C  ALPHA  CALL DALE AT 540-659-9984.
+2001-09-11 22:40:43 Skytel [007578859] C SH/TONE 208     
+2001-09-11 22:40:43 Skytel [004540264] C  ALPHA  Hoa,  Please call me   Runita
+2001-09-11 22:40:45 Skytel [005065212] D  ALPHA  cms@pdprt02.nationalcar.com|pdprt02|GWYB7030 Errors (0) (Log File Not Current)  
+2001-09-11 22:40:45 Skytel [005092221] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 22:40:45 Skytel [005316606] D ST NUM  870-285-7252   
+2001-09-11 22:40:45 Skytel [002357369] C  ALPHA  002572 CYCLIC TEST 
+2001-09-11 22:40:45 Skytel [003327216] A  ALPHA  002572 CYCLIC TEST 
+2001-09-11 22:40:45 Skytel [005525114] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-11 22:40:47 Skytel [005044104] C  ALPHA  scott.thomas@lamrc.com|Lab DB - Hitachi 5 used more than allowable time limit.|The next user is waiting to use Hitachi 5. You have been using the tool for 64 minutes and your allowable time on the tool has expired, please end your session i
+2001-09-11 22:40:47 Skytel [005342595] A  ALPHA  PLEASE CALL 609-282-2985. FRANK.
+2001-09-11 22:40:47 Skytel [002139900] D SH/TONE 002572  
+2001-09-11 22:40:48 Skytel [005195793] A SH/TONE 697-7458
+2001-09-11 22:40:48 Skytel [005491226] C ST NUM  U    *         * *  
+2001-09-11 22:40:50 Skytel [003945764] B  ALPHA  CALL DALE AT 540-659-9984.
+2001-09-11 22:40:52 Skytel [005506996] B  ALPHA  PRGIX 21.44 UNCH PRSCX 18.22 UNCH PRITX 10.72 UNCH PRWAX 27.84 UNCH
+2001-09-11 22:40:52 Skytel [004196924] D  ALPHA  qhaywood@theocc.com|std|Prices files ready at 21:38   (65
+2001-09-11 22:40:54 Skytel [002696262] B SH/TONE 2911    
+2001-09-11 22:40:54 Skytel [005555279] D  ALPHA  22:40:48 BY00602 HAS NOT STARTED. PRICING LOADS JOB.
+2001-09-11 22:40:56 Skytel [007518930] A  ALPHA  MEETING TONIGHT. ILL WAIT FOR YOU TO CALL FOR ANOTHER 10 MINUTES. AND ITS LONG DISTANCE TO CELL. 
+2001-09-11 22:40:56 Skytel [007504980] B ST NUM  406-254-7143-1436969
+2001-09-11 22:40:56 Skytel [005093980] D SH/TONE 51365   
+2001-09-11 22:40:56 Skytel [007509589] B  ALPHA  PanamLito3@aol.com|HOLA |Hola Michael:  =20              Hoy cuando hablamos no me dijistes del AIRE
+2001-09-11 22:40:56 Skytel [005061458] A  ALPHA  Rozita.Belenky@jpl.nasa.gov||Hi Allan,  I just found out that JPL will be closed tomorrow for all  non-essential personnel. Please give me a call at 818-762-4780.  Thanks.  
+2001-09-11 22:40:56 Skytel [004194897] A SH/TONE 1 (67   
+2001-09-11 22:40:56 Skytel [004040020] B  ALPHA  785-267-1672
+2001-09-11 22:40:56 Skytel [005004368] A  ALPHA  Exchangemonitor: Check services on SRVRMON:One
+2001-09-11 22:40:57 Metrocall [1060056] C  ALPHA  1 REPAIR       Defect(s) for PRESS        A09L        on tire  TACT    Def 326 EMBED VENTS/FLASH SLD OSS      Prev msg- 2001/06/23 03:20:37:83
+2001-09-11 22:40:58 Skytel [003926118] B SH/TONE 6270    
+2001-09-11 22:40:58 Skytel [005253995] C  ALPHA  FAILED FAX FROM UNKNOWN 
+2001-09-11 22:40:58 Skytel [003599337] C  ALPHA  MSFT 57.58 UNCH ORCL 11.46 UNCH NOVL 3.99 UNCH MCI 25.15 UNCH (68
+2001-09-11 22:40:58 Skytel [007009260] D  ALPHA  y-alerts@yahoo-inc.com||Fr: regnewextensions@yahoo.com *RE: update your email address* Dear Internet

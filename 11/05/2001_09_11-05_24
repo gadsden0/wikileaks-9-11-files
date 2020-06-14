@@ -1,0 +1,55 @@
+2001-09-11 05:24:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2031
+2001-09-11 05:24:01 Metrocall [1064388] B  ALPHA  LCO 2742/2734  -003 CL 2761/783/788-002 2752/2716/2678/2655 2623/2591/2560/2530 HO 7956/015/050-005 HU 8180/770/560-007 NG2390/2672/993+013 3151/3120/3050/2960 965/010/040/0
+2001-09-11 05:24:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2031
+2001-09-11 05:24:01 Skytel [005386632] C  ALPHA  bb@rs1fw1.microtelco.com|!BB - 2751211! rs1d2.microtelco.com.dns - 800063236048190|[2751211]   rs1d2.microtelco.com.dns red Tue Sep 11 09:24:09 GMT 2001 DNS Server on rs1d2.microtelco.com down  Please see: https://rs1fw1m.microtelco.com/bb/
+2001-09-11 05:24:03 Metrocall [1064388] B  ALPHA  55/065 LGO 23925/4075-0300 PL v4390/f4320 +007 EC _3300/_3150+0150 PAm45600+000
+2001-09-11 05:24:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6853
+2001-09-11 05:24:04 Arch [1404488] C  ALPHA  (13)08:ABS: Tkt:5003016, Sev:2, Opened, Sname:SPAC, CIS Id:13082395, Contact:BRIAN PATEL @ 5136172016 Note:LINE DOWN: PROACTIVE TICKET CREATED BY NEXUS FOR SPECTRUM. |MODEL|0x1926771|westboro.storopack.com|Rtr_Cisco|0x10009|
+2001-09-11 05:24:04 Arch [0970082] A  ALPHA  Solutia Sev2 Vantive #19500086.  Problem is with User in Europe experiencing problems sending CC mail to Lotus Notes.  Support engaged. Non-penalty environment. -- From: SYS MANAGEMENT 248-370-1995
+2001-09-11 05:24:08 Arch [1244470] B  ALPHA  PAGE FROM lifeline:  alert 8931483 AMDB_CR dba nyampsyb01.gsam.gs.com AM_CLRPT_PRD2 nyampsyb01.gsam.gs.com_DBA (AM_CLRPT_PRD2): ERROR: Load database AM_CLRPT_PRD2.am_clrpt failed, aborting 
+2001-09-11 05:24:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178370. 
+2001-09-11 05:24:09 Metrocall [002160431] D  ALPHA  57127:1/02:Major; TT677114; TR User Assign; CELL; MDBS; CONTROL PROCESSOR; 09/11/01 02:23:52; DAYT2ER;BU02 - ;No connection to the site. Tech (Anthony) was moving the Voice channels from the old site to the new site and leaving
+2001-09-11 05:24:09 Metrocall [002178508] D  ALPHA  EMAIL "SMe-News"  SMe-News: Online Ad Spending Drops Dear Matt, ~~~~~~~~~~~~~~~~~~  Welcome To SMe-News From Sales & Marketing Executives-International, the worldwide association for sales & marketing management. September 10, 2001  But first...You
+2001-09-11 05:24:10 Skytel [005384405] B  ALPHA  bb@rs1fw1.microtelco.com|!BB - 2751213! rs1d2.microtelco.com.dns - 800063236048190|[2751213]   rs1d2.microtelco.com.dns red Tue Sep 11 09:24:09 GMT 2001 DNS Server on rs1d2.microtelco.com down  Please see: https://rs1fw1m.microtelco.com/bb/
+2001-09-11 05:24:10 Skytel [002350544] A  ALPHA  CenterP@cpq.partner.ge.com| |    Priority 1 case number 261291-1 has been created and placed in the LYN:ALD:C queue.  Please ensure appropriate action is taken  
+2001-09-11 05:24:11 Metrocall [002160431] D  ALPHA  57127:2/02:CDPD on the old site u
+2001-09-11 05:24:11 Metrocall [002178508] D  ALPHA   are re
+2001-09-11 05:24:12 Skytel [005436525] D  ALPHA  Test Message #47-IX_T0710
+2001-09-11 05:24:12 Skytel [004524770] A  ALPHA  wil-WPTZ-ColchesterVT-01: CPE Up at 00:58:01 on 9/11
+2001-09-11 05:24:12 Skytel [005384420] B  ALPHA  bb@rs1fw1.microtelco.com|!BB - 2751212! rs1d2.microtelco.com.dns - 800063236048190|[2751212]   rs1d2.microtelco.com.dns red Tue Sep 11 09:24:09 GMT 2001 DNS Server on rs1d2.microtelco.com down  Please see: https://rs1fw1m.microtelco.com/bb/
+2001-09-11 05:24:12 Skytel [005226605] D ST NUM  8683241850
+2001-09-11 05:24:16 Skytel [005386637] D  ALPHA  bb@rs1fw1.microtelco.com|!BB - 2751210! rs1d2.microtelco.com.dns - 800063236048190|[2751210]   rs1d2.microtelco.com.dns red Tue Sep 11 09:24:09 GMT 2001 DNS Server on rs1d2.microtelco.com down  Please see: https://rs1fw1m.microtelco.com/bb/
+2001-09-11 05:24:16 Skytel [003471110] B SH/TONE 071     
+2001-09-11 05:24:18 Skytel [002278939] C ST NUM  808-313-4189   
+2001-09-11 05:24:18 Skytel [007495325] D SH/TONE 434-9002
+2001-09-11 05:24:20 Metrocall [002700559] D  ALPHA  Frm: "" Sub: Txt: Denver, CO Tue 88/54 Mst Sunny
+2001-09-11 05:24:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9776
+2001-09-11 05:24:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3424
+2001-09-11 05:24:38 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSTRD_EDGNY1) MAYBE OPEN TRANSACTION in syslogshold PYR_ARCHIVE|82 - PDSTRD_EDGNY1 @05:23 09/11/01 
+2001-09-11 05:24:38 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178377. 
+2001-09-11 05:24:38 Skytel [007438026] C SH/TONE 3333 (2 
+2001-09-11 05:24:39 Metrocall [1423264] A  ALPHA  Take meds.
+2001-09-11 05:24:40 Arch [0320272] A  ALPHA  PATROLpatrol - hrnais01.NSQUEUE_PNS-NSQUEUE_PNS-USNS ALARM/ALARM 30<=106.000000<=400.Critical
+2001-09-11 05:24:40 Skytel [002219614] D ST NUM  947-248-2736 (80    
+2001-09-11 05:24:42 Skytel [007041897] C  ALPHA  SEV 2 - 03945247 - GLCSETW - UNEXPECTED FAXER ERROR
+2001-09-11 05:24:42 Skytel [007600874] C SH/TONE 6128    
+2001-09-11 05:24:44 Skytel [005328497] A SH/TONE 9116    
+2001-09-11 05:24:49 Arch [0283793] A  ALPHA  [IS-RTP UP] rtp8-21-1-ap1
+2001-09-11 05:24:49 Arch [1184493] D  ALPHA  [IS-RTP UP] rtp8-21-1-ap1
+2001-09-11 05:24:49 Arch [0927369] C  ALPHA  [IS-RTP UP] rtp8-21-1-ap1
+2001-09-11 05:24:49 Arch [0932748] D  ALPHA  [IS-RTP UP] rtp8-21-1-ap1
+2001-09-11 05:24:50 Skytel [004417186] A ST NUM  370-0311-2
+2001-09-11 05:24:50 Skytel [005414063] D ST NUM  634-718-0056 (84    
+2001-09-11 05:24:51 Arch [0987858] A  ALPHA  09/11/2001 Eastern-Doc Dist. 77 - PALA 33KV BEYOND RAR 0504 o/o MORAGA SUB L/O @ 02:10, TM's being called from home.  DSUB ARE DELUZ, REDMOUNTAIN, AND CALAMAR P.T.  MAJOR AND/OR ESSENTIAL CUSTOMERS AFFECTED
+2001-09-11 05:24:51 Skytel [005358000] A  ALPHA  NAIUnitedStatesCALIFORNIA@Dolch.com|ALERT -  GroupShield ticket number OA25_1000200289_CALIFORNIA was  generated|Action Taken: The attachment was quarantined from the message and replaced with a = text file informing the recipient of the ac
+2001-09-11 05:24:51 Skytel [0000060] D  ALPHA  POST SORT RECAP @ 5:30
+2001-09-11 05:24:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1297..
+2001-09-11 05:24:52 Metrocall [1064375] B  ALPHA  /FTSE  5127.50  +093 NIKK  10292.95  +097 DAX    4764.03  +093 CAC40  4464.94  +081 MIB30  31893   +0329 HSI  10417.36  +0051 30 _99.02/03  5.438% GOLD271.30/180  -020 S 4.17/19  PL 440.00 PD 450.00/0.00  +000 JG 1.420%
+2001-09-11 05:24:52 Skytel [007469753] C SH/TONE 6305    
+2001-09-11 05:24:53 Skytel [005098183] B  ALPHA  test 4
+2001-09-11 05:24:53 Skytel [007555904] A  ALPHA  NAIUnitedStatesCALIFORNIA@Dolch.com|ALERT -  GroupShield ticket number OA25_1000200289_CALIFORNIA was  generated|Action Taken: The attachment was quarantined from the message and replaced with a = text file informing the recipient of the ac
+2001-09-11 05:24:55 Skytel [005107667] A  ALPHA  NAIUnitedStatesCALIFORNIA@Dolch.com|ALERT -  GroupShield ticket number OA25_1000200289_CALIFORNIA was  generated|Action Taken: The attachment was quarantined from the message and replaced with a = text file informing the recipient of the ac
+2001-09-11 05:24:57 Skytel [005330530] A ST NUM  8685222010
+2001-09-11 05:24:57 Skytel [004529512] C SH/TONE 208     
+2001-09-11 05:24:59 Skytel [007510134] B SH/TONE 22      
+2001-09-11 05:24:59 Skytel [007109749] B ST NUM  0-170-783-7017-9    

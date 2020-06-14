@@ -1,0 +1,71 @@
+2001-09-12 02:28:00 Metrocall [1589620] B  ALPHA  Frm: noc@atlantech.net Txt: cf2.bid4assets.com - HTTP is UP
+2001-09-12 02:28:00 Metrocall [1589615] D  ALPHA  Frm: noc@atlantech.net Txt: cf2.bid4assets.com - HTTP is UP
+2001-09-12 02:28:00 Skytel [005255423] D  ALPHA  root@planetu.value.net|LOGIN PAGE ERROR: 66.35.224.211!|09/11/2001 23:23:40 66.35.224.211  280 Web Access Error: 500 Can't connect to 66.35.224.211:80 (Timeout)  
+2001-09-12 02:28:01 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-12 02:28:02 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-12 02:28:02 Skytel [005315855] D  ALPHA  Mana1205@aol.com|(no subject)|the same time/place as today? still okay to call me.    [1443
+2001-09-12 02:28:04 Arch [0477122] A  ALPHA  AZSCOTB51: Backup Operation Failed..Number of Errors/Warnings: 1/
+2001-09-12 02:28:04 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-12 02:28:04 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 91 processes on report2.ccbill.com. Timestamp key: 20010911232502 
+2001-09-12 02:28:04 Arch [1008539] C  ALPHA  (32)omcops.admin@mai|Job Message: SYSMAN:OAS DB Incr |Job Name: OAS DB Incr Backup Owner: SYSMAN Service Name: oas.world Service Type: Database Node Name: atorcnp301-2.corp.sprint.com Status: STARTED Timestamp: 12-Sep-01 2:30:01 AM 
+2001-09-12 02:28:04 Skytel [005110684] D SH/TONE 3447    
+2001-09-12 02:28:06 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 91 processes on report2.ccbill.com. Timestamp key: 20010911232400 
+2001-09-12 02:28:08 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 139.88 106.37 79.37 Tue Sep 11 23:26:29 MST 2001 
+2001-09-12 02:28:09 Skytel [003916610] A  ALPHA  LLY 77.20 UNCH PFE 38.17 UNCH GDT 34.15 UNCH MRK 66.10 UNCH
+2001-09-12 02:28:09 Skytel [002390344] C  ALPHA  agents@monster.com|Monster Recruiter Agent Results - 09/12/2001|Monster Recruiter Agent Results - 09/12/2001  Agent unix and fae matched new resumes Agent program manager matched new resumes  To view the results, go to http://recruiter.mons
+2001-09-12 02:28:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4687
+2001-09-12 02:28:12 Arch [0987275] C  ALPHA  s0191: 09/11 15:41:26 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:41:26
+2001-09-12 02:28:13 Skytel [003664239] D  ALPHA  IBM 96.10 -0.49 ORCL 11.25 +0.18 MSFT 57.37 +1.97 ODP 13.30 -0.55
+2001-09-12 02:28:13 Skytel [004688750] D SH/TONE 3614    
+2001-09-12 02:28:14 Arch [0987275] C  ALPHA  s0191: 09/11 15:47:33 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:47:34
+2001-09-12 02:28:15 Skytel [005129459] A SH/TONE 411411  
+2001-09-12 02:28:16 Arch [0987275] C  ALPHA  s0191: 09/11 15:50:15 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:50:16
+2001-09-12 02:28:16 Arch [0951146] C  ALPHA  59364 TIME 18:23 ACTIVE-ECP1 CELL 53 <BEELINE> CINGULAR TOWER BEACON LIGHT FAILURE
+2001-09-12 02:28:17 Arch [0951184] A  ALPHA  323-5987
+2001-09-12 02:28:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1040
+2001-09-12 02:28:21 Arch [0000101] B  ALPHA  MSN 086 hello Message from NOC PCB.
+2001-09-12 02:28:22 Skytel [005135679] D ST NUM  08007243624    
+2001-09-12 02:28:22 Skytel [005328176] A SH/TONE 5000    
+2001-09-12 02:28:23 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 123.22 102.11 77.57 Tue Sep 11 23:23:59 MST 2001 
+2001-09-12 02:28:26 Skytel [005134810] C  ALPHA  CALL ME AS SOON AS YOU CAN AND MY NAME IS TRIANA 650-330-0439
+2001-09-12 02:28:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3296
+2001-09-12 02:28:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3296
+2001-09-12 02:28:31 Arch [0911134] D  ALPHA   equity71 SYBASE: check_db(PDS1_EQCSWLN) MAYBE OPEN TRANSACTION in syslogshold tempdb|55 - PDS1_EQCSWLN @02:26 09/12/01 
+2001-09-12 02:28:31 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192657. 
+2001-09-12 02:28:32 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: PDSSPX_EQNY1 Sybase  @02:06 09/12/01 
+2001-09-12 02:28:32 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 23:28:39 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 02:28:33 Skytel [002401821] D  ALPHA  ssmcscsm13 N/A CBB0OMDB00:Agent:caiW2kOs:w2kLVolInst:Critical Logical Disk/File System E:.  
+2001-09-12 02:28:33 Skytel [007563802] C SH/TONE 18      
+2001-09-12 02:28:37 Skytel [003510067] A SH/TONE 1636    
+2001-09-12 02:28:41 Skytel [004547038] D SH/TONE 800-7473
+2001-09-12 02:28:41 Skytel [003266515] A  ALPHA  MSFT 57.58 UNCH IBM 96.47 UNCH AAPL 17.37 UNCH
+2001-09-12 02:28:43 Skytel [007596010] C ST NUM  462-920-6441   
+2001-09-12 02:28:44 Arch [1300767] D  ALPHA  AZSCOTB51: Backup Operation Failed..Number of Errors/Warnings: 1/
+2001-09-12 02:28:44 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2561..
+2001-09-12 02:28:45 Skytel [002264307] A SH/TONE 6801    
+2001-09-12 02:28:45 Skytel [002357369] C  ALPHA  002648 CYCLIC TEST 
+2001-09-12 02:28:45 Skytel [003327216] A  ALPHA  002648 CYCLIC TEST 
+2001-09-12 02:28:45 Skytel [004433149] D SH/TONE 373     
+2001-09-12 02:28:45 Skytel [002139900] D SH/TONE 002648  
+2001-09-12 02:28:47 Skytel [004125839] D  ALPHA  8700 (92
+2001-09-12 02:28:50 Skytel [005001895] B  ALPHA  [sps/96] 104 supplier.intel.com relay-ssl 0.0 FAILURE Server closedconnection immediately. (/esds/healthcheck.asp) 4:34:14
+2001-09-12 02:28:50 Skytel [004397995] C  ALPHA  IntelliWatch Monitor: WARNING - Server CVGNA05.US.Schneider-Electric.com/A/SVR/Schneider MAY HAVE crashed. Waiting 300 seconds...
+2001-09-12 02:28:51 Metrocall [1064374] B  ALPHA  YEN  118.87/92 -085 EUR  0.9128/33 +025 CHF  1.6465/95 +060 GBP  1.4726/56 -025 CAD  1.5634/39 -003 AUD  0.5185/90 -010 NZD  0.4295/15 -010 DEM  2.1415/27 -059  E/C  1.5042/44 +051 E/Y  108.53/58 -046 E/S  0.6191/97 -001 USD     113.11 -02
+2001-09-12 02:28:52 Skytel [005205694] D  ALPHA  Amer Online Added More Than 7 Million Members In Past Year[DJ NEWS]
+2001-09-12 02:28:53 Arch [1635918] D  ALPHA  |MyVisto Alerts <aler|New Email at jt@visto.com|F: samuyau.12@lists.postmastergeneral.com S: =3D=3D=3D>Cash Advances*FRE |
+2001-09-12 02:28:53 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: PDS1_EQGSMNY Sybase  @02:05 09/12/01 
+2001-09-12 02:28:53 Arch [0987275] C  ALPHA  s0191: 09/11 11:42:59 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:42:59
+2001-09-12 02:28:54 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:28:54 Skytel [004672718] D ST NUM  900-366-4123   
+2001-09-12 02:28:55 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: PDSSPX_EQNY1 Sybase  @02:06 09/12/01 
+2001-09-12 02:28:55 Arch [0987275] C  ALPHA  s0191: 09/11 11:48:17 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:48:18
+2001-09-12 02:28:55 Metrocall [1064374] B  ALPHA  7
+2001-09-12 02:28:56 Skytel [004681567] D ST NUM  900-426-4252   
+2001-09-12 02:28:56 Skytel [003581147] C  ALPHA  alert@msn.com||Hotmail Zbigniew Bogenryter:horror   (4
+2001-09-12 02:28:57 Arch [0987275] C  ALPHA  s0191: 09/11 11:56:22 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:56:22
+2001-09-12 02:28:58 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #70-IX_T3904
+2001-09-12 02:28:58 Skytel [005330530] A ST NUM  8685222010
+2001-09-12 02:28:58 Skytel [007491946] C ST NUM  677-365-1911-1911   
+2001-09-12 02:28:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8118
+2001-09-12 02:28:59 Arch [0987275] C  ALPHA  s0191: 09/11 11:59:03 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:59:03
+2001-09-12 02:28:59 Metrocall [0111410] A  ALPHA  HELICOPTER LANDING ETA 2:45

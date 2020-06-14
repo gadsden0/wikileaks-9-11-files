@@ -1,0 +1,91 @@
+2001-09-12 01:22:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8051
+2001-09-12 01:22:02 Skytel [005134340] B ST NUM  673-714-3494   
+2001-09-12 01:22:02 Skytel [005043726] D  ALPHA  septii@lithium.sps.mot.com|Equipment REFLOW1 : IDLE --> SCHMNT|REFLOW1 : IDLE --
+2001-09-12 01:22:03 Skytel [004181264] A ST NUM  01325 (81 
+2001-09-12 01:22:03 Skytel [003206037] B ST NUM  416-236-9701   
+2001-09-12 01:22:04 Skytel {1345281} 1 1200 Hong Kong Exchange To Suspend Trade In Nasdaq Shares[DJ NEWS].
+2001-09-12 01:22:05 Skytel {1343146} 1 1200 Hong Kong Exchange To Suspend Trade In Nasdaq Shares[DJ NEWS].
+2001-09-12 01:22:07 Skytel {0619497} 1 2400 31740
+2001-09-12 01:22:12 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-12 01:22:12 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191894. 
+2001-09-12 01:22:14 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-12 01:22:16 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-12 01:22:19 Metrocall [1710284] D  ALPHA  Dispatch E1 RESPONDING TO 137 LAMEUSE, BILOXI LIBRARY FOR FIRE ALARM
+2001-09-12 01:22:19 Metrocall [1923558] B  ALPHA  Frm: SMTPPAGE@gulfaero.com Sub: SILO Txt: SUBPOOL STANDARD, 79 SCRATCH VOLUMES REMAINING 09/12/01 01:22:03
+2001-09-12 01:22:20 Arch [1399066] C  ALPHA  291-4101
+2001-09-12 01:22:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0974
+2001-09-12 01:22:27 Arch [0507190] B  ALPHA  742-2965
+2001-09-12 01:22:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3230
+2001-09-12 01:22:30 Metrocall [1422831] D  ALPHA  / PLEASE CALL DR. NORRIS  AT 731-8630     /
+2001-09-12 01:22:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3230
+2001-09-12 01:22:31 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-12 01:22:32 Skytel [005238147] A SH/TONE 71187   
+2001-09-12 01:22:32 Skytel [007120900] B ST NUM  515-469-7586   
+2001-09-12 01:22:32 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 22:22:21 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 01:22:32 Skytel [002361863] B  ALPHA  PAGEING,1,Application DPIP Informational 4 0 4096 22:20  09/11/01
+2001-09-12 01:22:33 Arch [0987275] C  ALPHA  s0191: 09/11 15:41:26 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:41:26
+2001-09-12 01:22:33 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 21.79 22.94 14.42 Tue Sep 11 22:23:00 MST 2001 
+2001-09-12 01:22:33 Skytel [002822678] B  ALPHA  Hong Kong Exchange To Suspend Trade In Nasdaq Shares[DJ NEWS] (20
+2001-09-12 01:22:33 Skytel [005206684] D  ALPHA  Hong Kong Exchange To Suspend Trade In Nasdaq Shares[DJ NEWS]
+2001-09-12 01:22:35 Arch [0987275] C  ALPHA  s0191: 09/11 15:47:33 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:47:34
+2001-09-12 01:22:35 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 35.14 24.03 16.34 Tue Sep 11 22:23:01 MST 2001 
+2001-09-12 01:22:35 Skytel [002405037] D  ALPHA  nms@svcanms.conxion.com|Sep11-22:22|backbone:datxcis-04:206.204.252.106:bgp DATX TRANSIT PEERING: WILLIAMS AS 7911: BGP state change to down (active) (important peer)  
+2001-09-12 01:22:35 Skytel [007656491] C SH/TONE 867-2443
+2001-09-12 01:22:37 Arch [0282973] D  ALPHA  Please join SitMan Bridge 816-650-0605 PIN 220022.  CTI AD would like Nashville users to also join the bridge.  Thanks Mike Bruns 816-965-1559. 
+2001-09-12 01:22:37 Skytel [0001461] B  ALPHA  GLOBEX   00:21     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 01:22:37 Skytel [002390718] D SH/TONE 4444 (92
+2001-09-12 01:22:37 Skytel [005066807] B ST NUM  209-310-3526   
+2001-09-12 01:22:37 Skytel [007573437] D SH/TONE 1143    
+2001-09-12 01:22:37 Skytel [002794173] D ST NUM  900-866-5141   
+2001-09-12 01:22:39 Skytel [002230464] A  ALPHA  >TRIGGER: CARE11 > SOURCE: CARE01(A24); ITEM: QTR R/S-RR UPR QUAD(ZFQB01) - DING(IN)-11; OPER: 11000000; TRIGGER:0; TALLY: 1. FROM: CARE01  (83
+2001-09-12 01:22:39 Skytel [004587207] B SH/TONE 1289    
+2001-09-12 01:22:39 Skytel [002279627] C ST NUM  0-800-551-8088-1254 
+2001-09-12 01:22:39 Skytel [003206474] C SH/TONE 7220    
+2001-09-12 01:22:40 Arch [0000101] B  ALPHA  MSN 055 hello Message from NOC PCB.
+2001-09-12 01:22:40 Metrocall [002529081] C  ALPHA  CALL JR 718 476 6294
+2001-09-12 01:22:41 Skytel [007003347] A  ALPHA  272-3444 U [4670.CHUNG THERESA       
+2001-09-12 01:22:41 Skytel [1800019] A  ALPHA  GLOBEX   00:21     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-12 01:22:41 Skytel [004547038] D SH/TONE 800-7473
+2001-09-12 01:22:41 Skytel [005477213] D ST NUM  302-439-9346   
+2001-09-12 01:22:43 Skytel [007046500] B SH/TONE 128899  
+2001-09-12 01:22:43 Skytel [007648869] B ST NUM  799-097-0911-911911 
+2001-09-12 01:22:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #78-IX_T1705
+2001-09-12 01:22:43 Skytel [003664239] D  ALPHA  Hong Kong Exchange To Suspend Trade In Nasdaq Shares[DJ NEWS]
+2001-09-12 01:22:43 Skytel [003522539] C SH/TONE 666911  
+2001-09-12 01:22:43 Skytel [004696431] D SH/TONE 641-8367
+2001-09-12 01:22:43 Skytel [007084271] D SH/TONE 248     
+2001-09-12 01:22:44 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2495..
+2001-09-12 01:22:45 Skytel [007058034] A SH/TONE 589-5488
+2001-09-12 01:22:45 Skytel [002357369] C  ALPHA  002626 CYCLIC TEST 
+2001-09-12 01:22:45 Skytel [007109749] B ST NUM  912-4541-1
+2001-09-12 01:22:45 Skytel [004417147] C SH/TONE 25854   
+2001-09-12 01:22:45 Skytel [005325947] C  ALPHA  MyPacifiCare page from: Martha 888-285-0583    aborte sc_2001_bu_01 error loading row 2264. Pls call Martha
+2001-09-12 01:22:45 Skytel [003327216] A  ALPHA  002626 CYCLIC TEST 
+2001-09-12 01:22:45 Skytel [002139900] D SH/TONE 002626  
+2001-09-12 01:22:47 Skytel [007579147] C SH/TONE 1034    
+2001-09-12 01:22:49 Metrocall [1544820] B  ALPHA  CRDC-MAIL04 "Server CRDC-MAIL04/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail3.box. "
+2001-09-12 01:22:49 Metrocall [1466337] A  ALPHA  09/11@23:19:33 DALBK01:An unknown error occurred on device Tap
+2001-09-12 01:22:49 Metrocall [0527020] D  ALPHA  09/12/01 01:23 rad result failed(whc)
+2001-09-12 01:22:49 Metrocall [1064378] C  ALPHA  VIETCOMBANK TO ISSUE U.S. DOLLAR BONDS LATER
+2001-09-12 01:22:49 Metrocall [1064395] C  ALPHA  )?#`B@sHHuq@BvmIbuH\~[B`siZBiOPRZ]NkEPUUuM\`bSydrCRPPi|zISPSHMRKRP@D`PNdzXC
+2001-09-12 01:22:49 Metrocall [1111466] C  ALPHA  09/11@23:19:33...L@.0. ...u..n..l..r@.........................
+2001-09-12 01:22:50 Arch [0921776] A  ALPHA  129099309445
+2001-09-12 01:22:50 Arch [0946478] D  ALPHA    00 stl 893 5920 \ 
+2001-09-12 01:22:50 Skytel [005001895] B  ALPHA  [sps/42] 200 supplier.intel.com relay-rialto105 2.083 Application isokay (/rcc/healthcheck.asp) 2:55:44
+2001-09-12 01:22:50 Skytel [005136045] D ST NUM  602-797-4283   
+2001-09-12 01:22:51 Metrocall [1466337] A  ALPHA  e 13 .
+2001-09-12 01:22:51 Metrocall [1111466] C  ALPHA  e 13 .
+2001-09-12 01:22:52 Arch [0987275] C  ALPHA  s0191: 09/11 15:50:15 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:50:16
+2001-09-12 01:22:52 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191901. 
+2001-09-12 01:22:52 Arch [0739731] A  ALPHA  7200
+2001-09-12 01:22:52 Skytel [005171248] A ST NUM  210-607-9831   
+2001-09-12 01:22:52 Skytel [005492661] B ST NUM  771-646-8806   
+2001-09-12 01:22:53 Arch [0987275] C  ALPHA  sb3: INFO0002 - Trade Count Mismatch Ora=825 Rec=0 (160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:52
+2001-09-12 01:22:53 Metrocall [1466337] A  ALPHA  09/11@23:20:57 DALBK01:Job DALTS02 ended in an error state. Examine recent event log entries and the Job History for details.
+2001-09-12 01:22:53 Metrocall [1111466] C  ALPHA  09/11@23:20:.....L..0. J'....L..0..........................................................................story for details.
+2001-09-12 01:22:55 Arch [0987275] C  ALPHA  s0191: 09/11 15:56:49 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:56:49
+2001-09-12 01:22:56 Skytel [007035485] D  ALPHA  540-8480
+2001-09-12 01:22:56 Skytel [007579357] D ST NUM  0-800-372-2937-8    
+2001-09-12 01:22:58 Skytel [007491946] C ST NUM  9546700911143911911 
+2001-09-12 01:22:59 Metrocall [1544820] B  ALPHA  CRDC-MAIL03 "Server CRDC-MAIL03/MSVR/KAIPERM - The following pending documents in mail2.box are older than 30 minutes 1C2866"
+2001-09-12 01:22:59 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4622

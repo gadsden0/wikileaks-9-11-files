@@ -1,0 +1,78 @@
+2001-09-11 05:19:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2026
+2001-09-11 05:19:00 Metrocall [1146331] C  ALPHA  Frm: 'netsaavers@info.aa.com Sub: american airlines net saaver fares Txt: ********************
+2001-09-11 05:19:00 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * RTN-TO-NRM * 00W MAJ=NONE
+2001-09-11 05:19:00 Metrocall [0000329] C  ALPHA  ..I.I.....E....R..D.......................... 2026
+2001-09-11 05:19:00 Metrocall [1064381] D  ALPHA  INDONESIA SHIPPING - TANJUNG PERAK - SEPT 11
+2001-09-11 05:19:03 Skytel [004437785] C SH/TONE 1003    
+2001-09-11 05:19:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6848
+2001-09-11 05:19:04 Arch [0805280] A  ALPHA  3107640158-31
+2001-09-11 05:19:04 Arch [0986081] A  ALPHA  9418*2H252_25R 10.100.100.26 has lost connectivity
+2001-09-11 05:19:04 Arch [0634239] D  ALPHA  5283*2H252_25R 10.100.100.25 has lost connectivity
+2001-09-11 05:19:04 Arch [0810070] B  ALPHA  9418*2H252_25R 10.100.100.26 has lost connectivity
+2001-09-11 05:19:04 Arch [1425325] D  ALPHA  Equity Productio|optrun_CON|05:17 Counts: MIS_ADV > 3; . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+2001-09-11 05:19:04 Arch [1079409] A  ALPHA  9418*2H252_25R 10.100.100.26 has lost connectivity
+2001-09-11 05:19:05 Skytel [004024864] A  ALPHA  wingmon@firstusa.com||SiteScope neweb102 /webs neweb102 2563 no data    ********************************************************************** This transmission may contain information that is privileged, confidential and/or exempt from dis
+2001-09-11 05:19:06 Arch [0810070] B  ALPHA  5283*2H252_25R 10.100.100.25 has lost connectivity
+2001-09-11 05:19:06 Arch [1079409] A  ALPHA  5283*2H252_25R 10.100.100.25 has lost connectivity
+2001-09-11 05:19:06 Arch [1425325] D  ALPHA  . . . . . . . . . . . . . . . . . . . . . . . . .
+2001-09-11 05:19:06 Arch [0634239] D  ALPHA  2061*Rtr_Cisco W11_Inet02 alarm cleared
+2001-09-11 05:19:06 Arch [0986081] A  ALPHA  5283*2H252_25R 10.100.100.25 has lost connectivity
+2001-09-11 05:19:06 Skytel {1551415} 3 1200 4444 
+2001-09-11 05:19:08 Arch [1425325] D  ALPHA  Equity Productio|OPTRUN LC-cmpld_CON|05:17 Counts: sing portfolio: > 179; . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+2001-09-11 05:19:08 Arch [0810070] B  ALPHA  2061*Rtr_Cisco W11_Inet02 alarm cleared
+2001-09-11 05:19:08 Arch [1079409] A  ALPHA  2061*Rtr_Cisco W11_Inet02 alarm cleared
+2001-09-11 05:19:08 Arch [0634239] D  ALPHA  7618*10.100.1.232 alarm cleared
+2001-09-11 05:19:08 Arch [0986081] A  ALPHA  2061*Rtr_Cisco W11_Inet02 alarm cleared
+2001-09-11 05:19:10 Arch [0810070] B  ALPHA  7618*10.100.1.232 alarm cleared
+2001-09-11 05:19:10 Arch [1079409] A  ALPHA  7618*10.100.1.232 alarm cleared
+2001-09-11 05:19:10 Arch [0986081] A  ALPHA  7618*10.100.1.232 alarm cleared
+2001-09-11 05:19:12 Arch [0986081] A  ALPHA  5276*10.100.1.233 alarm cleared
+2001-09-11 05:19:13 Arch [0810070] B  ALPHA  5276*10.100.1.233 alarm cleared
+2001-09-11 05:19:13 Arch [1079409] A  ALPHA  5276*10.100.1.233 alarm cleared
+2001-09-11 05:19:13 Arch [0634239] D  ALPHA  5276*10.100.1.233 alarm cleared
+2001-09-11 05:19:15 Arch [0634239] D  ALPHA  9418*2H252_25R 10.100.100.26 has lost connectivity
+2001-09-11 05:19:19 Arch [0915934] D  ALPHA  |Case in SPSG-US-NShift |P3 *ANS*ALPS router crash (Other::Other #189DD647) from 05:19|86  
+2001-09-11 05:19:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9771
+2001-09-11 05:19:27 Arch [0000101] B  ALPHA  MSN 115 hello Message from NOC PCB.
+2001-09-11 05:19:28 Arch [0931795] A  ALPHA  [IS-HQ DOWN] ftp-poc-1 FTP
+2001-09-11 05:19:28 Arch [0930546] A  ALPHA  Alarm: 02:19:41AM  Boiler Network connect   Site 4 Bldg 7 Hot water supply temp is out of range.
+2001-09-11 05:19:30 Arch [0931795] A  ALPHA  [IS-HQ DOWN] ftp-poc-1
+2001-09-11 05:19:31 Metrocall [002700559] D  ALPHA  Frm: MyOnTheGoPortfolio News Sub: Txt: AMR Corp issues 3Q'2001 profit warning
+2001-09-11 05:19:31 Metrocall [1402544] A  ALPHA  Frm: freeinfo@clearad.port5.com Sub: ADV: Making SERIOUS money has never been this EASY!! hkdyc Txt: NEW CD ROM is helping to Cr
+2001-09-11 05:19:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3419
+2001-09-11 05:19:32 Arch [0931795] A  ALPHA  [IS-HQ UP] ftp-poc-1 FTP
+2001-09-11 05:19:32 Arch [0968156] D  ALPHA  From root@espimi01.wal-mart.com: "com_queue Cache At 10012 - p(0)m(2000)"  
+2001-09-11 05:19:32 Arch [1034502] B  ALPHA  From root@espimi01.wal-mart.com: "com_queue Cache At 10012 - p(0)m(2000)"  
+2001-09-11 05:19:32 Arch [1644183] B  ALPHA  ALBANY TC ESCAPE/RECAPTURE/MOTHER RETURNED HIM TO CNTR/HE'S AT LEE SP-ND
+2001-09-11 05:19:33 Metrocall [1402544] A  ALPHA  eate HUGE FORTUNES!! Free Info: * What if you could make a full time income handing/sending out a $1.25 CD ROM? * What if the company paid you EVERY DAY? * What if it was a New York
+2001-09-11 05:19:33 Skytel [005061905] A  ALPHA  adhoc f1586 mem/ewr sta 09:30am loaded w/2 pos ewr....2 1/2 pos jfk.....1 pos swf-am ctl 347
+2001-09-11 05:19:34 Arch [0931795] A  ALPHA  [IS-HQ UP] ftp-poc-1
+2001-09-11 05:19:35 Skytel [003204769] A SH/TONE 1       
+2001-09-11 05:19:36 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSTRD_EDGNY1) MAYBE OPEN TRANSACTION in syslogshold PYR_ARCHIVE|77 - PDSTRD_EDGNY1 @05:18 09/11/01 
+2001-09-11 05:19:36 Skytel [002553148] D SH/TONE         
+2001-09-11 05:19:40 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 05:19:40 Skytel [005111765] B  ALPHA  adhoc f1586 mem/ewr sta 09:30am loaded w/2 pos ewr....2 1/2 pos jfk.....1 pos swf-am ctl 347
+2001-09-11 05:19:40 Skytel [005422295] B ST NUM  627-343-3884   
+2001-09-11 05:19:40 Skytel [004417493] B ST NUM  770-803-5900   
+2001-09-11 05:19:40 Skytel [007557212] D  ALPHA  adhoc f1586 mem/ewr sta 09:30am loaded w/2 pos ewr....2 1/2 pos jfk.....1 pos swf-am ctl 347
+2001-09-11 05:19:42 Skytel [003914349] D  ALPHA  EcommSVC@AutoNation.com|New Lead|New Lead has arrived  
+2001-09-11 05:19:42 Skytel [005043559] B  ALPHA  150.ARENER MANUFACT     
+2001-09-11 05:19:44 Skytel [003327216] A  ALPHA  002225 CYCLIC TEST 
+2001-09-11 05:19:44 Skytel [002750709] B SH/TONE 76245   
+2001-09-11 05:19:44 Skytel [002357369] C  ALPHA  002225 CYCLIC TEST 
+2001-09-11 05:19:44 Skytel [002139900] D SH/TONE 002225  
+2001-09-11 05:19:46 Skytel [002559104] A SH/TONE 76245   
+2001-09-11 05:19:49 Arch [0986477] D  ALPHA  "WhatsUp" <whats|Mandalay WebServer HTTP DOWN at |Mandalay WebServer HTTP DOWN at 01:56:57 Address: 216.85.144.137 Info 1: Web Server Home on ResWeb2 Info 2: CCEMBY Date: 09/11/2001 Status: unknown ( 1) Svcs: HTTP 
+2001-09-11 05:19:51 Arch [0986477] D  ALPHA  Resort WebServer HTTP DOWN at 01:56:57 Address: 216.85.144.135 Info 1: Web Server Home on ResWeb2 Info 2: CCERST Date: 09/11/2001 Status: unknown ( 1) Svcs: HTTP 
+2001-09-11 05:19:51 Skytel [003329328] A  ALPHA  MSFT 57.58 +2.18 SUNW 10.29 -0.30 CSCO 14.47 +0.11 IBM 96.47 -0.12 (37
+2001-09-11 05:19:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1292..
+2001-09-11 05:19:53 Skytel [005107783] B SH/TONE 357-3577
+2001-09-11 05:19:57 Skytel [005112809] C  ALPHA  04:16CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240416: Uncorrectable write error
+2001-09-11 05:19:57 Skytel [004524770] A  ALPHA  spf-Agrimark-WSpringfieldMA-01: CPE Up at 00:58:59 on 9/11
+2001-09-11 05:19:57 Skytel [005436525] D  ALPHA  Test Message #44-IX_T0515
+2001-09-11 05:19:57 Skytel [005103459] A SH/TONE 800-7597
+2001-09-11 05:19:58 Arch [1265683] A  ALPHA  1/02:****CHG-TKT**** TYPE: Major  OP: 08/31/01 11:05:55 Tkt: NOC000000083771 STAT: Monitor  COMPANY NAME: BellSouth.Net Inc.   SITE: Atlanta 1100  LOG: This is just a TELEALERT test.  Please do not re
+2001-09-11 05:19:58 Arch [1033132] D  ALPHA  "Personnel Onlin|Careers In Call Centers|
+2001-09-11 05:19:58 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178321. 
+2001-09-11 05:19:58 Arch [0986477] D  ALPHA  Monte WebServer HTTP DOWN at 01:56:57 Address: 216.85.144.136 Info 1: Web Server Home on ResWeb2 Info 2: CCEMTC Date: 09/11/2001 Status: unknown ( 1) Svcs: HTTP 
+2001-09-11 05:19:59 Skytel [007109749] B ST NUM  611-576-6771-70111  

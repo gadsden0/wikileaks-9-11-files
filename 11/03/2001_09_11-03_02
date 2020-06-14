@@ -1,0 +1,69 @@
+2001-09-11 03:02:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1889
+2001-09-11 03:02:00 Metrocall [1062690] A  ALPHA  12168 TIME 02:57 ACTIVE-Pitt  PA4098_NatHgt x25CircuitDown
+2001-09-11 03:02:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1889
+2001-09-11 03:02:03 Skytel [007641751] B SH/TONE 5827    
+2001-09-11 03:02:03 Skytel [004534296] C ST NUM  0-774-417-1776-06414
+2001-09-11 03:02:03 Skytel {1092655} 3 2400 002179    
+2001-09-11 03:02:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6711
+2001-09-11 03:02:07 Arch [0911134] D  ALPHA   equity71 SYBASE: check_db(PDS1_EQCSWLN) MAYBE OPEN TRANSACTION in syslogshold tempdb|91 - PDS1_EQCSWLN @03:01 09/11/01 
+2001-09-11 03:02:07 Arch [0911337] C  ALPHA  COLO-FWL@telhub.|Check /var/log/messages for COLO|
+2001-09-11 03:02:07 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 176800. 
+2001-09-11 03:02:12 Arch [1033132] D  ALPHA  "ihd2" <ihd2@ind|IHD 2001|
+2001-09-11 03:02:13 Skytel {1551415} 3 1200 4444 
+2001-09-11 03:02:24 Arch [0939437] D  ALPHA  CA Helpdesk <CAH|mc0300ux211|CR: 102949 Priority: 5 Assigned to: Calev, Fred Summary:: Hardware installation/reconfiguration/failure 
+2001-09-11 03:02:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9634
+2001-09-11 03:02:29 Arch [1184493] D  ALPHA  [IS-RTP UP] rtp8-21-1-ap1
+2001-09-11 03:02:29 Arch [0927369] C  ALPHA  [IS-RTP UP] rtp8-21-1-ap1
+2001-09-11 03:02:29 Arch [0932748] D  ALPHA  [IS-RTP UP] rtp8-21-1-ap1
+2001-09-11 03:02:29 Arch [0283793] A  ALPHA  [IS-RTP UP] rtp8-21-1-ap1
+2001-09-11 03:02:30 Metrocall [1457849] C  ALPHA  From: mcep001 ==>   SPAB: put7........i..d.....0. ...........................
+2001-09-11 03:02:30 Metrocall [0007690] C  ALPHA  .............................................ER  3282
+2001-09-11 03:02:33 Skytel [002401821] D  ALPHA  ssmcscsm13 N/A CBB0SMS00:Agent:caiW2kOs:w2kLVolInst:Warning Logical Disk/File System C:.  
+2001-09-11 03:02:33 Skytel [005067805] D SH/TONE 766-2222
+2001-09-11 03:02:35 Skytel [003944611] A  ALPHA  CIM@innovex.com|ITMS-IIS-LAN1 : Device Inaccessible|ITMS-IIS-LAN1:Device Inaccessible  
+2001-09-11 03:02:35 Skytel [004390436] B SH/TONE 17593   
+2001-09-11 03:02:35 Skytel [005426976] A  ALPHA  988-2320 (13
+2001-09-11 03:02:35 Skytel [003460777] C SH/TONE 1       
+2001-09-11 03:02:35 Skytel [003934628] B  ALPHA  23985@emc.fedex.com||second floor differential is 68,551 at this time, secondary 2 is at 15,000  
+2001-09-11 03:02:36 Skytel [002839867] C  ALPHA  23985@emc.fedex.com|second floor differential is 68,551 at this time, secondary 
+2001-09-11 03:02:38 Skytel [002400326] B  ALPHA  julie.rodriguez@fritz.com||ABI is back up as of 1:53am.  
+2001-09-11 03:02:38 Skytel [004783809] A  ALPHA  FALLA DE ENLACES GRAL EN IRAPUATO, GUADALAJARA, HERMOSILLO, CD FRONTERA, FELIPE PESCADOR REP#091101-2672 RED1..SAS (1 (1
+2001-09-11 03:02:38 Skytel [005204168] C SH/TONE 2167    
+2001-09-11 03:02:38 Skytel [003481167] D ST NUM  614-431-4302   
+2001-09-11 03:02:39 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 79.52 61.58 36.00 Tue Sep 11 00:03:00 MST 2001 
+2001-09-11 03:02:39 Metrocall [002589695] D  ALPHA  Frm: ercoracledbagroup@ercgroup.com Sub: EVENT TSFull_EDBUP01 CLEARED Txt: Name : TSFull_EDBUP01 Target Name : pvmco.world Target Type : Database Node Name : er-edb-up01.erc.gecapital.com Tablespace Full Event te
+2001-09-11 03:02:39 Metrocall [1314835] A  ALPHA  s3,00501385,ack,WILEM_NM2 ,WILEM_NM2 SANITYCHECK EA system is functioning proper
+2001-09-11 03:02:40 Skytel [005090266] C SH/TONE 7535    
+2001-09-11 03:02:41 Metrocall [002589695] D  ALPHA  st "Tablespace Full" is cleared CLEARED Sep 11 2001 02:02:33 AM
+2001-09-11 03:02:42 Arch [1049757] D  ALPHA   ASU-1,2 AND RE-1,2 VFD FAULT *****                                          01:39
+2001-09-11 03:02:42 Skytel [003280491] C  ALPHA  MsgID 15338:Tag UNIX Ops 722-2959:pdw2stl1: Task PreAggAadv has FAILED at Tue Sep 11 01:59:34 CDT 2001 (Batch Process...
+2001-09-11 03:02:42 Skytel [004401903] D SH/TONE 88      
+2001-09-11 03:02:42 Skytel [005436525] D  ALPHA  Test #25
+2001-09-11 03:02:42 Skytel [003664239] D  ALPHA  IBM 95.87 -0.72 ORCL 11.21 +0.14 MSFT 56.76 +1.36 ODP 13.64 -0.21
+2001-09-11 03:02:42 Skytel [004430062] D ST NUM  633-723-7911-1 
+2001-09-11 03:02:42 Skytel [004524770] A  ALPHA  spf-WaveSystems-LeeMA-01: CPE Down at 00:37:03 on 9/11
+2001-09-11 03:02:44 Skytel [007101042] A SH/TONE 4725    
+2001-09-11 03:02:44 Skytel [003076470] B  ALPHA  NOVL 3.98 +0.06 NSCP 0.00 UNCH MSFT 56.76 +1.36 IBM 95.87 -0.72 (44
+2001-09-11 03:02:44 Skytel [004576507] C  ALPHA  sybase@swbtq.Central.Sun.COM|PROBLEM: BUGRPT lags by 30 mins|Tue Sep 11 01:02:40 MDT 2001 Sybase data server BUGRPT is behind of BUGTRAQ   
+2001-09-11 03:02:46 Skytel [004756227] A SH/TONE 333-8717
+2001-09-11 03:02:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 00:01:39 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 03:02:46 Skytel [004571022] D ST NUM  809-9266-2
+2001-09-11 03:02:48 Skytel [003267485] D SH/TONE 5148    
+2001-09-11 03:02:48 Skytel [002861584] A ST NUM  8685429377
+2001-09-11 03:02:48 Skytel [003944209] A ST NUM  306-674-4605   
+2001-09-11 03:02:50 Metrocall [002589689] C  ALPHA  Frm: ercoracledbagroup@ercgroup.com Sub: EVENT TSFull_EDBUP01 CLEARED Txt: Name : TSFull_EDBUP01 Target Name : pvmco.world Target Type : Database Node Name : er-edb-up01.erc.gecapital.com Tablespace Full Event test "Tablespace Full" is 
+2001-09-11 03:02:50 Metrocall [1902004] B  ALPHA  Frm: Bbrother Sub: !BB - 1132410! beta.disk - 100208184226141 Txt: [1132410] purple Wed Sep 5 21:22:48 PDT 2001 - Disk on beta at WARNING level &yellow /home (87%) has reached the defined disk space WARNING level (85%) /dev/vg1/var 524268 7
+2001-09-11 03:02:51 Skytel [0001461] B  ALPHA  GLOBEX   02:02     GEH    9663  UNCH    GEM    ----   ----   ESU  109625    50+   SPU  109660    90+   NDU  137450   400+   6JZ    8300    43-   6EZ    8971A    9-   6SZ    5938B    2-   6BZ   14504B   24-   6CZ    6388B    2-   
+2001-09-11 03:02:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1155..
+2001-09-11 03:02:52 Metrocall [002589689] C  ALPHA  cleared CLEARED Sep 11 2001 02:02:33 AM
+2001-09-11 03:02:52 Metrocall [1061722] C  ALPHA  Frm: Bbrother Sub: !BB - 1132410! beta.disk - 100208184226141 Txt: [1132410] purple Wed Sep 5 21:22:48 PDT 2001 - Disk on beta at WARNING level &yellow /home (87%) has reached the defin
+2001-09-11 03:02:53 Skytel [002845771] C  ALPHA  PHA 39.98 -0.29 MRK 64.63 +0.33 PFE 37.72 +0.72
+2001-09-11 03:02:54 Metrocall [1061722] C  ALPHA  ed disk space WARNING level (85%) /dev/vg1/var 524268 7
+2001-09-11 03:02:55 Skytel [003448531] A SH/TONE 1127    
+2001-09-11 03:02:55 Skytel [002283345] A SH/TONE 408317  
+2001-09-11 03:02:55 Skytel [1800019] A  ALPHA  GLOBEX   02:02     GEH    9663  UNCH    GEM    ----   ----   ESU  109625    50+   SPU  109660    90+   NDU  137450   400+   6JZ    8300    43-   6EZ    8971A    9-   6SZ    5938B    2-   6BZ   14504B   24-   6CZ    6388B    2-   
+2001-09-11 03:02:55 Skytel [003050969] C SH/TONE         
+2001-09-11 03:02:55 Skytel [005003484] D  ALPHA  XCP1 13452 - Memory error, please log on and check services!! 
+2001-09-11 03:02:57 Skytel [007557734] B  ALPHA  URGENT: PLS CALL ME. -RAJESH 00447771790780
+2001-09-11 03:02:58 Metrocall [1457849] C  ALPHA  From: mcep001 ==>   SPAB: put#..& ...........................................
+2001-09-11 03:02:58 Metrocall [1064377] C  ALPHA  .....................................................................................................................................................................

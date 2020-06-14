@@ -1,0 +1,147 @@
+2001-09-11 23:26:00 Arch [1424510] D  ALPHA  07. Signal back at 23:04:00 ET total outage 01:03:20 issue closed.
+2001-09-11 23:26:00 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7935
+2001-09-11 23:26:00 Arch [0903922] A  ALPHA  ssue closed.
+2001-09-11 23:26:00 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-11 23:26:00 Arch [0554684] D  ALPHA  e closed.
+2001-09-11 23:26:00 Arch [1244470] B  ALPHA  PAGE FROM lifeline:  alert 8943065 AMDB_TPS dba nodbpss01.eq.gs.com AM_TPS_PRD nyampsyb01.gsam.gs.com_DBA (AM_TPS_PRD): Problem connecting to AM_TPS_PRD.Parms 
+2001-09-11 23:26:00 Skytel [003513968] A SH/TONE 533-0601
+2001-09-11 23:26:00 Skytel [007035519] D  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:00 Skytel [007109749] B ST NUM  755-156-8011-7 
+2001-09-11 23:26:00 Skytel [002382588] D SH/TONE 99      
+2001-09-11 23:26:00 Skytel [005060606] D  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:00 Skytel [007481215] D ST NUM  512-372-5557   
+2001-09-11 23:26:03 Skytel [005049241] C ST NUM  603-395-7660   
+2001-09-11 23:26:03 Skytel [003505310] D SH/TONE 70265   
+2001-09-11 23:26:05 Skytel [004750624] A SH/TONE 
+2001-09-11 23:26:05 Skytel [002366500] B  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:05 Skytel [005116580] B ST NUM  603-823-0992   
+2001-09-11 23:26:05 Skytel [005243307] C SH/TONE 800-7125
+2001-09-11 23:26:05 Skytel [002859682] A  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:05 Skytel [007579295] D SH/TONE 662-2811
+2001-09-11 23:26:06 Skytel {1586752} 3 1200 815-467-7332   
+2001-09-11 23:26:06 Skytel {0662431} 1 1200 1710575   
+2001-09-11 23:26:07 Skytel {0176591} 1 1200 chewyuen:e: <DIV><FONT face=3DArial size=3D2>Anyway, keep me updated tom. &amp; 
+2001-09-11 23:26:08 Metrocall [002567097] C  ALPHA  KFC Petal MS: C-Store   AC 2 DISCH  SNS FAIL
+2001-09-11 23:26:08 Metrocall [1539825] A  ALPHA  Take evening medication.
+2001-09-11 23:26:08 Metrocall [1543816] C  ALPHA  Time to take medication.
+2001-09-11 23:26:08 Metrocall [002110425] C  ALPHA  Remember your medication.
+2001-09-11 23:26:08 Metrocall [002110477] D  ALPHA  Take meds
+2001-09-11 23:26:08 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4505
+2001-09-11 23:26:08 Metrocall [002619200] A  ALPHA  Frm: NC1@enron.com Sub: Txt: GCO-MountVernon3810 Node is UP ( Wan-Router ) 172.31.16.33 Tue Sep 11 22:27:09 2001
+2001-09-11 23:26:08 Skytel {1891159} 3 1200 4444 
+2001-09-11 23:26:09 Skytel {1092655} 3 2400 002587    
+2001-09-11 23:26:13 Arch [0924703] D  ALPHA  297-4936
+2001-09-11 23:26:13 Arch [1426079] D  ALPHA  PAGE FROM lifeline:  alert 8943073 PRIME PS1 insdb8502.inz.gs.com PRIME-FEED-IDC216 job has failed 
+2001-09-11 23:26:13 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-11 23:26:13 Arch [1244470] B  ALPHA  PAGE FROM lifeline:  alert 8943071 AMDB_VAL dba nodbpss01.eq.gs.com AM_VAL_PRD nyampsyb01.gsam.gs.com_DBA (AM_VAL_PRD): Problem connecting to AM_VAL_PRD.Parms 
+2001-09-11 23:26:15 Arch [0987275] C  ALPHA  s0191: 09/11 15:14:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:14:21
+2001-09-11 23:26:17 Metrocall [1064377] C  ALPHA  SED96995/97180/9708 9670/9627/9582/9550 SEY9994/991/991/990 SSI _9670/_9660-630 JGB...@.!C.  ..P..@....&@.*...............................................................................................10328+
+2001-09-11 23:26:19 Arch [0435448] C  ALPHA  From CRBC,  BOSS Ila Ottinger . At 22:00:40 ET  signal loss on WWOR NY  UPN VC 907. Signal back at 23:04:00 ET total outage 01:03:20 issue closed.
+2001-09-11 23:26:19 Arch [1650130] A  ALPHA  From CRBC,  BOSS Ila Ottinger . At 22:00:40 ET  signal loss on WWOR NY  UPN VC 907. Signal back at 23:04:00 ET total outage 01:03:20 issue closed.
+2001-09-11 23:26:19 Arch [1399150] D  ALPHA  Web Access <www@|Schedule Ops,should be on essential access list into KAFB.Thanks Roman 
+2001-09-11 23:26:19 Metrocall [002106357] B  ALPHA  Time to take medication.
+2001-09-11 23:26:19 Metrocall [002460924] D  ALPHA  [FAH]:try calling me again please when you get a chance+
+2001-09-11 23:26:20 Skytel {1890143} 3 1200 323-2676  
+2001-09-11 23:26:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0858
+2001-09-11 23:26:22 Arch [0000101] B  ALPHA  MSN 127 hello Message from NOC PCB.
+2001-09-11 23:26:22 Arch [0908981] B  ALPHA  Web Access <www@|Schedule Ops,should be on essential access list into KAFB.Thanks Roman 
+2001-09-11 23:26:22 Arch [0968915] A  ALPHA  Web Access <www@|Schedule Ops,should be on essential access list into KAFB.Thanks Roman 
+2001-09-11 23:26:22 Arch [1052294] B  ALPHA  jzimmer|Steve, pls call Ops 408 527 0007 re: desperate for help with TRC problem | Jeff/Ops   
+2001-09-11 23:26:26 Arch [1642369] A  ALPHA  ||Mughrib @8:35PM|17  
+2001-09-11 23:26:26 Arch [0925366] B  ALPHA   318643;Sep 11 19:27:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 23:26:31 Metrocall [1544820] B  ALPHA  HON-NS1 IW Monitor "Server HON-NS1/HI/DSVR/KAIPERM - Mail.box has had 188 documents for at least 10 mins. Further investigation may be required. <MESSAGE> "
+2001-09-11 23:26:31 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMB
+2001-09-11 23:26:31 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3114
+2001-09-11 23:26:31 Metrocall [0776055] B  ALPHA  Frm: MeMail.com Sub: Believe It Txt: MeMail.com: Joke of the Day ` , , ` , , OUR SPONSOR , , ` , , ` "Who Else Wants $75k, Working From Home?" You may feel that you
+2001-09-11 23:26:32 Arch [0987275] C  ALPHA  sb3: INFO0021 - 2:45PM - POSI batch has not arrived(160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:15
+2001-09-11 23:26:32 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190571. 
+2001-09-11 23:26:32 Metrocall [0476499] A  ALPHA  ER  3114
+2001-09-11 23:26:32 Metrocall [0776055] B  ALPHA  'll never find a way to make a livin
+2001-09-11 23:26:32 Skytel [003920778] C  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:32 Skytel [003928591] D SH/TONE 4088    
+2001-09-11 23:26:32 Skytel [004592271] D SH/TONE 26425   
+2001-09-11 23:26:32 Skytel [004525450] C SH/TONE 379-7236
+2001-09-11 23:26:32 Skytel [007035523] A  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:33 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-11 23:26:33 Skytel [005485460] B ST NUM  370-798-2500   
+2001-09-11 23:26:33 Skytel [003483035] C ST NUM  901-953-1000-911    
+2001-09-11 23:26:35 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-11 23:26:35 Skytel [003261483] C SH/TONE 946-7669
+2001-09-11 23:26:35 Skytel [003257632] A  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:35 Skytel [004697133] D ST NUM  515-281-7480   
+2001-09-11 23:26:35 Skytel [004039714] A  ALPHA  800-227-3030 (46
+2001-09-11 23:26:35 Skytel [007542956] D ST NUM  9779123966
+2001-09-11 23:26:35 Skytel [002673830] B  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:37 Skytel [0001461] B  ALPHA  GLOBEX   22:25     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-11 23:26:37 Skytel [005110712] C SH/TONE 24      
+2001-09-11 23:26:37 Skytel [003260990] D  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:37 Skytel [002840766] D  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly mainte
+2001-09-11 23:26:37 Skytel [005413051] C ST NUM  900-973-2867 (90    
+2001-09-11 23:26:37 Skytel [007512882] A ST NUM  333-888-2225-5 
+2001-09-11 23:26:37 Skytel [007031216] A  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:37 Skytel [005510333] D SH/TONE 85064   
+2001-09-11 23:26:37 Skytel [007035572] B  ALPHA  "FYI" DesMoines  Ticket84737 10:
+2001-09-11 23:26:37 Skytel [005061043] A  ALPHA  35) "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:37 Skytel [007493949] D ST NUM  714-540-5835   
+2001-09-11 23:26:37 Skytel [005344945] A  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went
+2001-09-11 23:26:39 Arch [0951146] C  ALPHA  PA145 ERIE SUMMIT ALM 1-8  : CCCCCCCC RLY 1-2  : CC
+2001-09-11 23:26:39 Arch [1438901] B  ALPHA  OCC <netcool@oh1|Node oh02m13mux05.net.reyrey.com has problem; Mux DOWN Event Has Occurred : CARD A REPORTING: Channel # 0:With Status 0 - 1 - 4 - 0 Severity 5 Sent by OCC 
+2001-09-11 23:26:39 Skytel [005060293] B  ALPHA  alert@msn.com||Hotmail susie oberkirsch:  
+2001-09-11 23:26:39 Skytel [007558729] C  ALPHA  wtclar@us.ibm.com||Paging oncall ADS person. Please call NCC @ 770-663-9660 , regarding  US Clearing connection is down. Due to the problem in New York City. NCC tr# 16597279  
+2001-09-11 23:26:39 Skytel [002840766] D  ALPHA  nance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:39 Skytel [007438026] C SH/TONE 3333 (59
+2001-09-11 23:26:39 Skytel [005210183] B  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:39 Skytel [007035572] B  ALPHA  24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:39 Skytel [002553162] C SH/TONE 2       
+2001-09-11 23:26:39 Skytel [002518603] C SH/TONE 56      
+2001-09-11 23:26:39 Skytel [005344945] A  ALPHA   down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:39 Skytel [007584332] D ST NUM  1-510-366-4711 
+2001-09-11 23:26:41 Arch [1438901] B  ALPHA  OCC <netcool@oh1|Node oh02m13mux05.net.reyrey.com has problem; Mux DOWN Event Has Occurred : MINOR ALARM: Channel # 0:With Status 0 - 1 - 4 - 0 Severity 5 Sent by OCC 
+2001-09-11 23:26:41 Skytel [007660371] A ST NUM  800-233-4116   
+2001-09-11 23:26:41 Skytel [1800019] A  ALPHA  GLOBEX   22:25     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-11 23:26:41 Skytel [007047007] D SH/TONE 3605    
+2001-09-11 23:26:43 Arch [1438901] B  ALPHA  OCC <netcool@oh1|Node oh02m13mux05.net.reyrey.com has problem; Mux DOWN Event Has Occurred : ON-LINE CARD: Channel # 0:With Status 0 - 1 - 4 - 0 Severity 5 Sent by OCC 
+2001-09-11 23:26:43 Skytel [007047533] D  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:43 Skytel [007592038] B SH/TONE 888-3726
+2001-09-11 23:26:43 Skytel [003917932] D  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:43 Skytel [002353127] B  ALPHA  NewsDay@Firehouse.com||Firehouse.com Breaking News: Officials now reporting that 265 firefighters and rescue personnel, plus dozens of other medical and police officers, perished in today's attacks in New York. Among those killed was the FD
+2001-09-11 23:26:45 Skytel [007458928] A ST NUM  816-455-8625   
+2001-09-11 23:26:45 Skytel [007035508] B  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:45 Skytel [004527605] B SH/TONE 1599    
+2001-09-11 23:26:45 Skytel [007011444] B SH/TONE 805-0588
+2001-09-11 23:26:45 Skytel [005045887] D  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:45 Skytel [004414841] C ST NUM  9007596245
+2001-09-11 23:26:45 Skytel [005323254] B  ALPHA  078284 [6797
+2001-09-11 23:26:45 Skytel [005059705] C SH/TONE 1229    
+2001-09-11 23:26:45 Skytel [007048946] A  ALPHA  wtclar@us.ibm.com||Paging oncall ADS person. Please call NCC @ 770-663-9660 , regarding  US Clearing connection is down. Due to the problem in New York City. NCC tr# 16597279  
+2001-09-11 23:26:45 Skytel [005317748] B ST NUM  900-393-5160   
+2001-09-11 23:26:45 Skytel [004550270] D  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:48 Skytel [002694547] A  ALPHA  41) wtclar@us.ibm.com||Paging oncall ADS person. Please call NCC @ 770-663-9660 , regarding  US Clearing connection is down. Due to the problem in New York City. NCC tr# 16597279  
+2001-09-11 23:26:48 Skytel [002401821] D  ALPHA  saspcd00 Distributed Monitoring PALM.dm.ussa17.Unix.saspcd00/Daemon status on host saspcd00 09/11/01 20:19:17 PDT  Status: >>> critical <<< ussa17.PALM 
+2001-09-11 23:26:50 Skytel [005250210] A ST NUM  947-678-4488   
+2001-09-11 23:26:50 Skytel [005353507] A SH/TONE 213-7003
+2001-09-11 23:26:50 Skytel [005001895] B  ALPHA  [sps/179] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/Ivep/healthcheck.asp) 2:38:08
+2001-09-11 23:26:52 Arch [0739731] A  ALPHA  7200
+2001-09-11 23:26:52 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-11 23:26:52 Skytel [007559603] A ST NUM  654-299-6911-411911 
+2001-09-11 23:26:52 Skytel [005000868] B SH/TONE 0500    
+2001-09-11 23:26:52 Skytel [005073467] C ST NUM  491-088-8980-0 
+2001-09-11 23:26:54 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-11 23:26:54 Arch [0935204] B  ALPHA  Armando Vargas <|first e-mail|Hay dad, I just wanted to bug you! bye! __________________________________________________ Do You Yahoo!? Get email alerts & NEW webcam video instant messaging with Yahoo! Messenger http://im.yahoo.com 
+2001-09-11 23:26:54 Skytel [005329863] B  ALPHA  CALL 630 697 4474 IMMEDIATELY AT THE UNITED CENTER. ANIBEL
+2001-09-11 23:26:54 Skytel [007558853] B ST NUM  917-767-6670   
+2001-09-11 23:26:54 Skytel [005508800] A  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:54 Skytel [007031502] D  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:54 Skytel [005188428] D SH/TONE 658-1385
+2001-09-11 23:26:54 Skytel [007554250] C SH/TONE 
+2001-09-11 23:26:54 Skytel [007031106] A  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:56 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-11 23:26:56 Arch [0902293] B  ALPHA  jawood|Dillard, please call 525-4373 ASAP Thanks   
+2001-09-11 23:26:56 Skytel [004737368] C  ALPHA  CPI2404 SYS02 Waiting for reply to message on message queue QSYSOPR. 09/11/01 23:26 QPGMR
+2001-09-11 23:26:56 Skytel [004438100] B ST NUM  900-318-5601   
+2001-09-11 23:26:56 Skytel [002283866] C SH/TONE 283     
+2001-09-11 23:26:56 Skytel [007653723] C ST NUM  894-764-4911-411    
+2001-09-11 23:26:56 Skytel [007035485] D  ALPHA  "FYI" DesMoines  Ticket84737 10:24p  I:The BOOS system went down for nightly maintenance. It  is currently back up.  E:DesMOines TEch  DavidV18005731219
+2001-09-11 23:26:58 Skytel [005436525] D SH/TONE 6       
+2001-09-11 23:26:58 Skytel [004746981] B SH/TONE 663-3237
+2001-09-11 23:26:59 Metrocall [002119221] B  ALPHA  to the server fa

@@ -1,0 +1,96 @@
+2001-09-12 02:15:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4674
+2001-09-12 02:15:01 Arch [1398238] D  ALPHA  knox6060(161.44.216.60): failed ifDescr check, expected: hme0, got: timeout for hme0
+2001-09-12 02:15:02 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 122 processes on report1.ccbill.com. Timestamp key: 20010911231301 
+2001-09-12 02:15:02 Skytel [007046275] A SH/TONE 2911    
+2001-09-12 02:15:03 Skytel [004534043] C SH/TONE 1       
+2001-09-12 02:15:04 Arch [1301291] C  ALPHA  (16)21:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH
+2001-09-12 02:15:04 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 123 processes on report1.ccbill.com. Timestamp key: 20010911231301 
+2001-09-12 02:15:04 Arch [1005646] D  ALPHA  (24)27:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:15:04 Arch [0241791] D  ALPHA  (18)REQQ time limit exceeded for:PASSPORT_SAT_D:12-sep-2001 00:02
+2001-09-12 02:15:05 Skytel [007099695] D  ALPHA  wfinley@hotwire.com|2 Weblogic servers responding beyond 5000 ms|09/11/01-23:15:00  as03m.hotwire.com:7001    Not OK! as04m.hotwire.com:7003    Not OK!  
+2001-09-12 02:15:06 Arch [1301291] C  ALPHA   A PL
+2001-09-12 02:15:06 Arch [1005646] D  ALPHA  (25)27:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:15:06 Arch [1046295] B  ALPHA  REQUEST Site: LOCKHEED MARTIN SERVICES * Contact: RANDY WOOD * Phone/Email: 703 484 5619 / rwoodiii@cisco.com * Contract: 1084099 Case Owner: SSEGAL @ 14085265744 ILS Subscription Information: * Subscriber: rosummey@cisco.com (Contact  -2/3
+2001-09-12 02:15:06 Skytel {1549433} 3 1200 1-213-819-3788 
+2001-09-12 02:15:08 Arch [1301291] C  ALPHA  (17)21:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:15:08 Arch [1046295] B  ALPHA  this person to unsubscribe.) * ILS Event: Update * Conditions: Contract ID: 1084099 * Recipients: rosummey@epage.cisco.com * Send e-mails Always * Expires Never * Time Sent|640   -3/3
+2001-09-12 02:15:10 Metrocall [1064384] A  ALPHA  Y/C  72.53/63   +81 SGD 1.7352/362 -008 HKD 7.7980/990 -014 TWD 34370/4470 -250  IDR  9060/9110 -025 PHP 51.140/240 -060 MYR 3.7995/005 +000 THB 44.200/260 -100 KRW12845/12851 -015 ZAR 8.6000/100 +000 MXN  9.510/530 +116 BRR 26600/6620 +06
+2001-09-12 02:15:12 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-12 02:15:12 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192503. 
+2001-09-12 02:15:12 Metrocall [0525954] A  ALPHA  HTTP:Chelmick at 10.17.1.52 is DOWN.
+2001-09-12 02:15:12 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE Tray Metrics Down   Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[001]  dev_err[056]
+2001-09-12 02:15:12 Metrocall [1064384] A  ALPHA  5
+2001-09-12 02:15:14 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-12 02:15:16 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-12 02:15:18 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 02:15:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1027
+2001-09-12 02:15:21 Arch [1422821] B  ALPHA  360-7783
+2001-09-12 02:15:21 Arch [0000101] B  ALPHA  MSN 080 hello Message from NOC PCB.
+2001-09-12 02:15:30 Metrocall [1829921] A  ALPHA  Frm: MSN Txt: Hotmail list@myucomics.com:Close to Home 09/12/01
+2001-09-12 02:15:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3283
+2001-09-12 02:15:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3283
+2001-09-12 02:15:31 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-12 02:15:31 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=lbs  Mode=Incremental_Dump         # Our PID=25903    time='09/12/01 02:15:02'    sybase on
+2001-09-12 02:15:32 Skytel [004679051] C  ALPHA  root@ecomd2.pb.com|ecomd2: /u004 is 100 % full| 
+2001-09-12 02:15:32 Skytel [005225860] B SH/TONE 125     
+2001-09-12 02:15:32 Skytel [005361153] A  ALPHA  363240 652dr s2a652 701102 tat on 652dr not found
+2001-09-12 02:15:32 Skytel [005236495] D ST NUM  110005052 
+2001-09-12 02:15:32 Skytel [003251463] B ST NUM  813-226-3388 U (27  
+2001-09-12 02:15:33 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 02:15:33 Arch [1073232] A  ALPHA  (8)20:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:15:33 Arch [1272423] B  ALPHA  (13)bb:1: [1295310] red Tue Sep 11 23:15:18 PDT 2001 - Disk onssc-sac-p1,corp,sprint,com at PANIC level &red /var (95%) hasreached the defined disk space PANIC level (95%)/dev/vx/dsk/p1_unix/p1sybase 2879972 895229 1696746 35%
+2001-09-12 02:15:33 Skytel [002385178] C  ALPHA  Monitor@eclaim.com|DSL Line is DOWN|DSL Line is DOWN  Mail generated by Servers Alive at Tuesday, September 11, 2001 11:18:34 PM  
+2001-09-12 02:15:34 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-12 02:15:34 Arch [1073232] A  ALPHA  (9)20:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:15:34 Arch [1272423] B  ALPHA  (14)bb:2: /p1sybase/dev/vx/dsk/p1_unix/logs 287982 123266 135918 48% /logs/dev/vx/dsk/rootdg/nsr 983020 434347 450371 50% /nsr/dev/vx/dsk/rootdg/usr 508039 264133 193103 58% /usr/dev/vx/dsk/p1_unix/autosys 287982 149644 109540
+2001-09-12 02:15:35 Skytel [005001895] B  ALPHA  [sps/18] 200 sps-apps1.cps.intel.com relay-ssl 0.587 OK Applicationis alive (/seem/healthcheck.asp) 3:33:38
+2001-09-12 02:15:35 Skytel [004397995] C  ALPHA  IntelliWatch Monitor: WARNING - Server CVGNA05.US.Schneider-Electric.com/A/SVR/Schneider MAY HAVE crashed. Waiting 300 seconds...
+2001-09-12 02:15:36 Arch [1429715] A  ALPHA  21:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:15:36 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-12 02:15:36 Arch [1272423] B  ALPHA  (15)bb:3: 58%/usr/vendor/autotree/autosys3_4 /dev/vx/dsk/p1_unix/export-home471414 264231 160042 63% /export/home /dev/vx/dsk/rootdg/opt 23999741360220 799757 63% /opt /dev/vx/dsk/p1_unix/datafiles 67113884061773 1978477 68%
+2001-09-12 02:15:37 Skytel [005258806] B SH/TONE 28871   
+2001-09-12 02:15:37 Skytel [005058097] A  ALPHA  WARNING: Server CNApp2/Cupertino/HP/US is Not Responding. Reason: Server not responding
+2001-09-12 02:15:38 Arch [1429715] A  ALPHA  21:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:15:38 Arch [1272423] B  ALPHA  (16)bb:4: /datafiles /dev/vx/dsk/p1_unix/production 383982237409 108175 69% /production /dev/vx/dsk/rootdg/openwin 288326204757 54737 79% /usr/openwin /dev/vx/dsk/p1_unix/oracle-new 287982223353 35831 87% /oracle
+2001-09-12 02:15:39 Skytel [002367821] D  ALPHA  wb$dflt@wcgpa1.wcg.navistar.com||WBPD_V00 Late  
+2001-09-12 02:15:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:15:41 Skytel [004417746] A SH/TONE 9999    
+2001-09-12 02:15:41 Skytel [005107544] C  ALPHA  STR21A (Stade, Germany) --> OHR21A (Ohrensen, Germany) is UP. TOR-01:38EDT. TKT#A1486515. Net-Ops will cont. to monitor. -- From: SMT - 248.528.7000
+2001-09-12 02:15:42 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 02:15:42 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDSSPX_EQNY1  Database=eq_program  Mode=Incremental_Dump         # Our PID=25905    time='09/12/01 02:15:02'    sy
+2001-09-12 02:15:42 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192510. 
+2001-09-12 02:15:42 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 117.23 74.93 42.79 Tue Sep 11 23:15:17 MST 2001 
+2001-09-12 02:15:43 Skytel [005510372] B ST NUM  670-439-1735   
+2001-09-12 02:15:43 Skytel [007664109] D  ALPHA  time-out: advofdb1 IntDown 129.39.236.29    From: root@sbyadgw0 AlertID: 13479/33188
+2001-09-12 02:15:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #99-IX_T1708
+2001-09-12 02:15:43 Skytel [002369639] B ST NUM  817-328-1464   
+2001-09-12 02:15:44 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-12 02:15:45 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Error reading connection information for Ivr Tcp ports.
+2001-09-12 02:15:45 Skytel [007572474] C ST NUM  704-321-6434   
+2001-09-12 02:15:46 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 02:15:46 Arch [0696693] B  ALPHA  (6)17:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKT
+2001-09-12 02:15:46 Arch [1046295] B  ALPHA  |ILS: Notes #B828481 for LOCKHEED MARTIN SERVICES, contract 1084099, P1 |This is an ILS summary notification for case B828481 Event: Notes #B828481, Priority 1 Event Time: 11 September 2001 23:15:30 Title: 9/11:US WORLD ATTACK PARTS  -1/3
+2001-09-12 02:15:46 Arch [0285274] C  ALPHA  (23)17:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO 
+2001-09-12 02:15:46 Arch [1272423] B  ALPHA  (17)bb:e: /dev/vx/dsk/rootdg/rootvol 52015 41586 522889% / /dev/vx/dsk/rootdg/var 1071871 958365 59913 95% /var Pleasesee:http://ssc-sac-bs1.west.sprint.com/bb/html/ssc-sac-p1.corp.sprint.com.disk.html -oo-
+2001-09-12 02:15:47 Arch [0696693] B  ALPHA  S CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:15:47 Arch [0950982] B  ALPHA  DFLT NTFY* insp4000: OS process Autosecure is not operating at this time  
+2001-09-12 02:15:47 Arch [0285274] C  ALPHA  ESTABLISH A PL
+2001-09-12 02:15:47 Skytel [005044104] C  ALPHA  scott.thomas@lamrc.com|Lab DB - Hitachi 4 used more than allowable time limit.|The next user is waiting to use Hitachi 4. You have been using the tool for 332 minutes and your allowable time on the tool has expired, please end your session 
+2001-09-12 02:15:47 Skytel [004543367] B  ALPHA  oracle: aonprod02 machine's /opt directory is over 90% full!
+2001-09-12 02:15:47 Skytel [007555205] B  ALPHA  gnslMonitoring@gnslcos2.prod.fedex.com|Extract Processing Status|---Extract Process---(BEGAN)--- Wed Sep 12 00:15:01 MDT 2001 getProcessingInfo: ABORT E   -- Worldwide Service Classification & Reporting http://superman.cosd.fedex.com/cosmos
+2001-09-12 02:15:48 Arch [0723117] D  ALPHA  1/02:time-out: advofdb1 IntDown 129.39.236.29    From: root@sbyadgw0 
+2001-09-12 02:15:48 Arch [1046295] B  ALPHA  REQUEST Site: LOCKHEED MARTIN SERVICES * Contact: RANDY WOOD * Phone/Email: 703 484 5619 / rwoodiii@cisco.com * Contract: 1084099 Case Owner: SSEGAL @ 14085265744 ILS Subscription Information: * Subscriber: rosummey@cisco.com (Contact  -2/3
+2001-09-12 02:15:49 Arch [0696693] B  ALPHA  (7)17:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:15:49 Arch [0285274] C  ALPHA  (24)17:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:15:49 Arch [0723117] D  ALPHA  2/02:AlertID: 13479/33187
+2001-09-12 02:15:49 Arch [1046295] B  ALPHA  this person to unsubscribe.) * ILS Event: Update * Conditions: Contract ID: 1084099 * Recipients: rosummey@epage.cisco.com * Send e-mails Always * Expires Never * Time Sent|640   -3/3
+2001-09-12 02:15:49 Metrocall [002589906] A  ALPHA  Frm: NPG@alert.cs Sub: Warn-MH1@2h Txt: A~65-3~11.91%~909F.
+2001-09-12 02:15:49 Skytel [005347473] A  ALPHA  Call Greg 4071
+2001-09-12 02:15:50 Skytel [003934628] B  ALPHA  ATTENTION MANAGER OR  R. AGENT FOR FLL:  PLS CALL 369-3567
+2001-09-12 02:15:52 Skytel [0000060] D  ALPHA  ATTENTION MANAGER OR  R. AGENT FOR FLL:  PLS CALL 369-3567
+2001-09-12 02:15:53 Arch [1642687] D  ALPHA  (6)18:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:15:53 Arch [0733722] C  ALPHA  16:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:15:53 Arch [0855230] D  ALPHA  (29)77:ABS: EMMC/UPDATE: MULTIPLE DS3 (50) OUTAGE. VERIZON IS REPORTNING THAT THEY HAVE A FIRE IN THEIR NY C/O.   BECAUSE OF THE FIRE, CKTS CAN NOT BE IDENTIFIED, THEREFORE THERE ARE NO ALTRTE CAPABILITIES. VERIZON  IS ATTEMPTING TO ESTABLISH A PL
+2001-09-12 02:15:55 Arch [1642687] D  ALPHA  (7)18:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:15:55 Arch [0733722] C  ALPHA  16:AN OF ACTION. NEWS I S HOLDING (27) TKTS. TEAMS TKT 2041302.
+2001-09-12 02:15:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8105

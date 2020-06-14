@@ -1,0 +1,57 @@
+2001-09-11 06:22:01 Skytel [007115009] A SH/TONE 475-7642
+2001-09-11 06:22:01 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 03:20:38 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 06:22:02 Arch [0948401] A  ALPHA  2/02:Operations/Print Room, has no power. M.O'Neill x.6110.
+2001-09-11 06:22:02 Arch [0935117] D  ALPHA  esd+ars_notify@p|Notify-|Case: SR100032310 Event: CASE OPENED Cust: MARCONI Contact: ANDY GIFFORD Phone: 740 4128 Sev: Medium Assign: Andrew Gifford Contract: Marconi Customer Number: 108399 
+2001-09-11 06:22:05 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb2 login content match error on step 2, http://192.168.67.182:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informat
+2001-09-11 06:22:06 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6911
+2001-09-11 06:22:06 Arch [0000101] B  ALPHA  MSN 018 hello Message from NOC PCB.
+2001-09-11 06:22:06 Skytel {1169678} 3 1200 490-9552  
+2001-09-11 06:22:08 Skytel {0619497} 1 2400 31740
+2001-09-11 06:22:11 Metrocall [0477837] D  ALPHA  s3,00501386,ack,ICMDM    ESC2,ICMDM AUTOSYS_ALARM Job_Failure, job name = COED.#i3.l..f.._..S..Dy.AC
+2001-09-11 06:22:20 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 144W MAJ=NONE
+2001-09-11 06:22:20 Metrocall [0527212] D  ALPHA  <0003> OVLK /PT JAMES PAPPAS EXPIRED AT 6 15AM
+2001-09-11 06:22:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9834
+2001-09-11 06:22:30 Metrocall [0848498] A  ALPHA  OAHU-11-1 FAN IN ALARM. Alarm
+2001-09-11 06:22:30 Metrocall [002472466] A  ALPHA  111/ 8 hr/ 253032310/ 2721/ North Shore Universi/ 300 Community Dr/ Manhasset/ leroy..fst 36/ ext 5222/ ms2k loc rx pm call.....
+2001-09-11 06:22:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3482
+2001-09-11 06:22:31 Skytel [005236495] D ST NUM  120010031 
+2001-09-11 06:22:31 Skytel [003928591] D SH/TONE 1       
+2001-09-11 06:22:31 Skytel [004086922] C SH/TONE   (77   
+2001-09-11 06:22:35 Skytel [002376872] C  ALPHA  nms@svcanms.conxion.com|Sep11-03:22|All RED alarms have cleared  
+2001-09-11 06:22:36 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179010. 
+2001-09-11 06:22:37 Skytel [007035826] A  ALPHA  sunlu62@spsdGtwy.fir.ml.com|Sent 09/11 06:18|PROD FTD1 HAS NOT EXECUTED WITHIN INTERVAL 00:10:00                                                                                                                                                
+2001-09-11 06:22:37 Skytel [0001461] B  ALPHA  GLOBEX   05:21     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109800   225+   SPU  109820   250+   NDU  137800   750+   6JZ    8279    64-   6EZ    8944    36-   6SZ    5922B   18-   6BZ   14516B   12-   6CZ    6395B    5+   
+2001-09-11 06:22:37 Skytel [003208123] C ST NUM  900-526-2011 (46    
+2001-09-11 06:22:38 Skytel [002816581] B ST NUM  9009529130 U   
+2001-09-11 06:22:38 Skytel [007027145] C SH/TONE 16784   
+2001-09-11 06:22:39 Arch [0892946] A  ALPHA  5616901@mobileme|Fwd from Ray Pace: The ADR chech extract failed to run last night. Can you have someone troubleshoot and rerun it thend call DPM when finished. 95-PLEASE CALL DPM AT 973-716-2660. (09/11 06:12AM EDT) 
+2001-09-11 06:22:39 Arch [1242709] B  ALPHA  5616901@mobileme|Fwd from Ray Pace: The ADR chech extract failed to run last night. Can you have someone troubleshoot and rerun it thend call DPM when finished. 95-PLEASE CALL DPM AT 973-716-2660. (09/11 06:12AM EDT) 
+2001-09-11 06:22:39 Arch [0419404] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_model_run.ksh 0 Body:All steps exited successfully.
+2001-09-11 06:22:40 Skytel [007467218] A ST NUM  230-538-0368   
+2001-09-11 06:22:40 Skytel [002403166] D  ALPHA  Vmail
+2001-09-11 06:22:40 Skytel [1800019] A  ALPHA  GLOBEX   05:21     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109800   225+   SPU  109820   250+   NDU  137800   750+   6JZ    8279    64-   6EZ    8944    36-   6SZ    5922B   18-   6BZ   14516B   12-   6CZ    6395B    5+   
+2001-09-11 06:22:40 Skytel [004547038] D SH/TONE 800-7473
+2001-09-11 06:22:40 Skytel [005362010] C  ALPHA  Sep11:06-20:morhp321:ORA-1142 signalled during: ALTER TABLESPACE PSAPBTABD END BACKUP... 
+2001-09-11 06:22:42 Skytel [005120737] A ST NUM  0-800-426-4252 
+2001-09-11 06:22:42 Skytel [005102305] A  ALPHA  Sep11:06-20:morhp321:ORA-1142 signalled during: ALTER TABLESPACE PSAPBTABD END BACKUP... 
+2001-09-11 06:22:42 Skytel [005203941] B  ALPHA  4139*Host business.cch.com UP at 05:23:35  
+2001-09-11 06:22:43 Arch [0810359] B  ALPHA  [972 774-0718] 913-3738
+2001-09-11 06:22:43 Arch [0475255] B  ALPHA  ServersAlive@kcp|MaxReport Database on MAXREPORT |MaxReport Database on MAXREPORT is RUNNING Mail generated by Servers Alive at Tuesday, September 11, 2001 5:24:13 AM 
+2001-09-11 06:22:44 Skytel [002357369] C  ALPHA  002246 CYCLIC TEST 
+2001-09-11 06:22:44 Skytel [003327216] A  ALPHA  002246 CYCLIC TEST 
+2001-09-11 06:22:44 Skytel [005129586] A  ALPHA  cdsreprt@cddap2.sbi.com||CitiRisk_prod2001.09.11:SUCCESS:7340  
+2001-09-11 06:22:44 Skytel [002139900] D SH/TONE 002246  
+2001-09-11 06:22:46 Metrocall [0527020] D  ALPHA  09/11/01 06:23 d.ag.(f.il.D(.hS.3rId failed(fsh)
+2001-09-11 06:22:46 Skytel [003927693] D  ALPHA  cdsreprt@cddap2.sbi.com||CitiRisk_prod2001.09.11:SUCCESS:7340  
+2001-09-11 06:22:47 Arch [1654898] A  ALPHA  netsaint <netsai|** RECOVERY: alert - SnappsMain/|*** Server Alert *** Alert Type: RECOVERY Service: CheckHTTP Host: SnappsMain Address: 209.15.192.200 State: OK Date/Time: Tue Sept 11 06:24:12 EDT 2001 Additional Info: HTTP ok: HTTP/1.1 30
+2001-09-11 06:22:47 Arch [1427708] D  ALPHA  netsaint <netsai|** RECOVERY: alert - SnappsMain/|*** Server Alert *** Alert Type: RECOVERY Service: CheckHTTP Host: SnappsMain Address: 209.15.192.200 State: OK Date/Time: Tue Sept 11 06:24:12 EDT 2001 Additional Info: HTTP ok: HTTP/1.1 30
+2001-09-11 06:22:52 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1355..
+2001-09-11 06:22:52 Metrocall [002632965] B  ALPHA  VEHICLE ACCIDENT W INJURY/935 S VANCE ST LANDIS/4901/ A499 E491 U493 RFDFG2/CAR
+2001-09-11 06:22:52 Skytel [003927743] D  ALPHA  cdsreprt@cddap2.sbi.com||CitiRisk_prod2001.09.11:SUCCESS:7340  
+2001-09-11 06:22:52 Skytel [005053750] B ST NUM  0-800-446-1276 U    
+2001-09-11 06:22:53 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1355..
+2001-09-11 06:22:57 Skytel [004524770] A  ALPHA  spr-OrionPower-LiverpoolNY-3810: CPE Down at 01:32:25 on 9/11
+2001-09-11 06:22:57 Skytel [004399202] A  ALPHA  Cris / Steve,  We have encountered a Prod problem with Ebook. All users are receiving a runtime error #6 Overflow when inputting trades. The DB, App svr and ODBC connection has been checked. Per Kev, Please come in ASAP. Call EW 7325123315
+2001-09-11 06:22:57 Skytel [007557734] B  ALPHA  Cris / Steve,  We have encountered a Prod problem with Ebook. All users are receiving a runtime error #6 Overflow when inputting trades. The DB, App svr and ODBC connection has been checked. Per Kev, Please come in ASAP. Call EW 7325123315
+2001-09-11 06:22:57 Skytel [005436525] D  ALPHA  Test #9-IX_T1701
+2001-09-11 06:22:57 Skytel [005338196] B SH/TONE 28545   

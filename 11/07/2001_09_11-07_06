@@ -1,0 +1,90 @@
+2001-09-11 07:06:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2133
+2001-09-11 07:06:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2133
+2001-09-11 07:06:01 Metrocall [1708505] C  ALPHA  morning sunshine!!!
+2001-09-11 07:06:01 Metrocall [1031255] B  ALPHA  6768677>>>>>
+2001-09-11 07:06:01 Skytel [002402316] D SH/TONE 356-5202
+2001-09-11 07:06:01 Skytel [003490056] C SH/TONE 3553    
+2001-09-11 07:06:03 Skytel [007035414] B SH/TONE 9444    
+2001-09-11 07:06:03 Skytel [007009564] D SH/TONE 576-6473
+2001-09-11 07:06:03 Skytel [004571415] B SH/TONE 378     
+2001-09-11 07:06:03 Skytel {1976916} 1 2400 630-250-2600..
+2001-09-11 07:06:03 Skytel {1102375} 1 2400 57266  22 
+2001-09-11 07:06:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6955
+2001-09-11 07:06:04 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179497. 
+2001-09-11 07:06:13 Arch [0960658] A  ALPHA  71-CALL KEISHA.
+2001-09-11 07:06:13 Arch [0904393] C  ALPHA  Defiant@circuitc|Server may be down|
+2001-09-11 07:06:13 Arch [0705910] B  ALPHA  MSN <alert@msn.c|Annandale - Tuesday: Sunny (Clear at night) 86/57*Wednesday: Mostly Sunny 84/58*Thursday: Showers / 
+2001-09-11 07:06:14 Metrocall [0416873] C  ALPHA   MSG:Tallahassee - Tuesday: Showers / Sun 89/72*Wednesday: Partly Cloudy 89/72*Thursday: Sunny (Clear at
+2001-09-11 07:06:14 Metrocall [0749827] A  ALPHA  Msg:Scott Townsend (885-3325) Will unwire the lights this afternoon. You haven't
+2001-09-11 07:06:14 Metrocall [1932964] B  ALPHA  Frm: emoster@arsc.uscg.
+2001-09-11 07:06:15 Arch [0927727] D  ALPHA  pedwards@factset|VMS PAGE|db status logger failed, arg1=EXG_ASX, arg2=20010910 
+2001-09-11 07:06:16 Metrocall [1932964] B  ALPHA  mil Sub: Portal Application Error on Portal UTML Redirection Txt: Total alerts: 1 Read timed out. Unable to open connection for retrieval of "http://10.40.42.102/cognos/cgi-bin/upfcgi.exe?xmlcmd=<GetPage><template>to_flight_schedule.utml</template></Ge
+2001-09-11 07:06:17 Arch [0927727] D  ALPHA  pedwards@factset|VMS PAGE|db status logger failed, arg1=exg_asx, arg2=20010910 
+2001-09-11 07:06:17 Arch [0982392] C  ALPHA  293-0525
+2001-09-11 07:06:18 Metrocall [1932964] B  ALPHA  tPage>" on Host: "10.40.42.102", Port: 80 (9/11/01 7:04 AM) Event: Portal Application Error Web Application: Portal Monitor: Portal UTML Redirection Metric: Retrieval time of URL Sequence for http://10.40.42.102/cognos/cgi ++
+2001-09-11 07:06:20 Metrocall [002522506] C  ALPHA  213271 0636a    LINDENMEYER & MONRO 8240 PRESTON CT     SHIPP JESSUP MD     SIR SPEEDY/OWINGS M 10304 S DOLFIELD RD  OWINGS MILLS       Pcs:  2 Wt:  100    4908277
+2001-09-11 07:06:20 Metrocall [2020109] D  ALPHA  *SPORTS NEWS*..(c)2001_DATACAST datacastnews.com
+2001-09-11 07:06:20 Metrocall [0687053] D  ALPHA  s3,00501434,ack,CSDDEV1 ,CSDDEV1 APPLICATIONERROR CSDDEV1: Backup Failures
+2001-09-11 07:06:20 Metrocall [0687053] D  ALPHA  s3,00501433,ack,CSDSPEC1 ,CSDSPEC1 APPLICATIONERROR CSDSPEC1: Backup Failures
+2001-09-11 07:06:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9878
+2001-09-11 07:06:26 Arch [1060702] D  ALPHA  NIU Sys 36/Dev 3616 - 0029DA ANDERS 5625, cnet lost sync, Set
+2001-09-11 07:06:26 Arch [0000101] B  ALPHA  MSN 039 hello Message from NOC PCB.
+2001-09-11 07:06:29 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3526
+2001-09-11 07:06:30 Arch [0925366] B  ALPHA   318643;Sep 11 03:07:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 07:06:31 Skytel [007102214] B  ALPHA  alert@msn.com||Peachtree City - Tuesday: Mostly Cloudy 84/64*Wednesday: Mostly Sunny 83/61*Thursday: Sunny (Clear  
+2001-09-11 07:06:31 Skytel [005098248] C SH/TONE 647-2222
+2001-09-11 07:06:31 Skytel [003918336] A  ALPHA  alert@msn.com||Glen Burnie - Tuesday: Sunny (Clear at night) 83/57*Wednesday: Mostly Sunny 80/59*Thursday: Showers  
+2001-09-11 07:06:31 Skytel [005130763] C  ALPHA  Node AFW-TS07 was set to Down at 9/11/2001 6:00:24 AM.
+2001-09-11 07:06:33 Arch [1423779] A  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 047003A1 from cluster 1095 to cluster 1000), status C3AE181B, extended status C3AE380C. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-11 07:06:33 Arch [1080904] C  ALPHA  From: computer@WORLDSPAN.com 7:05:50 AM   Problem with File FTP to Decision One ... Check D1 Escalations
+2001-09-11 07:06:33 Arch [1025942] B  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 047003A1 from cluster 1095 to cluster 1000), status C3AE181B, extended status C3AE380C. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-11 07:06:35 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179504. 
+2001-09-11 07:06:35 Arch [0911134] D  ALPHA   equity71 SYBASE: check_db(PDS1_EQGTWLN) too much PHYSICAL I/O - jpm     7879  58 @07:06 09/11/01 
+2001-09-11 07:06:35 Skytel [005180834] A SH/TONE 2086    
+2001-09-11 07:06:35 Skytel [003071916] D  ALPHA  alert@msn.com||Manhattan - Tuesday: Sunny (Clear at night) 80/60*Wednesday: Mostly Sunny 78/60*Thursday: Showers /  
+2001-09-11 07:06:35 Skytel [007524270] D  ALPHA  Y! ||$499 deals on iPAQ Pocket PC Israeli Tanks Encircle West Bank City Reuters  
+2001-09-11 07:06:35 Skytel [002219310] D SH/TONE 600 (1  
+2001-09-11 07:06:35 Skytel [005492655] D SH/TONE 371-9707
+2001-09-11 07:06:37 Arch [1619813] B  ALPHA  2760
+2001-09-11 07:06:37 Skytel [005207728] A SH/TONE 722-4440
+2001-09-11 07:06:37 Skytel [004477239] B  ALPHA  alert@msn.com||Maryland Heights - Tuesday: Mostly Sunny 82/61*Wednesday: Mostly Sunny 84/62*Thursday: Partly  
+2001-09-11 07:06:37 Skytel [0001461] B  ALPHA  GLOBEX   06:05     GEH    9662     1-   GEM    9633    .5-   ESU  109925   350+   SPU  109950   380+   NDU  138000   950+   6JZ    8272B   71-   6EZ    8947B   33-   6SZ    5924B   16-   6BZ   14508A   20-   6CZ    6393     3+   
+2001-09-11 07:06:38 Skytel [002748355] A SH/TONE 6345    
+2001-09-11 07:06:38 Skytel [004517325] D SH/TONE 2500    
+2001-09-11 07:06:38 Skytel [007553858] A  ALPHA  301-227-0978
+2001-09-11 07:06:38 Skytel [002558796] D SH/TONE 804772  
+2001-09-11 07:06:38 Skytel [005178316] D SH/TONE 8005    
+2001-09-11 07:06:39 Arch [1612111] D  ALPHA  Oh-Shit@ccbill.c|Subject: Server Problem 1:1:11/200:0.10:0.09:0.04 ALERT Primary Processlist 66 (66:13) http://64.38.240.102/system/stat.cgi 
+2001-09-11 07:06:39 Arch [0950175] D  ALPHA  MSN <alert@msn.c|Hopatcong - Tuesday: Sunny (Clear at night) 77/59*Wednesday: Partly Cloudy 74/61*Thursday: Showers 
+2001-09-11 07:06:40 Skytel [1800019] A  ALPHA  GLOBEX   06:05     GEH    9662     1-   GEM    9633    .5-   ESU  109925   350+   SPU  109950   380+   NDU  138000   950+   6JZ    8272B   71-   6EZ    8947B   33-   6SZ    5924B   16-   6BZ   14508A   20-   6CZ    6393     3+   
+2001-09-11 07:06:40 Skytel [003781210] C  ALPHA  root@es.bss.boeing.com||Watchdog on hscw021 is attempting to access Optegra on hscs104 and cannot find EPD.  
+2001-09-11 07:06:40 Skytel [002574168] C SH/TONE 4783    
+2001-09-11 07:06:40 Skytel [007553886] D  ALPHA  nymanoc@nymanoc.cv.net||Level 4, 4th Hour Escalation, CNJ, Bergen, UBR 3 ca 5/0 UP 2 Node V06, 35/35 modems OFFLINE, Les Constantine(supervisor) aware of this issue. Jamal-Network Operations. 516-393-5370--Nextel 8806
+2001-09-11 07:06:40 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job58367 SNYC00310 09/11 07:06 NTDS_UTIL
+2001-09-11 07:06:40 Skytel [003951056] A  ALPHA  csaalogon04 Resource: CSAALOGON04:/NT_CPU/CPU_0/CPUprcrProcessorTimePercent,current state is : CRITICAL ussa11.SSMC 
+2001-09-11 07:06:41 Arch [1612111] D  ALPHA  Oh-Shit@ccbill.c|Subject: Server Problem 1:1:16/200:0.25:0.21:0.20 ALERT Primary Processlist 73 (73:13) http://64.38.240.107/system/stat.cgi 
+2001-09-11 07:06:42 Skytel [003930979] A SH/TONE 33250   
+2001-09-11 07:06:42 Skytel [005330530] A ST NUM  8685222010
+2001-09-11 07:06:42 Skytel [003497451] C SH/TONE 2800 (77
+2001-09-11 07:06:42 Skytel [005436525] D  ALPHA  nMCI Test #34
+2001-09-11 07:06:42 Skytel [007602415] D SH/TONE 76887   
+2001-09-11 07:06:42 Skytel [002823663] D  ALPHA  alert@msn.com||(2/3) Sunny (Clear at night) 86/62*Friday: Sunny (Clear at night) 84/62*Saturday: Sunny (Clear  
+2001-09-11 07:06:43 Arch [1612111] D  ALPHA  Oh-Shit@ccbill.c|Subject: Server Problem 1:1:17/200:0.70:0.52:0.41 ALERT Primary Processlist 73 (73:13) http://64.38.240.108/system/stat.cgi 
+2001-09-11 07:06:43 Arch [1408403] A  ALPHA  72900
+2001-09-11 07:06:44 Skytel [005257085] D  ALPHA  Geoff... got your msg... sharing enable... password is uscg (small caps)... take care... Luis (2
+2001-09-11 07:06:44 Skytel [005225720] C SH/TONE 2332    
+2001-09-11 07:06:44 Skytel [007062907] C SH/TONE 340     
+2001-09-11 07:06:45 Arch [1612111] D  ALPHA  Oh-Shit@ccbill.c|Subject: Server Problem 1:1:13/200:0.54:0.41:0.40 ALERT Primary Processlist 69 (69:13) http://64.38.240.105/system/stat.cgi 
+2001-09-11 07:06:46 Skytel [004051457] A ST NUM  618-258-6884 (1
+2001-09-11 07:06:47 Arch [1612111] D  ALPHA  Oh-Shit@ccbill.c|Subject: Server Problem 1:1:0/200:0.92:0.61:0.48 ALERT Primary Processlist 73 (73:13) http://64.38.240.109/system/stat.cgi 
+2001-09-11 07:06:48 Skytel [003953311] D  ALPHA  pager@household.com||(From EMPB25) 908-203-2599 TO HRS MGMT. RE TICKET T512777. PERIPHERAL GATEWAY IN NE WCASTLE IS DOWN. ALL 1-800 NUMBERS UNABLE TO RECEIVE CALL S FROM CUSTOMERS/MERCHANTS. HIGH IMPACT. HSS FRANK  
+2001-09-11 07:06:48 Skytel [007575575] B  ALPHA  lostux@limbstx1.att.com|0 ODMANAGER DAEMONS ARE UP|ODMANAGER DAEMON ALERT, PLEASE CHECK  
+2001-09-11 07:06:49 Arch [1612111] D  ALPHA  Oh-Shit@ccbill.c|Subject: Server Problem 1:1:5/200:0.55:0.41:0.33 ALERT Primary Processlist 74 (74:13) http://64.38.240.112/system/stat.cgi 
+2001-09-11 07:06:50 Arch [1612111] D  ALPHA  Oh-Shit@ccbill.c|Subject: Server Problem 1:1:3/200:0.23:0.25:0.25 ALERT Primary Processlist 72 (72:13) http://64.38.240.111/system/stat.cgi 
+2001-09-11 07:06:50 Metrocall [1485023] D  ALPHA  COAST PLAZA DR HOSP.-PLEASE CALL 562 868 3751 EXT 2105
+2001-09-11 07:06:50 Metrocall [1544818] A  ALPHA  Server 'HAY-NS2 Disk.E.Free = 158042112, min allowable: (300000000)
+2001-09-11 07:06:50 Skytel [002279468] D ST NUM  918-435-5599   
+2001-09-11 07:06:52 Skytel [005004734] D  ALPHA  M WEISSMAN   355 COUNTRY CLUB LN PO362-0261 CC 1 SAT W/COMICS/TV5158 901
+2001-09-11 07:06:52 Skytel [003781306] C ST NUM  816-636-4059   
+2001-09-11 07:06:52 Skytel [003916596] B SH/TONE 722-4440
+2001-09-11 07:06:55 Skytel [004731097] C  ALPHA  oracle@prod-159a.tco3.web.wcom.net|ORACLE ALERT!!!|Database LOG on pita.rstn.web.ans.net not available  

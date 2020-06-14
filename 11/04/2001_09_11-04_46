@@ -1,0 +1,66 @@
+2001-09-11 04:46:00 Metrocall [002680231] B  ALPHA  57112:Critical; TT677176; TR User Assign; NETRAC; EMG_CNTL_DOWN; EMG CONTROL DOWN; 09/11/01 01:45:39; ;A444 - ;logic id:AXE10 ATLT2AX APZ EMG_CNTL_DOWN A444                                                                _7
+2001-09-11 04:46:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST
+2001-09-11 04:46:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1993
+2001-09-11 04:46:02 Metrocall [0476499] A  ALPHA   PERIODIC PAGE SEQUENTIAL NUMBER  1993
+2001-09-11 04:46:03 Skytel [007035414] B SH/TONE 9444    
+2001-09-11 04:46:03 Skytel {1336786} 1 1200 VAR 65.20 +0.70..
+2001-09-11 04:46:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6815
+2001-09-11 04:46:04 Skytel {0132085} 1 1200 0001C00000000006190100003E260020224400000000.
+2001-09-11 04:46:04 Skytel {1343146} 1 1200 IBM 96.23 -0.36 MOT 15.00 +0.71 INTC 26.25 +0.36 TXN 29.38 +0.76.
+2001-09-11 04:46:14 Arch [1275092] B  ALPHA  ID: 215359 Host: I01188-prt1 Text: DTA005 8  
+2001-09-11 04:46:16 Arch [0479584] A  ALPHA  923738/MACJP/SAVEPROD CPC1126 Job 921574/QSYS/QYPSSRV was ended by user MACJP.
+2001-09-11 04:46:16 Arch [0000101] B  ALPHA  MSN 099 hello Message from NOC PCB.
+2001-09-11 04:46:18 Metrocall [0960517] B  ALPHA  Frm: WRAL.com Sub: Hurricane Erin Advisory Number 36 Txt: Erin moving slowly nor
+2001-09-11 04:46:19 Arch [0911096] C  ALPHA  please contact your Account Manager.    -2/2
+2001-09-11 04:46:19 Arch [1617147] C  ALPHA  "WRAL.com"|Hurricane Erin Advisory Number 36 |Erin moving slowly northward and continuing to weaken, At 5 am ast, 0900z, the center of hurricane erin was located near latitude 37.2 north, longitude 65.9 west or about 460 miles, 735 km, -1/3
+2001-09-11 04:46:21 Arch [1617147] C  ALPHA   south of yarmouth nova scotia. Erin is moving toward the north near 7 mph, 11 km/hr, and a gradual turn toward the northeast with an increase in forward speed is expected later today. Maximum sustained winds are near 90 mph, 150  -2/3
+2001-09-11 04:46:21 Arch [1265954] A  ALPHA  From: sdatmail1a@worldspan.com Subj: A new message has arrived in the GRSM inbox. Please review...
+2001-09-11 04:46:23 Arch [1617147] C  ALPHA  km/hr, with higher gusts. Little change in strength is forecast during the next 24 hours. Hurricane force winds extend outward up to 45 miles, 75 km, from the center, and trop|640   -3/3
+2001-09-11 04:46:26 Metrocall {1175634} 2 2400 711..
+2001-09-11 04:46:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9738
+2001-09-11 04:46:27 Arch [1026292] B  ALPHA  Backup@NYED.usco|Operator Attention|(Server: "NYEPSROGUE" Job: "Monday backup" Device: "HP 1") Please inser t overwritable media into the changer using the slot import command. 
+2001-09-11 04:46:29 Arch [0968864] A  ALPHA  (15)The file: SWSTTD1H is out of date.
+2001-09-11 04:46:29 Arch [0935204] B  ALPHA  "Southwest Airli|southwest.com Weekly Internet Sp|Southwest Airlines e-mail update for September 11, 2001 ********************* Current Specials ************************* 1. Anniversary Specials at $30 one-way, available only on southwest.c
+2001-09-11 04:46:29 Arch [0650091] C  ALPHA  From: sdatmail1a@worldspan.com Subj: A new message has arrived in the GRSM inbox. Please review...
+2001-09-11 04:46:30 Arch [0925366] B  ALPHA   318643;Sep 11 00:47:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 04:46:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3386
+2001-09-11 04:46:31 Skytel [003947407] D  ALPHA  ECCFTP01:Device Inaccessible
+2001-09-11 04:46:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 01:44:48 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 04:46:33 Skytel [004694037] B  ALPHA  SEV 2 - 03945211 - GLRSLM - RKCADG50 JCL ERROR
+2001-09-11 04:46:33 Skytel [007563679] D ST NUM  223-295-4041   
+2001-09-11 04:46:35 Skytel [004024864] A  ALPHA  wingmon@firstusa.com||SiteScope stweb102 /var/weblog stweb102 2564 no data    ********************************************************************** This transmission may contain information that is privileged, confidential and/or exempt fr
+2001-09-11 04:46:35 Skytel [005353645] D  ALPHA  FYI:PROB136427 Status Is Assigned : To: infrastructure dev group: unable to find trader service on janis server 800 332 5455 ex 64385 option 2 2nd contact 972 796 7511 eds ops
+2001-09-11 04:46:35 Skytel [005047463] B  ALPHA  FYI:PROB136427 Status Is Transfer : To: infrastructure dev group: unable to find trader service on janis server 800 332 5455 ex 64385 option 2 2nd contact 972 796 7511 eds ops
+2001-09-11 04:46:35 Skytel [005484975] D SH/TONE 1500 (15
+2001-09-11 04:46:37 Skytel [005382200] C  ALPHA  wwwadmin@carsmart.com||Request for 2001 Honda Accord EX V6 4-Dr from Jeanette Holley (323-931-9082 ext. 1)  
+2001-09-11 04:46:37 Skytel [007518640] A  ALPHA  BLS 39.72 +1.92 SGI 0.42 +0.01 NETA 14.86 +0.19 SUNW 10.29 -0.30
+2001-09-11 04:46:38 Skytel [002842441] C ST NUM  9009156263
+2001-09-11 04:46:39 Metrocall [002669318] B  ALPHA  HURRPAGE UPDATE TROPICAL WX CENTER / NHC: HURRICANE ERIN ADVISORY NUMBER 36HURRICANE ERIN ADVISORY NUMBER 36HURRICANE ERIN ADVISORY NUMBER 36
+2001-09-11 04:46:40 Skytel [005436371] A  ALPHA   For your reference, UNICON has resolved all Internal Server Error problems on the Networking Academy Sites. This problem began at approximately (1:20 AM) and was resolved by (1:40 AM). If you would like more detailed information  -1/2 (27
+2001-09-11 04:46:42 Skytel [003772003] A  ALPHA  IBM 96.47 -0.12 MSFT 57.58 +2.18 NSCP 0.00 UNCH INTC 26.07 +0.18 (24
+2001-09-11 04:46:42 Skytel [005436525] D  ALPHA  Test Message #5-IX_T0515
+2001-09-11 04:46:42 Skytel [005134570] C SH/TONE 99      
+2001-09-11 04:46:42 Skytel [004524770] A  ALPHA  spf-Suddekor-AgawamMA-01: CPE Up at 00:58:37 on 9/11
+2001-09-11 04:46:42 Skytel [005112809] C  ALPHA  03:46CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240432: Uncorrectable write error
+2001-09-11 04:46:44 Skytel [003475568] A SH/TONE 54238   
+2001-09-11 04:46:44 Skytel [002357369] C  ALPHA  002214 CYCLIC TEST 
+2001-09-11 04:46:44 Skytel [007109749] B ST NUM  017-140-1112   
+2001-09-11 04:46:44 Skytel [003327216] A  ALPHA  002214 CYCLIC TEST 
+2001-09-11 04:46:44 Skytel [002139900] D SH/TONE 002214  
+2001-09-11 04:46:44 Skytel [007118207] D SH/TONE 723-2276
+2001-09-11 04:46:46 Arch [0479584] A  ALPHA  923738/MACJP/SAVEPROD CPC1126 Job 921574/QSYS/QYPSSRV was ended by user MACJP.
+2001-09-11 04:46:48 Skytel [005067805] D SH/TONE 766-2222
+2001-09-11 04:46:48 Skytel [007641751] B SH/TONE 5827    
+2001-09-11 04:46:50 Metrocall [1261323] C  ALPHA  Frm: wingmon@firstusa.com Txt: SiteScope stweb102 /var/weblog stweb102 2564 no data
+2001-09-11 04:46:50 Metrocall [1261323] C  ALPHA  Frm: wingmon@firstusa.com Txt: SiteScope stapp101 /var/weblog stapp101 2560 no data
+2001-09-11 04:46:50 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: crp-wbs01 Sev:5 # 201
+2001-09-11 04:46:50 Skytel [005065124] B  ALPHA  FONp 0.00 UNCH MCIC 0.00 UNCH ATF 123.25 +5.74
+2001-09-11 04:46:51 Skytel [003591987] A  ALPHA  IBM 96.47 -0.12 NSCP 0.00 UNCH NOVL 3.99 +0.07 MSFT 57.58 +2.18 (7
+2001-09-11 04:46:51 Skytel [0001461] B  ALPHA  GLOBEX   03:45     GEH  9662.5    .5-   GEM    ----   ----   ESU  109950   375+   SPU  109970   400+   NDU  138000B  950+   6JZ    8290A   53-   6EZ    8963B   17-   6SZ    5932B    8-   6BZ   14492A   36-   6CZ    6395B    5+   
+2001-09-11 04:46:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1259..
+2001-09-11 04:46:52 Metrocall [0477913] C  ALPHA  323 SMCExceptionStartingEvent ASM 3.1.14.1 09/11/01 02:46:17 MDT6 Instance: VAL Module: EventMgr Details: PID=28700 TID=11 02:46:17:309996: START: SMCInvalidOpException starting event: [4457 (V
+2001-09-11 04:46:53 Skytel [004477261] D  ALPHA  MSFT 57.58 +2.18 (13
+2001-09-11 04:46:54 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1259..
+2001-09-11 04:46:55 Skytel [1800019] A  ALPHA  GLOBEX   03:45     GEH  9662.5    .5-   GEM    ----   ----   ESU  109950   375+   SPU  109970   400+   NDU  138000B  950+   6JZ    8290A   53-   6EZ    8963B   17-   6SZ    5932B    8-   6BZ   14492A   36-   6CZ    6395B    5+   
+2001-09-11 04:46:55 Skytel [003050969] C SH/TONE         
+2001-09-11 04:46:59 Skytel [002842744] C SH/TONE 99      

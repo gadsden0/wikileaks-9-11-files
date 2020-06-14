@@ -1,0 +1,175 @@
+2001-09-11 21:44:00 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-11 21:44:00 Skytel [002278513] A ST NUM  9002405012
+2001-09-11 21:44:00 Skytel [007495536] A SH/TONE 732-1644
+2001-09-11 21:44:00 Skytel [004690295] B  ALPHA  PLEASE CALL INTO CONFERENCE CALL 609-282-2811
+2001-09-11 21:44:01 Skytel [005524994] A SH/TONE 1       
+2001-09-11 21:44:01 Skytel [005129227] C ST NUM  306-615-5885   
+2001-09-11 21:44:02 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7833
+2001-09-11 21:44:03 Skytel [004587282] A ST NUM  945-3524-6
+2001-09-11 21:44:05 Skytel [003939365] B  ALPHA  adviseb@us.ibm.com| FYI - DOWR 4855  - Service Impact|IP: 129.33.63.88 Problem Type: Webserver Start: 21:43 on 09-11  
+2001-09-11 21:44:06 Arch [0966611] A  ALPHA  gjufiar|trc calls not routing to syd and receiving rna off 68888 menu looks like 43/117 skill affected plz call trc hotline 408-525-8661   
+2001-09-11 21:44:06 Arch [0959857] A  ALPHA  msica|7222 re: Need assistance   
+2001-09-11 21:44:06 Arch [1401196] D  ALPHA  (24)21:ABS: EMMC/INITIAL..MULTIPLE (16) DS3 OUTAGE IN NEW YORK.  SPRINT HAS (16) DS3'S DWN IN NEW YORK DUE TO A FIRE IN THE VERIZON C/O. THE FIRE IS RELATED THE THE DISASTER IN MANHATTAN. OUTAGE OCCURED AT 2004 EDT.  SEE TEAMS TKT 2041302
+2001-09-11 21:44:06 Arch [0432768] A  ALPHA  (18)18:ABS: EMMC/INITIAL..MULTIPLE (16) DS3 OUTAGE IN NEW YORK.  SPRINT HAS (16) DS3'S DWN IN NEW YORK DUE TO A FIRE IN THE VERIZON C/O. THE FIRE IS RELATED THE THE DISASTER IN MANHATTAN. OUTAGE OCCURED AT 2004 EDT.  SEE TEAMS TKT 2041302
+2001-09-11 21:44:06 Arch [1372090] C  ALPHA  (6)14:ABS: EMMC/INITIAL..MULTIPLE (16) DS3 OUTAGE IN NEW YORK.  SPRINT HAS (16) DS3'S DWN IN NEW YORK DUE TO A FIRE IN THE VERIZON C/O. THE FIRE IS RELATED THE THE DISASTER IN MANHATTAN. OUTAGE OCCURED AT 2004 EDT.  SEE TEAMS TKT 2041302
+2001-09-11 21:44:06 Skytel {0100752} 3 1200 775-746-4690   
+2001-09-11 21:44:06 Skytel {1686922} 3 1200 408-718-4007   
+2001-09-11 21:44:06 Skytel {0570177} 3 1200 0500 
+2001-09-11 21:44:06 Skytel {1620003} 3 1200 408-267-9227   
+2001-09-11 21:44:07 Skytel {0468313} 1 2400 360-653-5832 (1..
+2001-09-11 21:44:07 Skytel {1092655} 3 2400 002553    
+2001-09-11 21:44:12 Arch [1622102] B  ALPHA  889
+2001-09-11 21:44:12 Arch [1024443] C  ALPHA  38-PLEASE CALL MICHAEL PELICH AT 3438. NO RUSH.
+2001-09-11 21:44:12 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 189423. 
+2001-09-11 21:44:12 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-11 21:44:13 Arch [1622102] B  ALPHA  659-8924
+2001-09-11 21:44:13 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-11 21:44:15 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-11 21:44:17 Arch [1002107] C  ALPHA  (5)13:ABS: EMMC/INITIAL..MULTIPLE (16) DS3 OUTAGE IN NEW YORK.  SPRINT HAS (16) DS3'S DWN IN NEW YORK DUE TO A FIRE IN THE VERIZON C/O. THE FIRE IS RELATED THE THE DISASTER IN MANHATTAN. OUTAGE OCCURED AT 2004 EDT.  SEE TEAMS TKT 2041302
+2001-09-11 21:44:17 Arch [0697588] B  ALPHA  (30)72:ABS: Tkt:4804536, Sev:3, TIQ:82min, Queue:PLSO, Cust Name: UNITED TELEPHONE SE
+2001-09-11 21:44:17 Arch [1602661] B  ALPHA  (19)18:ABS: EMMC/INITIAL..MULTIPLE (16) DS3 OUTAGE IN NEW YORK.  SPRINT HAS (16) DS3'S DWN IN NEW YORK DUE TO A FIRE IN THE VERIZON C/O. THE FIRE IS RELATED THE THE DISASTER IN MANHATTAN. OUTAGE OCCURED AT 2004 EDT.  SEE TEAMS TKT 2041302
+2001-09-11 21:44:17 Metrocall [1064385] A  ALPHA  JY  8317/8385  +042 EC  9067/9047 +0067 BP 14526/14300 +000 SF  6005/6010  +070 CD  6388/6380  -010 AD  5169/5152  +031 DM  4636/4626  +034 PTB 9039/8942  +059 2YBA 9552/9572  +22 2YTT 9538/9529
+2001-09-11 21:44:17 Metrocall [1585856] A  ALPHA  Test Message of Stat Pager
+2001-09-11 21:44:18 Skytel {0844545} 3 2400 541-744-1414   
+2001-09-11 21:44:19 Arch [0697588] B  ALPHA  (31)73:ABS: Tkt:4970563, Sev:6, TIQ:87min, Queue:PLSO, Cust Name: RIVER CITY BANK
+2001-09-11 21:44:19 Arch [0959891] A  ALPHA  NTSECURE:Device Inaccessible
+2001-09-11 21:44:19 Metrocall [1829700] B  ALPHA  68-GOOD YEAR IS CLEAN AND GREEN. I JUST GOT YOUR MSG. CALL OFC IF NECESSARY. REGAN 330-796-0015
+2001-09-11 21:44:19 Metrocall [1064385] A  ALPHA    +35 2YTC 9457/9454  +19 CAC  3960/4025 -351
+2001-09-11 21:44:23 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0756
+2001-09-11 21:44:23 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-11 21:44:25 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-11 21:44:25 Metrocall [0383686] B  ALPHA  MH Restart
+2001-09-11 21:44:25 Metrocall [1928107] C  ALPHA  Frm: 8286506255@my2way.com Sub: my2way Txt: Triangle personal aadvise gas going to over 4.00 tomorrow. Chief Bennett
+2001-09-11 21:44:25 Metrocall [1094687] D  ALPHA  PLEASE CALL YOUR MAILBOX
+2001-09-11 21:44:27 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-11 21:44:27 Arch [1082628] B  ALPHA  (2)syswatch: HOST/PROCESS - athens:CLIENT DESCRIPTION - pcs-wwebfw02.msdsbd[643]: went online by heartbeat failure
+2001-09-11 21:44:27 Arch [0697588] B  ALPHA  (32)74:ABS: Tkt:5005300, Sev:2, TIQ:83min, Queue:PLSO, Cust Name: SPRINT/UNITED EASTERN
+2001-09-11 21:44:27 Arch [0600206] D  ALPHA  33:ABS: EMMC/INITIAL..MULTIPLE (16) DS3 OUTAGE IN NEW YORK.  SPRINT HAS (16) DS3'S DWN IN NEW YORK DUE TO A FIRE IN THE VERIZON C/O. THE FIRE IS RELATED
+2001-09-11 21:44:27 Arch [0944442] C  ALPHA  (6)16:ABS: EMMC/INITIAL..MULTIPLE (16) DS3 OUTAGE IN NEW YORK.  SPRINT HAS (16) DS3'S DWN IN NEW YORK DUE TO A FIRE IN THE VERIZON C/O. THE FIRE IS RELATED THE THE DISASTER IN MANHATTAN. OUTAGE OCCURED AT 2004 EDT.  SEE TEAMS TKT 2041302
+2001-09-11 21:44:27 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3012
+2001-09-11 21:44:27 Metrocall [1031987] A  ALPHA  LOUDOUN COUNTY & LEESBURG TOWN GOVERNMENTS WILL BE "OPEN" 9/12/01 - WITH LIBERAL LEAVE IN EFFECT LCFR-ECC
+2001-09-11 21:44:27 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3012
+2001-09-11 21:44:28 Arch [0600206] D  ALPHA   THE THE DISASTER IN MANHATTAN. OUTAGE OCCURED AT 2004 EDT.  SEE TEAMS TKT 2041302
+2001-09-11 21:44:31 Skytel [007047173] B SH/TONE 676-2620
+2001-09-11 21:44:31 Skytel [007099526] B SH/TONE 441-4000
+2001-09-11 21:44:31 Skytel [005132556] D  ALPHA  [Corporate Operations] FTN Command Center reports FRB 3rd Party Settlement extention until 21:45 for Bank of New York.  Batch processing delays will result in late ABRS and CCM handoffs.  Will update when FRB closes.
+2001-09-11 21:44:31 Skytel [004547334] B  ALPHA  215-547-3500.BOSTON MARKET       
+2001-09-11 21:44:31 Skytel [007638405] B ST NUM  123-456-7890   
+2001-09-11 21:44:31 Skytel [005204875] C  ALPHA  HI HANDSOME, I'M HOME. PLEASE CALL AGAIN. WOULD LOVE TO TALK TO YOU BEFORE YOU LEAVE. LOVE, PAT. I HOPE YOU'RE STILL BY A PHONE.
+2001-09-11 21:44:31 Skytel [003929615] D  ALPHA  [Corporate Operations] FTN Command Center reports FRB 3rd Party Settlement extention until 21:45 for Bank of New York.  Batch processing delays will result in late ABRS and CCM handoffs.  Will update when FRB closes.
+2001-09-11 21:44:31 Skytel [005360266] C  ALPHA  Marc, We received the 35khz tone from DSS-45. Fax is at ACE Console.  Robert
+2001-09-11 21:44:33 Skytel [007463071] D  ALPHA  taskmaster.pager@starmine.com|| Daily Load Startup DB:merant_starmine_dev M:cb01
+2001-09-11 21:44:33 Skytel [004110488] C  ALPHA  Albany is back up on ISDN. We lost ISDN on City Hall and Police Plaza. So they are down completely. We are following up with carriers but I don't expect repair tonight. Editorial is notified. Joe (32
+2001-09-11 21:44:33 Skytel [004592669] D ST NUM  510-255-3829   
+2001-09-11 21:44:34 Metrocall [0847321] C  ALPHA  CALL MIKE AT 201-337-6963.
+2001-09-11 21:44:35 Skytel [003436448] A SH/TONE 3992    
+2001-09-11 21:44:35 Skytel [005136045] D  ALPHA  [Corporate Operations] FTN Command Center reports FRB 3rd Party Settlement extention until 21:45 for Bank of New York.  Batch processing delays will result in late ABRS and CCM handoffs.  Will update when FRB closes.
+2001-09-11 21:44:35 Skytel [004390436] B ST NUM  460-0384-0
+2001-09-11 21:44:35 Skytel [005185832] C SH/TONE 4039    
+2001-09-11 21:44:35 Skytel [005196205] D ST NUM  402-479-0292   
+2001-09-11 21:44:35 Skytel [003481900] D ST NUM  800-781-1037   
+2001-09-11 21:44:36 Arch [0801521] A  ALPHA  48:ABS: EMMC/INITIAL..MULTIPLE (16) DS3 OUTAGE IN NEW YORK.  SPRINT HAS (16) DS3'S DWN IN NEW YORK DUE TO A FIRE IN THE VERIZON C/O. THE FIRE IS RELATED THE THE DISASTER IN MANHATTAN. OUTAGE OCCURED AT 2004 EDT.  SEE TEAMS TKT 2041302
+2001-09-11 21:44:36 Arch [0418533] B  ALPHA  (26)28:ABS: Tkt:5005329, Sev:2, TIQ:121min, Sname:XXX, CIS Id:999999999, Contact:MICHAEL FERRO @ 3127047700 Note:SL-GW22-CHI, SERIAL7/5/1:0 IS DOWN, LINE PROTOCOL IS DOWN, CUST NOT AVAILABLE....DALESTER/PMC
+2001-09-11 21:44:36 Arch [0453271] B  ALPHA  (27)46:ABS: EMMC/INITIAL..MULTIPLE (16) DS3 OUTAGE IN NEW YORK.  SPRINT HAS (16) DS3'S DWN IN NEW YORK DUE TO A FIRE IN THE VERIZON C/O. THE FIRE IS RELATED THE THE DISASTER IN MANHATTAN. OUTAGE OCCURED AT 2004 EDT.  SEE TEAMS TKT 2041302
+2001-09-11 21:44:37 Skytel [005227185] A ST NUM  08007243624    
+2001-09-11 21:44:37 Skytel [003412019] A SH/TONE 110     
+2001-09-11 21:44:37 Skytel [003931953] A  ALPHA  [Corporate Operations] FTN Command Center reports FRB 3rd Party Settlement extention until 21:45 for Bank of New York.  Batch processing delays will result in late ABRS and CCM handoffs.  Will update when FRB closes.
+2001-09-11 21:44:37 Skytel [007563063] B ST NUM  809-370-0165-911    
+2001-09-11 21:44:37 Skytel [004685745] A  ALPHA  Subject: FYI - DOWR 4855  - Service Impact IP: 129.33.63.88 Problem Type: Webserver Start: 21:43 on 09-11 
+2001-09-11 21:44:37 Skytel [007538234] C SH/TONE 1       
+2001-09-11 21:44:37 Skytel [007602617] C SH/TONE 28878   
+2001-09-11 21:44:37 Skytel [005003958] B SH/TONE 07407   
+2001-09-11 21:44:37 Skytel [004525375] D ST NUM  810-273-7087   
+2001-09-11 21:44:37 Skytel [005110712] C SH/TONE 24      
+2001-09-11 21:44:37 Skytel [003054910] D ST NUM  800-227-3030   
+2001-09-11 21:44:38 Arch [0922189] D  ALPHA  AUTO_NETWK EN0P2 Delete Test has changed from fail to pass - Tue 09/11/01 21:45:02
+2001-09-11 21:44:38 Arch [1616643] A  ALPHA  Please call Chris Coons at 214-808-2245 reguarding a Onix issue...Noc 9/11/01 (1/1)
+2001-09-11 21:44:38 Arch [0433992] C  ALPHA  739-0107
+2001-09-11 21:44:38 Arch [0927086] D  ALPHA  VPO - msadc01:5.6.007 geaso-ss2200-dfic-1.ae.ge.com Node Up 
+2001-09-11 21:44:38 Arch [0984397] D  ALPHA  NTSECURE:Device Inaccessible
+2001-09-11 21:44:38 Metrocall [1898681] C  ALPHA  PR19  Oracle Instance is Up on MVSTARDB01 at 6:43:57 PM 9/11/01[NTM]
+2001-09-11 21:44:39 Skytel [003919297] A  ALPHA  marina 6:30
+2001-09-11 21:44:39 Skytel [002741296] A SH/TONE 5130    
+2001-09-11 21:44:39 Skytel [004587207] B SH/TONE 1289    
+2001-09-11 21:44:39 Skytel [005069891] A  ALPHA  [Corporate Operations] FTN Command Center reports FRB 3rd Party Settlement extention until 21:45 for Bank of New York.  Batch processing delays will result in late ABRS and CCM handoffs.  Will update when FRB closes.
+2001-09-11 21:44:39 Skytel [007637451] C SH/TONE 2668    
+2001-09-11 21:44:39 Skytel [005130306] A SH/TONE 224-7184
+2001-09-11 21:44:39 Skytel [007461578] C SH/TONE 15      
+2001-09-11 21:44:39 Skytel [005377485] D ST NUM  872-255-0170   
+2001-09-11 21:44:39 Skytel [005254721] A  ALPHA  [Corporate Operations] FTN Command Center reports FRB 3rd Party Settlement extention until 21:45 for Bank of New York.  Batch processing delays will result in late ABRS and CCM handoffs.  Will update when FRB closes.
+2001-09-11 21:44:40 Arch [0922189] D  ALPHA  AUTO_NETWK EN0P2 Health Test has changed from fail to pass - Tue 09/11/01 21:45:02
+2001-09-11 21:44:40 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-11 21:44:40 Arch [1618161] A  ALPHA  63259
+2001-09-11 21:44:40 Arch [0920915] A  ALPHA  967151
+2001-09-11 21:44:40 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19
+2001-09-11 21:44:40 Arch [0904475] C  ALPHA  69-WE LOVE YOU DAD. HOLD ON. FAMILY # IS 732-279-9806. GREG.
+2001-09-11 21:44:41 Skytel [002782417] A SH/TONE 210-8911
+2001-09-11 21:44:41 Skytel [005325918] D  ALPHA  [Corporate Operations] FTN Command Center reports FRB 3rd Party Settlement extention until 21:45 for Bank of New York.  Batch processing delays will result in late ABRS and CCM handoffs.  Will update when FRB closes.
+2001-09-11 21:44:41 Skytel [0160068] B  ALPHA  [Corporate Operations] FTN Command Center reports FRB 3rd Party Settlement extention until 21:45 for Bank of New York.  Batch processing delays will result in late ABRS and CCM handoffs.  Will update when FRB closes.
+2001-09-11 21:44:41 Skytel [003916248] C ST NUM  754-5128 (54   
+2001-09-11 21:44:41 Skytel [005047254] B SH/TONE 4900    
+2001-09-11 21:44:41 Skytel [005327195] C  ALPHA  [Corporate Operations] FTN Command Center reports FRB 3rd Party Settlement extention until 21:45 for Bank of New York.  Batch processing delays will result in late ABRS and CCM handoffs.  Will update when FRB closes.
+2001-09-11 21:44:41 Skytel [004437085] D SH/TONE 225-8899
+2001-09-11 21:44:41 Skytel [007656159] D SH/TONE 587-6218
+2001-09-11 21:44:41 Skytel [003949275] C SH/TONE 4363    
+2001-09-11 21:44:41 Skytel [007045593] C ST NUM  900-227-3030   
+2001-09-11 21:44:41 Skytel [002275293] D ST NUM  817-750-7000-205    
+2001-09-11 21:44:41 Skytel [005521744] A  ALPHA  [Corporate Operations] FTN Command Center reports FRB 3rd Party Settlement extention until 21:45 for Bank of New York.  Batch processing delays will result in late ABRS and 
+2001-09-11 21:44:42 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-11 21:44:42 Arch [1425048] C  ALPHA  > chunk 189430. 
+2001-09-11 21:44:43 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-11 21:44:43 Skytel [004417378] A SH/TONE 5950    
+2001-09-11 21:44:43 Skytel [003928294] B  ALPHA  [Corporate Operations] FTN Command Center reports FRB 3rd Party Settlement extention until 21:45 for Bank of New York.  Batch processing delays will result in late ABRS and CCM handoffs.  Will update when FRB closes.
+2001-09-11 21:44:43 Skytel [004686818] A  ALPHA  yousun.kim@lamrc.com|Lab DB - metqueue Hitachi 3 ready|Hitachi 3 is ready.  Please click here to login - http://engweb.eng.lamrc.com/labref/index.jsp  
+2001-09-11 21:44:43 Skytel [002357089] A SH/TONE 2700    
+2001-09-11 21:44:43 Skytel [004396649] C ST NUM  613-996-7127   
+2001-09-11 21:44:43 Skytel [005256929] A  ALPHA  [Corporate Operations] FTN Command Center reports FRB 3rd Party Settlement extention until 21:45 for Bank of New York.  Batch processing delays will result in late ABRS and CCM handoffs.  Will update when FRB closes.
+2001-09-11 21:44:43 Skytel [005521744] A  ALPHA  CCM handoffs.  Will update when FRB closes.
+2001-09-11 21:44:43 Skytel [002383460] B SH/TONE 545-7392
+2001-09-11 21:44:43 Skytel [005363177] C  ALPHA  6513
+2001-09-11 21:44:43 Skytel [003777774] D SH/TONE 6805    
+2001-09-11 21:44:45 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-11 21:44:45 Skytel [002821497] C  ALPHA  alert@msn.com||Hotmail Debt Free In Three Months:3 Month Debt Free Program 9/11/01 6:41:47 PM  
+2001-09-11 21:44:45 Skytel [007547510] B ST NUM  4102720539911911911 
+2001-09-11 21:44:45 Skytel [003950071] B  ALPHA  [Corporate Operations] FTN Command Center reports FRB 3rd Party Settlement extention until 21:45 for Bank of New York.  Batch processing delays will result in late ABRS and CCM handoffs.  Will update when FRB closes.
+2001-09-11 21:44:45 Skytel [002850036] B SH/TONE 418-2917
+2001-09-11 21:44:45 Skytel [005068537] C  ALPHA  [Corporate Operations] FTN Command Center reports FRB 3rd Party Settlement extention until 21:45 for Bank of New York.  Batch processing delays will result in late ABRS and CCM handoffs.  Will update when FRB closes.
+2001-09-11 21:44:45 Skytel [004424828] D ST NUM  746-3900 (43   
+2001-09-11 21:44:45 Skytel [007585279] D SH/TONE 257-7256
+2001-09-11 21:44:46 Metrocall [1064374] B  ALPHA  YEN  119.00/05 -072 EUR  0.9104/09 +001 CHF  1.6450/00 +045 GBP  1.4727/37 -024 CAD  1.5639/49 +002 AUD  0.5155/65 -040  NZD  0.4270/80 -035 DEM  2.1474/86 +000  E/C  1.4991/96 -164 E/Y  108.99/09 +034 E/S  0.6163/66 -029 USD  
+2001-09-11 21:44:46 Skytel [005065474] A SH/TONE 524-3843
+2001-09-11 21:44:46 Skytel [005362438] B SH/TONE 232     
+2001-09-11 21:44:48 Skytel [005065361] A  ALPHA  [Corporate Operations] FTN Command Center reports FRB 3rd Party Settlement extention until 21:45 for Bank of New York.  Batch processing delays will result in late ABRS and CCM handoffs.  Will update when FRB closes.
+2001-09-11 21:44:48 Skytel [004697622] B  ALPHA  [Corporate Operations] FTN Command Center reports FRB 3rd Party Settlement extention until 21:45 for Bank of New York.  Batch processing delays will result in late ABRS and CCM handoffs.  Will update when FRB closes.
+2001-09-11 21:44:48 Skytel [007457563] C SH/TONE 305-5650
+2001-09-11 21:44:48 Skytel [002398487] B SH/TONE 2) 4555 
+2001-09-11 21:44:48 Skytel [005006109] D ST NUM  0-800-523-7282-2531 
+2001-09-11 21:44:48 Skytel [005405463] B  ALPHA  847-549-8468 (14
+2001-09-11 21:44:48 Skytel [005117724] D SH/TONE 26080   
+2001-09-11 21:44:49 Metrocall [1064374] B  ALPHA     113.31 -007
+2001-09-11 21:44:50 Skytel [005523360] A  ALPHA  [Corporate Operations] FTN Command Center reports FRB 3rd Party Settlement extention until 21:45 for Bank of New York.  Batch processing delays will result in late ABRS and CCM handoffs.  Will update when FRB closes. (18
+2001-09-11 21:44:50 Skytel [007604773] B SH/TONE 240     
+2001-09-11 21:44:50 Skytel [005178024] C SH/TONE 545-7092
+2001-09-11 21:44:50 Skytel [002565291] C SH/TONE 111     
+2001-09-11 21:44:50 Skytel [005353889] A ST NUM  915-653-9674   
+2001-09-11 21:44:52 Skytel [0160060] D  ALPHA  [Corporate Operations] FTN Command Center reports FRB 3rd Party Settlement extention until 21:45 for Bank of New York.  Batch processing delays will result in late ABRS and CCM handoffs.  Will update when FRB closes.
+2001-09-11 21:44:52 Skytel [007035440] A ST NUM  849-7682-60    
+2001-09-11 21:44:52 Skytel [002285880] C ST NUM  410-623-1457-8111111
+2001-09-11 21:44:54 Skytel [004591436] D SH/TONE 237     
+2001-09-11 21:44:55 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-11 21:44:55 Arch [1612073] C  ALPHA  CTOSERV@ADMMVS|>>FROMOPER 'PAHRDWBB SUPPORT 1 24 HRS CC 1808 IN FTP JSTEP020': ONCALL INFO NOT FOUND 
+2001-09-11 21:44:55 Arch [1425195] C  ALPHA  917-2488
+2001-09-11 21:44:55 Arch [0938288] A  ALPHA  Sev1 open S3041460 FREDERICK IRVING 5165747934 1985MARCUS1 NATIONAL CONSUMER SERVICES EMCNCCOPS SERVER OPS NEEDS SINGLE SIGN ON/ ICOB CONNECTIONS CHECKED. ONLINE BANKING  UNACCESSIBLE  09/11/01 21:41:35
+2001-09-11 21:44:55 Arch [0959865] C  ALPHA  msica|7222 re: Need assistance   
+2001-09-11 21:44:57 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-11 21:44:57 Arch [0474811] C  ALPHA  (17)Costco  volume is at 32,700  by five minutes. Of which we currently are blocking 19600 costco calls. 75 % of the calls are still bein
+2001-09-11 21:44:57 Arch [1238892] D  ALPHA  (3)65:ABS: Tkt:5005329, Sev:2, TIQ:122min, Sname:XXX, CIS Id:999999999, Contact:MICHAEL FERRO @ 3127047700 Note:SL-GW22-CHI, SERIAL7/5/1:0 IS DOWN, LINE PROTOCOL IS DOWN, CUST NOT AVAILABLE....DALESTER/PMC
+2001-09-11 21:44:57 Arch [1184407] B  ALPHA  (11)16:ABS: EMMC/INITIAL..MULTIPLE (16) DS3 OUTAGE IN NEW YORK.  SPRINT HAS (16) DS3'S DWN IN NEW YORK DUE TO A FIRE IN THE VERIZON C/O. THE FIRE IS RELATED THE THE DISASTER IN MANHATTAN. OUTAGE OCCURED AT 2004 EDT.  SEE TEAMS TKT 2041302
+2001-09-11 21:44:57 Arch [1300615] B  ALPHA  (1)Costco  volume is at 32,700  by five minutes. Of which we currently are blocking 19600 costco calls. 75 % of the calls are still being blocked to NY NPAs
+2001-09-11 21:44:58 Arch [0474811] C  ALPHA  g blocked to NY NPAs
+2001-09-11 21:44:58 Arch [1428040] C  ALPHA   Sub:WTC UPDATE #9c Msg:      WTC UPDATE #9c BEGINS AT 9PM ON TUE SEP 11, 2001       <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />    9:39p               abc            
+2001-09-11 21:44:58 Skytel [004416739] A SH/TONE 9427    
+2001-09-11 21:44:58 Skytel [007510638] D ST NUM  212-944-4245   
+2001-09-11 21:44:58 Skytel [005105250] A ST NUM  960-627-5171   
+2001-09-11 21:44:58 Skytel [007578473] C ST NUM  900-487-5183   
+2001-09-11 21:44:58 Skytel [007459820] D SH/TONE 39465   

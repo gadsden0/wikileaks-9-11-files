@@ -1,0 +1,54 @@
+2001-09-11 03:11:01 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   5315 OPEN suntvpa:5315 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 9207 OPEN sunapp1:9207 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:11:02 Metrocall [0477913] C  ALPHA  maq disconnected from Ticker=labcp-wbs03, 5555; 720 reconnect
+2001-09-11 03:11:03 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-11 03:11:03 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs03 Sev:4 # 120002 ReadError WBS 3.1.14.1 09/11/01 00:10:28 PDT7 Instance: tm-nbc/wmaq Module: Transport Details: PID=11916 TID=19 file closed
+2001-09-11 03:11:04 Skytel {1092655} 3 2400 002182    
+2001-09-11 03:11:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6720
+2001-09-11 03:11:09 Metrocall [1064374] B  ALPHA  YEN  121.55/65 +062 EUR  0.8990/92 +009 CHF  1.6859/65 -020 GBP  1.4556/58 -007 CAD  1.5632/37 +006 AUD  0.5146/51 +013 NZD  0.4260/67 -047 DEM  2.1748/65 -022  E/C  1.5155/60 +000 E/Y  109.30/32 +065 E/S  0.6173/78 +015 USD     114.79 +001
+2001-09-11 03:11:09 Metrocall [0497643] C  ALPHA  1:00 ON HAND MAIL COUNT 1C 484 2C 51 3C 525 CURRENT 72 ERGO 34 PRIM 6 SEC 28 APCS PRIM 9 APCS SEC 21
+2001-09-11 03:11:09 Metrocall [1397690] C  ALPHA  dino:-->Sep 11 03:10 'oracle-autosys AUTA-AUTB problem' detected
+2001-09-11 03:11:25 Arch [1033281] A  ALPHA  FTT GCSC: N460437 NG: Server Support has reported that exchange servers 17 and 19 are back up. Service Restored.
+2001-09-11 03:11:25 Arch [1641473] A  ALPHA  FTT GCSC: N460437 NG: Server Support has reported that exchange servers 17 and 19 are back up. Service Restored.
+2001-09-11 03:11:25 Arch [0898025] C  ALPHA  FTT GCSC: N460437 NG: Server Support has reported that exchange servers 17 and 19 are back up. Service Restored.
+2001-09-11 03:11:25 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2218 - 02E0FB GAIN_S 6125, cnet lost sync, Clr
+2001-09-11 03:11:25 Arch [0554774] B  ALPHA  FTT GCSC: N460437 NG: Server Support has reported that exchange servers 17 and 19 are back up. Service Restored.
+2001-09-11 03:11:25 Arch [0938372] B  ALPHA  FTT GCSC: N460437 NG: Server Support has reported that exchange servers 17 and 19 are back up. Service Restored.
+2001-09-11 03:11:25 Arch [1008334] D  ALPHA  FTT GCSC: N460437 NG: Server Support has reported that exchange servers 17 and 19 are back up. Service Restored.
+2001-09-11 03:11:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9643
+2001-09-11 03:11:27 Arch [1060702] D  ALPHA  root: Ocala A58 001DE0 AL Link receive failure 09-11-01 07:09:22
+2001-09-11 03:11:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 176905. 
+2001-09-11 03:11:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3291
+2001-09-11 03:11:31 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   27224 OPEN suntvpa:27224 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 24004 OPEN sunapp1:24004 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat 
+2001-09-11 03:11:31 Arch [0925366] B  ALPHA   318643;Sep 10 23:12:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 03:11:31 Skytel [005098248] C  ALPHA  eric_malain@stream.com|GRAS HEALTH CHECK: YELLOW - LONDON - MLFC| 
+2001-09-11 03:11:31 Skytel [007586182] B SH/TONE 215-8826
+2001-09-11 03:11:31 Skytel [009992843] C  ALPHA  1111
+2001-09-11 03:11:31 Skytel [003511820] D ST NUM  410-661-3573   
+2001-09-11 03:11:33 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:11:33 Arch [0976352] A  ALPHA  (31)clhicks 75381-DCM-  CA7- De-ESC -  FI2199D restarted at 02:02 complete at 02:08. Apps verified that data is correct. Fin/Ven eta 04:05. target 05:00  Sent at 02:10      
+2001-09-11 03:11:33 Skytel [002353179] C  ALPHA  Stackers on DFW....... PLEASE!!!-Annemarie
+2001-09-11 03:11:33 Skytel [005092250] C  ALPHA  epic@epic2|Terms on=163 Terms off=1|QC_Bldg728_so  
+2001-09-11 03:11:35 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   3477 OPEN suntvpa:3477 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 1523 OPEN sunapp1:1523 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:11:35 Skytel [007588514] A SH/TONE 3000    
+2001-09-11 03:11:35 Skytel [005207087] D  ALPHA  FLT1011 APPROX 45 MIN LATE, FLT1153 ETA 0444
+2001-09-11 03:11:36 Skytel [007588530] A SH/TONE 3391    
+2001-09-11 03:11:36 Skytel [007529267] A  ALPHA  CSBoe@broadband.att.com|RE: USA unwatchable|Back up as of 2:00 AM per headend, possible bad modulato
+2001-09-11 03:11:36 Skytel [005258806] B SH/TONE 28861   
+2001-09-11 03:11:36 Skytel [002791230] D ST NUM  504-303-4710 (2
+2001-09-11 03:11:37 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   15243 OPEN suntvpa:15243 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 28372 OPEN sunapp1:28372 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat
+2001-09-11 03:11:38 Skytel [005345216] A ST NUM  9007804037
+2001-09-11 03:11:40 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 14.82 54.56 48.11 Tue Sep 11 00:12:00 MST 2001 
+2001-09-11 03:11:40 Skytel [005338196] B SH/TONE 25900   
+2001-09-11 03:11:42 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-11 03:11:44 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:11:44 Skytel [002396156] D SH/TONE 4359    
+2001-09-11 03:11:46 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   16926 OPEN suntvpa:16926 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 2787 OPEN sunapp1:2787 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:11:48 Arch [0911134] D  ALPHA   equity71 SYBASE: check_db(PDS1_EQCSWLN) MAYBE OPEN TRANSACTION in syslogshold tempdb|100 - PDS1_EQCSWLN @03:11 09/11/01 
+2001-09-11 03:11:48 Metrocall [1580894] D  ALPHA  Frm: Asians By Mail Sub: Free Asian Pictures - Sep........................................................................................................................................................................op Wanna Keep y
+2001-09-11 03:11:48 Skytel [002353048] C  ALPHA  cmhnt-dal: Bank One cmhnt-dal Host down: No response to ping twice  
+2001-09-11 03:11:48 Skytel [004534043] C SH/TONE 1       
+2001-09-11 03:11:51 Skytel [004702132] B  ALPHA  support@pconline.com|Server newton FTP,POP3 UP at 02:03:55|Server newton FTP,POP3 UP at 02:03:55 Address
+2001-09-11 03:11:55 Skytel [002274898] A SH/TONE 716     
+2001-09-11 03:11:57 Skytel [004524770] A  ALPHA  wil-RRPG-RutlandVT-02: CPE Up at 00:58:07 on 9/11
+2001-09-11 03:11:57 Skytel [005436525] D  ALPHA  Test #30
+2001-09-11 03:11:57 Skytel [005226605] D ST NUM  8683241838

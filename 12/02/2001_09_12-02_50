@@ -1,0 +1,76 @@
+2001-09-12 02:50:00 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-12 02:50:00 Arch [0392267] C  ALPHA  800 989-1296
+2001-09-12 02:50:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4709
+2001-09-12 02:50:00 Skytel [005525114] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 02:50:04 Arch [1602661] B  ALPHA  (24)20:ABS:
+2001-09-12 02:50:04 Arch [1605612] D  ALPHA  (15)25:ABS:
+2001-09-12 02:50:04 Arch [0432768] A  ALPHA  (21)20:ABS:
+2001-09-12 02:50:04 Arch [0951053] D  ALPHA  |itech-view6 build(s) done  
+2001-09-12 02:50:04 Arch [1407124] B  ALPHA  (21)NT Server KCMSEP01 UP at 02:01:07
+2001-09-12 02:50:04 Arch [1401196] D  ALPHA  (28)23:ABS:
+2001-09-12 02:50:04 Arch [1002107] C  ALPHA  (10)15:ABS:
+2001-09-12 02:50:04 Skytel [004686110] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 02:50:04 Skytel [004405151] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 02:50:04 Skytel {0743995} 1 2400 800-344-8041   
+2001-09-12 02:50:04 Skytel {1092655} 3 2400 002655    
+2001-09-12 02:50:04 Skytel {1687772} 1 2400 MOT 15.04 UNCH
+2001-09-12 02:50:12 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-12 02:50:12 Metrocall [002534882] A  ALPHA  PM197901 Sev: 2 Grp: pya prod svcs Loc: headquarters Name: tivoli Ph: 866-479-2873 Descr: pts1cdel
+2001-09-12 02:50:13 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-12 02:50:15 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-12 02:50:17 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-12 02:50:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1062
+2001-09-12 02:50:21 Arch [1088752] A  ALPHA  :The Problem with ID 00330734 Severity 2 Description  mopf21.pitts.bayer.com- Node Down. has not been resolved.It has been escalated to level 1 on 09/11/2001 at 17:22:35.
+2001-09-12 02:50:23 Arch [0030125] D  ALPHA  10-THANK YOU FOR PHONING. WE ARE GLAD YOU ARE SAFE. I GAVE YOUR MSG TO PAUL. TAKE CARE. LOVE,...
+2001-09-12 02:50:23 Arch [0944442] C  ALPHA  (10)18:ABS:
+2001-09-12 02:50:23 Arch [1184407] B  ALPHA  (14)18:ABS:
+2001-09-12 02:50:25 Arch [0030125] D  ALPHA  2...CARMELA (MESSAGE NOT VERIFIED. CALL DISCONNECTED).
+2001-09-12 02:50:28 Metrocall [002272928] A  ALPHA  Frm: Passport Batch Account Sub: AT AutoWriter Txt: All AT Ran!
+2001-09-12 02:50:29 Arch [0936036] B  ALPHA  'lon-sls-rtr-s0' is unreachable. Circuit down?
+2001-09-12 02:50:30 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 02:50:30 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192909. 
+2001-09-12 02:50:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3318
+2001-09-12 02:50:30 Metrocall [0525954] A  ALPHA  HTTP:Chelmick at 10.17.1.52 is DOWN.
+2001-09-12 02:50:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3318
+2001-09-12 02:50:32 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-12 02:50:32 Skytel [007639559] B ST NUM  9887039553
+2001-09-12 02:50:33 Skytel [005060255] D  ALPHA  From:pokibmxtelb01 Host:apdafs36 Event:errlogactive  Message:errlogacttag fe9e9357   0912024201 p h pdisk5         disk operation error
+2001-09-12 02:50:34 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 02:50:35 Skytel [005345829] B  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 02:50:35 Skytel [005001895] B  ALPHA  [sps/171] 200 sps-apps1.cps.intel.com relay-ssl 0.781 Application isokay (/ifm/healthcheck.asp) 3:45:45
+2001-09-12 02:50:35 Skytel [007041316] B SH/TONE 727-6891
+2001-09-12 02:50:36 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-12 02:50:37 Skytel [003917363] A  ALPHA  (1 of 2) I am a worry wart, so I will most likly worry about this which is the last thing either of us need right now with everything.  Do you thing he will try to track me down? I hope not well I will check for mail here before I try to la
+2001-09-12 02:50:37 Skytel [007547061] B ST NUM  08007243624    
+2001-09-12 02:50:37 Skytel [005180473] C ST NUM  0-334-683-8553 
+2001-09-12 02:50:37 Skytel [005043128] C SH/TONE 822-6256
+2001-09-12 02:50:37 Skytel [007465406] D  ALPHA  FOR MARSHALL 972-566-7500 DEBRA HALTON/LAB CORP 3279 PANIC GLUCOSE ON PT TIMOTHY BRIGHT
+2001-09-12 02:50:38 Arch [0971491] A  ALPHA  Auto Quality in Pocattello is just ringing. VT# 249113
+2001-09-12 02:50:38 Arch [1652215] B  ALPHA  Auto QualitY..n..o..t..l........3.......................
+2001-09-12 02:50:38 Arch [1603689] C  ALPHA  Auto Quality in Pocattello is just ringing. VT# 249113
+2001-09-12 02:50:38 Arch [0192750] D  ALPHA  Auto Quality..n..o..t..l........s.@.....................
+2001-09-12 02:50:39 Skytel [004689866] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 02:50:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:50:40 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE Tray Metrics Down   Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[002]  dev_err[056]
+2001-09-12 02:50:41 Skytel [007047515] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 02:50:41 Skytel [003926994] A ST NUM  1-208-754-4847 
+2001-09-12 02:50:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #59-IX_T4008
+2001-09-12 02:50:43 Skytel [005507819] C SH/TONE 99      
+2001-09-12 02:50:43 Skytel [005330530] A ST NUM  8685222010
+2001-09-12 02:50:45 Arch [0298028] D  ALPHA  Need help?, Anuj 44357/9150
+2001-09-12 02:50:45 Skytel [005092221] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 02:50:45 Skytel [007085434] C SH/TONE 07734   
+2001-09-12 02:50:45 Skytel [007638399] D SH/TONE 7346    
+2001-09-12 02:50:47 Skytel [005044104] C  ALPHA  scott.thomas@lamrc.com|Lab DB - Hitachi 4 used more than allowable time limit.|The next user is waiting to use Hitachi 4. You have been using the tool for 367 minutes and your allowable time on the tool has expired, please end your session 
+2001-09-12 02:50:47 Skytel [007083913] C ST NUM  918-892-3040   
+2001-09-12 02:50:48 Skytel [004209811] A ST NUM  430-676-9869 (87    
+2001-09-12 02:50:48 Skytel [007046275] A SH/TONE 2911    
+2001-09-12 02:50:51 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-12 02:50:53 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 02:50:53 Arch [1327563] C  ALPHA  (10)18:ABS:
+2001-09-12 02:50:53 Arch [1329920] A  ALPHA  (8)16:ABS:
+2001-09-12 02:50:53 Arch [0472059] C  ALPHA  (9)20:ABS:
+2001-09-12 02:50:55 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-12 02:50:57 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 02:50:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8140
+2001-09-12 02:50:59 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21

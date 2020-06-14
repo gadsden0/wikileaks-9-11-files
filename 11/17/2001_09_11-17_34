@@ -1,0 +1,344 @@
+2001-09-11 17:34:00 Skytel [005243253] B SH/TONE 891-4083
+2001-09-11 17:34:00 Skytel [003203318] B ST NUM  1-800-725-8417 
+2001-09-11 17:34:00 Skytel [005105651] A SH/TONE 230     
+2001-09-11 17:34:00 Skytel [005191801] C SH/TONE 472-8210
+2001-09-11 17:34:00 Skytel [005003260] D SH/TONE 7474    
+2001-09-11 17:34:00 Skytel [002791544] C ST NUM  903-429-7596   
+2001-09-11 17:34:00 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Disk used % for /clients/IVR/home/rswwwp/work is 86; > than 80
+2001-09-11 17:34:00 Skytel [007574270] D SH/TONE 67      
+2001-09-11 17:34:00 Skytel [002359673] C  ALPHA  Testing..if ya get this call me...Jamie x6573
+2001-09-11 17:34:00 Skytel [002265727] D ST NUM  954-741-6454   
+2001-09-11 17:34:01 Skytel [002844420] B SH/TONE 6245 (79
+2001-09-11 17:34:01 Skytel [004192258] A ST NUM  804-255-5906 (4
+2001-09-11 17:34:01 Skytel [005209865] C ST NUM  817-264-7888   
+2001-09-11 17:34:01 Skytel [007598194] A SH/TONE 829-9145
+2001-09-11 17:34:01 Skytel [004392710] B  ALPHA  awatanabe@ci.pleasanton.ca.us||Call me.  
+2001-09-11 17:34:01 Skytel [005509894] B ST NUM  977-257-1284-3876   
+2001-09-11 17:34:01 Skytel [004433801] C ST NUM  770-427-6519   
+2001-09-11 17:34:01 Skytel [002278924] D ST NUM  303-662-7901   
+2001-09-11 17:34:01 Skytel [005329155] A ST NUM  1-718-967-5186 
+2001-09-11 17:34:01 Skytel [005003012] B  ALPHA  admin@EBK.NCR.com|TCP/IP Communication failure with BNY Host|Alert: The connection to the Bank of New York Stratus has been lost for EBS6.    
+2001-09-11 17:34:02 Arch [0545187] A  ALPHA  2521
+2001-09-11 17:34:02 Arch [0971167] D  ALPHA  800 362-6262
+2001-09-11 17:34:03 Skytel [0001809] A  ALPHA  * News Update *.>NEW YORK: Attack brings down World Trade Center as terrorists hijack 2 airliners, leveling the twin 110-story towers & a third building; hundreds were killed aboard the jets & untold numbers are feared dead in the rubble..>D.C.: Penta
+2001-09-11 17:34:03 Skytel [004734237] D SH/TONE 8115    
+2001-09-11 17:34:03 Skytel [002279325] D SH/TONE 53071   
+2001-09-11 17:34:04 Arch [1029034] C  ALPHA  From noc at 05:34 PM EDT: Please call the NOC re:tkts for wink timeouts-Randy [CC:telecom] 
+2001-09-11 17:34:04 Arch [1396513] A  ALPHA  "JPMPRG::SCH"@jp|DOT NFY> DOT Groups NOT posted.|
+2001-09-11 17:34:04 Arch [0930069] B  ALPHA  From BreakingNews@CNN.COM Sub:CNN Breaking News Msg:BREAKING NEWS from CNN.com    -- Third World Trade Center tower, 47-story building 7, collapses. Details soon.    For complete coverage of this ...
+2001-09-11 17:34:04 Arch [0967845] B  ALPHA  LIFmon3 Tue Sep 11 17:30:01 EDT 2001 - Instance prod is DOWN!!!
+2001-09-11 17:34:04 Arch [1060545] A  ALPHA  847 334-5070
+2001-09-11 17:34:04 Arch [0141581] D  ALPHA  (25)379-5931 [512 947-1414] (17:33)
+2001-09-11 17:34:04 Arch [0944854] B  ALPHA  From root at 05:34 PM EDT: eos230 is missing /usr/vox2/accounts/rjrco/mailorbe/c002 [CC:t5pri] 
+2001-09-11 17:34:04 Arch [0911134] D  ALPHA   comsyb1-adm.ny.jpmorgan.com SYBASE: PDSHH_EQNY1 Sybase  @17:20 09/11/01 
+2001-09-11 17:34:05 Arch [0930069] B  ALPHA  story visit:  http://www.CNN.com or AOL Keyword: CNN      CNN Headline News has changed everything but its name.  Visit us online at ...
+2001-09-11 17:34:05 Arch [0911134] D  ALPHA   comsyb1-adm.ny.jpmorgan.com SYBASE: PDSHH_EQNY1 2 lines of potential Sybase errors 2812, Severity: 16, State: 5  @17:20 09/11/01 
+2001-09-11 17:34:05 Metrocall [1544585] C  ALPHA  FYI:  Gas is expected to be above $3.00 by morning.  It's reached $1.99 already!  Lines at the stations are LONG!  Everyone might want to fill up!
+2001-09-11 17:34:05 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4153
+2001-09-11 17:34:05 Metrocall [1283131] C  ALPHA  NEW SEV:2 FONT ORTHOPEDICS DEPT ALL TERMINALS DOWN *LOC:Fontana,9985 Sierra Ave,Fontana Mob *START:14:11 PT *STATUS BRIDGE:NONE *PM:1247724
+2001-09-11 17:34:05 Metrocall [1746011] C  ALPHA  NEW SEV:2 FONT ORTHO
+2001-09-11 17:34:05 Skytel [0001809] A  ALPHA  gon hit by aircraft; terrorist attack spreads fear & chaos in nation's capital; top leaders of Congress are led to an undisclosed location for safety..>PA: United Airlines jetliner crashes carrying 45 people just minutes after a man on a cell phone cal
+2001-09-11 17:34:05 Skytel [007608237] D  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Third World Trade Center tower, 47-story building 7, collapses. Details soon.  For complete coverage of this story visit: http://www.CNN.com or AOL Keyword: CNN   CN
+2001-09-11 17:34:05 Skytel [002155304] C ST NUM  673-451-0355   
+2001-09-11 17:34:05 Skytel [007030571] C ST NUM  973-669-1410   
+2001-09-11 17:34:05 Skytel [005362340] B SH/TONE 3772    
+2001-09-11 17:34:05 Skytel [002559919] D SH/TONE 379-9875
+2001-09-11 17:34:05 Skytel [0002067] A  ALPHA  (1 of 2) i talked to most of you but to reenforce the communication of our current situation. contact each of your employees to let them know that fedex will NOT operate tonight. contact each of your employees to let them know 
+2001-09-11 17:34:06 Metrocall [1746011] C  ALPHA  PEDICS DEPT ALL TERMINALS DOWN *LOC:Fontana,9985 Sierra Ave,Fontana Mob *START:14:11 PT *STATUS BRIDGE:NONE *PM:1247724
+2001-09-11 17:34:06 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router 611FP-1Tendo at 14:32:27 Txt: Router 611FP-1Tendo DOWN at 14:32:27 Address: 209
+2001-09-11 17:34:06 Skytel {1042280} 1 1200 773-296-1347.Chicago, IL         .
+2001-09-11 17:34:06 Skytel {0145706} 3 1200 972-243-5683   
+2001-09-11 17:34:06 Skytel {0551084} 3 1200 2312183001
+2001-09-11 17:34:06 Skytel {0709653} 3 1200 285  
+2001-09-11 17:34:07 Arch [0930069] B  ALPHA  http://cnn.com/headlinenews    ========================================================  To UNSUBSCRIBE or SUBSCRIBE to any CNN E-MAIL service visit:  http://www.CNN.com/EMAIL    (c) 2001 Cable ...
+2001-09-11 17:34:07 Arch [0943046] B  ALPHA  sharad|Ready to leave? Call me @ x 32680. Thanks!   
+2001-09-11 17:34:07 Skytel {0938619} 3 1200 517-351-9040   
+2001-09-11 17:34:07 Skytel {0463580} 3 1200 616-772-9902   
+2001-09-11 17:34:08 Metrocall [1080319] D  ALPHA  .247.46.97 Date: 09/11/2001 Status: Host Unreachable ( 11003)
+2001-09-11 17:34:08 Skytel {0129280} 3 2400 302-1527  
+2001-09-11 17:34:08 Skytel {0105157} 3 2400 99   
+2001-09-11 17:34:08 Skytel {1660552} 3 2400 324-7054  
+2001-09-11 17:34:09 Arch [0953578] C  ALPHA  770 365-0964
+2001-09-11 17:34:11 Arch [0938038] B  ALPHA  881-7303
+2001-09-11 17:34:11 Arch [1617097] C  ALPHA  =
+2001-09-11 17:34:13 Arch [1238847] D  ALPHA  713 412-2126
+2001-09-11 17:34:14 Metrocall [1201251] A  ALPHA  looks like 12 just went to a parking lot somewhere. no where special...pam
+2001-09-11 17:34:14 Metrocall [002580794] C  ALPHA  2698/MO /CV ASSOC/504-871-0735/No Msg.
+2001-09-11 17:34:14 Metrocall [1544820] B  ALPHA  IWHub ServerWatch Notification - Server CRDC-NMMVR-P2/CA/GSVR/KAI
+2001-09-11 17:34:15 Arch [0918477] D  ALPHA  MSN <alert@msn.c|> ---------- > From: MSN[SMTP:ALERT@MSN.COM] > Sent: Tuesday, September 11, 2001 2:32:54 PM > To: ramon.lago@honeywell.com > Auto forwarded by a Rule > Hotmail Cook, Brad D AZ76:Prayer at Church tonight at 7 p.m. 
+2001-09-11 17:34:15 Arch [100158548] B  ALPHA  3333
+2001-09-11 17:34:15 Arch [1004636] D  ALPHA  520-8812
+2001-09-11 17:34:16 Metrocall [1903323] C  ALPHA  [IS    15:33:40 Alarm IS:RRDVF11 Down]
+2001-09-11 17:34:16 Metrocall [1544820] B  ALPHA  PERM is NOT Responding WARNING:Server CRDC-NMMVR-P2/CA/GSVR/KAIPERM is not responding. Reason:Unable to find path to server
+2001-09-11 17:34:16 Metrocall [002106623] D  ALPHA  NEW SEV:2 FONT
+2001-09-11 17:34:16 Metrocall [1035622] B  ALPHA  >233296-PPI-T7--TOYO-COROLLA-BLUE--22942 LOS ALISOS/TRABUCO*MV* AUTO ZONE-BLAIRS-<
+2001-09-11 17:34:16 Metrocall [1282343] B  ALPHA  NEW SEV:2 FONT ORTHOPEDICS DEPT ALL TERMINALS DOWN *LOC:Fontana,9985 Sierra Ave,Fontana Mob *START:14:11 PT *STATUS BRIDGE:NONE *PM:1247724
+2001-09-11 17:34:18 Metrocall [002106623] D  ALPHA   ORTHOPEDICS DEPT ALL TERMINALS DOWN *LOC:Fontana,9985 Sierra Ave,Fontana Mob *START:14:11 PT *STATUS BRIDGE:NONE *PM:1247724
+2001-09-11 17:34:18 Metrocall [0659734] B  ALPHA  Sorry you didn't want a life with me. I will attempt to leave you along and let the
+2001-09-11 17:34:18 Metrocall [002669318] B  ALPHA  0995PAGE UPDATE/NWS: SEVERE THUNDERSTORM WARNING ISSUED FOR HANCOCK COUNTY EFFECTIVE UNTIL 600 PM EDT.  AT 530 PM EDT...NATIONAL WEATHER SERVICE DOPPLER RADAR INDICATED A SEVERE THUNDERSTORM 7 MILES SOUTHEAST OF SPARTA...MOV
+2001-09-11 17:34:19 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 186553. 
+2001-09-11 17:34:19 Arch [0930069] B  ALPHA  News Network, Inc.  An AOL Time Warner Company        CNN Interactive email id:1147173202243079  
+2001-09-11 17:34:19 Arch [1017704] C  ALPHA  From Jeff Ellis Sub:going to do battle on overtime - call me Ellis 72818
+2001-09-11 17:34:19 Arch [1274611] A  ALPHA  24-CALL DICK DANIELS AT 469-585-9861.
+2001-09-11 17:34:19 Arch [0470788] B  ALPHA  93-PLEASE CALL ME. I'M CONCERNED. 201-306-8132. -BOB.
+2001-09-11 17:34:19 Arch [1357052] D  ALPHA   DBU AUTOPAGING  HAS BEEN FIXED...  KEITH
+2001-09-11 17:34:19 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-11 17:34:19 Skytel {1601764} 1 1200 860-627-3255..
+2001-09-11 17:34:19 Skytel {1903535} 3 1200 519-881-3463..
+2001-09-11 17:34:19 Skytel {1705045} 1 1200 99   
+2001-09-11 17:34:20 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-11 17:34:20 Metrocall [0659734] B  ALPHA   love die so you can go forth with your own life etc Cause its all up to YOUR now YOUR move I made mine today
+2001-09-11 17:34:20 Metrocall [002669318] B  ALPHA  ING WEST AT 15 MPH..
+2001-09-11 17:34:20 Metrocall [002575520] A  ALPHA  W 172.29.9.146 up @1634 W. Des Moines wcom Frame 256K/128K w0f31466 dlci202
+2001-09-11 17:34:20 Metrocall [002619179] C  ALPHA  W 172.29.9.146 up @1634 W. Des Moines wcom Frame 256K/128K w0f31466 dlci202
+2001-09-11 17:34:21 Metrocall [1031704] C  ALPHA  18: KARY CORVICK (865)984-9457 RHETT BUTLER DRIVE LOT 52
+2001-09-11 17:34:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0506
+2001-09-11 17:34:22 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-11 17:34:23 Metrocall [1544818] A  ALPHA  IWHub ServerWatch Notification - Server CRDC-NMMVR-P2/CA/GSVR/KAIPERM is NOT Responding WARNING:Server CRDC-NMMVR-P2/CA/GSVR/KAIPERM is not responding. Reason:Unable to find path to server
+2001-09-11 17:34:23 Metrocall [1898727] B  ALPHA  NEW SEV:2 FONT ORTHOPEDICS DEPT ALL TERMINALS DOWN *LOC:Fontana,9985 Sierra Ave,Fontana Mob *START:14:11 PT *STATUS BRIDGE:NONE *PM:1247724
+2001-09-11 17:34:23 Metrocall [002583816] C  ALPHA  NEW SEV:2 FONT ORTHOPEDICS DEPT ALL TERMINALS DOWN *LOC:Fontana,9985
+2001-09-11 17:34:24 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-11 17:34:24 Arch [0000101] B  ALPHA  MSN 087 hello Message from NOC PCB.
+2001-09-11 17:34:25 Metrocall [1282850] A  ALPHA  NEW SEV:2 FONT ORTHOPEDICS DEPT ALL TERMINALS DOWN *LOC:Fontana,9985 Sierra Ave,Fontana Mob *START:14:11 PT *STATUS BRIDGE:NONE *PM:1247724
+2001-09-11 17:34:25 Metrocall [002583816] C  ALPHA   Sierra Ave,Fontana Mob *START:14:11 PT *STATUS BRIDGE:NONE *PM:1247724
+2001-09-11 17:34:25 Metrocall [1235838] D  ALPHA  NEW S
+2001-09-11 17:34:30 Arch [1440788] B  ALPHA  28
+2001-09-11 17:34:31 Skytel [0001809] A  ALPHA  ls an emergency dispatcher: "We are being hijacked!".>LA: Bush deplores acts of "faceless coward;" commands U.S. military to high-alert status worldwide..>CHICAGO: Air traffic halted across U.S. for first time in nation's history....*******************
+2001-09-11 17:34:31 Skytel [004694023] B  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Third World Trade Center tower, 47-story building 7, collapses. Details soon.  For complete coverage of this story visit: http://www.CNN.com or AOL Keyword: CNN   CN
+2001-09-11 17:34:31 Skytel [005493129] C SH/TONE 987-2080
+2001-09-11 17:34:31 Skytel [002859782] B SH/TONE 6063    
+2001-09-11 17:34:31 Skytel [004686856] C  ALPHA  cmcfarland@usss.treas.gov|please call 240/624-3071 - one more time!|  
+2001-09-11 17:34:31 Skytel [0002067] A  ALPHA  not to report
+2001-09-11 17:34:31 Skytel [005382662] B ST NUM  510-574-7076   
+2001-09-11 17:34:31 Skytel [003453069] D SH/TONE 1066    
+2001-09-11 17:34:33 Skytel [0001809] A  ALPHA  .(c)2001 DATACAST(R).www.datacastnews.com.
+2001-09-11 17:34:33 Skytel [002162450] A SH/TONE 6245    
+2001-09-11 17:34:33 Skytel [003407504] A SH/TONE 858-1900
+2001-09-11 17:34:33 Skytel [002392598] B  ALPHA  05:34:12 PM
+2001-09-11 17:34:33 Skytel [005491971] A ST NUM  440-662-1820 (11    
+2001-09-11 17:34:33 Skytel [004528917] B SH/TONE 321-3379
+2001-09-11 17:34:33 Skytel [002556692] B ST NUM  070-8769 (64   
+2001-09-11 17:34:33 Skytel [005126805] B SH/TONE 982-7777
+2001-09-11 17:34:33 Skytel [003508119] B ST NUM  281-684-9065   
+2001-09-11 17:34:33 Skytel [005128580] B ST NUM  8004050315
+2001-09-11 17:34:33 Skytel [005551639] B  ALPHA  shdadmin@us.ibm.com|T5532728 ST0647 Ln15 POS-Scanner Other| 
+2001-09-11 17:34:33 Skytel [002817823] D ST NUM  618-457-1756   
+2001-09-11 17:34:33 Skytel [004569240] C ST NUM  100-579-2464   
+2001-09-11 17:34:33 Skytel [005425822] D  ALPHA  714-284-2913 (78
+2001-09-11 17:34:34 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-11 17:34:34 Arch [0938169] C  ALPHA  Summary: World Trade Center - Pentagon Attack A third building (Building 7) in the World Trade Center Complex collapses. President returning to Washington. Will address the Nation later tonight. Sign up for e-mail notification from the Netw
+2001-09-11 17:34:35 Skytel [007022371] A ST NUM  312-264-2745-911    
+2001-09-11 17:34:35 Skytel [004197408] A SH/TONE 664     
+2001-09-11 17:34:35 Skytel [004759087] D SH/TONE 4216    
+2001-09-11 17:34:35 Skytel [003249958] B  ALPHA  Vmail
+2001-09-11 17:34:35 Skytel [003483815] B ST NUM  104-110-0911   
+2001-09-11 17:34:35 Skytel [007488544] A SH/TONE 75835   
+2001-09-11 17:34:35 Skytel [007492263] B SH/TONE 844-0441
+2001-09-11 17:34:35 Skytel [005258532] B ST NUM  920-922-8009   
+2001-09-11 17:34:35 Skytel [005437867] C SH/TONE 911281  
+2001-09-11 17:34:35 Skytel [007006252] D SH/TONE 134     
+2001-09-11 17:34:35 Skytel [002375842] A SH/TONE 70263   
+2001-09-11 17:34:35 Skytel [003919022] D ST NUM  022-2741-1
+2001-09-11 17:34:35 Skytel [002219310] D SH/TONE 600 (6  
+2001-09-11 17:34:35 Skytel [003416364] D ST NUM  52346 (94 
+2001-09-11 17:34:35 Skytel [005064748] D ST NUM  800-551-0864   
+2001-09-11 17:34:35 Skytel [003903521] A ST NUM  1) 1-800-952-9130 U 
+2001-09-11 17:34:36 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-11 17:34:37 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-11 17:34:37 Arch [1422608] A  ALPHA  as requested. . .KUROWSKIE -04238401 -SEV:3 -9/12/01 -10:00 -OLIVER*BRENDA KAY -9166366636 -3078 PROSPECT PARK DR -CUBE: 1138 /Stuart - 913-791-4558 
+2001-09-11 17:34:37 Arch [1318953] C  ALPHA  (21)21:ABS: Tkt:4796005, Sev:2, Opened, Sname:STEK, CIS Id:453260125, Contact:DWIGHT FORREST @ 7708047384 Note:***ATLANTA-SHARED.STORAGETEK.COM*** UNABLE TO TELNET/PING..ABLE TO DIA L IN..S0 IS DOWN/DOWN...SITE DOES NOT HAVE DBU...ROUTING TO MTOC
+2001-09-11 17:34:37 Skytel [002366527] D  ALPHA  21) {sts}/home/sts/bin/check_hosts.ksh Can't connect to STS_PRD_OS1. Please check.
+2001-09-11 17:34:37 Skytel [003519923] A SH/TONE 419549  
+2001-09-11 17:34:37 Skytel [007009718] B  ALPHA  An alert has been generated for profile "Telford frame rtr".
+2001-09-11 17:34:37 Skytel [005110712] C SH/TONE 24      
+2001-09-11 17:34:37 Skytel [005054258] A SH/TONE 226     
+2001-09-11 17:34:37 Skytel [002386110] D SH/TONE 7474    
+2001-09-11 17:34:37 Skytel [005342897] A ST NUM  818-258-7265 (97    
+2001-09-11 17:34:37 Skytel [004588468] B ST NUM  301-681-2289   
+2001-09-11 17:34:37 Skytel [002843835] C SH/TONE 99      
+2001-09-11 17:34:37 Skytel [002356927] D SH/TONE 2100    
+2001-09-11 17:34:37 Skytel [005056956] D  ALPHA  NTSSTBEND1:Device Inaccessible
+2001-09-11 17:34:37 Skytel [005346740] B  ALPHA  IS THE COUNTRYWIDE OAKLAND OFFICE ON CLAY STEET IS OPEN TODAY? I HAVE LOAN PAPERS TO DROP OFF TODAY. CAL
+2001-09-11 17:34:37 Skytel [002402363] C  ALPHA  mcfl1u0m SP: mcfl1u0m:Tue Sep 11 17:30:06 EDT 2001: alert  The MQTransportDir is not Running ..on mcfl1u0m
+2001-09-11 17:34:37 Skytel [007543099] C ST NUM  942-7342-92    
+2001-09-11 17:34:37 Skytel [005180473] C ST NUM  707-532-2880   
+2001-09-11 17:34:37 Skytel [002820280] C  ALPHA  15) {sts}/home/sts/bin/check_hosts.ksh Can't connect to STS_PRD_SQL1. Please check.
+2001-09-11 17:34:37 Skytel [002745532] D SH/TONE 2645    
+2001-09-11 17:34:37 Skytel [007035833] C  ALPHA  molinet@starpower.net|Te amo|Baby, call me.
+2001-09-11 17:34:38 Metrocall [002471972] B  ALPHA  NEW SEV:2 FONT ORTHOPEDICS DEPT ALL TERMINALS DOWN *LOC:Fontana,9985 Sierra Ave,Fontana Mob *START:14:11 PT *STATUS BRIDGE:NONE *PM:1247724
+2001-09-11 17:34:38 Metrocall [1544391] B  ALPHA  NEW SEV:2 FONT ORTHOPEDICS
+2001-09-11 17:34:38 Metrocall [002119170] A  ALPHA  CALL TO UPDATE
+2001-09-11 17:34:38 Metrocall [1761503] D  ALPHA  Frm: Perez-Mercado, Sonia Sub: Satwant ca
+2001-09-11 17:34:39 Arch [1318953] C  ALPHA  (22)21:FOR
+2001-09-11 17:34:39 Skytel [005043532] D  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Third World Trade Center tower, 47-story building 7, collapses. Details soon.  For complete coverage of this story visit: http://www.CNN.com or AOL Keyword: CNN   CN
+2001-09-11 17:34:39 Skytel [005346740] B  ALPHA  L ELIZABETH GREIGO AT 510 748 9001. I HAVE BEEN WORKING WITH SELENE GENTRY
+2001-09-11 17:34:39 Skytel [005204168] C SH/TONE 33780   
+2001-09-11 17:34:39 Skytel [004587207] B SH/TONE 1289    
+2001-09-11 17:34:39 Skytel [005507407] D SH/TONE 5433    
+2001-09-11 17:34:39 Skytel [005209281] A  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Third World Trade Center tower, 47-story building 
+2001-09-11 17:34:39 Skytel [008507076] B  ALPHA  01666h4b1ab01400002g
+2001-09-11 17:34:39 Skytel [003897665] A SH/TONE 7777    
+2001-09-11 17:34:39 Skytel [003251908] B  ALPHA  PLEASE CALL SUZE AT 902 425 6700 ROOM 233 WHEN CONVENIENT
+2001-09-11 17:34:39 Skytel [004406989] D  ALPHA  (1 of 2) i talked to most of you but to reenforce the communication of our current situation. contact each of your employees to let
+2001-09-11 17:34:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-11 17:34:39 Skytel [003783372] D  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Third World Trade Center tower, 47-story building 7, collapses. Details soon.  For complete coverage of this story visit: http://www.CNN.com or AOL Keyword: CNN 
+2001-09-11 17:34:40 Metrocall [1544391] B  ALPHA   DEPT ALL TERMINALS DOWN *LOC:Fontana,9985 Sierra Ave,Fontana Mob *START:14:11 PT *STATUS BRIDGE:NONE *PM:1247724
+2001-09-11 17:34:40 Metrocall [1761503] D  ALPHA  lled meeing in CR 11D now
+2001-09-11 17:34:41 Arch [1407923] A  ALPHA  From Virginia Higginbotham: Hope you all are okay.  Call if you need us.  Thanks, Virginia  
+2001-09-11 17:34:41 Arch [0759752] C  ALPHA  980-3461
+2001-09-11 17:34:41 Arch [1008954] C  ALPHA  Robert Soto Roman I haven't receive your lotus note yet.
+2001-09-11 17:34:41 Arch [1241365] B  ALPHA  Sybase Admin NU |alaris-prod:dba:2001/09/11 17:35|ALARIS_PROD dbdump alaris failed rcp -p /opt/sybase/sybdump/ALARIS_PROD/db_dumps/alaris.Tue e4ksyb2:/home/syb_backup/ALARIS_PROD/db_dumps/ 
+2001-09-11 17:34:41 Skytel [007645907] A SH/TONE 746-5836
+2001-09-11 17:34:41 Skytel [003659200] A ST NUM  829-9505 U (56 
+2001-09-11 17:34:41 Skytel [005260233] C  ALPHA  SCADA_FS call : There are 6 unack'ed alarms
+2001-09-11 17:34:41 Skytel [002160067] A SH/TONE 238-6481
+2001-09-11 17:34:41 Skytel [005209281] A  ALPHA  7, collapses. Details soon.  For complete coverage of this story visit: http://www.CNN.com or AOL Keyword: CNN   CN
+2001-09-11 17:34:41 Skytel [004536404] B SH/TONE 657-2042
+2001-09-11 17:34:41 Skytel [002382170] C SH/TONE 01      
+2001-09-11 17:34:41 Skytel [007512279] B ST NUM  8775847798
+2001-09-11 17:34:41 Skytel [004591189] B SH/TONE 840995  
+2001-09-11 17:34:41 Skytel [005346260] B ST NUM  408-853-6555   
+2001-09-11 17:34:41 Skytel [004575830] B ST NUM  415-310-7229 (84    
+2001-09-11 17:34:41 Skytel [004717636] B SH/TONE 529-0639
+2001-09-11 17:34:41 Skytel [004548038] B ST NUM  518-469-9851 U 
+2001-09-11 17:34:41 Skytel [003937093] B SH/TONE 33699   
+2001-09-11 17:34:41 Skytel [004406989] D  ALPHA   them know that fedex will NOT operate tonight. contact each of your employees to let them know not to report
+2001-09-11 17:34:41 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job112830 SNYC11306 09/11 17:25 QUEUES
+2001-09-11 17:34:41 Skytel [002777049] C ST NUM  305-216-8103 (11    
+2001-09-11 17:34:41 Skytel [005107906] A ST NUM  847-286-0658 U 
+2001-09-11 17:34:41 Skytel [003783372] D  ALPHA    CN
+2001-09-11 17:34:41 Skytel [004128221] D  ALPHA  [CHELMSFORD DOWN] [akn3-11-sw1, akn3-wl21-sw1, akn3-wl31-sw1, akn3-wlldf-sw1] (52
+2001-09-11 17:34:41 Skytel [003471967] D SH/TONE 46226   
+2001-09-11 17:34:41 Skytel [002280287] D ST NUM  302-837-8827   
+2001-09-11 17:34:41 Skytel [007546317] D ST NUM  678-662-1003   
+2001-09-11 17:34:43 Arch [1641225] C  ALPHA  512-3721
+2001-09-11 17:34:43 Skytel [007030764] D  ALPHA  Devin.Lucas@compaq.com|FW: cosmos2 is DOWN| >  > ---------- > From:  Reed, Chris (MRO) > Sent:  Tuesday, September 11, 2001 5:10:00 PM > To:  Reed, Chris (MRO); Bento, Anthony; Kelly, Gary (MRO); Alongi, > Doreen; Minkov, Ross; Malloy, Loui
+2001-09-11 17:34:43 Skytel [004541801] C ST NUM  2) 1-800-877-9220-17900  
+2001-09-11 17:34:43 Skytel [003911660] D ST NUM  1) 378-0555    
+2001-09-11 17:34:43 Skytel [002823011] A SH/TONE 7474    
+2001-09-11 17:34:43 Skytel [004717797] B SH/TONE 42569   
+2001-09-11 17:34:43 Skytel [004751335] B ST NUM  8887759257
+2001-09-11 17:34:43 Skytel [005047022] D  ALPHA  FYI: CHRIS BOWERS HAS NOT YET VISITED THE CRISIS CENTER.  STEVE ROSS
+2001-09-11 17:34:43 Skytel [007045984] A  ALPHA  TEST PAGE
+2001-09-11 17:34:43 Skytel [004524770] A  ALPHA  nyc-MarjamSupply-BrooklynNY-01: CPE Down at 17:26:53 on 9/11
+2001-09-11 17:34:43 Skytel [005241448] C ST NUM  253-896-8773   
+2001-09-11 17:34:43 Skytel [005226605] D ST NUM  8683242106
+2001-09-11 17:34:43 Skytel [005436525] D  ALPHA  Test #14-IX_T0516
+2001-09-11 17:34:43 Skytel [007640814] D SH/TONE 205     
+2001-09-11 17:34:43 Skytel [005061100] D SH/TONE 548-3949
+2001-09-11 17:34:43 Skytel [007001444] B SH/TONE 16450   
+2001-09-11 17:34:43 Skytel [007608675] A SH/TONE 70554   
+2001-09-11 17:34:43 Skytel [005445599] D ST NUM  831-622-7337   
+2001-09-11 17:34:44 Skytel [003510625] A ST NUM  808-889-2040   
+2001-09-11 17:34:44 Skytel [007493858] A SH/TONE 42508   
+2001-09-11 17:34:44 Skytel [005106165] B ST NUM  223-743-8222-9 
+2001-09-11 17:34:44 Skytel [003939057] A ST NUM  205-621-5676   
+2001-09-11 17:34:44 Skytel [007602289] A ST NUM  464-779-6814-3 
+2001-09-11 17:34:44 Skytel [003915121] A  ALPHA  alexander.lee@us.ibm.com|You've got mail!| 
+2001-09-11 17:34:44 Skytel [007543027] A SH/TONE 724-8755
+2001-09-11 17:34:44 Skytel [007601398] B ST NUM  440-341-1027   
+2001-09-11 17:34:44 Skytel [003203573] B ST NUM  830-254-3087   
+2001-09-11 17:34:44 Skytel [003409397] B ST NUM  6309246520911  
+2001-09-11 17:34:44 Skytel [003327216] A  ALPHA  002470 CYCLIC TEST 
+2001-09-11 17:34:44 Skytel [003921523] A SH/TONE 88065   
+2001-09-11 17:34:44 Skytel [004547700] B ST NUM  825-692-7283   
+2001-09-11 17:34:44 Skytel [003938288] A ST NUM  702-797-4606 (20    
+2001-09-11 17:34:44 Skytel [004204793] C ST NUM  220-9124 (76   
+2001-09-11 17:34:44 Skytel [002393200] A ST NUM  18007598255 (98
+2001-09-11 17:34:45 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: check_db(PDS1_EQGSMNY) WARNING: too many locks (15548) in PDS1_EQGSMNY. Check output in /tmp/locks.16246PDS1_EQGSMNY @17:21 09/11/01 
+2001-09-11 17:34:45 Arch [0904739] A  ALPHA  Summary: World Trade Center - Pentagon Attack A third building (Building 7) in the World Trade Center Complex collapses. President returning to Washington. Will address the Nation later tonight. Sign up for e-mail notification from the Netwo
+2001-09-11 17:34:45 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-11 17:34:45 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 186560. 
+2001-09-11 17:34:45 Skytel [005133309] D SH/TONE 5380 (20
+2001-09-11 17:34:45 Skytel [004690295] B  ALPHA  PLEASE CALL JAY AT HOME. I CAN'T GET THROUGH TO YOU.
+2001-09-11 17:34:45 Skytel [003587199] D ST NUM  201-384-7972 (25    
+2001-09-11 17:34:45 Skytel [007606910] D ST NUM  323-865-3215   
+2001-09-11 17:34:45 Skytel [002357369] C  ALPHA  002470 CYCLIC TEST 
+2001-09-11 17:34:45 Skytel [002139900] D SH/TONE 002470  
+2001-09-11 17:34:45 Skytel [002396156] D SH/TONE 4359    
+2001-09-11 17:34:46 Metrocall [1062336] A  ALPHA  Frm: BreakingNews@CNN.COM Sub: CNN Breaking News Txt: BREAKING NEWS from CNN.com -- Third World Trade Center tower, 47-story building 7, collapses. Details soon. For complete coverage of this story visit: http://www.CNN.com 
+2001-09-11 17:34:46 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2762
+2001-09-11 17:34:46 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router Aevia-I-GW at 14:32:33 Txt: Router Aevia
+2001-09-11 17:34:46 Skytel [004527104] A SH/TONE 618-8886
+2001-09-11 17:34:46 Skytel [005418370] A  ALPHA  3196 (93
+2001-09-11 17:34:46 Skytel [005360907] C SH/TONE 577-5000
+2001-09-11 17:34:46 Skytel [002361863] B  ALPHA  PAGEING,1,Application TODI ERROR 1 0 4096 12:31  09/11/01
+2001-09-11 17:34:46 Skytel [005203978] C SH/TONE 8793    
+2001-09-11 17:34:46 Skytel [005361162] C SH/TONE 4423    
+2001-09-11 17:34:46 Skytel [004568320] A ST NUM  681-839-1511 (4
+2001-09-11 17:34:46 Skytel [002753935] D ST NUM  -          42420 517
+2001-09-11 17:34:46 Skytel [007465602] A ST NUM  201-218-4119   
+2001-09-11 17:34:46 Skytel [005480973] D ST NUM  8775100043
+2001-09-11 17:34:47 Arch [0988570] C  ALPHA  Kristen Killebrew|Case in WW-CABLE |P3 B828351 Configuring the uBR7200 router for the First Time (Cable::CMTS/Headend/uBR72xx #DB9E8346) from Tue Sep 11 14:34:39 2001|166  
+2001-09-11 17:34:47 Arch [0915828] B  ALPHA  sunilvm|aren't we going ? sunil/75897   
+2001-09-11 17:34:48 Arch [0951053] D  ALPHA  |gonzo build(s) done  
+2001-09-11 17:34:48 Arch [1050124] D  ALPHA  "Qurram Nasri"|call me |salam. can u call me? thanks.Qurram |60  
+2001-09-11 17:34:48 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-11 17:34:48 Arch [0901212] D  ALPHA  anmann|Pls call me re: XO. Thx Anne   
+2001-09-11 17:34:48 Arch [0965826] A  ALPHA  atennant|Steve, Please call me on my cellphone if you have 5min. Thanks! Andrew 303-549-0894   
+2001-09-11 17:34:48 Arch [0928684] D  ALPHA  "Jacob, Charley"|[Fwd: Microsoft Security Bulletin MS01-048] | |63  
+2001-09-11 17:34:48 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2762
+2001-09-11 17:34:48 Metrocall [1559133] D  ALPHA  ETA TO SHOP?
+2001-09-11 17:34:48 Metrocall [1062336] A  ALPHA  or AOL Keyword:
+2001-09-11 17:34:48 Metrocall [1080319] D  ALPHA  -I-GW DOWN at 14:32:33 Address: 166.90.48.82 Date: 09/11/2001 Status: Timed Out ( 11010)
+2001-09-11 17:34:48 Skytel [005110684] D SH/TONE 7101    
+2001-09-11 17:34:48 Skytel [007457946] C SH/TONE 305-5650
+2001-09-11 17:34:48 Skytel [002570262] B ST NUM  582-4157 (43   
+2001-09-11 17:34:48 Skytel [007027611] C SH/TONE 637-2830
+2001-09-11 17:34:48 Skytel [004539162] C ST NUM  930-2908-1
+2001-09-11 17:34:48 Skytel [005113621] B SH/TONE 986-6800
+2001-09-11 17:34:50 Skytel [005100458] C  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Third World Trade Center tower, 47-story building 7, collapses. Details soon.  For complete coverage of this story visit: http://www.CNN.com or AOL Keyword: CNN   CN
+2001-09-11 17:34:50 Skytel [002860203] C  ALPHA  VOICEMAIL
+2001-09-11 17:34:50 Skytel [005185704] C SH/TONE 28529   
+2001-09-11 17:34:50 Skytel [002775082] C ST NUM  223-377-1899   
+2001-09-11 17:34:50 Skytel [005326763] C ST NUM  804-614-1816   
+2001-09-11 17:34:50 Skytel [007555756] D  ALPHA  213-798-6313
+2001-09-11 17:34:52 Skytel [005188401] A SH/TONE 445-3095
+2001-09-11 17:34:52 Skytel [004424625] A ST NUM  201-9254-7
+2001-09-11 17:34:52 Skytel [005201721] C SH/TONE 215-4802
+2001-09-11 17:34:52 Skytel [005342524] D  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Third World Trade Center tower, 47-story building 7, collapses. Details soon.  For complete coverage of this story visit: http://www.CNN.com or AOL Keyword: CNN 
+2001-09-11 17:34:52 Skytel [004693172] B SH/TONE 500     
+2001-09-11 17:34:52 Skytel [007041971] A ST NUM  831-487-9809   
+2001-09-11 17:34:52 Skytel [002847165] D SH/TONE 99      
+2001-09-11 17:34:52 Skytel [003923384] C SH/TONE 99      
+2001-09-11 17:34:52 Skytel [005045423] D SH/TONE 6295    
+2001-09-11 17:34:53 Metrocall [002115847] B  ALPHA  Frm: ELIZABETH_MOORE@QVC.COM Sub: closing manifest Txt: HANDSCAN 4,566 TOTAL MANIFEST 16,569 THANKS
+2001-09-11 17:34:53 Metrocall [1028087] B  ALPHA  (009090255)380090
+2001-09-11 17:34:54 Arch [0949789] D  ALPHA  Hello Gardena Team-Happy Hour! We have 14 tickets in the pool-If you can help out plz call me (4575) or Fred on 4065. Thanks, Wanda
+2001-09-11 17:34:54 Arch [0972058] C  ALPHA  Summary: World Trade Center - Pentagon Attack A third building (Building 7) in the World Trade Center Complex collapses. President returning to Washington. Will address the Nation later tonight. Sign up for e-mail notification from the Netw
+2001-09-11 17:34:54 Arch [0918283] C  ALPHA  Hello Gardena Team-Happy Hour! We have 14 tickets in the pool-If you can help out plz call me (4575) or Fred on 4065. Thanks, Wanda
+2001-09-11 17:34:54 Skytel [005344198] B  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Third World Trade Center tower, 47-story building 7, collapses. Details soon.  For complete coverage of this story visit: http://www.CNN.com or AOL Keyword: CNN   CN
+2001-09-11 17:34:54 Skytel [005342524] D  ALPHA    CN
+2001-09-11 17:34:54 Skytel [002389954] A ST NUM  303-601-8937 U 
+2001-09-11 17:34:54 Skytel [007638731] C SH/TONE 569-7520
+2001-09-11 17:34:54 Skytel [005361102] D  ALPHA  5760106 DEL FIRSEL SUNY STONY BROOK 6314447531 M GIORDANO 19S136D  212
+2001-09-11 17:34:54 Skytel [004547905] A  ALPHA  A
+2001-09-11 17:34:55 Metrocall [1028087] B  ALPHA  90255,   DENNY'S #D0098 RC2/LUIS (CHRIS) 541-343-7258 09121200 r progress 0;12 NEW ETA 09-12--01 17:00 PART DID NOT ARRIVE RC209111733 PLS CALL BACK THE STORE WITH AN ETA, PARTS ARE ON SITE AS PER CHRIS FROM ADV (00:11)
+2001-09-11 17:34:55 Metrocall [0443193] C  ALPHA  Please come by MCS to pick up Duty Mgr's backpack.  Thank you.
+2001-09-11 17:34:55 Metrocall [1398211] A  ALPHA  ADONDE FUISTES
+2001-09-11 17:34:55 Metrocall [1188566] B  ALPHA  Frm: THE EMERGENCY EMAIL NETWORK Sub: UPDATE: NYC Disaster Txt
+2001-09-11 17:34:56 Arch [0999770] C  ALPHA  (6)67-706-7694.
+2001-09-11 17:34:56 Arch [1081634] A  ALPHA  776-9155
+2001-09-11 17:34:56 Arch [1276524] D  ALPHA  (27)I just wanted to make sure you are alright and safe.  I'll talk to you later.  R.Love 
+2001-09-11 17:34:56 Skytel [002162770] A SH/TONE 2358    
+2001-09-11 17:34:56 Skytel [004750787] A ST NUM  98895678495    
+2001-09-11 17:34:56 Skytel [003946326] B  ALPHA  oncall:SEV 3: Rec#1547400(Open) SJE-PharmJean70744581216209 ADTNotCrossing
+2001-09-11 17:34:56 Skytel [003250642] A SH/TONE 8       
+2001-09-11 17:34:57 Metrocall [1188566] B  ALPHA  : Summary: World Trade Center - Pentagon Attack A third building (Building 7) in the World Trade Center Complex collapses. President retur
+2001-09-11 17:34:57 Metrocall [0776055] B  ALPHA  Frm: BreakingNews@CNN.COM Sub: CNN Breaking News Txt: BREAKING NEWS from CNN.com -- Third Wo
+2001-09-11 17:34:58 Arch [0942413] D  ALPHA  98-PLEASE CALL JULIUS AT 718-723-6545.
+2001-09-11 17:34:58 Arch [0918993] A  ALPHA  Jenkens closed at 2:00. I have to call at 6 am to see if work tomorrow. Going to get my nails done at 5. President Bush to address nation at 8:00 eastern time. Another world trade bldg collapsed from morning crashes. Love ya...
+2001-09-11 17:34:58 Arch [0905928] C  ALPHA  PLS CALL 1961/KE
+2001-09-11 17:34:58 Arch [1423779] A  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 047002E9 from cluster 1095 to cluster 2017), status C3AE181B, extended status C3AE380C. MCA_VSTRMERROR - An error was returned from the VS
+2001-09-11 17:34:58 Arch [1025942] B  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 047002E9 from cluster 1095 to cluster 2017), status C3AE181B, extended status C3AE380C. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-11 17:34:58 Skytel [005328611] A SH/TONE 120     
+2001-09-11 17:34:58 Skytel [003440484] B SH/TONE 1288    
+2001-09-11 17:34:59 Metrocall [0645989] B  ALPHA  Frm: Fc-Svl, CSO-LMSSC-Metrics (UNKNOWN) Sub: HOT Problem Ticket 01319185 not assigned Txt: ...
+2001-09-11 17:34:59 Metrocall [0776055] B  ALPHA  rld Trade Center tower, 47-story building 7, collapses. Details soon. For complete coverage of this story vi
+2001-09-11 17:34:59 Metrocall [0645989] B  ALPHA  Frm: Fc-Svl, CSO-LMSSC-Metric
+2001-09-11 17:34:59 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4154
+2001-09-11 17:34:59 Metrocall [1903234] A  ALPHA  Frm: Generic ACTT Auto-ticket Login Sub: MONP Txt: D;L;I;0911-337400;32 OLD SLIP @ (USE NYCNNYDB),QUEENS,NY;135.44.11.98 Lost Connectivity;09/1
+2001-09-11 17:34:59 Skytel [004555376] A SH/TONE 222     
+2001-09-11 17:34:59 Skytel [007100919] B  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Third World Trade Center tower, 47-story building 7, collapses. Details soon.  For complete coverage of this story visit: http://www.CNN.com or AOL Keyword: CNN   CN
+2001-09-11 17:34:59 Skytel [003462142] D SH/TONE 425-7399
+2001-09-11 17:34:59 Skytel [007574270] D ST NUM  0-438-231-8133-916  

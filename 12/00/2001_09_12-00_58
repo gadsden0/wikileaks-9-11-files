@@ -1,0 +1,99 @@
+2001-09-12 00:58:01 Arch [0987275] C  ALPHA  s0191: 09/11 15:56:49 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:56:49
+2001-09-12 00:58:01 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191614. 
+2001-09-12 00:58:01 Skytel [007603981] D SH/TONE 333-3333
+2001-09-12 00:58:02 Metrocall [1146325] B  ALPHA  Loc:BURGESS AV & LANDOVER ST, ,SubZone:5324 Nature: BA2 /? Desc: Box Alarm 2 TOWNHOUSE/SMELLS ELECTRICAL W/FIRE ALARM SOUNDING Units: E908 R206 T204 T411 M202 B211 A212 U202
+2001-09-12 00:58:03 Arch [0987275] C  ALPHA  s0191: 09/11 16:02:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 16:02:48
+2001-09-12 00:58:03 Skytel [007586964] B SH/TONE 247-8398
+2001-09-12 00:58:04 Skytel {0177413} 3 1200 300  
+2001-09-12 00:58:10 Metrocall [0813001] C  ALPHA  AX01-11906 Loc:BURGESS AV & LANDOVER ST, ,SubZone:5324 Nature: BA2 /? Desc: Box Alarm 2 TOWNHOUSE/SMELLS ELECTRICAL W/FIRE ALARM SOUNDING Units: E908 R206 T204 T411 M202 B211 A212 U202
+2001-09-12 00:58:10 Metrocall [1415130] C  ALPHA  AX01-11906 Loc:BURGESS AV & LANDOVER ST, ,SubZone:5324 Nature: BA2 /? Desc: Box Alarm 2 TOWNHOUSE/SMELLS ELECTRICAL W/FIRE ALARM SOUNDING Units: E908 R206 T204 T411 M202 B211 A212 U202
+2001-09-12 00:58:12 Skytel {1681237} 1 1200 Houndl50.na.xom.com/S/ExxonMobil@exxonmobil.com|ServerWatch Notification - Server Nolnml03.na.xom.com/S/ExxonMobil is NOT Responding|WARNING: Server Nolnml03.na.xom.com/S/ExxonMobil is Not Responding. Reason: Server not responding  ..
+2001-09-12 00:58:15 Skytel {0593902} 4 1200 202-927-0425   
+2001-09-12 00:58:16 Arch [0969351] B  ALPHA  CALL ALBERT AT 6889,  From Field Supv
+2001-09-12 00:58:20 Arch [0987275] C  ALPHA  s0191: 09/11 11:42:59 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:42:59
+2001-09-12 00:58:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0950
+2001-09-12 00:58:27 Arch [0983275] C  ALPHA  From Ray Adkins Sub:IDS Sensors - All is well
+2001-09-12 00:58:27 Arch [0209124] B  ALPHA  From Ray Adkins Sub:IDS Sensors - All is well
+2001-09-12 00:58:27 Arch [0988031] D  ALPHA  From Ray Adkins Sub:IDS Sensors - All is well
+2001-09-12 00:58:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3206
+2001-09-12 00:58:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3206
+2001-09-12 00:58:31 Arch [0942635] C  ALPHA  tony.missana@eds|% Memory Used service on Louisville BDC 1 is WARNING received Physical memory problem - 118.8 MB (93%) of 127.4 MB used 
+2001-09-12 00:58:31 Arch [0949822] D  ALPHA  tony.missana@eds|% Memory Used service on Louisville BDC 1 is WARNING received Physical memory problem - 118.8 MB (93%) of 127.4 MB used 
+2001-09-12 00:58:32 Skytel [007657729] A ST NUM  08007243624    
+2001-09-12 00:58:32 Skytel [004125839] D  ALPHA  1 (86
+2001-09-12 00:58:32 Skytel [005413894] B ST NUM  45188 (80 
+2001-09-12 00:58:32 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 21:58:19 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 00:58:32 Skytel [004386825] C SH/TONE 229     
+2001-09-12 00:58:32 Skytel [005371148] D ST NUM  306-736-7254-88
+2001-09-12 00:58:33 Skytel [002819612] D  ALPHA  Houndl50.na.xom.com/S/ExxonMobil@exxonmobil.com|ServerWatch Notification - Serve
+2001-09-12 00:58:33 Skytel [004544279] B SH/TONE 835-3383
+2001-09-12 00:58:33 Skytel [002694547] A  ALPHA  7) PROBLEM: 16608950 WAS OPENED ACCT#: A775S AT PRIO: 1 ON 09/12/01 AT 00:55 DESC/1: -NODE DOWN EQFDE076 WITH IP ADDRESS: 10.125.1.76 DESC/2: 
+2001-09-12 00:58:33 Skytel [004686110] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 00:58:35 Skytel [005345829] B  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 00:58:35 Skytel [002844967] B SH/TONE 7373    
+2001-09-12 00:58:35 Skytel [005001895] B  ALPHA  [sps/92] 100 supplier.intel.com relay-rialto105 0 Error:relay-rialto105.mpi did not return a valid Metrios API response coderunning (sps/92) 2:53:02
+2001-09-12 00:58:35 Skytel [007640234] C SH/TONE 878-4999
+2001-09-12 00:58:35 Skytel [004751406] D SH/TONE 217     
+2001-09-12 00:58:35 Skytel [007494319] D ST NUM  511-578-6154-2500   
+2001-09-12 00:58:37 Skytel [004433840] A SH/TONE 920-0294
+2001-09-12 00:58:37 Skytel [004709432] C ST NUM  302-4626-98    
+2001-09-12 00:58:37 Skytel [007569723] C ST NUM  601131117711847070  
+2001-09-12 00:58:37 Skytel [003273267] A  ALPHA  ALL MGRS AND TEAMLEADERS... PLZ MEET IN THE INTL CONTROL RM @  0015 AND PLZ BE ON TIME... PER JOHN MCKEEVER.-ICR
+2001-09-12 00:58:38 Metrocall [1544820] B  ALPHA  WDC-MAIL04 "Server WDC-MAIL04/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail1.box. "
+2001-09-12 00:58:38 Metrocall [1060698] C  ALPHA  Frm: Mgmt System For Help Desk Sub: VIP Page Txt: Ticket # 205058
+2001-09-12 00:58:38 Metrocall [1495978] C  ALPHA  (From ICON01) IR:1284270 ASSIGNED:SYS/IM P:3 ON DALA 09/11 23:42
+2001-09-12 00:58:38 Metrocall [002460571] C  ALPHA  Frm: 8777257676@pagenetmessage.net Txt: BALTIMORE (13-4): RESCUE / 1432 DRUID HILL AVE / NW OF DOWNTOWN 
+2001-09-12 00:58:39 Skytel [004689866] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 00:58:39 Skytel [007062980] B SH/TONE 230-1397
+2001-09-12 00:58:39 Skytel [004686280] C SH/TONE 3555    
+2001-09-12 00:58:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 00:58:39 Skytel [005207748] B ST NUM  9005586621
+2001-09-12 00:58:40 Arch [0904316] D  ALPHA  (1/1) 10-50 PI, E/B I-70 RAMP TO I/L 695, RAMP IS CLOSED. toc4
+2001-09-12 00:58:40 Metrocall [0409584] A  ALPHA  Frm: Mgmt System For Help Desk Sub: VIP Page Txt: Ticket # 205058 .
+2001-09-12 00:58:40 Metrocall [1060698] C  ALPHA   .
+2001-09-12 00:58:40 Metrocall [002460571] C  ALPHA  / HAVE A MALE TRAPPED IN THE CHIMNEY OF A 3 STY BRK VAC ROWHOUSE / RESCUE ASSIGNMENT O/S. E*23
+2001-09-12 00:58:41 Skytel [007082960] A SH/TONE 637-0580
+2001-09-12 00:58:41 Skytel [003522371] A SH/TONE 214     
+2001-09-12 00:58:41 Skytel [007047515] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 00:58:42 Arch [0987275] C  ALPHA  s0191: 09/11 11:48:17 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:48:18
+2001-09-12 00:58:42 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191621. 
+2001-09-12 00:58:43 Skytel [004526050] A ST NUM  0-415-501-4314-343  
+2001-09-12 00:58:43 Skytel [007495777] A ST NUM  838-311-7740-1773143
+2001-09-12 00:58:43 Skytel [003926118] B SH/TONE 6270    
+2001-09-12 00:58:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #50-IX_T1705
+2001-09-12 00:58:43 Skytel [007545449] C ST NUM  362-350-6911   
+2001-09-12 00:58:43 Skytel [003275880] C ST NUM  909-605-1455 U 
+2001-09-12 00:58:43 Skytel [0022243] A  ALPHA  (from 21 )P600 CIO FIRE PANEL NORMAL 23:58
+2001-09-12 00:58:43 Skytel [003451501] D SH/TONE 409     
+2001-09-12 00:58:43 Skytel [007519971] A  ALPHA  MTEL1   NOC-Interface communicating. 2  of  2 connections active. 01/09/11 235350
+2001-09-12 00:58:44 Arch [0987275] C  ALPHA  s0191: 09/11 11:56:22 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:56:22
+2001-09-12 00:58:45 Skytel [003943026] A  ALPHA  Joe.Sadlon@kemperinsurance.com|Notes Status|The NewYork1 Notes Server is officia
+2001-09-12 00:58:45 Skytel [003327216] A  ALPHA  002618 CYCLIC TEST 
+2001-09-12 00:58:45 Skytel [005525114] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://
+2001-09-12 00:58:45 Skytel [005340538] C SH/TONE 421-7381
+2001-09-12 00:58:45 Skytel [005092221] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com Lon
+2001-09-12 00:58:45 Skytel [007118461] D SH/TONE 138615  
+2001-09-12 00:58:45 Skytel [002139900] D SH/TONE 002618  
+2001-09-12 00:58:45 Skytel [002357369] C  ALPHA  002618 CYCLIC TEST 
+2001-09-12 00:58:46 Arch [0987275] C  ALPHA  s0191: 09/11 11:59:03 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:59:03
+2001-09-12 00:58:46 Skytel [005525114] C  ALPHA  click2procure.com LongMsg
+2001-09-12 00:58:46 Skytel [005092221] D  ALPHA  gMsg
+2001-09-12 00:58:48 Arch [0987275] C  ALPHA  s0191: 09/11 12:04:03 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:04:03
+2001-09-12 00:58:48 Arch [1164259] A  ALPHA  From Ray Adkins Sub:IDS Sensors - All is well
+2001-09-12 00:58:48 Arch [0529963] C  ALPHA  whatsup@warren.k|Router Lowell2509 DOWN at 23:55:|Router Lowell2509 DOWN at 23:55:30 Address: 10.77.1.1 Info 1: Info 2: Date: 09/11/01 Status: Timed Out ( 11010) Svcs: Notes: 
+2001-09-12 00:58:48 Skytel [004405151] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 00:58:49 Metrocall [002700831] D  ALPHA  I THINK I MAY HAVE FOUND ONE (HCSD DISP)
+2001-09-12 00:58:49 Metrocall [1533491] A  ALPHA  s3,00501662,ack,WILRM2     ESC3,WILRM2 SERVICE_MONITOR Alexandria Network daemon
+2001-09-12 00:58:49 Skytel [007465749] B ST NUM  872-395-3575   
+2001-09-12 00:58:52 Skytel [005525174] B  ALPHA  Pending group quest count is 29.000000
+2001-09-12 00:58:52 Skytel [005362367] D SH/TONE 2745    
+2001-09-12 00:58:52 Skytel [002745532] D ST NUM  566-364-4482-2 
+2001-09-12 00:58:54 Skytel [004709826] A  ALPHA  333 [2955
+2001-09-12 00:58:54 Skytel [005120838] B ST NUM  2) 351-3124    
+2001-09-12 00:58:56 Skytel [005206623] D  ALPHA  ALL MGRS AND TEAMLEADERS... PLZ MEET IN THE INTL CONTROL RM @  0015 AND PLZ BE ON TIME... PER JOHN MCKEEVER.-ICR
+2001-09-12 00:58:56 Skytel [007574874] C ST NUM  08007243624    
+2001-09-12 00:58:56 Skytel [007576923] C ST NUM  557-143-3434-3473133
+2001-09-12 00:58:58 Skytel [005134570] C  ALPHA  ALL MGRS AND TEAMLEADERS... PLZ MEET IN THE INTL CONTROL RM @  0015 AND PLZ BE ON TIME... PER JOHN MCKEEVER.-ICR
+2001-09-12 00:58:58 Skytel [002561644] D SH/TONE 2225    
+2001-09-12 00:58:58 Skytel [005125871] D SH/TONE 00000   
+2001-09-12 00:58:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8028

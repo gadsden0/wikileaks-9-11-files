@@ -1,0 +1,71 @@
+2001-09-12 01:54:00 Skytel [002278394] C SH/TONE 7304    
+2001-09-12 01:54:02 Skytel [005523460] B  ALPHA  hello,missing u.
+2001-09-12 01:54:03 Arch [0987275] C  ALPHA  s0191: 09/11 11:59:03 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:59:03
+2001-09-12 01:54:03 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192258. 
+2001-09-12 01:54:03 Skytel [007588119] B SH/TONE 3219    
+2001-09-12 01:54:05 Arch [0987275] C  ALPHA  s0191: 09/11 12:04:03 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:04:03
+2001-09-12 01:54:06 Arch [0987275] C  ALPHA  s0191: 09/11 12:12:06 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:12:07
+2001-09-12 01:54:06 Skytel {0663827} 3 1200 74701
+2001-09-12 01:54:07 Skytel {0005398} 1 1200 (5 OF 6): site appears down, cannot wait until Wednesday Importance: High  To resolve a server issue, we will need to have SSIT looking at it.  John, can you please check out the uat servers and see if anything is amiss?  
+2001-09-12 01:54:08 Arch [0987275] C  ALPHA  s0191: 09/11 12:14:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:14:49
+2001-09-12 01:54:10 Metrocall [0134584] C  ALPHA  Bangaram Nee two way beeper chusuko.UUUMMMCCCHHH. See you tomorrow night..
+2001-09-12 01:54:10 Metrocall [1192086] B  ALPHA  <0002> DR WASHINGTON (704)548-5606
+2001-09-12 01:54:10 Metrocall [0153426] A  ALPHA  0112   W&I   XT 1518
+2001-09-12 01:54:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4653
+2001-09-12 01:54:20 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1006
+2001-09-12 01:54:21 Arch [0987275] C  ALPHA  s0191: 09/11 12:20:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:20:24
+2001-09-12 01:54:21 Arch [0000101] B  ALPHA  MSN 070 hello Message from NOC PCB.
+2001-09-12 01:54:21 Metrocall [002588047] D  ALPHA  mtcerent3.nsf.att.com not up on Wed Sep 12 01:41:00 2001 status 2
+2001-09-12 01:54:23 Arch [0987275] C  ALPHA  s0191: 09/11 12:28:34 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:28:34
+2001-09-12 01:54:25 Arch [0918761] C  ALPHA  Please call x2663 dboc001d has cancelled
+2001-09-12 01:54:25 Arch [0987275] C  ALPHA  s0191: 09/11 12:31:16 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:31:16
+2001-09-12 01:54:27 Arch [0987275] C  ALPHA  s0191: 09/11 12:36:48 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:36:48
+2001-09-12 01:54:30 Metrocall [1284332] D  ALPHA  Frm: IpPulse AutoNotify Sub: ipPulse Txt: Target ? 192.1.11.1 changed from FAIL to PASS--Primary Test
+2001-09-12 01:54:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3262
+2001-09-12 01:54:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3262
+2001-09-12 01:54:32 Skytel [007617548] D  ALPHA  MSN ||Hotmail Meghan Woods:fingerpainting  
+2001-09-12 01:54:32 Skytel [005361153] A  ALPHA  363210 652dr s2a652 604414 tat on 652dr not found
+2001-09-12 01:54:32 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 22:52:56 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 01:54:32 Skytel [005352717] D SH/TONE 3922    
+2001-09-12 01:54:32 Skytel [003587596] D SH/TONE 110 (43 
+2001-09-12 01:54:33 Skytel [007528218] C  ALPHA  scssam@tampabay.rr.com|alert|ctc.jg.com (ctc.jg.com) at 205.147.208.221:http is DOWN   
+2001-09-12 01:54:33 Skytel [003939608] C SH/TONE 949-6009
+2001-09-12 01:54:33 Skytel [005129624] C  ALPHA  MMSS01@wcom.com|_CLEARED CRITICAL CDRRT1|09/11/2001 23:52:33 166.36.7.252 DEVICE HAS STOPPED RESPONDING TO POLLS SYMPTOMS: Device has stopped responding to polls. PROBABLE CAUSES: 1) Device Hardware Failure. 2) Cable between this and upstre
+2001-09-12 01:54:34 Arch [0970792] C  ALPHA  ||thinking of you|17  
+2001-09-12 01:54:35 Skytel [003436448] A SH/TONE 3992    
+2001-09-12 01:54:35 Skytel [004717731] A SH/TONE 324-0635
+2001-09-12 01:54:35 Skytel [005001895] B  ALPHA  [sps/66] 100 sps-apps1.cps.intel.com relay-rialto105 0 Error:relay-rialto105.mpi did not return a valid Metrios API response coderunning (sps/66) 3:39:07
+2001-09-12 01:54:35 Skytel [005359140] B  ALPHA  ATTN FLL & GSO:  PLS CALL SUSAN IN HWT @ 369-3569
+2001-09-12 01:54:35 Skytel [003934628] B  ALPHA  ATTN FLL & GSO:  PLS CALL SUSAN IN HWT @ 369-3569
+2001-09-12 01:54:37 Skytel [003856954] C ST NUM  816-487-2441   
+2001-09-12 01:54:37 Skytel [0000060] D  ALPHA  ATTN FLL & GSO:  PLS CALL SUSAN IN HWT @ 369-3569
+2001-09-12 01:54:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:54:39 Skytel [004728014] D  ALPHA  MMSS01@wcom.com|_CLEARED CRITICAL CDRRT1|09/11/2001 23:52:33 166.36.7.252 DEVICE HAS STOPPED RESPONDING TO POLLS SYMPTOMS: Device has stopped responding to polls. PROBABLE CAUSES: 1) Device Hardware Failure. 2) Cable between this and upstre
+2001-09-12 01:54:39 Skytel [002026312] C  ALPHA  the central office problem. No ETA. Thank you! CSD forC/S. 
+2001-09-12 01:54:39 Skytel [005134031] D  ALPHA  MMSS01@wcom.com|_CLEARED CRITICAL CDRRT1|09/11/2001 23:52:33 166.36.7.252 DEVICE HAS STOPPED RESPONDING TO POLLS SYMPTOMS: Device has stopped responding to polls. PROBABLE CAUSES: 1) Device Hardware Failure. 2) Cable between this and upstre
+2001-09-12 01:54:40 Metrocall [0152228] B  ALPHA  Time to take your medication.
+2001-09-12 01:54:41 Skytel [005067871] D  ALPHA  MMSS01@wcom.com|_CLEARED CRITICAL 166.36.0.0|09/11/2001 23:52:49 ALL THE COLLECTS MODELS ARE LOST SYMPTOMS: The model is red and is not responding. PROBABLE CAUSES: This model is lost because all the models it "collects" are lost. RECOMMEND
+2001-09-12 01:54:41 Skytel [002742868] B ST NUM  854-384-0200   
+2001-09-12 01:54:41 Skytel [004587207] B SH/TONE 1289    
+2001-09-12 01:54:41 Skytel [007518930] A SH/TONE 3019986 
+2001-09-12 01:54:42 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192265. 
+2001-09-12 01:54:42 Arch [0987275] C  ALPHA  s0191: 09/11 12:44:46 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:44:47
+2001-09-12 01:54:42 Arch [0915729] A  ALPHA  574-6870
+2001-09-12 01:54:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #91-IX_T4105
+2001-09-12 01:54:43 Skytel [005329515] C  ALPHA  MMSS01@wcom.com|_CLEARED CRITICAL 166.36.0.0|09/11/2001 23:52:49 ALL THE COLLECTS MODELS ARE LOST SYMPTOMS: The model is red and is not responding. PROBABLE CAUSES: This model is lost because all the models it "collects" are lost. RECOMMEND
+2001-09-12 01:54:43 Skytel [005328482] A  ALPHA  MMSS01@wcom.com|_CLEARED CRITICAL 166.36.0.0|09/11/2001 23:52:49 ALL THE COLLECTS MODELS ARE LOST SYMPTOMS: The model is red and is not responding. PROBABLE CAUSES: This model is lost because all the models it "collects" are lost. RECOMMEND
+2001-09-12 01:54:44 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-12 01:54:45 Skytel [007094654] D SH/TONE 646-2691
+2001-09-12 01:54:45 Skytel [005332218] C  ALPHA  MMSS01@wcom.com|_CLEARED CRITICAL 166.36.0.0|09/11/2001 23:52:49 ALL THE COLLECTS MODELS ARE LOST SYMPTOMS: The model is red and is not responding. PROBABLE CAUSES: This model is lost because all the models it "collects" are lost. RECOMMEND
+2001-09-12 01:54:47 Skytel [005382795] C  ALPHA  "NetIQ AppManager"|NetIQ Event from LDIHOUEXCH3 : File Count/Size Threshold Exceeded|JobID = 11538 KSName = NT_FileSizeOrNum MC MachineName = LDIHOUEXCH3 Object Name = <NT_MachineFolder = LDIHOUEXCH3>  EventMsg = File Count/Size Threshold E
+2001-09-12 01:54:49 Metrocall [002110523] C  ALPHA  Take meds.
+2001-09-12 01:54:50 Skytel [005309219] A SH/TONE 69      
+2001-09-12 01:54:52 Skytel [005099697] A  ALPHA  Michael 202-646-2456 (38
+2001-09-12 01:54:53 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-12 01:54:55 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-12 01:54:56 Skytel [005331286] B SH/TONE 5839    
+2001-09-12 01:54:56 Skytel [002359129] C  ALPHA  Tony, call Sec 4665 regarding letter
+2001-09-12 01:54:56 Skytel [005390424] C  ALPHA  3284 TELECOMET INC       
+2001-09-12 01:54:58 Skytel [005330530] A ST NUM  8685222010
+2001-09-12 01:54:58 Skytel [005003367] B  ALPHA  root@bur-faxsvr.genuity.com|bur-faxsvr.genuity.com - /bbn is 91% full| 
+2001-09-12 01:54:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8084

@@ -1,0 +1,82 @@
+2001-09-11 06:03:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2070
+2001-09-11 06:03:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2070
+2001-09-11 06:03:03 Skytel [007009424] A  ALPHA  Y! ||Be mobile with Compaq Kansas City KS Sunny 57 - 82 F  WNI  
+2001-09-11 06:03:04 Arch [1372724] B  ALPHA  : 04:55:00AM  LEV N. CHW RISER NORTH CHILLED WATER HOUSE RISER HAS HIGH SUPPLY CHILLED WATER       TEMPERATURE A130
+2001-09-11 06:03:04 Arch [1122226] A  ALPHA  Alarm: 04:55:00AM  LEV N. CHW RISER NORTH CHILLED WATER HOUSE RISER HAS HIGH SUPPLY CHILLED WATER       TEMPERATURE A130
+2001-09-11 06:03:04 Arch [0915934] D  ALPHA   from 06:02|88  
+2001-09-11 06:03:04 Arch [0979752] C  ALPHA  Alarm: 04:55:00AM  LEV N. CHW RISER NORTH CHILLED WATER HOUSE RISER HAS HIGH SUPPLY CHILLED WATER       TEMPERATURE A130
+2001-09-11 06:03:04 Arch [1427708] D  ALPHA  u
+2001-09-11 06:03:06 Arch [0937283] A  ALPHA  72-LOU, CALL KEVIN IN NY. 845-988-7921.
+2001-09-11 06:03:06 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6892
+2001-09-11 06:03:06 Arch [0000101] B  ALPHA  MSN 009 hello Message from NOC PCB.
+2001-09-11 06:03:08 Arch [0987275] C  ALPHA  s0107: Corms Batch /prd/corms/n/corms_rdms_out_n_rdms.dat Is Late:CRITICAL:Sep 11, 2001 06:03
+2001-09-11 06:03:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178798. 
+2001-09-11 06:03:11 Metrocall [1829660] D  ALPHA  Frm: root@sentinel.uvsg.com Txt: dct-mon.prevuenet.com - DataWatch - COX:10 Minutes Without Messages Day: 11 Hour: 4 Min: 2
+2001-09-11 06:03:11 Metrocall [0626007] B  ALPHA  38-CALL JAMES AT BRANCH 1250.
+2001-09-11 06:03:11 Metrocall [0567004] D  ALPHA  Frm: MSN Txt: Richmond - Tuesday: Sunny (Clear at night) 84/59*Wednesday: Mostly Sunny
+2001-09-11 06:03:16 Metrocall [0088087] B  ALPHA  : Execute_system: Err
+2001-09-11 06:03:17 Arch [1047866] C  ALPHA   (NONODE) 246 9/11/1   06:03:12 140.229.124.186 Trap: P3  estStateChange, ent=a3Com, comm=
+2001-09-11 06:03:17 Arch [0902463] D  ALPHA   (NONODE) 246 9/11/1   06:03:12 140.229.124.186 Trap: P3  estStateChange, ent=a3Com, comm=
+2001-09-11 06:03:20 Metrocall [002265311] D  ALPHA  Frm: MSN Txt: Hotmail Scholarships:College Scholarship Report for Irma Garza
+2001-09-11 06:03:21 Arch [0971715] A  ALPHA  94836756-02
+2001-09-11 06:03:21 Arch [1654941] D  ALPHA  684-4800
+2001-09-11 06:03:21 Arch [0922746] C  ALPHA  94836756-02
+2001-09-11 06:03:23 Arch [0971715] A  ALPHA  94936756-02
+2001-09-11 06:03:23 Arch [0922746] C  ALPHA  94936756-02
+2001-09-11 06:03:23 Arch [0917581] D  ALPHA  udb Prod dw <udb|ABOUT TO RUN BACKUPS 
+2001-09-11 06:03:23 Arch [0976352] A  ALPHA  (16)jmspeag 72674-DCM-  FYI - Gift Cards took 48 timeouts at 04:38. FDMS and Value Link and NE are investigating. Field Support reports no calls.  Sent at 05:02      
+2001-09-11 06:03:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9815
+2001-09-11 06:03:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3463
+2001-09-11 06:03:31 Skytel [007046275] A SH/TONE 3411    
+2001-09-11 06:03:31 Skytel [005416065] A  ALPHA  alert@msn.com||Detroit - Tuesday: Sunny (Clear at night) 74/55*Wednesday: Partly Cloudy 76/55*Thursday: Partly   (74
+2001-09-11 06:03:33 Skytel [003944208] A SH/TONE 5656    
+2001-09-11 06:03:35 Skytel [005213352] C  ALPHA  SAM17 CONNECTED
+2001-09-11 06:03:35 Skytel [003940527] D  ALPHA  alert@msn.com||Chicago - Tuesday: Sunny (Clear at night) 78/58*Wednesday: Partly Cloudy 78/54*Thursday: Partly  
+2001-09-11 06:03:38 Skytel [002380617] C  ALPHA  Chuck, please call me at 770 919 7025.--Ron
+2001-09-11 06:03:38 Skytel [004517325] D SH/TONE 2500    
+2001-09-11 06:03:38 Skytel [007437387] C SH/TONE 9 (72   
+2001-09-11 06:03:38 Skytel [004744396] D ST NUM  201-706-3410   
+2001-09-11 06:03:39 Metrocall {1250894} 1 2400 F:oracleadm@sig.com (Oracle Admin) S:MON-1031 Disk Storage Alert on /rockies/archive-phys-rockies-a B:/dev/vx/dsk/oradg/archive 32249632 28760032 3167104 91% /rockies/archive...
+2001-09-11 06:03:40 Skytel [007463896] C  ALPHA  alert@msn.com||Winter Springs - Tuesday: T-storms 86/74*Wednesday: Rain 84/73*Thursday: Rain 89/74*Friday: Rain  
+2001-09-11 06:03:40 Skytel [003951056] A  ALPHA  sore01 Resource: SORE01:/NT_CPU/CPU__Total/CPUprcrProcessorTimePercent,current state is : CRITICAL ussa11.SSMC 
+2001-09-11 06:03:40 Skytel [002814045] D  ALPHA  y-alerts@yahoo-inc.com||Fr: mikeee13@waterforge.com *$1000 SPENDING MONEY!                         21448*          Mail  
+2001-09-11 06:03:42 Skytel [004524770] A  ALPHA  spr-Catuogno-SpringfieldMA-01: CPE Up at 01:00:15 on 9/11
+2001-09-11 06:03:42 Skytel [005057390] D  ALPHA  ev01ntappaege:3.7.003 Service actionmgr (actionmgr) Is Not Running. Current state is Stopped.
+2001-09-11 06:03:42 Skytel [005436525] D  ALPHA  Test Message #92-IX_T0706
+2001-09-11 06:03:43 Arch [1122226] A  ALPHA  Alarm: 04:55:00AM  LEV GENERATOR CATERPILLAR GENERATOR IS RUNNING A119
+2001-09-11 06:03:43 Arch [1419494] B  ALPHA  Good morning!  Hope you have a day filled with SunShine!.....J  (1004)
+2001-09-11 06:03:43 Arch [1372724] B  ALPHA  Alarm: 04:55:00AM  LEV GENERATOR CATERPILLAR GENERATOR IS RUNNING A119
+2001-09-11 06:03:43 Arch [0970625] A  ALPHA  administrator@ex|PSFTDB2|DOWN at 06:04:20 09/11/2001 
+2001-09-11 06:03:43 Arch [0979752] C  ALPHA  Alarm: 04:55:00AM  LEV GENERATOR CATERPILLAR GENERATOR IS RUNNING A119
+2001-09-11 06:03:43 Arch [1183373] D  ALPHA  From wi at 06:04 AM EDT: parse.sh reporting ELPHONE or ELSUBM is missing on ibm119. Load has stopped. [CC:mhurst t8pri] 
+2001-09-11 06:03:43 Metrocall [1399095] B  ALPHA  Frm: risman@firstusa.com Sub: CmsBT(OK): Sep-11 06:03:47 Txt: ******************** This transmission may contain information that is privileged, confidential and/or exempt from disclosure under applic
+2001-09-11 06:03:43 Metrocall [1064375] B  ALPHA  /FTSE
+2001-09-11 06:03:43 Metrocall [1064382] D  ALPHA  DKK   74411/16 +000 NOK  7.9500/50 -350 SEK  9.5120/22 -457 CZK 34.088/118 -005 GRD 340.75/350 +000 AUD  1.7448/74 -045 SGD  1.5717/28 -016 CAD  1.3991/04 -042 ESP$ 185.70/74 +050 PTE$ 223.75/80 +060 FRF$ 7.3209/26 +195 ITL$
+2001-09-11 06:03:44 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Disk used % for /clients/IVR/home/rswwwp/work is 85; > than 80
+2001-09-11 06:03:44 Skytel [002381560] C  ALPHA  (ESC:COCPSSLA) CDCA: CA7LQ DETECTED #LATEZFW LATE REQ *NOEX* 3972 
+2001-09-11 06:03:45 Arch [1183373] D  ALPHA  From wi at 06:04 AM EDT: ibm119:/wic/sys/cricket/finish.sh is reporting that /wic/scratch/cricket/data.clean is missing. Load has stopped. [CC:mhurst t8pri] 
+2001-09-11 06:03:45 Arch [1060702] D  ALPHA  NIU Sys 36/Dev 3616 - 0029DA ANDERS 5625, cnet lost sync, Set
+2001-09-11 06:03:45 Metrocall [1064375] B  ALPHA    5109.40  +075 NIKK  10292.95  +097 DAX    4743.08  +072 CAC40  4446.85  +063 MIB30  31844   +0280 HSI  10417.36  +0051 30 _99.02/03  5.438% GOLD271.20/170  -030 S 4.18/20  PL 440.00 PD 450.00/0.00  +000 JG 1.420%
+2001-09-11 06:03:45 Metrocall [0088087] B  ALPHA  F:oracleadm@sig.com (Oracl
+2001-09-11 06:03:45 Metrocall [1064382] D  ALPHA  216102/150 +578
+2001-09-11 06:03:46 Metrocall [0088087] B  ALPHA  e Admin) S:MON-1031 Disk Storage Alert on /rockies/archive-phys-rockies-a B:/dev/vx/dsk/oradg/archive 32249632 28760032 3167104 91% /rockies/archive
+2001-09-11 06:03:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 03:02:37 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 06:03:46 Skytel [003928591] D SH/TONE 1       
+2001-09-11 06:03:47 Arch [1183373] D  ALPHA  From wi at 06:04 AM EDT: ibm119:/wic/sys/cricket/cricket_load reporting /wic/work/cricket/cricket.imp is missing. Load has stopped. [CC:mhurst t8pri] 
+2001-09-11 06:03:47 Arch [0911134] D  ALPHA   mobil.ny.jpmorgan.com SYBASE: sync_dmz.ftp(EQ_CIS_DEV) ERROR load database eq_wise on EQ_CIS_DEV 
+2001-09-11 06:03:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178805. 
+2001-09-11 06:03:48 Skytel [002861584] A ST NUM  8685227799
+2001-09-11 06:03:48 Skytel [005061905] A  ALPHA  f1402 mem blocked act 6:00am sch 05:54am +06 mins-am ctl 347
+2001-09-11 06:03:48 Skytel [004534043] C SH/TONE 1       
+2001-09-11 06:03:48 Skytel [002401821] D  ALPHA  206.122.40.74  PLAGR.JOBSP.CVIEW DATA BASE IS AT 99% UTILIZATION ussa11.SSMC 
+2001-09-11 06:03:49 Arch [0902463] D  ALPHA   3Com.SSII.B2368 246 9/11/1   06:03:11 3Com.SSII.B2368 Trap: P3  warmStart, ent=snmp, comm=v22trap, startLastRestartType=
+2001-09-11 06:03:49 Arch [1399766] B  ALPHA   3Com.SSII.B2368 246 9/11/1   06:03:11 3Com.SSII.B2368 Trap: P3  warmStart, ent=snmp, comm=v22trap, startLastRestartType=
+2001-09-11 06:03:50 Skytel [002352173] D ST NUM  205-681-6881   
+2001-09-11 06:03:50 Skytel [007524270] D  ALPHA  Y! ||iPAQ Pocket PC Now from $499 Calif. Grand Jury Declines to Investigate Condit Reuters  
+2001-09-11 06:03:51 Arch [1399766] B  ALPHA   (NONODE) 246 9/11/1   06:03:12 140.229.124.186 Trap: P3  estStateChange, ent=a3Com, comm=
+2001-09-11 06:03:52 Skytel [005133629] D  ALPHA  ipmonitor@parsons.com|2001-9-11, 03:11:11, SACDC02 (SERVER), SERVICE, Server Recovered|2001-9-11, 03:11:11, SACDC02 (SERVER), SERVICE, Server Recovered  
+2001-09-11 06:03:55 Skytel [005111765] B  ALPHA  f1402 mem blocked act 6:00am sch 05:54am +06 mins-am ctl 347
+2001-09-11 06:03:55 Skytel [007030100] B  ALPHA  y-weather@yahoo-inc.com||iPAQ Pocket PC Now from $499 Quantico, VA Sunny 54 - 82 F  WNI  
+2001-09-11 06:03:55 Skytel [007557212] D  ALPHA  f1402 mem blocked act 6:00am sch 05:54am +06 mins-am ctl 347
+2001-09-11 06:03:55 Skytel [003912413] D  ALPHA  AMR MCO FIDS system back up at this time, still trying to get up time & fix acti
+2001-09-11 06:03:58 Metrocall {1254881} 2 2400 Frm: Root Sub: !BB! hq-to-bank.conn red Txt: hq-to-bank.conn red Tue Sep 11 06:02:48 EDT 2001 bb-network.sh: Can't ping hq-to-bank... Please see: http://uucom6.fbr.com/bb/html/hq-to-bank.conn.html....

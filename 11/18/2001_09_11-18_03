@@ -1,0 +1,519 @@
+2001-09-11 18:03:00 Arch [1610977] A  ALPHA  s are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:00 Arch [0916276] B  ALPHA  (25)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clien
+2001-09-11 18:03:00 Arch [1604155] C  ALPHA  mp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:00 Arch [1080379] C  ALPHA  (24)Update 423285
+2001-09-11 18:03:00 Arch [1422966] B  ALPHA   customer reps. STATUS: Problem has been
+2001-09-11 18:03:00 Arch [1150149] B  ALPHA  (22)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for th
+2001-09-11 18:03:00 Arch [0461356] D  ALPHA  s. STATUS: Problem has been
+2001-09-11 18:03:00 Arch [1356959] D  ALPHA  (17)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer re
+2001-09-11 18:03:01 Skytel [002822538] C  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Explosions rock Kabul, Afghanistan, CNN's Nic Robertson reports. Details soon.  For complete coverage of this story visit: http://www.CNN.com or AOL Keyword: CNN   C
+2001-09-11 18:03:02 Arch [0916276] B  ALPHA  ts are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:02 Arch [1604987] C  ALPHA  MSN <alert@msn.c|Norwood - Tuesday: Sunny (Clear at night) 82/53*Wednesday: Partly Cloudy 75/48*Thursday: Mostly 
+2001-09-11 18:03:02 Arch [1081772] D  ALPHA  (30)Update 4232857. PROB: 
+2001-09-11 18:03:02 Arch [1080379] C  ALPHA  7. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:02 Arch [1150149] B  ALPHA  eir customer reps. STATUS: Problem has been
+2001-09-11 18:03:02 Arch [0945489] A  ALPHA  Chris.Mohrman@CO|FW: HomePNA troubleshooting ques|> ---------- > From: Chapin, David > Sent: Tuesday, September 11, 2001 5:03:10 PM > To: Sullivan, Robert (CIG); Mohrman, Chris; Sauer, James; Maste
+2001-09-11 18:03:02 Arch [1356959] D  ALPHA  ps. STATUS: Problem has been
+2001-09-11 18:03:02 Arch [0936165] B  ALPHA  Helpdesk.AutoFax|TAT's|EDMI-AFIN: 30 APPS/ 15 MINS EDMI-TRAN: 24 APPS/ 15 MINS EDMI-AFCC: 73 APPS/ 10 MINS 
+2001-09-11 18:03:02 Arch [1241365] B  ALPHA  Sybase Admin NU |alaris-uat:dba:2001/09/11 18:03:|ALARIS_UAT dbccdb sybsystempro
+2001-09-11 18:03:03 Arch [1081772] D  ALPHA  IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:03 Arch [0872997] B  ALPHA  (28)corrected.  All cen
+2001-09-11 18:03:03 Arch [100158568] C  ALPHA  LIFmon3 Tue Sep 11 18:00:00 EDT 2001 - Instance prod is DOWN!!!
+2001-09-11 18:03:03 Skytel [007101466] C  ALPHA  Hong.Tuoc.Nguyen@bankofamerica.com|GUERRORO, FHA CASH OUT # 6946020192|1/  RATIOS ARE HIGH FOR CASH OUT REFINANCE. PAYING OFF DEBTS TO QUALIFY IS A CONSIDERABLE RISK TO HUD GUIDE. NEED TO LOWER LOAN AMOUNT TO KEEP RATIOS AT 41% BACK END. 2/
+2001-09-11 18:03:03 Skytel [003329304] C ST NUM  695-6000 (41   
+2001-09-11 18:03:03 Skytel [005204112] A ST NUM  508-353-6323 (79    
+2001-09-11 18:03:03 Skytel [007500056] C SH/TONE 69      
+2001-09-11 18:03:03 Skytel [004413978] C ST NUM  736-519-7471-911 (54
+2001-09-11 18:03:03 Skytel [004137626] C ST NUM  963-3028 (73   
+2001-09-11 18:03:03 Skytel [004586905] C SH/TONE 1394    
+2001-09-11 18:03:03 Skytel [005122333] D ST NUM  709-282-2488   
+2001-09-11 18:03:04 Arch [0192708] B  ALPHA  corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/1
+2001-09-11 18:03:04 Arch [0945489] A  ALPHA  rso
+2001-09-11 18:03:04 Arch [0460641] A  ALPHA  (6)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:04 Arch [1413828] B  ALPHA  (28)corrected.  All centers on the Aspect Rel.6 ar
+2001-09-11 18:03:04 Arch [1241365] B  ALPHA  cs failed rcp -p /opt/sybase/sybdump/ALARIS_UAT/DBCC_LOG/dbcc.sybsystemprocs.out e4ksyb2:/home/syb_backup/ALARIS_UAT/DBC
+2001-09-11 18:03:04 Arch [0471000] C  ALPHA  (6)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IE
+2001-09-11 18:03:05 Arch [0872997] B  ALPHA  ters on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:05 Arch [0475269] B  ALPHA  (31)corrected.  All centers on the Aspect Rel.6 are n
+2001-09-11 18:03:05 Arch [0192708] B  ALPHA  1/2001...Brandi/EM
+2001-09-11 18:03:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7612
+2001-09-11 18:03:05 Arch [0866780] D  ALPHA  (23)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. N
+2001-09-11 18:03:05 Arch [1413828] B  ALPHA  e now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:05 Arch [0802426] C  ALPHA  (17)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the R
+2001-09-11 18:03:05 Arch [0471000] C  ALPHA  X changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:05 Arch [1406316] D  ALPHA  corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:05 Metrocall [1544818] A  ALPHA  WDC-MAIL03 "Server WDC-MAIL03/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail1.box. "
+2001-09-11 18:03:05 Metrocall [1281054] D  ALPHA  CRDC-NMMVR-P2 CDS Gateway on CRDC-NMMVR-P2 has been started. "Server CRDC-
+2001-09-11 18:03:05 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4182
+2001-09-11 18:03:05 Skytel [005361965] D  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Explosions rock Kabul, Afghanistan, CNN's Nic Robertson reports. Details soon.  For complete coverage of this story visit: http://www.CNN.com or AOL Keyword: CNN   C
+2001-09-11 18:03:05 Skytel [003437732] B SH/TONE 799-4902
+2001-09-11 18:03:05 Skytel [002787109] B ST NUM  515-750-5513   
+2001-09-11 18:03:05 Skytel [005345963] C  ALPHA  NANCY CALLED. 813-854-5411.
+2001-09-11 18:03:05 Skytel [007638441] C ST NUM  308-378-1071   
+2001-09-11 18:03:05 Skytel [004539430] B SH/TONE 342-5698
+2001-09-11 18:03:05 Skytel [003857963] C  ALPHA  Tkt: 00717052 Sev: 3 Ph: 208 364 1450 x User: Helmers, David @ 09/11/01 15:02:45 Msg Text: Groupwise  Permissions Issue
+2001-09-11 18:03:05 Skytel [002376872] C  ALPHA  nms@svcanms.conxion.com|Sep11-15:03|There are 4 active alarms including server:ibusdev:uptime Error retrieving uptime.  Possibly down  
+2001-09-11 18:03:05 Skytel {1012696} 3 2400 703-960-2569   
+2001-09-11 18:03:06 Metrocall [1281054] D  ALPHA  NMMVR-P2/CA/GSVR/KAIPERM - CDS Gateway on P2 is being started"
+2001-09-11 18:03:06 Skytel {1976916} 1 2400 please call sarah at 630.250.2974.
+2001-09-11 18:03:06 Skytel {0666894} 1 2400 323-5826  4    
+2001-09-11 18:03:06 Skytel {0614320} 3 2400 99   
+2001-09-11 18:03:06 Skytel {0133937} 3 2400 92147811  22  62    
+2001-09-11 18:03:07 Arch [0475269] B  ALPHA  ow updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:07 Arch [0821151] D  ALPHA  (9)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7
+2001-09-11 18:03:07 Arch [0866780] D  ALPHA  XTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:07 Arch [1604703] D  ALPHA  (7)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:07 Arch [0802426] C  ALPHA  el.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:07 Arch [0474171] C  ALPHA  (22)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001..
+2001-09-11 18:03:07 Arch [1400153] C  ALPHA  (8)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:07 Arch [0195701] B  ALPHA  (23)corrected.  All centers on the Aspect Rel.6 are now updati
+2001-09-11 18:03:07 Skytel {0153145} 1 1200 NEWS@2: Tragedy Hits Wall Street, Washington in Worst Terror Attack Against United States. New York's Twin Towers - GONE! Hijacked jets topple World Trade Center; Pentagon also hit by plane. - Brought to you by Wireless Week and i3 Mobile..
+2001-09-11 18:03:09 Arch [0821151] D  ALPHA  s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:09 Arch [0509659] C  ALPHA  (26)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brand
+2001-09-11 18:03:09 Arch [1238677] B  ALPHA  (15)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:09 Arch [0886821] B  ALPHA  (10)corrected.  All center
+2001-09-11 18:03:09 Arch [0474171] C  ALPHA  .Brandi/EM
+2001-09-11 18:03:09 Arch [1328748] D  ALPHA  (15)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:09 Arch [0944854] B  ALPHA  From root at 06:03 PM EDT: eos221 is m
+2001-09-11 18:03:09 Arch [0195701] B  ALPHA  ng, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:09 Arch [0716752] A  ALPHA  (17)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that I
+2001-09-11 18:03:11 Arch [0509659] C  ALPHA  i/EM
+2001-09-11 18:03:11 Arch [0578068] B  ALPHA  corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:11 Arch [0480206] D  ALPHA  (3)corrected.  All centers on the A
+2001-09-11 18:03:11 Arch [0886821] B  ALPHA  s on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:11 Arch [1009426] A  ALPHA  (1)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still wait
+2001-09-11 18:03:11 Arch [0944854] B  ALPHA  issing /usr/vox2/accounts/rjrco/mailorbe/c002 [CC:t5pri] 
+2001-09-11 18:03:11 Arch [0553737] C  ALPHA  (10)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:11 Arch [0716752] A  ALPHA  EX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:11 Arch [0578954] C  ALPHA  (2)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:12 Metrocall [010601643] C  ALPHA  From: Maddox, Ray I'm in my office.
+2001-09-11 18:03:12 Metrocall [002178508] D  ALPHA  EMAIL BreakingNews@CNN.COM CNN Breaking News BREAKING NEWS from CNN.com  -- Explosions rock Kabul, Afghanistan, CNN's Nic Robertson reports. Details soon.  For complete coverag.....................(F..@...B... .. ........... D....... ..... F..H..V
+2001-09-11 18:03:13 Arch [0480206] D  ALPHA  spect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:13 Arch [1415004] D  ALPHA  (18)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fix
+2001-09-11 18:03:13 Arch [1009426] A  ALPHA  ing for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:13 Arch [1227942] B  ALPHA  (4)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by
+2001-09-11 18:03:13 Arch [0418540] D  ALPHA  (8)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:13 Arch [1329229] D  ALPHA  (3)corrected.  All centers on the Aspect Rel.6 are now updatin
+2001-09-11 18:03:13 Arch [0780138] C  ALPHA  (28)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:13 Arch [1631279] D  ALPHA  (20)corrected.  All centers on the Aspect Rel.6
+2001-09-11 18:03:14 Metrocall [0151764] B  ALPHA  Frm: autoreply@corp.jamcracker.com Sub: Case Number 141951-09112001 : Proc. Eng. Request 16840 - Software Other Txt: FR: rhoffman Rudy Gonzalez - 510-498-2634 Needs SAP 4.5 reinstalled Rob Hoffmann Jamcracker Suppor
+2001-09-11 18:03:14 Metrocall [002178508] D  ALPHA  line Ne
+2001-09-11 18:03:14 Metrocall [0957710] D  ALPHA  Frm: autoreply@corp.jamcracker.com Sub: Case Number 141951-09112001 : Proc. Eng. Request 16840 - Software Other Txt: FR: rhoffman Rudy Gonzalez - 510-498-2634 Needs SAP 4.5 rei
+2001-09-11 18:03:14 Skytel {1481394} 3 1200 794-9031  
+2001-09-11 18:03:14 Skytel {0684622} 3 1200 818-898-4697   
+2001-09-11 18:03:15 Arch [1415004] D  ALPHA  es for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:15 Arch [0658867] A  ALPHA  (24)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00
+2001-09-11 18:03:15 Arch [1227942] B  ALPHA   mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:15 Arch [1300960] A  ALPHA  corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:15 Arch [1619470] D  ALPHA  9- 8-
+2001-09-11 18:03:15 Arch [1329229] D  ALPHA  g, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:15 Arch [1410867] A  ALPHA  (6)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX c
+2001-09-11 18:03:15 Arch [1631279] D  ALPHA   are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:15 Arch [0790090] C  ALPHA  (29)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for th
+2001-09-11 18:03:16 Metrocall [0151764] B  ALPHA  t Center Please send your
+2001-09-11 18:03:16 Metrocall [0957710] D  ALPHA  nstalled Rob Hoffmann Jamcracker Support Center Please send your
+2001-09-11 18:03:16 Metrocall [0903176] C  ALPHA  Frm: autoreply@corp.jamcracker.com Sub: Case Number 141951-09112001 : Proc. Eng. Request 16840 - Software Other Txt: FR: rhoffman Rudy Gonzalez - 510-498-2634 Needs SAP 4.5 reinstalled Rob Hoffmann.$.M....R....@(.@...%...@ ............P.....
+2001-09-11 18:03:17 Arch [0658867] A  ALPHA   9/11/2001...Brandi/EM
+2001-09-11 18:03:17 Arch [0903010] A  ALPHA  (27)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:17 Arch [0509889] A  ALPHA  (9)corrected.  All centers
+2001-09-11 18:03:17 Arch [0478129] A  ALPHA  (27)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:17 Arch [1426332] D  ALPHA  (28)corrected.  All centers on the Aspect Rel.6 are now upd
+2001-09-11 18:03:17 Arch [1410867] A  ALPHA  hanged by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:17 Arch [1008487] B  ALPHA  (21)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:17 Arch [0790090] C  ALPHA  e Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:17 Arch [1276524] D  ALPHA  (29)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/200
+2001-09-11 18:03:18 Arch [0509889] A  ALPHA   on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:18 Arch [0509989] B  ALPHA  (11)corrected.  All centers on the Aspect Rel.6 are now updating, and we a
+2001-09-11 18:03:18 Arch [1426332] D  ALPHA  ating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:18 Arch [0278479] D  ALPHA  fi-etrade2: Alert: 1 SWEB trades missing in PCONFINYC_DATA. Check Tradehub Monitor.
+2001-09-11 18:03:18 Arch [1303015] B  ALPHA  (23)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:18 Arch [1613921] A  ALPHA  (31)corrected.  All centers on the Aspect Re
+2001-09-11 18:03:19 Arch [1276524] D  ALPHA  1...Brandi/EM
+2001-09-11 18:03:19 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-11 18:03:19 Arch [0624039] B  ALPHA  (27)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.
+2001-09-11 18:03:20 Arch [0509989] B  ALPHA  re still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:20 Arch [0310083] A  ALPHA  Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: To
+2001-09-11 18:03:20 Arch [1608305] A  ALPHA  Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:20 Arch [0917976] C  ALPHA  sn
+2001-09-11 18:03:20 Arch [1613921] A  ALPHA  l.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:20 Arch [1422639] D  ALPHA  (2)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causi
+2001-09-11 18:03:20 Arch [0624039] B  ALPHA  7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:20 Arch [0196106] C  ALPHA  (23)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are un
+2001-09-11 18:03:22 Arch [0310083] A  ALPHA  talview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:22 Arch [1152100] B  ALPHA  (17)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by m
+2001-09-11 18:03:22 Arch [0917976] C  ALPHA  mpuser: DEVICE=172.18.1.5 TYPE=trap AT=18:03 09-11 generic trap-no=0cold_start high netmgt_endofrow _SOURCE IN MAIL_
+2001-09-11 18:03:22 Arch [1236660] B  ALPHA  (1)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX c
+2001-09-11 18:03:22 Arch [1422639] D  ALPHA  ng incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:22 Arch [0968204] D  ALPHA  (13)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for
+2001-09-11 18:03:22 Arch [0196106] C  ALPHA  able to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:22 Arch [0476281] C  ALPHA  (4)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX chan
+2001-09-11 18:03:23 Metrocall [0814658] A  ALPHA  CSC reporting MMTP Clinic Ryan center @ 110 West 97th st. has lost network connectivity @ 18:00 hrs. Tech addressing issue.
+2001-09-11 18:03:24 Arch [1152100] B  ALPHA  istake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:24 Arch [1408050] A  ALPHA  (6)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for 
+2001-09-11 18:03:24 Arch [1236660] B  ALPHA  hanged by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:24 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0535
+2001-09-11 18:03:24 Arch [1377504] A  ALPHA  (10)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time st
+2001-09-11 18:03:24 Arch [0968204] D  ALPHA   the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:24 Arch [1231586] A  ALPHA  (4)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Client
+2001-09-11 18:03:24 Arch [0476281] C  ALPHA  ged by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:24 Arch [0653433] C  ALPHA  (9)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull report
+2001-09-11 18:03:25 Metrocall [1031718] B  ALPHA  Frm: Y! Txt: Be mobile with Compaq LMT 0.00 0.00; Delayed Reuters
+2001-09-11 18:03:25 Metrocall [0044338] A  ALPHA  Frm: Y! Txt: Federal Reserve reports it is prepared to p
+2001-09-11 18:03:25 Metrocall [1485023] D  ALPHA  COAST PLAZA 562 864 1776 PATIENT - GRENO
+2001-09-11 18:03:26 Arch [1408050] A  ALPHA  their customer reps. STATUS: Problem has been
+2001-09-11 18:03:26 Arch [1006965] B  ALPHA  (18)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for
+2001-09-11 18:03:26 Arch [1377504] A  ALPHA  amps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:26 Arch [1359850] C  ALPHA  (22)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time
+2001-09-11 18:03:26 Arch [1231586] A  ALPHA  s are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:26 Arch [0265361] A  ALPHA  Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients a
+2001-09-11 18:03:26 Arch [0653433] C  ALPHA  s for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:26 Arch [0460533] B  ALPHA  (25)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull repor
+2001-09-11 18:03:27 Metrocall [0073794] A  ALPHA  8324445450 
+2001-09-11 18:03:27 Metrocall [0044338] A  ALPHA  rovide additional money to nation's banking system as needed following terrorist attacks.
+2001-09-11 18:03:28 Arch [1006965] B  ALPHA   their customer reps. STATUS: Problem has been
+2001-09-11 18:03:28 Arch [1071403] C  ALPHA  (6)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports f
+2001-09-11 18:03:28 Arch [1359850] C  ALPHA   stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:28 Arch [1424911] D  ALPHA  (14)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect t
+2001-09-11 18:03:28 Arch [0265361] A  ALPHA  re unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:28 Arch [0508017] A  ALPHA  Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are 
+2001-09-11 18:03:28 Arch [0460533] B  ALPHA  ts for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:28 Arch [0510491] C  ALPHA  (6)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull rep
+2001-09-11 18:03:30 Arch [1071403] C  ALPHA  or their customer reps. STATUS: Problem has been
+2001-09-11 18:03:30 Arch [1610977] A  ALPHA  (8)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:30 Arch [1273485] D  ALPHA  (16)U
+2001-09-11 18:03:30 Arch [1424911] D  ALPHA  ime stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:30 Arch [0461356] D  ALPHA  corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that
+2001-09-11 18:03:30 Arch [0508017] A  ALPHA  unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:30 Arch [1422966] B  ALPHA  (16)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001..
+2001-09-11 18:03:30 Arch [0510491] C  ALPHA  orts for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:30 Arch [1604155] C  ALPHA  (17)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:31 Skytel [007557390] D ST NUM  0-644-465-0960-1980 
+2001-09-11 18:03:31 Skytel [002817933] D  ALPHA  (...) 5000 Bad file number
+2001-09-11 18:03:31 Skytel [005122182] B SH/TONE 722-7057
+2001-09-11 18:03:31 Skytel [007576071] B SH/TONE 11312   
+2001-09-11 18:03:31 Skytel [004110339] A  ALPHA  212-613-0174 (16
+2001-09-11 18:03:31 Skytel [005134723] A  ALPHA  alert@msn.com||Joliet - Tuesday: Partly Cloudy 81/59*Wednesday: Partly Cloudy 65/50*Thursday: Sunny (Clear at  
+2001-09-11 18:03:31 Skytel [007579274] C SH/TONE 911-6622
+2001-09-11 18:03:31 Skytel [005507591] B SH/TONE 577-3339
+2001-09-11 18:03:31 Skytel [005376781] D SH/TONE 258666  
+2001-09-11 18:03:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 15:03:37 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 18:03:32 Arch [1273485] D  ALPHA  pdate 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:32 Arch [0193552] A  ALPHA  (2
+2001-09-11 18:03:32 Arch [0461356] D  ALPHA   IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:32 Arch [1275057] A  ALPHA  (8)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pu
+2001-09-11 18:03:32 Arch [1422966] B  ALPHA  .Brandi/EM
+2001-09-11 18:03:32 Arch [0509613] D  ALPHA  (6)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Prob
+2001-09-11 18:03:32 Arch [1231423] D  ALPHA  (3)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:33 Arch [0193552] A  ALPHA  5)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:33 Arch [1275057] A  ALPHA  ll reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:33 Arch [0510137] C  ALPHA  (11)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to p
+2001-09-11 18:03:33 Arch [0509613] D  ALPHA  lem has been
+2001-09-11 18:03:33 Arch [1405114] C  ALPHA  (24)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Pro
+2001-09-11 18:03:33 Arch [1416702] D  ALPHA  (1)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:33 Metrocall [002560983] B  ALPHA  39-CALL DAVID LINDSEY AT 804-238-1325.
+2001-09-11 18:03:33 Metrocall [1544820] B  ALPHA  WDC-MAIL03 "Server WDC-MAIL03/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail2.box. "
+2001-09-11 18:03:33 Metrocall [1874895] D  ALPHA  Plese contact the TEA HR department immediately to confirm your safety 800-828-6596 x1600.
+2001-09-11 18:03:33 Metrocall [1545925] B  ALPHA  Plese contact the TEA HR department immediately to confirm your safety 800-828-6596 x1
+2001-09-11 18:03:33 Skytel [004172179] A ST NUM  910-767-0794 (8
+2001-09-11 18:03:33 Skytel [004199569] A  ALPHA  283-0916 (64
+2001-09-11 18:03:33 Skytel [005114010] C ST NUM  713-270-2154 U 
+2001-09-11 18:03:33 Skytel [003485714] A ST NUM  8007598836
+2001-09-11 18:03:33 Skytel [005484949] B SH/TONE 567-0443
+2001-09-11 18:03:33 Skytel [004037908] B ST NUM  416-1741 (2    
+2001-09-11 18:03:33 Skytel [002401821] D  ALPHA  ssmcscsm13 N/A CBB0IIS01:Agent:caiW2kOs:w2kLVolInst:Critical Logical Disk/File System C:.  
+2001-09-11 18:03:33 Skytel [007522706] A  ALPHA  THIS IS REBECCA, PLEASE COME OVER AT 4:40 TODAY. 818 222 5051  [5790
+2001-09-11 18:03:33 Skytel [002749464] C SH/TONE 860-8918
+2001-09-11 18:03:33 Skytel [005225886] D SH/TONE 18642   
+2001-09-11 18:03:33 Skytel [004537620] B ST NUM  823-365-7271-212    
+2001-09-11 18:03:33 Skytel [005478428] D SH/TONE 879-0594
+2001-09-11 18:03:33 Skytel [002861584] A ST NUM  9685429395
+2001-09-11 18:03:35 Arch [0552179] A  ALPHA  (20)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has 
+2001-09-11 18:03:35 Arch [0510137] C  ALPHA  ull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:35 Arch [1404503] B  ALPHA  go and fill up your gas tank now. we're at war!!! i'll be home by 5pm
+2001-09-11 18:03:35 Arch [0418907] C  ALPHA  (19)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to 
+2001-09-11 18:03:35 Arch [1405114] C  ALPHA  blem has been
+2001-09-11 18:03:35 Arch [1082360] C  ALPHA  (23)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: 
+2001-09-11 18:03:35 Arch [1613872] A  ALPHA  (11)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem h
+2001-09-11 18:03:35 Metrocall [1932466] A  ALPHA  Plese contact the TEA HR department immediately to confirm your safety 800-828-6596 x1600.
+2001-09-11 18:03:35 Metrocall [002116263] B  ALPHA  Tkt: 00717053 Sev: 3 Ph: 208 395 2459 x User: Reyes, Desiree @080 09/11/01 15:03:22 Msg Text: Bridges Issue
+2001-09-11 18:03:35 Metrocall [1545925] B  ALPHA  600.
+2001-09-11 18:03:35 Skytel [003467552] A ST NUM  900-759-8255   
+2001-09-11 18:03:35 Skytel [005342757] B  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Explosions rock Kabul, Afghanistan, CNN's Nic Robertson reports. Details soon.  For complete coverage of this story visit: http://www.CNN.com or AOL Keywor
+2001-09-11 18:03:35 Skytel [002360233] C SH/TONE 69100 (2
+2001-09-11 18:03:35 Skytel [007608237] D  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Explosions rock Kabul, Afghanistan, CNN's Nic Robertson reports. Details soon.  For complete coverage of this story visit: http://www.CNN.com or AOL Keyword: 
+2001-09-11 18:03:35 Skytel [005521833] C SH/TONE 699-6511
+2001-09-11 18:03:35 Skytel [002358319] D  ALPHA  (...) 5000 Bad file number
+2001-09-11 18:03:35 Skytel [005100458] C  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Explosions rock Kabul, Afghanistan, CNN's Nic Robertson reports. Details soon.  For complete coverage of this story visit:
+2001-09-11 18:03:35 Skytel [007577135] D SH/TONE 316-2820
+2001-09-11 18:03:35 Skytel [003326761] C SH/TONE 99      
+2001-09-11 18:03:35 Skytel [003934122] C SH/TONE 69      
+2001-09-11 18:03:35 Skytel [002390824] C  ALPHA  TPCB $SSQDPGM - MHT1 QUEUE HAS EXCEEDED ITS LIMIT.
+2001-09-11 18:03:35 Skytel [007600030] D SH/TONE 0804    
+2001-09-11 18:03:35 Skytel [007512210] A  ALPHA  y-alerts@yahoo-inc.com|| Federal Reserve reports it is prepared to provide additional money to nation's banking system as needed followin
+2001-09-11 18:03:36 Metrocall [1061605] B  ALPHA  N: NP NICE SYSTEM ISSUES 0624 CTL RESOLVED
+2001-09-11 18:03:36 Metrocall [002473012] B  ALPHA  Frm: Y! Txt: $499 deals on iPAQ Pocket PC DIS 0.00 0.00; HDI 0.00 0.00; ^DJI 0.00 0.00; Delayed Reuters
+2001-09-11 18:03:36 Metrocall [0776055] B  ALPHA  Frm: Bre
+2001-09-11 18:03:36 Metrocall [1201497] C  ALPHA  Frm: Y! Txt: Federal Reserve reports it is prepared to provide additional money
+2001-09-11 18:03:37 Arch [0552179] A  ALPHA  been
+2001-09-11 18:03:37 Arch [0916276] B  ALPHA  (26)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:37 Arch [1394622] D  ALPHA  F:swingler@acm.org S:CNN (page): T:swingler@
+2001-09-11 18:03:37 Arch [0418907] C  ALPHA  Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:37 Arch [0908740] B  ALPHA  223-2703
+2001-09-11 18:03:37 Arch [1356959] D  ALPHA  (18)corrected.  All centers on the Aspect Rel.6 are now updati
+2001-09-11 18:03:37 Arch [1082360] C  ALPHA  Problem has been
+2001-09-11 18:03:37 Arch [1150149] B  ALPHA  (23)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:37 Arch [0965721] C  ALPHA  NTMETAFRAME5:Applica
+2001-09-11 18:03:37 Arch [1613872] A  ALPHA  as been
+2001-09-11 18:03:37 Arch [1080379] C  ALPHA  (25)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:37 Arch [0900600] C  ALPHA  "Mahoney, Mauree|I guess the gas lines in
+2001-09-11 18:03:37 Skytel [005342757] B  ALPHA  d: CNN   C
+2001-09-11 18:03:37 Skytel [003458738] A ST NUM  800-759-3830   
+2001-09-11 18:03:37 Skytel [005066674] A SH/TONE 381-1672
+2001-09-11 18:03:37 Skytel [002366527] D  ALPHA  46) {sts}/home/sts/bin/check_hosts.ksh Can't connect to STS_PRD_SQL1. Please check.
+2001-09-11 18:03:37 Skytel [007608237] D  ALPHA  CNN   C
+2001-09-11 18:03:37 Skytel [0001461] B  ALPHA  GLOBEX   17:01     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ    ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-11 18:03:37 Skytel [005100458] C  ALPHA   http://www.CNN.com or AOL Keyword: CNN   C
+2001-09-11 18:03:37 Skytel [002820280] C  ALPHA  88) {sts}/home/sts/bin/check_hosts.ksh Can't connect to STS_PRD_SQL1. Please check.
+2001-09-11 18:03:37 Skytel [003484345] C ST NUM  404-755-1987   
+2001-09-11 18:03:37 Skytel [007512210] A  ALPHA  g terrorist attacks.   
+2001-09-11 18:03:37 Skytel [003947952] A ST NUM  909-338-5767 U (8   
+2001-09-11 18:03:37 Skytel [005094962] A  ALPHA  ALL FLAGS NEED TO FLY AT HALF-STAFF RIGHT AWAY. -THANKS, MARIA
+2001-09-11 18:03:37 Skytel [005075773] D SH/TONE 618-9093
+2001-09-11 18:03:37 Skytel [007040056] C ST NUM  301-339-4456   
+2001-09-11 18:03:38 Metrocall [0776055] B  ALPHA  akingNews@CNN.COM Sub: CNN Breaking News Txt: BREAKING NEWS from CNN.com -- Explosions rock Kabul, Afghanistan, CNN's Nic Robertson reports. Details soon. For complete coverage of this story v
+2001-09-11 18:03:39 Arch [1394622] D  ALPHA  PASCAL.WACO.ORG M:- Explosions rock Kabul, Afghanistan, CNN's Nic Robertson reports. Details soon.
+2001-09-11 18:03:39 Arch [0723389] D  ALPHA  HPSV Murray: Sales Daily OCC 43%; CS/Daily OCC 41%; Fraud Daily OCC 14%; Escalation Daily OCC 35%;  Neils /CCO
+2001-09-11 18:03:39 Arch [1207960] C  ALPHA  (21)Upda
+2001-09-11 18:03:39 Arch [1356959] D  ALPHA  ng, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:39 Arch [1372563] A  ALPHA  HPSV Murray: Sales Daily OCC 43%; CS/Daily OCC 41%; Fraud Daily OCC 14%; Escalation Daily OCC 35%;  Neils /CCO
+2001-09-11 18:03:39 Arch [0575898] C  ALPHA  (2
+2001-09-11 18:03:39 Arch [0965721] C  ALPHA  tion Exception,Error Message:The Compaq Management Agents have detected a process exception: PID: 98 - DESC: spoolss
+2001-09-11 18:03:39 Arch [0801348] B  ALPHA  (11)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time st
+2001-09-11 18:03:39 Arch [0900600] C  ALPHA   Omaha are huge already. KC is $5 per gallon. Per holly. Maureen Mahoney Implementation Director 1-888-537-6744 402-577-8158 Cell: 402-639-2302 Mamahoney@west.
+2001-09-11 18:03:39 Arch [0917706] C  ALPHA  (26)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect t
+2001-09-11 18:03:39 Skytel [005059139] A  ALPHA  PLEASE CALL NICK AT EXTENSION 5578.
+2001-09-11 18:03:39 Skytel [007590978] A SH/TONE 1850    
+2001-09-11 18:03:39 Skytel [004547268] B  ALPHA  TPCB $SSQDPGM - MHT1 QUEUE HAS EXCEEDED ITS LIMIT.
+2001-09-11 18:03:39 Skytel [002360907] C ST NUM  02 6128123116  
+2001-09-11 18:03:39 Skytel [003783372] D  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Explosions rock Kabul, Afghanist
+2001-09-11 18:03:39 Skytel [005061058] A ST NUM  606-924-0911   
+2001-09-11 18:03:39 Skytel [004748983] B SH/TONE 2323    
+2001-09-11 18:03:39 Skytel [005117492] B SH/TONE 3443    
+2001-09-11 18:03:39 Skytel [004196931] A  ALPHA  708-352-1666 (12
+2001-09-11 18:03:39 Skytel [005074758] B SH/TONE 567-2508
+2001-09-11 18:03:39 Skytel [005043532] D  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Explosions rock Kabul, Afghanistan, CNN's Nic Robertson reports. Details soon.  For compl
+2001-09-11 18:03:39 Skytel [004436042] C SH/TONE 12759   
+2001-09-11 18:03:39 Skytel [007602890] C ST NUM  831-648-0622   
+2001-09-11 18:03:39 Skytel [004555584] A ST NUM  661-618-1415   
+2001-09-11 18:03:39 Skytel [003933261] D  ALPHA  RebeccaS@UBID.COM|RE: is ship confirm running?|the experiement appears to be successful.  Thank you Dorothy.  -----Original Message----- From: Hatzikonstantis, Dorothy [mailto:DHatzikonstantis@cmgi.co
+2001-09-11 18:03:39 Skytel [007512013] D  ALPHA  Y! ||iPAQ Pocket PC Now from $499 Telecom Networks Stressed, but Operating Reuters  
+2001-09-11 18:03:39 Skytel [005313870] D SH/TONE 6622    
+2001-09-11 18:03:39 Skytel [005209281] A  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Explosions rock Kabul, Afghanistan, CNN's Nic Robertson rep
+2001-09-11 18:03:41 Arch [1207960] C  ALPHA  te 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:41 Arch [1081772] D  ALPHA  (31)c
+2001-09-11 18:03:41 Arch [0575898] C  ALPHA  7)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:41 Arch [0801348] B  ALPHA  amps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:41 Arch [1152488] C  ALPHA  (1)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time 
+2001-09-11 18:03:41 Arch [0917706] C  ALPHA  ime data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:41 Arch [1275900] D  ALPHA  (20)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrec
+2001-09-11 18:03:41 Skytel [003783372] D  ALPHA  an, CNN's Nic Robertson reports. Details soon.  For complete coverage of this story visit: http://www.CNN.com or AOL Keyword: CNN   C
+2001-09-11 18:03:41 Skytel [007518028] D  ALPHA  Y! || Federal Reserve reports it is prepared to provide additional money to nati
+2001-09-11 18:03:41 Skytel [007518658] A ST NUM  282-516-9132-2310   
+2001-09-11 18:03:41 Skytel [005043532] D  ALPHA  ete coverage of this story visit: http://www.CNN.com or AOL Keyword: CNN   C
+2001-09-11 18:03:41 Skytel [005256657] A  ALPHA  203341087 PgCnt: 00 Emp# 100889 LMC-NEWTOWN-DVO EQ# 10003773 CHARLES H CLAMPITT:2154972800 Contact# 2154972800 ex Due BY 1109 @ 0849 NEWTOWN 
+2001-09-11 18:03:41 Skytel [005100506] C SH/TONE 996-0445
+2001-09-11 18:03:41 Skytel [003933261] D  ALPHA  m] Sent: Tuesday, September 11, 2001 4:0
+2001-09-11 18:03:41 Skytel [005213525] B SH/TONE 649-5870
+2001-09-11 18:03:41 Skytel [002353503] D SH/TONE 99      
+2001-09-11 18:03:41 Skytel [1800019] A  ALPHA  GLOBEX   17:01     GEH    ----   ----   GEM    ----   ----   ESU    ----   ----   SPU    ----   ----   NDU    ----   ----   6JZ    ----   ----   6EZ    ----   ----   6SZ 
+2001-09-11 18:03:41 Skytel [005209281] A  ALPHA  orts. Details soon.  For complete coverage of this story visit: http://www.CNN.com or AOL Keyword: CNN   C
+2001-09-11 18:03:41 Skytel [005212376] C SH/TONE 795-6000
+2001-09-11 18:03:41 Skytel [003280465] A  ALPHA  call bob bloomquist at 212-647-2415   
+2001-09-11 18:03:41 Skytel [004606162] A  ALPHA  254-1855 U [4434
+2001-09-11 18:03:41 Skytel [007000014] D ST NUM  8006091778
+2001-09-11 18:03:41 Skytel [007519044] B  ALPHA  Y! || Federal Reserv
+2001-09-11 18:03:42 Metrocall [1201610] C  ALPHA  PLEASE CHECK VOICE MAILBOX...8885999
+2001-09-11 18:03:42 Skytel [002673263] D  ALPHA  kr@ansmtp.ariba.com|prod crit ANErrorDispatcher-1701105@app18.snv died quickly. Check /tmp/an/keepRunning-ANErrorDispatcher-1701105@app18.snv-26600.1-DEAD|<EOM>  
+2001-09-11 18:03:42 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job112888 SCHI14301 09/11 17:44 QUEUES
+2001-09-11 18:03:43 Arch [1081772] D  ALPHA  orrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:43 Arch [0480215] B  ALPHA  (4)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorr
+2001-09-11 18:03:43 Arch [0476599] B  ALPHA  (14)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:43 Arch [1152488] C  ALPHA  stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:43 Arch [0330567] B  ALPHA  (15)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time
+2001-09-11 18:03:43 Arch [1275900] D  ALPHA  t time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:43 Arch [0509863] B  ALPHA  Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect
+2001-09-11 18:03:43 Skytel [002821477] B ST NUM  9889966558
+2001-09-11 18:03:43 Skytel [004535909] B SH/TONE 353535  
+2001-09-11 18:03:43 Skytel [004074069] B ST NUM  330-8231 (27   
+2001-09-11 18:03:43 Skytel [005069155] A  ALPHA  MSG FROM UNKNOWN 
+2001-09-11 18:03:43 Skytel [007491560] C ST NUM  415-716-2945   
+2001-09-11 18:03:43 Skytel [007513070] D  ALPHA  y-alerts@yahoo-inc.com|| Federal Reserve reports it is prepared to provide additional money to natio
+2001-09-11 18:03:43 Skytel [005201246] D SH/TONE 4800    
+2001-09-11 18:03:43 Skytel [005415889] A  ALPHA  From: BreakingNe Subject: 
+2001-09-11 18:03:43 Skytel [1800019] A  ALPHA     ----   ----   6BZ    ----   ----   6CZ    ----   ----   
+2001-09-11 18:03:43 Skytel [004105962] C ST NUM  897-7234 (54   
+2001-09-11 18:03:43 Skytel [005231082] C ST NUM  703-289-1071   
+2001-09-11 18:03:43 Skytel [002269144] C ST NUM  888-382-2319   
+2001-09-11 18:03:43 Skytel [003509226] C ST NUM  301-577-4939   
+2001-09-11 18:03:43 Skytel [004402413] D ST NUM  480-720-1476   
+2001-09-11 18:03:43 Skytel [007517920] A  ALPHA  y-alerts@yahoo-inc.com|| Federal Reserve reports it is prepared to provide additional mon
+2001-09-11 18:03:43 Skytel [007519044] B  ALPHA  e reports it is prepared to provide additional money to nation's banking system 
+2001-09-11 18:03:43 Skytel [004590574] D SH/TONE 1       
+2001-09-11 18:03:43 Skytel [004755183] D ST NUM  415-567-4298   
+2001-09-11 18:03:43 Skytel [005331819] C SH/TONE 4917    
+2001-09-11 18:03:43 Skytel [007437798] B  ALPHA  970-2433 (44
+2001-09-11 18:03:43 Skytel [005436525] D  ALPHA  LNotes #57-IX_T1708
+2001-09-11 18:03:43 Skytel [005048291] A SH/TONE 8619    
+2001-09-11 18:03:43 Skytel [003904358] B ST NUM  412-498-7718   
+2001-09-11 18:03:43 Skytel [005062740] B ST NUM  408-365-2493   
+2001-09-11 18:03:43 Skytel [005202641] A SH/TONE 207-9369
+2001-09-11 18:03:44 Skytel [007100919] B  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Explosions rock Kabul, Afghanistan, CNN's Nic Robertson reports. Details soon.  For complete coverage of this story visit: http://www.CNN.com or AOL Keyword: CNN   C
+2001-09-11 18:03:45 Arch [0480215] B  ALPHA  ect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:45 Arch [0703652] B  ALPHA  Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect
+2001-09-11 18:03:45 Arch [0622964] B  ALPHA  (2)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:45 Arch [0330567] B  ALPHA   stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:45 Arch [1254730] C  ALPHA  (9)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect ti
+2001-09-11 18:03:45 Arch [0509863] B  ALPHA   time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:45 Arch [0555105] A  ALPHA  (5)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect
+2001-09-11 18:03:45 Skytel [005415889] A  ALPHA       CNN Breaking News BREAKING NEWS from CNN.com  -- Explosions rock Kabul, Afghanistan, CNN's Nic Robertson reports. Details soon.  For complete coverage of this story visit: http://www.CNN.com or AOL Keyword: CN
+2001-09-11 18:03:45 Skytel [003203318] B SH/TONE 972-1939
+2001-09-11 18:03:45 Skytel [005358069] B ST NUM  334-540-2221   
+2001-09-11 18:03:45 Skytel [007517920] A  ALPHA  ey to natio
+2001-09-11 18:03:45 Skytel [004088184] C ST NUM  248-399-1990   
+2001-09-11 18:03:45 Skytel [007488370] A SH/TONE 74936   
+2001-09-11 18:03:45 Skytel [007008628] B  ALPHA  Y! || Federal Reserve reports it is prepared to provide additional money to nation's banking system 
+2001-09-11 18:03:45 Skytel [002354558] D  ALPHA  corp.tmc@firstdatacorp.com||As 1655 There is no new update for the SmartTouch ou
+2001-09-11 18:03:45 Skytel [007519218] A  ALPHA  alert@msn.com||Mendota Heights - Tuesday: Partly Cloudy 69/47*Wednesday: Mostly 
+2001-09-11 18:03:45 Skytel [005314303] D ST NUM  1-909-698-9001 
+2001-09-11 18:03:45 Skytel [007512824] C  ALPHA  Y! || Federal Reserve reports it is prepared to provide additional money to nation's banking system 
+2001-09-11 18:03:45 Skytel [007008377] C  ALPHA  y-alerts@yahoo-inc.com|
+2001-09-11 18:03:46 Metrocall [1495977] C  ALPHA  (From AUTO01) IR:1284073 JOB:APDL051A ABD:S04C P:3 ON DALA 09/11 17:01
+2001-09-11 18:03:46 Metrocall [002119170] A  ALPHA  CALL ME
+2001-09-11 18:03:46 Metrocall [1281683] A  ALPHA  Frm: Illinois Association Of Realtors Sub: Lake County Meets RPAC Goal -- IAR Weekl
+2001-09-11 18:03:46 Metrocall [1560331] C  ALPHA  PAGING SYSTEM OK
+2001-09-11 18:03:46 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2791
+2001-09-11 18:03:46 Metrocall [002116951] B  ALPHA  Frm: wn@solutions.att.com Sub: AT&T Tkt#0060216-(877) 833-2770:Honeywell Txt: Teterboro, NJ. Bldg. 1. Sw
+2001-09-11 18:03:46 Skytel [007080449] A SH/TONE 1       
+2001-09-11 18:03:46 Skytel [005420933] B  ALPHA  Sherry, I would like to get your thoughts on this ( Fan Proposal ) I faxed it let me know if you do not receive. Thanks , Roland  (31
+2001-09-11 18:03:46 Skytel [005188466] A ST NUM  843-747-2067 (37    
+2001-09-11 18:03:46 Skytel [005256463] D SH/TONE 2101    
+2001-09-11 18:03:46 Skytel [003933444] B ST NUM  0-650-637-1533-508  
+2001-09-11 18:03:46 Skytel [002336779] C SH/TONE 99      
+2001-09-11 18:03:46 Skytel [005212287] D SH/TONE 99      
+2001-09-11 18:03:46 Skytel [007552116] B SH/TONE 99      
+2001-09-11 18:03:46 Skytel [002354558] D  ALPHA  tage. 1 out of 20 calls continue to be affected. Problems are being attributed to issues in New York. Updates will follow TMC.  
+2001-09-11 18:03:46 Skytel [004538249] C  ALPHA  {gsiprod}No RT Gov pos updates, now = 16:16:28, lastUpd = 10:04:57
+2001-09-11 18:03:46 Skytel [007008377] C  ALPHA  | Federal Reserve reports it is prepared to provide additional money to natio
+2001-09-11 18:03:46 Skytel [002401542] B SH/TONE 782-2870
+2001-09-11 18:03:46 Skytel [007009291] C  ALPHA  Y! || Federal Reserve reports it is prepared to provide additional money to nation's banking system 
+2001-09-11 18:03:47 Arch [0703652] B  ALPHA   time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:47 Arch [0873207] B  ALPHA  ghosie| leaving the office in 15 mins. let me know if you need a ride. 73236  
+2001-09-11 18:03:47 Arch [0938626] A  ALPHA  gluke|The m
+2001-09-11 18:03:47 Arch [1254730] C  ALPHA  me stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:47 Arch [1618173] D  ALPHA  herbc@fddi-desktop.csd.sgi.com//Time to start or change water. Tue Sep 11 15:00:
+2001-09-11 18:03:47 Arch [0555105] A  ALPHA   time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:47 Arch [0460735] D  ALPHA  Update: SF ERT
+2001-09-11 18:03:48 Arch [1328748] D  ALPHA  (16)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem h
+2001-09-11 18:03:48 Arch [0938626] A  ALPHA  eeting place number is (888)527-4180 ID 5270636. Gigi   
+2001-09-11 18:03:48 Metrocall [1281683] A  ALPHA  y Connection Txt: Dear RON HARDGROVE: September 11, 2001 Instant access to the most current local, state and national news for Illinois Association of REALTORS leadership, board presidents and asso
+2001-09-11 18:03:48 Metrocall [002116951] B  ALPHA  itch down since 5:56 EDT. After hours at s
+2001-09-11 18:03:48 Skytel [007520924] D  ALPHA  Y! || Federal Reserve reports it is prepared to provide additional money to nation's banking system 
+2001-09-11 18:03:48 Skytel [007524379] C  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Explosions rock Kabul, Af
+2001-09-11 18:03:48 Skytel [002824217] C  ALPHA  {gsiprod}No RT Gov pos updates, now = 16:16:28, lastUpd = 10:04:57
+2001-09-11 18:03:48 Skytel [007009565] D  ALPHA  Y! || Federal Reserve reports it is prepared to provide additional money to nation's banking system 
+2001-09-11 18:03:49 Arch [1052189] D  ALPHA  gluke|The meeting place number is (888)527-4180 ID 5270636. Gigi   
+2001-09-11 18:03:49 Arch [1223363] A  ALPHA  (9)30:ABS: Tkt:4899580, Sev:2, TIQ:3min, Queue:EVN6, Cust Name: GOAMERICA COMMUNICATIONS
+2001-09-11 18:03:49 Arch [1618173] D  ALPHA  02 PDT 2001
+2001-09-11 18:03:49 Arch [0873660] D  ALPHA  32:ABS: Tkt:4607742, Sev:2, Opened, Sname:CIRC, CIS Id:415048921, Contact:DSOC @ 8005466770 Note:**PLAINFEILD-IND.CIRCLE.COM**S0.1 SHOWS UP/UP, BUT NOT PASSING TRAFFIC ON HOST SIDE, DLCI TO IND SHOWS DN/DN. SEE NOTES FOR DETAILS.
+2001-09-11 18:03:49 Arch [0460735] D  ALPHA   availability has been furnished to ERTU. No teams anywhere have been deployed as of yet. We were told to standby/continue to get ready. Advise if you will not be deployable by 5 pm today.  Frank
+2001-09-11 18:03:50 Arch [1328748] D  ALPHA  as been
+2001-09-11 18:03:50 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 18:03:50 Arch [0509989] B  ALPHA  (12)Update 
+2001-09-11 18:03:50 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 186884. 
+2001-09-11 18:03:50 Arch [0987275] C  ALPHA  s0
+2001-09-11 18:03:50 Arch [0776844] D  ALPHA  From:sybase@iceland (d Sybase Production) @PRUDENTIAL Subject:Reporting database out of sync with Production database Body: Database      LastUpdate                 Latency(seconds)  ------------- -------------------------- ---------------
+2001-09-11 18:03:50 Arch [0163639] B  ALPHA  From:sybase@iceland (d Sybase Production) @PRUDENTIAL Subject:Reporting database out of sync with Production database Body: Database      LastUpdate                 Latency(seconds)  ------------- -------------------------- ---
+2001-09-11 18:03:50 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2791
+2001-09-11 18:03:50 Metrocall [002116951] B  ALPHA  ite, so low/no impact. Paged site contact, no response. Still attempting to contact him. Greg x4504
+2001-09-11 18:03:50 Skytel [007035683] A  ALPHA  scrutinize@emcweb.com|| TRG Uptime 0% OK, 1 monitor checked, 1 in error  
+2001-09-11 18:03:50 Skytel [002230953] C ST NUM  508-835-6800   
+2001-09-11 18:03:50 Skytel [005358755] A  ALPHA  Maureen_Stauber@Mastercard.com||From:Maureen StauberSAM Replication is caught up. Please join the conference call 1-877-864-2828 - - -PIN 207539#. As soon as possible. Roberto we will need an update if possible. Thx, Maureen  
+2001-09-11 18:03:51 Metrocall [0477731] A  ALPHA  Can you e:mail a copy of the master book that has property questions and answers for LVH. Also if I need to add in more questions who do I give this to? Christine 866-1362
+2001-09-11 18:03:51 Metrocall [1544818] A  ALPHA  WDC-MAIL03 "Server WDC-MAIL03
+2001-09-11 18:03:51 Metrocall [1544820] B  ALPHA  WDC-MAIL03 "Server WDC-MAIL03/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail3.box. "
+2001-09-11 18:03:51 Metrocall [002589924] B  ALPHA  Frm: reynoldscm@att.com Sub: Info:UNITED HEALTH GROUP Txt: Thanks St
+2001-09-11 18:03:52 Arch [0509989] B  ALPHA  4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:52 Arch [0987275] C  ALPHA  191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-11 18:03:52 Arch [0462939] C  ALPHA  641-1642
+2001-09-11 18:03:52 Arch [1329879] B  ALPHA  Y! <y-finance@ya|Be mobile with Compaq CPQ 0.00 0.00; USAUX 26.52 -0.20; Delayed Reuters 
+2001-09-11 18:03:52 Arch [0776844] D  ALPHA  -
+2001-09-11 18:03:52 Arch [1608305] A  ALPHA  corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:52 Arch [0196106] C  ALPHA  (24)corrected.  All centers on the Asp
+2001-09-11 18:03:52 Arch [0163639] B  ALPHA  -------------
+2001-09-11 18:03:52 Arch [1618265] C  ALPHA  moms@plaza_bb.ad|Moms Alarm|Fac:->Downtown Loc:->Lane 71 at 11th St. at 2001-09-07 06:26:13 Inc#:->11190 ACM REJECTING ALL COINS 
+2001-09-11 18:03:52 Arch [1422639] D  ALPHA  (3)Update 4232857. PROB: IEX Time stamp issu
+2001-09-11 18:03:52 Skytel [005342524] D  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Explosions rock Kabul, Afghanistan, CNN's Nic Robertson reports. Details soon.  For complete coverage of this story visit: http://www.CNN.com or AOL Keyword: CNN   C
+2001-09-11 18:03:52 Skytel [005210165] B  ALPHA  Maureen_Stauber@Mastercard.com||From:Maureen StauberSAM Replication is caught up. Please join the conference call 1-877-864-2828 - - -PIN 207539#. As soon as possible. Roberto we will need an update if possible. Thx, Maureen  
+2001-09-11 18:03:52 Skytel [007007927] B  ALPHA  Y! || Federal Reserve reports it is prepared to provide additional money to nati
+2001-09-11 18:03:52 Skytel [007522617] C  ALPHA  Y! || Federal Reserve reports it is prepared to provide additional money to nati
+2001-09-11 18:03:52 Skytel [007518135] B  ALPHA  Y! || Federal Reserve reports it is prepared to provide additional money to nation's banking system 
+2001-09-11 18:03:52 Skytel [005046969] C ST NUM  25) 893-0442   
+2001-09-11 18:03:52 Skytel [007047868] D SH/TONE 595-4131
+2001-09-11 18:03:52 Skytel [005368511] D SH/TONE 1174    
+2001-09-11 18:03:52 Skytel [007592639] D ST NUM  8002061803
+2001-09-11 18:03:52 Skytel [007592765] D ST NUM  847-390-5300   
+2001-09-11 18:03:53 Metrocall [1544818] A  ALPHA  /MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail3.box. "
+2001-09-11 18:03:53 Metrocall [002589924] B  ALPHA  eve We got it and updated the spreadsheet
+2001-09-11 18:03:53 Metrocall [1363808] A  ALPHA  Frm: Y! Txt: Federal Reserve reports it is prepared to provide additional money to nation's banking system as needed following terrorist attacks.
+2001-09-11 18:03:54 Arch [0310083] A  ALPHA  corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:54 Arch [0653433] C  ALPHA  (10)corrected.  All centers on the Asp
+2001-09-11 18:03:54 Arch [1408050] A  ALPHA  (7)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:54 Arch [1047928] C  ALPHA  737-4232
+2001-09-11 18:03:54 Arch [0196106] C  ALPHA  ect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:54 Arch [0284616] C  ALPHA  297-5435
+2001-09-11 18:03:54 Arch [1377504] A  ALPHA  (11)corrected.  All centers on the Aspect Rel.6 are now updating, an
+2001-09-11 18:03:54 Arch [1422639] D  ALPHA  e. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has been
+2001-09-11 18:03:54 Arch [1231586] A  ALPHA  (5)corrected.  All centers on the Aspect Rel
+2001-09-11 18:03:54 Skytel [005210569] C SH/TONE 01      
+2001-09-11 18:03:54 Skytel [004394699] C SH/TONE 7408    
+2001-09-11 18:03:54 Skytel [005344198] B  ALPHA  BreakingNews@CNN.COM|     CNN Breaking News|BREAKING NEWS from CNN.com  -- Explosions rock Kabul, Afghanistan, CNN's Nic Robertson reports. Details soon.  For complete coverage of this story visit: http://www.CNN.com or AOL Keyword: CNN   C
+2001-09-11 18:03:54 Skytel [005213129] C SH/TONE 4021    
+2001-09-11 18:03:55 Metrocall [0474790] B  ALPHA  TOM, PLS CALL THE OFFICE. THX, JACKIE.
+2001-09-11 18:03:55 Metrocall [1314835] A  ALPHA  s3,00501641,ack,WILEM_NM2 ,WILEM_NM2 S
+2001-09-11 18:03:56 Arch [0653433] C  ALPHA  ect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:56 Arch [0460533] B  ALPHA  (26)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still wai
+2001-09-11 18:03:56 Arch [1006965] B  ALPHA  (19)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:56 Arch [1071403] C  ALPHA  (7)corrected.  All centers on the Aspect Rel.6 are
+2001-09-11 18:03:56 Arch [1377504] A  ALPHA  d we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:56 Arch [1359850] C  ALPHA  (23)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX cha
+2001-09-11 18:03:56 Arch [1231586] A  ALPHA  .6 are now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:56 Arch [0265361] A  ALPHA  corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Re
+2001-09-11 18:03:56 Skytel [007660371] A SH/TONE 675593  
+2001-09-11 18:03:56 Skytel [003443153] A SH/TONE 1536    
+2001-09-11 18:03:56 Skytel [004747735] B ST NUM  603-695-0038   
+2001-09-11 18:03:56 Skytel [004517082] C SH/TONE 577-5000
+2001-09-11 18:03:56 Skytel [002469721] C ST NUM  619-636-3333   
+2001-09-11 18:03:56 Skytel [003513945] C SH/TONE 372-2465
+2001-09-11 18:03:56 Skytel [002775002] C SH/TONE 220-5811
+2001-09-11 18:03:56 Skytel [005180376] C ST NUM  302-283-0764   
+2001-09-11 18:03:56 Skytel [004757343] D SH/TONE 337-5549
+2001-09-11 18:03:56 Skytel [005509465] C  ALPHA  18) Maureen_Stauber@Mastercard.com||From:Maureen StauberSAM Replication is caught up. Please join the conference call 1-877-864-2828 - - -PIN 207539#. As soon as possible. Roberto we will need an update if possible. Thx, Maureen  
+2001-09-11 18:03:58 Arch [0460533] B  ALPHA  ting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:58 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-11 18:03:58 Arch [0508017] A  ALPHA  corrected.  All centers on the A
+2001-09-11 18:03:58 Arch [1071403] C  ALPHA   now updating, and we are still waiting for fixes for the Rel.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:58 Arch [1424911] D  ALPHA  (15)corrected.  All centers on the Aspect Rel.6 are now updating, and we are still waiting for fixes for the Rel.
+2001-09-11 18:03:58 Arch [1359850] C  ALPHA  nged by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:58 Arch [1604155] C  ALPHA  (18)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull re
+2001-09-11 18:03:58 Arch [0265361] A  ALPHA  l.7s that IEX changed by mistake. NXTUPD: 19:00 9/11/2001...Brandi/EM
+2001-09-11 18:03:58 Arch [1081772] D  ALPHA  (32)Update 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are un
+2001-09-11 18:03:58 Skytel [005362273] A SH/TONE 577-5000
+2001-09-11 18:03:58 Skytel [007574889] C ST NUM  210-674-2095   
+2001-09-11 18:03:58 Skytel [004211177] C ST NUM  614-492-1231 (35    
+2001-09-11 18:03:58 Skytel [005195496] C SH/TONE 3510    
+2001-09-11 18:03:58 Skytel [005358445] D SH/TONE 7       
+2001-09-11 18:03:59 Skytel [007518327] B  ALPHA  Y! ||Be mobile with Compaq F 0.00 0.00; INTC 0.00 0.00; MSFT 0.00 0.00; Delayed Reuters  
+2001-09-11 18:03:59 Skytel [007519358] D  ALPHA  Y! || Federal Reserve reports it is prepared to provide additional money to nation's banking system 
+2001-09-11 18:03:59 Skytel [005186041] C SH/TONE 230-3750
+2001-09-11 18:03:59 Skytel [004668925] D ST NUM  302-278-2814 (70    
+2001-09-11 18:03:59 Skytel [003455103] D ST NUM  800-207-5309 (49    

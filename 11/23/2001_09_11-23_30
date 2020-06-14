@@ -1,0 +1,116 @@
+2001-09-11 23:30:00 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7939
+2001-09-11 23:30:00 Skytel [003780342] B  ALPHA  ALL IMPORT SRS. AND MGRS. PLEASE MEET IN THE INT'L CONTROL AT 2240..-ICR
+2001-09-11 23:30:00 Skytel [007109749] B ST NUM  0-151-701-1174-67   
+2001-09-11 23:30:00 Skytel [005175031] B ST NUM  404-305-4380   
+2001-09-11 23:30:00 Skytel [002390522] C  ALPHA  _sqlsvc@compasstools.com|2-Leads| 
+2001-09-11 23:30:02 Arch [1398238] D  ALPHA  knox6060(161.44.216.60): failed ifDescr check, expected: hme0, got: timeout for hme0
+2001-09-11 23:30:02 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-11 23:30:02 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 20:28:30 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 23:30:02 Skytel [005331713] A ST NUM  872-796-6972   
+2001-09-11 23:30:02 Skytel [007570317] D SH/TONE 952     
+2001-09-11 23:30:03 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-11 23:30:03 Skytel [005108501] B  ALPHA  OO 14.05 UNCH RAYS 0.00 UNCH (69
+2001-09-11 23:30:03 Skytel [004586902] B ST NUM  302-561-0263   
+2001-09-11 23:30:03 Skytel [007595807] D ST NUM  261-993-4397   
+2001-09-11 23:30:05 Arch [0921098] C  ALPHA  lbiancul|team: Cisco NYC office will be open however stay out of NYC on Wed. as NYC will be chaos. Frank Palumbo doesn't want anyone reporting into nyc tomorrow.   
+2001-09-11 23:30:05 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-11 23:30:05 Arch [0902873] C  ALPHA  Bernard Dunn|dunn : agent state trace - come from symp or pim? Thx. drop me an email ||86  
+2001-09-11 23:30:05 Arch [0578226] A  ALPHA  "6+]8;]C@RGFwSPO|Cb7QW"2a5C4s=1|> ---------- > From: 6+]8;]C@RGFwSPO^9+K>[SMTP:WEBMASTER@WELLMATE.COM.CN] > Sent: Sunday, December 31, 2000 8:29:51 PM > Subject: Cb7QW"2a5C4s=1 > Auto forwarded by a Rule > HtR*H!O{;rA*O5#,Gk;X84#:webmaster@w
+2001-09-11 23:30:05 Arch [0241739] C  ALPHA  lbiancul|team: Cisco NYC office will be open however stay out of NYC on Wed. as NYC will be chaos. Frank Palumbo doesn't want anyone reporting into nyc tomorrow.   
+2001-09-11 23:30:05 Arch [0936449] A  ALPHA  phtrinh|If U can go for coffee tomorrow morning,9/12, reply me with number 65
+2001-09-11 23:30:05 Skytel [005001895] B  ALPHA  [sps/16] 104 supplier.intel.com relay-ssl 0.0 FAILURE Server closedconnection immediately. (/seem/healthcheck.asp) 2:15:14
+2001-09-11 23:30:07 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-11 23:30:07 Arch [0936449] A  ALPHA  .   
+2001-09-11 23:30:07 Skytel [005110712] C SH/TONE 24      
+2001-09-11 23:30:09 Skytel [004570304] A  ALPHA  _sqlsvc@compasstools.com|2-Leads| 
+2001-09-11 23:30:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE .P..A..A.A ..I.....0A@9.
+2001-09-11 23:30:11 Arch [0927050] C  ALPHA  212 755-4771
+2001-09-11 23:30:11 Skytel [007657299] A ST NUM  811-749-4287   
+2001-09-11 23:30:13 Skytel [003914349] D  ALPHA  _sqlsvc@compasstools.com|1-Leads| 
+2001-09-11 23:30:13 Skytel {1307720} 1 2400 Host Upa DOWN at 00:54:43
+2001-09-11 23:30:14 Skytel {0748871} 3 1200 800-759-8255   
+2001-09-11 23:30:17 Metrocall [1697250] A  ALPHA  Gibson, Bryan: hey guys, UHU for today  .53,  we have had 75 calls in memphis transported and 3 in tunica.  have a nice evening.   thankyou akj
+2001-09-11 23:30:17 Metrocall [1144725] B  ALPHA  Miller, Glenn: hey guys, UHU for today  .53,  we have had 75 calls in memp
+2001-09-11 23:30:19 Metrocall [1144725] B  ALPHA  his transported and 3 in tunica.  have a nice evening.   thankyou akj
+2001-09-11 23:30:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0862
+2001-09-11 23:30:22 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190613. 
+2001-09-11 23:30:22 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-11 23:30:23 Skytel {0533398} 1 1200 583-1091  
+2001-09-11 23:30:24 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-11 23:30:26 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-11 23:30:28 Arch [1622721] A  ALPHA  F: cmnorth     From: dcumming - 3MKT build 3M0.1.1.1 patch 67 Completed for build request 7084. Requested by Deborah Cummings.
+2001-09-11 23:30:28 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-11 23:30:28 Arch [1306347] C  ALPHA  71-PLEASE CALL SEAN AT 630-960-5516.  WONDERING IF WE ARE TRADING TOMORROW.
+2001-09-11 23:30:28 Arch [1412710] B  ALPHA  F: cmnorth     From: dcumming - 3MKT build 3M0.1.1.1 patch 67 Completed for build request 7084. Requested by Deborah Cummings.
+2001-09-11 23:30:29 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3118
+2001-09-11 23:30:29 Metrocall [0000329] C  ALPHA  TH.........E.....R................................18
+2001-09-11 23:30:30 Arch [0769444] B  ALPHA  11-07-10
+2001-09-11 23:30:30 Arch [0936036] B  ALPHA  'lon-sls-rtr-s0' is unreachable. Circuit down?
+2001-09-11 23:30:32 Arch [0495033] C  ALPHA  4888
+2001-09-11 23:30:32 Skytel [005067780] B SH/TONE 477-1080
+2001-09-11 23:30:32 Skytel [007547521] A ST NUM  416-5342-21    
+2001-09-11 23:30:32 Skytel [007027716] B ST NUM  314-727-3742   
+2001-09-11 23:30:32 Skytel [002844427] C ST NUM  903-473-4265-911    
+2001-09-11 23:30:32 Skytel [005257347] A ST NUM  303-261-9039 (62    
+2001-09-11 23:30:32 Skytel [005236495] D ST NUM  110005052 
+2001-09-11 23:30:32 Skytel [005509770] C  ALPHA  _sqlsvc@compasstools.com|1-Leads| 
+2001-09-11 23:30:33 Skytel [003496597] B SH/TONE 20      
+2001-09-11 23:30:33 Skytel [005192087] B  ALPHA  flashnet@intelcenter.com|FlashNet Event|2-3 people arrested. Van with explosive device(s) found possibly on  NJ Turnpike near NYC's George Washington Bridge.  
+2001-09-11 23:30:33 Skytel [007464346] C SH/TONE 754-5571
+2001-09-11 23:30:33 Skytel [007588636] D SH/TONE 3306    
+2001-09-11 23:30:35 Skytel [005183010] A ST NUM  410-368-4353   
+2001-09-11 23:30:35 Skytel [005051043] A  ALPHA  intasgac@brocu1m.bst.bls.com|Resource monitor results|oracle: INTAS_DATA  70% utilization, exceeding limit 70%  
+2001-09-11 23:30:35 Skytel [007001640] C  ALPHA  949-854-0603-411 U [2389.MILLER WM R         
+2001-09-11 23:30:35 Skytel [002279468] D SH/TONE 5333    
+2001-09-11 23:30:35 Skytel [005211809] A  ALPHA  flashnet@intelcenter.com|FlashNet Event|2-3 people arrested. Van with explosive device(s) found possibly on  NJ Turnpike near NYC's George Washington Bridge.  
+2001-09-11 23:30:37 Skytel [004740287] D  ALPHA  779-7230 U [6265
+2001-09-11 23:30:37 Skytel [002743861] B SH/TONE 49514   
+2001-09-11 23:30:37 Skytel [005058097] A  ALPHA  IntelliWatch Monitor: WARNING - Server CSOAU009/Cupertino/HP/US HAS crashed. Starting IWRecycle.
+2001-09-11 23:30:37 Skytel [005523259] C  ALPHA  GidgetteN@aol.com|(no subject)|Are you thinking of me?  Well, I'm missing you even more because of today.   What do I do?  Hugs and kisses.  G.  Ps call me if you can't sleep.  
+2001-09-11 23:30:38 Metrocall [1064375] B  ALPHA  NIKK _9773.71  -0519 HSI _9473.08   -0944 SSI  1449.19    -117 ORD  3061.60    -121 KS11  474.62  -65.95 TWII 4176.93  -112.1 30 _99.02/03  5.438% GOLD 279.00/300 -700 S 4.20/30  PL 450.00 PD 462.00  JG 1.450%
+2001-09-11 23:30:38 Metrocall [1544818] A  ALPHA  KP-CENTRAL "Server KP-CENTRAL/HSVR/KAIPERM - There are 4.0 dead mail messages. Possible mail system problems. "
+2001-09-11 23:30:39 Skytel [007518665] C  ALPHA  Y! ||Be mobile with Compaq dji unavailable. ixic unavailable. SPC 0.00 0.00; Delayed Reuters  
+2001-09-11 23:30:41 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-11 23:30:41 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190620. 
+2001-09-11 23:30:41 Skytel [005491543] B SH/TONE 464     
+2001-09-11 23:30:41 Skytel [005227352] C ST NUM  101-390-1711   
+2001-09-11 23:30:43 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-11 23:30:43 Arch [0000101] B  ALPHA  MSN 002 hello Message from NOC PCB.
+2001-09-11 23:30:43 Arch [1603197] D  ALPHA  540-2065
+2001-09-11 23:30:43 Skytel [004677481] C ST NUM  203-1168-21    
+2001-09-11 23:30:43 Skytel [007459820] D ST NUM  96868681436868686868
+2001-09-11 23:30:45 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-11 23:30:45 Arch [0936449] A  ALPHA  phtrinh|If U can go for coffee tomorrow morning,9/12, reply me with number 65.   
+2001-09-11 23:30:45 Skytel [004546929] A SH/TONE 539-2571
+2001-09-11 23:30:45 Skytel [004734832] A ST NUM  0-408-272-2959 
+2001-09-11 23:30:46 Skytel [005507202] A  ALPHA  flashnet@intelcenter.com|FlashNet Event|2-3 people arrested. Van with explosive device(s) found possibly on  NJ Turnpike near NYC's George Washington Bridge.  
+2001-09-11 23:30:46 Skytel [005253888] A ST NUM  506-494-6999   
+2001-09-11 23:30:46 Skytel [007653641] C SH/TONE 291-7845
+2001-09-11 23:30:48 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-11 23:30:48 Skytel [007457563] C SH/TONE 305-5650
+2001-09-11 23:30:48 Skytel [005351961] C  ALPHA  According to the JPL web site, the Laboratory will be closed Wednesday.  --Greg
+2001-09-11 23:30:48 Skytel [007779102] D  ALPHA  Subj: au.ltl_run_receive: au ERROR ON STEP 100 - 550
+2001-09-11 23:30:48 Skytel [002861584] A ST NUM  8685429388
+2001-09-11 23:30:49 Metrocall [1544820] B  ALPHA  WDC-MAIL03 "Server WDC-MAIL03/MSVR/KAIPERM - The following pending documents in mail2.box are older than 30 minutes 176A42"
+2001-09-11 23:30:49 Metrocall [1495978] C  ALPHA  (From AUTO02) IR:1284223 JOB:PI00030A ABD:U1181 P:3 ON COLC 09/11 22:20
+2001-09-11 23:30:50 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-11 23:30:50 Skytel [005308197] B ST NUM  828-580-5333   
+2001-09-11 23:30:52 Skytel [007512754] A  ALPHA  y-weather@yahoo-inc.com||iPAQ Pocket PC Now from $499 Modesto CA Sunny 55 - 81 F  WNI  
+2001-09-11 23:30:52 Skytel [005508280] C ST NUM  403-582-8284   
+2001-09-11 23:30:52 Skytel [005080756] B ST NUM  440-898-1801-911    
+2001-09-11 23:30:54 Arch [0015149] D  ALPHA  atn0 severe atn0 PT031 4 resync/test after ipt stopped/started: RESYNC:FAIL TESTIPT:FAIL Possible Comm problem!! AT Wed Sep 12 03:31:03 GMT 2001
+2001-09-11 23:30:54 Arch [0183689] C  ALPHA  atn0 severe atn0 PT031 4 resync/test after ipt stopped/started: RESYNC:FAIL TESTIPT:FAIL Possible Comm problem!! at Wed Sep 12 03:31:03 GMT 2001
+2001-09-11 23:30:54 Arch [1030028] D  ALPHA  202 392-1118
+2001-09-11 23:30:54 Arch [1651078] B  ALPHA  290-2277
+2001-09-11 23:30:56 Arch [1651078] B  ALPHA  375-7947
+2001-09-11 23:30:56 Skytel [007064658] A ST NUM  571182714314314313  
+2001-09-11 23:30:56 Skytel [004040020] B  ALPHA  785-267-1672
+2001-09-11 23:30:56 Skytel [004214621] D  ALPHA  123-695-7424 (94
+2001-09-11 23:30:56 Skytel [002936906] C ST NUM  *    *         * *  
+2001-09-11 23:30:56 Skytel [005061965] D ST NUM  607-935-1412   
+2001-09-11 23:30:56 Skytel [005555279] D  ALPHA  23:30:50 BY00642 HAS NOT STARTED. AUTOMATIC CLEARING HOUSE JOB.
+2001-09-11 23:30:57 Metrocall [1064378] C  ALPHA  NZ FINMIN SAYS BOARD OF AIR NZ  WILL NEED TO MAKE Nu[TQEEkMSy.NxONcBNsN.<O
+2001-09-11 23:30:58 Skytel [005436525] D  ALPHA  Test #26
+2001-09-11 23:30:59 Metrocall [1055701] B  ALPHA  Bernice Please call  Mark   at the Help Desk, 303-778-2788. Thank you. Help Desk/Telepage
+2001-09-11 23:30:59 Metrocall [1544820] B  ALPHA  WDC-MAIL04 "Server WDC-MAIL04/MSVR/KAIPERM - The following pending documents in mail1.box are older than 30 minutes 155572,155576,15557A"
+2001-09-11 23:30:59 Metrocall [1144068] B  ALPHA   MIKE

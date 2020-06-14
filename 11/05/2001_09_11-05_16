@@ -1,0 +1,72 @@
+2001-09-11 05:16:01 Metrocall [1544357] B  ALPHA  Frm: Patrol Admin. Txt: ktazp7 Alert on 'AM_Hosts.ktazp55.HOAgentAlive' from global parameter 'HOAgentAlive' cancelled; exception no longer exists.
+2001-09-11 05:16:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2023
+2001-09-11 05:16:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2023
+2001-09-11 05:16:01 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 02:14:31 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:16:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6845
+2001-09-11 05:16:05 Skytel [004024864] A  ALPHA  wingmon@firstusa.com||SiteScope stweb109 cpu stweb109 28363 no data    ********************************************************************** This transmission may contain information that is privileged, confidential and/or exempt from disc
+2001-09-11 05:16:05 Skytel [005105954] A ST NUM  534-318-7143-1871431
+2001-09-11 05:16:07 Skytel [0001461] B  ALPHA  GLOBEX   04:15     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109825B  250+   SPU  109820   250+   NDU  138100  1050+   6JZ    8284B   59-   6EZ    8943B   37-   6SZ    5923A   17-   6BZ   14484B   44-   6CZ    6396     6+   
+2001-09-11 05:16:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178284. 
+2001-09-11 05:16:08 Skytel [005525323] C SH/TONE 208     
+2001-09-11 05:16:08 Skytel [004213067] C  ALPHA  676-4444 (77
+2001-09-11 05:16:10 Arch [0915648] A  ALPHA  FLSCHOWDM01:Device Inaccessible
+2001-09-11 05:16:10 Skytel [1800019] A  ALPHA  GLOBEX   04:15     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109825B  250+   SPU  109820   250+   NDU  138100  1050+   6JZ    8284B   59-   6EZ    8943B   37-   6SZ    5923A   17-   6BZ   14484B   44-   6CZ    6396     6+   
+2001-09-11 05:16:11 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE > 1 HL Faults       Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[031]  dev_err[239]
+2001-09-11 05:16:11 Metrocall [0476060] D  ALPHA  Frm: siteseer@freshtech.com Sub: SiteScope Alert, good, AccountAccess, 22.96 sec, 16 steps, 41K (siteseer5.freshwater.com) Txt: SiteScope AccountAccess navyfederal.org 4103 22.96 sec, 16 steps, 41K
+2001-09-11 05:16:12 Arch [0634239] D  ALPHA  8429*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:16 OMA-PIXIN01 %PIX-1-105007: Primary Link status 'Down' on interface 0
+2001-09-11 05:16:12 Arch [0986081] A  ALPHA  8429*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:16 OMA-PIXIN01 %PIX-1-105007: Primary Link status 'Down' on interface 0
+2001-09-11 05:16:12 Arch [0810070] B  ALPHA  8429*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:16 OMA-PIXIN01 %PIX-1-105007: Primary Link status 'Down' on interface 0
+2001-09-11 05:16:12 Arch [1079409] A  ALPHA  8429*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:16 OMA-PIXIN01 %PIX-1-105007: Primary Link status 'Down' on interface 0
+2001-09-11 05:16:13 Arch [0634239] D  ALPHA  1693*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:16 OMA-PIXIN01 %PIX-1-104002: Primary Switching to STNDBY.
+2001-09-11 05:16:13 Arch [0986081] A  ALPHA  1693*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:16 OMA-PIXIN01 %PIX-1-104002: Primary Switching to STNDBY.
+2001-09-11 05:16:13 Arch [0810070] B  ALPHA  1693*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:16 OMA-PIXIN01 %PIX-1-104002: Primary Switching to STNDBY.
+2001-09-11 05:16:18 Skytel [007046040] C  ALPHA  CAR 1200,MAR UP(70),
+2001-09-11 05:16:19 Arch [1079409] A  ALPHA  1693*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:16 OMA-PIXIN01 %PIX-1-104002: Primary Switching to STNDBY.
+2001-09-11 05:16:19 Arch [0986081] A  ALPHA  5755*9/11/01 4:12:41 AM Rtr_Cisco W11_Inet02 Device not responding
+2001-09-11 05:16:19 Arch [0810070] B  ALPHA  5755*9/11/01 4:12:41 AM Rtr_Cisco W11_Inet02 Device not responding
+2001-09-11 05:16:19 Arch [0634239] D  ALPHA  5755*9/11/01 4:12:41 AM Rtr_Cisco W11_Inet02 Device not responding
+2001-09-11 05:16:20 Metrocall [1457944] C  ALPHA  Frm: ClearSupport@NortelNetworks.com Sub: ClearSupport Case 010911-8356 (E1/E2/BC Creation) Txt: Summary: 09/11/2001 03:48:21 | Qwest Corporation | Qwest Corporation - FRASER, CO. - 4/S | Les Phipps | E2 | Switching | DMS-10 Date: 09/11/200
+2001-09-11 05:16:20 Metrocall [1899090] A  ALPHA  IMMC//E.R. 773 296 5878  PT GISELLE ROSARIO  4:05-1-11/09
+2001-09-11 05:16:21 Arch [1079409] A  ALPHA  5755*9/11/01 4:12:41 AM Rtr_Cisco W11_Inet02 Device not responding
+2001-09-11 05:16:21 Arch [0986081] A  ALPHA  1579*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:16 OMA-PIXIN02 %PIX-1-104001: Secondary Switching to ACTIVE cause: fail reported by the other side.
+2001-09-11 05:16:21 Arch [0810070] B  ALPHA  1579*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:16 OMA-PIXIN02 %PIX-1-104001: Secondary Switching to ACTIVE cause: fail reported by the other side.
+2001-09-11 05:16:21 Skytel [004730171] C  ALPHA  KAREEMA WORLD COM. 4TH LEVEL ESCALATION. NEED VERIZON UPDATE.  800-937-2862
+2001-09-11 05:16:23 Arch [1079409] A  ALPHA  1579*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:16 OMA-PIXIN02 %PIX-1-104001: Secondary Switching to ACTIVE cause: fail reported by the other side.
+2001-09-11 05:16:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9768
+2001-09-11 05:16:27 Arch [0634239] D  ALPHA  1579*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:16 OMA-PIXIN02 %PIX-1-104001: Secondary Switching to ACTIVE cause: fail reported by the other side.
+2001-09-11 05:16:27 Arch [0986081] A  ALPHA  9027*2H252_25R 10.100.1.232 has lost connectivity
+2001-09-11 05:16:27 Arch [1079409] A  ALPHA  9027*2H252_25R 10.100.1.232 has lost connectivity
+2001-09-11 05:16:27 Arch [0810070] B  ALPHA  9027*2H252_25R 10.100.1.232 has lost connectivity
+2001-09-11 05:16:29 Arch [0634239] D  ALPHA  9027*2H252_25R 10.100.1.232 has lost connectivity
+2001-09-11 05:16:29 Arch [0986081] A  ALPHA  0543*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:17 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 2 waiting
+2001-09-11 05:16:29 Arch [0810070] B  ALPHA  0543*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:17 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 2 waiting
+2001-09-11 05:16:30 Arch [0634239] D  ALPHA  0543*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:17 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 2 waiting
+2001-09-11 05:16:30 Arch [0925366] B  ALPHA   318643;Sep 11 01:17:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 05:16:30 Metrocall [1399095] B  ALPHA  Frm: risman@firstusa.com Sub: BCEW Completed(2): 0 Txt: Tue Sep 11 05:16:46 EDT 2001
+2001-09-11 05:16:30 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage detected on SHWW: 148 seconds so far 09/11/01 02:14:32 PDT7 621054
+2001-09-11 05:16:30 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage detected 
+2001-09-11 05:16:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3416
+2001-09-11 05:16:30 Metrocall [0668217] C  ALPHA  Server Beci SMTP SVCDOWN at 04:15:23
+2001-09-11 05:16:31 Metrocall [0477913] C  ALPHA  on HBOW: 151 seconds so far 09/11/01 02:14:35 PDT7 621057
+2001-09-11 05:16:40 Arch [0968864] A  ALPHA  (17)The file: SWSTTD1H is out of date.
+2001-09-11 05:16:40 Skytel [005049171] A  ALPHA  Hey AFSC called when morning check of kh31 adv. feat. platform menu msg: system temp unavail? I can login OK but can recreate error. Erin 908-803-8779
+2001-09-11 05:16:41 Metrocall [1696985] C  ALPHA  Frm: Super-User Sub: Error Messages Txt: Sep 11 04:39:25 mufasa.navsea.navy.mil syslog: Solstice Backup Savegroup: (notice) mufasa1 completed, 1 client (All Succeeded) Sep 11 04:39:25 mufasa.navsea.na
+2001-09-11 05:16:41 Metrocall [1457370] C  ALPHA  Frm: Super-User Sub:
+2001-09-11 05:16:41 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage detected on VAL: 161 seconds so far 09/11/01 02:14:45 PDT7 621049
+2001-09-11 05:16:42 Skytel [004687214] D  ALPHA  09/11/01-03:13:34 - Interface_Up den3640.emg-tv.com DEN-NYC-PRI.FR Hs1/0.39 Normal
+2001-09-11 05:16:43 Arch [1079409] A  ALPHA  0543*NETLOGGER: Undocumented PIX Error: Sep 11 05:16:17 OMA-PIXIN02 %PIX-1-105003: Secondary Monitoring on interface 2 waiting
+2001-09-11 05:16:43 Metrocall [1457370] C  ALPHA   Error Messages Txt: Sep 11 04:39:25 mufasa.navsea.navy.mil syslog: Solstice Backup Savegroup: (notice) mufasa1 completed, 1 client (All Succeeded) Sep 11 04:39:25 mufasa.navsea.na
+2001-09-11 05:16:44 Skytel [002357369] C  ALPHA  002224 CYCLIC TEST 
+2001-09-11 05:16:44 Skytel [003327216] A  ALPHA  002224 CYCLIC TEST 
+2001-09-11 05:16:44 Skytel [002139900] D SH/TONE 002224  
+2001-09-11 05:16:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178291. 
+2001-09-11 05:16:47 Arch [0432616] C  ALPHA  07-PLEASE CALL JOE LAPOLLO. 732-563-8670.
+2001-09-11 05:16:48 Skytel [007655697] A ST NUM  223-756-0687   
+2001-09-11 05:16:48 Skytel [005245718] B SH/TONE 70568   
+2001-09-11 05:16:48 Skytel [007641751] B SH/TONE 5827    
+2001-09-11 05:16:57 Arch [0945064] C  ALPHA  502-1615
+2001-09-11 05:16:57 Skytel [005112809] C  ALPHA  04:16CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240464: Uncorrectable write error
+2001-09-11 05:16:57 Skytel [005436525] D  ALPHA  Test #26-IX_T0212
+2001-09-11 05:16:57 Skytel [004524770] A  ALPHA  wil-PerryRestGroup-ShelburneVT-0: CPE Up at 00:59:37 on 9/11
+2001-09-11 05:16:59 Skytel [002842744] C SH/TONE 99      
+2001-09-11 05:16:59 Skytel [007109749] B ST NUM  700-0171-73    

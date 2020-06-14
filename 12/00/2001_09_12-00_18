@@ -1,0 +1,102 @@
+2001-09-12 00:18:00 Skytel [005003254] B  ALPHA  I/S Remedy: GPM ID: HK00091072 - High  - Transferred - Single User - User: DAVID KA WAI HU x 2101 6051 TES013D008 - The CSFB FIX server 169.39.2.40 cannot connect into Bloomberg EOR host 160.43.93.23.  This is the external connection go thr
+2001-09-12 00:18:00 Skytel [007467893] B SH/TONE 740-1108
+2001-09-12 00:18:00 Skytel [002382588] D SH/TONE 99      
+2001-09-12 00:18:00 Skytel [004550906] C ST NUM  712-729-8144   
+2001-09-12 00:18:00 Skytel [002281597] D ST NUM  201-275-5952   
+2001-09-12 00:18:03 Skytel [005000338] A  ALPHA  CSL UPDATE: 11(10) 1'48" LT SBA, 14(10) 64" LT TAC, 11(11) 3'14" LT EUG, 14(11) 2'24" LT PRB. RON-AMW OPS
+2001-09-12 00:18:03 Skytel [004707990] B ST NUM  0-916-682-3093 
+2001-09-12 00:18:03 Skytel [004744858] C ST NUM  655-9644 (8    
+2001-09-12 00:18:05 Skytel [003703593] C ST NUM  225-9937 (37   
+2001-09-12 00:18:06 Skytel {1891159} 3 1200 4444 
+2001-09-12 00:18:07 Skytel {1175875} 1 2400 9692 U (23.
+2001-09-12 00:18:08 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4557
+2001-09-12 00:18:19 Metrocall [1064384] A  ALPHA  Y/C  72.53/63   +81 SGD 1.7370/390 +010 HKD 7.7987/998 -007 TWD 34534/4540 -086  IDR  9040/9090 -045 PHP 51.140/240 -060 MYR 3.7995/005 +000 THB 44.380/440 +080 KRW12860/12960 +060 ZAR 8.6000/100 +889 MXN  9.510/530 +116 
+2001-09-12 00:18:20 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0910
+2001-09-12 00:18:22 Arch [0987275] C  ALPHA  s0191: 09/11 11:42:59 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:42:59
+2001-09-12 00:18:22 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191159. 
+2001-09-12 00:18:22 Arch [0969573] B  ALPHA  212 477-9230
+2001-09-12 00:18:23 Metrocall [1064384] A  ALPHA  BRR 26600/6620 +065
+2001-09-12 00:18:24 Arch [0987275] C  ALPHA  s0191: 09/11 11:48:17 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:48:18
+2001-09-12 00:18:26 Arch [0987275] C  ALPHA  s0191: 09/11 11:56:22 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:56:22
+2001-09-12 00:18:28 Arch [0939337] C  ALPHA  13-PLEASE CALL VICTOR VIERA AT 914-659-7448. COL IS DOWN.
+2001-09-12 00:18:29 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3166
+2001-09-12 00:18:29 Metrocall [1466337] A  ALPHA  09/11@23:08:17 DALDC01:The master browser has received a server announcement from the computer HB-ICONECT that believes that it is the master browser
+2001-09-12 00:18:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3166
+2001-09-12 00:18:29 Metrocall [1111466] C  ALPHA  09/11@23:08:17 DALDC01:The master browser has received a server announcement from the computer HB-ICONECT that believes that it is the master browser for the domain on transport NetBT_Tcpi
+2001-09-12 00:18:31 Metrocall [1466337] A  ALPHA   for the domain on transport NetBT_Tcpip_{E7CD7022-9C94-48E. The master browser is stopping or
+2001-09-12 00:18:31 Metrocall [1850005] B  ALPHA  /:DDC/: AT 2104 IN CS, 4KV CKT EXCH043 LO, 1472 CUST, 67TH - 70TH, & CRANDON - CLYDE, CAUSE UNDER INVESTIGATION.  JP
+2001-09-12 00:18:31 Metrocall [1111466] C  ALPHA  p_{E7CD7022-9C94-48E. The master browser is stopping or an
+2001-09-12 00:18:32 Metrocall [1466337] A  ALPHA  CONT:an election is being forced.
+2001-09-12 00:18:32 Metrocall [1850005] B  ALPHA  B
+2001-09-12 00:18:32 Metrocall [1111466] C  ALPHA  CONT:election is being forced.
+2001-09-12 00:18:32 Skytel [002163970] A SH/TONE 6516    
+2001-09-12 00:18:32 Skytel [003417094] B SH/TONE 7070    
+2001-09-12 00:18:32 Skytel [005188360] C ST NUM  670-220-2696   
+2001-09-12 00:18:32 Skytel [002361863] B  ALPHA  PAGEING,1,Application DPIP Informational 4 0 4096 21:16  09/11/01
+2001-09-12 00:18:33 Skytel [004181264] A ST NUM  01325 (78 
+2001-09-12 00:18:33 Skytel [007562641] A ST NUM  487-244-2911   
+2001-09-12 00:18:35 Skytel [007035683] A  ALPHA  Insider@emcweb.com|SiteScope Alert, error, TranTrac1 URL Transaction, unable to reach server on  (step 1), https://209.64.62.245/trantrac/login?edtMID=601109999999015&edtUID=user0...|This alert is from SiteScope at http://insider.emcweb.com
+2001-09-12 00:18:35 Skytel [007608747] C ST NUM  9775159350
+2001-09-12 00:18:35 Skytel [007552680] C ST NUM  713-721-1200   
+2001-09-12 00:18:35 Skytel [003948712] C  ALPHA  MYCITI P NJ19 mycnj19pweb1 ProcessCount ns-httpd Equal to 0. 
+2001-09-12 00:18:37 Skytel [005342897] A ST NUM  837-689-0122 (3
+2001-09-12 00:18:37 Skytel [005058097] A  ALPHA  Server CNEBC1/Cupertino/HP/US is Responding or has been restarted.
+2001-09-12 00:18:37 Skytel [007469753] C SH/TONE 6305    
+2001-09-12 00:18:37 Skytel [005004080] A  ALPHA  Montreal site outage.  Affected devices MRC 807, 808, MDC 3463 & 3477 & Montreal HPN local nodes.  Please call ohio network to confirm receipt of this page.  216-362-5650
+2001-09-12 00:18:37 Skytel [004752573] D SH/TONE 07839   
+2001-09-12 00:18:38 Metrocall [1191895] B  ALPHA  LP-SWAT: LP application server (re2xlpf) went down at 11:50 pm with the USA support we brought re2xlpf back up.  We are in the process of clean shut down.  Case#511098
+2001-09-12 00:18:39 Arch [1265683] A  ALPHA  1/02:****NEW-TKT**** TYPE: Major  OP: 09/12/01 00:18:14 Tkt: NOC000000084887 STAT: WIP      SITE:  PROB: ADSL-MIA-DSG reports DSLAM (PCDATA) outage in South Florida, Miami area. ETR: 0100 12 Sept 2001
+2001-09-12 00:18:39 Arch [0908108] D  ALPHA  1/02:****NEW-TKT**** TYPE: Major  OP: 09/12/01 00:18:14 Tkt: NOC000000084887 STAT: WIP      SITE:  PROB: ADSL-MIA-DSG reports DSLAM (PCDATA) outage in South Florida, Miami area. ETR: 0100 12 Sept 2001
+2001-09-12 00:18:39 Skytel [007069763] A  ALPHA  VOICE MESSAGE [3846.CELLULAR            
+2001-09-12 00:18:39 Skytel [007640391] B ST NUM  820-723-1174   
+2001-09-12 00:18:39 Skytel [004672837] B ST NUM  410-922-1905 (37    
+2001-09-12 00:18:39 Skytel [007561030] B SH/TONE 641-2153
+2001-09-12 00:18:39 Skytel [005098183] B  ALPHA  mcit wcom
+2001-09-12 00:18:39 Skytel [004537665] A SH/TONE 2081    
+2001-09-12 00:18:41 Skytel [007657299] A ST NUM  0-213-749-4287 
+2001-09-12 00:18:41 Skytel [004592090] C  ALPHA  SEA-BDC-WINS-1:Device Inaccessible
+2001-09-12 00:18:41 Skytel [007457240] C  ALPHA  4083259913@airmessage.net||CANT WAIT 2 SEE IT. SCHOOL IS GREAT! G.C.  
+2001-09-12 00:18:41 Skytel [007491549] D ST NUM  695-198-9234-11
+2001-09-12 00:18:41 Skytel [002779742] D ST NUM  0-240-110-1484-88831
+2001-09-12 00:18:43 Arch [0987275] C  ALPHA  s0191: 09/11 11:59:03 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:59:03
+2001-09-12 00:18:43 Arch [1625019] C  ALPHA  71-PLEASE CALL LOUISE ON CELL.  JUST WANTED TO SEE IF EVERYTHING IS OKAY.
+2001-09-12 00:18:43 Arch [0987615] D  ALPHA  212 505-8245
+2001-09-12 00:18:43 Skytel [007510638] D ST NUM  233-333-3333   
+2001-09-12 00:18:43 Skytel [004746981] B SH/TONE 663-3237
+2001-09-12 00:18:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #14-IX_T1705
+2001-09-12 00:18:44 Arch [0987275] C  ALPHA  s0191: 09/11 12:04:03 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:04:03
+2001-09-12 00:18:45 Skytel [005089531] C SH/TONE 263-5654
+2001-09-12 00:18:45 Skytel [0001403] C  ALPHA  ]!z00]"AL];0a]<2Police have reported receiving cell phone calls from people trapped in World Trade Center towers...]$ (4
+2001-09-12 00:18:45 Skytel [004102133] B ST NUM  212-644-2468 (65    
+2001-09-12 00:18:45 Skytel [002156407] B SH/TONE *  (44  
+2001-09-12 00:18:45 Skytel [007109749] B SH/TONE 911615  
+2001-09-12 00:18:45 Skytel [004592497] A ST NUM  9886941907
+2001-09-12 00:18:45 Skytel [007464309] B ST NUM  614-438-5566 (30    
+2001-09-12 00:18:47 Skytel [005057801] C  ALPHA  Case # 00894213 is no longer waiting. Internet Explorer set at priority 2.
+2001-09-12 00:18:47 Skytel [007578119] B ST NUM  801-368-1993   
+2001-09-12 00:18:47 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 21:16:35 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 00:18:48 Skytel [007465749] B ST NUM  872-395-3575   
+2001-09-12 00:18:48 Skytel [005130512] A ST NUM  812-251-7967   
+2001-09-12 00:18:48 Skytel [002793497] C ST NUM  416-781-4785   
+2001-09-12 00:18:48 Skytel [005437848] C ST NUM  871-488-5304   
+2001-09-12 00:18:49 Metrocall [0502820] B  ALPHA  /:DDC/: AT 2104 IN CS, 4KV CKT EXCH043 LO, 1472 CUST, 67TH - 70TH, & CRANDON - CLYDE, CAUSE UNDER INVESTIGATION.  JPB
+2001-09-12 00:18:49 Metrocall [1401159] B  ALPHA  /:DDC/: AT 2104 IN CS, 4KV CKT EXCH043 LO, 1472 CUST, 67TH - 70TH, & CRANDON - C
+2001-09-12 00:18:50 Arch [0578031] D  ALPHA  Update continued:  4-SpeedPay working to establish New Jersey site. next status at 5AM-best guess ETC is mid-day tomorrow.  5-CTI Genesis having IR server issue-not related to terrorist attacks.  
+2001-09-12 00:18:50 Arch [0915289] C  ALPHA  Update continued:  4-SpeedPay working to establish New Jersey site. next status at 5AM-best guess ETC is mid-day tomorrow.  5-CTI Genesis having IR server issue-not related to terrorist attacks.  
+2001-09-12 00:18:50 Arch [0987275] C  ALPHA  s0191: 09/11 12:12:06 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:12:07
+2001-09-12 00:18:50 Skytel [005001895] B  ALPHA  [sps/170] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/mar/healthcheck_sps.asp) 2:44:55
+2001-09-12 00:18:50 Skytel [005000868] B SH/TONE 0500    
+2001-09-12 00:18:50 Skytel [005326762] C  ALPHA  root@hilpcw01.production.wcom.net||sp01cws:  Node 3, /mnt filesystem is full or at 100% i-node utilization.  
+2001-09-12 00:18:50 Skytel [007494957] D SH/TONE 911     
+2001-09-12 00:18:51 Metrocall [1401159] B  ALPHA  LYDE, CAUSE UNDER INVESTIGATION.  JPB
+2001-09-12 00:18:52 Arch [0987275] C  ALPHA  s0191: 09/11 12:14:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:14:49
+2001-09-12 00:18:52 Arch [0000101] B  ALPHA  MSN 025 hello Message from NOC PCB.
+2001-09-12 00:18:52 Skytel [0001336] C  ALPHA  ]!z00]"AJ];0a]<2The FBI is in the process of getting search warrants for several locations in Florida...]$ (5
+2001-09-12 00:18:56 Arch [1265683] A  ALPHA  2/02:FastAccess 1.800.317.3343 opt 3,2
+2001-09-12 00:18:56 Arch [0471543] B  ALPHA  48-NO NEED TO GO INTO THE OFC TONIGHT. GET PLENTY OF REST AND WHEN THE Q IS ACCESSABLE WILL BE...
+2001-09-12 00:18:56 Arch [0927998] D  ALPHA  |Case 2244 for MSSBU by nikgupta 91-5530035 needed by 2001-09-12 09:00 ||72  
+2001-09-12 00:18:56 Arch [0908108] D  ALPHA  2/02:FastAccess 1.800.317.3343 opt 3,2
+2001-09-12 00:18:58 Arch [0471543] B  ALPHA  2...THE TIME THAT WE NEED YOU MOST. _RAELENE
+2001-09-12 00:18:58 Skytel [005330530] A ST NUM  8685222010
+2001-09-12 00:18:58 Skytel [007543526] B ST NUM  614-990-0978   
+2001-09-12 00:18:59 Metrocall [1699569] A  ALPHA  SKEETA: I KNOW THE GETTING A LINE OUT OF DC IS HELL, BUT PLEASE CALL ME WHEN YOU CAN. THANKS! SVA

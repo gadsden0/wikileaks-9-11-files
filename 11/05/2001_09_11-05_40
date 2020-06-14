@@ -1,0 +1,56 @@
+2001-09-11 05:40:01 Metrocall [002119211] C  ALPHA  111/ / 253014929/ 1921/ Somerset Medical Cen/ 110 Rehill Ave/ Somerville/ Mercy Meana Rn/ 908-685-2862/ MS 2k loc 2 west /// Drw 1 fails and requires maint. Per Mercy Rn the drw will only open partially but
+2001-09-11 05:40:01 Metrocall [0476499] A  ALPHA  THIS IS A T
+2001-09-11 05:40:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2047
+2001-09-11 05:40:03 Metrocall [0476499] A  ALPHA  EST PERIODIC PAGE SEQUENTIAL NUMBER  2047
+2001-09-11 05:40:03 Skytel [002198425] C ST NUM  11 04001128 (2 
+2001-09-11 05:40:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6869
+2001-09-11 05:40:04 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 05:40:04 Arch [0432482] A  ALPHA  82-PLEASE CALL DOMINICK AT PRIMARY SUPPORT 201-796-3769.
+2001-09-11 05:40:04 Arch [0805283] A  ALPHA  49-ADT CALLING BECAUSE OF ZONE TROUBLE. ZONE 210. PLEASE CALL 888-238-2666.
+2001-09-11 05:40:04 Skytel {1002451} 1 1200 Hello managers please come to David's offfice for a meeting. Thanks Karen.
+2001-09-11 05:40:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178542. 
+2001-09-11 05:40:08 Arch [0911134] D  ALPHA   comsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSHH_EQNY1) PDSHH_EQNY1 - HEDGEHOG_HIST: DATA -->> ALLOCATED = 400 MB, USED = 361 MB, FREE = 39 MB, PERCENT_USED = 90% @05:40 09/11/01 
+2001-09-11 05:40:10 Arch [0931795] A  ALPHA  drip root|ALERT !!!! /users is 94 % full on drip |ALERT !!!! /users is 94 % full on drip |89  
+2001-09-11 05:40:12 Skytel {0152808} 3 2400 3441 
+2001-09-11 05:40:19 Arch [1122048] A  ALPHA  Topaz Alert: RSO_PESP User Authentication failed 
+2001-09-11 05:40:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9792
+2001-09-11 05:40:26 Arch [0000101] B  ALPHA  MSN 125 hello Message from NOC PCB.
+2001-09-11 05:40:28 Arch [0388700] D  ALPHA  Bill Pedersen <W|UK/Sweden has LONG delays|The UK/Sweden network experiencing as hight as 5 SECOND Delays... Bill Pedersen 408-892-5204 
+2001-09-11 05:40:30 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 155W MAJ=NONE
+2001-09-11 05:40:30 Metrocall [1362298] C  ALPHA  Frm: Optivity@harbortech.com Sub: Operator Attention Txt: Operator Attention is needed. (Server: "OPTIVITY-NJ" Job: "SNMPc & HPOV:Diff" Device: "HP 1
+2001-09-11 05:40:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3440
+2001-09-11 05:40:30 Metrocall [1064379] C  ALPHA   SHANGHAI COPPER ENDS DOWN, MOST AT RECORD LOWS
+2001-09-11 05:40:30 Metrocall {1078849} 1 2400 |.3~L.?f
+2001-09-11 05:40:30 Metrocall {1254933} 3 2400 67770...
+2001-09-11 05:40:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 02:38:54 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:40:31 Skytel [003279361] A  ALPHA  9) PACE#4219369-3 alert stage 2-09/11/01 03:54EST MZ-KP1A Contact:ANTHONY RILEY @ 8-386-5212 Summary:Within ERP: Item:5.MFP.135, Quantity 531 & Item: 4.SEE-GENFIDB.115, 
+2001-09-11 05:40:31 Skytel [007588621] D SH/TONE 3354    
+2001-09-11 05:40:33 Metrocall [1362298] C  ALPHA  ") Please insert overwritable media into the drive.
+2001-09-11 05:40:33 Skytel [004679824] A  ALPHA   File recgppor not transfered.
+2001-09-11 05:40:33 Skytel [004437785] C SH/TONE 1003    
+2001-09-11 05:40:35 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb12 login content match error on step 2, https://192.168.67.89/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain information 
+2001-09-11 05:40:35 Skytel [007523119] D SH/TONE 665-1156
+2001-09-11 05:40:35 Skytel [002556202] C ST NUM  0-800-428-7124-0028 
+2001-09-11 05:40:36 Arch [0909299] A  ALPHA  vetiy@start.com.|Worth looking at lolyp|
+2001-09-11 05:40:36 Skytel [005228862] D SH/TONE 2002    
+2001-09-11 05:40:38 Skytel [002851270] B  ALPHA  (0270319083)Sev:3 Case ID:1577291 Site:3505, NORFOLK SOUTHERN RAILWAY 404 529 1601 GLENN STEWART 9310: PROB: Lsm 001/003 detting abort/extend msgs... FSC: volser UNREADABLE using Hand:1... SUGG: remove bad cln carts/ enter new cln carts... 
+2001-09-11 05:40:38 Skytel [004667721] C SH/TONE 214-0000
+2001-09-11 05:40:40 Arch [1018152] C  ALPHA  (17)oraprod@mail.spr|File system /u21 on dapmdp01 exceeded 80% - Please investigate! 
+2001-09-11 05:40:40 Arch [0970454] B  ALPHA  (15)DO:-*Send-ANI-List(4:38:18
+2001-09-11 05:40:40 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job113073 SSAO02302 09/11 05:40 DISK
+2001-09-11 05:40:40 Skytel [004592479] D ST NUM  716-969-9141   
+2001-09-11 05:40:41 Metrocall [1064377] C  ALPHA  US 10514/10421 +000 SP109920/10140+0350 FEI95780/96075/9624 9622/9613/.59"/9.85.Sg. 9.6./&.................................................................................................................................................
+2001-09-11 05:40:42 Skytel [005436525] D  ALPHA  Test Message #72-IX_T1613
+2001-09-11 05:40:42 Skytel [004682599] B  ALPHA  mbcopeland@fedex.com|1580 has been downgraded to a 727-100 call inside.  
+2001-09-11 05:40:42 Skytel [004524770] A  ALPHA  spr-LandAir-SpringfieldMA-01: CPE Up at 01:00:01 on 9/11
+2001-09-11 05:40:42 Skytel [005057390] D  ALPHA  al001dataaege:3.7.003 Service ScanMail_RealTimeScan (ScanMail_RealTimeScan) Is Not Running. Current state is Stopped.
+2001-09-11 05:40:42 Skytel [003497451] C SH/TONE 2800 (72
+2001-09-11 05:40:42 Skytel [005112809] C  ALPHA  04:36CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240464: Uncorrectable write error
+2001-09-11 05:40:44 Skytel [002357369] C  ALPHA  002232 CYCLIC TEST 
+2001-09-11 05:40:44 Skytel [003327216] A  ALPHA  002232 CYCLIC TEST 
+2001-09-11 05:40:44 Skytel [002139900] D SH/TONE 002232  
+2001-09-11 05:40:46 Skytel [004209166] D  ALPHA  rilau|Eric, can you please call me regarding a P1 case with Intel. They are requesting NSA Stratacom escalation. Rick 408 431-5856    (17
+2001-09-11 05:40:52 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1313..
+2001-09-11 05:40:53 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1313..
+2001-09-11 05:40:53 Skytel [005555279] D  ALPHA  05:40:45 BY05D96Z HAS NOT ENDED. PLEASE INVESTIGATE. CONTACT ONCALL.
+2001-09-11 05:40:57 Skytel [009992677] B  ALPHA  FLT1463 ARR 0541, *ADHOC FLT 1170 AFW-ATL ETA 0703, 3 POS M/S

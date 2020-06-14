@@ -1,0 +1,126 @@
+2001-09-11 23:40:00 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7949
+2001-09-11 23:40:00 Skytel [005353078] B  ALPHA  root104@baanprod-ora.slr.com| MPS SUCCESS |mps job is done  
+2001-09-11 23:40:02 Skytel [003917188] B  ALPHA  ELCOME TO SKY PAGER.910839191111
+2001-09-11 23:40:03 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-11 23:40:03 Arch [0272654] D  ALPHA  212 778-1400
+2001-09-11 23:40:03 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190725. 
+2001-09-11 23:40:03 Skytel [005491089] A SH/TONE 382-2435
+2001-09-11 23:40:03 Skytel [002401821] D  ALPHA  saspcd00 Distributed Monitoring PALM.dm.ussa17.Unix.saspcd00/Daemon status on host saspcd00 09/11/01 20:34:14 PDT  Status: >>> critical <<< ussa17.PALM 
+2001-09-11 23:40:03 Skytel [004749708] D SH/TONE 486-3514
+2001-09-11 23:40:04 Skytel {0597643} 3 1200 33  61    
+2001-09-11 23:40:05 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-11 23:40:07 Arch [0965689] C  ALPHA  sihp8032: Disk utilization of /home almost full, Please open minor ticket to G.IS1E2E. filesystem is now ok
+2001-09-11 23:40:07 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-11 23:40:08 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4519
+2001-09-11 23:40:09 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-11 23:40:10 Metrocall [0727230] D  ALPHA  Frm: Dan Maffia Sub: WTC Txt: Am hearing reports of victims being found alive in the debris @ WTC, 2 transported to Bellvue, now trying to extricate 1 civilian and 2 PD officers. Also report of additional coll
+2001-09-11 23:40:12 Metrocall [0727230] D  ALPHA  pase of building on Liberty St. side, no
+2001-09-11 23:40:17 Arch [1602239] D  ALPHA  From hurst at 11:40 PM EDT: If your awake, give me a call. 721-5757 [CC:annin] 
+2001-09-11 23:40:19 Metrocall [1407415] B  ALPHA  Update: Sources indicating over 800 dead or missing in the Pentagon situation and FDNY spokesperson on NY news stating over 300 Firefighters missing and unaccounted for. (001)
+2001-09-11 23:40:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0872
+2001-09-11 23:40:22 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-11 23:40:22 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: check_db(PDS1_EQGSMNY) PDS1_EQGSMNY - gsm: LOG  -->> ALLOCATED = 400 MB, USED = 373 MB, FREE = 27 MB, PERCENT_USED = 93% @23:40 09/11/01 
+2001-09-11 23:40:23 Skytel {1896183} 3 2400 0002063635
+2001-09-11 23:40:24 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-11 23:40:25 Metrocall [002293038] D  ALPHA  Can you call me. Have a question about switching OBC's. John. 7563884
+2001-09-11 23:40:25 Metrocall [0228502] B  ALPHA  Frm: IPN Txt: DFW| Garland| Car Chase| GAR PD N-1| Abrams & L.b.j.|U/D: GARLAND now has two robbery suspects in custody. N
+2001-09-11 23:40:25 Metrocall [1198317] D  ALPHA  Frm: IPN Txt: DFW| Garland| Car Chase| GAR PD N-1| Abrams & L.b.j.|U/D: GARLAND now has two robbery suspects in custody. NFI-ATT FINAL.| DFW415| 20:12
+2001-09-11 23:40:25 Metrocall [0410765] D  ALPHA  Frm: IPN Txt: DFW| Garland| Car Chase| GAR PD N-1| Abrams & L.b.j.|U/D: GARLA
+2001-09-11 23:40:26 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-11 23:40:27 Metrocall [1198317] D  ALPHA  Frm: IPN Txt: DFW| Garland| Car Chase| GAR PD N-1| Abrams & L.b.j.|Garland Has Robbery Suspects Stopped At Gunpoint At Jack In Box, Req Dallas Code-3. Dpd Ch-2 460.375| DFW415| 20:10
+2001-09-11 23:40:27 Metrocall [0228502] B  ALPHA  FI-ATT FINAL.| DFW415| 20:12
+2001-09-11 23:40:27 Metrocall [1079407] D  ALPHA  Frm: BreakingNews@CN
+2001-09-11 23:40:27 Metrocall [0410765] D  ALPHA  ND now has two robbery suspects in custody. NFI-ATT FINAL.| DFW415| 20:12
+2001-09-11 23:40:27 Metrocall [1457944] C  ALPHA  Frm: ClearSupport@NortelNetworks.com Sub: ClearSupport Case 010911-9209 (E1/E2/BC Creation) Txt: Summary: 09/11/2001 22:55:30 | Verizon Communications | Verizon Commun
+2001-09-11 23:40:28 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-11 23:40:28 Arch [1645796] B  ALPHA  RETURN TO REMCS ASAP From: REMCS Supv.
+2001-09-11 23:40:29 Metrocall [1079407] D  ALPHA  N.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY WASHINGTON (CNN) -- Secretary of State Colin Powell, returning to Washington from his aborted trip to Peru and Colombia Tuesday, said there were "no specific warnings
+2001-09-11 23:40:29 Metrocall [1457944] C  ALPHA  ications - BETHLEHEM,
+2001-09-11 23:40:29 Metrocall [0410765] D  ALPHA  Frm: IPN Txt: DFW| Garland| Car Chase| GAR PD N-1| Abrams & L.b.j.|Garland Has Robbery Suspects Stopped At Gunpoint At Jack In Box, Req Dallas Code-3. Dpd Ch-2 460.375| DFW415| 20:10
+2001-09-11 23:40:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PE
+2001-09-11 23:40:30 Arch [0936036] B  ALPHA  'lon-sls-rtr-s0' is unreachable. Circuit down?
+2001-09-11 23:40:31 Metrocall [0024565] B  ALPHA  VOICEMAIL WAITING..800-2291 (8:41 PM/SEP 11)
+2001-09-11 23:40:31 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3128
+2001-09-11 23:40:31 Metrocall [1457944] C  ALPHA   PA | Will Tipton | E1 | Switching | DMS-100 Date: 0
+2001-09-11 23:40:31 Metrocall [0000329] C  ALPHA  RIODIC PAGE SEQUENTIAL NUMBER  3128
+2001-09-11 23:40:32 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 20:40:31 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 23:40:32 Skytel [004424455] B SH/TONE 860-0510
+2001-09-11 23:40:33 Skytel [004086928] A ST NUM  854-564-9384 (68    
+2001-09-11 23:40:33 Skytel [007586964] B SH/TONE 428-6250
+2001-09-11 23:40:35 Skytel [005136172] D SH/TONE 7900 (62
+2001-09-11 23:40:35 Skytel [007519139] A  ALPHA  18007598255 1234
+2001-09-11 23:40:35 Skytel [007464358] B SH/TONE 5167    
+2001-09-11 23:40:35 Skytel [005085615] D  ALPHA  8:39P 9/11/01 #08 MIKE HARRIS AON CONSULTING 847-806-2447 ULTRA ENTERPRISE 4500 PLS COME AT 7AM IN THE A
+2001-09-11 23:40:35 Skytel [005001895] B  ALPHA  [sps/179] 200 sps-apps1.cps.intel.com relay-ssl 0.800 Application isokay (/Ivep/healthcheck.asp) 2:33:08
+2001-09-11 23:40:35 Skytel [005329574] B  ALPHA  13: FRANK DARMIENTO 887 W.15TH NEWPORT BEACH 92663 949 631 6060 OXYGEN TROUBLESHOOT GIVE TO B/U PER CHONITO
+2001-09-11 23:40:35 Skytel [004516266] C  ALPHA  From:Tom_Fitzpatrick To Exec Esc: Please convene on CCT Bridge 1-866-540-2100 passcode 1260860# regarding OST/CYA/SSD/ IVR change issue.   
+2001-09-11 23:40:35 Skytel [007546029] D SH/TONE 746-9820
+2001-09-11 23:40:37 Skytel [007049147] C ST NUM  203-368-2233   
+2001-09-11 23:40:37 Skytel [004693306] C  ALPHA  IT'S MANUEL. PAGE ME AT 396 9659. MY VOICE MAIL DON'T WORK SO LEAVE A NUMBER AND I'LL CALL YOU RIGHT BACK. 
+2001-09-11 23:40:39 Skytel [002778947] A SH/TONE 8       
+2001-09-11 23:40:39 Skytel [004538828] D SH/TONE 6127    
+2001-09-11 23:40:39 Skytel [004393798] B SH/TONE 8888    
+2001-09-11 23:40:39 Skytel [002518603] C SH/TONE 56      
+2001-09-11 23:40:39 Skytel [002157257] C ST NUM  U    *         * *  
+2001-09-11 23:40:39 Skytel [007593034] C ST NUM  213-842-7417   
+2001-09-11 23:40:39 Skytel [003206474] C SH/TONE 7220    
+2001-09-11 23:40:39 Skytel [004534335] D ST NUM  315-206-2492   
+2001-09-11 23:40:39 Skytel [002358209] A SH/TONE 5) 1111 
+2001-09-11 23:40:41 Skytel [004742367] D ST NUM  410-794-5630   
+2001-09-11 23:40:41 Skytel [004530645] B SH/TONE 54123   
+2001-09-11 23:40:41 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job113073 SSAO02302 09/11 23:40 DISK
+2001-09-11 23:40:41 Skytel [007653723] C ST NUM  794-114-1141-1 
+2001-09-11 23:40:41 Skytel [003931227] C  ALPHA  From:Tom_Fitzpatrick To Exec Esc: Please convene on CCT Bridge 1-866-540-2100 passcode 1260860# regarding OST/CYA/SSD/ IVR change issue.   
+2001-09-11 23:40:43 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-11 23:40:43 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190732. 
+2001-09-11 23:40:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #16-IX_T1706
+2001-09-11 23:40:43 Skytel [005384037] B  ALPHA  HEY BABE IT'S ME. I JUST WANTED TO LET YOU KNOW THAT I AM HEADING BACK TO ANAHEIM RIGHT NOW. I'LL BE HOME IN LIKE THIRTY MINUTE'S. LET ME KNOW IF YOUR STILL PLANNING ON COMING OVER OR NOT. LOVE YOU, ANDREA 
+2001-09-11 23:40:44 Metrocall [0983680] A  ALPHA  Frm: IPN Txt: DFW| Garland| Car Chase| GAR PD N-1| Abrams & L.b.j.|U/D: GARLAND now has two robbery suspects in custody. NFI-ATT FINAL.| DFW415| 20:12
+2001-09-11 23:40:44 Metrocall [0228502] B  ALPHA  Frm: IPN Txt: DFW| Garland| Car Chase| GAR PD N-1| Abrams & L.b.j.|Garland Ha
+2001-09-11 23:40:44 Metrocall [1898681] C  ALPHA  PDXEXU02 MSExchangeIS Has Stoped, Attempting ReStart: Status in ~5 Min at 8:40:07 PM 9/11/01[NTM]
+2001-09-11 23:40:45 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-11 23:40:45 Arch [0788781] D  ALPHA  (30)309734 Tyes bridge 888-883-4423 running, in the process of an orderly shut down, tyes should be down from 1130p-1230a for database recovery due to sp50 resources. FYI rebecca  
+2001-09-11 23:40:45 Metrocall [0228502] B  ALPHA  s Robbery Suspects Stopped At Gunpoint At Jack In Box, Req Dallas Code-3. Dpd Ch-2 460.375| DFW415| 20:10
+2001-09-11 23:40:45 Skytel [007465722] C SH/TONE 647-2222
+2001-09-11 23:40:45 Skytel [005175664] A ST NUM  080-075-9724   
+2001-09-11 23:40:45 Skytel [003327216] A  ALPHA  002592 CYCLIC TEST 
+2001-09-11 23:40:45 Skytel [002357369] C  ALPHA  002592 CYCLIC TEST 
+2001-09-11 23:40:45 Skytel [007109749] B ST NUM  404-0061-23    
+2001-09-11 23:40:45 Skytel [005399415] B ST NUM  630-323-8183 (83    
+2001-09-11 23:40:45 Skytel [004752740] B SH/TONE 219     
+2001-09-11 23:40:45 Skytel [004755319] B SH/TONE 222-6080
+2001-09-11 23:40:45 Skytel [004427639] B ST NUM  847-496-0018-5070   
+2001-09-11 23:40:45 Skytel [005040245] B SH/TONE 381-4263
+2001-09-11 23:40:45 Skytel [005065212] D  ALPHA  cms@pdprt02.nationalcar.com|pdprt02|GWYB7030 Errors (0) (Log File Not Current)  
+2001-09-11 23:40:45 Skytel [004079866] C SH/TONE 1395 (73
+2001-09-11 23:40:45 Skytel [004523391] D SH/TONE 906-2538
+2001-09-11 23:40:45 Skytel [005508863] D  ALPHA  5760708 PCK BIGKAR MERCY HOSPITAL MEDICAL 6192607115 J MOORE OR 165
+2001-09-11 23:40:45 Skytel [002139900] D SH/TONE 002592  
+2001-09-11 23:40:46 Metrocall [0983680] A  ALPHA  Frm: IPN Txt: DFW| Garland| Car Chase| GAR PD N-1| Abrams & L.b.j.|Garland Has Robbery Suspects Stopped At Gunpoint At Jack In Box, Req D
+2001-09-11 23:40:47 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-11 23:40:47 Metrocall [1544818] A  ALPHA  WDC-MAIL01 "Server WDC-MAIL01/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail1.box. "
+2001-09-11 23:40:47 Metrocall [0983680] A  ALPHA  allas Code-3. Dpd Ch-2 460.375| DFW415| 20:10
+2001-09-11 23:40:47 Skytel [007574660] B ST NUM  230-3164-0
+2001-09-11 23:40:47 Skytel [005226372] B SH/TONE 333-8721
+2001-09-11 23:40:48 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-11 23:40:48 Arch [0969346] A  ALPHA  845-7900
+2001-09-11 23:40:49 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-11 23:40:49 Metrocall [1421210] C  ALPHA  LAKEJob 378304/VSIOWNER/OMSJRNMGR has MSGW status.
+2001-09-11 23:40:50 Skytel [007542954] C ST NUM  681-834-4853   
+2001-09-11 23:40:50 Skytel [005242798] D SH/TONE 249     
+2001-09-11 23:40:51 Metrocall [0847099] C  ALPHA  Frm: RD-Monitor@ratingsdirect.com Sub: Alert at Sep-11th 23:41 Txt: Message :: SFSS 3.2. TnT Q size 3.2.5. Error processing msg in SFI-> Actual:29 ,Expected:0 Log onto RD FGR-Monitor for further detai
+2001-09-11 23:40:51 Metrocall [1225410] A  ALPHA  Frm: RD-Monitor@r
+2001-09-11 23:40:51 Metrocall [1036397] D  ALPHA  Frm: RD-Monitor@ratingsdirect.com Sub: Alert at Sep-11th 23:41 Txt: Message :: SFSS 3.2. TnT Q size 3.2.5. Error processing msg in SFI-> Actual:29 ,Expected:0 Log onto RD FGR-Monitor for further detai
+2001-09-11 23:40:51 Metrocall [1105849] C  ALPHA  Frm: RD-Monitor@ratingsdirect.co
+2001-09-11 23:40:53 Metrocall [1225410] A  ALPHA  atingsdirect.com Sub: Alert at Sep-11th 23:41 Txt: Message :: SFSS 3.2. TnT Q size 3.2.5. Error processing msg in SFI-> Actual:29 ,Expected:0 Log onto RD FGR-Monitor for further detai
+2001-09-11 23:40:53 Metrocall [1105849] C  ALPHA  m Sub: Alert at Sep-11th 23:41 Txt: Message :: SFSS 3.2. TnT
+2001-09-11 23:40:54 Skytel [003918666] C ST NUM  223-283-4212   
+2001-09-11 23:40:54 Skytel [004190159] D ST NUM  413-242-5451 (17    
+2001-09-11 23:40:55 Metrocall [1105849] C  ALPHA   Q size 3.2.5. Error processing msg in SFI-> Actual:29 ,Expected:0 Log onto RD FGR-Monitor for further detai
+2001-09-11 23:40:56 Skytel [004040020] B  ALPHA  785-267-1672
+2001-09-11 23:40:56 Skytel [005384405] B  ALPHA  bb@rs1fw1.microtelco.com|!BB - 2601013! call1.net2phone.com.up - 999000000000000|[2601013]   call1.net2phone.com.up red Wed Sep 12 03:40:58 2001 call1.net2phone.com is unreachable <hr><center><img src="/cgi-bin/rrd-streamgraph.cgi?title=Rou
+2001-09-11 23:40:58 Arch [0309170] A  ALPHA  "Jacob G Hartlan|Rate will most likely drop sharl|Do you need a loan? Do you want to refinance your home? Are you worried about your credit record? Visit us today at http://www=2Eratesavings=2Enet We'
+2001-09-11 23:40:58 Arch [0578251] C  ALPHA  Wes Ferris, OAK server ghosting complete...installation continuing
+2001-09-11 23:40:58 Skytel [004720225] A SH/TONE 307     
+2001-09-11 23:40:58 Skytel [005384420] B  ALPHA  bb@rs1fw1.microtelco.com|!BB - 2601012! call1.net2phone.com.up - 999000000000000|[2601012]   call1.net2phone.com.up red Wed Sep 12 03:40:58 2001 call1.net2phone.com is unreachable <hr><center><img src="/cgi-bin/rrd-streamgraph.cgi?title=Rou
+2001-09-11 23:40:58 Skytel [004742760] C SH/TONE 

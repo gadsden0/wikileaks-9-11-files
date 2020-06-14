@@ -1,0 +1,26 @@
+2001-09-11 03:44:00 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 148W MAJ=NONE
+2001-09-11 03:44:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1931
+2001-09-11 03:44:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1931
+2001-09-11 03:44:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6753
+2001-09-11 03:44:05 Arch [1008334] D  ALPHA  25900
+2001-09-11 03:44:18 Metrocall [1145662] D  ALPHA  Frm: StormCenter.COM Sub: Storm Advisory (1/2) Txt: FORECAST FOR For Fairfax County TODAY-SUNNY. HIGHS IN THE LOWER 80S....
+2001-09-11 03:44:19 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177283. 
+2001-09-11 03:44:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9676
+2001-09-11 03:44:30 Metrocall [1145662] D  ALPHA  Frm: StormCenter.COM Sub: Storm Advisory (2/2) Txt: ..NORTHWEST WIND 10 TO 15 MPH.
+2001-09-11 03:44:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3324
+2001-09-11 03:44:31 Arch [1303068] D  ALPHA  (22)wpi3205@webname.|Introducing NEW Kathmandu 2|Introducing NEW Kathmandu 2 (Legal Marijuana Alternative) Thanks to recent dramatic, advances in the laboritory processes for the extraction of botanical/herbal alkaloids we are now; as of 8/5/01 
+2001-09-11 03:44:33 Skytel [004570774] B ST NUM  958-805-6060   
+2001-09-11 03:44:33 Skytel [002401821] D  ALPHA  206.122.40.73 Code =  JOES  - Job Output Elements ussa11.SSMC 
+2001-09-11 03:44:36 Skytel [004743735] B SH/TONE 110601  
+2001-09-11 03:44:38 Skytel [007492552] C SH/TONE 836-3918
+2001-09-11 03:44:42 Skytel [005436525] D  ALPHA  Test #53
+2001-09-11 03:44:42 Skytel [004524770] A  ALPHA  spf-MiddletonBuilding-DoverNH-01: CPE Up at 00:57:21 on 9/11
+2001-09-11 03:44:42 Skytel [007553888] A  ALPHA  437-3300Busy Mechanicsburg 717-796
+2001-09-11 03:44:44 Skytel [003932285] D SH/TONE 3018 U  
+2001-09-11 03:44:44 Skytel [007109749] B ST NUM  0-111-043-1269-6117 
+2001-09-11 03:44:46 Skytel [007046275] A SH/TONE 2411    
+2001-09-11 03:44:48 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177290. 
+2001-09-11 03:44:50 Metrocall [0625680] A  ALPHA  Please call Clarence Jones MVS ASAP. CICS is causing buffer loss on Japan system.  973-533-2627. tHANKS
+2001-09-11 03:44:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1197..
+2001-09-11 03:44:52 Metrocall [0300390] B  ALPHA  _01Z00_02A%_1B"n6_1A8_1C3_09Sports_1A9_1B&a _1C3TRIVIA: _1C1QUESTION: Who was the first NBA player to score 30,000 points in a career? _0D_1C2ANSWER: Wilt Chamberlain _04
+2001-09-11 03:44:59 Skytel [005111025] A SH/TONE 111     

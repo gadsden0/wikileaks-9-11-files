@@ -1,0 +1,146 @@
+2001-09-11 22:57:00 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7906
+2001-09-11 22:57:00 Skytel [005180793] C ST NUM  315-928-7063   
+2001-09-11 22:57:01 Metrocall [1262107] C  ALPHA  Msg:821088;H;4ITESRTPCM;Batts,Martha C;704-382-9688;CHARLOTTE /ENERGY CENTER I/005/0590-24;Messaging - had to recycle ENTCLTP2 - negative queue size ... p
+2001-09-11 22:57:01 Metrocall [1865022] D  ALPHA  INING 09/11/01 22:57:00
+2001-09-11 22:57:01 Metrocall [002119221] B  ALPHA  9069*Event on machine FMSDEDNETIQ Problem is The a
+2001-09-11 22:57:01 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router 611FP-1MBT at 19:54:22 Txt: Router 611FP-1MBT DOWN at 19:54:22 Address: 209.247.46.226 Date: 09/11/2001 Status: Host Unreachable ( 11003)
+2001-09-11 22:57:02 Metrocall [002119221] B  ALPHA  ttempt to connect to the server failed. Detailed message is Connection was unsuccessful to URL: ??http://meetingrequest.intel.com:83/test.asp ??Error: The attempt to connect to the server fa
+2001-09-11 22:57:03 Skytel [007534867] A ST NUM  931-234-2288   
+2001-09-11 22:57:04 Metrocall [002119221] B  ALPHA  0863*Event on machine FMSDEDNETIQ Problem is Text not found in: http://networkaccount.intel.com/service_status.asp Detailed message is URL: http://networkaccount.intel.com/service_status.asp ??does not contain: SFSA0005 SUCCEEDED
+2001-09-11 22:57:05 Skytel [002268450] A ST NUM  709-953-5038 (94    
+2001-09-11 22:57:05 Skytel [005317925] B  ALPHA  412-563-1958.BECK WILLIAM S      
+2001-09-11 22:57:05 Skytel [002273962] C ST NUM  670-638-4691   
+2001-09-11 22:57:07 Skytel [005252786] A ST NUM  210-821-3086   
+2001-09-11 22:57:07 Skytel [004729531] C SH/TONE 408-0778
+2001-09-11 22:57:08 Metrocall [002110613] B  ALPHA  Time to take medication.
+2001-09-11 22:57:08 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4476
+2001-09-11 22:57:09 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190249. 
+2001-09-11 22:57:09 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-11 22:57:09 Arch [0927400] C  ALPHA  28-PLEASE CALL LUIS GUERRERO AT 718-788-2972.
+2001-09-11 22:57:09 Arch [0939654] B  ALPHA  212 778-1400
+2001-09-11 22:57:09 Skytel [003075917] D  ALPHA  IBM 96.47 UNCH CPQ 10.35 UNCH SEG 0.00 UNCH MSFT 57.58 UNCH (12
+2001-09-11 22:57:11 Arch [0987275] C  ALPHA  s0191: 09/11 15:41:26 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:41:26
+2001-09-11 22:57:11 Skytel [007564383] D SH/TONE 722-4266
+2001-09-11 22:57:11 Skytel [005306716] D ST NUM  569-123-3911-911911 
+2001-09-11 22:57:13 Arch [0987275] C  ALPHA  s0191: 09/11 15:47:33 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:47:34
+2001-09-11 22:57:13 Arch [0917656] C  ALPHA  rct|Bob - As official site director, you might want to send out a message to the group... "Expect gas prices to double or even triple tomorrow. If anyone is on line, they should probably try to fill up tonight before midnight (there  -1/2
+2001-09-11 22:57:13 Arch [0966999] B  ALPHA  |AMERICA UNDER ATTACK |DEVELOPING STORY LOS ANGELES (CNN) -- Several Arab and Muslim groups in California received threatening phone calls Tuesday in response to the terrorist attacks on the World Trade Center and the Pentagon. Maha  -1/3
+2001-09-11 22:57:13 Skytel [004532708] B ST NUM  504-792-8886   
+2001-09-11 22:57:15 Arch [0917656] C  ALPHA  is a law in Texas restricting when they can raise prices)." Prices are already over $3/gallon in Kansas and Oklahoma...    -2/2
+2001-09-11 22:57:15 Arch [0966999] B  ALPHA  Elgenaidi, executive director of the Islamic Networks Group in San Jose, said "a lot of Islamic Centers have shut Web sites down because of the amount of hate mail they were getting." Her organization received two "hate" calls after  -2/3
+2001-09-11 22:57:15 Arch [0905733] B  ALPHA  50-PLEASE CALL TANYA AT HOME WHEN YOU GET A CHANCE.
+2001-09-11 22:57:15 Skytel [007113075] A SH/TONE 887-5725
+2001-09-11 22:57:15 Skytel [003780342] B SH/TONE 14302   
+2001-09-11 22:57:15 Skytel [004690934] B ST NUM  900-854-2825   
+2001-09-11 22:57:15 Skytel [002868343] B SH/TONE 256-1949
+2001-09-11 22:57:16 Metrocall [002110416] A  ALPHA  (1) Benadryl, (2) Zyprexa
+2001-09-11 22:57:16 Metrocall [002110405] B  ALPHA  Time to take medication.
+2001-09-11 22:57:16 Metrocall [002119214] D  ALPHA  Test sugar
+2001-09-11 22:57:16 Metrocall [1874721] A  ALPHA  Time to take your medication.
+2001-09-11 22:57:16 Metrocall [0983898] C  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY LOS ANGELES (CNN) -- Several Arab and Muslim groups in California received threatening phone calls Tuesday in response to the terr..!..(.+ ..+.G7..4...).....$.....".....P...K..8
+2001-09-11 22:57:16 Skytel [007101312] A ST NUM  0-213-738-7887 
+2001-09-11 22:57:16 Skytel [004206855] B  ALPHA  410-367-3641 (90
+2001-09-11 22:57:19 Arch [0970437] B  ALPHA  rgleste 2774513 FSMGTISSUES FYI| MURPHY OIL WAS Experiencing Credit authorization issues Due to their vendor ADS: They were processing through phone authorizations and Gift cards: DN 4hrs: Now up ...
+2001-09-11 22:57:19 Arch [0076486] B  ALPHA  rgleste 2774513 FSMGTISSUES FYI| MURPHY OIL WAS Experiencing Credit authorization issues Due to their vendor ADS: They were processing through phone authorizations and Gift cards: DN 4hrs: Now up ...
+2001-09-11 22:57:19 Metrocall [1697765] B  ALPHA   request submitted at: 9/11/01 11:00:22 PM
+2001-09-11 22:57:19 Metrocall [1338323] A  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY LOS ANGELES (CNN) -- Several Arab and Muslim groups in California received threatening phone calls Tuesday in resp
+2001-09-11 22:57:20 Skytel [003251107] A SH/TONE 578-5817
+2001-09-11 22:57:20 Skytel [005001895] B  ALPHA  [sps/140] 100 sps-apps1.cps.intel.com relay-rialto105 0 Error:relay-rialto105.mpi did not return a valid Metrios API response coderunning (sps/140) 2:46:12
+2001-09-11 22:57:20 Skytel [007568934] B ST NUM  761-718-2916-21
+2001-09-11 22:57:20 Skytel [002376872] C  ALPHA  nms@svcanms.conxion.com|Sep11-19:57|There are 3 active alarms including server:inttra4:memory Virtual memory more than 90% consumed  
+2001-09-11 22:57:20 Skytel [007064748] D SH/TONE 388-8879
+2001-09-11 22:57:21 Arch [0970437] B  ALPHA  and up|Sent at 21:56
+2001-09-11 22:57:21 Arch [0076486] B  ALPHA  and up|Sent at 21:56
+2001-09-11 22:57:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0829
+2001-09-11 22:57:22 Arch [0987275] C  ALPHA  s0191: 09/11 15:50:15 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:50:16
+2001-09-11 22:57:22 Arch [0949324] D  ALPHA  08-CALL VIVIAN ASAP AT 718-548-2688.
+2001-09-11 22:57:22 Skytel [007572539] C ST NUM  886-2502-88    
+2001-09-11 22:57:23 Skytel {0554660} 1 1200 7149033942
+2001-09-11 22:57:24 Arch [0987275] C  ALPHA  sb3: INFO0002 - Trade Count Mismatch Ora=825 Rec=0 (160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:52
+2001-09-11 22:57:27 Metrocall [1338323] A  ALPHA  onse to the terrorist attacks on the World Trade Cen
+2001-09-11 22:57:28 Arch [0901982] D  ALPHA  02
+2001-09-11 22:57:29 Metrocall [1933098] C  ALPHA  Aeromed III 269Deg @ 9nm On Scene Strawberry Lan X Jo LAT: 28-48.17'N LON: 082-29.18'W
+2001-09-11 22:57:29 Metrocall [1036376] C  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY LOS ANGELES (CNN) -- Several Arab and Muslim groups in Californ
+2001-09-11 22:57:31 Metrocall [1875015] B  ALPHA  Viracept 5, Zerit 1, Epivir, 1
+2001-09-11 22:57:31 Metrocall [002110609] A  ALPHA  Please take your meds.
+2001-09-11 22:57:31 Metrocall [002588779] C  ALPHA  Don't forget me
+2001-09-11 22:57:31 Metrocall [1036376] C  ALPHA  ia received threatening phone calls Tuesday in response to the terrorist attacks on the World Trade Cen
+2001-09-11 22:57:31 Metrocall [0476499] A  ALPHA  THIS IS A TEST
+2001-09-11 22:57:31 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3085
+2001-09-11 22:57:31 Metrocall [1262115] A  ALPHA  Msg:821088;H;4ITESRTPCM;Batts,Martha C;704-382-9688;CHARLOTTE /ENERGY CENTER I/005/0590-24;Messaging - had to recycle ENTCLTP2 - negative queue size ... p
+2001-09-11 22:57:31 Metrocall [0346903] B  ALPHA  Msg:8
+2001-09-11 22:57:32 Metrocall [0476499] A  ALPHA   PERIODIC PAGE SEQUENTIAL NUMBER  3085
+2001-09-11 22:57:32 Metrocall [0346903] B  ALPHA  21088;H;4ITESRTPCM;Batts,Martha C;704-382-9688;CHARLOTTE /ENERGY CENTER I/005/0590-24;Messaging - had to recycle ENTCLTP2 - negative queue size ... p
+2001-09-11 22:57:32 Metrocall [1477564] D  ALPHA  Msg:821088;H;4ITESRTPCM;Batts,Martha C;704-382-9688;CHARLOTTE /ENERGY CENTER I/005/0590-24;Messaging - had to recycle ENTCLTP2 - negative queue size ... p
+2001-09-11 22:57:32 Skytel [005102720] A SH/TONE 5090    
+2001-09-11 22:57:33 Skytel [004110488] C  ALPHA  212-210-1786 (36
+2001-09-11 22:57:33 Skytel [0002580] B ST NUM  749-7496-63    
+2001-09-11 22:57:33 Skytel [007603477] B SH/TONE 342     
+2001-09-11 22:57:34 Metrocall [1064374] B  ALPHA  YEN  119.23/28 -049 EUR  0.9105/15 +002 CHF  1.6400/00 -005 GBP  1.4725/35 -026 CAD  1.5627/37 -010 AUD  0.5168/73 -027  NZD  0.4273/83 -032 DEM  2.1457/81 -017  E/C  1.4991/96 -164 E/Y  108.99/09 +034 E/S  0.6163/66 -029 USD     113.30 -008
+2001-09-11 22:57:35 Skytel [004516266] C  ALPHA  From:Mike_Berg At 10:00 PM, please convene on Bridge 1-877-336-3546, passcode 7225177 for a Batch Processing Update.   
+2001-09-11 22:57:37 Skytel [007510965] B  ALPHA  alerts-reply@yahoo-inc.co|Yahoo! Breaking News|<html> <head> <title> Yahoo! Breaking News </title> <
+2001-09-11 22:57:37 Skytel [003054900] B  ALPHA  UP 31 DN 0 
+2001-09-11 22:57:37 Skytel [002676026] C  ALPHA  PLEASE CALL ROB AT 201-447-0684. IMPRORTANT.
+2001-09-11 22:57:37 Skytel [005003958] B ST NUM  230-467-0330   
+2001-09-11 22:57:39 Skytel [005332045] D ST NUM  913-639-4578   
+2001-09-11 22:57:39 Skytel [005111746] A ST NUM  843-553-3977 (94    
+2001-09-11 22:57:39 Skytel [007551567] D  ALPHA  CRITICAL 22:55:58 09/11/01 ppaki105 2000A An error occurred while reading a flat file (ppseprod)
+2001-09-11 22:57:39 Skytel [004180555] C ST NUM  148-5269 (85   
+2001-09-11 22:57:39 Skytel [004388299] C SH/TONE 4803    
+2001-09-11 22:57:39 Skytel [002380107] C  ALPHA  koneil@genuity.net|800 289 - 5126 Passcode 261694| 
+2001-09-11 22:57:39 Skytel [005001800] C  ALPHA  [gp]There were corruptions on ISLHBEXC1 so I did a priv-wipe once we repaired disks.  This is OK because it is only a hub server.  Let me know if you see problems with that.  Eric.
+2001-09-11 22:57:40 Metrocall [002110410] C  ALPHA  Time to take medication.
+2001-09-11 22:57:40 Metrocall [1281674] C  ALPHA  Elephant never forgets.
+2001-09-11 22:57:40 Metrocall [002588297] C  ALPHA  Good night!
+2001-09-11 22:57:40 Metrocall [0151814] B  ALPHA  CALL THE DESK
+2001-09-11 22:57:40 Metrocall [1080319] D  ALPHA  Frm: noc
+2001-09-11 22:57:41 Skytel [007569746] A ST NUM  410-222-4533   
+2001-09-11 22:57:41 Skytel [002268758] B ST NUM  201-687-7745 (60    
+2001-09-11 22:57:41 Skytel [003931227] C  ALPHA  From:Mike_Berg At 10:00 PM, please convene on Bridge 1-877-336-3546, passcode 7225177 for a Batch Processing Update.   
+2001-09-11 22:57:41 Skytel [003479775] D ST NUM  401-204-7271   
+2001-09-11 22:57:41 Skytel [005211735] B ST NUM  4078051111
+2001-09-11 22:57:42 Metrocall [1080319] D  ALPHA  @aevia.net Sub: Router 611FP-1Tendo at 19:55:18 Txt: Router 611FP-1Tendo UP at 19:55:18 Address: 209.247.46.97 Date: 09/11/2001 Status: Active and responding ( 0)
+2001-09-11 22:57:43 Arch [0987275] C  ALPHA  s0191: 09/11 15:56:49 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:56:49
+2001-09-11 22:57:43 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190256. 
+2001-09-11 22:57:43 Arch [1425325] D  ALPHA  Equity Productio|BM SAP DAILY|22:56 BM SAP DAILY completed successfully at (Tue Sep 11 19:59:19 EDT 2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+2001-09-11 22:57:43 Skytel [005436525] D  ALPHA  Test #4
+2001-09-11 22:57:43 Skytel [007089772] D ST NUM  421-4770 (66   
+2001-09-11 22:57:43 Skytel [005129196] D SH/TONE 411     
+2001-09-11 22:57:45 Arch [0987275] C  ALPHA  s0191: 09/11 16:02:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 16:02:48
+2001-09-11 22:57:45 Arch [0966999] B  ALPHA  the attacks. Elgenaidi said the first caller told her to "get the hell out of this country. You people have done nothing but ruin this country. You don't belong here. Your re|640   -3/3
+2001-09-11 22:57:45 Arch [0935510] B  ALPHA  gphan|Carlos, pls call Giai 5257281 Thx   
+2001-09-11 22:57:45 Skytel [004447729] A ST NUM  077-323-8331   
+2001-09-11 22:57:45 Skytel [007109749] B ST NUM  070-837-7312   
+2001-09-11 22:57:45 Skytel [007563895] B ST NUM  334-5354-13    
+2001-09-11 22:57:45 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-11 22:57:45 Skytel [007655801] C SH/TONE 07734   
+2001-09-11 22:57:45 Skytel [007585279] D SH/TONE 257-7256
+2001-09-11 22:57:45 Skytel [007510638] D ST NUM  9002031813
+2001-09-11 22:57:46 Skytel [005087364] B  ALPHA  243-8498.HABDANK LES         
+2001-09-11 22:57:47 Arch [0951623] B  ALPHA  EHS-itp02b219: (subehs): sendTestPage.ksh: Test Page - Ignore
+2001-09-11 22:57:47 Metrocall [0122329] C  ALPHA  FROM:         BreakingNews@CNN.COM SUBJ:      AMERICA UNDER ATTACK MSG:DEVELOPING STORY  LOS ANGELES (CNN) -- Several Arab and Muslim groups in California received threatening phone calls Tuesday i
+2001-09-11 22:57:47 Metrocall [0089599] D  ALPHA  CSC reporting MRI @ 89th St Petrie NEC remote site has lost network connectivity @ 21:15 HRS. Remote site support notified.
+2001-09-11 22:57:48 Skytel [007520664] C  ALPHA  ulf@sdl.sri.com||  LOS ANGELES (CNN) -- Several Arab and Muslim groups in California received threat
+2001-09-11 22:57:49 Metrocall [002110637] D  ALPHA  Remember bedtime meds.
+2001-09-11 22:57:49 Metrocall [0122329] C  ALPHA  n response to the terrorist attacks on the World Trade Center and the Pentagon. Maha Elgenaidi, executive director of the Islamic Networks Group in San Jose, said "a lot of Islamic Centers have shut Web
+2001-09-11 22:57:49 Metrocall [002589347] A  ALPHA  Remember your medications.
+2001-09-11 22:57:49 Metrocall [002110501] B  ALPHA  Take meds.
+2001-09-11 22:57:49 Metrocall [002110371] A  ALPHA  Good evening
+2001-09-11 22:57:50 Metrocall [0623693] 7:59:12 PM D  ALPHA  Call  Audio Sit Rep 262-2874  priority 3    [W/C] (1/1)
+2001-09-11 22:57:50 Skytel [002231843] A  ALPHA  56700 (66
+2001-09-11 22:57:50 Skytel [005435688] C ST NUM  08007598255 (51
+2001-09-11 22:57:50 Skytel [005414063] D ST NUM  634-718-0056 (84    
+2001-09-11 22:57:51 Metrocall [002272248] C  ALPHA  Frm: Tivoli - Do Not Reply Sub: sapprd - ORAID1 Txt: Hostname: sapprd Event ID: ORAID1 Message: ORA-1650: unable to extend rollback segment PRS_21 by 1280 in tablespace PSAPROLL
+2001-09-11 22:57:51 Metrocall [0574678] B  ALPHA  Frm: Tivoli - Do Not Reply Sub: sapprd - ORAID1
+2001-09-11 22:57:51 Metrocall [1466240] A  ALPHA  Frm: Tivoli - Do Not Reply Sub: sapprd - ORAID1 Txt: Hostname: sapprd Event ID: ORAID1 Message: ORA-1650: unable to extend rollback segment PRS_21 by 1280 in tablespace PSAPROLL
+2001-09-11 22:57:51 Metrocall [002612334] D  ALPHA  Frm: Tivoli - Do Not Reply Sub: sapprd - ORAID1 Txt: Hostna
+2001-09-11 22:57:53 Metrocall [0574678] B  ALPHA   Txt: Hostname: sapprd Event ID: ORAID1 Message: ORA-1650: unable to extend rollback segment PRS_21 by 1280 in tablespace PSAPROLL
+2001-09-11 22:57:53 Metrocall [002612334] D  ALPHA  me: sapprd Event ID:
+2001-09-11 22:57:54 Skytel [002230464] A  ALPHA  >TRIGGER: BM2 > SOURCE: BM2RE1(VS RIGHT); ITEM: DOOR INR R/R-FWD LWR QUAD(ZA0A02) - WELD - BALLS; OPER: 11T00000; TRIGGER:2; TALLY: 3. FROM: TRAINU  (79
+2001-09-11 22:57:54 Skytel [005476427] C ST NUM  618-892-7096   
+2001-09-11 22:57:56 Skytel [005249751] B SH/TONE 301     
+2001-09-11 22:57:56 Skytel [007501273] C SH/TONE 999     
+2001-09-11 22:57:59 Metrocall [1429971] A  ALPHA  * EOD Backups completed normally. Update & Reports are in progress. ** 09/11/01 21:54 QSYSOPR    HELPSYS
+2001-09-11 22:57:59 Metrocall [002110505] C  ALPHA  Remember your medication.
+2001-09-11 22:57:59 Metrocall [1284251] C  ALPHA  Take Sustiva before bedtime.
+2001-09-11 22:57:59 Metrocall [0477635] A  ALPHA  CALL THE DESK

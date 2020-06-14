@@ -1,0 +1,51 @@
+2001-09-11 04:09:00 Metrocall [1064374] B  ALPHA  YEN  121.76/82 +083 EUR  0.8992/97 +011 CHF  1.6852/60 -027 GBP  1.4563/66 +000 CAD  1.5631/37 +005 AUD  0.5143/53 +010  NZD  0.4260/70 -047 DEM  2.1739/51 -031  E/C  1.5156/61 +001 E/Y  109.44/54 +079 E/S  0.6172/77 +014 USD     114.76 -002
+2001-09-11 04:09:00 Metrocall [0814199] B  ALPHA  Frm: busintel@tickets.com Sub: =?iso-8859-1?Q?Oracle MLB Load Plans Complete?= Txt: All Oracle MLB plans to load the Common Staging Area completed successfully.
+2001-09-11 04:09:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1956
+2001-09-11 04:09:00 Metrocall {1078849} 1 2400 |.3~L.?f
+2001-09-11 04:09:01 Skytel [007469966] D ST NUM  210-688-6881   
+2001-09-11 04:09:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6778
+2001-09-11 04:09:04 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 115 processes on report1.ccbill.com. Timestamp key: 20010911010701 
+2001-09-11 04:09:06 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 115 processes on report2.ccbill.com. Timestamp key: 20010911010701 
+2001-09-11 04:09:06 Skytel [007559861] B ST NUM  223-822-1567-911    
+2001-09-11 04:09:08 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 114 processes on report2.ccbill.com. Timestamp key: 20010911010701 
+2001-09-11 04:09:10 Skytel [003448531] A SH/TONE 1127    
+2001-09-11 04:09:13 Skytel {1102375} 1 2400 57266  12 
+2001-09-11 04:09:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9701
+2001-09-11 04:09:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177565. 
+2001-09-11 04:09:31 Arch [0472136] C  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_trigger.ksh 0 Body:All HR feeds are present.  Begin Processing.
+2001-09-11 04:09:31 Arch [0929898] C  ALPHA  activewatch@merc|Topaz Alert: Transaction Logon_I|Profile Name: Prudential_PXB_POC Alert Name: Transaction Logon_ID_pxbknbo failed Severity: Normal Triggered by: Failed Transaction(s) User Message: Transaction Logon_ID_pxbknbo failed Additio
+2001-09-11 04:09:31 Arch [1616636] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_trigger.ksh 0 Body:All HR feeds are present.  Begin Processing.
+2001-09-11 04:09:31 Arch [0893661] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_trigger.ksh 0 Body:All HR feeds are present.  Begin Processing.
+2001-09-11 04:09:33 Arch [0986678] B  ALPHA  MSN <alert@msn.c|Hotmail Biz Help:Guaranteed Downline and Guaranteed Income! 9/10/01 6:26:02 PM 
+2001-09-11 04:09:34 Arch [0986678] B  ALPHA  MSN <alert@msn.c|Hotmail Network Commerce:Who Would You Send On a FREE Disney Vacation? 
+2001-09-11 04:09:34 Arch [0908115] A  ALPHA  root@princetonec|problem on smtp.princetonecom.co|smtp: /var is 81% full !!! 
+2001-09-11 04:09:35 Skytel [003934628] B  ALPHA  ALL POSTAL ROLLOVER FREIGHT SHOULD BE STAGED AT THE CTYD INPUT. CUTOFF TIME FOR THIS IS 5:00AM... NO EXCEPTIONS......
+2001-09-11 04:09:35 Skytel [003277345] A  ALPHA  SurfAid.Paging.Service@surfaid.dfw.ibm.com|Abend of ibmbp on surfaid.dfw.ibm.com|Tue Sep 11 03:00:44 CDT 2001 -- LEVEL 1 -- sashell ended with 106 for ibmbp  
+2001-09-11 04:09:36 Skytel [0000060] D  ALPHA  ALL POSTAL ROLLOVER FREIGHT SHOULD BE STAGED AT THE CTYD INPUT. CUTOFF TIME FOR THIS IS 5:00AM... NO EXCEPTIONS......
+2001-09-11 04:09:36 Skytel [003278002] A  ALPHA  alert@msn.com||Hotmail low.rates@msn.com:~2nd Mortgage~THE LOWEST INTEREST RATES GUARANTEED!  
+2001-09-11 04:09:38 Skytel [005204168] C ST NUM  750-367-5520   
+2001-09-11 04:09:39 Metrocall [002356637] D  ALPHA  Frm: NMS1@savantltd.com Sub: Cat2912mxlFamily NIT-2912-1 UP at 04:12:54 Txt: Cat
+2001-09-11 04:09:39 Metrocall [002356637] D  ALPHA  Frm: NMS1@savantltd.com Sub: Cat2912mxlFamily NIT-2912-2 UP at 04:12:54 Txt: Cat
+2001-09-11 04:09:39 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcb-wbs04 Sev:4 # 700003 Low
+2001-09-11 04:09:40 Arch [1612111] D  ALPHA  monitor@ccbill.c|VSCRUB Packet Loss|nulls=16 1017374357:1017374372:1017374375:1017374377:1017374379:1017374383:1017374384:1017374389:1017374392:1017374393:1017374396:1017374397:1017374402:1017374404:1017374405:1017374409 
+2001-09-11 04:09:41 Metrocall [002356637] D  ALPHA  Frm: NMS1@savantltd.com Sub: Rtr3640Family POC-3640-2 UP at 04:12:54 Txt: Rtr364
+2001-09-11 04:09:41 Metrocall [0477913] C  ALPHA  OnSockets WBS 3.1.14.1 09/11/01 01:09:13 PDT7 Instance: ChkSysRes Module: ChkSysRes Details: HostName=labcb-wbs04 LowOnSockets: TotalConns=153 EstabConns=51 Li
+2001-09-11 04:09:42 Skytel [009992677] B  ALPHA  FLT1011 ETA 0515, FLT1153 ETA 0444, FLT1702 ETA 0507
+2001-09-11 04:09:42 Skytel [007596901] B SH/TONE 85450   
+2001-09-11 04:09:42 Skytel [007641961] C SH/TONE 17      
+2001-09-11 04:09:43 Metrocall [0477913] C  ALPHA  stenConns=0 WarningMaxBad
+2001-09-11 04:09:44 Skytel [002363390] D  ALPHA  alert@msn.com||Hotmail Hotmail Special Offers:12 Classic Fashion Essentials for Women  
+2001-09-11 04:09:44 Skytel [007118207] D ST NUM  304-7784-22    
+2001-09-11 04:09:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 01:08:11 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 04:09:48 Skytel [002401821] D  ALPHA  ssmcscsm13 N/A dia-ext48-01:Agent:Ping::Broken dia-ext48-01 is DOWN!  
+2001-09-11 04:09:52 Skytel [003483441] A SH/TONE 70569   
+2001-09-11 04:09:53 Skytel [007457733] B  ALPHA  swmon@instantis.com|UP engines HTTPS: 2001-SEP-11 01:14|Start Time: 2001-SEP-10 23:27  
+2001-09-11 04:09:55 Skytel [007457496] C  ALPHA  swmon@instantis.com|UP engines HTTPS: 2001-SEP-11 01:14|Start Time: 2001-SEP-10 23:27  
+2001-09-11 04:09:55 Skytel [003944538] C  ALPHA  NetCmmnd@wscmdpost.pncbank.com|Alert from System Management - SYSA CMB206I|MAILBOX TRANSMISSION FAILURE PFSRXO0D NO LINES AVAILABLE  
+2001-09-11 04:09:57 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177572. 
+2001-09-11 04:09:57 Skytel [005436525] D  ALPHA  Test Message #56-IX_T0303
+2001-09-11 04:09:57 Skytel [004524770] A  ALPHA  spf-WoroncoSavingsBank-Westfield: CPE Up at 00:58:17 on 9/11
+2001-09-11 04:09:57 Skytel [005112809] C  ALPHA  03:06CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240400: Uncorrectable write error
+2001-09-11 04:09:57 Skytel [005226605] D ST NUM  8683241679
+2001-09-11 04:09:57 Skytel [005111022] D  ALPHA  FLT1011 ETA 0515, FLT1153 ETA 0444, FLT1702 ETA 0507
+2001-09-11 04:09:59 Skytel [007109749] B ST NUM  712-0111-70    

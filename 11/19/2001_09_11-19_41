@@ -1,0 +1,263 @@
+2001-09-11 19:41:00 Skytel [005227515] C ST NUM  618-835-3453   
+2001-09-11 19:41:00 Skytel [003932285] D SH/TONE 3018    
+2001-09-11 19:41:00 Skytel [?????????] B SH/TONE 99      
+2001-09-11 19:41:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7710
+2001-09-11 19:41:01 Skytel [005046799] D ST NUM  900-227-3030   
+2001-09-11 19:41:03 Arch [0909081] C  ALPHA  M-BG-85 Broad Serv B; (212)346-2826; Voltage sag; 262,263,267 Vmin; 28 sec durat
+2001-09-11 19:41:03 Arch [0968500] B  ALPHA  CALL ROD PLEASE
+2001-09-11 19:41:03 Arch [0739731] A  ALPHA  7200
+2001-09-11 19:41:03 Arch [0000101] B  ALPHA  MSN 020 hello Message from NOC PCB.
+2001-09-11 19:41:03 Arch [1424967] B  ALPHA  61-PLS CALL MORGAN. 917-951-3126
+2001-09-11 19:41:03 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-11 19:41:03 Skytel [002863891] A ST NUM  900-227-3030   
+2001-09-11 19:41:03 Skytel [002814871] B ST NUM  201-687-6035   
+2001-09-11 19:41:03 Skytel [004703385] C SH/TONE 865-1111
+2001-09-11 19:41:04 Metrocall [1587470] D  ALPHA  Frm: MSN Txt: Hotmail nodebtnow22@hanimail.com:L@@K-
+2001-09-11 19:41:05 Arch [0987275] C  ALPHA  s0191: 09/11 15:41:26 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:41:26
+2001-09-11 19:41:05 Arch [1604706] A  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:05 Arch [1302046] D  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:05 Arch [0949157] B  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:05 Arch [0923950] D  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 
+2001-09-11 19:41:05 Arch [0911419] C  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:05 Arch [1375413] B  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:05 Arch [1406271] D  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:05 Arch [0944383] D  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:05 Skytel [002269089] A ST NUM  0-941-542-0062 
+2001-09-11 19:41:05 Skytel [007464105] C ST NUM  314-448-5738   
+2001-09-11 19:41:05 Skytel [007035540] B  ALPHA  (2 of 2) 005731219  
+2001-09-11 19:41:05 Skytel [003275684] B  ALPHA  (2 of 2) 005731219  
+2001-09-11 19:41:05 Skytel [007047464] C ST NUM  900-227-3030   
+2001-09-11 19:41:06 Skytel {1092655} 3 2400 002512    
+2001-09-11 19:41:06 Skytel {0139911} 3 2400 317-706-0230   
+2001-09-11 19:41:07 Arch [0923950] D  ALPHA  - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:07 Arch [0987275] C  ALPHA  s0191: 09/11 15:47:33 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:47:34
+2001-09-11 19:41:07 Skytel {0049925} 1 1200 21) 19) YAKI NOS EXTRAQAS A TUS AMIGUITOS DE SKYTEL.... YO QUERIA IRME CONTIGO EN LA MALETA PLEASE.... ESTA NOCHE VOY A LLAMAR A YANNI PARA VER SI RECIBIO TUS MENSAJES. BUENO AHORA SI... HASTA MAQANA. BESOS. CHOCO.
+2001-09-11 19:41:09 Arch [1602243] A  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:09 Arch [0922503] B  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:09 Arch [0600867] A  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:09 Arch [1610567] B  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:09 Arch [0624947] A  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:09 Arch [0916079] D  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:09 Arch [0492049] A  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:09 Arch [1080970] C  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4280
+2001-09-11 19:41:12 Metrocall [1708640] A  ALPHA  call dispatch
+2001-09-11 19:41:12 Metrocall [1165714] A  ALPHA  EMAIL 247 Profits E-Dispatch  The Horror! THE TAIPAN GROUP'S 247PROFITS E-DISPATCH 
+2001-09-11 19:41:12 Metrocall [1064378] C  ALPHA  TOKYO STOCK EXCHANGE SAYS TRADING IN JGB FUTURES, OPTIONS TO BEGIN AS USUAL
+2001-09-11 19:41:12 Metrocall [1064395] C  ALPHA  )?#`BANHHyB@DriOevYzBgTgpyZBKXarHLzOEPTxMff`jThLRSNchILyAJcpdDZkTjthmMX`gtJdf_NihJd}ABbqyLyAAihJmNkAfH@D`PNPyDC
+2001-09-11 19:41:13 Skytel {1681237} 1 1200 Dalnmx25.na.xom.com/S/ExxonMobil@exxonmobil.com|ServerWatch Notification - Server Bognml03.sa.xom.com/S/ExxonMobil is NOT Responding|WARNING: Server Bognml03.sa.xom.com/S/ExxonMobil is Not Responding. Reason: Server not responding  ..
+2001-09-11 19:41:14 Arch [0965423] D  ALPHA  sesposit| I finally got my connection working. Can't reach you at home. call me if you haven't already left. Sara  
+2001-09-11 19:41:14 Arch [0308318] D  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:14 Arch [0935652] B  ALPHA  NOC TKT at 07:41 
+2001-09-11 19:41:14 Arch [1052478] D  ALPHA  abeecrof|Are you still doing sludge, Bacon. Allan 58614.   
+2001-09-11 19:41:14 Arch [0918417] A  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:14 Arch [0972114] A  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is c
+2001-09-11 19:41:14 Arch [0950718] D  ALPHA  mseaman| Hey cowboys and cowgirls! No need for these 3 cases to be in the queue for so long -- get your lasso and wrastle one out of the queue. If you haven't taken many cases today, now's your chance to step up. Thanks!  
+2001-09-11 19:41:14 Arch [0284964] B  ALPHA  NOC TKT at 07:41 
+2001-09-11 19:41:14 Arch [0870314] C  ALPHA  limay|Hi John,Got your information from Brent. The invoicing has been temporarily halted.Please keep me updated.Thank you. Lisa May 408-853-6770.   
+2001-09-11 19:41:14 Arch [0932865] A  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is current
+2001-09-11 19:41:14 Metrocall [1165714] A  ALPHA   BALTIMORE, NEW YORK, BONN, LONDON and PARIS  SEPTEMBER 11-12, 2001  ***THE HORROR.  ************************************************************   Dear Friend,  There are
+2001-09-11 19:41:16 Arch [0935652] B  ALPHA  PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:16 Arch [0937095] B  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:16 Arch [0428531] A  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - B
+2001-09-11 19:41:16 Arch [0972114] A  ALPHA  urrently down [CC:lvl2] 
+2001-09-11 19:41:16 Arch [1273821] D  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:16 Arch [0944854] B  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:16 Arch [0284964] B  ALPHA  PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:16 Arch [0602985] C  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:16 Arch [1650152] C  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI 
+2001-09-11 19:41:16 Arch [0932865] A  ALPHA  ly down [CC:lvl2] 
+2001-09-11 19:41:16 Arch [0904780] D  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:16 Arch [0935657] C  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:16 Arch [1183373] D  ALPHA  NOC TKT 
+2001-09-11 19:41:18 Arch [0428531] A  ALPHA  aton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:18 Arch [1009426] A  ALPHA  (5)Gil.Kersz@mail.s|Esrey addresses concerns about t|Date: Tue, 11 Sep 2001 18:04:07 -0500 Message-Id: <H00000810051f276.1000249446.kcopmh01@MHS> Subject: Esrey addresses
+2001-09-11 19:41:18 Arch [0048926] D  ALPHA  abentley|Your blue fighting fish is laying on the rocks. He is either very sad, sick or something else. His whole body is laying on the rocks - don't think he's just resting. T   
+2001-09-11 19:41:18 Arch [1650152] C  ALPHA  for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:18 Arch [1262280] C  ALPHA  (1)(1/1) [EA]Tkt 04237272, Sev: 3, Cust: KIMMEL,KIRSTEN, Phone: 7023661855, MailStop: NVLAVQ0701, Desc: <<Toby - Banyan password reset. Client is unable to sign on to her machi
+2001-09-11 19:41:18 Arch [1183373] D  ALPHA  at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:20 Arch [1009426] A  ALPHA   concerns about tragedy MIME-Version: 1.0 Sender: sprintnewswire/kchub1@at
+2001-09-11 19:41:20 Arch [0900896] A  ALPHA  876 813-5556
+2001-09-11 19:41:20 Arch [1262280] C  ALPHA  ne. Could not remote the client's com
+2001-09-11 19:41:23 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0633
+2001-09-11 19:41:23 Arch [0987275] C  ALPHA  s0191: 09/11 15:50:15 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:50:16
+2001-09-11 19:41:23 Metrocall [1078822] B  ALPHA  WEAR BLUE TSHIRTS FOR CLEANING GATE 4
+2001-09-11 19:41:24 Arch [0015170] A  ALPHA  90-FOR KEITH ANDERSON: HELLO, THIS IS CONRAD. I HOPE EVERYTHING IS ALL RIGHT, TONIGHT. PLEASE...
+2001-09-11 19:41:24 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 188014. 
+2001-09-11 19:41:25 Arch [0987275] C  ALPHA  sb3: INFO0002 - Trade Count Mismatch Ora=825 Rec=0 (160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:52
+2001-09-11 19:41:25 Arch [0015170] A  ALPHA  2...CALL 860-567-5986.
+2001-09-11 19:41:25 Arch [0959786] C  ALPHA  jkhouri|Not very urgent but can you call me at x56066 soon if possible. Thanks.   
+2001-09-11 19:41:25 Metrocall [1145663] D  ALPHA  AX01-11898 Loc:5055 SEMINARY RD,MONITCELLO ,SubZone:5604 Nature: BA2 /? Desc: Box Alarm 2 SMOKE ON THE 11TH FLR FIRE ALARMS ARE SOUNDING Units: R206 E208 E435 T208 M207 B211 A2
+2001-09-11 19:41:25 Metrocall [1903245] D  ALPHA  N: WH SERVER HRDNTDB1 DOWN 1544 CTL - RESOLVED
+2001-09-11 19:41:25 Metrocall [002292748] D  ALPHA  N: WH SERVER HRDNTDB1 DOWN 1544 CTL - RESOLVED
+2001-09-11 19:41:25 Metrocall [0813001] C  ALPHA  AX01-11898 Loc:5055 SEMINARY RD,MONITCELLO ,SubZone:5604 Nature: BA2 /? Desc: Box Alarm 2 SMOKE ON THE 11TH FLR FIRE ALARMS ARE SOUNDI
+2001-09-11 19:41:27 Arch [0925366] B  ALPHA   318643;Sep 11 15:42:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 19:41:29 Arch [1617771] C  ALPHA  IS IT POSSIBLE TO EXTENT 7:30-PM WINDOW PAST 8:00, ROB ROYAL
+2001-09-11 19:41:31 Arch [1650107] C  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:31 Arch [0965721] C  ALPHA  NTSECURE:Device Inaccessible
+2001-09-11 19:41:31 Arch [1330484] B  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:31 Arch [0809955] A  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:31 Arch [1602242] A  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:31 Arch [0903953] A  ALPHA  NOC TKT at 07:41 PM EDT: TKT 37045 - Baton Rouge BRI for ISDN back up is currently down [CC:lvl2] 
+2001-09-11 19:41:31 Arch [0930870] B  ALPHA  bdfenne 75925-305-DC GROC-  6074 - r#678833 - site needs to have an rf screen turned blue.  Please call Brian F.  Thank you.  Sent at 18:40      
+2001-09-11 19:41:31 Skytel [005058057] C  ALPHA  root@avm1.scc911.com|AVM1|User Processes are taking up a large percentage of CPU. Login and use top to see if there is a problem.  
+2001-09-11 19:41:31 Skytel [004579715] A ST NUM  1-909-653-1706 (1667
+2001-09-11 19:41:31 Skytel [004602627] A SH/TONE 143143  
+2001-09-11 19:41:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 16:40:27 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 19:41:31 Skytel [004568333] D  ALPHA  (2 of 2) 005731219  
+2001-09-11 19:41:31 Skytel [005130511] D ST NUM  9683242128
+2001-09-11 19:41:31 Skytel [005059722] C  ALPHA  vgalm@vgalm2.fltops.jpl.nasa.gov|V-1|E074 DC BUS I 204716 E075 SHUNT I  204716 E174 P SS POSN231029  
+2001-09-11 19:41:31 Skytel [004140687] D ST NUM  9004821008 (6  
+2001-09-11 19:41:31 Skytel [003641102] D ST NUM  800-488-7100   
+2001-09-11 19:41:31 Skytel [005376781] D SH/TONE 25866   
+2001-09-11 19:41:31 Skytel [003468685] D SH/TONE 8302    
+2001-09-11 19:41:31 Skytel [005066253] D  ALPHA  i spoke with my mom again.  she sounds a bit better. she was on the other line with debbie.  just want to let you know. she is ok.  love u
+2001-09-11 19:41:33 Metrocall [1145663] D  ALPHA  12
+2001-09-11 19:41:33 Metrocall [0813001] C  ALPHA  NG Units: R206 E208 E435 T208 M207 B211 A212
+2001-09-11 19:41:33 Skytel [003452432] A SH/TONE 3135    
+2001-09-11 19:41:33 Skytel [007658128] A ST NUM  462-498-5989   
+2001-09-11 19:41:33 Skytel [005509532] D ST NUM  900-227-3030   
+2001-09-11 19:41:33 Skytel [005237652] B ST NUM  900-204-7314   
+2001-09-11 19:41:33 Skytel [002845465] C ST NUM  945-759-4216   
+2001-09-11 19:41:34 Metrocall [1849796] B  ALPHA  09/11 19:46 EDT  Tyers, Chris      440.331.3516      Alt=TIR Unit=265407
+2001-09-11 19:41:34 Metrocall [1363588] B  ALPHA  Frm: upscheck@acns.fsu.edu Sub: ups alert Txt: --Tuesday, September 11, 2001 - 07:38:36 pm..u1-5th-lanw ..apc-400-ups ..ga
+2001-09-11 19:41:34 Metrocall [1062504] C  ALPHA  MESSAGE WAITING       :338-7024
+2001-09-11 19:41:35 Arch [0911279] D  ALPHA  Bob,  Call Oren at 342-7365 Very Important []
+2001-09-11 19:41:35 Metrocall [1708450] A  ALPHA  call dispatch
+2001-09-11 19:41:35 Skytel [005047331] A SH/TONE 470-0215
+2001-09-11 19:41:35 Skytel [004540832] A  ALPHA  3) PLEASE CALL MARLINA RE: TOMORROW'S BUSINESS. 732-235-0441
+2001-09-11 19:41:35 Skytel [005478564] B ST NUM  818-828-6743   
+2001-09-11 19:41:35 Skytel [003280174] D  ALPHA  SEV1 UPDATE Tkt: 00716748 Status: Monitor Location: r93_des_moines.netops.weyer.com Desc: r93_des_moines.netops.weyer.com::System is unavailable.::NOTIFY
+2001-09-11 19:41:35 Skytel [005239851] C  ALPHA  651-5538 [5935.KEY TECH            
+2001-09-11 19:41:35 Skytel [002675875] A SH/TONE 346-3587
+2001-09-11 19:41:35 Skytel [002349987] A SH/TONE 1703    
+2001-09-11 19:41:35 Skytel [005329577] C ST NUM  316-618-4469   
+2001-09-11 19:41:35 Skytel [003477546] C SH/TONE 44531   
+2001-09-11 19:41:35 Skytel [005437867] C SH/TONE 911281  
+2001-09-11 19:41:35 Skytel [005361576] C ST NUM  1003729659
+2001-09-11 19:41:35 Skytel [002347687] B  ALPHA  SEV1 UNRESOLVED 1 HOUR Tkt: 00717107 Assignee: Network Operations Voice & Data Location: r48_portland.netops.weyer.com Created: 09/11/01 15:33:53 Desc: R48_portland down & out to MCI
+2001-09-11 19:41:36 Metrocall [1363588] B  ALPHA  te-dif ..landis-5th-west .. ip-128.186.95.240 .. .. ....0.. volts sag Error...
+2001-09-11 19:41:36 Metrocall [1415130] C  ALPHA  AX01-11898 Loc:5055 SEMINARY RD,MONITCELLO ,SubZone:5604 Nature: BA2 /? Desc: Box Alarm 2 SMOKE ON THE 11TH FLR FIRE ALARMS ARE SOUNDING Units: R206 E208 E435 T208 
+2001-09-11 19:41:36 Metrocall [1544818] A  ALPHA  WDC-MAIL04 "Server WDC-MAIL04/MSVR/KAIPERM - The following pending documents in mail2.box are older than 30 minutes 14499E"
+2001-09-11 19:41:36 Metrocall [1430207] D  ALPHA  FOG System alfred is down
+2001-09-11 19:41:37 Arch [0986832] A  ALPHA  PATTY CALL ME RE:  AIRLIFE.  MELISSA 577777 SEP11/18:44
+2001-09-11 19:41:37 Skytel [007551930] C  ALPHA  netiq-ARCNETIQ@usa.redcross.org|NetIQ Event from ARCNETIQ : Machine Down - arcjpk1sq01|JobID = 99418 KSName = Client_PingforESOPWEB MC MachineName = ARCNETIQ Object Name = <NT_MachineFolder = arcjpk1sq01>  EventMsg = Machine Down - arcjpk1s
+2001-09-11 19:41:37 Skytel [007030578] A ST NUM  849-766-8260   
+2001-09-11 19:41:37 Skytel [007009075] A  ALPHA  watchdog@bergeys.com|Fuel System Errors|  Memory full
+2001-09-11 19:41:37 Skytel [004401082] C  ALPHA  I'm leaving a little early since I never had lunch!  -Kim
+2001-09-11 19:41:37 Skytel [002677170] A ST NUM  717-509-3923   
+2001-09-11 19:41:38 Arch [0907982] D  ALPHA  626-961-1692-11
+2001-09-11 19:41:39 Skytel [007586882] A ST NUM  797-879-8911-11911  
+2001-09-11 19:41:39 Skytel [007031106] A  ALPHA  (1 of 2) RESOLUTION  SEV1, Sears.com, Austin,DesMoines  H084685 4:40p-6:15pCST -SLI=y  I: unable to add items to shopping cart on Sears.com  R: application working again - root cause unknown  E: App support determining root cau
+2001-09-11 19:41:39 Skytel [005135296] A  ALPHA  I GOT YOUR MESSAGE, HAVE A SAFE TRIP HOME. LOVE DENISE AND FAMILY. 
+2001-09-11 19:41:39 Skytel [002404805] B  ALPHA  SEV1 UPDATE Tkt: 00716748 Status: Monitor Location: r93_des_moines.netops.weyer.com Desc: r93_des_moines.netops.weyer.com::System is unavailable.::NOTIFY
+2001-09-11 19:41:39 Skytel [007515459] A  ALPHA  Paigegirl@aol.com|be careful|work was pretty fun all thing considered
+2001-09-11 19:41:39 Skytel [007641289] C ST NUM  614-891-9824   
+2001-09-11 19:41:39 Skytel [005107022] D  ALPHA  vgalm@vgalm2.fltops.jpl.nasa.gov|V-1|E074 DC BUS I 204716 E075 SHUNT I  204716 E174 P SS POSN231029  
+2001-09-11 19:41:39 Skytel [002696262] B SH/TONE 2911    
+2001-09-11 19:41:39 Skytel [003252934] B  ALPHA  800-227-3030
+2001-09-11 19:41:39 Skytel [007031502] D  ALPHA  (2 of 2) 005731219  
+2001-09-11 19:41:39 Skytel [003948738] A SH/TONE 330-1179
+2001-09-11 19:41:39 Skytel [004555584] A ST NUM  661-618-1415   
+2001-09-11 19:41:39 Skytel [005399500] D ST NUM  622-7273 (34   
+2001-09-11 19:41:39 Skytel [005058368] A  ALPHA  vgalm@vgalm2.fltops.jpl.nasa.gov|V-1|E074 DC BUS I 204716 E075 SHUNT I  204716 E174 P SS POSN231029  
+2001-09-11 19:41:41 Skytel [007031106] A  ALPHA  se.  DavidV18
+2001-09-11 19:41:41 Skytel [007522527] D  ALPHA  y-alerts@yahoo-inc.com|| United States suspects Osama bin Laden in terrorist attacks, two U.S. offic
+2001-09-11 19:41:41 Skytel [004452048] A SH/TONE 693105  
+2001-09-11 19:41:41 Skytel [007567696] A SH/TONE 250-7164
+2001-09-11 19:41:41 Skytel [007583553] A SH/TONE 285-8211
+2001-09-11 19:41:41 Skytel [003505856] A SH/TONE 826     
+2001-09-11 19:41:41 Skytel [005050462] D SH/TONE 569-7977
+2001-09-11 19:41:41 Skytel [003256026] C  ALPHA  (2 of 2) 005731219  
+2001-09-11 19:41:41 Skytel [007035485] D  ALPHA  (2 of 2) 005731219  
+2001-09-11 19:41:41 Skytel [005118038] B SH/TONE 789-1530
+2001-09-11 19:41:41 Skytel [005122133] B ST NUM  007007 (88
+2001-09-11 19:41:41 Skytel [004540767] D  ALPHA  Quintus:LAURIE SHANIN 3993 Ref#1295514: User is having problems printing graphics from Word.. Jeff Fisher unable to fix problem
+2001-09-11 19:41:41 Skytel [004389335] B SH/TONE 813     
+2001-09-11 19:41:41 Skytel [004346463] D  ALPHA  COATZ VTA 205,913 DEP 47,044 VALLEJO VTA 54,697 DEP 31,750 GUAD VTA 51,150 DEP 52,908 PUE VTA 92,380 DEP 17,130 (3 (3
+2001-09-11 19:41:41 Skytel [004429658] C ST NUM  555-555-5555-5 
+2001-09-11 19:41:41 Skytel [004671579] C ST NUM  7) 800-227-3030
+2001-09-11 19:41:41 Skytel [003267285] B  ALPHA  Kristine Jacinto:AS400 ID EAMEZCUA Seq#463, 465, 468, 2673, 2580
+2001-09-11 19:41:41 Skytel [002391900] D  ALPHA   (SPU 1 of 1) : Elaine, the Sac Rm is not avail tomorrow, afterall, since it has been set up as the Situation Command Center by Jon Ramer. I think we have a worl-around, though. Call me: 861-3240
+2001-09-11 19:41:42 Arch [0987275] C  ALPHA  s0191: 09/11 15:56:49 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:56:49
+2001-09-11 19:41:42 Metrocall [1830239] D  ALPHA  / DR IRANIHA DR ALIPOUR 650 2400 (949) DR IS HOLDING HERE AT THE SERVICE. P/C US
+2001-09-11 19:41:42 Metrocall [1415130] C  ALPHA  M207 B211 A212
+2001-09-11 19:41:43 Skytel [0001255] B  ALPHA  Gold Team, stand down. Carry on per your work center, we will not have to be here overnight. HM2 Roark  295-2093/0074
+2001-09-11 19:41:43 Skytel [005124963] A SH/TONE 295-0764
+2001-09-11 19:41:43 Skytel [005436525] D  ALPHA  LNotes #14-IX_T1705
+2001-09-11 19:41:43 Skytel [005043559] B  ALPHA  150.ARENER MANUFACT     
+2001-09-11 19:41:43 Skytel [007610081] A ST NUM  0-562-944-9095 
+2001-09-11 19:41:43 Skytel [004695904] A  ALPHA  THIS IS JAMES AT VICTORY MORTGAGE. 714 318 4664. UNDERSTAND IT MIGHT BE SLOW TODAY DUE TO NATIONAL TRAGEDY, BUT I HAVE MR. NACHMAN CALLING ASKING STATUS, NEEDS HIS MONEY SOON. (6
+2001-09-11 19:41:43 Skytel [002285546] C ST NUM  908-753-5837   
+2001-09-11 19:41:43 Skytel [005226605] D ST NUM  8683242128
+2001-09-11 19:41:43 Skytel [004426734] D SH/TONE 225387  
+2001-09-11 19:41:43 Skytel [005213799] B SH/TONE 800-7393
+2001-09-11 19:41:43 Skytel [002842094] D SH/TONE 228     
+2001-09-11 19:41:44 Arch [0967172] B  ALPHA  28-FROM VIC, UNABLE TO MEET TONIGHT. WILL BE AT CROWN. PAGE IF YOU WANT TO TALK AT 770-262-1302.
+2001-09-11 19:41:44 Arch [0987275] C  ALPHA  s0191: 09/11 16:02:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 16:02:48
+2001-09-11 19:41:44 Metrocall [002323449] C  ALPHA  Msg:Terry L. Craig (713) 627-5893. Call me.
+2001-09-11 19:41:44 Skytel [005094397] D  ALPHA  NTManage@bsmg.com|Message from NTManage|This Message is from NMS: Device Name: Campbell Router Address: 144.210.154.246 is Not Reachable Type: Router Ping: REQ Timed Out NMS: Device in severe error state - all other checks aborted.  CAMPBEL
+2001-09-11 19:41:44 Skytel [005361778] A SH/TONE 15      
+2001-09-11 19:41:45 Skytel [007524604] D  ALPHA  truttan@fas.harvard.edu|CNN Breaking News (fwd)|see below ... white house also denied responsibility
+2001-09-11 19:41:45 Skytel [002382588] D SH/TONE 99      
+2001-09-11 19:41:45 Skytel [005340538] C SH/TONE 69      
+2001-09-11 19:41:45 Skytel [007465588] B  ALPHA  Deb, cannot get through to you...phone lines overloaded...845 561 1380 John Werkema
+2001-09-11 19:41:45 Skytel [005001201] A ST NUM  0-800-322-6592 U    
+2001-09-11 19:41:45 Skytel [003915900] D  ALPHA  [acassier] I am not feeling very well but if there is something urgent let me know Amer(57933)
+2001-09-11 19:41:46 Arch [0968977] A  ALPHA  kmulvany|Please call Kathy Mulvany re: SP Launch video. x71694.   
+2001-09-11 19:41:46 Skytel [005297155] A  ALPHA  VOICE MESSAGE [2037.CELLULAR            
+2001-09-11 19:41:46 Skytel [005507976] C SH/TONE 88      
+2001-09-11 19:41:46 Skytel [005362438] B SH/TONE 232     
+2001-09-11 19:41:48 Skytel [005045648] A SH/TONE 84363   
+2001-09-11 19:41:48 Skytel [002269721] C SH/TONE 73017   
+2001-09-11 19:41:48 Skytel [004534043] C SH/TONE 1       
+2001-09-11 19:41:48 Skytel [002819612] D  ALPHA  Dalnmx25.na.xom.com/S/ExxonMobil@exxonmobil.com|ServerWatch Notification - Serve
+2001-09-11 19:41:49 Metrocall [1192443] C  ALPHA  Tim, No word on dinner yet. Are you still at work? Suann
+2001-09-11 19:41:49 Metrocall [1280409] C  ALPHA   METROCALL SERVICE TEST  (160) 104-5347
+2001-09-11 19:41:50 Skytel [002867623] B ST NUM  34949 (56 
+2001-09-11 19:41:50 Skytel [002559533] D ST NUM  819-486-9297   
+2001-09-11 19:41:52 Skytel [005328447] D SH/TONE 1       
+2001-09-11 19:41:52 Skytel [005102648] C SH/TONE 849-9050
+2001-09-11 19:41:52 Skytel [002793144] C SH/TONE 2477    
+2001-09-11 19:41:52 Skytel [005180473] C SH/TONE 2101    
+2001-09-11 19:41:52 Skytel [007031096] C ST NUM  849-766-8260   
+2001-09-11 19:41:54 Skytel [003897665] A SH/TONE 7777    
+2001-09-11 19:41:54 Skytel [005225033] C SH/TONE 207     
+2001-09-11 19:41:54 Skytel [005041865] C ST NUM  0-925-997-9436 
+2001-09-11 19:41:54 Skytel [005082824] C ST NUM  904-520-6711   
+2001-09-11 19:41:54 Skytel [002267598] D SH/TONE 421-4401
+2001-09-11 19:41:56 Skytel [004530130] A SH/TONE 7609    
+2001-09-11 19:41:56 Skytel [002401865] C  ALPHA  10) PLEASE GIVE ME A CALL AT 609-274-7682. -RUDY GARCIA
+2001-09-11 19:41:56 Skytel [003659200] A ST NUM  480-964-7539 U (57  
+2001-09-11 19:41:56 Skytel [002559062] B ST NUM  315-370-6594   
+2001-09-11 19:41:56 Skytel [002353503] D SH/TONE 99      
+2001-09-11 19:41:56 Skytel [007512026] C  ALPHA  Y! || United States suspects Osama bin Laden in terrorist attacks, two U.S. officials say.   
+2001-09-11 19:41:56 Skytel [004385492] B SH/TONE 9       
+2001-09-11 19:41:56 Skytel [007098331] C  ALPHA  y-alerts@yahoo-inc.com|| United States suspects Osama bin Laden in terrorist attacks, two U.S. officials say.   
+2001-09-11 19:41:56 Skytel [007524444] D  ALPHA  y-alerts@yahoo-inc.com|| United States suspects Osama bin Laden in terrorist attacks, two U.S. offic
+2001-09-11 19:41:56 Skytel [005120349] D ST NUM  48) 50353 
+2001-09-11 19:41:57 Metrocall [0958978] A  ALPHA  DR CHUCK CHYTHIA W/GULFPORT 867 4820 NEW ADMIT PT:LORAINE GRAY RM:574
+2001-09-11 19:41:57 Metrocall [1456260] B  ALPHA  22-THIS IS ANNE. BAXTER IS FINE. JUST THOUGHT YOU WOULD WANT TO KNOW. CALL...
+2001-09-11 19:41:57 Metrocall [1456260] B  ALPHA  2...IF YOU HAVE ANY QUESTIONS. 387-070
+2001-09-11 19:41:57 Metrocall [1708566] B  ALPHA  call dispatch
+2001-09-11 19:41:57 Metrocall [0883250] A  ALPHA  call dispatch
+2001-09-11 19:41:58 Skytel [003939811] A ST NUM  7222674-27185  
+2001-09-11 19:41:58 Skytel [002274282] C ST NUM  965-525-5089   
+2001-09-11 19:41:58 Skytel [004437866] C SH/TONE 953-9533
+2001-09-11 19:41:58 Skytel [007585772] D ST NUM  98949007411415411143
+2001-09-11 19:41:59 Arch [0909446] B  ALPHA  9160312-911911
+2001-09-11 19:41:59 Arch [0475880] C  ALPHA  From Jason Viator Sub:Wal-Mart TV - Please call me concerning tomorrow morning's video - Tom Schoewe will need to be Video Conferenced in (he is in Mexico) and NE will be onsite at 06:30. ...
+2001-09-11 19:41:59 Arch [1089226] C  ALPHA  #ePhoneBook@uboc|(From: byron@16:41) how about the lockbox for imaging pod that was captured on fridays sort pattern is it o.k. to go ahead and post it with our early pod ???? ************************************************************
+2001-09-11 19:41:59 Arch [0968360] C  ALPHA  From Jason Viator Sub:Wal-Mart TV - Please call me concerning tomorrow morning's video - Tom Schoewe will need to be Video Conferenced in (he is in Mexico) and NE will be onsite at 06:30. ...
+2001-09-11 19:41:59 Arch [1430296] C  ALPHA  (3)59-I'M GOING TO DO MY SIDE JOB. I'LL T
+2001-09-11 19:41:59 Arch [0855345] A  ALPHA  973-9041
+2001-09-11 19:41:59 Arch [0987612] D  ALPHA  MSN <alert@msn.c|Hotmail Erne Pe:COmo estan Uds? 
+2001-09-11 19:41:59 Arch [0898689] A  ALPHA  ANNETTE NEEDS YOU IN THE NEWSROOM
+2001-09-11 19:41:59 Arch [0965329] A  ALPHA  374-0731
+2001-09-11 19:41:59 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2889
+2001-09-11 19:41:59 Metrocall [1456260] B  ALPHA  5.
+2001-09-11 19:41:59 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2889
+2001-09-11 19:41:59 Skytel [004757744] A SH/TONE 220     
+2001-09-11 19:41:59 Skytel [002356606] D  ALPHA  y-alerts@yahoo-inc.com|| United States suspects Osama bin Laden in terrorist attacks, two U.S. officials say.   
+2001-09-11 19:41:59 Skytel [005124346] C SH/TONE 57606   
+2001-09-11 19:41:59 Skytel [005093860] B SH/TONE 238-3000

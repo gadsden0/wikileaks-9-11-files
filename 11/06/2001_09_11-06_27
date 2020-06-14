@@ -1,0 +1,57 @@
+2001-09-11 06:27:00 Arch [0419404] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_ops_distribution.ksh 0 Body:Skipping transfer output since it is not friday. Exiting successfully.
+2001-09-11 06:27:01 Skytel [005125249] A ST NUM  508-281-0502   
+2001-09-11 06:27:01 Skytel [005405448] C SH/TONE 260-5136
+2001-09-11 06:27:05 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb1 login content match error on step 2, http://192.168.67.181:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informat
+2001-09-11 06:27:05 Skytel {1330033} 4 1200 MOT 15.04 +0.75 TDP 3.85 +0.06 TEF 30.02 +0.29 TAR 12.40 -0.11
+2001-09-11 06:27:06 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6916
+2001-09-11 06:27:06 Arch [1052294] B  ALPHA  |NETWORK-P1 NOTICE #4243506 |Mexicocity-gw is down impacting mexico city feild sales office call managers. Minimum business impact due to time of day. Support is investigating. OUTAGE START: 11 Sep 03:14 PT NO ETU. Ops 408-527-0007 |232  
+2001-09-11 06:27:06 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2212 - 001DEB OCALA 6125, high BER, Set
+2001-09-11 06:27:06 Skytel {1336786} 1 1200 VAR 65.40 +0.90..
+2001-09-11 06:27:09 Arch [1616636] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:The Comp Admin GUI is now available. Sent at 06:26 EDT on 09/11/2001
+2001-09-11 06:27:09 Arch [0716752] A  ALPHA  (30)27-NETSCAPE SERVED DOWN.  PLEASE CALL EDITH LANDRY AT 972-405-6202.
+2001-09-11 06:27:09 Arch [0419404] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_actuate4_add_shared_users.ksh 0 Body:Skipping pace2_actuate4_add_shared_users.ksh since it is not friday. Exiting successfully.
+2001-09-11 06:27:09 Arch [0472136] C  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:The Comp Admin GUI is now available. Sent at 06:26 EDT on 09/11/2001
+2001-09-11 06:27:11 Arch [0419404] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_end_jobstream.ksh 0 Body:All updates have completed, exiting successfully.
+2001-09-11 06:27:13 Metrocall [1064374] B  ALPHA  YEN  121.83/88 +090 EUR  0.8971/77 -010 CHF  1.6865/70 -014 GBP  1.4575/80 +012 CAD  1.5606/11 -020 AUD  0.5128/33 -005  NZD  0.4263/70 -044 DEM  2.1794/04 +024  E/C  1.5145/57 -010 E/Y  109.28/36 +063 E/S  0.6153/56 -005 USD     114.91 +013
+2001-09-11 06:27:15 Metrocall [1064388] B  ALPHA  LCO 2730/2725  -015 CL 2755/780/785-008 2754/2711/2673/2655 2623/2591/2560/2530 HO 7950/015/050-011 HU 8155/740/560-032 NG2409/2680/003+017 3153/3120/3050/2960 965/010/040/055/065 LGO 23850/4075-0375 PL v4390/f4320 +007 EC _3300/_3150+0150 PAm45600+00
+2001-09-11 06:27:16 Metrocall [1064388] B  ALPHA  0
+2001-09-11 06:27:17 Arch [1642388] B  ALPHA  PROD AUTOMARK_ALL_CONTRACT AUTO MARK FAILED FOR 0057
+2001-09-11 06:27:17 Arch [0162597] B  ALPHA  #24 GUY 718 986 2821 -BILLY
+2001-09-11 06:27:17 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179066. 
+2001-09-11 06:27:19 Arch [0320272] A  ALPHA  PATROLpatrol - hrnais01.NSQUEUE_PNS-NSQUEUE_PNS-NADIN ALARM/ALARM 200<=313.000000<=400.Critical
+2001-09-11 06:27:20 Metrocall [0848090] C  ALPHA  F:fvs S:Servers Alive keep alive mail (DSFVS) M:Servers Alive keep alive mail (D
+2001-09-11 06:27:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9839
+2001-09-11 06:27:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3487
+2001-09-11 06:27:31 Skytel [005225860] B SH/TONE 125     
+2001-09-11 06:27:33 Skytel [005330071] B ST NUM  504-648-2050 U (45  
+2001-09-11 06:27:33 Skytel [002559894] B SH/TONE 772-7213
+2001-09-11 06:27:33 Skytel [007575575] B  ALPHA  [MINOR] dijon: File-system "/biller/wnet/data/parser" is now 86% full.
+2001-09-11 06:27:33 Skytel [002401821] D  ALPHA  ssmcscsm13 N/A SJ1S1:Agent:Ping::Broken SJ1S1 is DOWN!  
+2001-09-11 06:27:36 Skytel [002280115] A ST NUM  814-995-2620   
+2001-09-11 06:27:36 Skytel [007503156] B SH/TONE 6309    
+2001-09-11 06:27:40 Skytel [003928287] D  ALPHA  TOM. THIS IS RAY, MY CONTINENTAL FLIGHT CANCELLED MHT TO EWR. NEXT  FLIGHT IS AT 9:40 AM ARRIVING 11 AM. PAGER NUMBER 1 888 935 8317 
+2001-09-11 06:27:40 Skytel [002377819] C  ALPHA  Martin.Monson@sun.com|T +2hr20min 01:55mst : Status update|The monitoring system has been restored and has been stable for 30 minutes.  Monitoring can resume as normal.  
+2001-09-11 06:27:40 Skytel [002403166] D  ALPHA  Vmail
+2001-09-11 06:27:40 Skytel [002376667] C  ALPHA  Martin.Monson@sun.com|T +2hr20min 01:55mst : Status update|The monitoring system has been restored and has been stable for 30 minutes.  Monitoring can resume as normal.  
+2001-09-11 06:27:42 Skytel [005436525] D  ALPHA  Test #12-IX_T1916
+2001-09-11 06:27:42 Skytel [005521761] A  ALPHA  no-reply@wcom.com|CSR SERVER ALERT|CSRP.world: Unable to establish connection to ILEC  (Request ID: 10234592)  
+2001-09-11 06:27:42 Skytel [004524770] A  ALPHA  spf-lavalleyBuilding-NewportNH-0: CPE Up at 01:32:07 on 9/11
+2001-09-11 06:27:42 Skytel [005102305] A  ALPHA  Sep11:06-21:morhp321:ORA-1142 signalled during: ALTER TABLESPACE PSAPCE2I END BACKUP... 
+2001-09-11 06:27:43 Arch [0909854] D  ALPHA  ALERT#: 1 WB09110036 STOP & SHOP 0576 ISS400 516-541-3922 58023
+2001-09-11 06:27:43 Arch [0975978] C  ALPHA  From Dale Cade: Rita, please see my note on CA working in the stores.  Shark code load went well on dev.  Production loads start today at 08:00.  Dale Cade  
+2001-09-11 06:27:44 Skytel [005040758] B SH/TONE 4490 (45
+2001-09-11 06:27:48 Skytel [003778075] C SH/TONE 47810   
+2001-09-11 06:27:48 Skytel [003477655] B SH/TONE 101     
+2001-09-11 06:27:50 Metrocall [1422655] D  ALPHA  P020 Jam RT+P020
+2001-09-11 06:27:50 Metrocall [1422670] D  ALPHA  P020 Jam RT+P020
+2001-09-11 06:27:50 Metrocall [1422658] A  ALPHA  P020 Jam RT+P020
+2001-09-11 06:27:50 Metrocall [1060385] A  ALPHA  Frm: AMDC CAMS Sub: Errors in FTP from NFC Txt: 421 Service not available, remote server has closed connection Not connected. Not connected. Not connected. No
+2001-09-11 06:27:50 Metrocall [1104159] D  ALPHA  Frm: AMDC CAMS Sub: Errors in FTP from NFC Txt: 421 Service not available, remote server has closed connection Not connected. Not connected. Not connected. Not connected.
+2001-09-11 06:27:50 Metrocall {1175634} 2 2400 711..
+2001-09-11 06:27:50 Skytel [002676013] D SH/TONE 47810   
+2001-09-11 06:27:50 Skytel [003857568] A SH/TONE 47810   
+2001-09-11 06:27:51 Arch [0650062] D  ALPHA  Initial X4236083 05:13 09/11/2001. PROB: Funlove Virus at KCMART IMP: Affecting 30 workstation and Possibly Peoplesoft STATUS: Bridge is in progress *
+2001-09-11 06:27:53 Skytel [002850374] B SH/TONE 47810   
+2001-09-11 06:27:54 Metrocall [1060385] A  ALPHA  t connected.
+2001-09-11 06:27:55 Skytel [005363294] D SH/TONE 588-2347
+2001-09-11 06:27:57 Skytel [007641961] C SH/TONE 17      

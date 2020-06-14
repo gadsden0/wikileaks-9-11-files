@@ -1,0 +1,64 @@
+2001-09-11 05:00:00 Arch [1206926] D  ALPHA  From:PAERSCNHM01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server PAERSCNML25/SERVER/Prudential is Responding Body:Server PAERSCNML25/SERVER/Prudential is Responding or has been  restarted.
+2001-09-11 05:00:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2007
+2001-09-11 05:00:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2007
+2001-09-11 05:00:00 Metrocall [0486123] C  ALPHA  VIENNA: TODAY.&D.....@........................................10 TO 15 MPH.
+2001-09-11 05:00:01 Skytel [005052161] A SH/TONE 7087    
+2001-09-11 05:00:02 Arch [0923952] A  ALPHA  esd+ars_notify@p|Notify-|Case: SR100110970 Event: CASE OPENED Cust: MICROSOFT Contact: Daniel Snowden Phone: 425-703-0573 Sev: Low Assign: Scott Stearns Contract: null Customer Number: 106864 
+2001-09-11 05:00:03 Skytel [007098397] D SH/TONE 999     
+2001-09-11 05:00:03 Skytel {0967785} 3 1200 654  
+2001-09-11 05:00:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6829
+2001-09-11 05:00:10 Arch [1612111] D  ALPHA  monitor@ccbill.c|HTTPD Frontend front2r.escrub.co|ERROR: could not connect to front2r.escrub.com on port 80 (httpd). Timestamp: 20010911015500 
+2001-09-11 05:00:14 Arch [0951557] B  ALPHA  x6969 - WebStar Num. 800233 Impact 1 -  (937)865-6800 x4821 /  - I2B8447A  rc 1002 step  LC0249
+2001-09-11 05:00:25 Arch [0950818] A  ALPHA  From Sams Interactive App Sub:CNP fulfillment 09110400 Msg:# late  4  # 5 hrs out  1  total open  20  
+2001-09-11 05:00:25 Arch [0282950] B  ALPHA  From Sams Interactive App Sub:CNP fulfillment 09110400 Msg:# late  4  # 5 hrs out  1  total open  20  
+2001-09-11 05:00:25 Arch [1355675] C  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 05:00:25 Arch [0475901] D  ALPHA  From Sams Interactive App Sub:CNP fulfillment 09110400 Msg:# late  4  # 5 hrs out  1  total open  20  
+2001-09-11 05:00:25 Arch [1423082] C  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 05:00:25 Arch [0979069] D  ALPHA  From Sams Interactive App Sub:CNP fulfillment 09110400 Msg:# late  4  # 5 hrs out  1  total open  20  
+2001-09-11 05:00:25 Arch [1080366] D  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 05:00:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9752
+2001-09-11 05:00:31 Skytel [005386632] C  ALPHA  bb@fw1-qw1.quicknet.net|!BB - 1939911! ec1-qw1.quicknet.net.http - 600010009100010|[1939911]   ec1-qw1.quicknet.net.http red  Tue Sep 11 02:00:22 PDT 2001    &green https://store1.quicknet.net/cgi-bin/dialpad?  DCP1 - Server OK HTTP/1.1 200
+2001-09-11 05:00:31 Skytel [005386637] D  ALPHA  bb@fw1-qw1.quicknet.net|!BB - 1939910! ec1-qw1.quicknet.net.http - 600010009100010|[1939910]   ec1-qw1.quicknet.net.http red  Tue Sep 11 02:00:22 PDT 2001    &green https://store1.quicknet.net/cgi-bin/dialpad?  DCP1 - Server OK HTTP/1.1 200
+2001-09-11 05:00:33 Skytel [007064086] B SH/TONE 270-4200
+2001-09-11 05:00:36 Skytel [005133629] D  ALPHA  ipmonitor@parsons.com|2001-9-11, 02:08:28, SACDC02 (SERVER), SERVICE, Server failed to handle request|2001-9-11, 02:08:28, SACDC02 (SERVER), SERVICE, Server failed to handle request  
+2001-09-11 05:00:36 Skytel [005119032] C SH/TONE 822-8887
+2001-09-11 05:00:36 Skytel [002793017] C SH/TONE 7600    
+2001-09-11 05:00:36 Skytel [005228862] D SH/TONE 2002    
+2001-09-11 05:00:36 Skytel [002381881] C SH/TONE 5400    
+2001-09-11 05:00:36 Skytel [005507772] D ST NUM  778-355-8342 U 
+2001-09-11 05:00:38 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178119. 
+2001-09-11 05:00:40 Arch [0931795] A  ALPHA  [IS-HQ DOWN] ftz-mac (unresolvable)
+2001-09-11 05:00:40 Skytel [005384405] B  ALPHA  bb@fw1-qw1.quicknet.net|!BB - 1939912! ec1-qw1.quicknet.net.http - 600010009100010|[1939912]   ec1-qw1.quicknet.net.http red  Tue Sep 11 02:00:22 PDT 2001    &green https://store1.quicknet.net/cgi-bin/dialpad?  DCP1 - Server OK HTTP/1.1 200
+2001-09-11 05:00:40 Skytel [004537169] A  ALPHA  Joe_Brady@Mastercard.com||From:Joe BradyF.Y.I. - Ops is calling a PRT on a SAM (Settlement Account Maintenance) failure - This is NOT a network issue - Unix Ops is working this issue - They are looking to fail over to LKS  
+2001-09-11 05:00:40 Skytel [003253335] B ST NUM  778-355-8342 U (97  
+2001-09-11 05:00:40 Skytel [003253340] D ST NUM  678-355-8342 U 
+2001-09-11 05:00:40 Skytel [007101405] D SH/TONE 2328    
+2001-09-11 05:00:40 Skytel [005212376] C ST NUM  778-355-8342 U 
+2001-09-11 05:00:40 Skytel [003951056] A  ALPHA  snvcname01 Resource: SNVCNAME01:/NT_CPU/CPU__Total/CPUprcrProcessorTimePercent,current state is : CRITICAL ussa11.SSMC 
+2001-09-11 05:00:42 Skytel [002383334] B  ALPHA  SkyFax: :1 Page
+2001-09-11 05:00:42 Skytel [004524770] A  ALPHA  wil-PaulFrankCollins-BurlingtonV: CPE Up at 00:58:21 on 9/11
+2001-09-11 05:00:42 Skytel [005436525] D  ALPHA  Test #1-IX_T1804
+2001-09-11 05:00:42 Skytel [004515811] A ST NUM  678-355-8342 U 
+2001-09-11 05:00:42 Skytel [002372705] A  ALPHA  kfoxwell@lucent.com||Steve, I have an outage in Northampton, PA.  They had a power problem and lost the CNI ring.  21,000 lines effected. call me at 717-227-0334. Kevin  
+2001-09-11 05:00:42 Skytel [005003367] B  ALPHA  Reboot@sam-adams.genuity.com||Reboot bur-faxsvr.genuity.com @06:00  
+2001-09-11 05:00:42 Skytel [007641961] C SH/TONE 17      
+2001-09-11 05:00:42 Skytel [005112809] C  ALPHA  03:56CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240416: Uncorrectable write error
+2001-09-11 05:00:44 Arch [1318633] C  ALPHA  Chiller # 6 is ON  
+2001-09-11 05:00:44 Skytel [007541750] B SH/TONE 1403    
+2001-09-11 05:00:44 Skytel [007109749] B SH/TONE 281157  
+2001-09-11 05:00:44 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Disk used % for /clients/IVR/home/rswwwp/work is 85; > than 80
+2001-09-11 05:00:44 Skytel [004547191] B ST NUM  778-355-8342 U 
+2001-09-11 05:00:44 Skytel [005080816] A  ALPHA  678-355-8342 U
+2001-09-11 05:00:45 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2212 - 001DEB OCALA 6125, high BER, Set
+2001-09-11 05:00:45 Arch [0000101] B  ALPHA  MSN 106 hello Message from NOC PCB.
+2001-09-11 05:00:46 Skytel [003783556] B ST NUM  778-355-8342 U 
+2001-09-11 05:00:48 Skytel [003329304] C ST NUM  778-355-8342 U (37  
+2001-09-11 05:00:48 Skytel [004593812] B ST NUM  778-355-8342 U 
+2001-09-11 05:00:50 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb1 login content match error on step 2, http://192.168.67.181:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informat
+2001-09-11 05:00:50 Skytel [007041831] B  ALPHA  www@omzsam61-Remssb-100.wcomnet.com|_msg18954|From margotm: step 13 of cdc is in overtime and I can't see where its doing anything Margot 888-259-2996  
+2001-09-11 05:00:51 Arch [0922767] D  ALPHA  <GSKE-Commerce@g|Production Load_All|The job has started. 
+2001-09-11 05:00:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1273..
+2001-09-11 05:00:53 Skytel [004591938] A  ALPHA  appworx@db02.gefa.capital.ge.com||PROD Chain Fail for SITERICP Chain=OBI_MF_GL_P
+2001-09-11 05:00:57 Skytel [005330926] D  ALPHA  root@speedy.acosta.com|Speedy system errors|Some filesystems are over 95% full - bdf Some dbspaces are too full - onstatd.sh acostadbs1      size is 3048000 free is  999456 percent free 32 acostadbs2      size is 5072000 free is 1496362 per
+2001-09-11 05:00:59 Skytel [003271539] A ST NUM  697-505-0797-7914   
+2001-09-11 05:00:59 Skytel [005343224] C ST NUM  011-1111-11    

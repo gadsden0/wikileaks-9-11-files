@@ -1,0 +1,68 @@
+2001-09-12 01:38:00 Metrocall [1544818] A  ALPHA  CRDC-GWY01 "Server CRDC-GWY01/GSVR/KAIPERM - The following pending documents in mail3.box are older than 30 minutes 1202,1206,120A,120E,1212,1216,121A,1222,1226,122E,1232,1236,123A,123E"
+2001-09-12 01:38:00 Metrocall [002510393] C  ALPHA  Frm: Bach, Nancy(FUSA) Sub: transmission fileq Txt: file 244 items 4294 $3,390,693.62
+2001-09-12 01:38:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4637
+2001-09-12 01:38:00 Skytel [002154487] B SH/TONE 6360    
+2001-09-12 01:38:01 Arch [0935283] A  ALPHA  43-PLEASE CALL HARRY AT 917-680-4432.
+2001-09-12 01:38:01 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192076. 
+2001-09-12 01:38:01 Arch [0987275] C  ALPHA  s0191: 09/11 15:56:49 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:56:49
+2001-09-12 01:38:02 Skytel [004397838] D  ALPHA  TO:feed FROM:Data SQL Support SUB: e_prod02 is past the drop dead point! MSG: (5
+2001-09-12 01:38:03 Arch [0987275] C  ALPHA  s0191: 09/11 16:02:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 16:02:48
+2001-09-12 01:38:03 Skytel [005005076] B ST NUM  801-922-4932   
+2001-09-12 01:38:03 Skytel [005206421] B  ALPHA  TO:rsamail FROM:NT Batch Account Reporting Alternate,+1(425)936-7749 SUB: mpq.usprice  MSG:Failed - ntmail failed , see logs   
+2001-09-12 01:38:05 Skytel [005001895] B  ALPHA  [sps/176] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/csftraining/healthcheck.asp) 3:20:29
+2001-09-12 01:38:06 Skytel {1092655} 3 2400 002631    
+2001-09-12 01:38:10 Arch [0911037] D  ALPHA  7524
+2001-09-12 01:38:10 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0990
+2001-09-12 01:38:10 Metrocall [1875897] C  ALPHA  Frm: MSN Txt: Hotmail Network Commerce:A Plea on Behalf of the American Red Cross
+2001-09-12 01:38:16 Arch [0945489] A  ALPHA  Vali.Ali@Compaq.|Tentative: Microsoft eHome|
+2001-09-12 01:38:19 Metrocall [1865024] A  ALPHA  Frm: SMTPPAGE@gulfaero.com Sub: SILO Txt: SUBPOOL STANDARD, 79 SCRATCH VOLUMES REMAINING 09/12/01 01:38:08
+2001-09-12 01:38:19 Metrocall [1457944] C  ALPHA  Frm: ClearSupport@NortelNetworks.com Sub: ClearSupport Case 010912-9246 (E1/E2/BC Creation) Txt: Summary: 09/12/2001 01:14:02
+2001-09-12 01:38:19 Metrocall [1400958] D  ALPHA  GLEN OAKS 847 498 9320 EXT 21 PT KYLEN,ANTHONY  0:27-6-12/09
+2001-09-12 01:38:19 Metrocall [1485023] D  ALPHA  THIS IS CHRIS W/ LITTLE CO OF MARY ER. PLEASE CALL US AT 310 543 5814. FOR DR SCHERER.
+2001-09-12 01:38:20 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 10.843800:FATAL:Sep 11, 2001 16:21
+2001-09-12 01:38:21 Metrocall [1457944] C  ALPHA   | WorldCom Purchasing LLC (Access); Nortel Networks - Richardson | CUST LOC | Nick Sanzone | E1 | Switching | DMS-
+2001-09-12 01:38:25 Arch [0931795] A  ALPHA  |OPC: mcoolap-sj-1: /dev/vx/dsk/mcoolapdg/misc, mounted at /fs/misc, is at 98  
+2001-09-12 01:38:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3246
+2001-09-12 01:38:30 Metrocall [1314835] A  ALPHA  s2,00501688,SEV 2 TCKT OPENED,WILRMG2,WILRMG2 AOLRMG Not receiving new applicati
+2001-09-12 01:38:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3246
+2001-09-12 01:38:31 Arch [1398696] C  ALPHA  311 MOSXS1:Device Accessible,Device Status:Ok
+2001-09-12 01:38:32 Skytel [005225860] B SH/TONE 125     
+2001-09-12 01:38:33 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 22.75 21.51 19.75 Tue Sep 11 22:39:00 MST 2001 
+2001-09-12 01:38:33 Skytel [004085140] B ST NUM  455-5555-55    
+2001-09-12 01:38:35 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 27.77 26.03 21.30 Tue Sep 11 22:39:00 MST 2001 
+2001-09-12 01:38:35 Skytel [005106221] D SH/TONE 236 (39 
+2001-09-12 01:38:35 Skytel [004024864] A  ALPHA  s2,00501688,ack,WILRMG2 ,WILRMG2 AOLRMG Not receiving new applications. Last App Recvd at 00:28 . Check Server and    (36
+2001-09-12 01:38:35 Skytel [005209768] C SH/TONE 7171    
+2001-09-12 01:38:37 Skytel [003664693] B  ALPHA  TO:ckafader FROM:Byron Prather (Excell Data Corporation),+1(425)704-3358 SUB: RE
+2001-09-12 01:38:39 Skytel [004587207] B SH/TONE 1289    
+2001-09-12 01:38:39 Skytel [005314250] C SH/TONE 835-5127
+2001-09-12 01:38:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:38:40 Metrocall [1923558] B  ALPHA  Frm: SMTPPAGE@gulfaero.com Sub: SILO Txt: SUBPOOL STANDARD, 79 SCRATCH VOLUMES REMAINING 09/12/01 01:38:08
+2001-09-12 01:38:41 Skytel [002377811] A  ALPHA  gwsho@exchange.ml.com|IWSEUR2 : Device Inaccessible|'Device Inaccessible' alarm received from IWSEUR2 at 1:14AM on 9/12/01  A 'Device Inaccessible' alarm signifies that Compaq Insight Manager is not currently receiving network responses fro
+2001-09-12 01:38:41 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job118993 SNYC00501 09/12 01:38 AGENT
+2001-09-12 01:38:42 Arch [0987275] C  ALPHA  s0191: 09/11 11:42:59 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:42:59
+2001-09-12 01:38:42 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192083. 
+2001-09-12 01:38:43 Skytel [004754531] A ST NUM  817-969-4061   
+2001-09-12 01:38:43 Skytel [002351574] B SH/TONE 340-3272
+2001-09-12 01:38:43 Skytel [007438052] B SH/TONE 3333 (1 
+2001-09-12 01:38:43 Skytel [007461352] C ST NUM  404-482-2432   
+2001-09-12 01:38:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #92-IX_T1706
+2001-09-12 01:38:44 Arch [0987275] C  ALPHA  s0191: 09/11 11:48:17 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:48:18
+2001-09-12 01:38:45 Skytel [003949183] D  ALPHA  ENS - Unable to open ticket intrdp02 - HPUnix Server - CPU1 is in a CRITICAL state 
+2001-09-12 01:38:45 Skytel [004417147] C SH/TONE 25854   
+2001-09-12 01:38:47 Skytel [005350539] C ST NUM  719-596-2769   
+2001-09-12 01:38:48 Skytel [007465749] B ST NUM  872-395-3575   
+2001-09-12 01:38:52 Arch [0987275] C  ALPHA  s0191: 09/11 11:56:22 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:56:22
+2001-09-12 01:38:52 Skytel [003952825] C ST NUM  257-113-7143   
+2001-09-12 01:38:52 Skytel [005205694] D  ALPHA  Hong Kong Exchange To Suspend Trade In Nasdaq Shares[DJ NEWS]
+2001-09-12 01:38:54 Skytel [002936906] C SH/TONE 86285   
+2001-09-12 01:38:55 Arch [0524196] B  ALPHA  93-PLEASE CALL DIANE ADAMS AT 919-274-8424.
+2001-09-12 01:38:56 Skytel [005325918] D  ALPHA  09/12/01 01:37 RED TPFB PATH AMRO AMRO CLOSED
+2001-09-12 01:38:56 Skytel [007102168] C SH/TONE 6023    
+2001-09-12 01:38:56 Skytel [004547038] D SH/TONE 800-7473
+2001-09-12 01:38:58 Skytel [005346919] B  ALPHA  2) ARC 0.00 UNCH GDT 34.15 UNCH MRK 66.10 UNCH LLY 77.20 UNCH
+2001-09-12 01:38:58 Skytel [005256929] A  ALPHA  09/12/01 01:37 RED TPFB PATH AMRO AMRO CLOSED
+2001-09-12 01:38:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8068
+2001-09-12 01:38:59 Arch [0739731] A  ALPHA  7200
+2001-09-12 01:38:59 Arch [0948702] D  ALPHA         EVENT/3RD ALARM    ADDRESS/ 52 MONTROSE AVE  CROSS STREET/  AT MANHATTEN AVE           DETAILS/
+2001-09-12 01:38:59 Arch [0899751] B  ALPHA         EVENT/3RD ALARM    ADDRESS/ 52 MONTROSE AVE  CROSS STREET/  AT MANHATTEN AVE           DETAILS/

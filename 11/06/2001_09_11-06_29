@@ -1,0 +1,88 @@
+2001-09-11 06:29:01 Metrocall [002117788] D  ALPHA  Frm: PRODLA Sub: Alarm Txt: T402 HIHI TEMP
+2001-09-11 06:29:01 Metrocall [1104994] A  ALPHA  Frm: jmizzi@bidcom.com Sub: Excess Oracle processes in Production - 368 Txt: Total no. of processes : 368
+2001-09-11 06:29:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2096
+2001-09-11 06:29:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2096
+2001-09-11 06:29:01 Skytel [002384012] D  ALPHA  THE SUMMIT BATCH IS STILL SHOWING THE STATUS OF RUNNING. RICK FREESE. 609-282-4146.
+2001-09-11 06:29:03 Skytel [004572314] C  ALPHA  recon_hm1.txt
+2001-09-11 06:29:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6918
+2001-09-11 06:29:04 Arch [0589787] C  ALPHA  61-PLS CALL JOY IF YOU CAN, EXT 2519.
+2001-09-11 06:29:04 Arch [1616636] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_end_jobstream.ksh 0 Body:All updates have completed, exiting successfully.
+2001-09-11 06:29:04 Arch [0472136] C  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_end_jobstream.ksh 0 Body:All updates have completed, exiting successfully.
+2001-09-11 06:29:04 Arch [0893661] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_actuate4_add_shared_users.ksh 0 Body:Skipping pace2_actuate4_add_shared_users.ksh since it is not friday. Exiting successfully.
+2001-09-11 06:29:05 Skytel [003922733] D  ALPHA  THE SUMMIT BATCH IS STILL SHOWING THE STATUS OF RUNNING. RICK FREESE. 609-282-4146.
+2001-09-11 06:29:05 Skytel [002401821] D  ALPHA  146.22.45.222 ASOOMG1A CDCJ XCHN WARNING: CHANNEL PATH 5F IS NOT OPERATIONAL ussa11.SSMC 
+2001-09-11 06:29:05 Skytel {1092655} 3 2400 002248    
+2001-09-11 06:29:06 Arch [0893661] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:The Comp Admin GUI is now available. Sent at 06:26 EDT on 09/11/2001
+2001-09-11 06:29:07 Arch [0893661] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_end_jobstream.ksh 0 Body:All updates have completed, exiting successfully.
+2001-09-11 06:29:11 Metrocall [0477984] A  ALPHA  CALL CARLOS PLEASE
+2001-09-11 06:29:11 Metrocall [1064378] C  ALPHA  EUROHYPO LUX NAMES BANKS FOR $500 MLN FIVE-YEAR ISSUE
+2001-09-11 06:29:11 Metrocall [1064395] C  ALPHA  .....................................................................RBSSiuXj@@RA@vI|@L
+2001-09-11 06:29:19 Arch [0945069] D  ALPHA  "RCDN Campus" <a|RCDN6 Bldg 5 - 4th Floor SF_FAIL Bldg 5 - 4th Floor Supply fan failure alarm. * 
+2001-09-11 06:29:20 Metrocall [0643447] B  ALPHA  Frm: Risk MIS Sub: FW_mis.ksh(0):Completed Successfully Tue Sep 11 06:29:30 EDT 2001 Txt: ******************** This transmission may contain information that is privileged, confidential and/or exempt
+2001-09-11 06:29:22 Arch [0899336] C  ALPHA  MSN <alert@msn.c|Hotmail iExpect.com Daily:RHIANNON 
+2001-09-11 06:29:22 Arch [0976587] C  ALPHA  Topaz Production|HQ-STP Status Update as of 06:28|STP status: Green. Link status: Up. Inbound channel: Open. Outbound channel: Open. 
+2001-09-11 06:29:22 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179082. 
+2001-09-11 06:29:22 Arch [0924061] D  ALPHA  Topaz Production|HQ-STP Status Update as of 06:28|STP status: Green. Link status: Up. Inbound channel: Open. Outbound channel: Open. 
+2001-09-11 06:29:22 Arch [0931411] A  ALPHA  Topaz Production|HQ-STP Status Update as of 06:28|STP status: Green. Link status: Up. Inbound channel: Open. Outbound channel: Open. 
+2001-09-11 06:29:22 Metrocall [0277909] B  ALPHA  9-11-01 6:22 PAGE01 FAN 31 RETURN FAN IS IN FLOW ALARM CHECK ASAP. IF UNABLE TO CORRECT CONTACT GEORGE THORNE. ON
+2001-09-11 06:29:28 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9841
+2001-09-11 06:29:28 Arch [0967858] A  ALPHA  polytest@moxa4y.|CHEMSALES RAILCAR FAILED|script: /polyweb1fs/test/scripts/railcar_load.scr RAILCAR PROCESS SQLPlus failed on: Tue Sep 11 06:36:01 EDT 2001 return code was 2 check /polyweb1fs/test/scripts/railcar_load_sql.log 
+2001-09-11 06:29:30 Arch [0967858] A  ALPHA  polytest@moxa4y.|test ABEND!|script: /polyweb1fs/test/scripts/railcar_load.scr RAILCAR PROCESS SQLPlus failed on: Tue Sep 11 06:36:01 EDT 2001 return code was 2 check /polyweb1fs/test/scripts/railcar_load_sql.log
+2001-09-11 06:29:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 03:26:39 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 06:29:31 Skytel [002423055] D  ALPHA  B
+2001-09-11 06:29:31 Skytel [005042439] B  ALPHA  Camp David parking space available. Rafter
+2001-09-11 06:29:34 Arch [1000353] A  ALPHA  20-PLEASE CALL RON AT EXT 6768 ASAP.
+2001-09-11 06:29:34 Arch [0545241] C  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 04700320 from cluster 1082 to cluster 2028), status C3AE181B, extended status 00000032. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-11 06:29:34 Arch [1604987] C  ALPHA  MSN <alert@msn.c|Top Stories: Stocks closed mixed Monday, having meandered in and out of negative ground for most of 
+2001-09-11 06:29:37 Arch [0924061] D  ALPHA  Generic TOPAZ us|STP Status Update as of 06:28:41|STP status: Green. Link status: Up. Inbound channel: Open. Outbound channel: Open. 
+2001-09-11 06:29:37 Arch [0931411] A  ALPHA  Generic TOPAZ us|STP Status Update as of 06:28:41|STP status: Green. Link status: Up. Inbound channel: Open. Outbound channel: Open. 
+2001-09-11 06:29:37 Arch [0976587] C  ALPHA  Generic TOPAZ us|STP Status Update as of 06:28:41|STP status: Green. Link status: Up. Inbound channel: Open. Outbound channel: Open. 
+2001-09-11 06:29:37 Skytel [005110712] C SH/TONE 106     
+2001-09-11 06:29:38 Skytel [003641413] B ST NUM  710-395-0580 (86    
+2001-09-11 06:29:38 Skytel [007438026] C SH/TONE 3333 (6 
+2001-09-11 06:29:38 Skytel [003669560] C  ALPHA  Delete: SOUTH ATLANTIC OCEAN  9/11  9:12:25 UOAJ (73
+2001-09-11 06:29:39 Arch [0418533] B  ALPHA  (32)45:ABS: Tkt:4969643, Sev:3, TIQ:127min, Sname:ISOT, CIS Id:13088439, Contact:YU/NE1 @ 2546813881 Note:CUST IS HAQVING PROBLEMS W/BGP/CUST NEEDS TECH TO LOOK AT FILTERS TO S EE IF ADVERTISMENT ARE RESTRICTED/NO TESTING/PHYSCIAL LAYER IS FINE/BE
+2001-09-11 06:29:39 Arch [1238892] D  ALPHA  (9)82:ABS: Tkt:4969643, Sev:3, TIQ:127min, Sname:ISOT, CIS Id:13088439, Contact:YU/NE1 @ 2546813881 Note:CUST IS HAQVING PROBLEMS W/BGP/CUST NEEDS TECH TO LOOK AT FILTERS TO S EE IF ADVERTISMENT ARE RESTRICTED/NO TESTING/PHYSCIAL LAYER IS FINE/BE
+2001-09-11 06:29:39 Arch [0602772] B  ALPHA  Super-User <root|Trap Message|Time: Tue Sep 11 06:30:11 2001 Agent Address: 208.30.222.51 Specific Trap: Process Stop Trap (10) Description: in.named Regexp: named.* Current PID: 17999 
+2001-09-11 06:29:40 Skytel [005325918] D  ALPHA  09/11/01 06:23 RED TPFA PATH IPTI ISOPTI02 CLOSED
+2001-09-11 06:29:40 Skytel [003951962] C  ALPHA  [Corporate Operations] Please call the Delaware Command Center----302-325-5625 in reference to INV1IND#. Thanks.
+2001-09-11 06:29:40 Skytel [003951825] A  ALPHA  [Corporate Operations] Please call the Delaware Command Center----302-325-5625 in reference to INV1IND#. Thanks.
+2001-09-11 06:29:40 Skytel [002201182] D ST NUM  217-265-3404 (3
+2001-09-11 06:29:41 Arch [0418533] B  ALPHA  (1)46:ABS: Tkt:5002694, Sev:4, TIQ:141min, Sname:XXX, CIS Id:13107455, Contact:STEPHEN GRIFFITHS @ 3052943565 Note:SL-GW16-ATL, SERIAL6/1/0/6:0 IS UP, LINE PROTOCOL IS UP (LOOPED)... PLEASE REMOVE LOOP. TERRENCE/PMC/RESTON.
+2001-09-11 06:29:41 Metrocall [1544818] A  ALPHA  LSAS-CALLCNTR01:Device Inaccessible
+2001-09-11 06:29:42 Skytel [005256929] A  ALPHA  09/11/01 06:23 RED TPFA PATH IPTI ISOPTI02 CLOSED
+2001-09-11 06:29:42 Skytel [005436525] D  ALPHA  Test #17-IX_T0212
+2001-09-11 06:29:42 Skytel [005330411] C  ALPHA  [Corporate Operations] Please call the Delaware Command Center----302-325-5625 in reference to INV1IND#. Thanks.
+2001-09-11 06:29:42 Skytel [005102305] A  ALPHA  Sep11:06-21:morhp321:ORA-1142 signalled during: ALTER TABLESPACE PSAPCE2D END BACKUP... 
+2001-09-11 06:29:42 Skytel [004524770] A  ALPHA  wil-CollegeOfStJoseph-RutlandVT-: CPE Up at 01:32:17 on 9/11
+2001-09-11 06:29:43 Arch [0916108] D  ALPHA  bdiprod@diag.bra|09/11: Clean Run|
+2001-09-11 06:29:44 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Disk used % for /clients/IVR/home/rswwwp/work is 85; > than 80
+2001-09-11 06:29:44 Skytel [004402175] D  ALPHA  1-800-759-3293: :1 Page
+2001-09-11 06:29:44 Skytel [005508471] B  ALPHA  Disreguard user remembers password from earlier call.
+2001-09-11 06:29:46 Metrocall [0300391] B  ALPHA  _01Z00_02A)_1B"n6_1A8_1C3_09Odd_1A5 but _1A8True_1A9_1B&a _1C1MONKEY SIGHTINGS: It's not `Planet of the Apes.' It's more like town of the monkey. About a dozen people in Danville, New Hampshire, report seeing a large monkey on the loose, including Fir
+2001-09-11 06:29:48 Metrocall [0300391] B  ALPHA  e Chief David Kimball. He describes the animal as being about four feet tall, with woolly, brown fur. Kimball figures it's an escaped pet, but the owner doesn't want to report it because monkeys are illegal in the state. _0D_1C2TOUGH FIT: At six-seven 
+2001-09-11 06:29:48 Skytel [007588498] A SH/TONE 3385    
+2001-09-11 06:29:48 Skytel [004394268] D SH/TONE 52975   
+2001-09-11 06:29:48 Skytel [002861584] A ST NUM  8685227799
+2001-09-11 06:29:48 Skytel [002812059] C SH/TONE 404256  
+2001-09-11 06:29:48 Skytel [005254935] B  ALPHA  [Corporate Operations] Please call the Delaware Command Center----302-325-5625 in reference to INV1IND#. Thanks.
+2001-09-11 06:29:48 Skytel [004744856] C ST NUM  801-853-7192 (7
+2001-09-11 06:29:48 Skytel [003780764] D  ALPHA  NE PRB/P1: IOPS White switch problem;VPN and Proxy access problems - RESOLVED/SDS
+2001-09-11 06:29:48 Skytel [002350109] D  ALPHA  Frank.Salamone@MSNBC.COM||Good Morning.  Hey can you call into IMUS this am. Eit
+2001-09-11 06:29:50 Metrocall [0300391] B  ALPHA  and 405 pounds, Carl `Boomer' Nott is a big kid. He's too big to play football. The coaches at Vermont's Hartford High School would love to have Boomer on the field. They just can't find a helmet to fit him. They've talked with pro and college teams an
+2001-09-11 06:29:50 Metrocall [1062511] D  ALPHA  Frm: JD Delancy Sub: 10 cent drinks Txt: Murphy's Most Accurate Law: Anything you drop in the bathroom will land in the toilet ---------------Original Message-------------- Subject: 10 cent drinks Dat
+2001-09-11 06:29:50 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN
+2001-09-11 06:29:50 Skytel [002818730] C SH/TONE 224-8052
+2001-09-11 06:29:50 Skytel [005240623] D  ALPHA   UP (SS) France Firewall (basilisk-fr) 0.60 sec
+2001-09-11 06:29:51 Arch [1238892] D  ALPHA  (10)83:ABS: Tkt:5002694, Sev:4, TIQ:141min, Sname:XXX, CIS Id:13107455, Contact:STEPHEN GRIFFITHS @ 3052943565 Note:SL-GW16-ATL, SERIAL6/1/0/6:0 IS UP, LINE PROTOCOL IS UP (LOOPED)... PLEASE REMOVE LOOP. TERRENCE/PMC/RESTON.
+2001-09-11 06:29:51 Arch [0418533] B  ALPHA  (2)47:ABS: Tkt:5002839, Sev:4, TIQ:125min, Sname:XXX, CIS Id:13077658, Contact:TECH @ 3032925309 Note:SL-GW5-CHE,SERIAL8/0/0/12:0 IS UP, LINE PROTOCOL IS UP BUT BOUNCING HE AVILY, LEFT VM......... JEDWARDS/PMC
+2001-09-11 06:29:52 Arch [1238892] D  ALPHA  (11)84:ABS: Tkt:5002839, Sev:4, TIQ:125min, Sname:XXX, CIS Id:13077658, Contact:TECH @ 3032925309 Note:SL-GW5-CHE,SERIAL8/0/0/12:0 IS UP, LINE PROTOCOL IS UP BUT BOUNCING HE AVILY, LEFT VM......... JEDWARDS/PMC
+2001-09-11 06:29:52 Arch [1666850] A  ALPHA  3196
+2001-09-11 06:29:52 Metrocall [0300391] B  ALPHA  d haven't been able to locate large enough regulation headgear... _04
+2001-09-11 06:29:52 Metrocall [1698626] A  ALPHA   *   A3 LINK FWD PWR * MAJ ALARM  * 148W MAJ=NONE
+2001-09-11 06:29:54 Arch [0970625] A  ALPHA  administrator@ex|PSFTDB2|UP at 06:30:25 09/11/2001 
+2001-09-11 06:29:54 Arch [0391645] D  ALPHA  305 681-2244
+2001-09-11 06:29:54 Metrocall {1266012} 1 2400 01:***Attention***    Personal Paging         Available       Call Your Sales Rep. For All The Details    To Add Paging To    The Comprehensive   Sports Pager Service    You Now Have...
+2001-09-11 06:29:55 Skytel [002842709] B ST NUM  706-683-2281   
+2001-09-11 06:29:56 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179089. 
+2001-09-11 06:29:56 Metrocall {1266012} 2 2400 02:***Attention***   We are pleased to      introduce our       newest product:        The Motorola     Advisor Elite Flex.  We are now offering   our Sports Service   ont this unit and   some of the numerous    advantages are        as follows:      *It's much smaller   than the current     unit.                *Information updates on your screen while you're reading your  messages. This means No more waiting for  the DAMNED ENVELOPE  to disappear before   you can access the      information.     *ZOOM display allows you to enlarge the   display from 4 lines 2 lines for optimum  readability.         *Up to 4 months of   battery life.        *A total of 32,000   characters of memory (Advisor had 6,400)  *Receive better      transmission with    stronger internal    antenna.             *Three additional    message slots which  will contain more    News and add on      services.            *And much more.      Call your sales rep  for complete details....

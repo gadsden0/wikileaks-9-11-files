@@ -1,0 +1,69 @@
+2001-09-11 03:07:00 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 144W MAJ=A34
+2001-09-11 03:07:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1894
+2001-09-11 03:07:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1894
+2001-09-11 03:07:01 Arch [0903077] B  ALPHA  (31)cjbacon 72156 FSGLOBAL FYI| FS has received 5 calls from ASDA sites stating all service scales are not communicating. |Sent at 02:05
+2001-09-11 03:07:01 Arch [0929241] C  ALPHA  cjbacon 72156 FSGLOBAL FYI| FS has received 5 calls from ASDA sites stating all service scales are not c
+2001-09-11 03:07:01 Arch [1410805] B  ALPHA  (14)cjbacon 72156 FSGLOBAL FYI| FS has received 5 calls from ASDA sites stating all service scales are not communicating. |Sent at 02:05
+2001-09-11 03:07:01 Arch [0975978] C  ALPHA  cjbacon 72156 FSGLOBAL FYI| FS has received 5 calls from ASDA sites stating all service scales are not communicating. |Sent at 02:05
+2001-09-11 03:07:01 Arch [0976352] A  ALPHA  (30)cjbacon 72156 FSGLOBAL FYI| FS has received 5 calls from ASDA sites stating all service scales are not 
+2001-09-11 03:07:01 Arch [1660247] B  ALPHA  cjbacon 72156 FSGLOBAL FYI| FS has received 5 calls from ASDA sites stating all service scales are not communicating. |Sent at 02:05
+2001-09-11 03:07:01 Skytel [002559104] A SH/TONE 76245   
+2001-09-11 03:07:03 Arch [0929241] C  ALPHA  ommunicating. |Sent at 02:05
+2001-09-11 03:07:03 Arch [0903170] A  ALPHA  570 341-6159
+2001-09-11 03:07:03 Arch [0976352] A  ALPHA  communicating. |Sent at 02:05
+2001-09-11 03:07:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6716
+2001-09-11 03:07:05 Arch [0945458] A  ALPHA  cjbacon 72156 FSGLOBAL FYI| FS has received 5 calls from ASDA sites stating all service scales are not communicating. |Sent at 02:05
+2001-09-11 03:07:05 Arch [1131960] C  ALPHA  cjbacon 72156 FSGLOBAL FYI| FS has received 5 calls from ASDA sites stating all service scales are not communicating. |Sent at 02:05
+2001-09-11 03:07:05 Arch [0076486] B  ALPHA  cjbacon 72156 FSGLOBAL FYI| FS has received 5 calls from ASDA sites stating all service scales are not comm
+2001-09-11 03:07:05 Arch [0929940] B  ALPHA  cjbacon 72156 FSGLOBAL FYI| FS has received 5 calls from ASDA sites stating all service scales are not communicating. |Sent at 02:05
+2001-09-11 03:07:05 Arch [1164259] A  ALPHA  cjbacon 72156 FSGLOBAL FYI| FS has received 5 calls from ASDA sites stating all service scales are not communicating. |Sent at 02:05
+2001-09-11 03:07:05 Skytel [004534432] A SH/TONE 60) 140 
+2001-09-11 03:07:05 Skytel [004128173] D  ALPHA  Andrew Beals||From: Michel Langlois <michel@cisco.com> Organization changes Today, I am announcing some organizational changes which |133   (33
+2001-09-11 03:07:06 Skytel [0001465] C  ALPHA  11402hd871400000000012g (4
+2001-09-11 03:07:07 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 176856. 
+2001-09-11 03:07:07 Arch [0076486] B  ALPHA  unicating. |Sent at 02:05
+2001-09-11 03:07:08 Skytel [004727754] C SH/TONE 263     
+2001-09-11 03:07:08 Skytel [008477645] D  ALPHA  Rep. AUT.02:03 CMtel:937,2,43 (4 (5
+2001-09-11 03:07:11 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 03:07:14 Skytel [002751986] A SH/TONE 3461    
+2001-09-11 03:07:16 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2218 - 02E0FB GAIN_S 6125, cnet lost sync, Set
+2001-09-11 03:07:16 Skytel [004571022] D ST NUM  809-9266-2
+2001-09-11 03:07:16 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 00:07:19 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 03:07:18 Skytel [003921945] C  ALPHA  2) (0270319055)Sev:3 Case ID:1577285 Site:3142, MERCK MEDCO MANAGED CARE 201 703 7472 Ezra Farmer 984E: PROB: dev 361/ not mounting FSC: none avail SUGG: drive/ ps/ check configuration STAT: paging cse HWS: Johnny x617
+2001-09-11 03:07:20 Metrocall [002588670] D  ALPHA  57090:Cri; TT676887; 8 Hr WNCC Esc. - Not Cleared; ; 09/11/01 00:07:02; ;R118 - ;logic id:ATPX_DRHT1LU-118         _RCVRY_CELL_REMOVED
+2001-09-11 03:07:20 Skytel {0619497} 1 2400 31740
+2001-09-11 03:07:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9639
+2001-09-11 03:07:35 Skytel [005484975] D SH/TONE 1610 (14
+2001-09-11 03:07:36 Skytel [007529267] A  ALPHA  BJorgenson@broadband.att.com|Outage Arden Hills AD6-2|Outage Arden Hills AD6-2/ RSU's out 3213 Ridge
+2001-09-11 03:07:39 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 83.60 74.72 49.63 Tue Sep 11 00:08:00 MST 2001 
+2001-09-11 03:07:40 Skytel [007491551] D SH/TONE 345-0911
+2001-09-11 03:07:42 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   32378 OPEN suntvpa:32378 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 19575 OPEN sunapp1:19575 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat 
+2001-09-11 03:07:42 Arch [1328710] B  ALPHA  Customer Marketi|DKD_Delivery_2001-09-11_03:01:50|DKD_Delivery_2001-09-11_03:01:50 NOTICE: DO NOT REPLY to this email address. Please forward any communication about this to: thomas_shanahan@reyrey.co
+2001-09-11 03:07:44 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:07:44 Skytel [002474612] B  ALPHA  T-PST1 COMPLETE (94
+2001-09-11 03:07:44 Skytel [002357369] C  ALPHA  002181 CYCLIC TEST 
+2001-09-11 03:07:44 Skytel [003327216] A  ALPHA  002181 CYCLIC TEST 
+2001-09-11 03:07:44 Skytel [002139900] D SH/TONE 002181  
+2001-09-11 03:07:46 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   17366 OPEN suntvpa:17366 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 8179 OPEN sunapp1:8179 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:07:46 Skytel [007569153] A ST NUM  043-8232-47    
+2001-09-11 03:07:48 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-11 03:07:48 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 176863. 
+2001-09-11 03:07:48 Metrocall [002510081] A  ALPHA  [McBride, Greg]FW: American Airlines Net SAAver Fares--        Dear Greg McBride,     Today's American Airlines Domestic & International Net SAAver Weekend Getaway Fares e-mail offer is valid for travel next weekend.   Domestic Departure dates: Sep
+2001-09-11 03:07:48 Skytel [002401821] D  ALPHA  206.122.40.66 - DATA FILE FULL AND CANNOT BE EXTENDED. ABNORMAL BACK-UP WILL BE TAKEN ussa11.SSMC 
+2001-09-11 03:07:48 Skytel [005421336] C  ALPHA  1374907 * Type: SPAR1 * Expiration Date: 31 August 2002 * Status: Active Case Information: * Owner: LDELEEUW @ +32 2 704 5704 * Status: **CHANGE ME** * Original Priority: 1 |640   -3/3 (18
+2001-09-11 03:07:50 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   21030 OPEN suntvpa:21030 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 28047 OPEN sunapp1:28047 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat
+2001-09-11 03:07:50 Skytel [003436448] A SH/TONE 3992    
+2001-09-11 03:07:51 Skytel [003054900] B  ALPHA  Server s103cyvm DOWN at 03:03:48
+2001-09-11 03:07:51 Skytel [003954236] D  ALPHA  root@ikon.com|"National Lockbox Message"|Nightly LB reports for WED are present.  
+2001-09-11 03:07:52 Metrocall [002510081] A  ALPHA  te
+2001-09-11 03:07:54 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   24132 OPEN suntvpa:24132 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 5076 OPEN sunapp1:5076 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:07:55 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-11 03:07:55 Arch [0000101] B  ALPHA  MSN 052 hello Message from NOC PCB.
+2001-09-11 03:07:55 Skytel [005254108] D  ALPHA  root@ikon.com|"National Lockbox Message"|Nightly PLB reports for NWD are present.  
+2001-09-11 03:07:57 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   2354 OPEN suntvpa:2354 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 28680 OPEN sunapp1:28680 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:07:57 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #97-IX_T4013
+2001-09-11 03:07:57 Skytel [004524770] A  ALPHA  spf-DevineMilliment-ManchesterNH: CPE Down at 00:36:47 on 9/11
+2001-09-11 03:07:57 Skytel [005112809] C  ALPHA  02:05CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240416: Uncorrectable write error
+2001-09-11 03:07:57 Skytel [005003367] B  ALPHA  burlspec CLEAR 03:06:18 Pingable redhook.genuity.com 199.92.105.41 CONTACT LOST ID=519200
+2001-09-11 03:07:59 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:07:59 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  

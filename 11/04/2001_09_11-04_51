@@ -1,0 +1,46 @@
+2001-09-11 04:51:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1998
+2001-09-11 04:51:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1998
+2001-09-11 04:51:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6820
+2001-09-11 04:51:04 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178007. 
+2001-09-11 04:51:11 Metrocall [002619200] A  ALPHA  Frm: NC1@enron.com Sub: Txt: CORP-CR1-ARD.enron.com IP-EIGRP 5: Neighbor 172.31.17.239 (Serial10/1/1) is up: new adjacency 192.168.33.253 Tue Sep 11 03:51:25 2001
+2001-09-11 04:51:11 Metrocall [1064374] B  ALPHA  YEN  121.71/76 +078 EUR  0.8976/81 -005 CHF  1.6876/84 -003 GB
+2001-09-11 04:51:13 Metrocall [1064374] B  ALPHA  P  1.4543/48 -020 CAD  1.5614/19 -012 AUD  0.5137/47 +004  NZD  0.4260/65 -047 DEM  2.1777/90 +007  E/C  1.5151/56 -004 E/Y  109.24/29 +059 E/S  0.6171/76 +013 USD     114.90 +012
+2001-09-11 04:51:17 Arch [0924188] D  ALPHA  6680771-5560
+2001-09-11 04:51:20 Metrocall [002588047] D  ALPHA  Frm: Muralidhar Devarakonda Sub: server status Txt: Machine 30kcerent1.nsf.att.com not up on Tue Sep 11 04:38:00 2001. status 256.Machine 30kcerent2.nsf.att.com not up on Tue Sep 11 04:38:00 2001 status 256.Machine mtcerent3.nsf.att.com not up on T
+2001-09-11 04:51:20 Metrocall [1752250] C  ALPHA  {'DAL-SC Ticket #116953  Priority: Urgent  Contact: FIELDS, RICK - 101  Phone: 214-309-4132  Problem: The Production Control Monitor gave a error on the DW  '}
+2001-09-11 04:51:21 Skytel {0132085} 1 1200 160160001C00000000006190100003E2600202244000000000001C00000000006190100003E260020224400000000.
+2001-09-11 04:51:22 Metrocall [002588047] D  ALPHA  ue Sep 11 04:38:00 2001 status 2
+2001-09-11 04:51:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9743
+2001-09-11 04:51:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178014. 
+2001-09-11 04:51:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3391
+2001-09-11 04:51:31 Arch [0925366] B  ALPHA   318643;Sep 11 00:52:03 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 04:51:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 01:50:49 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 04:51:31 Skytel [003490056] C SH/TONE 3553    
+2001-09-11 04:51:35 Skytel [003436448] A SH/TONE 3992    
+2001-09-11 04:51:35 Skytel [004417186] A ST NUM  370-0311-2
+2001-09-11 04:51:35 Skytel [005437867] C SH/TONE 911281  
+2001-09-11 04:51:36 Skytel [003054900] B  ALPHA  Server s103hrzm UP at 04:47:19
+2001-09-11 04:51:36 Skytel [005427384] C ST NUM  903-8038-03 (80
+2001-09-11 04:51:36 Skytel [002848952] C  ALPHA  10124:Network Node LYRT160C201E (3.164.163.65) is Down @ 04:50 09/11/01
+2001-09-11 04:51:38 Skytel [007544398] D SH/TONE 143     
+2001-09-11 04:51:40 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job99623 SNYC10P00002 09/11 04:50 EVENTLOG
+2001-09-11 04:51:40 Skytel [003941975] B ST NUM  306-575-2300   
+2001-09-11 04:51:41 Metrocall [0121395] A  ALPHA  Frm: System Attendant Sub: USNY10038MSX Running since 9/11/2001 4:51 AM The link is operati Txt: USNY10038MSX Running since 9/11/2001 4:51 AM The link is operational.
+2001-09-11 04:51:41 Metrocall [0121395] A  ALPHA  Frm: System Attendant Sub: USTX75225EX1 Running
+2001-09-11 04:51:41 Metrocall [0089933] D  ALPHA  Frm: System Attendant Sub: USTX75225EX1 Running since 9/11/2001 4:51 AM The link is operati Txt: USTX75225EX1 Running since 9/11/2001 4:51 AM The link is operational.
+2001-09-11 04:51:41 Metrocall [0089933] D  ALPHA  Frm: System Attendant Sub: USNY10038MSX Running since 9/11/2001 4:51 AM Th
+2001-09-11 04:51:42 Skytel [004396782] D SH/TONE 3177    
+2001-09-11 04:51:42 Skytel [004524770] A  ALPHA  wor-AllegroMicrosystem-Worcester: CPE Up at 00:58:43 on 9/11
+2001-09-11 04:51:42 Skytel [005112809] C  ALPHA  03:46CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240464: Uncorrectable write error
+2001-09-11 04:51:42 Skytel [007600874] C SH/TONE 6128    
+2001-09-11 04:51:42 Skytel [005436525] D  ALPHA  Test Message #12-IX_T1616
+2001-09-11 04:51:43 Metrocall [0121395] A  ALPHA   since 9/11/2001 4:51 AM The link is operati Txt: USTX75225EX1 Running since 9/11/2001 4:51 AM The link is operational.
+2001-09-11 04:51:43 Metrocall [0089933] D  ALPHA  e link is operati Txt: USNY10038MSX Running since 9/11/2001 4:51 AM The link is operational.
+2001-09-11 04:51:44 Skytel [007109749] B ST NUM  011-1040-0
+2001-09-11 04:51:44 Skytel [007009399] B ST NUM  08007598255 7531818 
+2001-09-11 04:51:44 Skytel [002385137] A  ALPHA  tdsproductions@earthlink.net|The Jump Off After Party This Sat. @ The Blue Mesa (Addison)|TDS Productions Presents THE JUMP OFF!!! Saturday September 15th, 2001 @ The Blue Mesa Grill (In Addison) ********************************** (1/2 PRIC
+2001-09-11 04:51:49 Arch [0925748] B  ALPHA  "WRAL.com"|Tropical Depression Seven Advisory Number 10 |Tropical depression seven becoming better organized, At 5 am ast, 0900z, the center of tropical depression seven was located near latitude 17.9 north, longitude 48.2 west or  -1/3
+2001-09-11 04:51:49 Arch [0915934] D  ALPHA  |Case in SPSG-WW |P3 *ANS*PSTN Call clearing release sequence (Voice and Telephony::Call Manager #759 from 04:52|112  
+2001-09-11 04:51:51 Arch [0925748] B  ALPHA  about 890 miles, 1435 km, east of the leeward islands. The depression is moving toward the west-northwest near 12 mph 19 km/hr, and this general motion is expected to continue for the next 12 to 24 hours. Maximum sustained wind
+2001-09-11 04:51:53 Skytel [007599051] C SH/TONE 2800    
+2001-09-11 04:51:57 Skytel [003914349] D  ALPHA  EcommSVC@AutoNation.com|New Lead|New Lead has arrived  

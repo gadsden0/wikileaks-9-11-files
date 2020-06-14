@@ -1,0 +1,85 @@
+2001-09-12 00:37:00 Skytel [007109749] B ST NUM  1-124-007-0113-1773 
+2001-09-12 00:37:00 Skytel [002405747] A ST NUM  816-725-9169   
+2001-09-12 00:37:01 Arch [1008118] B  ALPHA  1-590-0000-Email User-1168830m--To:DSS_NT_ARS_Pri1 -- njdfs1 - System njdfs1 seems to be offline. Please Investigate.
+2001-09-12 00:37:01 Arch [0657620] B  ALPHA  1-590-0000-Email User-1168830m--To:DSS_NT_ARS_Pri1 -- njdfs1 - System njdfs1 seems to be offline. Please Investigate.
+2001-09-12 00:37:01 Arch [1063352] C  ALPHA  20-CALL HOME PLEASE.
+2001-09-12 00:37:02 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 21:34:57 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 00:37:03 Skytel [005108501] B  ALPHA  OO 14.05 -0.20 RAYS 0.00 UNCH (71
+2001-09-12 00:37:03 Skytel [004537244] D ST NUM  0-609-399-4028 
+2001-09-12 00:37:03 Skytel [005521565] D ST NUM  0-323-296-4773 
+2001-09-12 00:37:05 Skytel [005001895] B  ALPHA  [sps/58] 100 supplier.intel.com relay-rialto105 0 Error:relay-rialto105.mpi did not return a valid Metrios API response coderunning (sps/58) 2:43:55
+2001-09-12 00:37:05 Skytel [002368804] B  ALPHA  Hey babe....are you pissed at me because I had drank wine??...Where did you go...PLEASE CALL ME...
+2001-09-12 00:37:07 Skytel [007069367] B  ALPHA  no_reply@katewwdb.com|CommuniKate voice 21:36|95 sec URGENT voice msg from Steve Limber 1-888-297-92
+2001-09-12 00:37:07 Skytel [002555193] C SH/TONE 609-4000
+2001-09-12 00:37:08 Metrocall [1932879] D  ALPHA  Frm: inetsmon@bankofamerica.com Sub: Inets monitor Txt: /usr on dalcache1.bankofamerica.com is at 90%
+2001-09-12 00:37:08 Metrocall [1707223] B  ALPHA  Frm: inetsmon@bankofamerica.com Sub: Inets monitor Txt: /usr on dalcache1.bankofamerica.com is at 90%
+2001-09-12 00:37:08 Metrocall [0125290] C  ALPHA  Frm: Chris Post - Antarctica Sub: Good luck you guys, were all down here thinking of you. were glued to the TV here. be careful - Chris Txt: ===== Christopher M. Post Firefighter / EMT United States A
+2001-09-12 00:37:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4576
+2001-09-12 00:37:10 Skytel {1037576} 3 1200 1-888-662-7632 
+2001-09-12 00:37:10 Skytel {0619497} 1 2400 31740
+2001-09-12 00:37:12 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-12 00:37:12 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191376. 
+2001-09-12 00:37:14 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-12 00:37:16 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-12 00:37:18 Arch [1657188] B  ALPHA  NCAGBRWS01:Device Inaccessible
+2001-09-12 00:37:18 Arch [0888558] D  ALPHA  <'saverealbig@op|help us support our nation.|Hello everyone, This is Scott Richter, the CEO of SaveRealBig.com As we all know, the World Trade Center and Pentagon have suffered h 
+2001-09-12 00:37:18 Arch [0928602] C  ALPHA  631 924-0408
+2001-09-12 00:37:19 Metrocall [1865024] A  ALPHA  Frm: SMTPPAGE@gulfaero.com Sub: SILO Txt: SUBPOOL STANDARD, 83 SCRATCH VOLUMES REMAINING 09/12/01 00:37:02
+2001-09-12 00:37:21 Metrocall [1751988] B  ALPHA  97: 911/A710 RENO-RNO/MMH/SJC/RN O LAURA 760 924 4076* END MESSAGE ####
+2001-09-12 00:37:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0929
+2001-09-12 00:37:31 Arch [0987275] C  ALPHA  s0191: 09/11 15:41:26 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:41:26
+2001-09-12 00:37:31 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3185
+2001-09-12 00:37:31 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3185
+2001-09-12 00:37:32 Skytel [003926285] D ST NUM  223-751-1487   
+2001-09-12 00:37:32 Skytel [007003138] A SH/TONE 0812    
+2001-09-12 00:37:32 Skytel [007570317] D SH/TONE 952     
+2001-09-12 00:37:33 Arch [0987275] C  ALPHA  s0191: 09/11 15:47:33 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:47:34
+2001-09-12 00:37:33 Skytel [005225499] C SH/TONE 213     
+2001-09-12 00:37:33 Skytel [003493532] D ST NUM  3124562700
+2001-09-12 00:37:35 Arch [0987275] C  ALPHA  s0191: 09/11 15:50:15 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:50:16
+2001-09-12 00:37:35 Skytel [004755247] D ST NUM  9883509319
+2001-09-12 00:37:35 Skytel [004751406] D SH/TONE 217     
+2001-09-12 00:37:37 Arch [0944854] B  ALPHA  From root at 12:38 AM EDT: eos157 is missing /usr/vox4/accounts/msm/compat/c6000 [CC:t5pri] 
+2001-09-12 00:37:37 Arch [0987275] C  ALPHA  sb3: INFO0002 - Trade Count Mismatch Ora=825 Rec=0 (160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:52
+2001-09-12 00:37:37 Arch [1657188] B  ALPHA  NCAGBRMQ02:Device Inaccessible
+2001-09-12 00:37:37 Skytel [005070261] B SH/TONE 9       
+2001-09-12 00:37:37 Skytel [003979957] B  ALPHA  Hora: 23:44:08 Host_Sun 140.148.13.21 tiranoray.pue.udlap.mx causa:10009 ID:1836 cleared
+2001-09-12 00:37:37 Skytel [0000060] D  ALPHA  MIKE GOODE, TONY SHERROD, AND JOHN MCKEEVER PLS CALL CEDRIC TAYLOR 369-3505...-ICR
+2001-09-12 00:37:39 Skytel [005361984] A SH/TONE 891-5790
+2001-09-12 00:37:39 Skytel [003495501] D SH/TONE 3838    
+2001-09-12 00:37:40 Metrocall [002589866] C  ALPHA  a Inquiry Follow-up Frm: DMillar Txt: Hello S. Dean Fontenoy,No, I did not receive a quote on the Toyota MR2.No, I have not yet purchased my next car.Yes, still interested in the MR2 (and then depending on
+2001-09-12 00:37:40 Metrocall [002589126] B  ALPHA  Sub: Re: Toyota Inquiry Follo
+2001-09-12 00:37:41 Arch [0000101] B  ALPHA  MSN 034 hello Message from NOC PCB.
+2001-09-12 00:37:41 Skytel [007573847] B ST NUM  642-383-6911   
+2001-09-12 00:37:42 Metrocall [002589126] B  ALPHA  w-up Frm: DMillar Txt: Hello S. Dean Fontenoy,No, I did not receive a quote on the Toyota MR2.No, I have not yet purchased my next car.Yes, still interested in the MR2 (and then depending on
+2001-09-12 00:37:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #25-IX_T1707
+2001-09-12 00:37:43 Skytel [007461222] B SH/TONE 239-0394
+2001-09-12 00:37:43 Skytel [005306084] B SH/TONE 415-7893
+2001-09-12 00:37:43 Skytel [005351271] B  ALPHA  PDS_BACKUP,1,Replica : Error -625 while synchronizing. 00:36  09/12/01
+2001-09-12 00:37:44 Arch [0979375] D  ALPHA  654-3343
+2001-09-12 00:37:45 Skytel [004070514] A  ALPHA  562-596-8948
+2001-09-12 00:37:45 Skytel [003932285] D SH/TONE 3018    
+2001-09-12 00:37:45 Skytel [002357369] C  ALPHA  002611 CYCLIC TEST 
+2001-09-12 00:37:45 Skytel [005049724] D SH/TONE 343-4135
+2001-09-12 00:37:45 Skytel [003327216] A  ALPHA  002611 CYCLIC TEST 
+2001-09-12 00:37:45 Skytel [007582590] D SH/TONE 628-4063
+2001-09-12 00:37:45 Skytel [002139900] D SH/TONE 002611  
+2001-09-12 00:37:45 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-12 00:37:47 Metrocall [1064378] C  ALPHA  DOLLAR STEADY, MOOD SOMBRE ON TERROR ATTACKS
+2001-09-12 00:37:48 Skytel [007107478] B ST NUM  941-672-6411   
+2001-09-12 00:37:49 Metrocall [0848376] C  ALPHA  28-CALL MITSU EVEN IF IT'S LATE. SHE WOULD LIKE TO TALK TO YOU. ALSO !1/3 028
+2001-09-12 00:37:49 Metrocall [0848376] C  ALPHA  28- CALL STANLEY UP UNTIL 10:30 PM AT 510-843-3000 AT THE CLAIRMONT !2/3 028
+2001-09-12 00:37:50 Arch [0927961] C  ALPHA  csulliv|Tomorrow we will return to the normal work schedule. If you do not have a regularly scheduled telecommute day, please plan on coming in. If you still feel the need to remain home, please call me at the office in the morning.  -1/2
+2001-09-12 00:37:50 Skytel [005244073] C SH/TONE 363-7967
+2001-09-12 00:37:52 Arch [0927961] C  ALPHA  -Chuck    -2/2
+2001-09-12 00:37:52 Arch [0987275] C  ALPHA  s0191: 09/11 15:56:49 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:56:49
+2001-09-12 00:37:52 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191383. 
+2001-09-12 00:37:52 Skytel [002743861] B SH/TONE 49514   
+2001-09-12 00:37:54 Arch [0987275] C  ALPHA  s0191: 09/11 16:02:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 16:02:48
+2001-09-12 00:37:55 Metrocall [0848376] C  ALPHA  28- HOTEL. !3/3 028
+2001-09-12 00:37:56 Skytel [007590623] D SH/TONE 254-2491
+2001-09-12 00:37:57 Arch [0908699] C  ALPHA  F3 APP Monmouth start 12:30 Good copy 12:35
+2001-09-12 00:37:57 Arch [0927617] A  ALPHA  8485330-911
+2001-09-12 00:37:58 Skytel [002937186] A ST NUM  312-664-7359 (36    
+2001-09-12 00:37:59 Metrocall [002589127] B  ALPHA  Sub: Re: Toyota Inquiry Follow-up Frm: DMillar Txt: Hello S. Dean Fontenoy,No, I did not receive a quote on the Toyota MR2.No, I have not yet purchased my next car.Yes, still interested in the MR2 (and then depending on
+2001-09-12 00:37:59 Metrocall [1064395] C  ALPHA  )?#`B@sHHuz@BvIOfSHMIASjQXLRrlPSY|~H`isylJeEPSyrBiEiTi}IAAjUHLNWSP@D`PNbQhC

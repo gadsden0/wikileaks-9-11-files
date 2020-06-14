@@ -1,0 +1,113 @@
+2001-09-12 02:55:00 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-12 02:55:00 Arch [0975773] D  ALPHA  MSN <alert@msn.c|Priyanka: Hiii 
+2001-09-12 02:55:00 Metrocall [1362298] C  ALPHA  Frm: Optivity@harbortech.com Sub: Operator Attention Txt: Operator Attention is needed. (Server: "OPTIVITY-NJ" Job: "SNMPc & HPOV:Diff" Device: "HP 1") Please insert overwritable media into the drive.
+2001-09-12 02:55:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4714
+2001-09-12 02:55:00 Skytel [004751730] A ST NUM  900-241-3624   
+2001-09-12 02:55:02 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-12 02:55:02 Skytel [005254159] D  ALPHA  PLEASE CALL PHIL AT 631-435-7281.
+2001-09-12 02:55:02 Skytel [005236495] D ST NUM  120010031 
+2001-09-12 02:55:04 Arch [1373829] B  ALPHA  (17)WhatsUp@mail.spr|10.134.192.33 VARESAAPP02 is DOWN at 01:58:32 
+2001-09-12 02:55:04 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-12 02:55:04 Arch [0485957] B  ALPHA  (9)WhatsUp@mail.spr|10.134.192.32 VARESAAPP01 is DOWN at 01:58:32 
+2001-09-12 02:55:04 Arch [1619242] C  ALPHA  (7)16:ABS:
+2001-09-12 02:55:04 Arch [0285274] C  ALPHA  (28)19:ABS:
+2001-09-12 02:55:04 Arch [0563971] A  ALPHA  (32)18:ABS:
+2001-09-12 02:55:06 Arch [1373829] B  ALPHA  (18)WhatsUp@mail.spr|10.134.192.34 VARESAAPP03 is DOWN at 01:58:32 
+2001-09-12 02:55:06 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-12 02:55:06 Arch [0485957] B  ALPHA  (10)WhatsUp@mail.spr|10.134.192.33 VARESAAPP02 is DOWN at 01:58:32 
+2001-09-12 02:55:08 Arch [1373829] B  ALPHA  (19)WhatsUp@mail.spr|10.134.160.31 VARESAAPP04 is DOWN at 01:58:32 
+2001-09-12 02:55:08 Arch [0485957] B  ALPHA  (11)WhatsUp@mail.spr|10.134.192.34 VARESAAPP03 is DOWN at 01:58:32 
+2001-09-12 02:55:10 Arch [1373829] B  ALPHA  (20)WhatsUp@mail.spr|10.134.192.30 VARESALOG01 is DOWN at 01:58:32 
+2001-09-12 02:55:10 Arch [0485957] B  ALPHA  (12)WhatsUp@mail.spr|10.134.160.31 VARESAAPP04 is DOWN at 01:58:32 
+2001-09-12 02:55:10 Metrocall [1746070] B  ALPHA  Take Methadone, Hydrox
+2001-09-12 02:55:12 Arch [0485957] B  ALPHA  (13)WhatsUp@mail.spr|10.134.192.30 VARESALOG01 is DOWN at 01:58:32 
+2001-09-12 02:55:13 Skytel [005178080] A SH/TONE 104     
+2001-09-12 02:55:15 Skytel [007575159] B ST NUM  918-507-7464   
+2001-09-12 02:55:17 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 23:53:22 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 02:55:19 Arch [0975773] D  ALPHA  MSN <alert@msn.c|Priyanka: (L) 
+2001-09-12 02:55:19 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-12 02:55:19 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192965. 
+2001-09-12 02:55:20 Skytel [005001895] B  ALPHA  [sps/182] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/asrf2/healthcheck.asp) 3:39:58
+2001-09-12 02:55:20 Skytel [004625450] C  ALPHA  PIN HP NNM   STATUS: Normal               LA INTERFACE Se0.1 DEL NODO 30618-30617 SE REESTABLECIO EL DIA 09/12/01 A LAS 01:50:14
+2001-09-12 02:55:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1067
+2001-09-12 02:55:21 Arch [0975773] D  ALPHA  MSN <alert@msn.c|Priyanka: :) 
+2001-09-12 02:55:21 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-12 02:55:21 Metrocall [002110620] D  ALPHA  Methadone, Colace
+2001-09-12 02:55:21 Metrocall [002118268] D  ALPHA  111/ / 253232011/ 2023/ Harris Methodist - S/ 411 N Belknap St/ Stephenville/ Lisa McClammy Rn/ 254-965-1588/ MS 2k loc ER /// Station screen is completely black. Verrified power comming from outlet. poweri
+2001-09-12 02:55:21 Metrocall [0959014] B  ALPHA  PTM: R. Rodriguez - [Bracelet Strap] Alarm occurred on 09/11/01 11:54:07PM
+2001-09-12 02:55:22 Skytel [005385788] D  ALPHA  [111] 970  Disp:11:03  Enr:11:07  OnScn:11:20  DepScn:11:39  ArrDes:11:51  Strt: 64.5  End: 70.3
+2001-09-12 02:55:23 Arch [0918761] C  ALPHA  dbxc002d just can  please call 2160     randy
+2001-09-12 02:55:23 Arch [1273463] B  ALPHA  (4)18:ABS:
+2001-09-12 02:55:23 Arch [1404488] C  ALPHA  (4)23:ABS:
+2001-09-12 02:55:23 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 02:55:23 Arch [1373829] B  ALPHA  (21)WhatsUp@mail.spr|10.134.160.30 VARESALOG02 is DOWN at 01:58:37 
+2001-09-12 02:55:23 Arch [0321526] B  ALPHA  (9)19:ABS:
+2001-09-12 02:55:23 Arch [0740020] B  ALPHA  (12)18:ABS:
+2001-09-12 02:55:23 Arch [0485957] B  ALPHA  (14)WhatsUp@mail.spr|10.134.160.30 VARESALOG02 is DOWN at 01:58:37 
+2001-09-12 02:55:24 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:55:24 Skytel [008477645] D  ALPHA  PIN HP NNM   STATUS: Normal               LA INTERFACE Se0.1 DEL NODO 30604-30603 SE REESTABLECIO EL DIA 09/12/01 A LAS 01:50:14 (9 (20
+2001-09-12 02:55:24 Skytel [002153679] D SH/TONE 4048    
+2001-09-12 02:55:25 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-12 02:55:25 Arch [1373829] B  ALPHA  (22)WhatsUp@mail.spr|10.134.192.36 VARESAMISC01 is DOWN at 01:58:38 
+2001-09-12 02:55:25 Arch [0485957] B  ALPHA  (15)WhatsUp@mail.spr|10.134.192.36 VARESAMISC01 is DOWN at 01:58:38 
+2001-09-12 02:55:27 Arch [1373829] B  ALPHA  (23)WhatsUp@mail.spr|10.134.192.37 VARESASHAR01 is DOWN at 01:58:38 
+2001-09-12 02:55:27 Arch [0485957] B  ALPHA  (16)WhatsUp@mail.spr|10.134.192.37 VARESASHAR01 is DOWN at 01:58:38 
+2001-09-12 02:55:28 Arch [1373829] B  ALPHA  (24)WhatsUp@mail.spr|10.134.192.38 VARESAKONG01 is DOWN at 01:58:38 
+2001-09-12 02:55:28 Arch [0485957] B  ALPHA  (17)WhatsUp@mail.spr|10.134.192.38 VARESAKONG01 is DOWN at 01:58:38 
+2001-09-12 02:55:28 Skytel [002406502] B  ALPHA  maillog@2waybeats.com|2waybeats.com VDE/CGI script output|1[!A0][D32801]!*+Snoop+LayLow-2WayBeats.com;2,T090%7LdEsldLr-C-lrLd6B-ldLrAlrLdGldLrF#lrLd-FldLrElra9VLd4EevldLrRslrVLdEevldLrRslrVLdFevldLr9BsRRa87lrLdDtlda9RLrRe.9BslrVLd4DevldLrRs
+2001-09-12 02:55:28 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #66-IX_T3404
+2001-09-12 02:55:30 Arch [0000101] B  ALPHA  MSN 099 hello Message from NOC PCB.
+2001-09-12 02:55:30 Arch [1373829] B  ALPHA  (25)WhatsUp@mail.spr|10.134.192.39 VARESABACK01 is DOWN at 01:58:38 
+2001-09-12 02:55:30 Arch [1619813] B  ALPHA  2760
+2001-09-12 02:55:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3323
+2001-09-12 02:55:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3323
+2001-09-12 02:55:30 Skytel [003872884] B SH/TONE 454-6778
+2001-09-12 02:55:35 Skytel [005061029] B SH/TONE 5466    
+2001-09-12 02:55:36 Arch [0485957] B  ALPHA  (18)WhatsUp@mail.spr|10.134.192.39 VARESABACK01 is DOWN at 01:58:38 
+2001-09-12 02:55:36 Arch [0653413] B  ALPHA  (14)15:ABS:
+2001-09-12 02:55:36 Arch [0553704] C  ALPHA  (10)23:ABS:
+2001-09-12 02:55:36 Arch [0911005] D  ALPHA  (11)"WhatsUp" <jonat|10.96.87.2 CRMNMINE031 is DOWN at 01:58:45 
+2001-09-12 02:55:36 Arch [1302832] A  ALPHA  (11)"WhatsUp" <jonat|144.223.98.3 FON_MIN1 Bloomington, MN BSG Office is DOWN at 01:58:45 
+2001-09-12 02:55:36 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|144.223.98.3 FON_MIN1 Bloomington, MN BSG Office is DOWN at 01:58:45 
+2001-09-12 02:55:38 Arch [0911005] D  ALPHA  (12)"WhatsUp" <jonat|10.160.31.254 crorbeaa021 is UP at 01:58:45 
+2001-09-12 02:55:38 Arch [1302832] A  ALPHA  (12)"WhatsUp" <jonat|10.96.87.2 CRMNMINE031 is DOWN at 01:58:45 
+2001-09-12 02:55:38 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.96.87.2 CRMNMINE031 is DOWN at 01:58:45 
+2001-09-12 02:55:40 Arch [1302832] A  ALPHA  (13)"WhatsUp" <jonat|10.160.31.254 crorbeaa021 is UP at 01:58:45 
+2001-09-12 02:55:40 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.160.31.254 crorbeaa021 is UP at 01:58:45 
+2001-09-12 02:55:40 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 02:55:40 Metrocall [1261729] A  ALPHA  Frm: netiq@compassbnk.com Sub: NetIQ Event from ALHQFW01 - 30 NT Events from System - batch 789 Txt: JobID = 4626 KSName = OFXlogMonitor_NtStopOrFailEvent MC MachineName = ALHQFW01 Object Name = <NT_MachineFolder = ALHQFW01> EventMsg = 30 
+2001-09-12 02:55:41 Skytel [007573847] B ST NUM  964-240-0911   
+2001-09-12 02:55:41 Skytel [002286939] C ST NUM  872-507-2000   
+2001-09-12 02:55:42 Arch [0937381] B  ALPHA  :The Problem with ID 00330734 Severity 2 Description  mopf21.pitts.bayer.com- Node Down. has not been resolved.It has been escalated to level 2 on 09/11/2001 at 18:22:46.
+2001-09-12 02:55:42 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-12 02:55:42 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 42.54 14.58 24.08 Tue Sep 11 23:56:01 MST 2001 
+2001-09-12 02:55:42 Metrocall [1261729] A  ALPHA  N
+2001-09-12 02:55:44 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-12 02:55:44 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2588..
+2001-09-12 02:55:45 Skytel [003327216] A  ALPHA  002657 CYCLIC TEST 
+2001-09-12 02:55:45 Skytel [005367287] B SH/TONE 3499    
+2001-09-12 02:55:45 Skytel [002396156] D SH/TONE 4359    
+2001-09-12 02:55:45 Skytel [002357369] C  ALPHA  002657 CYCLIC TEST 
+2001-09-12 02:55:45 Skytel [002139900] D SH/TONE 002657  
+2001-09-12 02:55:47 Skytel [005044104] C  ALPHA  scott.thomas@lamrc.com|Lab DB - Hitachi 4 used more than allowable time limit.|The next user is waiting to use Hitachi 4. You have been using the tool for 372 minutes and your allowable time on the tool has expired, please end your session 
+2001-09-12 02:55:47 Skytel [005543817] C SH/TONE 727-6928
+2001-09-12 02:55:48 Skytel [007461137] A ST NUM  0-431-431-4317-541  
+2001-09-12 02:55:48 Skytel [002788879] D SH/TONE 2115 (83
+2001-09-12 02:55:50 Skytel [007524390] B  ALPHA  This is to alert you of the number of people. 68 in total-noahsark@altavist.net
+2001-09-12 02:55:55 Arch [1414372] B  ALPHA  (30)18:ABS:
+2001-09-12 02:55:55 Arch [1613822] D  ALPHA  (31)18:ABS:
+2001-09-12 02:55:55 Arch [0817412] B  ALPHA  (24)49:ABS:
+2001-09-12 02:55:55 Arch [1436368] A  ALPHA  (25)45:ABS:
+2001-09-12 02:55:55 Arch [0707794] A  ALPHA  (30)21:ABS:
+2001-09-12 02:55:55 Arch [0485957] B  ALPHA  (19)WhatsUp@mail.spr|144.226.143.80 DAEISFSP02 is DOWN at 01:58:45 
+2001-09-12 02:55:55 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 02:55:55 Arch [1604083] A  ALPHA  (30)21:ABS:
+2001-09-12 02:55:55 Arch [0739881] C  ALPHA  (31)WhatsUp@mail.spr|10.144.0.30 HOUEISFSP01 3200 Southwest Freeway is DOWN at 01:58:46 
+2001-09-12 02:55:57 Arch [0485957] B  ALPHA  (20)WhatsUp@mail.spr|144.226.143.108 DAEISFSP04 is DOWN at 01:58:45 
+2001-09-12 02:55:58 Skytel [003451501] D SH/TONE 409     
+2001-09-12 02:55:58 Skytel [007640814] D SH/TONE 205     
+2001-09-12 02:55:59 Arch [0163974] B  ALPHA  jlwindh 75925-321-DIV1-  6024 - informix failed over to ds1 from ds2 box.  DBA engaged.  No impact.  Sent at 01:55      
+2001-09-12 02:55:59 Arch [0976352] A  ALPHA  (26)jlwindh 75925-321-DIV1-  6024 - informix failed over to ds1 from ds2 box.  DBA engaged.  No impact.  Sent at 01:55 
+2001-09-12 02:55:59 Arch [0978397] D  ALPHA  jlwindh 75925-321-DIV1-  6024 - informix failed over to ds1 from ds2 box.  DBA engaged.  No impact.  Sent at 01:55      
+2001-09-12 02:55:59 Arch [1131960] C  ALPHA  jlwindh 75925-321-DIV1-  6024 - informix failed over to ds1 from ds2 box.  DBA engaged.  No impact.  Sent at 01:55      
+2001-09-12 02:55:59 Arch [1227827] A  ALPHA  jlwindh 75925-321-DIV1-  6024 - informix failed over to ds1 from ds2 box.  DBA engaged.  No impact.  Sent at 01:55      

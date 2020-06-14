@@ -1,0 +1,67 @@
+2001-09-11 03:40:00 Metrocall [1064387] A  ALPHA  GB 6180/6178+000 CT_3650/773/960 +000 KC_4835/5130/510-015 SB _787/_761/745+001 SE 2095/2117/244-010 CC _889/917/929 -011 OJ 8025/8250/835+065 YX 56900/57150 +0000 CR 19820/19970 -0130 DX 11460/11497  +016 EJ 10932/10815  +000  RK 95385/95
+2001-09-11 03:40:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1927
+2001-09-11 03:40:00 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: crp-wbs02 Sev:5 # 600042 copy timeout ./bbsm 3.1.14.1 09/11/01 01:43:41 MDT6 Instance: crp-wbs02 Module: 2308 Details: copy timeout: /export/home/blmb/ccmp.xml
+2001-09-11 03:40:02 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1927
+2001-09-11 03:40:02 Metrocall [1064387] A  ALPHA  630  +000
+2001-09-11 03:40:05 Arch [1005985] A  ALPHA  --- Equipment ID [0425 ] status change - interference Equipment ID [0425 ] Event
+2001-09-11 03:40:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6749
+2001-09-11 03:40:05 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177234. 
+2001-09-11 03:40:09 Metrocall [1064391] B  ALPHA  LME FUTURES       MCU_1441/1444 -003 MAL 1372/1374 -004 MAA 1140/1147 -015 MNI 5080/5110 -050 MSN 3730/3760 -045 MPB 4780/4810 -020 MZN _829/_831 -006
+2001-09-11 03:40:09 Metrocall [1064389] B  ALPHA  O_1432/1340+000 C_2142/2213/260+001 W 2710/2803/913+000 S 4643/47
+2001-09-11 03:40:09 Metrocall [1064381] D  ALPHA  ICRC SAYS 165 REPORTED DEAD IN JOS, 928 WOUNDED
+2001-09-11 03:40:11 Metrocall [1064389] B  ALPHA  00/763+000 SM1665/1642/180+000 BO1620/1625/153+000 GI 20515/20625+0000 LB 30650/29950-0020 LC  7225/7425  -030 FC  9140/9077  +035 LH  6045/5650  +057 PB  8420/8410  +152
+2001-09-11 03:40:14 Arch [0945497] C  ALPHA  HQ P0: EDWAPPS-PRO lost connectivity to agent WWCIWDTSP01; down[01:29] up[02:07];case# 2591975; Tools Support; No further updates.
+2001-09-11 03:40:18 Arch [1053995] C  ALPHA  CT:DIAB 1336 HILLCREST DR FRED BOX:1-5 DUE:A17 M1
+2001-09-11 03:40:18 Metrocall [1362298] C  ALPHA  Frm: Optivity@harbortech.com Sub: Operator Attention Txt: Operator Attention is needed. (Server: "OPTIVITY-NJ" Job: "SNMPc & HPOV:Diff" Device: "HP 1") Please insert overwritable media into the drive.
+2001-09-11 03:40:20 Arch [1005985] A  ALPHA  --- Equipment ID [23030002] status change - interference Equipment ID [23030002]
+2001-09-11 03:40:22 Arch [1005985] A  ALPHA  --- Equipment ID [23020002] status change - interference Equipment ID [23020002]
+2001-09-11 03:40:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9672
+2001-09-11 03:40:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177241. 
+2001-09-11 03:40:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3320
+2001-09-11 03:40:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 00:38:03 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 03:40:33 Arch [1328710] B  ALPHA  arc1putter@pacbe|6 Figures from home!|This message uses a character set that is not supported by the Internet Service. To view the original message content, open the attached message. If the text does
+2001-09-11 03:40:33 Metrocall [1064376] C  ALPHA  GOVPX TREASURY 30__99.03 /05+5.437 10.10./4.+/.7...0@7 .Y_.........................................................................
+2001-09-11 03:40:33 Skytel [002847128] C  ALPHA  ORCL 11.46 +0.39 MSFT 57.58 +2.18 NSCP 0.00 UNCH FMAGX 98.26 +0.50 (2
+2001-09-11 03:40:33 Skytel [002401821] D  ALPHA  206.122.40.67 $HASP050 JES2 RESOURCE SHORTAGE OF JOES - 80% UTILIZATION REACHED ussa11.SSMC 
+2001-09-11 03:40:35 Arch [1328710] B  ALPHA  Mail Delivery Su|Returned mail: see transcript fo|The original message was received at Tue, 11 Sep 2001 03:40:52 -0400 (EDT) from oh15ex08.reyrey.com [168.207.254.54] ----- The following addresses had
+2001-09-11 03:40:35 Skytel [007461924] B ST NUM  363-710-7411   
+2001-09-11 03:40:36 Skytel [004702132] B  ALPHA  support@pconline.com|Server newton UP at 02:35:15|Server newton UP at 02:35:15 Address: 206.145.48.1 Inf
+2001-09-11 03:40:36 Skytel [005228862] D SH/TONE 2002    
+2001-09-11 03:40:39 Metrocall [1225018] C  ALPHA  09/11/2001 12:40a DUSTIN ST JOSE X7720 CASTRO,EDWARD CONSULT
+2001-09-11 03:40:39 Metrocall [002119221] B  ALPHA  8603*Event on machine FMSDEDNETIQ Problem is Text not found in: http://networkaccount.intel.com/service_status.asp Detailed message is URL: http://networkaccount.intel.com/serv
+2001-09-11 03:40:39 Metrocall [1064378] C  ALPHA  POUND WEAKER VS EURO, DOLLAR EYES WEDNESDAY DATA
+2001-09-11 03:40:39 Metrocall [1064395] C  ALPHA  )?#`B@vHI@}@CFaOjshbBoE`rxmIAVihHmVeOVHHd~YL`tdDVsEihJ|VINbtxdFr`bPZdE@D`PMXf|C
+2001-09-11 03:40:40 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 6.00 9.06 10.66 Tue Sep 11 00:41:00 MST 2001 
+2001-09-11 03:40:40 Skytel [003930067] A  ALPHA  09/11/01 03:39 SSYS - EOD ON 4039
+2001-09-11 03:40:40 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job113073 SSAO02302 09/11 03:40 DISK
+2001-09-11 03:40:41 Metrocall [002119221] B  ALPHA  ice_status.asp ??does not contain: SFSA0005 SUCCEEDED
+2001-09-11 03:40:42 Skytel [003280747] C  ALPHA  CSCO 14.47 +0.11 NT 5.35 -0.18 ALA 13.06 +0.16 LU 5.95 -0.16
+2001-09-11 03:40:42 Skytel [005112809] C  ALPHA  02:35CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240400: Uncorrectable write error
+2001-09-11 03:40:42 Skytel [003664239] D  ALPHA  Oracle Buys Private Web-Based Communications Company 3Cube[DJ NEWS]
+2001-09-11 03:40:42 Skytel [003599337] C  ALPHA  Oracle Buys Private Web-Based Communications Company 3Cube[DJ NEWS] (50
+2001-09-11 03:40:42 Skytel [004524770] A  ALPHA  wil-WVNY-BurlingtonVT-3810: CPE Up at 00:58:55 on 9/11
+2001-09-11 03:40:42 Skytel [005436525] D  ALPHA  Test #46
+2001-09-11 03:40:44 Skytel [003928063] D  ALPHA  >>>>> Hi-Track 5700 Reported Error <<<<<  Customer SiteId / Name ==>  7777002 / Teleglobe Canada Inc. (LaGauch  Case number / owner =====>  SD541845 /  emailclerk  -------------------- Look at the case in Clarify or from the Technical Suppo
+2001-09-11 03:40:44 Skytel [002357369] C  ALPHA  002192 CYCLIC TEST 
+2001-09-11 03:40:44 Skytel [003327216] A  ALPHA  002192 CYCLIC TEST 
+2001-09-11 03:40:44 Skytel [002139900] D SH/TONE 002192  
+2001-09-11 03:40:44 Skytel [007118207] D ST NUM  454-187-8183-11
+2001-09-11 03:40:46 Skytel [005225860] B SH/TONE 125     
+2001-09-11 03:40:47 Metrocall {1175634} 2 2400 711..
+2001-09-11 03:40:48 Arch [0981400] C  ALPHA  9: SCC-LIS interface down for 5 minutes
+2001-09-11 03:40:48 Skytel [002394391] B  ALPHA  Oracle Buys Private Web-Based Communications Company 3Cube[DJ NEWS]
+2001-09-11 03:40:48 Skytel [007553044] B  ALPHA  wn@solutions.att.com|Tkt#0570794-CITICORP|Cal38-01-B-Router down-Cisco investigating-GCSC 8002268054  
+2001-09-11 03:40:50 Metrocall [0753913] C  ALPHA  2; #33169; loc: MADISON & MAGNOLIA; [ELC]; rsn: ACCIDENT; owner: DALE TING;    ; lic: 85 CA; req: AAA EL CAJON; ct: 00:27; sts: DMC VIA EC PD #85; dest: DWD po#: 85; keys: N; billto: AAA EL CAJON; rem: MILES TO OK G 352
+2001-09-11 03:40:50 Metrocall [1064375] B  ALPHA  /FTSE  5
+2001-09-11 03:40:50 Metrocall [1064378] C  ALPHA  COMMERZBANK FALLS AS TIE-UP EVAPORATES, DAX GAINS
+2001-09-11 03:40:50 Metrocall [1064395] C  ALPHA  )?#`B@wHI@|@CJGOfsXmJuB`siZBMAfSJZBCSPUILU[UhHHmZCPgthMRKSVHHdFp`cpYLzf`AHDCVIx@p
+2001-09-11 03:40:50 Metrocall [1708477] D  ALPHA   I sure hope you're dreaming of me. It's been a fast and furious night so far.
+2001-09-11 03:40:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1193..
+2001-09-11 03:40:52 Metrocall [1064375] B  ALPHA  054.60  +020 NIKK  10292.95  +097 DAX    4755.63  +085 CAC40  4448.76  +065 MIB30  31829   +0265 HSI  10392.09  +0025 30 _99.02/03  5.438% GOLD271.50/200  +000 S 4.17/19  PL 439.00 PD 450.00/0.00  +000 JG 1.420%
+2001-09-11 03:40:52 Metrocall [1064385] A  ALPHA  JY  8234/8301  -040 EC  9002/
+2001-09-11 03:40:53 Skytel [003929284] B SH/TONE 213     
+2001-09-11 03:40:54 Metrocall [1064385] A  ALPHA  8980 +0002 BP 14560/14506 -016 SF  5939/5944  +007 CD  6397/6390  -001 AD  5155/5138  +017 DM  4602/4591  -026 FES 9696/733/740/32 FDX 4760/4804  +073 PTB 8966/8880  -012 FGBS10357 FYB 13897 BDL 10807/10800-018 BDM 10716-012
+2001-09-11 03:40:57 Skytel [003497451] C SH/TONE 2800 (65
+2001-09-11 03:40:59 Skytel [004728304] A  ALPHA  wn@solutions.att.com|Tkt#0570794-CITICORP|Cal38-01-B-Router down-Cisco investigating-GCSC 8002268054  
+2001-09-11 03:40:59 Skytel [007109749] B ST NUM  912-4541-1
+2001-09-11 03:40:59 Skytel [002553850] C ST NUM  9007596245

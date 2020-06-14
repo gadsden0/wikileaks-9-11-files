@@ -1,0 +1,36 @@
+2001-09-11 04:34:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1981
+2001-09-11 04:34:00 Metrocall [0000329] C  ALPHA  THIS I....E....R..D.....G..........................
+2001-09-11 04:34:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6803
+2001-09-11 04:34:05 Skytel [003436448] A SH/TONE 3992    
+2001-09-11 04:34:09 Metrocall [1898681] C  ALPHA  SLCDBS05:PATROL Alarm,Information:Alarm #1 of global parameter 'CACcachCopyReadHitsPercent' triggered on 'NT_CACHE.NT_CACHE'.  0 <= 0.00 <= 19,Object Name:/NT_CACHE/NT_CACHE/CACcachCopyReadHitsPercent,Extra Information:
+2001-09-11 04:34:11 Metrocall [1105960] C  ALPHA  jax EW 15 tel RESOLVEDEW 15 CUS AFF/JAX/NODE EW15/AFF TELEPHONY/TECH 7777 E
+2001-09-11 04:34:12 Skytel [005436525] D  ALPHA  Test #99
+2001-09-11 04:34:12 Skytel [004524770] A  ALPHA  spf-Headstart-HolyokeMA-01: CPE Up at 00:58:15 on 9/11
+2001-09-11 04:34:14 Skytel [002749553] A ST NUM  603-644-0262 (15    
+2001-09-11 04:34:14 Skytel [007109749] B SH/TONE 017-3064
+2001-09-11 04:34:14 Skytel [007089659] C ST NUM  614-577-4489   
+2001-09-11 04:34:16 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 01:32:36 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 04:34:17 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177840. 
+2001-09-11 04:34:19 Arch [0320272] A  ALPHA  [HP OpenView BDC1]Warning hrnais02.ais_dmn_01 node down 
+2001-09-11 04:34:20 Skytel [005244073] C SH/TONE 222     
+2001-09-11 04:34:21 Skytel [007069367] B  ALPHA  no_reply@katewwdb.com|CommuniKate voice 01:34|137 sec voice msg from Steve Limber 1-888-297-9288 in 
+2001-09-11 04:34:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9726
+2001-09-11 04:34:27 Skytel [003447784] C SH/TONE 695     
+2001-09-11 04:34:29 Skytel [003954036] B  ALPHA  NIMS01:Device Accessible,Device Status:Ok
+2001-09-11 04:34:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3374
+2001-09-11 04:34:33 Skytel [002401821] D  ALPHA  saspcd00 Distributed Monitoring PALM.dm.ussa17.Unix.saspcd00/Daemon status on host saspcd00 09/11/01 01:32:16 PDT  Status: >>> critical <<< ussa17.PALM 
+2001-09-11 04:34:39 Metrocall [1560616] C  ALPHA  09/11@03:29:44 WNTPRIME:The server has encountered a network error.
+2001-09-11 04:34:39 Metrocall [1423721] C  ALPHA  09/11@03:29:44 WNTPRIME:The server has encountered a network error.
+2001-09-11 04:34:39 Metrocall [002118707] A  ALPHA  09/11@03:29:44 WNTPRIME:The server has encountered a network error.
+2001-09-11 04:34:40 Arch [0472136] C  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_hr_loader.ksh 0 Body:pace2_hr_loader.ksh exited successfully.
+2001-09-11 04:34:40 Arch [1616636] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_hr_loader.ksh 0 Body:pace2_hr_loader.ksh exited successfully.
+2001-09-11 04:34:40 Arch [0893661] D  ALPHA  From:pace2@iceland (PACE2 Jobstream Userid) @PRUDENTIAL Subject:PACE2 STATUS paehowus03 pace2_hr_loader.ksh 0 Body:pace2_hr_loader.ksh exited successfully.
+2001-09-11 04:34:42 Skytel [004388966] B SH/TONE 435-5845
+2001-09-11 04:34:44 Arch [0844432] A  ALPHA  root <root@local|Host LEX-s1/0 is DOWN!|***** NetSaint 0.0.4 *****\n\nHost "s1/0 64.80.60.86" is DOWN!\n\nDate/Time: Tue Sep 11 04:24:59 2001 \n 
+2001-09-11 04:34:44 Arch [0555028] B  ALPHA  root <root@local|Host LEX-s1/0 is DOWN!|***** NetSaint 0.0.4 *****\n\nHost "s1/0 64.80.60.86" is DOWN!\n\nDate/Time: Tue Sep 11 04:25:01 2001 \n 
+2001-09-11 04:34:44 Arch [0783602] A  ALPHA  Sev 1/2 Notification, Severity 1 MHD Whiteboard 12375, with 2 tickets attached, has been closed. Router MXHSCDDC, Mexico, is available. ETR 09/11/01 03:18 CT.
+2001-09-11 04:34:44 Skytel [002357369] C  ALPHA  002210 CYCLIC TEST 
+2001-09-11 04:34:44 Skytel [003327216] A  ALPHA  002210 CYCLIC TEST 
+2001-09-11 04:34:44 Skytel [002139900] D SH/TONE 002210  
+2001-09-11 04:34:50 Skytel [004379439] D  ALPHA  ||Please call the Boston Data Center at 617-295-3388.  
+2001-09-11 04:34:55 Skytel [005522904] C  ALPHA  alert@msn.com||Hotmail MSNBC News:msnbc: Bush warms to capital gains cut  

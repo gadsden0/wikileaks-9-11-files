@@ -1,0 +1,49 @@
+2001-09-11 05:53:00 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router 611FP-1Tendo at 02:51:22 Txt: Router 611FP-1Tendo DOWN at 02:51:22 Address: 209.247.46.97 Date: 09/11/2001 Status: Host Unreachable ( 11003)
+2001-09-11 05:53:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2060
+2001-09-11 05:53:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2060
+2001-09-11 05:53:01 Skytel [005053709] D SH/TONE 722-4440
+2001-09-11 05:53:01 Skytel [006516483] A  ALPHA  Serv: 0034869 hr:09/11/01 04:53:07 AM$ equip E5500 assigned Arturo Bernal customer:SEAGATE TECHNOLOGY REYNOSA, S DE R.L.
+2001-09-11 05:53:01 Skytel [002277259] C SH/TONE 333-8717
+2001-09-11 05:53:01 Skytel [005098248] C SH/TONE 647-2222
+2001-09-11 05:53:03 Skytel [005108637] D SH/TONE 1 (29   
+2001-09-11 05:53:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6882
+2001-09-11 05:53:04 Arch [0553455] D  ALPHA  MUHAMMED, MUSTAFAH KEY IN DIAGNOSTIC MODE 09/11/2001  5:49AM
+2001-09-11 05:53:04 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178684. 
+2001-09-11 05:53:04 Arch [1427708] D  ALPHA  netsaint <netsai|** PROBLEM: alert - SnappsMain/C|*** Server Alert *** Alert Type: PROBLEM Service: CheckHTTP Host: SnappsMain Address: 209.15.192.200 State: CRITICAL Date/Time: Tue Sept 11 05:54:16 EDT 2001 Additional Info: Connection refu
+2001-09-11 05:53:04 Arch [1654898] A  ALPHA  netsaint <netsai|** PROBLEM: alert - SnappsMain/C|*** Server Alert *** Alert Type: PROBLEM Service: CheckHTTP Host: SnappsMain Address: 209.15.192.200 State: CRITICAL Date/Time: Tue Sept 11 05:54:16 EDT 2001 Additional Info: Connection refu
+2001-09-11 05:53:05 Skytel {1092655} 3 2400 002236    
+2001-09-11 05:53:11 Metrocall [002462304] A  ALPHA  Activity 66318  Type TT  Severity 5  Refer To MICRO
+2001-09-11 05:53:20 Metrocall [1544818] A  ALPHA  MTZ-NS2:Device Inaccessible
+2001-09-11 05:53:20 Metrocall [0626007] B  ALPHA  37-PLEASE CALL DOUG MATHES ASAP. 704-527-9100.
+2001-09-11 05:53:21 Skytel {1551415} 3 1200 4444 
+2001-09-11 05:53:23 Arch [0935117] D  ALPHA  esd+ars_notify@p|Notify-|Case: SR100110980 Event: CASE OPENED Cust: MARCONI Contact: Keith francis Phone: 248-209-2013 Sev: Low Assign: Keith Francis Contract: Marconi Customer Number: 108399 
+2001-09-11 05:53:23 Arch [0968156] D  ALPHA  From root@espimi01.wal-mart.com: "com_queue Cache At 14274 - p(12115)m(2000)"  
+2001-09-11 05:53:23 Arch [1034502] B  ALPHA  From root@espimi01.wal-mart.com: "com_queue Cache At 14274 - p(12115)m(2000)"  
+2001-09-11 05:53:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9805
+2001-09-11 05:53:28 Arch [0951053] D  ALPHA  |gonzo build(s) done  
+2001-09-11 05:53:30 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router Aevia-I-GW at 02:51:27 Txt: Router Aevia-I-GW DOWN at 02:51:27 Address: 166.90.48.82 Date: 09/11/2001 Status: Timed Out ( 11010)
+2001-09-11 05:53:30 Metrocall [1086280] C  ALPHA  P-1 PM254544 Store: 0708 TELEPHONES Phones down. 09/11/2001 04:46:00
+2001-09-11 05:53:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3453
+2001-09-11 05:53:32 Arch [0988580] B  ALPHA  Sev1 open S3040779 JOHN FERRIS 7325632400 SOMERSET1 ENTERPRISE TECH PROCESSING APPNCSNCFCONF CICSGCBA ETA IS 07:15. IT'S SLA IS  07:00  09/11/01 05:52:54
+2001-09-11 05:53:32 Arch [0970594] A  ALPHA  Sev1 open S3..0. 9 .O.....R..S..3..........................................................................................................................
+2001-09-11 05:53:32 Arch [1047640] C  ALPHA  Sev1 open S3040779 JOHN FERRIS 7325632400 SOMERSET1 ENTERPRISE TECH PROCESSING APPNCSNCFCONF CICSGCBA ETA IS 07:15. IT'S SLA IS  07:00  09/11/01 05:52:54
+2001-09-11 05:53:32 Arch [1611051] C  ALPHA  Sev1 open S3..0. 9 .O.....R..S..3..........................................................................................................................
+2001-09-11 05:53:33 Skytel [002814238] D SH/TONE 111 U   
+2001-09-11 05:53:35 Skytel [002376872] C  ALPHA  nms@svcanms.conxion.com|Sep11-02:53|server:db-sf-1:uptime Error retrieving uptime.  Possibly down  
+2001-09-11 05:53:38 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178691. 
+2001-09-11 05:53:38 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSTRD_EDGNY1) *** VERY SERIOUS Blocking in PDSTRD_EDGNY1 - block time=4973 > 600 secs - Tue Sep 11 05:53:25 EDT 2001 @05:53 09/11/01 
+2001-09-11 05:53:38 Skytel [002231115] C  ALPHA  410-742-9505 (87
+2001-09-11 05:53:38 Skytel [002689477] B  ALPHA  CALL ME AT WORK
+2001-09-11 05:53:40 Arch [0970454] B  ALPHA  (31)DI:-*Posting-Call-Detail(4:49:50
+2001-09-11 05:53:41 Metrocall [1384400] A  ALPHA  good morning. how did you sleep? i slept a little better. going to shower. just wanted to say HI. will call you in a bit! love u.
+2001-09-11 05:53:42 Skytel [002823663] D  ALPHA  PLZ MEET WITH RON DOWN IN THE AREA @ 4:45-Jennifer*360-5035
+2001-09-11 05:53:42 Skytel [005436525] D  ALPHA  Test Message #80-IX_T1701
+2001-09-11 05:53:42 Skytel [007641961] C SH/TONE 17      
+2001-09-11 05:53:42 Skytel [004524770] A  ALPHA  wil-PlannedParenthood-WillistonV: CPE Up at 00:59:49 on 9/11
+2001-09-11 05:53:51 Skytel [002553148] D SH/TONE         
+2001-09-11 05:53:52 Metrocall [1060056] C  ALPHA  1 SCRAP        Defect(s) for PRESS        G05R        on tire  9Y62    Def 442 BUCKLED BLADDER OSS            Prev msg- 2001/08/31 15:46:03:57
+2001-09-11 05:53:53 Arch [0904066] A  ALPHA  Sev1 open S3040779 JOHN FERRIS 7325632400 SOMERSET1 ENTERPRISE TECH PROCESSING APPNCSNCFCONF CICSGCBA ETA IS 07:15. IT'S SLA IS  07:00  09/11/01 05:52:54
+2001-09-11 05:53:53 Arch [0977467] C  ALPHA  Sev1 open S3040779 JOHN FERRIS 7325632400 SOMERSET1 ENTERPRISE TECH PROCESSING APPNCSNCFCONF CICSGCBA ETA IS 07:15. IT'S SLA IS  07:00  09/11/01 05:52:54
+2001-09-11 05:53:53 Arch [0924725] B  ALPHA  Sev1 open S3040779 JOHN FERRIS 7325632400 SOMERSET1 ENTERPRISE TECH PROCESSING APPNCSNCFCONF CICSGCBA ETA IS 07:15. IT'S SLA IS  07:00  09/11/01 05:52:54
+2001-09-11 05:53:53 Skytel [007522372] B  ALPHA  NAVMSE-EXCHANGE@directrix.com|Admin Alert: Norton AntiVirus detected a virus in a message.  The  inf
+2001-09-11 05:53:53 Skytel [007599051] C SH/TONE 2800    

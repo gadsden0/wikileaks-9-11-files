@@ -1,0 +1,64 @@
+2001-09-11 05:52:00 Metrocall [1363643] C  ALPHA  Frm: busintel@tickets.com Sub: =?iso-8859-1?Q?Load Plan Completion - Tickets.com TOF?=
+2001-09-11 05:52:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2059
+2001-09-11 05:52:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2059
+2001-09-11 05:52:01 Skytel [007539719] B SH/TONE 3000    
+2001-09-11 05:52:03 Skytel [007098397] D SH/TONE 999     
+2001-09-11 05:52:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6881
+2001-09-11 05:52:04 Arch [0320272] A  ALPHA  PATROLpatrol - hrnais01.NSQUEUE_PNS-NSQUEUE_PNS-USNS ALARM/ALARM 30<=140.000000<=400.Critical
+2001-09-11 05:52:04 Arch [0975997] D  ALPHA  OMS <omsoper@oms0 TOSC online for Lockout in Dist. 77  on the DELUZ . TM'S IN ROUTE TO LOOK FOR PROBLEM
+2001-09-11 05:52:04 Skytel {1706167} 1 1200 251  
+2001-09-11 05:52:05 Skytel {0619497} 1 2400 31740
+2001-09-11 05:52:11 Metrocall [1064388] B  ALPHA  LCO 2741/2734  -004 CL 2760/780/788-003 2752/2716/2678/2655 2623/2591/2560/2530 HO 7956/015/050-005 HU 8180/770/560-007 NG2400/2681/003+013 3153/3120/3050/2960 965/010/040/055/065 LGO 23925/4100-0300 PL v4390/f4320 +007 EC _3300/_3150+0150 PAm45600+00
+2001-09-11 05:52:13 Metrocall [1064388] B  ALPHA  0
+2001-09-11 05:52:17 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178677. 
+2001-09-11 05:52:20 Metrocall [1064378] C  ALPHA  FACTBOX-ECB BANKERS' RECENT POLICY COM......
+2001-09-11 05:52:20 Metrocall [1064395] C  ALPHA  ...#...........................................................Rf`@RA@vAT@L
+2001-09-11 05:52:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9804
+2001-09-11 05:52:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3452
+2001-09-11 05:52:31 Metrocall [1064374] B  ALPHA  YEN  121.85/90 +092 EUR  0.8958/63 -023 CHF  1.6906/16 +027 GBP  1.4558/61 -005 CAD  1.5623/28 -003 AUD  0.5125/35 -008  NZD  0.4259/64 -048 DEM  2.1824/31 +054  E/C  1.5144/57 -011 E/Y  109.18/29 +053 E/S  0.6154/55 -004 USD     115
+2001-09-11 05:52:31 Metrocall [1064378] C  ALPHA  UK STATS OFFICE DEFERS PUBLICATION OF VACANCY DATA
+2001-09-11 05:52:31 Metrocall [1064395] C  ALPHA  )?#`B@xHI@M@CNkKPTzdFiSPSxtZSCbhHdVMEiTtEBkBfRX\FiIgsdD~L`kPX\F]ClhHdFiAP@RA@vAW@L
+2001-09-11 05:52:31 Skytel [003947407] D  ALPHA  ECCFTP01:Device Accessible,Device Status:Ok
+2001-09-11 05:52:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 02:50:35 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:52:33 Metrocall [1064374] B  ALPHA  .05 +027
+2001-09-11 05:52:33 Skytel [002814238] D  ALPHA  dsa-sm=green-knagesh@in.ibm.com
+2001-09-11 05:52:33 Skytel [002401821] D  ALPHA  ssmcscsm13 N/A CBB0OMDB00:Agent:caiW2kOs:w2kLVolInst:Critical Logical Disk/File System E:.  
+2001-09-11 05:52:35 Skytel [005117098] C ST NUM  820-293-8645   
+2001-09-11 05:52:37 Skytel [0001461] B  ALPHA  GLOBEX   04:51     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109750   175+   SPU  109750   180+   NDU  137450B  400+   6JZ    8278A   65-   6EZ    8941    39-   6SZ    5920    20-   6BZ   14510A   18-   6CZ    6392A    2+   
+2001-09-11 05:52:38 Metrocall {1250894} 1 2400 F:oracleadm@sig.com (Oracle Admin) S:MON-1031 Disk Storage Alert on /rockies/archive-phys-rockies-a B:/dev/vx/dsk/oradg/archive 32249632 28781432 3145704 91% /rockies/archive...
+2001-09-11 05:52:39 Arch [0970454] B  ALPHA  (30)DI:-*Get-Cust-Info(4:49:03
+2001-09-11 05:52:40 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job67732,67808 SNYC00904 09/11 05:52 EVENTLOG,SERVICES
+2001-09-11 05:52:40 Skytel [1800019] A  ALPHA  GLOBEX   04:51     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109750   175+   SPU  109750   180+   NDU  137450B  400+   6JZ    8278A   65-   6EZ    8941    39-   6SZ    5920    20-   6BZ   14510A   18-   6CZ    6392A    2+   
+2001-09-11 05:52:40 Skytel [004576091] C ST NUM  11091121530000000000
+2001-09-11 05:52:40 Skytel [003581147] C  ALPHA  alert@msn.com||Hotmail info@advance-net-direct.com:Reduce Your Monthly Debt Payments up to 60%   (95
+2001-09-11 05:52:42 Skytel [005436525] D  ALPHA  Test #19-IX_T0707
+2001-09-11 05:52:42 Skytel [004524770] A  ALPHA  wil-AccentTravel-WillistonVT-01: CPE Up at 00:59:47 on 9/11
+2001-09-11 05:52:43 Arch [0980928] A  ALPHA  bdsabin 277-1263 DNSMART ESCAL| st#1895, WREXHAM, GB  down smart. down 3 hrs.  CE onsite eta with parts is 0445cst.  1045gmt. |Sent at 04:52
+2001-09-11 05:52:43 Arch [0903293] D  ALPHA  aa034187: START: DSR import
+2001-09-11 05:52:43 Arch [0970437] B  ALPHA  bdsabin 277-1263 DNSMART ESCAL| st#1895, WREXHAM, GB  down smart. down 3 hrs.  CE onsite eta with parts is 0445cst.  1045gmt. |Sent at 04:52
+2001-09-11 05:52:43 Arch [0949289] C  ALPHA  aa034187: START: DSR import
+2001-09-11 05:52:43 Arch [1629007] D  ALPHA  bdsabin 277-1263 DNSMART ESCAL| st#1895, WREXHAM, GB  down smart. down 3 hrs.  CE onsite eta with parts is 0445cst.  1045gmt. |Sent at 04:52
+2001-09-11 05:52:43 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage detected on CBS/WBBM: 431 seconds so far 09/11/01 02:50:40 PDT7 621011
+2001-09-11 05:52:43 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage detected on ABC/WLS: 440 seconds so far 09/11/01 02:50:50 PD
+2001-09-11 05:52:44 Skytel [003783162] C SH/TONE 312     
+2001-09-11 05:52:44 Skytel [002357369] C  ALPHA  002236 CYCLIC TEST 
+2001-09-11 05:52:44 Skytel [003327216] A  ALPHA  002236 CYCLIC TEST 
+2001-09-11 05:52:44 Skytel [002139900] D SH/TONE 002236  
+2001-09-11 05:52:45 Arch [0000101] B  ALPHA  MSN 004 hello Message from NOC PCB.
+2001-09-11 05:52:45 Metrocall [0088087] B  ALPHA  F:oracleadm@sig.com (Oracle Admin) S:MON-1031 Disk Storage Alert on /rockies/archive-phys-rockies-a B:/dev/vx/dsk/oradg/archive 32249632 28781432 3145704 91% /rockies/archive
+2001-09-11 05:52:45 Metrocall [0477913] C  ALPHA  T7 621010
+2001-09-11 05:52:46 Metrocall [0088087] B  ALPHA  F:oracleadm@sig.com (Oracle Admin) S:MON-1031 Disk Storage Alert on /rockies/archive-phys-rockies-a B:/dev/vx/dsk/oradg/archive 32249632 28781432 3145704 91% /rockies/archive
+2001-09-11 05:52:46 Skytel [002384012] D  ALPHA  Takin care of NY IORS beep. RH
+2001-09-11 05:52:49 Arch [1184493] D  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 05:52:49 Arch [0951053] D  ALPHA  |gonzo build(s) done  
+2001-09-11 05:52:49 Arch [0927369] C  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 05:52:49 Arch [0932748] D  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 05:52:49 Arch [0283793] A  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 05:52:50 Metrocall [1061722] C  ALPHA  Frm: Bbrother Sub: !BB - 1956110! beta.disk - 100208184226141 Txt: [1956110] purple Wed Sep 5 21:22:48 PDT 2001 - Disk on beta at WARNING level &yellow /home (87%) has reached the defined disk space WARNING level (85%) /dev/vg1/var 524268 7
+2001-09-11 05:52:50 Metrocall [1902004] B  ALPHA  Frm: Bbrothe..S..:.....-..9..1...................................................................................................................................................................................................../var 524268 7
+2001-09-11 05:52:51 Skytel [0000060] D  ALPHA  FLIGHT 1493 RST WILL TRANS LOAD FROM A/C 277 AT GATE 110 TO A/C 242 AT GATE 122.-hub dispatch
+2001-09-11 05:52:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1325..
+2001-09-11 05:52:53 Skytel [002380618] C  ALPHA  Takin care of NY IORS beep. RH
+2001-09-11 05:52:55 Skytel [003785300] B  ALPHA  Takin care of NY IORS beep. RH
+2001-09-11 05:52:55 Skytel [002365520] A  ALPHA  Takin care of NY IORS beep. RH
+2001-09-11 05:52:58 Arch [0388761] C  ALPHA  PIMMAG1:Cluster Resource Degraded

@@ -1,0 +1,86 @@
+2001-09-11 07:40:00 Arch [0915737] C  ALPHA  <NetIQ@navair.na|NetIQ Event from NEMS29 - Down S|Down Service - NavExchange _ Not to autostart NavExchange 
+2001-09-11 07:40:00 Arch [1048199] B  ALPHA  ROS Sales is currently unavailable. OCC Web Ops is investigating. No ETA. Remedy# 2305761 Tony/OCC    
+2001-09-11 07:40:00 Arch [1421779] A  ALPHA  (30)13:ABS: IONNOC SCHED MAINT. s35846. TUSTCA11, START:06:06/STOP:06:16CDT, NO KNOWN CUST IMPACT. JJ/NOC/913-534-7201
+2001-09-11 07:40:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2167
+2001-09-11 07:40:01 Metrocall [1064374] B  ALPHA  YEN  121.89/95 +096 EUR  0.8969/74 -012 CHF  1.6883/88 +004 GBP  1.4560/65 -003 CAD  1.5606/16 -02
+2001-09-11 07:40:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2167
+2001-09-11 07:40:01 Skytel [005451019] C  ALPHA  NOC-IRV01@inflow.com|SiteScope Alert, error, Servpkg_Quiksi_QSDATA01_Ping_10.16.102.100, failed (192.168.184.2)|  > ---------- > From:  NOC-IRV01 > Sent:  Tuesday, September 11, 2001 5:45:49 AM > To:  NOC-IRV01 > Subject:  SiteScope Alert, 
+2001-09-11 07:40:01 Skytel [004748686] D ST NUM  872-245-3500-3807350
+2001-09-11 07:40:03 Arch [0928513] A  ALPHA  326-6550
+2001-09-11 07:40:03 Metrocall [1064374] B  ALPHA  0 AUD  0.5141/46 +008  NZD  0.4263/68 -044 DEM  2.1794/04 +024  E/C  1.5146/56 -009 E/Y  109.31/42 +066 E/S  0.6161/63 +003 USD     114.94 +016
+2001-09-11 07:40:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6989
+2001-09-11 07:40:06 Skytel {1419867} 4 1200 810-242-6713 (9..
+2001-09-11 07:40:06 Skytel {1328275} 1 1200 19030
+2001-09-11 07:40:06 Skytel {1903563} 1 1200 800-463-3482   
+2001-09-11 07:40:11 Metrocall [0848498] A  ALPHA  AHU11D-2 STATUS Off
+2001-09-11 07:40:15 Arch [0281611] C  ALPHA  sybase@jpmorgan.|SYBFAO_GCONW Database Load|09/11/01-07:39:44 performance_audit permission_audit reference_audit LoadDatabase_FTP sunsys01 /users/sybase/dba/data/DumpList.sungcon1 
+2001-09-11 07:40:15 Arch [0911134] D  ALPHA   comsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSHH_EQNY1) PDSHH_EQNY1 - HEDGEHOG_HIST: DATA -->> ALLOCATED = 400 MB, USED = 361 MB, FREE = 39 MB, PERCENT_USED = 90% @07:40 09/11/01 
+2001-09-11 07:40:15 Arch [1426437] B  ALPHA  sybase@jpmorgan.|SYBFAO_GCONW Database Load|09/11/01-07:39:44 performance_audit permission_audit reference_audit LoadDatabase_FTP sunsys01 /users/sybase/dba/data/DumpList.sungcon1 
+2001-09-11 07:40:15 Arch [0949108] B  ALPHA  sybase@jpmorgan.|SYBFAO_GCONW Database Load|09/11/01-07:39:44 performance_audit permission_audit reference_audit LoadDatabase_FTP sunsys01 /users/sybase/dba/data/DumpList.sungcon1 
+2001-09-11 07:40:18 Arch [1047965] D  ALPHA  dzuba| Meet me in the Entre parking lot, 8:15 - 8:30 - Do not tell Mike B. where we are going!!  
+2001-09-11 07:40:18 Arch [0945164] D  ALPHA  58-PLS CALL SCOTT AT 613-2231.
+2001-09-11 07:40:18 Arch [1373829] B  ALPHA  (9)WhatsUp@mail.spr|10.146.129.23 TXIVGRAPP03 is DOWN at 06:52:36 
+2001-09-11 07:40:18 Arch [1018152] C  ALPHA  (29)oraprod@mail.spr|File system /u21 on dapmdp01 exceeded 80% - Please investigate! 
+2001-09-11 07:40:18 Arch [0775276] D  ALPHA  (23)mrobinso: major problem w/ abig - need your assistance asap thanks
+2001-09-11 07:40:20 Metrocall [0148848] A  ALPHA  Frm: MSN Txt: Hotmail Jacqueline Smit:300 pounds plus...
+2001-09-11 07:40:22 Arch [0916389] B  ALPHA  reminders@yahoo-|HCL Daily, 9/11/2001, 8:00 am|877-284-7271 - 7718179. PASSWORD 1234 
+2001-09-11 07:40:24 Arch [0916389] B  ALPHA  reminders@yahoo-|Shaffer Staff, 9/11/2001, 8:00 a|Staff 301034 
+2001-09-11 07:40:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9912
+2001-09-11 07:40:31 Metrocall [002687280] A  ALPHA  Frm: 'winman2673@aol.com Sub: (no subject) Txt: Hi, gonna be short, you were on line last night and I'm to dumb to w
+2001-09-11 07:40:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3560
+2001-09-11 07:40:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 04:38:52 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 07:40:31 Skytel [002673805] D  ALPHA  JOSEPH.E.DIPIETRO@saic.com|FW: Charleston GS140 Upgrade|  > ---------- > From:  Harrison, Jennifer G. > Sent:  Tuesday, September 11, 2001 7:31:04 AM > To:  HAAS, STEVEN T.; DAVIS, NICK F.; Lopez, Tammy; Kunkel, Clyde E.; > Bennett-Jolley, 
+2001-09-11 07:40:33 Skytel [005328670] D  ALPHA  L4/P12001091100632/Broadwing/CASAC.SSO TO CASAC.TELTC/L3/10:08z/CASAC.SSO TO CASAC.TELTC/866-266-6720x2211/ Janet Love/ Tkt out to vrzn, pending p/u..2nd lvl to Mike Murphy.
+2001-09-11 07:40:33 Skytel [003327133] D ST NUM  9009033391
+2001-09-11 07:40:35 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2212 - 001DEB OCALA 6125, high BER, Set
+2001-09-11 07:40:35 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179876. 
+2001-09-11 07:40:35 Arch [1410547] A  ALPHA  07:39 siac_recv@edtx25-1 UP--Overseer@edtps3
+2001-09-11 07:40:35 Skytel [005135397] B ST NUM  900-488-8806   
+2001-09-11 07:40:35 Skytel [003265189] B SH/TONE 930-9408
+2001-09-11 07:40:35 Skytel [004435880] C SH/TONE 753-4320
+2001-09-11 07:40:37 Skytel [005507379] A SH/TONE 677-3277
+2001-09-11 07:40:37 Skytel [005190463] D SH/TONE 554-8309
+2001-09-11 07:40:37 Skytel [004426810] C ST NUM  218-640-2361   
+2001-09-11 07:40:37 Skytel [005228862] D SH/TONE 2002    
+2001-09-11 07:40:37 Skytel [007518135] B  ALPHA  weather@inbox.weather.com|carlos, here is your weather forecast for Bronx, NY|carlos's Weather for 9
+2001-09-11 07:40:38 Skytel [007590978] A SH/TONE 1850    
+2001-09-11 07:40:38 Skytel [003912900] B ST NUM  604-571-4537   
+2001-09-11 07:40:38 Skytel [005109961] C  ALPHA  Node GEISGLOBALAPP01 (3.184.164.11) is Down @ 07:38 09/11/01
+2001-09-11 07:40:38 Skytel [002373322] C  ALPHA  09/11/01 07:36 [Provident Bank] MARK MAGEE  579-2861 [11] (15
+2001-09-11 07:40:38 Skytel [004431181] D SH/TONE 9077    
+2001-09-11 07:40:38 Skytel [005367503] D SH/TONE 70448   
+2001-09-11 07:40:38 Skytel [007022158] D ST NUM  988-738-7438   
+2001-09-11 07:40:39 Arch [0485957] B  ALPHA  (10)WhatsUp@mail.spr|10.146.129.23 TXIVGRAPP03 is DOWN at 06:52:36 
+2001-09-11 07:40:40 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job113073 SSAO02302 09/11 07:40 DISK
+2001-09-11 07:40:40 Skytel [004685142] B  ALPHA  (0270319160)Sev:3 Case ID:1577190 Site:58, ADP 973 974 7287 jose gonzalez model 
+2001-09-11 07:40:40 Skytel [004071002] C SH/TONE 3786 (36
+2001-09-11 07:40:41 Arch [1622706] A  ALPHA  TEST PAGE 8884715382
+2001-09-11 07:40:41 Metrocall [1544818] A  ALPHA  SAC-NS2:Device Inaccessible
+2001-09-11 07:40:41 Metrocall [1005648] A  ALPHA  09/11/101  07:39:58A   WKNOXVIL WKNOXVIL ONLINE
+2001-09-11 07:40:41 Metrocall [0121080] C  ALPHA  ROCKY 728 5351 LEFT 4 MESSAGES ON MON WHY HAVEN'T YOU CALLED ME
+2001-09-11 07:40:42 Skytel [005436525] D  ALPHA  nMCI Test #69
+2001-09-11 07:40:42 Skytel [007009772] D ST NUM  709-239-3914   
+2001-09-11 07:40:42 Skytel [003497451] C SH/TONE   (79   
+2001-09-11 07:40:44 Skytel [005352054] B  ALPHA  Nesc.Monitor@southrelay02.raleigh.ibm.com|NESCOUT ping has encountered a failure|STATUS  Last Test: Tue, 11 Sep 2001 07:45:37 Last Status: Server timed out Up Time: 1542:13 min Down Time: 0:54 min Alert: 1 of 200 Concurrent Failures: 2   TY
+2001-09-11 07:40:44 Skytel [003327216] A  ALPHA  002272 CYCLIC TEST 
+2001-09-11 07:40:44 Skytel [002357369] C  ALPHA  002272 CYCLIC TEST 
+2001-09-11 07:40:44 Skytel [002139900] D SH/TONE 002272  
+2001-09-11 07:40:46 Skytel [004683402] C ST NUM  2) 856-662-5222
+2001-09-11 07:40:46 Skytel [007588621] D SH/TONE 3354    
+2001-09-11 07:40:48 Skytel [005202331] C ST NUM  508-524-6400   
+2001-09-11 07:40:50 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb12 login content match error on step 2, https://192.168.67.89/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain information 
+2001-09-11 07:40:50 Skytel [005424296] C ST NUM  417-272-5095   
+2001-09-11 07:40:50 Skytel [007594412] D SH/TONE 876-0638
+2001-09-11 07:40:54 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 144W MAJ=A34
+2001-09-11 07:40:54 Metrocall [002687209] C  ALPHA  78-RICK PLEASE CALL HANK W/DRY WALL EXPRESS 954-818-0895 RE THE A/C WORK TO BE DONE AT THE FINACIAL PLAZA
+2001-09-11 07:40:54 Metrocall [002162193] A  ALPHA  Frm: support@supportcen
+2001-09-11 07:40:55 Skytel [003482452] B ST NUM  0) 800-759-8255
+2001-09-11 07:40:56 Metrocall [002162193] A  ALPHA  ter.digex.com Sub: case: 414989 crator.standardandpoors.com(pl185081) 151.108.253.76 Txt: Server Down:We are investigating. For questions, call Support Center
+2001-09-11 07:40:57 Skytel [002817640] C  ALPHA  09/11/01 @ 7:15 / 2373809 / CISCO acknowledgement issue resolved / RYEDIAPP
+2001-09-11 07:40:57 Skytel [005106149] B ST NUM  303-486-3952   
+2001-09-11 07:40:57 Skytel [004524770] A  ALPHA  spr-Concentra-01: CPE Down at 01:47:17 on 9/11
+2001-09-11 07:40:59 Arch [0915843] A  ALPHA  (23)camccor 72444 DNPOS FYI| 3039;JOLIETTE, PQ;all registers are stuck on W008;pos and ibm conf w/site working on loopboxes;customer imp:12;d/t 15min |Sent at 06:40
+2001-09-11 07:40:59 Arch [0129754] C  ALPHA  62-CALL RICK TRAYNER AT 301-863-3200 ROOM 413.
+2001-09-11 07:40:59 Arch [1046041] C  ALPHA  camccor 72444 DNPOS FYI| 3039;JOLIETTE, PQ;all registers are stuck on W008;pos and ibm conf w/site working on loopboxes;customer imp:12;d/t 15min |Sent at 06:40
+2001-09-11 07:40:59 Arch [0948216] C  ALPHA  (1)camccor 72444 DNPOS FYI| 3039;JOLIETTE, PQ;all registers are stuck on W008;po
+2001-09-11 07:40:59 Arch [0926767] D  ALPHA  camccor 72444 DNPOS FYI| 3039;JOLIETTE, PQ;all registers are stuck on W008;pos and ibm conf w/site working on loopboxes;customer imp:12;d/t 15min |Sent at 06:40

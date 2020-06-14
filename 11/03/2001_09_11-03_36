@@ -1,0 +1,47 @@
+2001-09-11 03:36:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1923
+2001-09-11 03:36:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1923
+2001-09-11 03:36:01 Skytel [007046275] A SH/TONE 2411    
+2001-09-11 03:36:03 Arch [1029000] C  ALPHA  gsims3 BANM Router Critical -- BANM Router DOWN   32  DOWN   34  DOWN   35  DOWN   36  DOWN
+2001-09-11 03:36:03 Arch [0939226] C  ALPHA  gsims3 BANM Router Critical -- BANM Router DOWN   32  DOWN   34  DOWN   35  DOWN   36  DOWN
+2001-09-11 03:36:03 Skytel [002401821] D  ALPHA  206.122.40.67 Code =  JOES  - Job Output Elements ussa11.SSMC 
+2001-09-11 03:36:04 Skytel [005437867] C SH/TONE 911281  
+2001-09-11 03:36:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6745
+2001-09-11 03:36:05 Arch [0938835] A  ALPHA  123-43000827
+2001-09-11 03:36:05 Skytel {1551415} 3 1200 4444 
+2001-09-11 03:36:08 Arch [0951053] D  ALPHA  |itech-view6 build(s) done  
+2001-09-11 03:36:08 Arch [1360538] C  ALPHA  S102A33MSubsystem QUSRWRK disabled user profile MARKL on device *N. QUSER 010911 033132
+2001-09-11 03:36:18 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177192. 
+2001-09-11 03:36:20 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router Aevia-I-GW at 00:33:28 Txt: Router Aevia-I-GW UP at 00:33:28 Address: 166.90.48.82 Date: 09/11/2001 Status: Active and responding ( 0)
+2001-09-11 03:36:23 Arch [0901224] C  ALPHA  HQ P0: EDWAPPS-PRO lost connectivity to agent WWCIWDTSP01; down[01:29] up[02:07];case# 2591975; Tools Support; No further updates.
+2001-09-11 03:36:23 Arch [0823355] C  ALPHA  HQ P0: EDWAPPS-PRO lost connectivity to agent WWCIWDTSP01; down[01:29] up[02:07];case# 2591975; Tools Support; No further updates.
+2001-09-11 03:36:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9668
+2001-09-11 03:36:30 Metrocall [0477984] A  ALPHA  Job #   5 KAISER-GOLDEN GATE CSA LS: PRTY   Rdy:    9 Exdl:  139 P/U:KAISER LAB 1200 EL CAMINO REAL S SAN FRAN D/L:REGIONAL LAB 1725 EASTSHORE HWY BERKELEY Wt:    0 Caller: LAURIE Ref: 6356940
+2001-09-11 03:36:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3316
+2001-09-11 03:36:31 Arch [0925366] B  ALPHA   318643;Sep 10 23:37:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 03:36:31 Skytel [002374016] A  ALPHA  alert@msn.com||Hotmail Scholarships:College Scholarship Report for Bunty Vue  
+2001-09-11 03:36:33 Skytel [005067805] D SH/TONE 766-2222
+2001-09-11 03:36:33 Skytel [004437785] C SH/TONE 1003    
+2001-09-11 03:36:36 Skytel [0001461] B  ALPHA  GLOBEX   02:35     GEH  9663.5A   .5+   GEM    ----   ----   ESU  109625    50+   SPU  109640    70+   NDU  137550   500+   6JZ    8301    42-   6EZ    8984     4+   6SZ    5944     4+   6BZ   14516    12-   6CZ    6389B    1-   
+2001-09-11 03:36:38 Skytel [003263054] D  ALPHA  bcs_alert@am.sony.com|BCS Alert|PROCESSOR.EXE stopped running 27 minutes ago!  
+2001-09-11 03:36:40 Skytel [003944538] C  ALPHA  Alert Number: 1544539 - MVSISGA - Call 3790 Say FDTPAGE - PR76@DCD, , LINE DOWN/BUSY NA NA
+2001-09-11 03:36:40 Skytel [1800019] A  ALPHA  GLOBEX   02:35     GEH  9663.5A   .5+   GEM    ----   ----   ESU  109625    50+   SPU  109640    70+   NDU  137550   500+   6JZ    8301    42-   6EZ    8984     4+   6SZ    5944     4+   6BZ   14516    12-   6CZ    6389B    1-   
+2001-09-11 03:36:40 Skytel [007568601] C ST NUM  70671618087111611411
+2001-09-11 03:36:40 Skytel [003268440] C  ALPHA  bcs_alert@am.sony.com|BCS Alert|PROCESSOR.EXE stopped running 27 minutes ago!  
+2001-09-11 03:36:42 Arch [0980104] C  ALPHA  gsims3 BANM_Router Critical -- BANM Router DOWN   32  DOWN   34  DOWN   35  DOWN   36  DOWN
+2001-09-11 03:36:42 Arch [1029000] C  ALPHA  gsims3 BANM_Router Critical -- BANM Router DOWN   32  DOWN   34  DOWN   35  DOWN   36  DOWN
+2001-09-11 03:36:42 Arch [0939226] C  ALPHA  gsims3 BANM_Router Critical -- BANM Router DOWN   32  DOWN   34  DOWN   35  DOWN   36  DOWN
+2001-09-11 03:36:42 Skytel [005112809] C  ALPHA  02:35CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240432: Uncorrectable write error
+2001-09-11 03:36:42 Skytel [005389286] B ST NUM  677-777-7777   
+2001-09-11 03:36:42 Skytel [007596901] B SH/TONE 85450   
+2001-09-11 03:36:42 Skytel [005436525] D  ALPHA  Test #43
+2001-09-11 03:36:42 Skytel [004524770] A  ALPHA  spf-VolkPackaging-BiddefordME-38: CPE Up at 00:57:45 on 9/11
+2001-09-11 03:36:42 Skytel [005226605] D ST NUM  9683240486
+2001-09-11 03:36:44 Skytel [005046010] C  ALPHA  Attention: Internal Subsystem failure: 'Archive' -- Archive on solrpgpdat07 ABORTED. -ifmx52
+2001-09-11 03:36:44 Skytel [007062907] C SH/TONE 340     
+2001-09-11 03:36:50 Metrocall [0121395] A  ALPHA  Frm: System Attendant Sub: USTX75225EX1 Alert since 9/11/2001 3:20 AM A message was due on Txt: USTX75225EX1 Alert since 9/11/2001 3:20 AM A message was due on 9/11/2001 3:20 AM.
+2001-09-11 03:36:50 Metrocall [0089933] D  ALPHA  Frm: System Attendant Sub: USTX75225EX1 Alert since 9/11/2001 3:20 AM A message was due on Txt: USTX75225EX1 Alert since 9/11/2001 3:20 AM A message was due on 9/11/2001 3:20 AM.
+2001-09-11 03:36:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1189..
+2001-09-11 03:36:53 Skytel [004538828] D SH/TONE 6127    
+2001-09-11 03:36:55 Skytel [002359129] C  ALPHA  3902 x-LAX eta 0320.
+2001-09-11 03:36:57 Skytel [005330530] A ST NUM  8685222010
+2001-09-11 03:36:57 Skytel [007046255] D ST NUM  930-372-7154   

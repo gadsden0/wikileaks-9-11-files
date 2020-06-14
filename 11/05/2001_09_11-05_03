@@ -1,0 +1,154 @@
+2001-09-11 05:03:01 Skytel [004436358] B SH/TONE 354-5027
+2001-09-11 05:03:03 Skytel [007030936] C  ALPHA  impsystem@attws.com|TT677178 - 2| Air Conditioning Plant Fail in Dallas 6 MSC.        
+2001-09-11 05:03:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6832
+2001-09-11 05:03:04 Arch [1612111] D  ALPHA  monitor@ccbill.c|HTTPD Frontend front2r.escrub.co|ERROR: could not connect to front2r.escrub.com on port 80 (httpd). Timestamp: 20010911020101 
+2001-09-11 05:03:06 Arch [0000101] B  ALPHA  MSN 107 hello Message from NOC PCB.
+2001-09-11 05:03:07 Metrocall [002588047] D  ALPHA  Frm: Muralidhar Devarakonda Sub: server status Txt: Machine 30kcerent1.nsf.att.com not up on Tue Sep 11 04:47:01 2001. status 256.Machine 30kcerent2.nsf.att.com not up on Tue Sep 11 04:47:01 2001 status 256.Machine mtcerent3.nsf.att.com no
+2001-09-11 05:03:07 Metrocall [1423721] C  ALPHA  Frm: netiq@tisi.com Sub: TISIEXCHG01 : Overall CPU Overloaded Txt: Overall CPU Overloaded
+2001-09-11 05:03:07 Metrocall [002118707] A  ALPHA  Frm: netiq@tisi.com Sub: TISIEXCHG01 : Overall CPU Overloaded Txt: Overall CPU Overloaded
+2001-09-11 05:03:07 Metrocall [1560616] C  ALPHA  Frm: net
+2001-09-11 05:03:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178147. 
+2001-09-11 05:03:08 Arch [0911134] D  ALPHA   cshprod1-adm.ny.jpmorgan.com SYBASE: check_db(PDS1_EQGTWNY_HIST) DUMP SIZE for eq_gtw in PDS1_EQGTWNY_HIST ~ 2GB @05:03 09/11/01 
+2001-09-11 05:03:09 Metrocall [0409505] A  ALPHA  Frm: Collections Txt: WARNING run_card_upload_chip.csh csd3 Tue Sep 11 05:00:38 EDT 2001 STILL RUNNING
+2001-09-11 05:03:09 Metrocall [002588047] D  ALPHA  t up on Tue Sep 11 04:47:01 2001 status 2
+2001-09-11 05:03:09 Metrocall [1560616] C  ALPHA  iq@tisi.com Sub: TISIEXCHG01 : Overall CPU Overloaded Txt: Overall CPU Overloaded
+2001-09-11 05:03:09 Metrocall [1707375] D  ALPHA  Frm: 'aolnews@aol.com Sub: israel surrounds town ahead of talks Txt: Israel Surrounds Town Ahead of Talks JERUSAL
+2001-09-11 05:03:09 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3400
+2001-09-11 05:03:09 Metrocall [0409995] C  ALPHA  Frm: Collections Txt: WARNING run_card_upload_chip.csh csd3 Tue S
+2001-09-11 05:03:10 Arch [0602772] B  ALPHA  Super-User <root|Trap Message|Time: Tue Sep 11 05:03:34 2001 Agent Address: 63.169.255.210 Trap Type: Cold Start Specific Trap: 0 
+2001-09-11 05:03:11 Metrocall [1466337] A  ALPHA  09/11@04:00:10 www.clientconnect.com:Device is not responding . Exceeded 3 attempts @ 3 seconds.
+2001-09-11 05:03:11 Metrocall [002119221] B  ALPHA  1689*Event on machine FMSDEDNETIQ Problem is Text not found in: http://networ
+2001-09-11 05:03:11 Metrocall [0409995] C  ALPHA  ep 11 05:00:38 EDT 2001 STILL RUNNING
+2001-09-11 05:03:11 Metrocall [1580909] D  ALPHA  EMAIL Super-User  Output from "cron" command Your "cron" job on cxl1 /bin/find /export/oryxftp -mtime +3 ! -name ".*" ! -name "*.Z" -exec  usr/bin/compress -v {} \;  produced the following output:  /expo
+2001-09-11 05:03:13 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2008
+2001-09-11 05:03:13 Metrocall [002119221] B  ALPHA  kaccount.intel.com/service_status.asp Detailed message is URL: http://networkaccount.intel.com/service_status.asp ??does not contain: SFSA0005 SUCCEEDED
+2001-09-11 05:03:13 Metrocall [0148159] D  ALPHA  75-377 ON TIME FOR 5:30 PICKUP(MESSAGE NOT VERIFIED. CALL DISCONNECTED).
+2001-09-11 05:03:13 Metrocall [1111466] C  ALPHA  09/11@04:00:10 www.clientconnect.com:Device is not responding . Exceeded 3 attempts @ 3 seconds.
+2001-09-11 05:03:13 Metrocall [1580909] D  ALPHA  rt/oryxftp/oryxsave: Compression: 68.26% -- not a re
+2001-09-11 05:03:15 Metrocall [002682271] D  ALPHA  Atlanta NT Server FANPATL:IP Device was down, now responding.
+2001-09-11 05:03:15 Metrocall [1188682] C  ALPHA  Interface Serial0/0.105 ** To Pensacola-eng thru Macon ** on valdosta-rtr-c.metrocall.com is Down. Reason: HPOV cannot ping interface ~
+2001-09-11 05:03:15 Metrocall [1180298] C  ALPHA  Interface Serial0/0.105 ** To
+2001-09-11 05:03:15 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2008
+2001-09-11 05:03:15 Metrocall [1578603] C  ALPHA  Interface Serial0/0.105 ** To Pensacola-eng thru Macon ** on valdosta-rtr-c.metrocall.com is Down. Reason: HPOV cannot ping interface ~
+2001-09-11 05:03:15 Metrocall [1402531] A  ALPHA  Interface Serial0/0.
+2001-09-11 05:03:16 Metrocall [1180298] C  ALPHA   Pensacola-eng thru Macon ** on valdosta-rtr-c.metrocall.com is Down. Reason: HPOV cannot ping interface ~
+2001-09-11 05:03:16 Metrocall [1402531] A  ALPHA  105 ** To Pensacola-eng thru Macon ** on valdosta-rtr-c.metrocall.com is Down. Reason: HPOV cannot ping interface ~
+2001-09-11 05:03:16 Metrocall [1261323] C  ALPHA  Frm: fusasitescope@wingspan.com Txt: elgweb8 login content match error on step 2, http://192.168.67.168:7001/cmsonline/main/cmslogin.jsp
+2001-09-11 05:03:16 Metrocall [1064394] C  ALPHA  NY BASE METALS AL-PREM   3.75/4.50 AL ALLY 62.00/64.50 AL CLIP
+2001-09-11 05:03:18 Metrocall [1064386] A  ALPHA  MONEY MARKETS FF__3.500 PR 6.500 EU$ 3.47/3.40/3.27 LIB 3.50/3.36/3.32 EIB4.301/4.242/114 REP 3.47/3.40/3.36 DCP 3.46/3.33/3.29 UBA 3.41/3.21/3.18 BBA 3.50/3.36/3.32 UCD 3.42/3.31/3.24
+2001-09-11 05:03:18 Metrocall [1261323] C  ALPHA  Frm: fusasitescope@wingspan.com 
+2001-09-11 05:03:18 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3401
+2001-09-11 05:03:18 Metrocall [1064394] C  ALPHA   46.00/49.00 CU MERC _67.50/7.90 CU PREM   2.35/2.75 CU REF2 55.00/57.00 NI PREM _9.00/12.25 PB PREM   4.00/6.00 PB BATT   4.00/6.00 SN PREA   5.00/6.00 ZN PREM   2.75/3.75
+2001-09-11 05:03:19 Arch [1612111] D  ALPHA  monitor@ccbill.c|EPX PROBLEM WITH front5c.ccbill.|ALERT: No Connection to EPX port Tue Sep 11 02:01:15 MST 2001 
+2001-09-11 05:03:20 Metrocall [1188682] C  ALPHA  Interface Serial0/0.104  on evansville-rtr-c.metrocall.com is Down. Reason: HPOV cannot ping interface ~
+2001-09-11 05:03:20 Metrocall [1261323] C  ALPHA  Txt: elgweb10 login content match error on step 2, http://192.168.67.173:7001/cmsonline/main/cmslogin.jsp
+2001-09-11 05:03:20 Metrocall [1180298] C  ALPHA  Interface Serial0/0.104  on evansville-rtr-c.metrocall.com is Down. Reason: HPOV cannot ping interface ~
+2001-09-11 05:03:20 Metrocall [1578603] C  ALPHA  Interface Serial0/0.104  on evansville-rtr-c.metrocall.com is Down. Reason: HPOV cannot ping interface ~
+2001-09-11 05:03:22 Metrocall [002119211] C  ALPHA  111/ / 253014929/ 1921/ Somerset Medical Cen/ 110 Rehill Ave/ Somerville/ Mercy Meana Rn/ 908-685-2862/ MS 2k loc 2 west /// Drw 1 fails and requires maint. Per Mercy Rn the drw will only open partially but
+2001-09-11 05:03:22 Metrocall [0476499] A  ALPHA  THIS IS A TEST
+2001-09-11 05:03:22 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2009
+2001-09-11 05:03:22 Metrocall [1402531] A  ALPHA  Interface Serial0/0.104  on evansville-rtr-c.metrocall.com is Down. Reason: HPOV cannot ping interface ~
+2001-09-11 05:03:22 Metrocall [1314835] A  ALPHA  s3,00501421,ack,WILEM_NM2 ,WILEM_NM2 SANITYCHECK EA system is functioning 
+2001-09-11 05:03:23 Skytel {1343146} 1 1200 IBM 96.47 -0.12 MOT 15.04 +0.75 INTC 26.07 +0.18 TXN 28.61 -0.01.
+2001-09-11 05:03:24 Metrocall [1064391] B  ALPHA  LME FUTURES       MCU_1441/1443 -003 MAL 1370/1373 -006 MAA 1144/1147 -011 MNI 5050/5100 -080 MSN 3750/3780 -025 MPB 4780/4800 -020 MZN _829/_831 -006
+2001-09-11 05:03:24 Metrocall [0476499] A  ALPHA   PERIODIC PAGE SEQUENTIAL NUMBER  2009
+2001-09-11 05:03:24 Metrocall [1314835] A  ALPHA  proper
+2001-09-11 05:03:24 Metrocall [1064378] C  ALPHA  EICHEL SAYS GERMAN ECONOMY HAS LOST MUCH MOMENTUM, THAT WILL IMPACT 2002 GROWTH
+2001-09-11 05:03:24 Metrocall [1064395] C  ALPHA  )?#`BAQHI@j@EBKIarHlqAS`vZZBOEiSXLyAEasyt~[YPRHMMALgtzbB[UarDDv_MbsjeVZlPUIDFh`krYdqAIftHLNh`YLFCIAGiSz}RP`D`PM]YPC
+2001-09-11 05:03:24 Metrocall [1064378] C  ALPHA  PILKINGTON APPOINTS BANKS 
+2001-09-11 05:03:24 Skytel {1040837} 1 1200 2) PG 74.20 -0.15 CL 57.26 +1.26..
+2001-09-11 05:03:26 Metrocall [002575520] A  ALPHA  w 172.29.8.197 dn @0402 wan-cr2-eb3460 serial3/7:0.9 to nng_bellevelle intermedia 128k/64k idf136232 dlci 210
+2001-09-11 05:03:26 Metrocall [002619179] C  ALPHA  w 172.29.8.197 dn @0402 wan-cr2-eb3460 serial3/7:0.9 to nng_bellevelle intermedia 128k/64k idf136232 dlci 210
+2001-09-11 05:03:26 Metrocall [1545041] A  ALPHA  Frm: 
+2001-09-11 05:03:26 Metrocall [1064395] C  ALPHA  )?#`B@tHI@i@BzaIfRyLzOTgsdDFaPgrYuRf`aPYtnf`cSzRBIEaUZbBKUiStDJ_NbH@AHDCWVU@p
+2001-09-11 05:03:26 Metrocall [1064395] C  ALPHA  )?#`BALHI@f@DjKIarHlq[SjRX\nf`jStD^_VjHHdVMIarZbBOO`sJZBCNbHJd}AGgpYbBiOPPhLrCNaqTDJkDcqZbBEYPLfCAl`AHDCWVX@p
+2001-09-11 05:03:26 Metrocall [1064378] C  ALPHA  FOR DEBUT EURO BOND
+2001-09-11 05:03:26 Metrocall [0007690] C  ALPHA  THIS IS A TEST
+2001-09-11 05:03:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9755
+2001-09-11 05:03:28 Metrocall [002575520] A  ALPHA  w 172.29.8.198 dn @0402 nng_bellevelle s0/0 intermedia 128k/64k idf136232 dlci 210
+2001-09-11 05:03:28 Metrocall [002619179] C  ALPHA  w 172.29.8.198 dn @0402 nng_bellevelle s0/0 intermedia 128k/64k idf136232 dlci 210
+2001-09-11 05:03:28 Metrocall [1545041] A  ALPHA  fax@act0911.com Txt: ASP ARTS1 is DOWN
+2001-09-11 05:03:28 Metrocall [1698626] A  ALPHA  ALERT-SITE:
+2001-09-11 05:03:28 Metrocall [1064378] C  ALPHA  EICHEL-GERMAN GROWTH IN 2002 LIKELY TO BE LOWER THAN SPRING FORECAST OF 2.25 PCT
+2001-09-11 05:03:28 Metrocall [1064378] C  ALPHA  EICHEL-TAX REVENUES STILL IN LINE WITH PLAN, BUT RISK OF SOME SHORTFALLS IN COURSE OF 2001
+2001-09-11 05:03:28 Metrocall [1064395] C  ALPHA  )?#`BARHI@h@EFKIarHlq[GbtilF\`cti}^iHPRYrAdpXLdDrSKbsKJBiOP
+2001-09-11 05:03:30 Metrocall [1698626] A  ALPHA   8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 148W MAJ=NONE
+2001-09-11 05:03:30 Metrocall [1160328] C  ALPHA  *SEV1 ALERT NPCS# 1687729 09/11/01  04:55 AM  ET *  ST LOUIS  district and all ST LOUIS check branches are isolated from the network.Fras technical support, district support
+2001-09-11 05:03:30 Metrocall [1064378] C  ALPHA  EICHEL-GERMANY WILL TRY TO SAVE MONEY AT EU LEVEL
+2001-09-11 05:03:30 Metrocall [1064378] C  ALPHA  EICHEL-STICKS TO GOVT DEFICIT GOALS AND TO GOAL TO BALANCE BUDGET BY 2006
+2001-09-11 05:03:30 Metrocall [1064395] C  ALPHA  PhjBYOkqZRBiH`sdENaRdshzBMOiQX\FgTPSxrAdnYMTEBGTPAHDCWVV@p
+2001-09-11 05:03:30 Metrocall [0007690] C  ALPHA   PERIODIC PAGE SEQUENTIAL NUMBER  3402
+2001-09-11 05:03:31 Metrocall [1160328] C  ALPHA   and IBM are currently work
+2001-09-11 05:03:31 Metrocall [1064374] B  ALPHA  YEN  121.73/78 +080 EUR  0.8970/73 -011 CHF  1.6886/96 +007 GBP  1.4534/40 -029 CAD  1.5612/18 -014 AUD  0.5138/43 +005  NZD  0.4260/65 -047 DEM  2.1794/07 +024  E/C  1.5150/52 -005 E/Y  109.23/28 +058 E/S  0.6169/7
+2001-09-11 05:03:31 Metrocall [1064395] C  ALPHA  )?#`BARHI@d@EFKIarHlqAS`vZZBQOhQZZBKCaHJ|fYLPRxlV``asyuReOfHI|YAIgQidFiIgsdDF]DPRxlV``dsjdVeEiuDEJCTbttDr_WPAHDCWVZ@p
+2001-09-11 05:03:31 Metrocall [1064395] C  ALPHA  )?#`BA[HI@g@EnKIarHlq[T`vDEJKVbsjlVf`iuILrX`dsdDrSNbhJ|fiHPTIdF\lPPjmQARdtyZB_FPTy|vJ`irI}JiF`sIeMAIgHH\~kRiqTD~L`YLFCE@AH
+2001-09-11 05:03:31 Skytel [007547009] A ST NUM  08007243624    
+2001-09-11 05:03:31 Skytel [007046275] A SH/TONE 3411    
+2001-09-11 05:03:32 Arch [1410805] B  ALPHA  (20)From Store Systems Data Capture: Stores With Potential Link Save Issues    Store 4933 has 24 movement files backed up.  
+2001-09-11 05:03:32 Arch [0916116] B  ALPHA  From Store Systems Data Capture: Stores With Potential Link Save Issues    Store 4933 has 24 movement files backed up.  
+2001-09-11 05:03:32 Arch [0915843] A  ALPHA  (17)From Store Systems Data Capture: Stores With Potential Link Save Issues    Store 4933 has 24 movement files backed up.  
+2001-09-11 05:03:33 Metrocall [1160328] C  ALPHA  ing on correcting the problem...Updates will follow.
+2001-09-11 05:03:33 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2010
+2001-09-11 05:03:33 Metrocall [002324586] C  ALPHA  PLEASE CHECK VOICE MAILBOX...7505586
+2001-09-11 05:03:33 Metrocall [1064374] B  ALPHA  4 +011 USD     114.95 +017
+2001-09-11 05:03:33 Metrocall [1064378] C  ALPHA  EICHEL SAYS HOPES ECB WILL KEEP CONTROL OF INFLATION AND KEEP INTEREST RATES LOW
+2001-09-11 05:03:33 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2010
+2001-09-11 05:03:33 Metrocall [1064395] C  ALPHA  DCWVW@p
+2001-09-11 05:03:33 Metrocall [1064377] C  ALPHA  US 10514/10421 +000 SP109910/10140+0340 FEI95785/96075/9625 9623/9613/9594/9586 
+2001-09-11 05:03:33 Skytel [005424407] B  ALPHA  OPEN:Link TRGR54A (Tarragona, Spain) --> BLR54A (Bilbao, Spain) is down again. TOP:04:37. TKT#1484962 -- From: SMT - 248.528.7000 (70
+2001-09-11 05:03:33 Skytel [007035414] B SH/TONE 9444    
+2001-09-11 05:03:33 Skytel [002401821] D  ALPHA  saspcp15 Distributed Monitoring PALM.dm.ussa17.Unix.saspcp15/Load average (fifteen minute) on host saspcp15 09/10/01 20:47:06 PDT  Status:  ussa17.PALM 
+2001-09-11 05:03:35 Metrocall [1064388] B  ALPHA  LCO 2737/2726  -008 CL 2762/784/788-001 2752/2717/2679/2655 2623/2591/2560/2530 HO 7956/015/050-005 HU 8180/770/560-007 NG2390/2672/993+008 3150/3120/3050/2960 965/010/040/055/065 LGO 23950/4100-0275 PL v4390/f4320 +007 EC _3300/_3150+0150 PAm45600+00
+2001-09-11 05:03:35 Metrocall [1064395] C  ALPHA  )?#`B@wHI@e@CJKIarHlq[GbtilF]YPUyLrX`jTkJBiOPTxMZJ`fsytVr``uDDVj`fQZtVX`AHDCWVY@p
+2001-09-11 05:03:35 Metrocall [1064377] C  ALPHA  SED 96657/6700/6610 96325/9595/9553/528 SEY9993/991/990/990 FSS9510/525/522/502 FLG 11486/11410 -37 FFI  5115/5164 +082 ND 13820/13820 +115 TY 10710  FV 10616+
+2001-09-11 05:03:35 Skytel [005559464] C  ALPHA  kbharper@fedex.com|141 pcs on m/s went to rswr and 77 pcs of tpf kyo went to mcor.. FYI Ken  
+2001-09-11 05:03:36 Arch [1052294] B  ALPHA  |ILS: Case Create,B826163,P3,Title:CSCO: SQL SERVER DATABASE CSCO_SIDEA IS OUT OF SPACE. ,Owner:VKRUIK,Site/Contract:CISCO SYSTEMS/1403504,Contact:STEVE FEY@305 718-2664 |-- ILS ID: A125961603-S80851|199  
+2001-09-11 05:03:36 Skytel [004748723] A SH/TONE 4832 (2 
+2001-09-11 05:03:36 Skytel [002693048] C  ALPHA  email@intellicast.com|=========================================================================   Intellicast.com Daily Weather Planner   Tuesday, September 11, 2001   AMF OHare, Illinois  Visit Intellicast: http://www.intellicast.co
+2001-09-11 05:03:37 Metrocall [002563432] C  ALPHA  Frm: impsystem@attws.com Sub: TT677178 - 2 Txt: Air Conditioning Plant Fail in Dallas 6 MSC.
+2001-09-11 05:03:37 Metrocall [002589261] D  ALPHA  Frm: impsystem@attws.com Sub: TT677178 - 2 Txt: Air Conditioning Plant Fail in Dallas 6 MSC.
+2001-09-11 05:03:37 Metrocall [1064388] B  ALPHA  0
+2001-09-11 05:03:37 Metrocall [1422750] D  ALPHA  Frm: PRODLA Sub: Alarm Txt: K
+2001-09-11 05:03:37 Metrocall [1064376] C  ALPHA  GOVPX TREASURY 30__99.04+/05+5.434 10_101.07+/08+4.841 5Y_101.07+/09 4.331 2Y_100.06+/07 3.517   6M   3.110/100      3M   3.172/162
+2001-09-11 05:03:37 Metrocall [0148232] C  ALPHA  98-KITCHEN 1.
+2001-09-11 05:03:37 Metrocall [1188682] C  ALPHA  Interface Serial1/0.106 ** Eng PVC to Atlanta ** on augusta-rtr-bc.metrocall.
+2001-09-11 05:03:37 Skytel [002810420] B  ALPHA  F:ap             S:Alarm              D CL 0156 b300-     edge_25              (46
+2001-09-11 05:03:37 Skytel [005180473] C SH/TONE 555     
+2001-09-11 05:03:37 Skytel [0000060] D  ALPHA  FLIGHT 1445 CAE IS DOING AN AIR TURN BACK. -hub dispatch
+2001-09-11 05:03:37 Skytel [0001461] B  ALPHA  GLOBEX   04:02     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109925   350+   SPU  109930   360+   NDU  138200  1150+   6JZ    8286    57-   6EZ    8949B   31-   6SZ    5925B   15-   6BZ   14476    52-   6CZ    6396     6+   
+2001-09-11 05:03:38 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178154. 
+2001-09-11 05:03:38 Skytel [002693048] C  ALPHA  m/X.asp
+2001-09-11 05:03:38 Skytel [007009222] B ST NUM  750-562-1915   
+2001-09-11 05:03:38 Skytel [004591938] A  ALPHA  appworx@db02.gefa.capital.ge.com||PROD Chain Fail for SITESEA Chain=CCF_COMM_GL_
+2001-09-11 05:03:39 Metrocall [1180298] C  ALPHA  Interface Serial1/0.106 ** Eng PVC to Atlanta ** on augusta-rtr-bc.metrocall.com is Down. Reason: HPOV cannot ping interface ~
+2001-09-11 05:03:39 Metrocall [1422750] D  ALPHA  600 Hi Temp
+2001-09-11 05:03:39 Metrocall [1188682] C  ALPHA  com is Down. Reason: HPOV cannot ping interface ~
+2001-09-11 05:03:39 Metrocall [1578603] C  ALPHA  Interface Serial1/0.106 ** Eng PVC to Atlanta ** on augusta-rtr-bc.metrocall.com is Down. Reason: HPOV cannot ping interface ~
+2001-09-11 05:03:39 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3403
+2001-09-11 05:03:39 Metrocall [1078399] D  ALPHA  Frm: Southwest Airlines Sub: southwest.co
+2001-09-11 05:03:40 Skytel [005062362] C  ALPHA  F:ap             S:Alarm              D CL 0156 b300-     edge_25             
+2001-09-11 05:03:40 Skytel [002377811] A  ALPHA  Prty=0, Asg:GCSSD, NYGS01462477, NO ACCESS TO .G. DRIVE,AVENIDA DIAGONAL NO.640, Sub:NYISC, mohansa
+2001-09-11 05:03:40 Skytel [005061713] A  ALPHA  kbharper@fedex.com|141 pcs on m/s went to rswr and 77 pcs of tpf kyo went to mcor.. FYI Ken  
+2001-09-11 05:03:40 Skytel [1800019] A  ALPHA  GLOBEX   04:02     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109925   350+   SPU  109930   360+   NDU  138200  1150+   6JZ    8286    57-   6EZ    8949B   31-   6SZ    5925B   15-   6BZ   14476    52-   6CZ    6396     6+   
+2001-09-11 05:03:41 Metrocall [002324586] C  ALPHA  PLEASE CHECK VOICE MAILBOX...7505586
+2001-09-11 05:03:41 Metrocall [1078399] D  ALPHA  m Weekly Internet Specials September 11, 2001 Txt: Southwest Airlines e-mail update for September 11, 2001
+2001-09-11 05:03:41 Metrocall [1864779] C  ALPHA  Frm: SLDEI Db1 User Sub: slddb1:get_dcps_input 
+2001-09-11 05:03:41 Metrocall [1864775] B  ALPHA  Frm: SLDEI Db1 User Sub: slddb1:get_dcps_input Txt: mer.a.sldm2704 mer.a.sldn2505 mer.a.sldn6302 mer.a.sldm2705 mer.a.sldn3903 mer.a.sldn7001
+2001-09-11 05:03:42 Skytel [004686822] B  ALPHA  F:ap             S:Alarm              D CL 0156 b300-     edge_25             
+2001-09-11 05:03:42 Skytel [004524770] A  ALPHA  spf-CPMCorp-SpringfieldMA-3810: CPE Up at 00:58:09 on 9/11
+2001-09-11 05:03:42 Skytel [007553888] A  ALPHA  896-6731No Answer Southfield Backup 248-552
+2001-09-11 05:03:42 Skytel [005436525] D  ALPHA  Test Message #28-IX_T0604
+2001-09-11 05:03:44 Skytel [007109749] B ST NUM  017-077-1219   
+2001-09-11 05:03:45 Metrocall [1864779] C  ALPHA  Txt: mer.a.sldm2704 mer.a.sldn2505 mer.a.sldn6302 mer.a.sldm2705 mer.a.sldn3903 mer.a.sldn7001
+2001-09-11 05:03:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 02:02:30 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:03:46 Skytel [003948545] A  ALPHA  opr@intrdp02.abn.com|Repo Sweep |The Repo Sweep script has been run (Production) Tue Sep 11 04:01:43 CDT 2001  
+2001-09-11 05:03:48 Metrocall {1078849} 1 2400 |.3~L.?f
+2001-09-11 05:03:48 Skytel [007655697] A ST NUM  223-756-0687   
+2001-09-11 05:03:48 Skytel [002822678] B  ALPHA  INTC 26.07 +0.18 IFMX 0.00 UNCH SUNW 10.29 -0.30 IBM 96.47 -0.12 (2
+2001-09-11 05:03:50 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb7 login content match error on step 2, http://192.168.67.187:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informat
+2001-09-11 05:03:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1276..
+2001-09-11 05:03:53 Skytel [004755649] A ST NUM  723-974-7911-411690 
+2001-09-11 05:03:54 Metrocall [0639948] D  ALPHA  , 2001 Txt: Southwest Airlines e-mail update for September 11, 2001
+2001-09-11 05:03:55 Skytel [002376667] C  ALPHA   (SPU 1 of 1) : SRS2.1 SDT#1722819   Consoles in Brm and Sac are back up on alternate server - waiting 30min to ensure stability - 01:57 - Casey Tucker
+2001-09-11 05:03:57 Skytel [009992677] B  ALPHA  FLT1011 ETA 0515, FLT1153 ARR 0441, FLT1702 ARR 0504, FLT1421 ARR 0502, FLT1703 ETA 0535, FLT1463 ETA 0539, *ADHOC FLT1170 AFW-ATL DUE TO LATE OAK FLT1101 ETA 0644 W/4.5 POS M/S.
+2001-09-11 05:03:59 Skytel [003949183] D  ALPHA  opr@intrdp02.abn.com|Repo Sweep |The Repo Sweep script has been run (Production) Tue Sep 11 04:01:43 CDT 2001  

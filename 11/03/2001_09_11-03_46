@@ -1,0 +1,47 @@
+2001-09-11 03:46:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1933
+2001-09-11 03:46:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1933
+2001-09-11 03:46:01 Arch [0425209] C  ALPHA  Synplicity Techn|CAE Alert!|[CallLog.EmailAddr] = support@hardi.se [CallLog.CallID] = 00039580 [CallLog.CallDesc] = Synplify: Implementing shiftregister in SRL16 problem [CallLog.RecvdDate] = 2001-09-11 [CallLog.RecvdTime] = 00:23:48 
+2001-09-11 03:46:01 Arch [0544551] B  ALPHA  (3)Please call ION PMC @ 534-7200 regarding ion-tdi-ny S36104. 
+2001-09-11 03:46:03 Arch [0425209] C  ALPHA  Synplicity Techn|CAE Alert!|[CallLog.EmailAddr] = carlos@synplicity.com [CallLog.CallID] = 00039582 [CallLog.CallDesc] = Amplify: Mapper error-out during synthesis [CallLog.RecvdDate] = 2001-09-11 [CallLog.RecvdTime] = 00:39:50 
+2001-09-11 03:46:03 Metrocall [1064388] B  ALPHA  0
+2001-09-11 03:46:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6755
+2001-09-11 03:46:09 Metrocall [1064374] B  ALPHA  YEN  121.50/60 +057 EUR  0.9002/06 +021 CHF  1.6836/42 -043 GBP  1.4565/71 +002 CAD  1.5628/33 +002 AUD  0.5147/57 +014 NZD  0.4267/72 -040 DEM  2.1707/27 -063  E/C  1.5153/65 -002 E/Y  109.44/49 +079 E/S  0.6177/79 +019 USD     114.66 -012
+2001-09-11 03:46:09 Metrocall [1544357] B  ALPHA  Frm: Patrol Admin. Txt: ktazp7 Alert on 'AM_Hosts.ktazp98.HOAgentAlive' from global parameter 'HOAgentAlive' cancelled; exception no longer exists.
+2001-09-11 03:46:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9678
+2001-09-11 03:46:30 Metrocall [0556337] A  ALPHA  Frm: Oxana Kiryushina Sub: Form Oleg Txt: Hello Vova,How are you? I received the letter from Artem, he ask if you receive the letter from Tema. I am ok. Last week I was in Briansk, we played in Bolebo
+2001-09-11 03:46:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3326
+2001-09-11 03:46:31 Arch [0968864] A  ALPHA  (11)The file: SWSTTD1H is out of date.
+2001-09-11 03:46:31 Arch [0925366] B  ALPHA   318643;Sep 10 23:47:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 03:46:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 00:44:03 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 03:46:33 Skytel [002401821] D  ALPHA  206.122.40.74 $HASP050 JES2 RESOURCE SHORTAGE OF JOES - 80% UTILIZATION REACHED ussa11.SSMC 
+2001-09-11 03:46:33 Skytel [005190686] D  ALPHA  F: jaredbro@pager.webtv.net; S: Build Requested -->C: 176758 selected by build chooser P: mstvclient_denali  T: official_mstv_denali_perf  B: 12645  ON: Monday 9/10/2001 AT 22:05; 
+2001-09-11 03:46:33 Skytel [004534043] C SH/TONE 1       
+2001-09-11 03:46:33 Skytel [005506585] C  ALPHA  Martin Liu:Anabelle (714) 539-5697
+2001-09-11 03:46:35 Skytel [004417186] A ST NUM  370-0311-2
+2001-09-11 03:46:36 Skytel [0001461] B  ALPHA  GLOBEX   02:45     GEH  9663.5A   .5+   GEM    ----   ----   ESU  109675   100+   SPU  109700A  130+   NDU  137600   550+   6JZ    8300    43-   6EZ    8982     2+   6SZ    5944A    4+   6BZ   14510B   18-   6CZ    6389A    1-   
+2001-09-11 03:46:38 Skytel [004693327] D SH/TONE 827-7586
+2001-09-11 03:46:38 Skytel [004727744] A  ALPHA  fyi:SEV 2: Rec#1546090(Open) CPU1:PRAWZER3 (#04340) down 0008 IVRRRSTR 09/11/01 03:42:00
+2001-09-11 03:46:38 Skytel [007438026] C SH/TONE 3333 (95
+2001-09-11 03:46:38 Skytel [003263054] D  ALPHA  bcs_alert@am.sony.com|BCS Alert|PROCESSOR.EXE stopped running 36 minutes ago!  
+2001-09-11 03:46:40 Skytel [1800019] A  ALPHA  GLOBEX   02:45     GEH  9663.5A   .5+   GEM    ----   ----   ESU  109675   100+   SPU  109700A  130+   NDU  137600   550+   6JZ    8300    43-   6EZ    8982     2+   6SZ    5944A    4+   6BZ   14510B   18-   6CZ    6389A    1-   
+2001-09-11 03:46:40 Skytel [007008212] B ST NUM  9884578312
+2001-09-11 03:46:40 Skytel [003951056] A  ALPHA  slga01 Resource: SLGA01:/NT_CPU/CPU__Total/CPUprcrProcessorTimePercent,current state is : CRITICAL ussa11.SSMC 
+2001-09-11 03:46:40 Skytel [003268440] C  ALPHA  bcs_alert@am.sony.com|BCS Alert|BCS_PENDING_TRANSACTIONS has 121 records!  
+2001-09-11 03:46:42 Skytel [005112809] C  ALPHA  02:45CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240432: Uncorrectable write error
+2001-09-11 03:46:42 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #99-IX_T4111
+2001-09-11 03:46:42 Skytel [007600874] C SH/TONE 6128    
+2001-09-11 03:46:42 Skytel [005187817] C SH/TONE 1 (57   
+2001-09-11 03:46:42 Skytel [005134570] C SH/TONE 99      
+2001-09-11 03:46:42 Skytel [004524770] A  ALPHA  spf-RayMurray-LeeMA-3810f: CPE Up at 00:57:05 on 9/11
+2001-09-11 03:46:44 Skytel [002357369] C  ALPHA  002194 CYCLIC TEST 
+2001-09-11 03:46:44 Skytel [007109749] B ST NUM  643-170-0177-64177  
+2001-09-11 03:46:44 Skytel [003327216] A  ALPHA  002194 CYCLIC TEST 
+2001-09-11 03:46:44 Skytel [007118461] D SH/TONE 194-9356
+2001-09-11 03:46:44 Skytel [002139900] D SH/TONE 002194  
+2001-09-11 03:46:48 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177311. 
+2001-09-11 03:46:48 Skytel [007641751] B SH/TONE 5827    
+2001-09-11 03:46:50 Metrocall [1761658] C  ALPHA  Frm: lse@d2wios4.sc.intel.com Sub: d2wios4 COPS.sh Txt: Possible Cu contamination: VRFY on 21271050 on "COPPER" ocr OCR42C at "NON-COPPER" operation 5758 at Tue Sep 11 00:46:32 PDT 2001.
+2001-09-11 03:46:51 Skytel [007518523] C  ALPHA  editor1@whattheythink.com|RIT Gets A Sunday, Major Jobs Need Agency?|         ______________________
+2001-09-11 03:46:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1199..
+2001-09-11 03:46:55 Skytel [003944538] C  ALPHA  Alert Number: 1545025 - MVSISGA - Call 3790 Say CMB206I NO LINES AVAILABLE NA NA NA NA
+2001-09-11 03:46:59 Skytel [007118207] D ST NUM  454-187-8183-11

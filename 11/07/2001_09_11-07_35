@@ -1,0 +1,114 @@
+2001-09-11 07:35:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2162
+2001-09-11 07:35:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2162
+2001-09-11 07:35:01 Arch [0554645] B  ALPHA  (30)15:ABS: IONNOC SCHED MAINT. s35798. ELMNCA01, START:05:35/STOP:05:55CDT, NO KNOWN CUST IMPACT. TRS-4992208, SP/NOC/913-534-720
+2001-09-11 07:35:01 Arch [1421779] A  ALPHA  (26)09:ABS: IONNOC SCHED MAINT. s35798. ELMNCA01, START:05:35/STOP:05:55CDT, NO KNOWN CUST IMPACT. TRS-4992208, SP/NOC/913-534-720
+2001-09-11 07:35:01 Metrocall [002557540] B  ALPHA  From BARTON: job listings not working on Shands.org
+2001-09-11 07:35:01 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 144W MAJ=NONE
+2001-09-11 07:35:01 Metrocall [1064385] A  ALPHA  JY  8210/8277  -064 EC  8974/8954 -
+2001-09-11 07:35:03 Metrocall [1064385] A  ALPHA  0026 BP 14560/14508 -014 SF  5924/5929  -015 CD  6407/6398  +009 AD  5140/5124  +002 DM  4602/4591  -026 FES 9696/732/740/33 FDX 4789/4825  +102 PTB 8962/8867  -016 FGBS10356 FYB 13902 BDL 10797/10800-028 BDM 10711-017
+2001-09-11 07:35:03 Skytel [007098397] D SH/TONE 999     
+2001-09-11 07:35:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6984
+2001-09-11 07:35:05 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179813. 
+2001-09-11 07:35:05 Skytel [004601899] C  ALPHA  metrocommute@alert.metrocommute.com|Traffic Update Tue Sep 11  7:35:01 2001|metr
+2001-09-11 07:35:05 Skytel [007556012] D SH/TONE 561-1676
+2001-09-11 07:35:05 Skytel {1092655} 3 2400 002270    
+2001-09-11 07:35:11 Metrocall [002587758] D  ALPHA  Mary Klosterman FisStl:513-632-2133 DWN: Albert Pike AR br server & atm down; telco tested circ; will work w/br to reset router TICKET_NUM:000489197 09-11-01 06:28am cst
+2001-09-11 07:35:14 Arch [0028073] C  ALPHA   9/11 7:34>Subj=MBSGS Daily Batch Failure, Mesg=part 2sp_HistoryTaxlotAndPool -2147217871 <mbsgs.process@capmark.funb.com>
+2001-09-11 07:35:16 Arch [0028073] C  ALPHA   9/11 7:34>Subj=MBSGS Daily Batch Failure, Mesg=part 1-clt01LTAM01-MBSGS-An error occurred within the daily batch process. The PS Extract File may not have imported successfully. Error info <mbsgs.process@capmark.funb.com>
+2001-09-11 07:35:16 Arch [0000101] B  ALPHA  MSN 053 hello Message from NOC PCB.
+2001-09-11 07:35:20 Metrocall [1261323] C  ALPHA  Frm: fusasitescope@wingspan.com Txt: elgweb12 login content match error on step 2, https://192.168.67.89/cmsonline/main/cmslogin.jsp
+2001-09-11 07:35:22 Arch [0870928] A  ALPHA  tburrell|REMINDER:Training Committee Meeting begins at 8:00 this morning in the Blue Devils Training Room/Hardwood Building/2nd Floor. See you There! Tonia   
+2001-09-11 07:35:22 Arch [0931384] C  ALPHA  tburrell|REMINDER:Training Committee Meeting begins at 8:00 this morning in the Blu
+2001-09-11 07:35:22 Arch [0942747] C  ALPHA  26-CALL JOHN AT HOME, 540-439-4421.
+2001-09-11 07:35:22 Arch [1007943] B  ALPHA  tburrell|REMINDER:Training Committee Meeting begins at 8:00 this morning in the Blue Devils Training Room/Hardwood Building/2nd Floor. See you There! Tonia   
+2001-09-11 07:35:22 Arch [0861595] C  ALPHA  (3)11:ABS: SSO-NO Deferred Impairment 
+2001-09-11 07:35:22 Arch [1050631] B  ALPHA  tburrell|REMINDER:Training Committee Meeting begins at 8:00 this morning in the Blue Devils Training Room/Hardwood Building/2nd Floor. See you There! Tonia   
+2001-09-11 07:35:22 Arch [1602767] D  ALPHA  (27)11:ABS: SSO-NO Deferred Impairment Closure SPFDBB3(trk/12)NYCMBBH PSN2 During P
+2001-09-11 07:35:22 Arch [0965318] B  ALPHA  tburrell|REMINDER:Training Committee Meeting begins at 8:00 this morning in the Blue Devils Training Room/Hardwood Building/2nd Floor. See you There! Tonia   
+2001-09-11 07:35:22 Arch [0788556] D  ALPHA  11:ABS: SSO-NO Deferred Impairment Closure SPFDBB3(trk/12)NYCMBBH PSN2 During PSN2 
+2001-09-11 07:35:22 Metrocall [0956652] D  ALPHA  CAR 683 ANDERSON INVOLVED IN 66H NO INJ--1345 LAKE LN
+2001-09-11 07:35:22 Metrocall [0048302] D  ALPHA  Frm: Mail, Remedy Sub: #00029566, Medium Txt: Paging Primary 2 Escalated no response-Assigned to Rtl S..t.....1..f..-.....:.............................................................................
+2001-09-11 07:35:22 Metrocall [0048541] D  ALPHA  ..........................................
+2001-09-11 07:35:24 Arch [0931384] C  ALPHA  e Devils Training Room/Hardwood Building/2nd Floor. See you There! Tonia   
+2001-09-11 07:35:24 Arch [0861595] C  ALPHA  Closure SPFDBB3(trk/12)NYCMBBH PSN2 During PSN2 upgrades S35605 trunk went down  9/9/01 642z Bad port on bulkhead in SPFD replaced 9/11/01 440z problem has been corrected/Teams2040926/Darrell/ sso-now
+2001-09-11 07:35:24 Arch [1602767] D  ALPHA  SN2 upgrades S35605 trunk went down  9/9/01 642z Bad port on bulkhead in SPFD replaced 9/11/01 440z problem has been corrected/Teams2040926/Darrell/ sso-now
+2001-09-11 07:35:24 Arch [0788556] D  ALPHA  upgrades S35605 trunk went down  9/9/01 642z Bad port on bulkhead in SPFD replaced 9/11/01 440z problem has been corrected/Teams2040926/Darrell/ sso-now
+2001-09-11 07:35:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9907
+2001-09-11 07:35:31 Arch [1066762] C  ALPHA  FIRST ALARM, CAR FIRE POINT BEEZE CHANGE HOUSE
+2001-09-11 07:35:31 Arch [0723725] D  ALPHA  FIRST ALARM, CAR FIRE POINT BEEZE CHANGE HOUSE
+2001-09-11 07:35:31 Metrocall [1422310] B  ALPHA  Mary Klosterman FisStl:513-632-2133 DWN: Albert Pike AR br server & atm down; telco tested circ; will work w/br to reset router TICKET_NUM:000489197 09-11-01 06:28am cst
+2001-09-11 07:35:31 Metrocall [1282938] C  ALPHA  (0270319157)Sev:3
+2001-09-11 07:35:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3555
+2001-09-11 07:35:31 Metrocall [1457860] B  ALPHA  PM196468 Sev: 3 Grp: ais security - mainframe Loc: qcp Name: bob Ph: 617-770-8909 Descr: password revoked
+2001-09-11 07:35:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 04:33:11 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 07:35:31 Skytel [002673805] D  ALPHA  JOSEPH.E.DIPIETRO@saic.com|FW: Columbus DS10 Upgrade|  > ---------- > From:  Harrison, Jennifer G. > Sent:  Tuesday, September 11, 2001 7:24:38 AM > To:  WRIGHT, JIM B.; Hemme, Galen L.; DANIEL, JD J.; WILSON, PAUL D.; > Scot Robins; Ariann
+2001-09-11 07:35:31 Skytel [002381193] C  ALPHA  Traffic BLOWS!!!!
+2001-09-11 07:35:31 Skytel [007641999] D ST NUM  0-431-431-4388-88   
+2001-09-11 07:35:31 Skytel [002369280] A SH/TONE 2724    
+2001-09-11 07:35:33 Arch [0899367] B  ALPHA  ISHD1378443 - PredictiveDialer - SITMAN PAGE-Dialer Analysts unable to build todays campaigns. Davox dialer download completed at 5:50am cdt. Dialer A,B
+2001-09-11 07:35:33 Arch [0971974] B  ALPHA  ISHD1378443 - PredictiveDialer - SITMAN PAGE-Dialer Analysts unable to build todays campa
+2001-09-11 07:35:33 Arch [0905780] B  ALPHA  ISHD1378443 - PredictiveDialer - SITMAN PAGE-Dialer Analysts unable to build todays campaigns. Davox dialer download completed at 5:50am cdt. Dialer A,B
+2001-09-11 07:35:33 Arch [1433251] A  ALPHA  ISHD1378443 - PredictiveDialer - SITMAN PAGE-Dialer Analysts unable to build todays campaigns. Davox dialer download completed at 5:50am cdt. Dialer A,B
+2001-09-11 07:35:33 Arch [0282973] D  ALPHA  ISHD1378443 - PredictiveDialer - SITMAN PAGE-Dialer Analysts unable to build todays campaigns. Davox dialer download completed at 5:50am cdt. Dialer A,B
+2001-09-11 07:35:33 Metrocall [1282938] C  ALPHA   Case ID:1577335 Ent:TS Site:48010, DURHAM COUNTY GENERAL HOSPITAL 919 470 6342 gwen cheryl L180: dev - sun system keeps rebooting , locks up and shuts down giving these errors/maf/ref hws
+2001-09-11 07:35:33 Skytel [002385178] C  ALPHA  Monitor@eclaim.com|IBM NA Website is RUNNING|IBM NA Website is RUNNING  Mail generated by Servers Alive at Tuesday, September 11, 2001 4:35:46 AM  
+2001-09-11 07:35:33 Skytel [005001620] B SH/TONE 16180   
+2001-09-11 07:35:33 Skytel [003953311] D  ALPHA  pager@household.com||(From EMPZ96) 908-203-2599 HTSMGMT RE T512780 - TSYS DOWNLOAD HAS COMPLETED. HSS/CHA RLIE  
+2001-09-11 07:35:35 Arch [0971974] B  ALPHA  igns. Davox dialer download completed at 5:50am cdt. Dialer A,B
+2001-09-11 07:35:35 Arch [0721627] C  ALPHA  10:ABS: SSO-NO Deferred Impairment Closure SPFDBB3(trk/12)NYCMBBH PSN2 During PSN2 upgrades S35605 trunk went down  9/9/01 642z Bad port on bulkhead in SPFD replaced 9/11/01 440z problem has been corrected/Teams2040926/Darrell/ sso-now
+2001-09-11 07:35:35 Arch [0867616] A  ALPHA  (10)11:ABS: SSO-NO Deferred Impairment Closure SPFDBB3(trk/12)NYCMBBH PSN2 During PSN2 upgrades S35605 trunk went down  9/9/01 642z Bad port on bulkhead in SPFD replaced 9/11/01 440z problem has been corrected/Teams2040926/Darrell/ sso-now
+2001-09-11 07:35:35 Arch [0861629] D  ALPHA  (11)11:ABS: SSO-NO Deferred Impairment Closure SPFDBB3(trk/12)NYCMBBH PSN2 During PSN2 upgrades S35605 trunk went down  9/9/01 642z Bad port on bulkhead in SPFD replaced 9/11/01 440z problem has been corrected/Teams2040926/Darrell/ sso-now
+2001-09-11 07:35:35 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb12 login content match error on step 2, https://192.168.67.89/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain information 
+2001-09-11 07:35:35 Skytel [0000806] B  ALPHA  1) Unable to access Outlook.  Need assistance.  Thank you.  Carolyn Coyne 4-5109
+2001-09-11 07:35:37 Skytel [003953727] D  ALPHA  pager@household.com||(From EMPZ96) 908-203-2599 HTSMGMT RE T512780 - TSYS DOWNLOAD HAS COMPLETED. HSS/CHA RLIE  
+2001-09-11 07:35:37 Skytel [004539187] A  ALPHA  73700@emc.fedex.com|DFW Sort|DFW AM Sort down 0612 +30 on late A/C. .  
+2001-09-11 07:35:37 Skytel [005045048] C  ALPHA  4) 2296274
+2001-09-11 07:35:37 Skytel [002555193] C SH/TONE 870-3061
+2001-09-11 07:35:37 Skytel [007518523] C  ALPHA  "AnchorDesk" |  More of the straight dope about Windows XP--direct from MS| <HTML> <!-- ************
+2001-09-11 07:35:37 Skytel [005180473] C SH/TONE         
+2001-09-11 07:35:37 Skytel [002868413] D  ALPHA  SIN;Warren Tech Center;SV-4;TOP-0700/EDT;TOR-0720/EDT;SCP-0;BPA-Product Vision;SAS-Up/Warren server team did a panic reboot;Ling;PH-8109476189;PG-2482408954;TK-19500596 -- From: GB-GSS
+2001-09-11 07:35:38 Skytel [003327562] C ST NUM  0-644-421-2472-2325 
+2001-09-11 07:35:38 Skytel [002815810] A  ALPHA  oracle@saturn.oak.zhone.com|Errors found in Alert log file of one or more databaes on saturn|==> Sent by <oracle> from saturn on Tue Sep 11 04:35:04 PDT 2001   Errors found in the alert log of BSBPROD   Change 'ORA-' to '#ORA-' in alert log
+2001-09-11 07:35:38 Skytel [002382400] A SH/TONE 1       
+2001-09-11 07:35:38 Skytel [007556806] B  ALPHA  FYI, KPMG order volume test just started. My team is on the bridge. - Frank
+2001-09-11 07:35:38 Skytel [002558796] D SH/TONE 804772  
+2001-09-11 07:35:40 Skytel [005479378] A ST NUM  510-251-4021-1 
+2001-09-11 07:35:40 Skytel [005416026] C  ALPHA  Mike - do you have the 8816 evap assy? FROM: RON BLUMHARDT (X19244) 
+2001-09-11 07:35:40 Skytel [005112541] D ST NUM  303-719-4336 U 
+2001-09-11 07:35:42 Skytel [004524770] A  ALPHA  spf-PeterPanBus-SpringfieldMA-38: CPE Down at 01:47:25 on 9/11
+2001-09-11 07:35:42 Skytel [002751592] C SH/TONE 11      
+2001-09-11 07:35:42 Skytel [005436525] D  ALPHA  nMCI Test #96
+2001-09-11 07:35:43 Arch [0624854] B  ALPHA  (29)11:ABS: SSO-NO Deferred Impairment Closure SPFDBB3(trk/12)NYCMBBH PSN2 During PSN2 upgrades S35605 trunk went down  9/9/01 642z Bad port on bulkhead in SPFD replaced 9/11/01 440z problem has been corrected/Teams2040926/Darrell/ sso-now
+2001-09-11 07:35:43 Arch [1414924] D  ALPHA  From:John Post/COMP/Pru@PRUDENTIAL Body:We will be having a meeting today at 10:00am to discuss the Ethernet  rollout project. Thanks
+2001-09-11 07:35:43 Arch [1008221] D  ALPHA  10:ABS: SSO-NO Deferred Impairment Closure SPFDBB3(trk/12)NYCMBBH PSN2 During PSN2 upgrades S35605 trunk went down  9/9/01 642z Bad port on bulkhead in SPFD replaced 9/11/01 440z problem has been corrected/Teams2040926/Darrell/ sso-now
+2001-09-11 07:35:43 Arch [1018042] C  ALPHA  From:
+2001-09-11 07:35:43 Arch [0950737] A  ALPHA  From:John Post/COMP/Pru@PRUDENTIAL Body:We will be having a meeting today at 10:00am to discuss the Ethernet  rollout project. Thanks
+2001-09-11 07:35:44 Skytel [005506686] D  ALPHA  Roger, If you can't escort them, then you you to get me someone who can.  This order came down from Earl!  Thanks, Vern
+2001-09-11 07:35:44 Skytel [0010356] B  ALPHA  2) 1)  AYER 10-SEP-2001 SE ENVIARON   780 MENSAJES /   0  VIA TAP Y  70  DESDE INTERNET , A PINES" DE PDVSA-PUNTO FIJO
+2001-09-11 07:35:44 Skytel [004112379] C ST NUM  584-1024 (17   
+2001-09-11 07:35:44 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-11 07:35:44 Skytel [002474612] B  ALPHA  T-RPTS STARTED (5
+2001-09-11 07:35:45 Arch [1018042] C  ALPHA  John Post/COMP/Pru@PRUDENTIAL Body:We will be having a meeting today at 10:00am to discuss the Ethernet  rollout project. Thanks
+2001-09-11 07:35:46 Arch [0722722] A  ALPHA  11:ABS: SSO-NO Deferred Impairment Closure SPFDBB3(trk/12)NYCMBBH PSN2 During PSN2 upgrades S35605 trunk went down  9/9/01 642z Bad port on bulkhead in SPFD replaced 9/11/01 440z problem has been corrected/Teams2040926/Darrell/ sso-now
+2001-09-11 07:35:46 Arch [0967137] A  ALPHA  From:John Post/COMP/Pru@PRUDENTIAL Body:We will be having a meeting today at 10:00am to discuss the Ethernet  rollout project. Thanks
+2001-09-11 07:35:46 Arch [0980109] D  ALPHA  6ex needs lazers checked prior to 9am as per dr. williams thanks
+2001-09-11 07:35:46 Arch [1425048] C  ALPHA  30
+2001-09-11 07:35:46 Arch [1204190] D  ALPHA  11:ABS: SSO-NO Deferred Impairment Closure SPFDBB3(trk/12)NYCMBBH PSN2 During PSN2 upgrades S35605 trunk went down  9/9/01 642z Bad port on bulkhead in SPFD replaced 9/11/01 440z problem has been corrected/Teams2040926/Darrell/ sso-now
+2001-09-11 07:35:46 Arch [1223415] B  ALPHA  (3)11:ABS: SSO-NO Deferred Impairment Closure SPFDBB3(trk/12)NYCMBBH PSN2 During PSN2 upgrades S35605 trunk went down  9/9/01 642z Bad port on bulkhead in SPFD replaced 9/11/01 440z problem has been corrected/Teams2040926/Darrell/ sso-now
+2001-09-11 07:35:46 Arch [0926647] B  ALPHA  <8
+2001-09-11 07:35:46 Skytel [003473026] A SH/TONE 447-1635
+2001-09-11 07:35:48 Arch [1425048] C  ALPHA  0~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179820. 
+2001-09-11 07:35:48 Arch [1410547] A  ALPHA  07:35 siac_xmit@edtx25-2 UP--Overseer@edtps3
+2001-09-11 07:35:48 Arch [0926647] B  ALPHA  0> #2577 DR STEVEN KAPLAN DR P/C DR PETER GREEN PH 212 305 5741 C A PT REFERAL (DNL NAME OF PT)
+2001-09-11 07:35:48 Skytel [005074577] A SH/TONE 2345    
+2001-09-11 07:35:50 Skytel [004417186] A ST NUM  370-0311-2
+2001-09-11 07:35:52 Metrocall [1005648] A  ALPHA  09/11/101  12:58:04A   WKNOXVIL WKNOXVIL ONLINE
+2001-09-11 07:35:53 Skytel [004592207] D  ALPHA  All accounted for.  Can we changed nurse call batteries?  SFC H
+2001-09-11 07:35:53 Skytel [004737868] D SH/TONE 1       
+2001-09-11 07:35:54 Arch [0960331] C  ALPHA  ISHD1378443 - PredictiveDialer - SITMAN PAGE-Dialer Analysts unable to build todays campaigns. Davox dialer download completed at 5:50am cdt. Dialer A,B
+2001-09-11 07:35:54 Arch [0906075] C  ALPHA  ISHD1378443 - PredictiveDialer - SITMAN PAGE-Dialer Analysts unable to build todays campaigns. Davox dialer download completed at 5:50am cdt. Dialer A,B
+2001-09-11 07:35:54 Arch [0893066] C  ALPHA  ISHD1378443 - PredictiveDialer - SITMAN PAGE-Dialer Analysts unable to build todays campaigns. Davox dialer download completed at 5:50am cdt. Dialer A,B
+2001-09-11 07:35:54 Arch [0987266] A  ALPHA  YOU HAVE A CALL ON HOLD.
+2001-09-11 07:35:55 Skytel [003944538] C  ALPHA  Alert Number: 1552324 - MVSISGA - Call 3790 Say FDTPAGE NODE SIAC FAILED - JOBNAME# NA NA
+2001-09-11 07:35:55 Skytel [004593755] C SH/TONE 445-6579
+2001-09-11 07:35:57 Skytel [005115237] B SH/TONE 9176    

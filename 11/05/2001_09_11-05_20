@@ -1,0 +1,56 @@
+2001-09-11 05:20:00 Arch [0908108] D  ALPHA  1/02:****CHG-TKT**** TYPE: Major  OP: 08/31/01 11:05:55 Tkt: NOC000000083771 STAT: Monitor  COMPANY NAME: BellSouth.Net Inc.   SITE: Atlanta 1100  LOG: This is just a TELEALERT test.  Please do not re
+2001-09-11 05:20:00 Arch [0986477] D  ALPHA  "WhatsUp" <whats|Remote WebServer HTTP DOWN at 01|Remote WebServer HTTP DOWN at 01:56:57 Address: 216.85.144.134 Info 1: Web Server Home on ResWeb2 Info 2: CCERMT Date: 09/11/2001 Status: unknown ( 1) Svcs: HTTP 
+2001-09-11 05:20:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2027
+2001-09-11 05:20:00 Metrocall [1261323] C  ALPHA  Frm: wingmon@firstusa.com Txt: SiteScope neapp102 /var/weblog neapp102 2563 no data
+2001-09-11 05:20:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2027
+2001-09-11 05:20:03 Skytel [002392598] B  ALPHA  05:20:12 AM
+2001-09-11 05:20:03 Skytel {1092655} 3 2400 002225    
+2001-09-11 05:20:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6849
+2001-09-11 05:20:09 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage on SHOW ended after 192 seconds 09/11/01 02:17:58 PDT7 623058
+2001-09-11 05:20:10 Arch [1083866] C  ALPHA  (23)Ernie can you join our stress test bridge to help Fail Service Manager Blue LAN (Cajun Hub) 650 0652 pin 50654 
+2001-09-11 05:20:10 Arch [1052328] C  ALPHA  Cisco WWW-madness|txautocompleteclass.pl cronjob done ||55  
+2001-09-11 05:20:13 Arch [0294758] B  ALPHA  From Roby Pantall Sub:Conversions  Msg:store 2516 is OK now.  Still waiting on 3 Alaska stores    Roby C. Pantall  Systems Analyst    
+2001-09-11 05:20:15 Arch [0908108] D  ALPHA  2/02:678-441-8377
+2001-09-11 05:20:19 Metrocall {1175634} 2 2400 711..
+2001-09-11 05:20:24 Metrocall [1064378] C  ALPHA  KOIZUMI SAYS ASKED GOVT FOR MORE EFFO.TS..O.RE.UC. B.DW.T ......................
+2001-09-11 05:20:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9772
+2001-09-11 05:20:27 Arch [0911134] D  ALPHA   comsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSHH_EQNY1) PDSHH_EQNY1 - HEDGEHOG_HIST: DATA -->> ALLOCATED = 400 MB, USED = 361 MB, FREE = 39 MB, PERCENT_USED = 90% @05:20 09/11/01 
+2001-09-11 05:20:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178328. 
+2001-09-11 05:20:31 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage detected on CNN: 388 seconds so far 09/11/01 02:18:33 PDT7 621025
+2001-09-11 05:20:31 Metrocall [1589945] C  ALPHA  3580470 tandem xpnet (Multiples) A Guardian writeread error 201 to Process P5B^FDR occurred
+2001-09-11 05:20:31 Metrocall [1064391] B  ALPHA  LME FUTURES       MCU_1438/1441 -006 M
+2001-09-11 05:20:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3420
+2001-09-11 05:20:31 Metrocall [1064395] C  ALPHA  )?#`BAQHI@[@D~WOdvjlvR`ip[MMAAirxlQAGgujbBMOiHIl~eEPQXtZ_RjTtER^`iQXeVGEPPjlROEjHJTVcUbtzeMAFgtdDzKXjHHue@@D`PM^]@C
+2001-09-11 05:20:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 02:20:12 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:20:31 Skytel [004447111] B  ALPHA  CPQ 10.35 -0.24 NSCP 0.00 UNCH CSCO 14.47 +0.11 DJIA 9605.51 -0.34
+2001-09-11 05:20:31 Skytel [007617548] D  ALPHA  MSN ||Hotmail Jessica Pleuss:greetings  
+2001-09-11 05:20:33 Metrocall [1064391] B  ALPHA  AL 1367/1370 -009 MAA 1143/1147 -012 MNI 5080/5100 -050 MSN 3745/3760 -030 MPB 4790/4801 -010 MZN _829/_832 -006
+2001-09-11 05:20:35 Skytel [004024864] A  ALPHA  wingmon@firstusa.com||SiteScope neapp102 /var/weblog neapp102 2563 no data    ********************************************************************** This transmission may contain information that is privileged, confidential and/or exempt fr
+2001-09-11 05:20:35 Skytel [003477031] B SH/TONE 8017    
+2001-09-11 05:20:35 Skytel [003329187] A  ALPHA  SkyFax: :1 Page (1
+2001-09-11 05:20:37 Skytel [005208500] B  ALPHA  : bhfprod - Unknown filetype
+2001-09-11 05:20:37 Skytel [005243061] B ST NUM  937-1841 (71   
+2001-09-11 05:20:37 Skytel [005002044] D  ALPHA  Server Chicago_Notes_1/SYBASE is Responding or has been restarted.
+2001-09-11 05:20:37 Skytel [005228862] D SH/TONE 2002    
+2001-09-11 05:20:38 Arch [1265683] A  ALPHA  2/02:678-441-8377
+2001-09-11 05:20:38 Arch [1657760] A  ALPHA  Controller QESCTL not contacted. Call out request failed. (C R)
+2001-09-11 05:20:38 Skytel [005056713] C ST NUM  201-938-3461   
+2001-09-11 05:20:38 Skytel [004420676] B ST NUM  0-800-228-0564-32810
+2001-09-11 05:20:40 Skytel [002377819] C  ALPHA  Martin.Monson@sun.com|T+1hr20min 01:55mst : Console Outage Status Update|Failback to primary being done. console not yet stable. BRM and SAC on backup  email. Will monitor console stability for 30min after failback is completed.  Please cal
+2001-09-11 05:20:40 Skytel [002376667] C  ALPHA  Martin.Monson@sun.com|T+1hr20min 01:55mst : Console Outage Status Update|Failback to primary being done. console not yet stable. BRM and SAC on backup  email. Will monitor console stability for 30min after failback is completed.  Please cal
+2001-09-11 05:20:42 Skytel [007553888] A  ALPHA  896-6731No Answer Southfield Backup 248-552
+2001-09-11 05:20:42 Skytel [002372705] A  ALPHA  kfoxwell@lucent.com||Steve, The lucent power installers were in the office.  All is now stable.   Kevin  
+2001-09-11 05:20:43 Arch [0939437] D  ALPHA  CA Helpdesk <CAH|unknown|CR: 143495 Priority: 3 Assigned to: Marchionda, Joe Summary:: Planned.CA Unix.AccessChg 
+2001-09-11 05:20:44 Skytel [002821497] C  ALPHA  alert@msn.com||Hotmail arroyo74@statescoins.com:You  
+2001-09-11 05:20:50 Metrocall [1544818] A  ALPHA  OCCC-AACC02:Device Inaccessible
+2001-09-11 05:20:50 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs01 Sev:4 # 120012 Reconnect WBS 3.1.14.1 09/11/01 02:20:22 PDT7 Instance: tm-oxyg Module: Transport Details: PID=23739 TID=30 Successfully reconnected.
+2001-09-11 05:20:50 Metrocall [1457849] C  ALPHA  From: mclp003 ==>   apipso75 idh19_4 DOWN on mclp003    05:20:41 09/11/01 Page sent by
+2001-09-11 05:20:50 Metrocall [1224820] B  ALPHA  From: mclp003 ==>   apipso75 idh19_4 DOWN on mclp003    05:20:43 09/11/01 Page sent by
+2001-09-11 05:20:51 Skytel [003328569] C  ALPHA  OCTL 0.00 UNCH CSCO 14.40 +0.04 COMS 3.61 +0.06 USRX 0.00 UNCH (3
+2001-09-11 05:20:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1293..
+2001-09-11 05:20:53 Skytel [005555279] D  ALPHA  05:20:46 BY05D96Z HAS NOT ENDED. PLEASE INVESTIGATE. CONTACT ONCALL.
+2001-09-11 05:20:57 Skytel [005436525] D  ALPHA  Test #34-IX_T0516
+2001-09-11 05:20:57 Skytel [004524770] A  ALPHA  spf-HealthNewEngland-SpringfielM: CPE Up at 00:58:51 on 9/11
+2001-09-11 05:20:57 Skytel [005112809] C  ALPHA  04:16CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240384: Uncorrectable write error
+2001-09-11 05:20:57 Skytel [004517601] A  ALPHA  MSFT 56.68 +1.28 IBM 96.40 -0.19 HWP 18.04 -0.04 SUNW 10.46 -0.13
+2001-09-11 05:20:59 Skytel [007109749] B ST NUM  237881245911170111  

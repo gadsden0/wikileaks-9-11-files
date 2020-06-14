@@ -1,0 +1,129 @@
+2001-09-12 01:00:00 Skytel [004406001] A  ALPHA  p95sqa@soco.agilent.com||P95_II is alive.  
+2001-09-12 01:00:00 Skytel [002161781] B ST NUM  670-535-0691   
+2001-09-12 01:00:01 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-12 01:00:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8029
+2001-09-12 01:00:01 Arch [0944150] B  ALPHA  25900
+2001-09-12 01:00:01 Arch [1398238] D  ALPHA  knox6060(161.44.216.60): failed ifDescr check, expected: hme0, got: timeout for hme0
+2001-09-12 01:00:02 Skytel [007046275] A SH/TONE 2911    
+2001-09-12 01:00:03 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-12 01:00:05 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 01:00:05 Arch [0241791] D  ALPHA  (27)PASSPORT_CHA_A:12-sep-2001 00:48:Failure: Session Nmis Telnet Session/1-1/2
+2001-09-12 01:00:05 Skytel [005089442] A SH/TONE 1720    
+2001-09-12 01:00:07 Arch [0965689] C  ALPHA  sihp8032: Disk utilization of /home filesystem 77% is greater than 75
+2001-09-12 01:00:07 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-12 01:00:07 Arch [0241791] D  ALPHA  (28)(userid pms) is in provisioning mode.-2/2
+2001-09-12 01:00:09 Arch [0950818] A  ALPHA  From Sams Interactive App Sub:CNP fulfillment 09120000 Msg:# late  3  # 5 hrs out  0  total open  17  
+2001-09-12 01:00:09 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 01:00:09 Arch [1657188] B  ALPHA  NCAGBRWS02:Device Inaccessible
+2001-09-12 01:00:09 Arch [0475901] D  ALPHA  From Sams Interactive App Sub:CNP fulfillment 09120000 Msg:# late  3  # 5 hrs out  0  total open  17  
+2001-09-12 01:00:09 Arch [0241791] D  ALPHA  (29)REQQ time limit exceeded for:PASSPORT_FTW_O:12-sep-2001 00:02
+2001-09-12 01:00:09 Arch [0282950] B  ALPHA  From Sams Interactive App Sub:CNP fulfillment 09120000 Msg:# late  3  # 5 hrs out  0  total open  17  
+2001-09-12 01:00:09 Skytel [005260235] C  ALPHA  root@pdi.com|Down server|nis2 -- Erik Patton  Unix System Administration  PDI/DreamWorks  
+2001-09-12 01:00:10 Arch [0241791] D  ALPHA  (30)PASSPORT_FTW_O:12-sep-2001 00:48:Failure: Session Nmis Telnet Session/1-1/2
+2001-09-12 01:00:10 Metrocall [0643447] B  ALPHA  Frm: Risk MIS Sub: MelitaAgentMIS.ksh(OK): Completed Successfully - DEV Txt: ******************** This transmission may contain information that is privileged, confidential and/or exempt from disclosu
+2001-09-12 01:00:12 Arch [0241791] D  ALPHA  (31)(userid pms) is in provisioning mode.-2/2
+2001-09-12 01:00:12 Metrocall [0525954] A  ALPHA  Server:Chelmick at 10.17.1.52 is DOWN.
+2001-09-12 01:00:13 Skytel [005136736] A SH/TONE 323-8070
+2001-09-12 01:00:13 Skytel [004402286] D  ALPHA  diecom1t@web.lmig.com|UDB-Backup325501 web-test-online: FAILED|NODE NAME: web JOBID: DIECOM1T-ONLINE REPORT FILE: backup_DIECOM1T-ONLINE.2001-09-12.01:00:11.rpt  
+2001-09-12 01:00:15 Skytel [005347190] B  ALPHA   (SPU 1 of 1) : G - We want to do flowers or something, send me an e-mail or call tomorrow and lets talk about it.  Tim 636-4010
+2001-09-12 01:00:17 Skytel [005509770] C  ALPHA  _sqlsvc@compasstools.com|1-Leads| 
+2001-09-12 01:00:17 Skytel [005236495] D ST NUM  110005052 
+2001-09-12 01:00:17 Skytel [002361863] B  ALPHA  PAGEING,1,Application DPIP Informational 4 0 4096 21:58  09/11/01
+2001-09-12 01:00:17 Skytel {0717237} 1 2400 Pin AMS: Se les informa que se cambio con exito el router del sitio conimex asi como se cambio a la int S0 el enlace FR. El sitio queda operando al 100 Juan M. Aguilar/ Carlos Iniguez SkyTel AMS
+2001-09-12 01:00:18 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|wb0300ux127|CR: 144206 Priority: 5 Assigned to: Summary:: File system warning 
+2001-09-12 01:00:18 Skytel {1599702} 1 2400 3492 (69
+2001-09-12 01:00:19 Metrocall [1466337] A  ALPHA  09/12@00:00:09 DALBK01-SNMP:cjFailureTrap: ipProductName: Backup Exec: Job Failed, cjJobName: DALBK01, cjJobFailureMessage: DALACCT Source: 165.97.10.101
+2001-09-12 01:00:19 Metrocall [1267315] A  ALPHA  [OSDEVMFS01] : ONESOURCE ALERT: 
+2001-09-12 01:00:19 Metrocall [1111466] C  ALPHA  09/12@00:00:09 DALBK01-SNMP:cjFailureTrap: ipProductName: Backup Exec: Job Failed, cjJobName: DALBK01, cjJobFailureMessage: DALACCT Source: 165.97.10.101
+2001-09-12 01:00:21 Metrocall [1267315] A  ALPHA  Envoy Connector - IP Connect Failure--<postmaster@passporthealth.com>
+2001-09-12 01:00:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0952
+2001-09-12 01:00:22 Arch [1411171] A  ALPHA  AQM@bayer.com|DNEWS_Log_Archive_AQM.cmd Job Fa|DNEWS_Log_Archive_AQM.cmd Failed. Please Consult Your E-Mail for Details.
+2001-09-12 01:00:22 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-12 01:00:22 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191642. 
+2001-09-12 01:00:22 Arch [0905541] B  ALPHA  AQM@bayer.com|DNEWS_Log_Archive_AQM.cmd Job Fa|DNEWS_Log_Archive_AQM.cmd Failed. Please Consult Your E-Mail for Details. 
+2001-09-12 01:00:24 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-12 01:00:25 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 01:00:25 Arch [0241791] D  ALPHA  (32)REQQ time limit exceeded for:PASSPORT_CHA_A:12-sep-2001 00:02
+2001-09-12 01:00:25 Arch [0951053] D  ALPHA  |gonzo build(s) done  
+2001-09-12 01:00:25 Arch [0796773] B  ALPHA  UIDD.Autoblock@m|01/09/12|Pass 1 00:03:49 DAL2846 SAC2751 : NEW $2514 #26 Avg $96 : OLD $418 #1 Avg $418 : SNT $8823 #13 Avg $678 : CIS $7352 #37 Avg $198 : MNL $2433 #8 Avg $304 : OVR 1.5K $7008 #2 Avg $3504 : High ANI:(6143082400) $4913 : 
+2001-09-12 01:00:25 Arch [0283027] A  ALPHA  "interMute, Inc.|AdSubtract registration informat|This message contains your AdSubtract registration information. Please read this message carefully, and save it for your records (you may need your registration code in the future, for exampl
+2001-09-12 01:00:27 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-12 01:00:27 Arch [0241791] D  ALPHA  (1)PASSPORT_SAT_D:12-sep-2001 00:50:Failure: Session Nmis Telnet Session/1-1/2
+2001-09-12 01:00:27 Arch [0979069] D  ALPHA  From Sams Interactive App Sub:CNP fulfillment 09120000 Msg:# late  3  # 5 hrs out  0  total open  17  
+2001-09-12 01:00:29 Arch [0241791] D  ALPHA  (2)(userid pms) is in provisioning mode.-2/2
+2001-09-12 01:00:29 Metrocall [002589261] D  ALPHA  F:rtb@kemper.en M:Task returned error (58x). factPullEric1: W 1426 20010911-22:00:10 Task seat2ax_pull terminated with error status = 139 .
+2001-09-12 01:00:29 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQ
+2001-09-12 01:00:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3208
+2001-09-12 01:00:29 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 144W MAJ=NONE
+2001-09-12 01:00:29 Metrocall [1363779] A  ALPHA  AP:TX:L1:NTADFTPT ABENDED WITH U0888 ON 1H02 - 01:00:Call 18007980784:SENDID# 1308 :
+2001-09-12 01:00:31 Arch [0936036] B  ALPHA  'lon-sls-rtr-s0' is unreachable. Circuit down?
+2001-09-12 01:00:31 Arch [0241791] D  ALPHA  (3)REQQ time limit exceeded for:PASSPORT_SAT_D:12-sep-2001 00:02
+2001-09-12 01:00:32 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 21:58:59 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 01:00:33 Arch [0590740] B  ALPHA  MsgID 12769:904-357-7760
+2001-09-12 01:00:33 Skytel [007487892] B ST NUM  517-076-8771-117677 
+2001-09-12 01:00:33 Skytel [004534043] C SH/TONE 1       
+2001-09-12 01:00:35 Skytel [005359140] B  ALPHA  ATTN FLL & LAX:  CHECKER IS NEED @ SEC 1 TO SCAN YOUR FREIGHT
+2001-09-12 01:00:35 Skytel [002374308] B ST NUM  978-040-7911   
+2001-09-12 01:00:35 Skytel [003934628] B  ALPHA  ATTN FLL & LAX:  CHECKER IS NEED @ SEC 1 TO SCAN YOUR FREIGHT
+2001-09-12 01:00:35 Skytel [005001895] B  ALPHA  [sps/97] 200 supplier.intel.com relay-ssl 0.697 Application is okay(/lift/healthcheck.asp) 2:54:56
+2001-09-12 01:00:35 Skytel [007605673] C SH/TONE 522222  
+2001-09-12 01:00:35 Skytel [004625450] C  ALPHA  Pin AMS: Se les informa que se cambio con exito el router del sitio conimex asi como se cambio a la int S0 el enlace FR. El sitio queda operando al 100 Juan M. Aguilar/ Carlos Iniguez SkyTel AMS
+2001-09-12 01:00:37 Skytel [002689968] A  ALPHA  OEM@Cummins.com|EVENT Database cardsweb sn01_db_up_down CRITICAL|Name : sn01_db_up_down  Target Name : cardsweb  Target Type : Database  Node Name : sn01s021.cummins.com  Timestamp : Sep 12 2001  12:00:17 AM   Database UpDown  The database 
+2001-09-12 01:00:37 Skytel [007605557] B SH/TONE 5290    
+2001-09-12 01:00:37 Skytel [002841393] A ST NUM  9002273030
+2001-09-12 01:00:37 Skytel [0000060] D  ALPHA  ATTN FLL & LAX:  CHECKER IS NEED @ SEC 1 TO SCAN YOUR FREIGHT
+2001-09-12 01:00:37 Skytel [0717237] B  ALPHA  Pin AMS: Se les informa que se cambio con exito el router del sitio conimex asi como se cambio a la int S0 el enlace FR. El sitio queda operando al 100 Juan M. Aguilar/ Carlos Iniguez SkyTel AMS
+2001-09-12 01:00:38 Metrocall [0528256] A  ALPHA  MR AROSTEGUEA SON HOLDING ON 8777000
+2001-09-12 01:00:38 Metrocall [1267315] A  ALPHA  [OSDEVMFS01] : ONESOURCE ALERT: Envoy Connector - IP Connect Successful--<postmaster@passporthealth.com>
+2001-09-12 01:00:38 Metrocall [0476499] A  ALPHA  UENTIAL NUMBER  3208
+2001-09-12 01:00:39 Skytel [005403597] D  ALPHA  T5821 [CCDDB1] Reachability lost from CCDDB1 to 1 system(s):   (CCDH16INS1). . (28
+2001-09-12 01:00:39 Skytel [008477645] D  ALPHA  Pin AMS: Se les informa que se cambio con exito el router del sitio conimex asi como se cambio a la int S0 el enlace FR. El sitio queda operando al 100 Juan M. Aguilar/ Carlos Iniguez SkyTel AMS (1 (9
+2001-09-12 01:00:39 Skytel [004709826] A  ALPHA  333333 U [2954
+2001-09-12 01:00:39 Skytel [004538828] D SH/TONE 6127    
+2001-09-12 01:00:40 Arch [0968278] B  ALPHA  17-I JUST GOT YOUR MSG. WHENEVER YOU CAN GIVE ME A CALL WILL BE GREAT. TIM
+2001-09-12 01:00:40 Metrocall [1409634] A  ALPHA  5060>>>>>
+2001-09-12 01:00:40 Metrocall [002286026] C  ALPHA  5060>>>>>
+2001-09-12 01:00:40 Metrocall [1429971] A  ALPHA  * After EOD backup completed normally. ** 09/11/01 23:57 QSYSOPR    HELPSYS
+2001-09-12 01:00:41 Skytel [007035485] D  ALPHA  If I don't hear from you in 2 minutes I am going to call hospitals and the police. I am serious. I am worried.
+2001-09-12 01:00:41 Skytel [005004368] A  ALPHA  Exchangemonitor: Check services on SRVRMON:One
+2001-09-12 01:00:41 Skytel [007644380] D ST NUM  900-227-3030   
+2001-09-12 01:00:42 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 01:00:43 Skytel [005456996] B  ALPHA  1) Pin AMS: Se les informa que se cambio con exito el router del sitio conimex asi como se cambio a la int S0 el enlace FR. El sitio queda operando al 100 Juan M. Aguilar/ Carlos Iniguez SkyTel AMS
+2001-09-12 01:00:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #51-IX_T1708
+2001-09-12 01:00:43 Skytel [007519971] A  ALPHA  MTEL4   NOC-Interface communicating. 1  of 2  connections active. 01/09/11 234941
+2001-09-12 01:00:43 Skytel [004431597] D SH/TONE 644-2048
+2001-09-12 01:00:43 Skytel [003777774] D SH/TONE 6805    
+2001-09-12 01:00:44 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-12 01:00:45 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2473..
+2001-09-12 01:00:45 Skytel [002396156] D SH/TONE 4359    
+2001-09-12 01:00:45 Skytel [007086325] B ST NUM  210-677-3227   
+2001-09-12 01:00:45 Skytel [005138933] B ST NUM  1-310-635-3906 
+2001-09-12 01:00:45 Skytel [004079866] C SH/TONE 1395 (75
+2001-09-12 01:00:45 Skytel [004421496] C SH/TONE 577-3000
+2001-09-12 01:00:45 Skytel [004730232] C  ALPHA  305:ISD00305 IS IN  STATUS IN LOCATION 081 ON DIPB
+2001-09-12 01:00:47 Skytel [005044104] C  ALPHA  scott.thomas@lamrc.com|Lab DB - Hitachi 4 used more than allowable time limit.|The next user is waiting to use Hitachi 4. You have been using the tool for 257 minutes and your allowable time on the tool has expired, please end your session 
+2001-09-12 01:00:48 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-12 01:00:48 Arch [1612317] D  ALPHA  RT_EASTON  ARCserveIT:  E0014 Job 466: Backup Operation Incomplete
+2001-09-12 01:00:48 Skytel [005212176] A SH/TONE 839-7158
+2001-09-12 01:00:48 Skytel [004181264] A ST NUM  01325 (80 
+2001-09-12 01:00:48 Skytel [005509400] C  ALPHA  CAS@airborne.com|LIBRA EQUIPMENT REPLACEMENT|                    LIBRA DAILY SHIPPED SUMMARY FOR 09/11/2001    STN                               FOC  CODE  RECORD ID   MODEL VERSION   CODE  CUSTOMER NAME              GENERIC TYPE  ____  ___
+2001-09-12 01:00:48 Skytel [002861584] A ST NUM  8685429388
+2001-09-12 01:00:48 Skytel [007600671] D SH/TONE 77125   
+2001-09-12 01:00:50 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 01:00:50 Skytel [007061794] A ST NUM  719-255-4120   
+2001-09-12 01:00:50 Skytel [007779102] D  ALPHA  Subj: 2005.dy_cust_mail.01-09-11: CUSTOM MAIL ERROR
+2001-09-12 01:00:50 Skytel [007593006] D SH/TONE 320-5710
+2001-09-12 01:00:51 Metrocall [1421924] B  ALPHA  Frm: Gentran_Production Sub: SQL Server Message Txt: Sep 12 2001 12:00AM PROCESS CONTROL STARTED SRVC-SQL WMSTUTGT01 System-AuditPurge
+2001-09-12 01:00:51 Metrocall [1421924] B  ALPHA  Frm: Gentran_Production Sub: SQL Server Message Txt: Sep 12 2001 12:00AM PROCESS CONTROL ENDED SRVC-S
+2001-09-12 01:00:51 Metrocall [1064383] D  ALPHA  FOREX HIGH -  LOW YEN_119.80 - 119.00 EUR 0.9116 - 0.9068 CHF 1.6575 - 1.6420 GBP 1.4751 - 1.4715 CAD 1.5658 - 1.5628 AUD 0.5196 - 0.5135 NZD 0.4313 - 0.4257 E/C 1.4991 - 1.4996 E/Y 109.:r - 108.73 E/S 0.6168 - 0.6166 USD 133.20 - 112.80
+2001-09-12 01:00:52 Skytel [005258806] B SH/TONE 28893   
+2001-09-12 01:00:52 Skytel [005506996] B  ALPHA  PRGIX 21.44 UNCH PRSCX 18.22 UNCH PRITX 10.72 UNCH PRWAX 27.84 UNCH
+2001-09-12 01:00:53 Metrocall [1283151] D  ALPHA  : CRDC-MAIL03 : "Server CRDC-MAIL03/MSVR/KAIPERM -  There are no longer any pending  documents older than 30 Minutes minutes in mail3.box. "
+2001-09-12 01:00:53 Metrocall [1421924] B  ALPHA  QL WMSTUTGT01 System-AuditPurge
+2001-09-12 01:00:56 Skytel [004040020] B  ALPHA  785-267-1672
+2001-09-12 01:00:56 Skytel [007593045] B ST NUM  410-543-6675-411    
+2001-09-12 01:00:58 Skytel [005330530] A ST NUM  8685222010
+2001-09-12 01:00:58 Skytel [007545449] C ST NUM  362-350-6262-3506   
+2001-09-12 01:00:58 Skytel [003599337] C  ALPHA  MSFT 57.58 UNCH ORCL 11.46 UNCH NOVL 3.99 UNCH MCI 25.15 UNCH (71
+2001-09-12 01:00:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8030
+2001-09-12 01:00:59 Metrocall [1443982] D  ALPHA  Frm: Y! Txt: Be mobile with Compaq Asheville, NC Sunny 54 - 77 F WNI

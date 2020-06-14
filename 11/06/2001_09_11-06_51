@@ -1,0 +1,59 @@
+2001-09-11 06:51:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2118
+2001-09-11 06:51:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2118
+2001-09-11 06:51:01 Skytel [004550529] A SH/TONE 445-3068
+2001-09-11 06:51:04 Arch [0909854] D  ALPHA  WB09101632 203-389-8600 STOP & SHOP 0648 ISS400 ORLANDO rts
+2001-09-11 06:51:04 Arch [1398739] A  ALPHA  518 471-2609
+2001-09-11 06:51:04 Arch [1358775] B  ALPHA                    P123 MCKINLEY THERE IS A CHILLER ALARM IN ZONE C  04:41
+2001-09-11 06:51:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6940
+2001-09-11 06:51:04 Arch [1047511] B  ALPHA  59-SANDRA FROM ABDUL'S WILL NOT BE IN TODAY. NOT FEELING WELL. CAN CONTACT ME AT HOME. 313-898-9209.
+2001-09-11 06:51:05 Skytel [007571232] A SH/TONE 898-8348
+2001-09-11 06:51:09 Arch [1005985] A  ALPHA  --- Equipment ID [05340002] status change - interference Equipment ID [05340002]
+2001-09-11 06:51:09 Skytel {0143279} 3 1200 202-685-7650   
+2001-09-11 06:51:17 Skytel {1601996} 4 2400 THP 0.00 UNCH HEC 1.90 +0.10 ORG 6.41 -0.34 MDT 42.54 -0.22.
+2001-09-11 06:51:19 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 06:51:20 Metrocall [1544818] A  ALPHA  GREN-PROD01:Device Inaccessible
+2001-09-11 06:51:22 Arch [100159672] C  ALPHA  HD000507317 Pri: High Group: Intel Services - NT Type: LAN - Novell Sum: Errors on NTAUS03 Phone: 4370 Loc: HDQ
+2001-09-11 06:51:22 Arch [0971491] A  ALPHA  Valdosta Quality Update: WTD 70%,7 Meets 3 DNM MTD 84.9%; Credit Update: MTD 74%, WTD Non Audited%. NCC/b
+2001-09-11 06:51:22 Arch [1051723] C  ALPHA  PLX1- 9840:552: PLX2- 9840j:5242 9840b:2969  PLX3- 9840:30 3490s:357mvC:33  PLX4
+2001-09-11 06:51:24 Arch [1051723] C  ALPHA  -9840:697 MVC:243
+2001-09-11 06:51:24 Arch [0000101] B  ALPHA  MSN 032 hello Message from NOC PCB.
+2001-09-11 06:51:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9863
+2001-09-11 06:51:26 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179329. 
+2001-09-11 06:51:26 Arch [0900580] B  ALPHA  SWAT from (pichaiyan): Today's 7:30am EST global call is cancelled =selva
+2001-09-11 06:51:30 Arch [0925366] B  ALPHA   318643;Sep 11 02:52:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 06:51:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE C....@T..L.0............
+2001-09-11 06:51:33 Skytel [002392598] B  ALPHA  06:51:12 AM
+2001-09-11 06:51:33 Skytel [007575575] B  ALPHA  lostux@limbstx1.att.com|0 ODMANAGER DAEMONS ARE UP|ODMANAGER DAEMON ALERT, PLEASE CHECK  
+2001-09-11 06:51:35 Skytel [005204269] D SH/TONE 348-6314
+2001-09-11 06:51:35 Skytel [005115951] D ST NUM  817-912-3134   
+2001-09-11 06:51:37 Skytel [005104831] D  ALPHA  CLE HUB CURRENT TEMP IS 55 DEW POINT 51 WINDS 26004 RUNWAY 06'S ARR RATE 40 WX OUTLOOK SUNNY HIGH AROUND 72. 
+2001-09-11 06:51:37 Skytel [004529980] D ST NUM  416-741-0150   
+2001-09-11 06:51:38 Skytel [005064140] D SH/TONE 942-2062
+2001-09-11 06:51:39 Metrocall [0477602] A  ALPHA  Frm: Angela.Noel@frit.frb.org Sub: Good morning!
+2001-09-11 06:51:40 Skytel [005052890] C  ALPHA  CLE HUB CURRENT TEMP IS 55 DEW POINT 51 WINDS 26004 RUNWAY 06'S ARR RATE 40 WX OUTLOOK SUNNY HIGH AROUND 72. 
+2001-09-11 06:51:41 Arch [0937878] B  ALPHA  PLX1- 9840:552: PLX2- 9840j:5242 9840b:2969  PLX3- 9840:30 3490s:357mvC:33  PLX4
+2001-09-11 06:51:42 Skytel [005436525] D  ALPHA  nMCI Test #3
+2001-09-11 06:51:42 Skytel [003929831] B SH/TONE 359-2662
+2001-09-11 06:51:42 Skytel [003599337] C  ALPHA  Oracle Buys Private Web-Based Communications Co. 3Cube[DJ NEWS] (54
+2001-09-11 06:51:42 Skytel [005102305] A  ALPHA  Sep11:06-21:morhp321:ORA-1142 signalled during: ALTER TABLESPACE PSAPSOURCED END BACKUP... 
+2001-09-11 06:51:43 Arch [0937878] B  ALPHA  -9840:697 MVC:243
+2001-09-11 06:51:44 Skytel [002396156] D SH/TONE 4359    
+2001-09-11 06:51:46 Skytel [003490056] C SH/TONE 3553    
+2001-09-11 06:51:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179336. 
+2001-09-11 06:51:47 Arch [0911134] D  ALPHA   equity71 SYBASE: check_db(EQ_CSW_PROD) EQ_CSW_PROD - eq_osi: DATA -->> ALLOCATED = 250 MB, USED = 229 MB, FREE = 21 MB, PERCENT_USED = 91% @06:51 09/11/01 
+2001-09-11 06:51:47 Arch [1164255] D  ALPHA  SWAT from (pichaiyan): Today's 7:30am EST global call is cancelled =selva
+2001-09-11 06:51:47 Arch [1255307] C  ALPHA  79-CALL MARGARET AT THE OFC. 212-392-5025.
+2001-09-11 06:51:48 Skytel [005006615] B ST NUM  900-838-2715   
+2001-09-11 06:51:48 Skytel [002847128] C  ALPHA  Oracle Buys Private Web-Based Communications Co. 3Cube[DJ NEWS] (12
+2001-09-11 06:51:48 Skytel [002394391] B  ALPHA  Oracle Buys Private Web-Based Communications Co. 3Cube[DJ NEWS]
+2001-09-11 06:51:48 Skytel [002742684] D SH/TONE 423-6692
+2001-09-11 06:51:49 Arch [1272423] B  ALPHA  (18)bb:1: [8247010] red Tue Sep 11 03:51:52 PDT 2001 ERROR: Can't connect to144.225.1.6 ----144.225.1.6 PING Statistics---- 1 packetstransmitted, 0 packets received, 100% packet loss Please
+2001-09-11 06:51:50 Arch [1272423] B  ALPHA  (19)bb:e: see:http://ssc-sac-bs1.west.sprint.com/bb/html/data.corp.sprint.com.conn.html -oo-
+2001-09-11 06:51:50 Metrocall [1105249] A  ALPHA  Sub: Birthday Reminder Frm: FTDinc Txt: This message is provided by FTD Florists Online on behalf of Midtown Florist. Please do not reply to this message. Hello John Matelski, You requested this courtesy reminder from Midtown Florist about
+2001-09-11 06:51:50 Skytel [003275687] B SH/TONE 610993  
+2001-09-11 06:51:52 Skytel [002570298] C SH/TONE 9556    
+2001-09-11 06:51:57 Skytel [004524770] A  ALPHA  wil-AMPiesch-BurlingtonVT-01: CPE Down at 01:47:27 on 9/11
+2001-09-11 06:51:59 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2119
+2001-09-11 06:51:59 Skytel [005374704] A ST NUM  205-894-8500 U 
+2001-09-11 06:51:59 Skytel [005210873] C  ALPHA  [eris]: can you check the oracle logs my system is hung processing and update stmt im at 718 605 3431 or email or page me im on conf call w/london right now from home
+2001-09-11 06:51:59 Skytel [007596901] B SH/TONE 85450   

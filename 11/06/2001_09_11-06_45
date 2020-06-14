@@ -1,0 +1,73 @@
+2001-09-11 06:45:00 Metrocall [0750923] C  ALPHA  UPDT- HUMANA (HAMPTON) EXP SPOR CONN PROBS.. NO ETA (19JC07520)-0642
+2001-09-11 06:45:00 Metrocall [0774309] B  ALPHA  UPDT- HUMANA (HAMPTON) EXP SPOR CONN PROBS.. NO ETA (19JC07520)-0642
+2001-09-11 06:45:00 Metrocall [1454899] A  ALPHA  UPDT- HUMANA (HAMPTON) EXP SPOR CONN PROBS.. NO ETA (19JC07520)-0642
+2001-09-11 06:45:00 Metrocall [0728195] A  ALPHA  UPDT- HUMANA (HAM
+2001-09-11 06:45:00 Metrocall [0728200] C  ALPHA  UPDT- HUMANA (HAMPTON) EXP SPOR CONN PROBS.. NO ETA (19JC07520)-0642
+2001-09-11 06:45:00 Metrocall [1217002] C  ALPHA  UPDT- HUMANA (HAMPTON) EXP SPOR CONN PROBS.. NO ETA (19JC07520)-0642
+2001-09-11 06:45:00 Metrocall [1064377] C  ALPHA  US 10513/10421 -001 SP109850/10140+0280 FEI95785/96085/9625 9624/9614/9594/9586 SED 96662/6710/
+2001-09-11 06:45:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2112
+2001-09-11 06:45:01 Metrocall [0728195] A  ALPHA  PTON) EXP SPOR CONN PROBS.. NO ETA (19JC07520)-0642
+2001-09-11 06:45:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2112
+2001-09-11 06:45:01 Metrocall [1064377] C  ALPHA  6620 96330/9596/9553/528 SEY9993/991/990/990 FSS9511/524/523/503 FLG 11394/11395 -29........................................................................
+2001-09-11 06:45:03 Skytel [007591057] A SH/TONE 604     
+2001-09-11 06:45:04 Arch [0980928] A  ALPHA  From Ram Maganti Sub:# 328. L-class upgrade Msg:Upgrade successful. Box Rebooting.   
+2001-09-11 06:45:04 Arch [1063095] B  ALPHA  Jim Borror<jborr|Instance Down|Hostname : 198.80.14.182:7001 Hostname : 207.25.68.153:7001 Hostname : 198.80.14.178:7001 Hostname : 207.25.68.150:7001 Hostname : 207.25.68.152:7001 Hostname : 198.80.1
+2001-09-11 06:45:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6934
+2001-09-11 06:45:04 Arch [0971878] B  ALPHA  Service:Dns_Roi  Host:kla-primary  Address:10.160.160.94  Info:CRITICAL - Plugin timed out after 10 seconds 
+2001-09-11 06:45:05 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179264. 
+2001-09-11 06:45:05 Arch [0000101] B  ALPHA  MSN 029 hello Message from NOC PCB.
+2001-09-11 06:45:06 Skytel {1708038} 1 1200 2700 
+2001-09-11 06:45:06 Skytel {1551415} 3 1200 4444 
+2001-09-11 06:45:11 Metrocall [1399461] B  ALPHA  Frm: MSN Txt: Hotmail scholarshipdeadlines@fastwebmail:Award Deadline Notification
+2001-09-11 06:45:13 Arch [1080366] D  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 06:45:13 Arch [1423082] C  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 06:45:13 Arch [1355675] C  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 06:45:20 Metrocall [1267335] B  ALPHA  UPDT- HUMANA (HAMPTON) EXP SPOR CONN PROBS.. NO ETA (19JC07520)-0642
+2001-09-11 06:45:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9857
+2001-09-11 06:45:29 Metrocall [002522506] C  ALPHA  Msg Fr Dispatch CALL ON PHONE!      CALL ON PHONE!      CALL ON RADIO!
+2001-09-11 06:45:29 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3505
+2001-09-11 06:45:30 Arch [0602772] B  ALPHA  Super-User <root|Trap Message|Time: Tue Sep 11 06:45:42 2001 Agent Address: 208.35.162.66 Specific Trap: Process Stop Trap (10) Description: in.named Regexp: named.* Current PID: 13887 
+2001-09-11 06:45:30 Arch [1000292] B  ALPHA  JOB:L8PCAPEN ERROR:STEP #00001 EXCEEDED MAX CC. BACKUP BEEP:3
+2001-09-11 06:45:31 Skytel [004568333] D  ALPHA  "Initial" Sev1 Cleveland NPS  #HO84418 5:30am  I:  NPS is down,Host 36  E:  Pem Primary  Jeff@Helpdesk 1-512-248-4845-ATC Helpdesk
+2001-09-11 06:45:31 Skytel [007588611] A SH/TONE 3316    
+2001-09-11 06:45:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 03:44:41 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 06:45:31 Skytel [005226760] C SH/TONE 5       
+2001-09-11 06:45:31 Skytel [005203851] C ST NUM  900-582-6218   
+2001-09-11 06:45:33 Skytel [002401821] D  ALPHA  146.22.45.221 ASOSTA3E WARNING...Starting  CICSODEV but it ended.   INTERVENTION REQUIRED ussa11.SSMC 
+2001-09-11 06:45:33 Skytel [005506970] C  ALPHA  'news@real-net.net|great mahjongg game - free demo!|A transcendental gaming experience! Music from the Orient soothes as the puzzles challenge you. Beautiful graphics and multiple   
+2001-09-11 06:45:33 Skytel [004686354] A  ALPHA  ITO@dlj.com|eqox - X25|Sep 11 06:00:04 eqox unix: NOTICE: LAPB Up on link 3   
+2001-09-11 06:45:33 Skytel [007575575] B  ALPHA  lostux@limbstx1.att.com|0 ODMANAGER DAEMONS ARE UP|ODMANAGER DAEMON ALERT, PLEASE CHECK  
+2001-09-11 06:45:33 Skytel [007035540] B  ALPHA  "Initial" Sev1 Cleveland NPS  #HO84418 5:30am  I:  NPS is down,Host 36  E:  Pem Primary  Jeff@Helpdesk 1-512-248-4845-ATC Helpdesk
+2001-09-11 06:45:34 Arch [0968156] D  ALPHA  From Michael Trace Sub:UKNTS700 SQL Server will not stop. They are bouncing server.  mttrace Msg:
+2001-09-11 06:45:34 Arch [1666850] A  ALPHA  3196
+2001-09-11 06:45:34 Arch [1604826] C  ALPHA  bin@ralnetm01.tw|ral-doc-d-asx1k-1-1|ral-doc-d-asx1k-1-1 Inface (9, 1B2) up, 06:40:42 
+2001-09-11 06:45:34 Arch [0632438] B  ALPHA  OPSMVS: JOB COE9055 NOT COMPLETED BY BENCHMARK TIME OF 06:45 EST.
+2001-09-11 06:45:35 Arch [0916167] B  ALPHA  Eric Hinton is still out sick........ TShorb
+2001-09-11 06:45:35 Skytel [007588513] A SH/TONE 143     
+2001-09-11 06:45:35 Skytel [002376872] C  ALPHA  nms@svcanms.conxion.com|Sep11-03:43|server:app-heva-1:uptime Error retrieving uptime.  Possibly down  
+2001-09-11 06:45:37 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: check_db(PDS1_EQROCINY) *** SERIOUS Blocking in PDS1_EQROCINY - block time=106 > 60 secs - Tue Sep 11 06:45:12 EDT 2001 @06:45 09/11/01 
+2001-09-11 06:45:37 Arch [1642388] B  ALPHA  UPD_EOD_PRODUCT_STATS.PL FAILED PROBLEMS UPDATING FROM SHORTREBATE DATA :UPD_EOD_PRODUCT_STATS.PL
+2001-09-11 06:45:37 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179271. 
+2001-09-11 06:45:38 Skytel [005045836] D ST NUM  0) 908-713-6886
+2001-09-11 06:45:40 Skytel [0001361] A  ALPHA  331555@emc.fedex.com||Joe Kingston not in today...  
+2001-09-11 06:45:41 Metrocall [1146331] C  ALPHA  Frm: 'iaff2068@yahoogroups.com Sub: [iaff2068] digest number 377 Txt: -------------------- Yahoo! Groups Sponsor -----
+2001-09-11 06:45:42 Skytel [005436525] D  ALPHA  Test #32-IX_T1802
+2001-09-11 06:45:42 Skytel [005102305] A  ALPHA  Sep11:06-21:morhp321:ORA-1142 signalled during: ALTER TABLESPACE PSAPEL31ID END BACKUP... 
+2001-09-11 06:45:42 Skytel [005057390] D  ALPHA  ev005dataaege:EventID: 0x4000001A (26) - Application popup: System Process - System Error : The system has detected an IP address conflict with another system on the network. Network operations on this system may be disrupted as a result. M
+2001-09-11 06:45:42 Skytel [005521761] A  ALPHA  no-reply@wcom.com|CSR SERVER ALERT|CSRP.world: Unable to establish connection to ILEC  (Request ID: 10234631)  
+2001-09-11 06:45:44 Skytel [004112368] A SH/TONE 7075 (49
+2001-09-11 06:45:44 Skytel [005240944] A ST NUM  988-369-6969   
+2001-09-11 06:45:44 Skytel [007541750] B SH/TONE 1403    
+2001-09-11 06:45:44 Skytel [002750709] B SH/TONE 76245   
+2001-09-11 06:45:44 Skytel [007553888] A  ALPHA  896-6731No Answer Southfield Backup 248-552
+2001-09-11 06:45:44 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-11 06:45:46 Skytel [002559104] A SH/TONE 76245   
+2001-09-11 06:45:48 Skytel [005245335] B SH/TONE 744-5287
+2001-09-11 06:45:49 Arch [0602772] B  ALPHA  Super-User <root|Trap Message|Time: Tue Sep 11 06:46:12 2001 Agent Address: 208.35.162.66 Specific Trap: Process Start Trap (11) Description: in.named Regexp: named.* Current PID: 17994 
+2001-09-11 06:45:50 Metrocall [0088058] C  ALPHA  Frm: Web User Sub: Routes below Asr low. Txt: 16 Routes are below ASR range.
+2001-09-11 06:45:52 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIEL"NUMBER  1378..
+2001-09-11 06:45:52 Metrocall [002292934] B  ALPHA  Frm: Product.Status@bankofamerica.com Sub: . Txt: CONFIDENCE TESTING. PLEASE DELETE....
+2001-09-11 06:45:52 Skytel [0001083] C ST NUM  675 U     
+2001-09-11 06:45:53 Skytel [004539584] A SH/TONE 312-1530
+2001-09-11 06:45:55 Skytel [002377811] A  ALPHA  Prty=0, Asg:GCSSD, NYGS01462562, RENAME DIRECTORY TEAMZAMAN TO TEAMBOS,STOCKERSTRASSE, Sub:NYISC, mohansa
+2001-09-11 06:45:55 Skytel [003944538] C  ALPHA  NetCmmnd@wscmdpost.pncbank.com|Alert from System Management - SYSA FDTPAGE|FDTPAGE NODE SIAC FAILED - JOBNAME#  

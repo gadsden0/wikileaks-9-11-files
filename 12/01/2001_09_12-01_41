@@ -1,0 +1,67 @@
+2001-09-12 01:41:00 Metrocall [1048545] A  ALPHA  MTP Status: 40.83 sec Sa
+2001-09-12 01:41:01 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-12 01:41:01 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192111. 
+2001-09-12 01:41:02 Skytel [007617548] D  ALPHA  MSN ||Hotmail Christina Tsafoulias:my email is jerkin me around  
+2001-09-12 01:41:02 Skytel [007559566] D ST NUM  809-334-6126   
+2001-09-12 01:41:03 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 01:41:04 Skytel {1092655} 3 2400 002632    
+2001-09-12 01:41:05 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-12 01:41:05 Arch [0931795] A  ALPHA  |OPC: mcoolap-sj-1: /dev/vx/dsk/mcoolapdg/misc, mounted at /fs/misc, is at 100  
+2001-09-12 01:41:05 Arch [0930546] A  ALPHA  Alarm: 10:40:19PM  Boiler Network connect   Site 4 Bldg 7 Hot water supply temp is out of range.
+2001-09-12 01:41:06 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-12 01:41:08 Metrocall [1559124] B  ALPHA  Frm: MSN Txt: Hotmail Admissions@U_D_Program.net:Your diploma is ready
+2001-09-12 01:41:08 Metrocall [1454854] B  ALPHA  Frm: nobody@quia.com Sub: ERROR: no reply within 60000 ms Txt: This is a sanity check of http://www.quia.com. Check script host: starmie.quiacorp.com Ch
+2001-09-12 01:41:10 Metrocall [1850023] B  ALPHA  GOTTLIEB HOSP 450-4975
+2001-09-12 01:41:10 Metrocall [1454854] B  ALPHA  eck script user: quia Indicator file: /home/quia/instances/qcheck/qcheck_error_indicator
+2001-09-12 01:41:10 Metrocall [1031464] C  ALPHA  Frm: sitescope@gsa.gov Sub: SiteScope Alert, good, SMTP on scog-ws1.gsa.gov, 40.83 sec ( Txt: This alert is from SiteSc
+2001-09-12 01:41:12 Metrocall [1454854] B  ALPHA  Frm: nobody@quia.com Sub: OK: 5605793792 bytes of database free space remain Txt: This is a sanity check of http://www.quia.com. Check script host: starmie.quiacorp.com Check script user: quia Indicator file: /home/quia/instances/qcheck/qch
+2001-09-12 01:41:12 Metrocall [1031464] C  ALPHA  ope at http://198.78.78.150:8888/SiteScope Monitor: SMTP:SMTP on scog-ws1.gsa.gov Group: SMTP Status: 40.83 sec Sa
+2001-09-12 01:41:14 Arch [0475192] C  ALPHA  34-CALL OFC 966-3141. -MOORTHY
+2001-09-12 01:41:14 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-12 01:41:14 Arch [1052209] A  ALPHA  kbenson|Bronco running slow, Rod, what is the North American Theater code for Bronco reports, NAM?? PAge or email or call Karl 1800 883 0315 ext 3051   
+2001-09-12 01:41:19 Metrocall [1707375] D  ALPHA  Frm: 'aolnews@aol.com Sub: vietcombank to issue u.s. dollar bonds later Txt: Vietcombank to issue U.S. dollar bon
+2001-09-12 01:41:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0993
+2001-09-12 01:41:22 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21
+2001-09-12 01:41:23 Arch [0987275] C  ALPHA  s0191: 09/11 14:43:41 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:43:41
+2001-09-12 01:41:25 Arch [0987275] C  ALPHA  sunetrdwmrma: IIS WebServer is down.:CRITICAL:Sep 11, 2001 14:49
+2001-09-12 01:41:27 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-12 01:41:27 Arch [0925366] B  ALPHA   318643;Sep 11 21:42:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-12 01:41:27 Arch [0545241] C  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 04700381 from cluster 1095 to cluster 2017), status C3AE181B, extended status C3AE380C. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-12 01:41:27 Arch [1666850] A  ALPHA  3196
+2001-09-12 01:41:29 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34
+2001-09-12 01:41:31 Arch [0000101] B  ALPHA  MSN 064 hello Message from NOC PCB.
+2001-09-12 01:41:32 Skytel [003250311] B  ALPHA  SMT:VA:L3:GCPADMIN: 16777633: ERROR PROCESSING FILE /U/GCPP/GCPFILES/OKACHNC001.DAT /U/GCPP/GCPFILES:Call 8882917023:SENDID# 1959 : 
+2001-09-12 01:41:32 Skytel [005043726] D  ALPHA  septii@lithium.sps.mot.com|Equipment DRYER15 : IDLE --> SCHMNT|DRYER15 : IDLE --
+2001-09-12 01:41:33 Skytel [003253269] B  ALPHA  CAN YOU CALL ME AND GIVE ME A UPDATE. JULIE 925 754 2224
+2001-09-12 01:41:35 Skytel [005001895] B  ALPHA  [sps/171] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/ifm/healthcheck.asp) 3:20:44
+2001-09-12 01:41:37 Skytel [003664693] B  ALPHA  see if anything is amiss?      Thanks,  Chris Kafader          -----Original Mes
+2001-09-12 01:41:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:41:39 Skytel [005403597] D  ALPHA  T5943 [CCDDB1] Offline (22 chan): Ann Arbor/TDC:3, Ann Arbor/CNBC:5, Ann Arbor/AE:4, Ann Arbor/FAM:3, Ann Arbor/HGTV:4, Ann Arbor/HDLN:2, Ann Arbor/ESPN:3, Ann Arbor/USA:2, Ann Arbor/FSD:3, Ann Arbor/CNN:4, Ann Arbor/MSNBC:4, Ann Arbor/ESPN
+2001-09-12 01:41:39 Skytel [007584332] D ST NUM  569-501-6303   
+2001-09-12 01:41:40 Metrocall [002116004] B  ALPHA  I have tried to reach you but the line has been busy. Call me at home. Mark ..(7) 831-1900
+2001-09-12 01:41:40 Metrocall [1064384] A  ALPHA  Y/C  72.53/63   +81 SGD 1.7355/370 -005 HKD 7.7980/000 -014 TWD 34360/4460 -260  IDR  9060/9110 -025 PHP 51.140/240 -060 MYR 3.7995/005 +000 THB 4
+2001-09-12 01:41:40 Metrocall [0813431] B  ALPHA  CALL ME REF STAFFING REQUEST FOR TOMORROW. COOPER.COMM
+2001-09-12 01:41:41 Skytel [002377811] A  ALPHA  gwsho@exchange.ml.com|IWSEUR7 : Device Accessible|'Device Accessible' alarm received from IWSEUR7 at 1:20AM on 9/12/01  A 'Device Accessible' alarm indicates a device that was previously inaccessible is now accessible. Compaq Insight Manage
+2001-09-12 01:41:41 Skytel [003256927] D ST NUM  726-222-2682   
+2001-09-12 01:41:42 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-12 01:41:42 Arch [0267129] C  ALPHA  778-3423
+2001-09-12 01:41:42 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192118. 
+2001-09-12 01:41:42 Metrocall [1064384] A  ALPHA  4.250/350 -050 KRW12860/12960 +060 ZAR 8.5775/875 -225 MXN  9.510/530 +116 BRR 26600/6620 +065
+2001-09-12 01:41:42 Metrocall [1064375] B  ALPHA  NIKK _9623.26   -669 30 _99.02/03  5.438% GOLD 281.50/250 -450 S 4.20/30  PL 452.00 KS11   478.72 -61.85 HSI  _9425.97 -991.3 SSI   1437.87  -12.8
+2001-09-12 01:41:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #72-IX_T4508
+2001-09-12 01:41:43 Skytel [007649260] D ST NUM  313-399-4403   
+2001-09-12 01:41:44 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-12 01:41:44 Metrocall [1064375] B  ALPHA   ORD   3056.80  -12.4 TWII  4176.93 -112.1 PD 455.00  JG 1.425%
+2001-09-12 01:41:45 Skytel [007527412] B  ALPHA  "Fileprint c$".The device \\fileprint\c$ (Type: Disk Space) is DOWN since Wed Sep 12 01:43:12 2001. 
+2001-09-12 01:41:45 Skytel [005343224] C ST NUM  011-1111-11    
+2001-09-12 01:41:47 Skytel [007562255] D ST NUM  614-531-9969   
+2001-09-12 01:41:51 Arch [0987275] C  ALPHA  s0191: 09/11 15:14:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:14:21
+2001-09-12 01:41:51 Arch [0902374] B  ALPHA  GP ATL C-0000000036216 :  Device unreachable: internet2-gw-e0/1, IACAFTERHOURS
+2001-09-12 01:41:52 Skytel [002865852] D  ALPHA  parober@hoaxp1.genresec.com|Search Error found critical errors in EOD.| 
+2001-09-12 01:41:52 Skytel [005240754] A  ALPHA  parober@hoaxp1.genresec.com|Search Error found critical errors in EOD.| 
+2001-09-12 01:41:56 Skytel [007494482] A ST NUM  501-724-6143   
+2001-09-12 01:41:56 Skytel [005325918] D  ALPHA  09/12/01 01:37 RED TPFA PATH AMRO AMRO CLOSED
+2001-09-12 01:41:58 Skytel [005256929] A  ALPHA  09/12/01 01:37 RED TPFA PATH AMRO AMRO CLOSED
+2001-09-12 01:41:58 Skytel [004129899] C  ALPHA  AMD 11.85 UNCH DELL 22.57 UNCH INTC 26.07 UNCH MOT 15.04 UNCH (27
+2001-09-12 01:41:58 Skytel [005077224] C SH/TONE 782-7468
+2001-09-12 01:41:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8071

@@ -1,0 +1,65 @@
+2001-09-11 04:58:00 Metrocall [1903323] C  ALPHA  [IS    02:57:48 Alarm IS:RRPR99CIM Down]
+2001-09-11 04:58:00 Metrocall [1903323] C  ALPHA  [IS    02:57:48 NormalIS:RRPR99CIM NORMAL]
+2001-09-11 04:58:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2005
+2001-09-11 04:58:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2005
+2001-09-11 04:58:02 Metrocall [1421210] C  ALPHA  LAKEJob 383688/SCLAUSSON/I$LLOF has MSGW status.
+2001-09-11 04:58:02 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-11 04:58:02 Metrocall [1064379] C  ALPHA   LONDON PLATINUM/PALLADIUM 0945 FIX - SEP 11
+2001-09-11 04:58:03 Metrocall [1421210] C  ALPHA  LAKEJob 378304/VSIOWNER/OMSJRNMGR has MSGW status.
+2001-09-11 04:58:03 Metrocall [1421210] C  ALPHA  LAKEJob 385471/BGILMOUR/PRINTFORM has MSGW status.
+2001-09-11 04:58:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6827
+2001-09-11 04:58:05 Skytel {1102375} 1 2400 57266  14 
+2001-09-11 04:58:06 Skytel {0912347} 3 1200 88878639355    
+2001-09-11 04:58:06 Skytel {0132085} 1 1200 1C01C0001C00000000006190100003C0700000000051C6124534F020000000001C00000000006190100003C0700000000051C6124534F02000000
+2001-09-11 04:58:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178091. 
+2001-09-11 04:58:10 Arch [1612111] D  ALPHA  monitor@ccbill.c|HTTPD Frontend front2r.escrub.co|ERROR: could not connect to front2r.escrub.com on port 80 (httpd). Timestamp: 20010911015301 
+2001-09-11 04:58:19 Arch [1025709] D  ALPHA  (29)Marty please call me at 7085446860. I need you to pudh some toll numbers for me stephanie 
+2001-09-11 04:58:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9750
+2001-09-11 04:58:27 Arch [1619813] B  ALPHA  2760
+2001-09-11 04:58:30 Metrocall [1543845] B  ALPHA  flight arcadia wi to st fransiscan scemp lacrosse,wi medical perf bowel
+2001-09-11 04:58:30 Metrocall [1899090] A  ALPHA  IMMC//E.R. 773 296 5878  PT GISELLE ROSARIO  3:48-9-11/09
+2001-09-11 04:58:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3398
+2001-09-11 04:58:31 Skytel [004677894] B  ALPHA  yellowst@soco.agilent.com||damai22 (ET51607) taken offline; failure rate too high. SOURCES_YSII  
+2001-09-11 04:58:31 Skytel [007579147] C SH/TONE 1034    
+2001-09-11 04:58:35 Skytel [007006252] D SH/TONE 134     
+2001-09-11 04:58:35 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb2 login content match error on step 2, http://192.168.67.182:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informat
+2001-09-11 04:58:36 Arch [0000101] B  ALPHA  MSN 105 hello Message from NOC PCB.
+2001-09-11 04:58:36 Skytel [005509311] D  ALPHA  Ticket # 412830, 1-Emergency, assignment.  Customer: VICTOR, SHIRLEY A MS:8168 Tel:3036734056.
+2001-09-11 04:58:38 Skytel [004755649] A ST NUM  469-143-5911-4205920
+2001-09-11 04:58:38 Skytel [003481167] D ST NUM  614-431-4302   
+2001-09-11 04:58:39 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE > 1 HL Faults       Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[009]  dev_err[239]
+2001-09-11 04:58:40 Skytel [003448531] A SH/TONE 1127    
+2001-09-11 04:58:40 Skytel [004547038] D SH/TONE 800-7473
+2001-09-11 04:58:40 Skytel [005212376] C ST NUM  778-355-8342 U 
+2001-09-11 04:58:40 Skytel [003253335] B ST NUM  778-355-8342 U (96  
+2001-09-11 04:58:41 Metrocall [1064382] D  ALPHA  DKK   74406/12 -005 NOK  7.9570/20 ................................................................................,. ..@.........................................................................................................740/861 +216
+2001-09-11 04:58:42 Skytel [005436525] D  ALPHA  Test Message #20-IX_T1704
+2001-09-11 04:58:42 Skytel [004524770] A  ALPHA  wor-ForwardFinancial-Northboroug: CPE Up at 00:58:25 on 9/11
+2001-09-11 04:58:42 Skytel [005112809] C  ALPHA  03:56CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240432: Uncorrectable write error
+2001-09-11 04:58:44 Skytel [005100153] C  ALPHA  yellowst@soco.agilent.com||damai22 (ET51607) taken offline; failure rate too high. SOURCES_YSII  
+2001-09-11 04:58:44 Skytel [005081714] A SH/TONE 308     
+2001-09-11 04:58:44 Skytel [002357369] C  ALPHA  002218 CYCLIC TEST 
+2001-09-11 04:58:44 Skytel [007109749] B ST NUM  400-1733-0
+2001-09-11 04:58:44 Skytel [002382588] D SH/TONE 99      
+2001-09-11 04:58:44 Skytel [003327216] A  ALPHA  002218 CYCLIC TEST 
+2001-09-11 04:58:44 Skytel [002139900] D SH/TONE 002218  
+2001-09-11 04:58:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 01:56:50 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 04:58:46 Skytel [003783556] B ST NUM  778-355-8342 U 
+2001-09-11 04:58:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178098. 
+2001-09-11 04:58:48 Metrocall [1261323] C  ALPHA  Frm: wingmon@firstusa.com Txt: SiteScope neapp101 /var/weblog neapp101 2565 no data
+2001-09-11 04:58:48 Metrocall [1261323] C  ALPHA  Frm: wingmon@firstusa.com Txt: SiteScope neapp101 /var/weblog neapp101 2567 no data
+2001-09-11 04:58:48 Skytel [003329304] C ST NUM  778-355-8342 U (36  
+2001-09-11 04:58:48 Skytel [004437785] C SH/TONE 1003    
+2001-09-11 04:58:50 Metrocall [1261323] C  ALPHA  Frm: wingmon@firstusa.com Txt: SiteScope neapp101 /var/weblog neapp101 2566 no data
+2001-09-11 04:58:50 Metrocall [1064375] B  ALPHA  /FTSE  5106.00  +072 NIKK  10292.95  +097 DAX    4774.95  +104 CAC40  4465.75  +082 MIB30  31930   +0366 HSI  10417.36  +0051 30 _99.02/03  5.438% GOLD271.30/
+2001-09-11 04:58:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1271..
+2001-09-11 04:58:52 Metrocall [1064375] B  ALPHA  180  -020 S 4.17/19  PL 440.00 PD 450.00/0.00  +000 JG 1.420%
+2001-09-11 04:58:52 Metrocall [1064374] B  ALPHA  YEN  121.74/79 +081 EUR  0.8973/75 -008 CHF  1.6881/91 +002 GBP  1.4534/44 -029 CAD  1.5614/20 -012 AUD  0.5139/44 +006  NZD  0.4256/66 -051 DEM  2.1792/97 +022  E/C  1.5153/55 -0
+2001-09-11 04:58:53 Skytel [005330890] C SH/TONE 3303    
+2001-09-11 04:58:54 Metrocall [1064374] B  ALPHA  02 E/Y  109.23/28 +058 E/S  0.6172/75 +014 USD     114.94 +016
+2001-09-11 04:58:55 Skytel [005062362] C  ALPHA  F:ap             S:Alarm              N CL 0156 b230-     core_20             
+2001-09-11 04:58:55 Skytel [003253340] D ST NUM  778-355-8342 U 
+2001-09-11 04:58:57 Skytel [004515811] A ST NUM  778-355-8342 U 
+2001-09-11 04:58:59 Skytel [004547191] B ST NUM  778-355-8342 U 
+2001-09-11 04:58:59 Skytel [005080816] A  ALPHA  678-355-8342 U
+2001-09-11 04:58:59 Skytel [005190650] C  ALPHA  alert@msn.com||Hotmail krzyboy211@okkc.debtreliefs.com:Approval 24 hours...  

@@ -1,0 +1,50 @@
+2001-09-11 04:19:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1966
+2001-09-11 04:19:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1966
+2001-09-11 04:19:03 Skytel [002401821] D  ALPHA  ssmcscsm13 N/A CBB0OMDB00:Agent:caiW2kOs:w2kLVolInst:Critical Logical Disk/File System E:.  
+2001-09-11 04:19:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6788
+2001-09-11 04:19:04 Arch [0000101] B  ALPHA  MSN 086 hello Message from NOC PCB.
+2001-09-11 04:19:04 Arch [1439547] C  ALPHA  STC GNOC Alerts |SiteScope https://www.wheretoinvest.com - Broker Production Web Sites (emt-4b) 67674 timed out reading 
+2001-09-11 04:19:05 Skytel [004417186] A ST NUM  370-0311-2
+2001-09-11 04:19:05 Skytel [005391524] B ST NUM  988-972-6622   
+2001-09-11 04:19:05 Skytel [002405037] D  ALPHA  nms@svcanms.conxion.com|Sep11-01:19|There are 7 active alarms  
+2001-09-11 04:19:08 Arch [1656209] A  ALPHA  Dreyfus-Institut|AshWin Mail Notification: Inform|'NTSDINT10008A' ran 'Run ONYX Reports "E:\Iss-E\Program Files\ReportGenerator\ReportGenerator.exe"' in '8A-Iss-Prod-Daily' on 'NTSDINT10008A' Status 'Done'. started 'Tue Sep 11 at 03:33:45' e
+2001-09-11 04:19:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177677. 
+2001-09-11 04:19:09 Metrocall [1544818] A  ALPHA  REG-NS2:Device Inaccessible
+2001-09-11 04:19:10 Arch [0279157] B  ALPHA  |owner=fmargher host=magni Backup Consistency report |The following filesystems are in /netapp/magni/etc/backup_list but not mounted /axis |139  
+2001-09-11 04:19:10 Arch [1051867] C  ALPHA  Heidi Bjorge|EIS duty: pls call Ops 408-527-0007 re: isafe_box_us_corp_extract s max run alarm, job is still running. Heidi/Ops ||129  
+2001-09-11 04:19:14 Arch [1060630] B  ALPHA  CPA0701 S10A7478 CPF7306 received by CL3025C at 6100. (C D I R)
+2001-09-11 04:19:14 Arch [1412026] C  ALPHA  CPA0701 S10A7478 CPF7306 received by CL3025C at 6100. (C D I R)
+2001-09-11 04:19:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9711
+2001-09-11 04:19:30 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE Tray Metrics Down   Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[002]  dev_err[239]
+2001-09-11 04:19:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3359
+2001-09-11 04:19:31 Skytel [004694661] B SH/TONE 1       
+2001-09-11 04:19:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 01:19:40 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 04:19:33 Skytel [003944208] A SH/TONE 5656    
+2001-09-11 04:19:36 Skytel [005002044] D  ALPHA  Server Chicago_Notes_1/SYBASE is Responding or has been restarted.
+2001-09-11 04:19:38 Skytel [007438026] C SH/TONE 3333 (97
+2001-09-11 04:19:40 Arch [1612111] D  ALPHA  monitor@ccbill.c|VSCRUB Packet Loss|nulls=22 1017374405:1017374409:1017374410:1017374411:1017374412:1017374416:1017374417:1017374418:1017374422:1017374423:1017374424:1017374425:1017374433:1017374454:1017374455:1017374482:1017374484:10173744
+2001-09-11 04:19:40 Skytel [005522904] C  ALPHA  alert@msn.com||Hotmail MSNBC Sports:msnbc: Jordan all but confirms return to NBA  
+2001-09-11 04:19:40 Skytel [005257043] A ST NUM  816-373-5000   
+2001-09-11 04:19:42 Skytel [005395168] A SH/TONE 634-9819
+2001-09-11 04:19:42 Skytel [007600874] C SH/TONE 6128    
+2001-09-11 04:19:42 Skytel [005187817] C SH/TONE 1 (59   
+2001-09-11 04:19:44 Skytel [002396156] D SH/TONE 4359    
+2001-09-11 04:19:44 Skytel [002357369] C  ALPHA  002205 CYCLIC TEST 
+2001-09-11 04:19:44 Skytel [1293694] D  ALPHA  INGENIERO LA INTERCALACION FUE DE 01:36 am  A  03:12 am  RICARDO
+2001-09-11 04:19:44 Skytel [003072125] D  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS]
+2001-09-11 04:19:44 Skytel [003924989] D  ALPHA  HCPJob@spcorp.com|CMPS0133 (Load EDSS_EXTRACT Table)|:0 Process Completed Successfully @03:23:32  ***************************************************************  This message and any attachments is solely for the intended recipient. If you
+2001-09-11 04:19:44 Skytel [002139900] D SH/TONE 002205  
+2001-09-11 04:19:44 Skytel [003327216] A  ALPHA  002205 CYCLIC TEST 
+2001-09-11 04:19:48 Metrocall [1514011] C  ALPHA  s3,00501407,ack,CSD3,CSD3 TIVOLIPROC Tivoli ENDPOINT csd3 Heartbeat is late. Possible failover or OS seizure Proble
+2001-09-11 04:19:50 Metrocall [1064375] B  ALPHA  /FTSE  5107.60  +073 NIKK  10292.95  +097 DAX    4773.92  +103 CAC40  4462.62  +078 MIB30  31945   +0381 HSI  10417.36  +0051 30 _99.02/03  5.438% GOLD271.35/185  -015 S 4.17/19  PL 439.00 PD 450.00/0.00  +000 JG 1.420%
+2001-09-11 04:19:50 Metrocall [1064385] A  ALPHA  JY  8214/8284  -061 
+2001-09-11 04:19:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1232..
+2001-09-11 04:19:52 Metrocall [1064385] A  ALPHA  EC  8991/8971 -0007 BP 14560/14508 -018 SF  5933/5937  +000 CD  6400/6392  +002 AD  5150/5133  +017 DM  4602/4591  -026 FES 9695/733/740/32 FDX 4778/4830  +091 PTB 8965/8880  -013 FGBS10356 FYB 13897 BDL 10804/10800-021 BDM 10714-014
+2001-09-11 04:19:53 Skytel [005112512] A ST NUM  978-8627 U (1  
+2001-09-11 04:19:57 Skytel [005436525] D  ALPHA  Test Message #71-IX_T0515
+2001-09-11 04:19:57 Skytel [005112809] C  ALPHA  03:16CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240400: Uncorrectable write error
+2001-09-11 04:19:57 Skytel [004524770] A  ALPHA  wil-PikeIndustries-BarreVT-01: CPE Up at 00:58:01 on 9/11
+2001-09-11 04:19:57 Skytel [002673372] D  ALPHA  alert@msn.com||Hotmail urdebt_help113@customernotes.com:Get out of DEBT... Consolidate!!  
+2001-09-11 04:19:57 Skytel [004682599] B  ALPHA  tlbarnett@fedex.com|Mike, pick up SAA22209FX at heavyweight. Ready now.  
+2001-09-11 04:19:59 Skytel [005328380] D SH/TONE 800-7902
+2001-09-11 04:19:59 Skytel [007109749] B ST NUM  774-0015-64    

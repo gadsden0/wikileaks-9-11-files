@@ -1,0 +1,48 @@
+2001-09-11 05:56:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2063
+2001-09-11 05:56:00 Metrocall [1875209] C  ALPHA  TIME TO TAKE YOUR MEDICATION
+2001-09-11 05:56:00 Metrocall [002119489] A  ALPHA  NJ Conversant-Info:    Tue Sep 11 05:58:41 2001 pingTest    APPL028  -- -- --- pingTest: The server njbl40sun6 can n
+2001-09-11 05:56:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2063
+2001-09-11 05:56:01 Metrocall [002119489] A  ALPHA  ot be reached.
+2001-09-11 05:56:01 Skytel [004539650] A SH/TONE 46996   
+2001-09-11 05:56:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6885
+2001-09-11 05:56:04 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178719. 
+2001-09-11 05:56:09 Metrocall [1303851] C  ALPHA  VNTOPER/IB00010L:IBS cycle finished.
+2001-09-11 05:56:09 Metrocall [0827481] C  ALPHA  VNTOPER/IB00010L:IBS cycle finished.
+2001-09-11 05:56:09 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 148W MAJ=NONE
+2001-09-11 05:56:20 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs03 Sev:4 # 120012 Reconnect WBS 3.1.14.1 09/11/01 02:56:02 PDT7 Instance: tm-nbc/kare Module: Transport Details: PID=11916 TID=51 Successfully reconnected.
+2001-09-11 05:56:20 Metrocall [1423721] C  ALPHA  Frm: netiq@tisi.com Sub: T
+2001-09-11 05:56:20 Metrocall [002118707] A  ALPHA  Frm: netiq@tisi.com Sub: TISIEXCHG01 : Overall CPU Overloaded Txt: Overall CPU Overloaded
+2001-09-11 05:56:20 Metrocall [1560616] C  ALPHA  Frm: netiq@tisi.com Sub: TISIEXCHG01 : Overall CPU Overloaded Txt: Overall CPU Overloaded
+2001-09-11 05:56:22 Metrocall [1423721] C  ALPHA  ISIEXCHG01 : Overall CPU Overloaded Txt: Overall CPU Overloaded
+2001-09-11 05:56:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9808
+2001-09-11 05:56:30 Arch [0925366] B  ALPHA   318643;Sep 11 01:57:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 05:56:31 Metrocall [1064374] B  ALPHA  YEN  121.91/92 +098 EUR  0.8965/69 -016 CHF  1.6894/00 +015 GBP  1.4560/64 -003 CAD  1.5622/27 -004 AUD  0.5129/39 -004  NZD  0.4261/66 -046 DEM  2.1809/14 +039  E/C  1.5142/52 -013 E/Y  109.27/32 +062 E/S  0.6156/59 -002 USD     115.00 +022
+2001-09-11 05:56:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3456
+2001-09-11 05:56:31 Metrocall [1104994] A  ALPHA  Frm: jmizzi@bidcom.com Sub: Excess Oracle processes in Production - 408 Txt: Total no. of processes : 408
+2001-09-11 05:56:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 02:56:16 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:56:31 Skytel [005225860] B SH/TONE 125     
+2001-09-11 05:56:31 Skytel [002385805] D SH/TONE 5686    
+2001-09-11 05:56:31 Skytel [003947407] D  ALPHA  ECCFTP01:Device Inaccessible
+2001-09-11 05:56:33 Metrocall [1064391] B  ALPHA  LME FUTURES       MCU_1440/1443 -004 MAL 1369/1371 -007 MAA 1141/1150 -014 MNI 5070/5100 -060 MSN 3750/3770 -025 MPB 4780/4810 -020 MZN _829/_832 -006
+2001-09-11 05:56:33 Skytel [007035414] B SH/TONE 9444    
+2001-09-11 05:56:33 Skytel [005067805] D SH/TONE 766-2222
+2001-09-11 05:56:35 Skytel [007049120] A  ALPHA  Joe I need you to cover ukia today plz let me know is this is possible asap.  Thx CJ-smfrt dispatch
+2001-09-11 05:56:35 Skytel [007494826] C ST NUM  08776036744    
+2001-09-11 05:56:36 Skytel [0001461] B  ALPHA  GLOBEX   04:55     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109750   175+   SPU  109750   180+   NDU  137600   550+   6JZ    8276    67-   6EZ    8944B   36-   6SZ    5921B   19-   6BZ   14506A   22-   6CZ    6392A    2+   
+2001-09-11 05:56:38 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178726. 
+2001-09-11 05:56:38 Skytel [004213067] C  ALPHA  676-4444 (78
+2001-09-11 05:56:38 Skytel [004437956] B SH/TONE 4358    
+2001-09-11 05:56:38 Skytel [007512390] B  ALPHA  Have a great trip! I will miss you SO much! I LOVE YOU tons & tons! I'll skytel you later! XXXX
+2001-09-11 05:56:40 Skytel [1800019] A  ALPHA  GLOBEX   04:55     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109750   175+   SPU  109750   180+   NDU  137600   550+   6JZ    8276    67-   6EZ    8944B   36-   6SZ    5921B   19-   6BZ   14506A   22-   6CZ    6392A    2+   
+2001-09-11 05:56:42 Skytel [005436525] D  ALPHA  Test Message #84-IX_T0602
+2001-09-11 05:56:42 Skytel [004524770] A  ALPHA  spf-CTCSpringfield-WSpringfieldM: CPE Up at 00:59:29 on 9/11
+2001-09-11 05:56:42 Skytel [005197679] D  ALPHA  ns.mr.net is Down 4:55 AM, 9/11/01 (17
+2001-09-11 05:56:44 Skytel [005059705] C SH/TONE 1229    
+2001-09-11 05:56:44 Skytel [004548850] A SH/TONE 84691   
+2001-09-11 05:56:50 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE Tray Metrics Down   Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[000]  dev_err[239]
+2001-09-11 05:56:50 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage on ABC/WLS ended after 671 seconds 09/11/01 02:54:47 PDT7 623010
+2001-09-11 05:56:50 Metrocall [0477913] C  ALPHA  Frm: Wink User Sub: Class 1 outage on NBC/WMAQ ended after 673 seconds 09/11/01 02:54:47 PDT7 623009
+2001-09-11 05:56:51 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1329..
+2001-09-11 05:56:52 Skytel [003267381] B  ALPHA  (2 of 2) min est. ( 06:15 ).autocompare will run about 30 min ( 06:45 + or -)EDM- ON -LINES  ( AVAVAILABLE)    Thank You   Gary 693-2104
+2001-09-11 05:56:55 Skytel [002371283] A ST NUM  504-338-3999   
+2001-09-11 05:56:59 Skytel [003954036] B  ALPHA  ECCFTP01:Device Accessible,Device Status:Ok

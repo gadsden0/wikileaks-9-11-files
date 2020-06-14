@@ -1,0 +1,53 @@
+2001-09-11 04:52:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1999
+2001-09-11 04:52:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1999
+2001-09-11 04:52:04 Arch [0925748] B  ALPHA  s are  -2/3
+2001-09-11 04:52:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6821
+2001-09-11 04:52:04 Arch [1034476] D  ALPHA  rbmiddl 73073   - Please call 277-3073, We are having issues with WD04.T.M06008Q1 at warehouse 6004. It is showing binding and it will not start running.  Sent at 03:51      
+2001-09-11 04:52:04 Skytel {0619497} 1 2400 31740
+2001-09-11 04:52:06 Arch [0925748] B  ALPHA  near 35 mph, 55 km/hr, with occasional gusts to tropical storm force in squalls. Some strengthening is possible during the next 24 hours. Estimated minimum central pressure is |640   -3/3
+2001-09-11 04:52:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178021. 
+2001-09-11 04:52:20 Metrocall [002589261] D  ALPHA  F:rtb@kemper.en M:Task returned error (57x). factPullEric1: W 1426 20010911-01:46:32 Task seat2ax_pull terminated with error status = 139 .
+2001-09-11 04:52:20 Metrocall [1064375] B  ALPHA  /FTSE  5120.90  +087 NIKK  10292.95  +097 DAX    4770.69  +100 CAC40  4457.69  +073
+2001-09-11 04:52:21 Skytel {0132085} 1 1200 0001C00000000006190100003E260020224400000000.
+2001-09-11 04:52:21 Skytel {0714127} 3 1200 800-441-1615   
+2001-09-11 04:52:22 Metrocall [1064375] B  ALPHA   MIB30  31866   +0302 HSI  10417.36  +0051 30 _99.02/03  5.438% GOLD271.25/175  -025 S 4.17/19  PL 439.00 PD 450.00/0.00  +000 JG 1.420%
+2001-09-11 04:52:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9744
+2001-09-11 04:52:27 Arch [0000101] B  ALPHA  MSN 102 hello Message from NOC PCB.
+2001-09-11 04:52:30 Metrocall [1543845] B  ALPHA  WEATHERCHECK;HOSPITAL FLIGHT ARCADIA HOSP ARCADIA, WI TO FRANSCISCAN SKEMP =>
+2001-09-11 04:52:30 Metrocall [1543845] B  ALPHA  HOSP LACROSSE, WI
+2001-09-11 04:52:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3392
+2001-09-11 04:52:31 Metrocall [1064385] A  ALPHA  JY  8220/8288  -054 EC  8975/8955 -0024 BP 14542/14488 -034 SF  5924/5929  -011 CD  6400/6392  +002 AD  5141/5124  +002 DM  4602/4591  -026 FES 9697/733/740/32 FDX 4779/4825  +092 PTB 8962/8880  -016 FGBS10357 FYB 13897 BDL 10805/10800-020 BDM 10716-0
+2001-09-11 04:52:31 Skytel [003954562] A  ALPHA  vigil@us.ibm.com|Ciritical Situation - Initial - Americas - Recieving 404 errors when accessing replenishment service center application.|Customers are receiving 404 errors from navigation buttons after initial logon and tool selection.  Th
+2001-09-11 04:52:33 Metrocall [1064385] A  ALPHA  12
+2001-09-11 04:52:33 Skytel [007563679] D ST NUM  223-295-4041   
+2001-09-11 04:52:35 Skytel [002376872] C  ALPHA  svcaem1@conxion.net|onl-sf-2.symantec.com, HTTP, 206.204.52.77:80, Server timed out, | 
+2001-09-11 04:52:35 Skytel [004024864] A  ALPHA  wingmon@firstusa.com||SiteScope neapp101 /var/weblog neapp101 2564 no data    ********************************************************************** This transmission may contain information that is privileged, confidential and/or exempt fr
+2001-09-11 04:52:36 Skytel [0001461] B  ALPHA  GLOBEX   03:51     GEH  9662.5    .5-   GEM    ----   ----   ESU  109950   375+   SPU  109980   410+   NDU  138000B  950+   6JZ    8288A   55-   6EZ    8956    24-   6SZ    5930A   10-   6BZ   14488    40-   6CZ    6395B    5+   
+2001-09-11 04:52:38 Skytel [007438026] C SH/TONE 3333 (99
+2001-09-11 04:52:39 Metrocall [1261323] C  ALPHA  Frm: wingmon@firstusa.com Txt: SiteScope neapp101 /var/weblog neapp101 2564 no data
+2001-09-11 04:52:40 Skytel [1800019] A  ALPHA  GLOBEX   03:51     GEH  9662.5    .5-   GEM    ----   ----   ESU  109950   375+   SPU  109980   410+   NDU  138000B  950+   6JZ    8288A   55-   6EZ    8956    24-   6SZ    5930A   10-   6BZ   14488    40-   6CZ    6395B    5+   
+2001-09-11 04:52:42 Skytel [005436525] D  ALPHA  Test Message #13-IX_T0704
+2001-09-11 04:52:42 Skytel [007649124] B SH/TONE 808     
+2001-09-11 04:52:42 Skytel [004524770] A  ALPHA  spr-MediaNews-PittsfieldMA-01: CPE Up at 00:58:31 on 9/11
+2001-09-11 04:52:44 Skytel [004435187] A SH/TONE 5845    
+2001-09-11 04:52:44 Skytel [002396156] D SH/TONE 4359    
+2001-09-11 04:52:44 Skytel [007109749] B ST NUM  500-121-7117   
+2001-09-11 04:52:44 Skytel [005328380] D SH/TONE 800-7902
+2001-09-11 04:52:44 Skytel [003327216] A  ALPHA  002216 CYCLIC TEST 
+2001-09-11 04:52:44 Skytel [002357369] C  ALPHA  002216 CYCLIC TEST 
+2001-09-11 04:52:44 Skytel [002139900] D SH/TONE 002216  
+2001-09-11 04:52:46 Skytel [003928591] D SH/TONE 1       
+2001-09-11 04:52:47 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178028. 
+2001-09-11 04:52:48 Metrocall [1423055] D  ALPHA  Frm: george@moddesign77.com Sub: FREE MORTGAGE RATE QUOTE ctbht Txt: Don't waste money EVERY SINGLE MONTH!! Home Mortgage Rates have DROPPED! And it could be the last time, for a LONG time! Simply fill out our FREE NO OBLIGATION form and fi
+2001-09-11 04:52:49 Arch [0033669] B  ALPHA  "WRAL.com"|Tropical Depression Seven Advisory Number 10 |Tropical depression seven becoming better organized, At 5 am ast, 0900z, the center of tropical depression seven was located near latitude 17.9 north, longitude 48.2 west or  -1/3
+2001-09-11 04:52:50 Metrocall [1260788] B  ALPHA  04:54 JAX  SYSB PORT8           MAJ>NO  Network port recovered - Network port recovered
+2001-09-11 04:52:50 Metrocall [1260788] B  ALPHA  04:54 JAX  SYSB PORT29          MAJ>NO  Network port recovered - Network port recovered
+2001-09-11 04:52:50 Skytel [003934628] B  ALPHA  DG HWT BUILD UP PLS CALL DFW @ 369-2936, ASAP!!!
+2001-09-11 04:52:51 Arch [0033669] B  ALPHA  about 890 miles, 1435 km, east of the leeward islands. The depression is moving toward the west-northwest near 12 mph 19 km/hr, and this general motion is expected to continue for the next 12 to 24 hours. Maximum sustained wind
+2001-09-11 04:52:51 Skytel [002848952] C  ALPHA  10129:Network Node LYRT160C201C (3.164.163.63) is Down @ 04:51 09/11/01
+2001-09-11 04:52:51 Skytel [0000060] D  ALPHA  DG HWT BUILD UP PLS CALL DFW @ 369-2936, ASAP!!!
+2001-09-11 04:52:52 Metrocall [1260788] B  ALPHA  04:54 JAX  SYSB SYSTEM          MAJ>NO  Network port recovered - Network port recovered
+2001-09-11 04:52:57 Arch [0033669] B  ALPHA  s are  -2/3
+2001-09-11 04:52:57 Arch [1657760] A  ALPHA  Library QSC5223349 is not included in save strategy.
+2001-09-11 04:52:57 Skytel [005187817] C SH/TONE 1 (61   
+2001-09-11 04:52:59 Arch [0033669] B  ALPHA  near 35 mph, 55 km/hr, with occasional gusts to tropical storm force in squalls. Some strengthening is possible during the next 24 hours. Estimated minimum central pressure is |640   -3/3

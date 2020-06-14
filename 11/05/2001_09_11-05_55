@@ -1,0 +1,59 @@
+2001-09-11 05:55:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2062
+2001-09-11 05:55:00 Metrocall [002110491] C  ALPHA  Time to take medication.
+2001-09-11 05:55:00 Metrocall [002110367] D  ALPHA  Good morning. Time for meds.
+2001-09-11 05:55:00 Metrocall [002110434] A  ALPHA  Take meds!
+2001-09-11 05:55:00 Metrocall [002110552] C  ALPHA  Remember morning medication.
+2001-09-11 05:55:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2062
+2001-09-11 05:55:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6884
+2001-09-11 05:55:04 Arch [0000101] B  ALPHA  MSN 005 hello Message from NOC PCB.
+2001-09-11 05:55:10 Arch [1132793] C  ALPHA  Router MR.Net Frame DOWN at 04:55:03
+2001-09-11 05:55:11 Metrocall [1466337] A  ALPHA  09/11@04:44:37 DALDC01:The master browser has received a server announcement from the computer HB-ICONECT that believes that it is the master browser for the domain on transport NetBT_Tcpip_{E7CD7022-9C94-48E. The master browser is stoppin
+2001-09-11 05:55:11 Metrocall [1111466] C  ALPHA  ../..B..:.@:.. ..L@.0..T.. ..s..r@.r..s.....s.@................................................................................................................................................................................................
+2001-09-11 05:55:13 Metrocall [002110676] B  ALPHA  Alarm
+2001-09-11 05:55:13 Metrocall [1466337] A  ALPHA  g or
+2001-09-11 05:55:13 Metrocall [1111466] C  ALPHA  g or an
+2001-09-11 05:55:15 Metrocall [1466337] A  ALPHA  CONT:an election is being forced.
+2001-09-11 05:55:15 Metrocall [1111466] C  ALPHA  CONT:election is being forced.
+2001-09-11 05:55:17 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178712. 
+2001-09-11 05:55:17 Arch [0975773] D  ALPHA  NetFlip Payment |Add $21.00 cash to your stash!|***** Prashant's FlipMail! ***** **** Cash Earnings: $5.00 **** Read while you work, read while you jog - make reading a breeze. Sign up with the Audio Book Club and you'll get 4 audiobooks for
+2001-09-11 05:55:20 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router Aevia-I-GW at 02:52:26 Txt: Router Aevia-I-GW UP at 02:52:26 Address: 166.90.48.82 Date: 09/11/2001 Status: Active and responding ( 0)
+2001-09-11 05:55:23 Arch [0976352] A  ALPHA  (14)jmspeag 72674-DCM-  FYI - BUYPASS NAK-2 is up. BUYPASS investigating root cause. No impact due to redundancy.  Sent at 04:54      
+2001-09-11 05:55:23 Arch [0553455] D  ALPHA  MUHAMMED, MUSTAFAH KEY IN ON MODE 09/11/2001  5:53AM
+2001-09-11 05:55:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9807
+2001-09-11 05:55:29 Metrocall [1362298] C  ALPHA  Frm: Optivity@harbortech.com Sub: Operator Attention Txt: Operator Attention is needed. (Server: "OPTIVITY-NJ" Job: "SNMPc & HPOV:Diff" Device: "HP 1") Please insert overwritable media into the drive.
+2001-09-11 05:55:29 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3455
+2001-09-11 05:55:29 Metrocall [1064377] C  ALPHA  US 10513/10421 -001 SP109720/10140+0150 FEI95785/96080/9625 9623/9613/9594/9586 SED 96657/6705/6620 96330/9596/9553/528 SEY9993/991/990/990 FSS9511/525/523/503 FLG 11457/11392 -66 FFI  508
+2001-09-11 05:55:31 Metrocall [1064377] C  ALPHA  6/5130 +053 ND 13760/13820 +055 TY 10710  FV 10615+
+2001-09-11 05:55:31 Skytel [005524994] A SH/TONE 1       
+2001-09-11 05:55:31 Skytel [003947407] D  ALPHA  NIMS01:Device Inaccessible
+2001-09-11 05:55:32 Arch [0939437] D  ALPHA  CA Helpdesk <CAH|wb0300ux114|CR: 143961 Priority: 5 Assigned to: Summary:: EU called, should have been notified... 
+2001-09-11 05:55:33 Skytel [002559894] B SH/TONE 772-7213
+2001-09-11 05:55:35 Skytel [002376872] C  ALPHA  hevaem@conxion.net|oracleheva2.conxion.net, HTTP, 206.204.210.197:80, Server timed out, | 
+2001-09-11 05:55:38 Skytel [004451650] A ST NUM  381-355-1596   
+2001-09-11 05:55:38 Skytel [005171263] D SH/TONE 99      
+2001-09-11 05:55:40 Arch [0951053] D  ALPHA  |gonzo build(s) done  
+2001-09-11 05:55:40 Skytel [005051613] D  ALPHA  (1 of 2) Case  064408 MA1BAM    Tucson, AZ      Alltel          Unplanned Outage    09/11 04:52 Note#1  P1: CDMA-MM         There is not access to the omc at this point. performing swap on mm8a that was scratch yesterday the cdfs were missi
+2001-09-11 05:55:40 Skytel [004416084] B SH/TONE 2030    
+2001-09-11 05:55:41 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs06 Sev:0 # 700016 ProcessesDown WBS 3.1.14.1 09/11/01 02:53:22 Instance: ChkSysRes Module: ChkSysRes Details: Processes Down or Restarted: psm_esni
+2001-09-11 05:55:41 Metrocall [1064376] C  ALPHA  GOVPX TREASURY 30__99.04+/05+5.434 10_101.06 /07 4.847 5Y_101.07+/09 4.331 2Y_100.06+/06+3.517   6M   3.110/100      3M   3.170/160
+2001-09-11 05:55:42 Skytel [004444776] C  ALPHA  Dissident Who Won Wants Proxy Fights to Be Easier to Wage[DJ NEWS]
+2001-09-11 05:55:42 Skytel [005436525] D  ALPHA  Test #16-IX_T1713
+2001-09-11 05:55:42 Skytel [004524770] A  ALPHA  wil-LandAir-WindsorVT-01: CPE Up at 00:59:33 on 9/11
+2001-09-11 05:55:43 Arch [1399066] C  ALPHA  291-8750
+2001-09-11 05:55:44 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-11 05:55:44 Skytel [002357369] C  ALPHA  002237 CYCLIC TEST 
+2001-09-11 05:55:44 Skytel [003327216] A  ALPHA  002237 CYCLIC TEST 
+2001-09-11 05:55:44 Skytel [202155899] C  ALPHA  300918825 Page count: 00 Emp# 100303 BANC ONE - BEDFORD EQ# 10006848 DAVID FRANCO:8178846558
+2001-09-11 05:55:44 Skytel [005126525] D ST NUM  562477245983477682  
+2001-09-11 05:55:44 Skytel [002139900] D SH/TONE 002237  
+2001-09-11 05:55:48 Skytel [005206684] D  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS]
+2001-09-11 05:55:50 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router 611FP-1MBT at 02:52:27 Txt: Router 611FP-1MBT UP at 02:52:27 Address: 209.247.46.226 Date: 09/11/2001 Status: Active and responding ( 0)
+2001-09-11 05:55:50 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcb-wbs06 Sev:0 
+2001-09-11 05:55:50 Metrocall [1420318] D  ALPHA  Take your meds.
+2001-09-11 05:55:52 Metrocall [0477913] C  ALPHA  # 700016 ProcessesDown WBS 3.1.14.1 09/11/01 03:00:22 Instance: ChkSysRes Module: ChkSysRes Details: Processes Down or Restarted: psm_esni
+2001-09-11 05:55:52 Skytel [002163259] C SH/TONE 9995    
+2001-09-11 05:55:55 Arch [0388761] C  ALPHA  PIMMAG1:Clu3vur Resource Degraded
+2001-09-11 05:55:55 Skytel [002376667] C  ALPHA  Martin.Monson@sun.com|T+1hr50min: Console Outage Status Update|BRM and SAC consoles are now up. Failback to primary is completed. Root cause  unknown at this time. Will monitor console for stability for 30min. Please call  the RMC @(303)272
+2001-09-11 05:55:55 Skytel [002377819] C  ALPHA  Martin.Monson@sun.com|T+1hr50min: Console Outage Status Update|BRM and SAC consoles are now up. Failback to primary is completed. Root cause  unknown at this time. Will monitor console for stability for 30min. Please call  the RMC @(303)272
+2001-09-11 05:55:55 Skytel [003050969] C SH/TONE         
+2001-09-11 05:55:59 Skytel [003954036] B  ALPHA  ECCFTP01:Device Inaccessible

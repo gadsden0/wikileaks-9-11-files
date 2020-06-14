@@ -1,0 +1,43 @@
+2001-09-11 05:45:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2052
+2001-09-11 05:45:01 Metrocall [002584296] C  ALPHA  PLEASE CHECK VOICE MAILBOX...7505757
+2001-09-11 05:45:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2052
+2001-09-11 05:45:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6874
+2001-09-11 05:45:04 Arch [0870953] C  ALPHA  |Check Do_cycle .... Jeff  
+2001-09-11 05:45:04 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178598. 
+2001-09-11 05:45:04 Arch [0769999] D  ALPHA  109-109
+2001-09-11 05:45:04 Arch [0968156] D  ALPHA  From Michael Trace Sub:FYI. UKNTS700 not updating SQL in any operation. Got SQL DBA on and saw DBCC and dump still running, so he is bouncing SQL. mttrace Msg:
+2001-09-11 05:45:08 Skytel [005048779] C  ALPHA  cbranch@us.ibm.com||NSALERT2 Updt Pathmark 2374527 SEV: 1 Dur: 5.361 HR(s) SMRY: Store 568 has been down for 5 hrs.  Informed DPE and EM that store has lost power.  Sent Exec. Alert.  More updates to follow. Corey D Branch  
+2001-09-11 05:45:10 Arch [0602772] B  ALPHA  Super-User <root|Trap Message|Time: Tue Sep 11 05:45:34 2001 Agent Address: 63.169.230.226 Specific Trap: Process Stop Trap (10) Description: in.named Regexp: named.* Current PID: 15776 
+2001-09-11 05:45:10 Skytel [005213906] A  ALPHA  1199
+2001-09-11 05:45:12 Skytel [005132640] A  ALPHA  15) cbranch@us.ibm.com||NSALERT2 Updt Pathmark 2374527 SEV: 1 Dur: 5.361 HR(s) SMRY: Store 568 has been down for 5 hrs.  Informed DPE and EM that store has lost power.  Sent Exec. Alert.  More updates to follow. Corey D Branch  
+2001-09-11 05:45:13 Arch [1355675] C  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 05:45:13 Arch [1423082] C  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 05:45:13 Arch [1080366] D  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 05:45:13 Arch [0553455] D  ALPHA  MUHAMMED, MUSTAFAH TRANSMITTER BATTERY RESTORE 09/11/2001  5:41AM
+2001-09-11 05:45:13 Metrocall [1064388] B  ALPHA  150 PAm45600+000
+2001-09-11 05:45:16 Skytel [007547009] A ST NUM  08007243624    
+2001-09-11 05:45:20 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs03 Sev:4 # 120011 DisconnectError WBS 3.1.14.1 09/11/01 02:44:59 PDT7 Instance: tm-nbc/kare Module: Transport Details: PID=11916 TID=51 tm-nbc/kare disconnected from Ticker=172.31.201.32, 1710
+2001-09-11 05:45:20 Metrocall [1064383] D  ALPHA  FOREX HIGH -  LOW YEN_121.83 - 121.01 EUR 0.9007 - 0.8955 CHF 1.6915 - 1.6830 GBP 1.4583 - 1.4533 CAD 1.5650 - 1.5615 AUD 0.5159 - 0.5128 NZD 0.4307 - 0.4259 E/C 1.5163 - 1.5145 E/Y 109.58 - 108.86 E/S 0.6182 - 0.6152 USD 115.11 - 114.13
+2001-09-11 05:45:20 Skytel [007523232] A  ALPHA  alert@msn.com||Hotmail Hotmail Special Offers:Pocket TV: $79.99  
+2001-09-11 05:45:20 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb12 login content match error on step 2, https://192.168.67.89/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain information 
+2001-09-11 05:45:22 Metrocall [0477913] C  ALPHA  0; 720 reconn
+2001-09-11 05:45:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9797
+2001-09-11 05:45:28 Arch [0970454] B  ALPHA  (20)SO:-*Calculating-Summaries(4:40:20
+2001-09-11 05:45:31 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3445
+2001-09-11 05:45:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 02:44:35 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:45:38 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178605. 
+2001-09-11 05:45:40 Skytel [002219614] D ST NUM  947-248-2736 (82    
+2001-09-11 05:45:41 Metrocall [0626007] B  ALPHA  36-WTD SALES 3,882.15. CHRIS AT 1298. ALSO GOT A CALL THAT NATION FORD OFFICE BRANCH IS NOT OPEN YET.
+2001-09-11 05:45:41 Metrocall [0827484] D  ALPHA  Frm: RAdmin@Vision-ins.com Sub: Fax server VNTNT05 up for 0011:08:12:37 (d:h:m:s); load:0%; faxes sent:164073, rcvd:250186.
+2001-09-11 05:45:42 Skytel [005436525] D  ALPHA  nMCI Test #25
+2001-09-11 05:45:42 Skytel [004524770] A  ALPHA  spr-OConnellCO-HolyokeMA-01: CPE Up at 00:59:59 on 9/11
+2001-09-11 05:45:42 Skytel [005057390] D  ALPHA  aug001dataaege:3.7.003 Service MSExchangeIS (Microsoft Exchange Information Store) Is Not Running. Current state is Stopped.
+2001-09-11 05:45:42 Skytel [007569517] D ST NUM  340-8609-11    
+2001-09-11 05:45:44 Skytel [003932285] D SH/TONE 3018    
+2001-09-11 05:45:44 Skytel [007541750] B SH/TONE 1403    
+2001-09-11 05:45:44 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-11 05:45:49 Arch [0602772] B  ALPHA  Super-User <root|Trap Message|Time: Tue Sep 11 05:46:04 2001 Agent Address: 63.169.230.226 Specific Trap: Process Start Trap (11) Description: in.named Regexp: named.* Current PID: 19863 
+2001-09-11 05:45:52 Skytel [005258806] B SH/TONE 28871   
+2001-09-11 05:45:52 Skytel [003669560] C  ALPHA  Auto1: MB=5.9 SOUTH ATLANTIC OCEAN  9/11  9:12:25 39.4S  52.6W  33  27 of  58 NB 19 Dm  94 UOAJ (72
+2001-09-11 05:45:55 Arch [1008334] D  ALPHA  25900
+2001-09-11 05:45:57 Skytel [007596901] B SH/TONE 85450   

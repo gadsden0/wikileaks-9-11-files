@@ -1,0 +1,76 @@
+2001-09-11 03:08:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1895
+2001-09-11 03:08:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1895
+2001-09-11 03:08:01 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   6018 OPEN suntvpa:6018 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 24730 OPEN sunapp1:24730 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj
+2001-09-11 03:08:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6717
+2001-09-11 03:08:09 Arch [1051867] C  ALPHA  |BO_ASIA_SUMMARY.sh: BO_ASIA_SUMMARY FAILED ||45  
+2001-09-11 03:08:09 Arch [0915948] D  ALPHA  From:NJROS1NHA01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server NJROS1NAP39/SERVER/Prudential is NOT Responding Body:WARNING: Server NJROS1NAP39/SERVER/Prudential is Not Responding.  Reason: Remote system no longer r
+2001-09-11 03:08:09 Arch [1614034] A  ALPHA  From:NJROS1NHA01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server NJROS1NAP39/SERVER/Prudential is NOT Responding Body:WARNING: Server NJROS1NAP39/SERVER/Prudential is Not Responding.  Reason: Remote system no longer r
+2001-09-11 03:08:09 Arch [0999102] D  ALPHA  From:NJROS1NHA01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server NJROS1NAP39/SERVER/Prudential is NOT Responding Body:WARNING: Server NJROS1NAP39/SERVER/Prudential is Not Responding.  Reason: Remote system no longer r
+2001-09-11 03:08:09 Metrocall [1697765] B  ALPHA  Prism/myaccounts.wachovia.com Available at 9/11/01 3:08:15 AM. Total Down Time: 23 minutes.
+2001-09-11 03:08:09 Metrocall [1545041] A  ALPHA  Frm: fax@act0911.com Txt: smtp.cfgg.org is UP
+2001-09-11 03:08:09 Metrocall [1064375] B  ALPHA  /FTSE  5033.70  -036 NIKK  10292.95  +097 DAX    4721.69  +051 CAC40  4418.41  +034
+2001-09-11 03:08:11 Metrocall [1064375] B  ALPHA   MIB30  31564   +0000 HSI  10386.61  +0020 30 _99.02/03  5.438% GOLD271.20/170  -030 S 4.17/19  PL 438.00 PD 450.00/0.00  +000 JG 1.415%
+2001-09-11 03:08:12 Arch [0950756] B  ALPHA  From:NJROS1NHA01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server NJROS1NAP39/SERVER/Prudential is NOT Responding Body:WARNING: Server NJROS1NAP39/SERVER/Prudential is Not Responding.  Reason: Remote system no longer r
+2001-09-11 03:08:12 Arch [1080426] C  ALPHA  From:NJROS1NHA01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server NJROS1NAP39/SERVER/Prudential is NOT Responding Body:WARNING: Server NJROS1NAP39/SERVER/Prudential is Not Responding.  Reason: Remote system no longer r
+2001-09-11 03:08:12 Arch [0950772] B  ALPHA  From:NJROS1NHA01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server NJROS1NAP39/SERVER/Prudential is NOT Responding Body:WARNING: Server NJROS1NAP39/SERVER/Prudential is Not Responding.  Reason: Remote system no longer r
+2001-09-11 03:08:14 Arch [0284964] B  ALPHA  NOC TKT at 03:08 AM EDT: TKT 37080 Initial - Ibm22 error log is not reporting to Unicenter - Assignee: Pellegrino, Scott A - Group: adminpri  
+2001-09-11 03:08:20 Arch [1612111] D  ALPHA  monitor@ccbill.c|SELECTCHECK PROBLEM WITH front19|ALERT: No Connection to Selectcheck port 443 Tue Sep 11 00:06:16 MST 2001 
+2001-09-11 03:08:20 Metrocall [1064385] A  ALPHA  JY  8228/8296  -043 EC  8990/8971 -0010 BP 14556/14502 -024 SF  5934/5937  -005 CD  6397/6386  -001 AD  5149/5132  +002 DM  4602/4591  -026 FES 9695/732/741/32 FDX 4720/4773  +033 PTB 8981/8881  +003 FGBS10357 FYB 13916 BDL 10808/10800-017 BDM 10718-0
+2001-09-11 03:08:24 Arch [1184785] A  ALPHA  From:NJROS1NHA01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server NJROS1NAP39/SERVER/Prudential is NOT Responding Body:WARNING: Server NJROS1NAP39/SERVER/Prudential is Not Responding.  Reason: Remote system no longer r
+2001-09-11 03:08:24 Arch [1206926] D  ALPHA  From:NJROS1NHA01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server NJROS1NAP39/SERVER/Prudential is NOT Responding Body:WARNING: Server NJROS1NAP39/SERVER/Prudential is Not Responding.  Reason: Remote system no longer r
+2001-09-11 03:08:24 Arch [0915948] D  ALPHA  From:PAERSCNHM01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server PAERSCNML25/SERVER/Prudential is NOT Responding Body:WARNING: Server PAERSCNML25/SERVER/Prudential is Not Responding.  Reason: Remote system no longer r
+2001-09-11 03:08:24 Metrocall [1064385] A  ALPHA  10
+2001-09-11 03:08:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9640
+2001-09-11 03:08:27 Arch [1614034] A  ALPHA  From:PAERSCNHM01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server PAERSCNML25/SERVER/Prudential is NOT Responding Body:WARNING: Server PAERSCNML25/SERVER/Prudential is Not Responding.  Reason: Remote system no longer r
+2001-09-11 03:08:27 Arch [0999102] D  ALPHA  From:PAERSCNHM01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server PAERSCNML25/SERVER/Prudential is NOT Responding Body:WARNING: Server PAERSCNML25/SERVER/Prudential is Not Responding.  Reason: Remote system no longer r
+2001-09-11 03:08:27 Arch [0950756] B  ALPHA  From:PAERSCNHM01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server PAERSCNML25/SERVER/Prudential is NOT Responding Body:WARNING: Server PAERSCNML25/SERVER/Prudential is Not Responding.  Reason: Remote system no longer r
+2001-09-11 03:08:30 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: crp-wbs01 Sev:4 # 36407 NoICAPDataForTooLong WBS 3.1.14.1 09/11/01 01:08:06 MDT6 Instance: WBSSched_|_CBS/WCBS_|_Created:09/10/01_13:04:34 Module: GatewayConnection Details: PID=330 TID=1146 No data received
+2001-09-11 03:08:30 Metrocall [1064378] C  ALPHA  GILTS DOWN IN EARLY DEALINGS AS EQUITIES RECOVER
+2001-09-11 03:08:30 Metrocall [1064395] C  ALPHA  )?#`B@vHIAK@CFOIfUJZBIOksdDf\`bpZTrr`bQXLrSNcttDFf`btZlfiIbttEJKCguhmI@D`PMVn\C
+2001-09-11 03:08:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3288
+2001-09-11 03:08:31 Skytel [004571022] D ST NUM  809-9266-2
+2001-09-11 03:08:33 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:08:33 Arch [1666850] A  ALPHA  3196
+2001-09-11 03:08:33 Arch [1080426] C  ALPHA  From:PAERSCNHM01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server PAERSCNML25/SERVER/Prudential is NOT Responding Body:WARNING: Server PAERSCNML25/SERVER/Prudential is Not Responding.  Reason: Remote system no longer r
+2001-09-11 03:08:33 Arch [0950772] B  ALPHA  From:PAERSCNHM01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server PAERSCNML25/SERVER/Prudential is NOT Responding Body:WARNING: Server PAERSCNML25/SERVER/Prudential is Not Responding.  Reason: Remote system no longer r
+2001-09-11 03:08:33 Arch [1184785] A  ALPHA  From:PAERSCNHM01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server PAERSCNML25/SERVER/Prudential is NOT Responding Body:WARNING: Server PAERSCNML25/SERVER/Prudential is Not Responding.  Reason: Remote system no longer r
+2001-09-11 03:08:33 Skytel [004397329] A ST NUM  899-216-2112-0299   
+2001-09-11 03:08:35 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   30540 OPEN suntvpa:30540 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 9718 OPEN sunapp1:9718 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:08:35 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 176870. 
+2001-09-11 03:08:35 Arch [0333473] A  ALPHA  propwash@aero-ne|09.11.01: Aero-News Network Prop|--------------------------------------------------J.R. "Zoo
+2001-09-11 03:08:35 Metrocall [0477913] C  ALPHA   in 432
+2001-09-11 03:08:36 Skytel [007045950] D SH/TONE 1808    
+2001-09-11 03:08:36 Skytel [005043128] C SH/TONE 822-6256
+2001-09-11 03:08:37 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-11 03:08:39 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   27366 OPEN suntvpa:27366 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 5113 OPEN sunapp1:5113 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:08:39 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 82.25 76.02 51.83 Tue Sep 11 00:09:00 MST 2001 
+2001-09-11 03:08:39 Metrocall [1105249] A  ALPHA  Sub: Protect yourself from police radar and laser guns! 2002 Frm: ainult6t76@bluefrog.net Txt: NO MORE SPEEDING TICKETS!!! BE INVISIBLE! 1-888-339-807= 1 Protect your vehicle on the road and save the costly tickets! With the all new ALL IN
+2001-09-11 03:08:39 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: crp-wbs01 Sev:4 # 36314 ExceptionInInitializeVBIDecoder WBS 3.1.14.1 09/11/01 01:08:16 MDT6 Instance: WBSSched_|_CBS/WCBS_|_Created:09/10/01_13:04:34 Module: GatewayConnection Details
+2001-09-11 03:08:40 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:08:40 Skytel [007568601] C ST NUM  706711617161808411  
+2001-09-11 03:08:40 Skytel [007589212] D SH/TONE 3395    
+2001-09-11 03:08:41 Metrocall [0477913] C  ALPHA  : PID=330 TID=1146 Unable to op
+2001-09-11 03:08:42 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   445 OPEN suntvpa:445 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 9445 OPEN sunapp1:9445 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat odb.adj 
+2001-09-11 03:08:42 Skytel [007649634] A ST NUM  223-233-3046   
+2001-09-11 03:08:44 Arch [0938127] D  ALPHA  2/02:odb.bdb odb.log odtrace.log oservlog oservlog.start rest
+2001-09-11 03:08:44 Skytel [003938556] D  ALPHA  telalerts failed on SVUtil0 09/11/01 03:08:08
+2001-09-11 03:08:46 Arch [0938127] D  ALPHA  1/02:PRI:MINOR   17211 OPEN suntvpa:17211 : PAGING ERROR CONTACT: cdcapppri MESSAGE: PRI:MINOR 13526 OPEN sunapp1:13526 : P2 Error In ococ004d batch TME core dead.letter errfile file_versions file_versions.restore interp_type mmap.dat 
+2001-09-11 03:08:46 Skytel [007569153] A ST NUM  077-4818-1
+2001-09-11 03:08:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 00:07:40 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 03:08:46 Skytel [007646475] C SH/TONE 9999    
+2001-09-11 03:08:46 Skytel [005181709] D ST NUM  355-5255-5
+2001-09-11 03:08:48 Arch [0938127] D  ALPHA  2/02:odb.adj odb.bdb odb.log odtrace.log oservlog oservlog.start re
+2001-09-11 03:08:48 Skytel [002401821] D  ALPHA  saspcp32 Distributed Monitoring PALM.dm.ussa17.Unix.saspcp32/Load average (fifteen minute) on host saspcp32 09/10/01 14:51:06 PDT  Status:  ussa17.PALM 
+2001-09-11 03:08:49 Skytel [005338280] C SH/TONE 28893   
+2001-09-11 03:08:50 Arch [1206926] D  ALPHA  From:PAERSCNHM01/SERVER/Prudential@PRUDENTIAL Subject:ServerWatch Notification - Server PAERSCNML25/SERVER/Prudential is NOT Responding Body:WARNING: Server PAERSCNML25/SERVER/Prudential is Not Responding.  Reason: Remote system no longer r
+2001-09-11 03:08:51 Skytel [003954236] D  ALPHA  root@ikon.com|"National Lockbox Message"|Nightly LB reports for NWD are present.  
+2001-09-11 03:08:51 Skytel [004702132] B  ALPHA  support@pconline.com|Server newton FTP,POP3 DOWN at 02:03:51|Server newton FTP,POP3 DOWN at 02:03:51 Add
+2001-09-11 03:08:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1161..
+2001-09-11 03:08:52 Metrocall [1027700] B  ALPHA  since Tue Sep 11 00:18:29 2001. The "Device went Dow
+2001-09-11 03:08:55 Skytel [002274898] A ST NUM  616-7164-11    
+2001-09-11 03:08:55 Skytel [005254108] D  ALPHA  root@ikon.com|"National Lockbox Message"|Nightly LB reports for NWD are present.  
+2001-09-11 03:08:55 Skytel [004689751] B SH/TONE 54238   
+2001-09-11 03:08:57 Skytel [005436525] D  ALPHA  Test #77
+2001-09-11 03:08:57 Skytel [004524770] A  ALPHA  spf-WhalleyComputer-SouthwickMA-: CPE Down at 00:36:37 on 9/11
+2001-09-11 03:08:57 Skytel [005112809] C  ALPHA  02:05CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240464: Uncorrectable write error
+2001-09-11 03:08:59 Skytel [002474612] B  ALPHA  T-PST2 STARTED (95

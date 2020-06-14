@@ -1,0 +1,68 @@
+2001-09-11 04:10:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1957
+2001-09-11 04:10:00 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs04 Sev:4 # 120011 DisconnectError WBS 3.1.14.1 09/11/01 01:09:35 PDT7 Instance: tm-nbc/kprc Module: Transport Details: PID=17121 TID=14 tm-nbc/k
+2001-09-11 04:10:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1957
+2001-09-11 04:10:01 Arch [0931795] A  ALPHA  |OPC: lada: System load has exceeded operations threshold. Load is at 0.52  
+2001-09-11 04:10:01 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 74 processes on report1.ccbill.com. Timestamp key: 20010911010801 
+2001-09-11 04:10:01 Metrocall [0477913] C  ALPHA  prc disconnected from Ticker=labcp-wbs04, 5555; 720 reconnect
+2001-09-11 04:10:03 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 73 processes on report1.ccbill.com. Timestamp key: 20010911010801 
+2001-09-11 04:10:03 Skytel [005043093] B  ALPHA  root@absolut.raleigh.ibm.com|The ABS phantom routine in ABS.PROD has been initiated on - System Date: Tue Sep 11 03:55:21 EDT 2001.| 
+2001-09-11 04:10:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6779
+2001-09-11 04:10:04 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 66 processes on report2.ccbill.com. Timestamp key: 20010911010801 
+2001-09-11 04:10:05 Skytel [005207087] D  ALPHA  FLT1011 ETA 0515, FLT1153 ETA 0444, FLT1702 ETA 0507
+2001-09-11 04:10:06 Skytel {1551415} 3 1200 4444 
+2001-09-11 04:10:09 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE Tray Metrics Down   Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[009]  dev_err[239]
+2001-09-11 04:10:09 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcp-wbs04 Sev:4 # 120002 ReadError WBS 3.1.14.1 09/11/01 01:09:35 PDT7 Instance: tm-nbc/
+2001-09-11 04:10:11 Metrocall [0477913] C  ALPHA  kprc Module: Transport Details: PID=17121 TID=14 file closed
+2001-09-11 04:10:14 Arch [0282429] D  ALPHA  PCSTECH <compops|.. VINCE, CICS35 RECYCLED AT 03:48 AND CONTROL GIVEN AT 03:49. CPF INFORMED. REGION IS ACCESSIBLE 
+2001-09-11 04:10:14 Arch [0971424] A  ALPHA  citrix@ustughd1.|Citrix Resource Management Servi|Summary - 9/11/01 4:04:02 AM - \\USTUGTS2 This server has failed. Technical Discussion The 'Operational' alarm has been in the Red state for 0:00:15. 
+2001-09-11 04:10:14 Arch [0959891] A  ALPHA  NTMETAFRAME4:Device Accessible,Device Status:Degraded
+2001-09-11 04:10:19 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 51.90 27.26 14.19 Tue Sep 11 01:10:39 MST 2001 
+2001-09-11 04:10:19 Arch [0464090] C  ALPHA  PSI Notification-T:Middleware session manager error04:09-09/11/2001-From Test System
+2001-09-11 04:10:19 Arch [1339373] D  ALPHA  PSI Notification-T:Middleware session manager error04:09-09/11/2001-From Test System
+2001-09-11 04:10:20 Metrocall [1062690] A  ALPHA  12202 TIME 03:56 ACTIVE-Pitt  PA4098_NatHgt x25CircuitDown
+2001-09-11 04:10:20 Metrocall [1362298] C  ALPHA  Frm: Optivity@harbortech.com Sub: Operator Attention Txt: Operator Attention is needed. (Server: "OPTIVITY-NJ" Job: "SNMPc & HPOV:Diff" Device: "HP 1") Please insert over
+2001-09-11 04:10:22 Metrocall [1362298] C  ALPHA  writable media into the drive.
+2001-09-11 04:10:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9702
+2001-09-11 04:10:25 Arch [0000101] B  ALPHA  MSN 082 hello Message from NOC PCB.
+2001-09-11 04:10:27 Arch [1619813] B  ALPHA  2760
+2001-09-11 04:10:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3350
+2001-09-11 04:10:33 Arch [1666850] A  ALPHA  3196
+2001-09-11 04:10:33 Metrocall [1064376] C  ALPHA  GOVPX TREASURY 30__99.03 /05+5.437 1 .12!.0#+/.8K.,8.0 .Y_.........................................................................
+2001-09-11 04:10:33 Skytel [007562258] A ST NUM  809-279-6110   
+2001-09-11 04:10:33 Skytel [004397329] A ST NUM  899-646-0181-77
+2001-09-11 04:10:33 Skytel [004678548] B  ALPHA  spectrum@ascend.com||  Alarm SET: ModelName:        135.119.1.40 Mtype:            WA_Link IPAddress:        135.119.1.40 Date:             09/11/2001 Time:             01:10:33 AlarmID:          83542 Condition:        RED CauseCode:      
+2001-09-11 04:10:36 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177579. 
+2001-09-11 04:10:37 Skytel [007559861] B SH/TONE 187-9111
+2001-09-11 04:10:37 Skytel [002553148] D SH/TONE         
+2001-09-11 04:10:37 Skytel [005228862] D SH/TONE 2002    
+2001-09-11 04:10:40 Arch [1036238] D  ALPHA  |ILS: Case Create #B826039 for DOW CHEMICAL USA, contract 1348270, P3 |This is an ILS summary notification for case B826039 Event: Case Create #B826039, Priority 3 Event Time: 11 September 2001 01:05:51 Title: *ANS*CLARIFICATION OF  -1/3
+2001-09-11 04:10:40 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 34.35 25.11 13.79 Tue Sep 11 01:11:01 MST 2001 
+2001-09-11 04:10:40 Skytel [004692694] B SH/TONE 348-9114
+2001-09-11 04:10:40 Skytel [005044436] B ST NUM  410-624-5850   
+2001-09-11 04:10:40 Skytel [005047383] B  ALPHA  y-alerts@yahoo-inc.com||Fr: oioqtfq@msn.com *Why Spend More Than You Have To?     *      Life Insurance Request    Mail  
+2001-09-11 04:10:41 Metrocall [002279197] D  ALPHA  Frm: MSN Txt: Hotmail MSNBC News:msnbc: Bush warms to capital gains cut
+2001-09-11 04:10:42 Arch [1036238] D  ALPHA  VWIC-2MFT-E1-DI CARD - LINE TERMINATION Site: DOW CHEMICAL USA * Contact: RONALD STOKKEL * Phone/Email: +31 (0)6-22478771 / rstokkel@thrupoint.net * Contract: 1348270 Case Owner: EPAYNE @ X ILS Subscription Information: * Subscriber:  -2/3
+2001-09-11 04:10:42 Arch [1612111] D  ALPHA  monitor@ccbill.c|VSCRUB Packet Loss|nulls=27 1017374357:1017374372:1017374375:1017374377:1017374379:1017374383:1017374384:1017374389:1017374392:1017374393:1017374396:1017374397:1017374402:1017374404:1017374405:1017374409:1017374410:10173744
+2001-09-11 04:10:44 Arch [1036238] D  ALPHA  roylong@cisco.com (Contact this person to unsubscribe.) * ILS Event: Create/Close/Reopen * Conditions: Contract ID: 1348270 * Recipients: roylong@epage.cisco.com * Send e-mai|640   -3/3
+2001-09-11 04:10:44 Skytel [003327216] A  ALPHA  002202 CYCLIC TEST 
+2001-09-11 04:10:44 Skytel [004755827] A SH/TONE 285-4167
+2001-09-11 04:10:44 Skytel [005094770] A  ALPHA  Exp Restrict Err @netwpro1@Tue04  
+2001-09-11 04:10:44 Skytel [002357369] C  ALPHA  002202 CYCLIC TEST 
+2001-09-11 04:10:44 Skytel [002139900] D SH/TONE 002202  
+2001-09-11 04:10:46 Skytel [005361677] D SH/TONE 99      
+2001-09-11 04:10:48 Skytel [002401821] D  ALPHA  vaecc01.sac.dsmc.eds.com The interface lan0 on vaecc01.sac.dsmc.eds.com is Down. ussa11.SSMC 
+2001-09-11 04:10:50 Metrocall [1874884] B  ALPHA  57103:1/02:Critical; TT677114; TR User Assign; CELL; MDBS; CONTROL PROCESSOR; 09/11/01 01:10:41; DAYT2ER;BU02 - ;No connection to the site. Tech (Anthony) was moving the Voice channels from the old site to the new site and
+2001-09-11 04:10:50 Metrocall [1874884] B  ALPHA  57103:2/02:leavin
+2001-09-11 04:10:50 Skytel [005060140] D  ALPHA  Exp Restrict Err @netwpro1@Tue04  
+2001-09-11 04:10:51 Skytel [005377331] A SH/TONE 234     
+2001-09-11 04:10:51 Skytel [0000060] D  ALPHA  CONTAINER ALERT AKE7109, AKE30760 & AKE37243 FLT  ARRIVED @ GATE 510 ETA 0024 PLS CALL 797-4759......ELAINE
+2001-09-11 04:10:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1223..
+2001-09-11 04:10:52 Metrocall [1874884] B  ALPHA  g CDPD on the old site u
+2001-09-11 04:10:52 Metrocall [1746364] D  ALPHA  Frm: InformationWeek Daily Sub: No more searching for Bobby Fischer? Txt: GOOD MORNING! Today is Sept. 11, and this is ... InformationWeek Daily! Business innovation powered by technology, brought to you by Information
+2001-09-11 04:10:53 Skytel [007457733] B  ALPHA  heartbeat@corporate-watch.com|>>-> Service recovery on Engines service|The communications exception reported at Mon Sep 10 23:22:00 2001 appears to be corrected as of Tue Sep 11 01:11:00 2001.  The system will continue to be monitored and y
+2001-09-11 04:10:54 Metrocall [1746364] D  ALPHA  Week magazine. Check o
+2001-09-11 04:10:55 Skytel [007457496] C  ALPHA  heartbeat@corporate-watch.com|>>-> Service recovery on Engines service|The communications exception reported at Mon Sep 10 23:22:00 2001 appears to be corrected as of Tue Sep 11 01:11:00 2001.  The system will continue to be monitored and y
+2001-09-11 04:10:57 Skytel [005112809] C  ALPHA  03:06CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240432: Uncorrectable write error
+2001-09-11 04:10:57 Skytel [005436525] D  ALPHA  Test Message #58-IX_T0110
+2001-09-11 04:10:57 Skytel [004524770] A  ALPHA  wor-TurnerConstruction-HudsonMA-: CPE Up at 00:58:15 on 9/11
+2001-09-11 04:10:59 Skytel [007109749] B ST NUM  643561773933711795  

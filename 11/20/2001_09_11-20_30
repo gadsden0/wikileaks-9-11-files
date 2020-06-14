@@ -1,0 +1,246 @@
+2001-09-11 20:30:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7759
+2001-09-11 20:30:01 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 17:28:32 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 20:30:01 Skytel [007045762] A SH/TONE 204 (65 
+2001-09-11 20:30:01 Skytel [004592769] A  ALPHA  7029254268443@accessline.com|AccessLine Voicemail from 9254268443|You received a new voicemail from 9254268443. It is 36 seconds long.  New messages:  2  Pager Display: 7029254268443  ____________________________________________________
+2001-09-11 20:30:01 Skytel [005126923] C ST NUM  569-469-4694-29459  
+2001-09-11 20:30:01 Skytel [005099530] C  ALPHA  alpha1 1 message t3.Com municationLostEvent 09/11/2001 17:25:16 Lost communication  (InBand(wf-t3a))  with Ich_MC2  (ip=10.1.1.12) (  last reboot was  2001-09-00 5:00  DLY=0:0:29 beep
+2001-09-11 20:30:02 Skytel [002373262] D SH/TONE 348-5412
+2001-09-11 20:30:02 Skytel [005081231] D  ALPHA  alpha1 1 message t3.Com municationLostEvent 09/11/2001 17:25:16 Lost communication  (InBand(wf-t3a))  with Ich_MC2  (ip=10.1.1.12) (  last reboot was  2001-09-00 5:00  DLY=0:0:29 beep
+2001-09-11 20:30:03 Arch [1398238] D  ALPHA  knox6060(161.44.216.60): failed ifDescr check, expected: hme0, got: timeout for hme0
+2001-09-11 20:30:03 Skytel [007488657] A SH/TONE 568-6837
+2001-09-11 20:30:03 Skytel [004592769] A  ALPHA  ____
+2001-09-11 20:30:03 Skytel [002849561] C  ALPHA  afms@net.com|The node didn't respond to a ping| 
+2001-09-11 20:30:05 Skytel [003264419] A SH/TONE 99      
+2001-09-11 20:30:05 Skytel [005129647] D ST NUM  873-744-2035   
+2001-09-11 20:30:06 Arch [0732038] B  ALPHA  (15)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC. is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=308 BC=4,150,161 Code Blocked count=38,598,592. NCC tkt# 2041237 d
+2001-09-11 20:30:06 Arch [0951801] C  ALPHA  [IS-HQ UP] eps-london1 [EPAGE2 (Database), EPAGE2 (Failed pages), EPAGE2 (Processes)]
+2001-09-11 20:30:06 Arch [0951053] D  ALPHA  |itech-view6 build(s) done  
+2001-09-11 20:30:06 Arch [0471274] C  ALPHA  (26)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC. is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=308 BC=4,150,161 Code Block
+2001-09-11 20:30:06 Arch [1049482] C  ALPHA  [IS-HQ DOWN] dns-sj4 DNS
+2001-09-11 20:30:06 Arch [1440757] B  ALPHA  (29)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC. is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=308 BC=4,150,161 Code Blocked count=38,
+2001-09-11 20:30:06 Skytel {1160901} 3 2400 703-614-6301  13    
+2001-09-11 20:30:06 Skytel {1345351} 1 2400 Update/CATA/LDTCC/FIBER CUT/NEW YORK, NY- 09/12/2001  00:24 GMT  LDTCC REPORTS AN 0C192 RING AND AN 0C48 LINEAR SYSTEM BETWEEN WEST ORANGE, NJ (WOR) AND WASHINGTON, D.C. (WAE) HAVE BEEN RESTORED. RESTORAL EFFORTS CONTINUE. DON/LDTCC) /JJD/.
+2001-09-11 20:30:08 Arch [0732038] B  ALPHA  lh
+2001-09-11 20:30:08 Arch [0951801] C  ALPHA  [IS-HQ UP] eps-london2 [EPAGE2 (Database), EPAGE2 (Failed pages), EPAGE2 (Processes)]
+2001-09-11 20:30:08 Arch [0471274] C  ALPHA  ed count=38,598,592. NCC tkt# 2041237 dlh
+2001-09-11 20:30:08 Arch [1440757] B  ALPHA  598,592. NCC tkt# 2041237 dlh
+2001-09-11 20:30:08 Arch [1049482] C  ALPHA  [IS-HQ UP] dns-sj4 DNS
+2001-09-11 20:30:08 Skytel {0687288} 3 1200 1-978-535-4783 
+2001-09-11 20:30:10 Arch [0909446] B  ALPHA  9160312-5769201
+2001-09-11 20:30:10 Arch [1619092] B  ALPHA  From root at 08:30 PM EDT: ROUTING ALERT - TG173 has less than 0 ports left (0 idle) [CC:brown lpowers jradil] 
+2001-09-11 20:30:10 Arch [0986516] B  ALPHA  03-PLEASE CALL STEVE AT 814-2207.
+2001-09-11 20:30:10 Arch [1377970] A  ALPHA  From root at 08:30 PM EDT: ROUTING ALERT - TG185 has less than 0 ports left (0 idle) [CC:brown lpowers jradil] 
+2001-09-11 20:30:12 Arch [1619092] B  ALPHA  From root at 08:30 PM EDT: ROUTING ALERT - TG185 has less than 0 ports left (0 idle) [CC:brown lpowers jradil] 
+2001-09-11 20:30:14 Arch [0283657] C  ALPHA  GCMA: 20:29 197556 SEV3 E3M / UnixScrAgent script CMESLE1 on nydoesp1 reports: WARNING_ /var/tmp/cmesle1evnt.log contains 'ERROR -19 Communication proto
+2001-09-11 20:30:14 Arch [0987275] C  ALPHA  s0191: 09/11 14:51:41 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:51:41
+2001-09-11 20:30:16 Arch [0282880] A  ALPHA  there are 15 people in the market place per 747 DUPD   ECO Jackson
+2001-09-11 20:30:16 Arch [0987275] C  ALPHA  s0191: 09/11 14:57:34 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:57:34
+2001-09-11 20:30:18 Arch [0987275] C  ALPHA  s0191: 09/11 15:00:18 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:00:18
+2001-09-11 20:30:18 Arch [1656509] D  ALPHA  NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC. is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=308 BC=4,150,161 Code Blocked count=38,598,592. NCC tkt# 2041237
+2001-09-11 20:30:18 Arch [0478076] D  ALPHA  (4)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC. is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=308 BC=4,150,161 Code Blocked count=38,598,592. NCC tkt# 2041237 dlh
+2001-09-11 20:30:18 Arch [0632627] A  ALPHA  NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC. is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=308 BC=4,150,161 Code Blocked count=38,598,592. NCC tkt# 2041237 dlh
+2001-09-11 20:30:19 Metrocall [002316898] A  ALPHA  MESSAGE WAITING       -913-8999
+2001-09-11 20:30:19 Metrocall [1708564] B  ALPHA  call dispatch
+2001-09-11 20:30:19 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4329
+2001-09-11 20:30:19 Metrocall [1457849] C  ALPHA  From: mclp001 ==>   /DBIPSO/arch is at 70. Threshold is 70    20:30:02 09/11/01 Pag
+2001-09-11 20:30:19 Skytel {0445064} 3 1200 703-876-1887   
+2001-09-11 20:30:19 Skytel {1910051} 3 1200 TONE ONLY
+2001-09-11 20:30:19 Skytel {0663827} 3 1200 508421    
+2001-09-11 20:30:19 Skytel {0460033} 1 1200 733  
+2001-09-11 20:30:20 Arch [1656509] D  ALPHA   dlh
+2001-09-11 20:30:20 Arch [0987275] C  ALPHA  s0191: 09/11 15:08:32 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:08:32
+2001-09-11 20:30:21 Metrocall [1224820] B  ALPHA  From: mclp001 ==>   /DBIPSO/arch is at 70. Threshold is 70    20:30:02 09/11/01 Page sent by
+2001-09-11 20:30:21 Metrocall [0277298] A  ALPHA  <58> KMC ER 886-4525 CONSULT ROUTINE NELSON SOBERAL DR.ANGELO CHEST PAIN 50
+2001-09-11 20:30:21 Metrocall [1902753] A  ALPHA  Frm: Administrator Sub: 72-hour svc call assigned to Rickman, Thomas in Area 680
+2001-09-11 20:30:21 Metrocall [1113081] C  ALPHA  800-701-2946 has 1 new message.
+2001-09-11 20:30:21 Metrocall [0755922] A  ALPHA  10- From Sommerfield, Thomas Sub:AT&T bldg will be open tomorrow. Msg:
+2001-09-11 20:30:21 Metrocall [1457849] C  ALPHA  e sent by
+2001-09-11 20:30:22 Skytel {1851440} 3 2400 76893
+2001-09-11 20:30:22 Skytel {1890187} 3 2400 301-262-1332  82    
+2001-09-11 20:30:23 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0682
+2001-09-11 20:30:23 Metrocall [1035099] C  ALPHA  94-FRED BARNES, 310-456-4210. RE: TOMORROW. I WILL GIVE YOU A CALL AT 9 OR 10 IN THE MORNING, AFTER ASSESSMENT. HOW ARE THE S
+2001-09-11 20:30:23 Metrocall [0125273] C  ALPHA  --- PARODIUS --- Subject: skars has made the bound. DBA Online GS notice From: dba@wargaming.net
+2001-09-11 20:30:23 Metrocall [1224106] C  ALPHA  Job # 398 KAISER-NORTH EAST BAY CSA LS: PRTY   Rdy: 1637 Exdl: 1807 P/U:KAISE
+2001-09-11 20:30:25 Arch [1048347] C  ALPHA  jkarasek| WWSFO mtg is still on tomorrow at 8am at the techmart. there is a vm i will forward. see you tomorrow   
+2001-09-11 20:30:25 Metrocall [1035099] C  ALPHA  TUDENT'S DOING.
+2001-09-11 20:30:25 Metrocall [1224106] C  ALPHA  R/IN PAT RX 1425 S MAIN RX 3RD FLR/BETTY WALNUT CREEK D/L:KAISER/IN PAT RX 975 SERENO DR HOSP/2ND FLR VALLEJO Wt:    0    1  Caller: ELIZABETH
+2001-09-11 20:30:25 Metrocall [1064378] C  ALPHA  AUSTRALIA CONSUMER SENTIMENT RISES 3.7 PCT IN SEPT
+2001-09-11 20:30:25 Metrocall [1064395] C  ALPHA  )?#`B@xHHxk@CNCUiuJTFYI`hH\~]SjsXmIASbsjdf[EgUDEJSSbttCM\wPTH]QAIgHJ\VaTP@RA@yOF`L
+2001-09-11 20:30:25 Metrocall [002567101] D  ALPHA  MARVIN AT HIALEAH 835-4701 RE;CUELLI LUZ RM 607 A
+2001-09-11 20:30:25 Metrocall [1708589] D  ALPHA  call dispatch
+2001-09-11 20:30:27 Metrocall [1224106] C  ALPHA  Job # 398 Ref: 1211010754
+2001-09-11 20:30:27 Metrocall [1224106] C  ALPHA  Job # 395 KAISER-NORTH EAST BAY CSA LS: PRTY   Rdy: 1633 Exdl: 1803 P/U:KAISER/RX#1 975 SERENO DR,1ST FLR VALLEJO D/L:PAUL LOMBARDO 919 WEST L ST,#8 BENCIA Wt:    0    1  Caller: ANTONETTE Ref: 8216424
+2001-09-11 20:30:27 Metrocall [1544818] A  ALPHA  WDC-APPS01 "Server WDC-APPS01/DSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail3.box. "
+2001-09-11 20:30:27 Metrocall [002119221] B  ALPHA  1294*Event on machine FMSDEDNETIQ Problem
+2001-09-11 20:30:29 Arch [1617276] D  ALPHA  Heading home.  You can call my cell.
+2001-09-11 20:30:29 Metrocall [002119221] B  ALPHA   is Text not found in: http://networkaccount.intel.com/service_status.asp Detailed message is URL: http://networkaccount.intel.com/service_status.asp ??does not contain: SFSA0005 SUCCEEDED
+2001-09-11 20:30:29 Metrocall [0076576] A  ALPHA  Frm: HSM-2 Sub
+2001-09-11 20:30:31 Skytel [005236495] D ST NUM  110005052 
+2001-09-11 20:30:31 Skytel [005211276] D  ALPHA  LTC 5.33 UNCH VTR 11.34 UNCH LTITX 15.81 UNCH VCRI 0.00 UNCH
+2001-09-11 20:30:31 Skytel [007439492] B ST NUM  205-699-7501   
+2001-09-11 20:30:31 Skytel [003328900] B ST NUM  502-417-2671   
+2001-09-11 20:30:31 Skytel [003951362] A SH/TONE 1       
+2001-09-11 20:30:31 Skytel [007660553] C SH/TONE 1213    
+2001-09-11 20:30:31 Skytel [004397838] D  ALPHA  TO:feed FROM:Chris Dedman,+1(425)936-7749 SUB:  MSG:EDATA2 hung when can we have a window for a reboot (2
+2001-09-11 20:30:31 Skytel [007559566] D SH/TONE 889-5709
+2001-09-11 20:30:31 Skytel [003917188] B ST NUM  723-907-0774   
+2001-09-11 20:30:31 Skytel [002361863] B  ALPHA  PAGEING,1,Application TODI ERROR 1 0 4096 17:01  09/11/01
+2001-09-11 20:30:33 Arch [0917559] B  ALPHA  476-4954
+2001-09-11 20:30:33 Skytel [007035414] B SH/TONE 9444    
+2001-09-11 20:30:33 Skytel [005508253] D SH/TONE 6039    
+2001-09-11 20:30:33 Skytel [002861584] A ST NUM  8685429388
+2001-09-11 20:30:33 Skytel [005182234] C ST NUM  502-422-6149   
+2001-09-11 20:30:33 Skytel [007493661] D SH/TONE 143118  
+2001-09-11 20:30:33 Skytel [002822678] B  ALPHA  INTC 26.07 UNCH IFMX 0.00 UNCH SUNW 10.29 UNCH IBM 96.47 UNCH (16
+2001-09-11 20:30:34 Arch [0987275] C  ALPHA  s0191: 09/11 15:14:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:14:21
+2001-09-11 20:30:34 Arch [0968733] D  ALPHA  "DMS Application|27 backing up in loader que 
+2001-09-11 20:30:34 Arch [0936036] B  ALPHA  'lon-sls-rtr-s0' is unreachable. Circuit down?
+2001-09-11 20:30:35 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 188576. 
+2001-09-11 20:30:35 Skytel [004414752] A ST NUM  956-629-1981   
+2001-09-11 20:30:35 Skytel [004668195] A ST NUM  703-795-9283 (64    
+2001-09-11 20:30:35 Skytel [002846502] B SH/TONE 773-4100
+2001-09-11 20:30:35 Skytel [004625450] C  ALPHA  Tienes email de:  1521550003@skyams.com Sin subject.  Contenido: Amine: Necesitamos tener por escrito los permisos de instalacion de los sitios de Toluca, Puebla, Queretaro y Cuernavaca. Lo anterior es para poder realizar las instalacones correspon
+2001-09-11 20:30:35 Skytel [004429999] D SH/TONE 6100    
+2001-09-11 20:30:36 Arch [0987275] C  ALPHA  sb3: INFO0021 - 2:45PM - POSI batch has not arrived(160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:15
+2001-09-11 20:30:36 Arch [1600758] B  ALPHA  (10)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC. is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=308 BC=4,150,161 Code Blocked count=38,598,592. NCC tkt# 2041237 dlh
+2001-09-11 20:30:36 Arch [1082912] A  ALPHA  (31)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC. is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=308 BC=4,150,161 Code Blocked count=38,598,592. NCC tkt# 2041237 dlh
+2001-09-11 20:30:36 Arch [0811974] B  ALPHA  NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC. is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=308 BC=4,150,161 Code Blocked count=38,598,592. NCC tkt# 2041237 dl
+2001-09-11 20:30:37 Skytel [0001336] C  ALPHA  ]!z00]"AI];0a]<2The four flights involved in the terrorist activity were carrying a total of 266 people - 233 passengers, 25 crew members and eight pilots... ]$ (84
+2001-09-11 20:30:37 Skytel [005247411] A SH/TONE 228-8472
+2001-09-11 20:30:37 Skytel [007594165] B ST NUM  988-368-7717-7317011
+2001-09-11 20:30:37 Skytel [004412724] B ST NUM  441-272-4442-8 
+2001-09-11 20:30:37 Skytel [002793012] B ST NUM  623-932-1691   
+2001-09-11 20:30:37 Skytel [003274943] D SH/TONE 86124683
+2001-09-11 20:30:37 Skytel [004144442] C  ALPHA  IN SERVICE DX:Trauma (Adult) Toledo Hospital
+2001-09-11 20:30:37 Skytel [004625450] C  ALPHA  dientes de AMSd y cumplir con los requerimientos de ISO.  Muchas gracias,   Ing. Cesar A. Campuzano L. SKYTEL/Gerente R.F. ccampuza@skytel.com.mx
+2001-09-11 20:30:37 Skytel [005180473] C ST NUM  1-609-209-4465 
+2001-09-11 20:30:37 Skytel [003953460] B SH/TONE 4107 (96
+2001-09-11 20:30:37 Skytel [004525880] C SH/TONE 225-2759
+2001-09-11 20:30:37 Skytel [004739773] D  ALPHA  VOICE MESSAGE [6531
+2001-09-11 20:30:37 Skytel [004680866] A ST NUM  800-535-1445-3 
+2001-09-11 20:30:37 Skytel [007461693] D SH/TONE 534-7177
+2001-09-11 20:30:37 Skytel [005126846] D ST NUM  726-825-1022   
+2001-09-11 20:30:37 Skytel [004209727] D ST NUM  203-969-1407 (57    
+2001-09-11 20:30:37 Skytel [005189437] D ST NUM  202-264-6509 (90    
+2001-09-11 20:30:37 Skytel [002557375] D ST NUM  800-227-3030   
+2001-09-11 20:30:37 Skytel [005332532] B  ALPHA  CALL PAUL AT 1800 779 1067 (4
+2001-09-11 20:30:38 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-11 20:30:38 Arch [1275787] C  ALPHA  PLEASE HAVE SASHA CALL DANA KING
+2001-09-11 20:30:38 Arch [1118921] C  ALPHA  662-7736
+2001-09-11 20:30:38 Arch [0811974] B  ALPHA  h
+2001-09-11 20:30:38 Metrocall [0908999] B  ALPHA  could canteen coordinators please call with availability for staffing at pentagon tonight. Thanks, Patti Blankenship, HQ, 246-2549
+2001-09-11 20:30:38 Metrocall [1283151] D  ALPHA  : WDC-MAIL02 : "Server WDC-MAIL02/MSVR/KAIPERM -  There are no longer any pending  documents older than 30 Minutes minutes in mail2.box. "
+2001-09-11 20:30:38 Metrocall [1283151] D  ALPHA  : WDC-MAIL02 : "Server WDC-MAIL02/MSVR/KAIPERM -  There are no longe
+2001-09-11 20:30:39 Skytel [003532096] A ST NUM  900-551-0864   
+2001-09-11 20:30:39 Skytel [004730819] A ST NUM  650-589-6137-00
+2001-09-11 20:30:39 Skytel [005056074] C  ALPHA  PLEASE CALL JOE WHOLEY AT 845-786-7865.
+2001-09-11 20:30:39 Skytel [002845771] C  ALPHA  PHA 40.15 UNCH MRK 66.10 UNCH PFE 38.17 UNCH
+2001-09-11 20:30:39 Skytel [007558729] C  ALPHA  henrysch@us.ibm.com||EQFX ALERT Init Equifax 16607621 SEV: 3 Dur: 0 HR(s) SMRY: Compass Bank, P428008, dedicated circuit is down. Customer is active on DBU. Circuit called out to telco.  Henr
+2001-09-11 20:30:39 Skytel [007101378] A  ALPHA  Cathy.A.Peavey@bankofamerica.com|navarro  6483223399|Lupe!!!!!!!!!!!!!!!    Super, Super, Super Job!!!!!!  FHA cash out refi--great job on income, FHA forms etc.  Yeah!  You got it now girl.  Look out, here comes are next FHA Queen from the
+2001-09-11 20:30:39 Skytel [005341518] D ST NUM  9007598255
+2001-09-11 20:30:39 Skytel [002401865] C  ALPHA  11) Fred, please call Rudy Garcia at 609-274-7688.    Gerry
+2001-09-11 20:30:40 Metrocall [1283151] D  ALPHA  r any pending  documents older than 30 Minutes minutes in mail3.box. "
+2001-09-11 20:30:40 Metrocall [1829700] B  ALPHA  Frm: al.cowperthwaite@my2way.com Txt: Sorry, I just replied, thinking it was 
+2001-09-11 20:30:41 Skytel [005128912] A ST NUM  302-767-4371 (50    
+2001-09-11 20:30:41 Skytel [003264344] C  ALPHA  202-483-5216 U.BANNING JAY C        (3
+2001-09-11 20:30:41 Skytel [007558729] C  ALPHA  y Schmidt  
+2001-09-11 20:30:41 Skytel [005205719] B  ALPHA  TO:johnfre FROM:Jamie Bowley,+1(425)936-5312 SUB: Would you like your 5 p.m. rescheduled to tomorrow morning with rodney to g MSG:    
+2001-09-11 20:30:41 Skytel [005485529] C ST NUM  723-932-1691   
+2001-09-11 20:30:41 Skytel [003935199] D SH/TONE 773-4100
+2001-09-11 20:30:41 Skytel [003904862] D  ALPHA  henrysch@us.ibm.com||EQFX ALERT Init Equifax 16607621 SEV: 3 Dur: 0 HR(s) SMRY: Compass Bank, P428008, dedicated circuit is down. Customer is active on DBU. Circuit called out to telco.  Henry Schmidt  
+2001-09-11 20:30:41 Skytel [007100890] C  ALPHA  alpha1 1 message t3.Com municationLostEvent 09/11/2001 17:25:16 Lost communication  (InBand(wf-t3a))  with Ich_MC2  (ip=10.1.1.12) (  last reboot was  2001-09-00 5:00  DLY=0:0:29 beep
+2001-09-11 20:30:42 Arch [0931298] A  ALPHA  516 241-0909
+2001-09-11 20:30:42 Arch [1063225] C  ALPHA  37-PLS CALL OR EMAIL PHIDERIKA FOUST. 407-756-5770 OR PHIDERIKA.FOUST.BANKOFAMERICA.COM.  !1/2 037
+2001-09-11 20:30:42 Metrocall [1283151] D  ALPHA  : WDC-MAIL02 : "Server WDC-MAIL02/MSVR/KAIPERM -  There are no longer any pending  documents older than 30 Minutes minutes in mail1.box. "
+2001-09-11 20:30:42 Metrocall [1283151] D  ALPHA  : ODC-MAIL01 : "Server ODC-MAIL01/MSVR/KAIPERM -  There are no longer any pending  documents older th
+2001-09-11 20:30:42 Metrocall [1829700] B  ALPHA  from your pager. Al Cowperthwaite (720) 535 2410
+2001-09-11 20:30:43 Skytel [003441506] A ST NUM  7) 301-926-3257
+2001-09-11 20:30:43 Skytel [004387299] A ST NUM  323-832-9857   
+2001-09-11 20:30:43 Skytel [004720098] A ST NUM  516-393-1368   
+2001-09-11 20:30:43 Skytel [004132072] C  ALPHA  [ALARM] sanjose-gb5 [interface: POS2/0] (50
+2001-09-11 20:30:43 Skytel [005394918] B SH/TONE 3748    
+2001-09-11 20:30:43 Skytel [002780779] C SH/TONE 853-5606
+2001-09-11 20:30:43 Skytel [005477482] C ST NUM  315-728-0915   
+2001-09-11 20:30:43 Skytel [007610984] C SH/TONE 726-7551
+2001-09-11 20:30:43 Skytel [004392429] D  ALPHA  NATE, FIX YOUR PHONE OR CALL US AT 673 2557. LORRIANE
+2001-09-11 20:30:43 Skytel [002406381] D  ALPHA  INEL 0.00 UNCH CAG 22.87 UNCH MCIC 0.00 UNCH KNE 0.00 UNCH
+2001-09-11 20:30:43 Skytel [002269164] D SH/TONE 687-1492
+2001-09-11 20:30:43 Skytel [003451501] D SH/TONE 409     
+2001-09-11 20:30:44 Arch [0967483] C  ALPHA  (11)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC. is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=308 BC=4,150,161 Code Blocked count=38,598,592. NCC tkt# 2041237 d
+2001-09-11 20:30:44 Arch [1063225] C  ALPHA  37- HAVE CELL AND WIRELESS ON. WANT TO MAKE SURE YOU'RE OK. !2/2 037
+2001-09-11 20:30:44 Arch [1009421] D  ALPHA  (5)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC. is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=308 BC=4,150,161 Code Blocked count=38,598,592. NCC tkt# 2041237 dlh
+2001-09-11 20:30:44 Arch [0283027] A  ALPHA  Evdraucik@aol.co|How are you all doing?|Hi Ed, Just tried to call and all the phone circuits are busy. Mom said that you guys closed up early today - do you know if your work is open tomorrow? How is your family? Do you know anyone who worke
+2001-09-11 20:30:44 Metrocall [1283151] D  ALPHA  an 30 Minutes minutes in mail1.box. "
+2001-09-11 20:30:44 Metrocall [1064382] D  ALPHA  DKK   74420/30 +000 NOK  7.9400/50 -450 SEK  9.5975/25 +398 CZK 34.087/117 -015 GRD 340.75/350 +000 AUD  1.7620/55 +108 SGD  1.5941/52 +208 CAD  1.4307/17 +274 ESP$ 183.35/45 +067 B.U..2...../...#.8..F....................@..$..363/481 +773
+2001-09-11 20:30:45 Skytel [003258865] A ST NUM  726-589-9503   
+2001-09-11 20:30:45 Skytel [007527412] B  ALPHA  "Fileprint d$".The device \\fileprint\d$ (Type: Disk Space) is DOWN since Tue Sep 11 20:32:41 2001. 
+2001-09-11 20:30:45 Skytel [002381560] C  ALPHA  (ESC:COCPSS) DFS554A #SISZGJ 00034 BMPS030 SISXITBU(2) 000 0102 PSB 
+2001-09-11 20:30:45 Skytel [005107061] B SH/TONE 577-5000
+2001-09-11 20:30:45 Skytel [002693374] D SH/TONE 244-7769
+2001-09-11 20:30:45 Skytel [003277309] D  ALPHA  El aeropuerto int'l estara cerrado hasta manana al medio dia.  Please si puedes, llama.  quiero saber como estas. (beepeame.com)
+2001-09-11 20:30:45 Skytel [003954036] B  ALPHA  EMMIS_NY:Device Inaccessible
+2001-09-11 20:30:45 Skytel [007048946] A  ALPHA  henrysch@us.ibm.com||EQFX ALERT Init Equifax 16607621 SEV: 3 Dur: 0 HR(s) SMRY: Compass Bank, P428008, dedicated circuit is down. Customer is active on DBU. Circuit called out to telco.  Henry Schmidt  
+2001-09-11 20:30:46 Arch [0967483] C  ALPHA  lh
+2001-09-11 20:30:46 Arch [0951053] D  ALPHA  |itech-view6 build(s) done  
+2001-09-11 20:30:46 Metrocall [1283151] D  ALPHA  : ODC-MAIL01 : "Server ODC-MAIL01/MSVR/KAIPERM -  There are no longer any pending  documents older than 30 Minutes minutes in mail3.box. "
+2001-09-11 20:30:46 Metrocall [1283151] D  ALPHA  : ODC-MAIL01 : "Server ODC-MAIL01/MSVR/KAIPERM -  There are no longer any pending  documents older th
+2001-09-11 20:30:46 Metrocall [1064377] C  ALPHA  SED97050/97190/9712 9676/9630/9605/9528 SEY9994/992/991/990 SSI _9530/_9500-770 JGB 13926/13714 +33 US  10514/10422 +00 SP107500/10140+0000 DJ _9630/_9665 +000 ND 13360/13820 +000 TY 10712+ FV 10616  TU 10328+
+2001-09-11 20:30:46 Skytel [005258762] C ST NUM  0-714-995-8754 
+2001-09-11 20:30:46 Skytel [003497479] B ST NUM  970-460-4702   
+2001-09-11 20:30:46 Skytel [007064841] C ST NUM  0-606-855-4354 
+2001-09-11 20:30:47 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2203..
+2001-09-11 20:30:48 Metrocall [1283151] D  ALPHA  an 30 Minutes minutes in mail2.box. "
+2001-09-11 20:30:48 Skytel [003488403] A ST NUM  859-219-6875-1479   
+2001-09-11 20:30:48 Skytel [002694547] A  ALPHA  29) henrysch@us.ibm.com||EQFX ALERT Init Equifax 16607621 SEV: 3 Dur: 0 HR(s) SMRY: Compass Bank, P428008, dedicated circuit is down. Customer is active on DBU. Circuit called out to telco.  Henry Schmidt  
+2001-09-11 20:30:48 Skytel [007437721] C SH/TONE 4 (91   
+2001-09-11 20:30:48 Skytel [007040275] A  ALPHA  henrysch@us.ibm.com||EQFX ALERT Init Equifax 16607621 SEV: 3 Dur: 0 HR(s) SMRY: Compass Bank, P428008, dedicated circuit is down. Customer is active on DBU. Circuit called out to telco.  Henry Schmidt  
+2001-09-11 20:30:49 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2203..
+2001-09-11 20:30:49 Metrocall [1283151] D  ALPHA  : CRDC-MAIL02 : "Server CRDC-MAIL02/MSVR/KAIPERM -  There are no longer any pending  documents older than 30 Minutes minutes in mail3.box. "
+2001-09-11 20:30:49 Metrocall [1283151] D  ALPHA  : CRDC-MAIL02 : "Server CRDC-MAIL02/MSVR/KAIPERM -  There are no longer any pending  documents older 
+2001-09-11 20:30:50 Skytel [007456814] D SH/TONE 305-5650
+2001-09-11 20:30:50 Skytel [004576170] C SH/TONE 292-6703
+2001-09-11 20:30:51 Metrocall [1283151] D  ALPHA  than 30 Minutes minutes in mail2.box. "
+2001-09-11 20:30:52 Skytel [003273915] C ST NUM  900-426-4252   
+2001-09-11 20:30:52 Skytel [007648950] B ST NUM  381-861-0377   
+2001-09-11 20:30:52 Skytel [005203765] B SH/TONE 532-2704
+2001-09-11 20:30:54 Skytel [007523530] C  ALPHA  Robinsito Dios te Bendiga, espero estes bien. Si puedes me llamas para oirte. Te quiero tu mama
+2001-09-11 20:30:54 Skytel [003440838] B ST NUM  223-779-0091-911    
+2001-09-11 20:30:54 Skytel [002555973] B ST NUM  425-836-0086   
+2001-09-11 20:30:54 Skytel [005555279] D  ALPHA  20:30:49 BY006BNY HAS NOT STARTED. CALL BONY 212-815-4403. HARRIS TRUST EXT RACT. ND M PROCESS HARS21T.
+2001-09-11 20:30:54 Skytel [002696262] B SH/TONE 2911    
+2001-09-11 20:30:55 Arch [0966804] B  ALPHA  212 879-7375
+2001-09-11 20:30:55 Arch [0904958] D  ALPHA  Joanne Sanchez <|Business Development for etemper|If you are interested in having an affordable database-driven website, you must read this letter!!! (If I
+2001-09-11 20:30:55 Arch [0866323] A  ALPHA  56-I'M HOME.  CELL PHONES ARE STILL BAD.  CALL ME AT HOME IF YOU CAN.  DY.
+2001-09-11 20:30:55 Arch [1119609] C  ALPHA  (20)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC. is on. 
+2001-09-11 20:30:55 Arch [0861631] D  ALPHA  Call donna in admin 8267 thanks
+2001-09-11 20:30:55 Arch [1625019] C  ALPHA  68-CALL YOUR BROTHER, 201-798-6183.
+2001-09-11 20:30:55 Arch [0949140] B  ALPHA  626 585-1559
+2001-09-11 20:30:55 Arch [0771127] B  ALPHA  689-4468
+2001-09-11 20:30:55 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-11 20:30:55 Metrocall [1283151] D  ALPHA  : CRDC-MAIL02 : "Server CRDC-MAIL02/MSVR/KAIPERM -  There are no longer any pending  documents older than 30 Minutes minutes in mail1.box. "
+2001-09-11 20:30:55 Metrocall [1560488] C  ALPHA  MESSAGE WAITING * 675-6975
+2001-09-11 20:30:55 Metrocall [1697645] D  ALPHA  JAMES NEIL - - PLEASE CALL ME ASAP
+2001-09-11 20:30:55 Metrocall [1585679] D  ALPHA  MESSAGE WAITING-365-7500
+2001-09-11 20:30:55 Metrocall [1708578] A  ALPHA  call dispatch
+2001-09-11 20:30:55 Metrocall [002567097] C  ALPHA  Schleicher N-1: KFC Nashv AC 1 DISCH  COOLFAIL
+2001-09-11 20:30:56 Skytel [002574547] A ST NUM  315-915-1901   
+2001-09-11 20:30:56 Skytel [007658324] B ST NUM  0-173-302-1215-5    
+2001-09-11 20:30:56 Skytel [003269723] C ST NUM  510-298-9622 (78    
+2001-09-11 20:30:57 Arch [0904958] D  ALPHA   have contacted you in error, push the link at the bottom to be removed) Thank you fo
+2001-09-11 20:30:57 Arch [0622104] C  ALPHA  (28)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC. is on. Temps 70s and 80s. DS3 outage 
+2001-09-11 20:30:57 Arch [1119609] C  ALPHA  Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=308 BC=4,150,161 Code Blocked count=38,598,592. NCC tkt# 2041237 dlh
+2001-09-11 20:30:57 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-11 20:30:57 Arch [1008406] B  ALPHA  (7)NCC Up 9/11 New York, NY 60 Hudson switch site supervisor walked through. Site is evacuated. Comm AC. is on. Temps 70s and 80s. DS3 outage count in NY is 25 DS3s down. SMC=308 BC=4,150,161 Code Blocked count=38,598,592. NCC tkt# 2041237 dlh
+2001-09-11 20:30:57 Metrocall [0536417] A  ALPHA  81: PLEASE CALL DENISE AT 472 7039 (5:32 PM/SEP 11)
+2001-09-11 20:30:57 Metrocall [1864820] B  ALPHA  09: 4322032 CORDERO OLGA JIMENEZ 408 937 8612 R 10 WKS OB, HAVING BLEEDING ********2ND CALL*******
+2001-09-11 20:30:57 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIA
+2001-09-11 20:30:57 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2938
+2001-09-11 20:30:57 Metrocall [0848090] C  ALPHA  F:fvs S:Servers Alive keep alive mail (DSFVS) M:Servers Alive keep alive mail (D
+2001-09-11 20:30:58 Skytel [004432483] A SH/TONE 416-7777
+2001-09-11 20:30:58 Skytel [005369569] A SH/TONE 980-8945
+2001-09-11 20:30:58 Skytel [005436525] D  ALPHA  Test #13
+2001-09-11 20:30:58 Skytel [005323106] A ST NUM  462-903-1100   
+2001-09-11 20:30:58 Skytel [005125466] C SH/TONE 111     
+2001-09-11 20:30:59 Arch [0622104] C  ALPHA  count in NY is 25 DS3s down. SMC=308 BC=4,150,161 Code Blocked count=38,598,592. NCC tkt# 2041237 dlh
+2001-09-11 20:30:59 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-11 20:30:59 Metrocall [0476499] A  ALPHA  L NUMBER  2938

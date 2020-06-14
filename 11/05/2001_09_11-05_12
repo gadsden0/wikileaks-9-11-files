@@ -1,0 +1,110 @@
+2001-09-11 05:12:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2019
+2001-09-11 05:12:00 Metrocall [1080319] D  ALPHA  Frm: noc@aevia.net Sub: Router 611FP-1MBT at 02:08:34 Txt: Router 611FP-1MBT UP at 02:08:34 Address: 209.247.46.226 Date: 09/11/2001 Status: Active and 
+2001-09-11 05:12:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2019
+2001-09-11 05:12:01 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A4 LINK REF PWR * MAJ ALARM  * 20W MAJ=NONE
+2001-09-11 05:12:01 Metrocall [002272928] A  ALPHA  Frm: Passport Batch Account Sub: IN-DOCS AutoWriter Txt: All objects RAN!
+2001-09-11 05:12:01 Metrocall [1080319] D  ALPHA  responding ( 0)
+2001-09-11 05:12:03 Skytel [002847128] C  ALPHA  Oracle Buys Private Web-Based Communications Co. 3Cube[DJ NEWS] (7
+2001-09-11 05:12:03 Skytel [002394391] B  ALPHA  Oracle Buys Private Web-Based Communications Co. 3Cube[DJ NEWS]
+2001-09-11 05:12:03 Skytel [004534043] C SH/TONE 1       
+2001-09-11 05:12:03 Skytel {0470360} 1 2400 Oracle Buys Private Web-Based Communications Co. 3Cube[DJ NEWS] (9..
+2001-09-11 05:12:03 Skytel {1599702} 1 2400 3492 (8.
+2001-09-11 05:12:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6841
+2001-09-11 05:12:04 Arch [0308296] C  ALPHA  prodpctl@phas114|AP trans_file|Error at transmission or wrong path on the remote system 20010911_EANJMMEC.STD: The process cannot access the file because it is being used by another 
+2001-09-11 05:12:04 Arch [1079409] A  ALPHA  7630*NETLOGGER: IPRED message: Sep 11 02:04:57 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:12:04 Arch [0634239] D  ALPHA  7630*NETLOGGER: IPRED message: Sep 11 02:04:57 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:12:04 Arch [0986081] A  ALPHA  5481*2H252_25R 10.100.1.232 has lost connectivity
+2001-09-11 05:12:04 Arch [0810070] B  ALPHA  5481*2H252_25R 10.100.1.232 has lost connectivity
+2001-09-11 05:12:04 Arch [1647695] D  ALPHA  GoPBI.com Storm |Tropical Weather Advisory|000 WTNT32 KNHC 110848 TCPAT2 BULLETIN TROPICAL DEPRESSION SEVEN ADVISORY NUMBE
+2001-09-11 05:12:06 Arch [0308296] C  ALPHA  process. ERROR ftp file /data/apps/pctl/data/EDSREP/EDS.PR
+2001-09-11 05:12:06 Arch [0986081] A  ALPHA  3868*10.100.0.231 alarm cleared
+2001-09-11 05:12:06 Arch [1079409] A  ALPHA  5481*2H252_25R 10.100.1.232 has lost connectivity
+2001-09-11 05:12:06 Arch [0634239] D  ALPHA  3868*10.100.0.231 alarm cleared
+2001-09-11 05:12:06 Arch [1647695] D  ALPHA  R 10 NATIONAL WEATHER SERVICE MIAMI FL 5 AM AST TUE SEP 11 2001 ....TROPICAL DEPRESSION SEVEN BECOMING BETTER ORGANIZED
+2001-09-11 05:12:06 Arch [0810070] B  ALPHA  3868*10.100.0.231 alarm cleared
+2001-09-11 05:12:08 Arch [0986081] A  ALPHA  1273*2H252_25R 10.100.100.11 has lost connectivity
+2001-09-11 05:12:08 Arch [1079409] A  ALPHA  3868*10.100.0.231 alarm cleared
+2001-09-11 05:12:08 Arch [0634239] D  ALPHA  1273*2H252_25R 10.100.100.11 has lost connectivity
+2001-09-11 05:12:08 Arch [0810070] B  ALPHA  1273*2H252_25R 10.100.100.11 has lost connectivity
+2001-09-11 05:12:09 Metrocall [1363643] C  ALPHA  Frm: busintel@tickets.com Sub: =?iso-8859-1?Q?Load Plan Completion - EO?=
+2001-09-11 05:12:10 Arch [0810070] B  ALPHA  6614*10.100.100.11 alarm cleared
+2001-09-11 05:12:10 Arch [0986081] A  ALPHA  6614*10.100.100.11 alarm cleared
+2001-09-11 05:12:10 Arch [1123473] A  ALPHA  (4)16:ABS: Tkt:5002927, Sev:2, Opened, Sname:PGNT, PL#:313721001, Contact:JASON @ 9084323751 Note:*SITE DWN* PWR VRFD/NO ALMRS/NO EQ CHNGS/DMRC EXTENDED/DBU NOT AVAIL/O K 2 TEST INTRUSIVE/DATA TRAN ONLY/EQPT:C
+2001-09-11 05:12:10 Arch [1079409] A  ALPHA  1273*2H252_25R 10.100.100.11 has lost connectivity
+2001-09-11 05:12:10 Arch [0634239] D  ALPHA  6614*10.100.100.11 alarm cleared
+2001-09-11 05:12:10 Arch [0905141] B  ALPHA  (1)03:ABS: Tkt:5002927, Sev:2, Opened, Sname:PGNT, PL#:313721001, Contact:JASON @ 9084323751 Note:*SITE DWN* PWR VRFD/NO ALMRS/NO EQ CHNGS/DMRC EXTENDED/DBU NOT AVAIL/O K 2 TEST INTRUSIVE/DATA TRAN ONLY/EQPT:C
+2001-09-11 05:12:12 Arch [0810070] B  ALPHA  4239*NETLOGGER: IPRED message: Sep 11 02:04:40 oma-dmz01-in.wic.west.com %IPRED-I-VR_CREATED, successful creation of virtual-router 7 on interface IN
+2001-09-11 05:12:12 Arch [1123473] A  ALPHA  OAM/
+2001-09-11 05:12:12 Arch [1079409] A  ALPHA  6614*10.100.100.11 alarm cleared
+2001-09-11 05:12:12 Arch [0986081] A  ALPHA  4239*NETLOGGER: IPRED message: Sep 11 02:04:40 oma-dmz01-in.wic.west.com %IPRED-I-VR_CREATED, successful creation of virtual-router 7 on interface IN
+2001-09-11 05:12:12 Arch [0905141] B  ALPHA  OAM/
+2001-09-11 05:12:12 Arch [0634239] D  ALPHA  6621*NETLOGGER: IPRED message: Sep 11 02:04:40 oma-dmz01-in.wic.west.com %IPRED-I-CONFIG_UPDATE, updated config for virtual router 7 on interface IN priority = 220
+2001-09-11 05:12:14 Arch [0810070] B  ALPHA  1245*NETLOGGER: IPRED message: Sep 11 02:04:40 oma-dmz01-in.wic.west.com %IPRED-I-STATE, Startup, I->B, I/F IN, vid 7
+2001-09-11 05:12:14 Arch [1079409] A  ALPHA  4239*NETLOGG..:..P.....e..a.:..e. ..........................h..r..T..n@.4(.R..<..VR_CREATED, successful creation of virtual-router 7 on interface IN
+2001-09-11 05:12:14 Arch [0986081] A  ALPHA  1245*NETLOGGER: IPRED message: Sep 11 02:04:40 oma-dmz01-in.wic.west.com %IPRED-I-STATE, Startup, I->B, I/F IN, vid 7
+2001-09-11 05:12:14 Arch [0634239] D  ALPHA  0795*NETLOGG..:..P.....e..a..:..e. ..........................h..r..T..n@.4(.R..<..VR_IPADDED, added IP address 10.100.100.17 to virtual-router 7 on interface IN
+2001-09-11 05:12:15 Arch [0810070] B  ALPHA  9637*NETLOGGER: IPRED message: Sep 11 02:04:40 oma-dmz01-in.wic.west.com %IPRED-I-VR_STARTED, started virtual-router 7 on interface IN
+2001-09-11 05:12:15 Arch [1079409] A  ALPHA  1245*NETLOGGER: IPRED message: Sep 11 02:04:40 oma-dmz01-in.wic.west.com %IPRED-I-STATE, Startup, I->B, I/F IN, vid 7
+2001-09-11 05:12:15 Arch [0986081] A  ALPHA  9637*NETLOGGER: IPRED message: Sep 11 02:04:40 oma-dmz01-in.wic.west.com %IPRED-I-VR_STARTED, started virtual-router 7 on interface IN
+2001-09-11 05:12:15 Arch [0634239] D  ALPHA  4239*NETLOGGER: IPRED message: Sep 11 02:04:40 oma-dmz01-in.wic.west.com %IPRED-I-VR_CREATED, successful creation of virtual-router 7 on interface IN
+2001-09-11 05:12:17 Arch [1079409] A  ALPHA  9637*NETLOGGER: IPRED message: Sep 11 02:04:40 oma-dmz01-in.wic.west.com %IPRED-I-VR_STARTED, started virtual-router 7 on interface IN
+2001-09-11 05:12:17 Arch [0634239] D  ALPHA  1245*NETLOGGER: IPRED message: Sep 11 02:04:40 oma-dmz01-in.wic.west.com %IPRED-I-STATE, Startup, I->B, I/F IN, vid 7
+2001-09-11 05:12:17 Arch [1666850] A  ALPHA  3196
+2001-09-11 05:12:17 Arch [0986081] A  ALPHA  6621*NETLOGGER: IPRED message: Sep 11 02:04:40 oma-dmz01-in.wic.west.com %IPRED-I-CONFIG_UPDATE, updated config for virtual router 7 on interface IN priority = 220
+2001-09-11 05:12:17 Arch [0810070] B  ALPHA  6621*NETLOGGER: IPRED message: Sep 11 02:04:40 oma-dmz01-in.wic.west.com %IPRED-I-CONFIG_UPDATE, updated config for virtual router 7 on interface IN priority = 220
+2001-09-11 05:12:19 Arch [1079409] A  ALPHA  6621*NETLOGGER: IPRED message: Sep 11 02:04:40 oma-dmz01-in.wic.west.com %IPRED-I-CONFIG_UPDATE, updated config for virtual router 7 on interface IN priority = 220
+2001-09-11 05:12:19 Arch [0634239] D  ALPHA  9637*NETLOGG..:..P.....e..a.:..e. ..........................h..r..T..n@.4(.R..<..VR_STARTED, started virtual-router 7 on interface IN
+2001-09-11 05:12:19 Arch [0986081] A  ALPHA  0795*NETLOGGER: IPRED message: Sep 11 02:04:40 oma-dmz01-in.wic.west.com %IPRED-I-VR_IPADDED, added IP address 10.100.100.17 to virtual-router 7 on interface IN
+2001-09-11 05:12:19 Arch [0810070] B  ALPHA  0795*NETLOGG..:..P.....e..a..:..e. ..........................h..r..T..n@.4(.R..<..VR_IPADDED, added IP address 10.100.100.17 to virtual-router 7 on interface IN
+2001-09-11 05:12:21 Skytel {0146920} 1 1200 EK 44.27 -0.90 EMN 38.16 +0.06 IBM 96.49 -0.10 MOT 15.02 +0.73
+2001-09-11 05:12:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9764
+2001-09-11 05:12:27 Arch [1079409] A  ALPHA  0795*NETLOGGER: IPRED message: Sep 11 02:04:40 oma-dmz01-in.wic.west.com %IPRED-I-VR_IPADDED, added IP address 10.100.100.17 to virtual-router 7 on interface IN
+2001-09-11 05:12:27 Arch [0986081] A  ALPHA  4809*10.100.1.232 alarm cleared
+2001-09-11 05:12:27 Arch [0634239] D  ALPHA  4809*10.100.1.232 alarm cleared
+2001-09-11 05:12:27 Arch [0810070] B  ALPHA  4809*10.100.1.232 alarm cleared
+2001-09-11 05:12:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.
+2001-09-11 05:12:28 Arch [1079409] A  ALPHA  4809*10.100.1.232 alarm cleared
+2001-09-11 05:12:29 Arch [0986081] A  ALPHA  0208*NETLOGGER: IPRED message: Sep 11 02:04:44 oma-dmz01-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:12:29 Arch [0634239] D  ALPHA  0208*NETLOGGER: IPRED message: Sep 11 02:04:44 oma-dmz01-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:12:29 Arch [1425048] C  ALPHA  168.35.19> chunk 178242. 
+2001-09-11 05:12:29 Arch [0810070] B  ALPHA  0208*NETLOGGER: IPRED message: Sep 11 02:04:44 oma-dmz01-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:12:30 Arch [1079409] A  ALPHA  0208*NETLOGGER: IPRED message: Sep 11 02:04:44 oma-dmz01-in.wic.west.com %IPRED-I-STATE, Mas Dwn, B->M, I/F IN, vid 7
+2001-09-11 05:12:30 Arch [0910057] C  ALPHA  pc999bot1: pc999bot1@PC999.hunterdonhealthcare.org 192.168.27.1 is down! -Contact HMC Immediately
+2001-09-11 05:12:31 Skytel [005070592] A  ALPHA  ETMS ESC Tkt#: 2001091002876  P3  Ckt ID: VABDMYN00001  Cust: WACHOVIA/MCI  I1  WG: MACHT.CHT  Sev: OUTAGE  OutTm: 15:25  Date: 01/01/1970 00:00
+2001-09-11 05:12:33 Metrocall [1585504] A  ALPHA  /11/2001 Status: Active and responding ( 0) Svcs: Notes:
+2001-09-11 05:12:33 Skytel [003488403] A ST NUM  473-880-8012-4458   
+2001-09-11 05:12:33 Skytel [007575575] B  ALPHA  [MINOR] dijon: File-system "/biller/wnet/data/parser" is now 86% full.
+2001-09-11 05:12:33 Skytel [004681884] D  ALPHA  11103 need developer
+2001-09-11 05:12:33 Skytel [005491484] D SH/TONE 555-5555
+2001-09-11 05:12:36 Skytel [003857202] A  ALPHA  11103 need developer
+2001-09-11 05:12:36 Skytel [007585589] B ST NUM  614-995-1526-911    
+2001-09-11 05:12:36 Skytel [0001461] B  ALPHA  GLOBEX   04:11     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109900   325+   SPU  109870B  300+   NDU  138200  1150+   6JZ    8283A   60-   6EZ    8943A   37-   6SZ    5923A   17-   6BZ   14484B   44-   6CZ    6396     6+   
+2001-09-11 05:12:40 Skytel [007040730] C  ALPHA  OLDEHFrom OLDEF:QSYSOPR  NP100P OUT OF SYNC: F=1477582            H=1477934
+2001-09-11 05:12:40 Skytel [1800019] A  ALPHA  GLOBEX   04:11     GEH  9662.5    .5-   GEM  9632.5     1-   ESU  109900   325+   SPU  109870B  300+   NDU  138200  1150+   6JZ    8283A   60-   6EZ    8943A   37-   6SZ    5923A   17-   6BZ   14484B   44-   6CZ    6396     6+   
+2001-09-11 05:12:42 Skytel [005346919] B  ALPHA  5) ARC 0.00 UNCH GDT 34.15 +0.20 MRK 66.10 +1.80 LLY 77.20 +0.50
+2001-09-11 05:12:43 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|mc0300ux200|CR: 143667 Priority: 1 Assigned to: Summary:: File system warning 
+2001-09-11 05:12:43 Arch [0634239] D  ALPHA  6423*NETLOGGER: IPRED message: Sep 11 02:05:09 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:12:43 Arch [0986081] A  ALPHA  6423*NETLOGGER: IPRED message: Sep 11 02:05:09 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:12:43 Arch [0810070] B  ALPHA  6423*NETLOGGER: IPRED message: Sep 11 02:05:09 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:12:44 Arch [1079409] A  ALPHA  6423*NETLOGGER: IPRED message: Sep 11 02:05:09 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:12:44 Skytel [003862901] B  ALPHA  BTY 50.67 -1.28 NWS 30.81 +0.10 WCOM 12.88 -0.10 DJIA 9654.71 +48.86 (2
+2001-09-11 05:12:44 Skytel [003862898] A  ALPHA  NWS 30.81 +0.10 WCOM 12.88 -0.10 BTY 50.67 -1.28 DJIA 9654.71 +48.86 (62
+2001-09-11 05:12:44 Skytel [003862899] A  ALPHA  WCOM 12.88 -0.10 BTY 50.67 -1.28 DJIA 9654.71 +48.86 NWS 30.81 +0.10 (51
+2001-09-11 05:12:44 Skytel [003862900] B  ALPHA  WCOM 12.88 -0.10 NWS 30.81 +0.10 BTY 50.67 -1.28 DJIA 9654.71 +48.86 (36
+2001-09-11 05:12:48 Skytel [002821656] C  ALPHA  StockLoan - <NY Mickey Chadha>: SLCheck.bash : Counts Match : fileCount: 26310, slposCount:26310
+2001-09-11 05:12:50 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb8 login content match error on step 2, http://192.168.67.168:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informat
+2001-09-11 05:12:50 Skytel [007026471] B SH/TONE 829-9965
+2001-09-11 05:12:53 Skytel [004538828] D SH/TONE 6127    
+2001-09-11 05:12:53 Skytel [005048779] C  ALPHA  LMNLAN1I RAMSES PTWW2 Node Down.
+2001-09-11 05:12:55 Skytel [003274456] C ST NUM  303-229-0683   
+2001-09-11 05:12:55 Skytel [002938583] B  ALPHA  APP 0.00 UNCH AERL 0.00 UNCH TDS 96.40 +1.40 USM 49.65 +1.45
+2001-09-11 05:12:55 Skytel [003945692] D  ALPHA  MonitorWKSP@Exodus.Workscape.com|SiteScope Alert, error, URL: Choicepoint Employee, timed out reading, https://cp.employee.com/SCRIPTS/ndPluginISAPI.dll/ndChoicePointEMP/pgLogon (64.28.90.252)|This alert is from SiteScope at http://64.28.90
+2001-09-11 05:12:57 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2212 - 001DEB OCALA 6125, high BER, Set
+2001-09-11 05:12:57 Arch [0927521] A  ALPHA  suzanneb@chapter|Original Book Club-Raul-2|=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D= =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D= =3D=3D=3D=3D=3D=3D Queens Borough Public Lib
+2001-09-11 05:12:57 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178249. 
+2001-09-11 05:12:57 Skytel [005132640] A  ALPHA  10) LMNLAN1I RAMSES PTWW2 Node Down.
+2001-09-11 05:12:57 Skytel [005436525] D  ALPHA  Test Message #38-IX_T0604
+2001-09-11 05:12:57 Skytel [005330530] A ST NUM  9685222010
+2001-09-11 05:12:57 Skytel [004524770] A  ALPHA  wil-ComprehensiveNetwor-Burlingt: CPE Up at 00:58:01 on 9/11
+2001-09-11 05:12:57 Skytel [005203941] B  ALPHA  8342*Host business.cch.com UP at 04:12:31  
+2001-09-11 05:12:59 Skytel [007109749] B ST NUM  011-1017-73    

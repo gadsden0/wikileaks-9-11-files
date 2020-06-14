@@ -1,0 +1,76 @@
+2001-09-12 02:29:02 Skytel [005236495] D ST NUM  120006012 
+2001-09-12 02:29:02 Skytel [007579147] C SH/TONE 1034    
+2001-09-12 02:29:03 Skytel [002394391] B  ALPHA  ORCL 11.46 UNCH MOT 15.04 UNCH DELL 22.57 UNCH
+2001-09-12 02:29:04 Arch [0987275] C  ALPHA  s0191: 09/11 12:04:03 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:04:03
+2001-09-12 02:29:04 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: PDS1_EQGSMNY 3 lines of potential Sybase errors *************************** 1608, Severity: 18, State: 4  @02:05 09/12/01 
+2001-09-12 02:29:04 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192664. 
+2001-09-12 02:29:06 Arch [0987275] C  ALPHA  s0191: 09/11 12:12:06 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:12:07
+2001-09-12 02:29:06 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: PDSSPX_EQNY1 3 lines of potential Sybase errors 1608, Severity: 18, State: 4 1608, Severity: 18, State: 4  @02:06 09/12/01 
+2001-09-12 02:29:06 Skytel {1092655} 3 2400 002648    
+2001-09-12 02:29:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1041
+2001-09-12 02:29:21 Arch [0987275] C  ALPHA  s0191: 09/11 12:14:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:14:49
+2001-09-12 02:29:23 Arch [0987275] C  ALPHA  s0191: 09/11 12:20:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:20:24
+2001-09-12 02:29:25 Arch [0987275] C  ALPHA  s0191: 09/11 12:28:34 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:28:34
+2001-09-12 02:29:27 Arch [0987275] C  ALPHA  s0191: 09/11 12:31:16 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:31:16
+2001-09-12 02:29:29 Arch [1316364] D  ALPHA  fusive/em|Birmingham-BHAMSERV1 has recover|------=_NextPart_000_0035_01BE01C7.112C2CE0-- 
+2001-09-12 02:29:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3297
+2001-09-12 02:29:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3297
+2001-09-12 02:29:32 Skytel [005315855] D  ALPHA  Mana1205@aol.com|(no subject)|daisuki yo, a-chan!!   [1437
+2001-09-12 02:29:32 Skytel [002392710] B  ALPHA  P1 QAD30981.1 IA ON HOLD FOR M/A CADETT #17202  ...LIGIA (7
+2001-09-12 02:29:32 Skytel [007582986] C SH/TONE 17911   
+2001-09-12 02:29:32 Skytel [005359118] D SH/TONE 70615   
+2001-09-12 02:29:37 Skytel [004693306] C ST NUM  410-755-3685   
+2001-09-12 02:29:37 Skytel [0001075] A  ALPHA  FYI waiting on one truck from AUS DF013, due in 0143
+2001-09-12 02:29:37 Skytel [0001074] A  ALPHA  FYI waiting on one truck from AUS DF013, due in 0143
+2001-09-12 02:29:38 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=lis  Mode=Incremental_Dump         # Our PID=8288    time='09/12/01 02:20:24'    sybase on 
+2001-09-12 02:29:38 Arch [0987275] C  ALPHA  s0191: 09/11 12:36:48 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:36:48
+2001-09-12 02:29:39 Skytel [003916610] A  ALPHA  LLY 77.20 +0.50 PFE 38.17 +1.17 GDT 34.15 +0.20 MRK 66.10 +1.80
+2001-09-12 02:29:39 Skytel [007574981] B ST NUM  852-105-3911   
+2001-09-12 02:29:39 Skytel [004539594] C  ALPHA  FYI waiting on one truck from AUS DF013, due in 0143
+2001-09-12 02:29:40 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=itg  Mode=Incremental_Dump         # Our PID=7805    time='09/12/01 02:20:21'    sybase on 
+2001-09-12 02:29:40 Arch [0987275] C  ALPHA  s0191: 09/11 12:44:46 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:44:47
+2001-09-12 02:29:41 Skytel [005181523] A ST NUM  261-643-9236   
+2001-09-12 02:29:41 Skytel [002359129] C  ALPHA  FYI waiting on one truck from AUS DF013, due in 0143
+2001-09-12 02:29:42 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-12 02:29:42 Metrocall [1466337] A  ALPHA  09/12@01:20:21 DALDC01:The master browser has received a server announcement from the computer HB-ICONECT that believes that it is the master browser for the domain on transport NetBT_Tcpip_{E7CD7022-9C94-48E. The master browser is stoppin
+2001-09-12 02:29:42 Metrocall [1111466] C  ALPHA  09/12@01:20:21 DALDC01:The master browser has received a server announcement from the computer HB-ICONECT that believes that it is the master browser for the domain on transport NetBT_Tcpip_{E7CD7022-9C94-48E. The master browser is stopping or an
+2001-09-12 02:29:43 Metrocall [1466337] A  ALPHA  g or
+2001-09-12 02:29:43 Skytel [005260640] A  ALPHA  6 TELECOMET INC       
+2001-09-12 02:29:43 Skytel [002814573] D  ALPHA  11) fil-sc1-42 up Sep 11, 2001 23:28 
+2001-09-12 02:29:44 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-12 02:29:44 Metrocall [1111466] C  ALPHA  CONT:election is being forced.
+2001-09-12 02:29:45 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2562..
+2001-09-12 02:29:45 Skytel [007491583] D SH/TONE 577-1400
+2001-09-12 02:29:45 Skytel [005523827] A SH/TONE 729-5330
+2001-09-12 02:29:45 Skytel [005266544] A  ALPHA  3296 TELECOMET INC       
+2001-09-12 02:29:45 Skytel [007574270] D ST NUM  0-438-884-6000-1    
+2001-09-12 02:29:45 Skytel [004433149] D ST NUM  757-377-0135   
+2001-09-12 02:29:46 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2562..
+2001-09-12 02:29:47 Skytel [007046275] A SH/TONE 2911    
+2001-09-12 02:29:48 Skytel [002385178] C  ALPHA  Monitor@eclaim.com|DSL Line is DOWN|DSL Line is DOWN  Mail generated by Servers Alive at Tuesday, September 11, 2001 11:32:21 PM  
+2001-09-12 02:29:48 Skytel [002861584] A ST NUM  8685429377
+2001-09-12 02:29:48 Skytel [002401821] D  ALPHA  sanbip00 Severe_error_on_system_SANBIP00 ussa11.SSMC 
+2001-09-12 02:29:50 Skytel [004704807] B SH/TONE 3555    
+2001-09-12 02:29:50 Skytel [007040929] A  ALPHA  root@sp1601.idc.ikon.org|FAILURE WARNING:  backup_rootvg.sh RUNNING ON sp1601 FAILED! - PLEASE REVIEW EMAIL LOG.| 
+2001-09-12 02:29:50 Skytel [005001895] B  ALPHA  [piter/4] 104 supplier.intel.com relay-ssl 0.0 FAILURE Server closedconnection immediately. (/epo/healthcheck.asp) 6:28:35
+2001-09-12 02:29:50 Skytel [004397995] C  ALPHA  IntelliWatch Monitor: WARNING - Server CVGNA05.US.Schneider-Electric.com/A/SVR/Schneider MAY HAVE crashed. Waiting 280 seconds...
+2001-09-12 02:29:51 Arch [1274677] B  ALPHA  305 787-0780
+2001-09-12 02:29:51 Arch [0910452] B  ALPHA  0383
+2001-09-12 02:29:51 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-12 02:29:51 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192671. 
+2001-09-12 02:29:51 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=lis  Mode=Incremental_Dump         # Our PID=11937    time='09/12/01 02:05:30'    sybase on
+2001-09-12 02:29:53 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-12 02:29:53 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=itg  Mode=Incremental_Dump         # Our PID=11585    time='09/12/01 02:05:27'    sybase on
+2001-09-12 02:29:53 Arch [1612073] C  ALPHA  CTOSERV@ADMMVS|>>PAHRDWBB NOTOK: PAHRDWBB 1 24-HOURS 
+2001-09-12 02:29:53 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 76.73 80.23 74.51 Tue Sep 11 23:28:57 MST 2001 
+2001-09-12 02:29:53 Metrocall [2020035] A  ALPHA  12:*FINALS*.*Baseball.MON   0 FLA   0 ?.NYM   0 PIT   0 ?.PHI   0 ATL   0 ?.CIN   0 CHI   0 ?.STL   0 MIL   0 ?.SF    0 HOU   0 ?.COL   0 ARI   0 ?.LA    0 SD    0 ?.CHI   0 NYY   0 ?.MIN   0 DET   0 ?.TOR   0 BAL   0 ?.BOS   0 TB    0 ?.CLE   0 KC   
+2001-09-12 02:29:54 Skytel [005209669] B ST NUM  603-461-5341   
+2001-09-12 02:29:54 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:29:55 Metrocall [2020035] A  ALPHA   0 ?.SEA   0 ANA   0 ?.TEX   0 OAK   0 ?
+2001-09-12 02:29:56 Skytel [004740954] C ST NUM  9774266191
+2001-09-12 02:29:56 Skytel [004415444] B ST NUM  09) 65444 
+2001-09-12 02:29:58 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQ.ENTIAL NUMBER  4689
+2001-09-12 02:29:58 Skytel [005436525] D  ALPHA  Test #31
+2001-09-12 02:29:58 Skytel [007562983] B SH/TONE 101341  
+2001-09-12 02:29:58 Skytel [007438052] B SH/TONE 3333 (3 
+2001-09-12 02:29:58 Skytel [005003367] B  ALPHA  root@bur-faxsvr.genuity.com|bur-faxsvr.genuity.com - /bbn is 91% full| 

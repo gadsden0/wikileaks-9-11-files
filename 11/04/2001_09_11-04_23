@@ -1,0 +1,42 @@
+2001-09-11 04:23:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1970
+2001-09-11 04:23:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1970
+2001-09-11 04:23:03 Skytel [002401821] D  ALPHA  206.122.40.74 $HASP050 JES2 RESOURCE SHORTAGE OF JOES - 80% UTILIZATION REACHED ussa11.SSMC 
+2001-09-11 04:23:03 Skytel {1092655} 3 2400 002206    
+2001-09-11 04:23:08 Arch [0000101] B  ALPHA  MSN 088 hello Message from NOC PCB.
+2001-09-11 04:23:09 Metrocall [1060056] C  ALPHA  1 SCRAP        Defect(s) for PRESS        H06R        on tire  LEAF    Def 422 PINCHED BLADDER-OSS            Prev msg- 2001/09/07 02:52:33:55
+2001-09-11 04:23:09 Metrocall [1192308] B  ALPHA  Frm: administrator@cit.org Sub: Router Wise DOWN at 04:12:28 Txt: Router Wise DOWN at 04:12:28 Add
+2001-09-11 04:23:11 Metrocall [1192308] B  ALPHA  ress: 192.168.11.1 Info 1: Info 2: Date: 09/11/2001 Status: Timed Out ( 11010) Svcs: Notes:
+2001-09-11 04:23:18 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|mc0300ux216|CR: 143909 Priority: 5 Assigned to: Summary:: Process critical 
+2001-09-11 04:23:18 Metrocall [1062690] A  ALPHA  12208 TIME 04:18 ACTIVE-Pitt  PA4098_NatHgt CELL IMPAIRED
+2001-09-11 04:23:18 Metrocall [1062690] A  ALPHA  12208 TIME 04:18 CLEARED-Pitt  PA4098_NatHgt CELL IMPAIRED
+2001-09-11 04:23:19 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|mc0300ux216|CR: 143908 Priority: 5 Assigned to: Summary:: Process critical 
+2001-09-11 04:23:21 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177719. 
+2001-09-11 04:23:23 Arch [0321613] D  ALPHA  OPEN/CLOSE:Link TRGR54A (Tarragona, Spain) --> BLR54A (Bilbao, Spain) is down. TOP:03:21 TOR:03:45. TKT#1484962 -- From: SMT - 248.528.7000
+2001-09-11 04:23:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9715
+2001-09-11 04:23:30 Metrocall [1104994] A  ALPHA  Frm: jmizzi@bidcom.com Sub: Excess Oracle processes in Production - 405 Txt: Total no. of processes : 405
+2001-09-11 04:23:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3363
+2001-09-11 04:23:31 Skytel [007609344] A  ALPHA  AMNapNot@eds.com|Trouble Ticket NV00517527 has an expected response date of 09/10/ 01 00:00:00, this has been exceeded. NV00517527|Trouble Ticket NV00517527 has an expected response date of 09/10/01 00:00:00, this has been exceeded.  Client
+2001-09-11 04:23:31 Skytel [005344267] C SH/TONE 8157    
+2001-09-11 04:23:32 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|chong|CR: 143910 Priority: 5 Assigned to: Summary:: Process critical 
+2001-09-11 04:23:36 Skytel [004754611] A SH/TONE 5225    
+2001-09-11 04:23:36 Skytel [0001075] A  ALPHA  Last tote = 0321
+2001-09-11 04:23:36 Skytel [0001074] A  ALPHA  Last tote = 0321
+2001-09-11 04:23:38 Skytel [004539594] C  ALPHA  Last tote = 0321
+2001-09-11 04:23:38 Skytel [003641413] B ST NUM  710-395-0580 (82    
+2001-09-11 04:23:39 Metrocall [0551861] B  ALPHA  INNS-AP:CLMBMSMA   ;254IC0003;;M1/XHGS/358256    /SC
+2001-09-11 04:23:40 Skytel [007518930] A SH/TONE 3019986 
+2001-09-11 04:23:40 Skytel [004593755] C SH/TONE 445-6579
+2001-09-11 04:23:40 Skytel [002359129] C  ALPHA  Last tote = 0321
+2001-09-11 04:23:42 Skytel [004524770] A  ALPHA  spf-WoroncoSavingsBank-Westfield: CPE Up at 00:58:19 on 9/11
+2001-09-11 04:23:42 Skytel [004529512] C SH/TONE 208     
+2001-09-11 04:23:42 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #86-IX_T4208
+2001-09-11 04:23:44 Arch [0989218] A  ALPHA  "WhatsUp" <whats|Host Global/Ucommand UP at 03:26|Host Global/Ucommand UP at 03:26:09 Address: 209.130.223.8 Date: 09/11/2001 Status: Active and responding ( 0) 
+2001-09-11 04:23:44 Skytel [002382588] D SH/TONE 99      
+2001-09-11 04:23:46 Skytel [005416066] A  ALPHA  From: Valeria Lo  9.25=2104.(986) 8.25=1407.(681) DR=1072.(492) KJ=990.(264) IFS=792.(288) DR6=720.(288) RS=1344.(NS) LH=1008.(144)
+2001-09-11 04:23:48 Arch [0909945] C  ALPHA  303
+2001-09-11 04:23:48 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177726. 
+2001-09-11 04:23:48 Skytel [004687644] D  ALPHA  TM125303@anacomp.com||<2/2:DtaTrnsms> 9:01:00AMCstmrJbiDWO#InbxFleNmeDteRcvdOrg.SzeCmpltd241810 989E0036561240452Cnfrms.20010911 9/11 7:00:09AM146118934YsThsPrd:1  
+2001-09-11 04:23:50 Skytel [002688552] C  ALPHA  OPEN/CLOSE:Link TRGR54A (Tarragona, Spain) --> BLR54A (Bilbao, Spain) is down. TOP:03:21 TOR:03:45. TKT#1484962 -- From: SMT - 248.528.7000
+2001-09-11 04:23:53 Skytel [003870273] A  ALPHA  OPEN/CLOSE:Link TRGR54A (Tarragona, Spain) --> BLR54A (Bilbao, Spain) is down. TOP:03:21 TOR:03:45. TKT#1484962 -- From: SMT - 248.528.7000
+2001-09-11 04:23:55 Skytel [005004368] A  ALPHA  sysNETIQsvc: HKG Job80099 STOK00330 09/11 16:23 QUEUES
+2001-09-11 04:23:59 Skytel [007109749] B ST NUM  500-807-4540-1170   

@@ -1,0 +1,89 @@
+2001-09-12 00:34:00 Metrocall [1495978] C  ALPHA  :U0403 P:3 ON DALA 09/11 23:16
+2001-09-12 00:34:00 Skytel [005113725] D  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:34:00 Skytel [007109749] B ST NUM  011-1017-73    
+2001-09-12 00:34:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8003
+2001-09-12 00:34:02 Skytel [002787202] A SH/TONE 918-9037
+2001-09-12 00:34:02 Skytel [004402048] A  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:34:02 Skytel [007480588] D ST NUM  309-943-7768   
+2001-09-12 00:34:03 Skytel [007083668] B ST NUM  607-426-1960   
+2001-09-12 00:34:03 Skytel [005226005] B SH/TONE 866     
+2001-09-12 00:34:04 Skytel {0152808} 3 2400 3441 
+2001-09-12 00:34:05 Skytel {1691746} 1 1200 alert@msn.com||AMAT 40.03, EK 43.23 Merrill Lynch - Be Bullish  .
+2001-09-12 00:34:05 Skytel {1308687} 1 1200 4444  21  
+2001-09-12 00:34:10 Metrocall [1146083] A  ALPHA  LP SWATupdate: As of 12:10  LP was brought back up.  Support teams are monitoring the system.  We are still investigating the route cause of the problem with re2xlpef.  case#511098
+2001-09-12 00:34:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4573
+2001-09-12 00:34:12 Arch [1398696] C  ALPHA  311 MOSXS2:Device Accessible,Device Status:Ok
+2001-09-12 00:34:13 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0926
+2001-09-12 00:34:13 Arch [0987275] C  ALPHA  s0191: 09/11 12:28:34 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:28:34
+2001-09-12 00:34:13 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191341. 
+2001-09-12 00:34:14 Arch [0987275] C  ALPHA  s0191: 09/11 12:31:16 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:31:16
+2001-09-12 00:34:16 Arch [0987275] C  ALPHA  s0191: 09/11 12:36:48 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:36:48
+2001-09-12 00:34:18 Arch [0987275] C  ALPHA  s0191: 09/11 12:44:46 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:44:47
+2001-09-12 00:34:22 Arch [0739731] A  ALPHA  7200
+2001-09-12 00:34:30 Metrocall [1283151] D  ALPHA  : WDC-MAIL02 : "Server WDC-MAIL02/MSVR/KAIPERM -  The following pending documents in  mail2.box are older than 30 minutes  186A6A "
+2001-09-12 00:34:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3182
+2001-09-12 00:34:31 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-12 00:34:31 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3182
+2001-09-12 00:34:32 Skytel [004568333] D  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:34:32 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 21:34:16 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 00:34:32 Skytel [005355017] C ST NUM  602-451-6942   
+2001-09-12 00:34:32 Skytel [005212559] D SH/TONE 282-4343
+2001-09-12 00:34:33 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-12 00:34:33 Arch [0949322] C  ALPHA  |ILS: Case Close #B793535 for MELLON BANK NA, contract 1215424, P3 |This is an ILS summary notification for case B793535 Event: Case Close #B793535, Priority 3 Event Time: 11 September 2001 21:35:00 Title: CMS: IGX -GETTING ALARM:  -1/3
+2001-09-12 00:34:33 Arch [1046295] B  ALPHA  |ILS: Notes #B828481 for LOCKHEED MARTIN SERVICES, contract 1084099, P1 |This is an ILS summary notification for case B828481 Event: Notes #B828481, Priority 1 Event Time: 11 September 2001 21:34:48 Title: 9/11:US WORLD ATTACK PARTS  -1/3
+2001-09-12 00:34:33 Skytel [007035540] B  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:34:35 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-12 00:34:35 Arch [0949322] C  ALPHA  "V35 9 REMOVED NO BACKUP AVAILABLE" THEN GETTING MSG: "C Site: MELLON BANK NA * Contact: RICK FAWCETT * Phone/Email: 412 234 2525 / fawcett.rd@mellon.com * Contract: 1215424 Case Owner: JOSHEA @ +61 2 8448 7118 ILS Subscription  -2/3
+2001-09-12 00:34:35 Skytel [005001895] B  ALPHA  [sps/66] 100 sps-apps1.cps.intel.com relay-rialto105 0 Error:relay-rialto105.mpi did not return a valid Metrios API response coderunning (sps/66) 2:44:07
+2001-09-12 00:34:35 Skytel [003458725] B SH/TONE 874-1664
+2001-09-12 00:34:35 Skytel [003251232] A  ALPHA  MO 48.15 UNCH
+2001-09-12 00:34:35 Skytel [005437867] C SH/TONE 911281  
+2001-09-12 00:34:35 Skytel [003275684] B  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:34:37 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-12 00:34:37 Arch [0949322] C  ALPHA  Information: * Subscriber: aderemer@cisco.com (Contact this person to unsubscribe.) * ILS Event: Create/Close/Reopen * Conditions: Account ID: 13110 * Recipients: aderemer@epage.cis|640   -3/3
+2001-09-12 00:34:37 Arch [0930546] A  ALPHA  Alarm: 09:34:48PM  Boiler Network connect   Site 4 Bldg 7 Hot water supply temp is out of range.
+2001-09-12 00:34:37 Skytel [007588530] A SH/TONE 3391    
+2001-09-12 00:34:37 Skytel [004388912] A SH/TONE 110810  
+2001-09-12 00:34:37 Skytel [005112125] D  ALPHA  MSFT 57.58 UNCH CBR 5.80 UNCH BEAS 13.97 UNCH
+2001-09-12 00:34:37 Skytel [004539708] D ST NUM  900-952-9130   
+2001-09-12 00:34:37 Skytel [007069367] B  ALPHA  no_reply@katewwdb.com|CommuniKate voice 21:34|201 sec voice msg from Steve Limber 1-888-297-9288 in 
+2001-09-12 00:34:37 Skytel [004752573] D SH/TONE 07839   
+2001-09-12 00:34:39 Skytel [004755649] A SH/TONE 420-5920
+2001-09-12 00:34:39 Skytel [002739521] A SH/TONE 331     
+2001-09-12 00:34:39 Skytel [007031502] D  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:34:39 Skytel [004533958] B ST NUM  909-938-5988   
+2001-09-12 00:34:39 Skytel [005508800] A  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:34:39 Skytel [007541836] D ST NUM  302-265-6980   
+2001-09-12 00:34:39 Skytel [007031106] A  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:34:41 Skytel [005173203] A ST NUM  0-919-516-4687 (18  
+2001-09-12 00:34:41 Skytel [004685520] A ST NUM  203-229-2682   
+2001-09-12 00:34:41 Skytel [004194897] A SH/TONE 4 (68   
+2001-09-12 00:34:41 Skytel [007035485] D  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:34:41 Skytel [002384977] A  ALPHA  MAT 17.58 UNCH MCD 28.92 UNCH
+2001-09-12 00:34:43 Skytel [007553888] A  ALPHA  896-6731No Answer Southfield Backup 248-552
+2001-09-12 00:34:43 Skytel [005414638] D  ALPHA  AMD 11.85 UNCH INTC 26.07 UNCH TXN 28.61 UNCH MOT 15.04 UNCH (72
+2001-09-12 00:34:43 Skytel [007041256] C SH/TONE 257-6680
+2001-09-12 00:34:45 Skytel [004449778] A ST NUM  580-980-0766-759911 
+2001-09-12 00:34:45 Skytel [007458928] A SH/TONE 43900   
+2001-09-12 00:34:45 Skytel [005347441] A ST NUM  958-694-1275   
+2001-09-12 00:34:45 Skytel [007467893] B SH/TONE 740-1108
+2001-09-12 00:34:45 Skytel [002204536] C SH/TONE 1234 (55
+2001-09-12 00:34:45 Skytel [003327216] A  ALPHA  002610 CYCLIC TEST 
+2001-09-12 00:34:45 Skytel [002357369] C  ALPHA  002610 CYCLIC TEST 
+2001-09-12 00:34:45 Skytel [002139900] D SH/TONE 002610  
+2001-09-12 00:34:47 Metrocall [1544820] B  ALPHA  WDC-MAIL02 "Server WDC-MAIL02/MSVR/KAIPERM - The following pending documents in mail2.box are older than 30 minutes 186A6A"
+2001-09-12 00:34:50 Skytel [002693664] A  ALPHA  T 17.65 UNCH FON 21.64 UNCH MCIC 0.00 UNCH
+2001-09-12 00:34:50 Skytel [005265958] B ST NUM  0-800-231-1456 
+2001-09-12 00:34:52 Arch [1438901] B  ALPHA  OCC <netcool@oh1|Node oh02m13mux05.net.reyrey.com has problem; Mux DOWN Event Has Occurred : CARD A REPORTING: Channel # 0:With Status 0 - 1 - 4 - 0 Severity 5 Sent by OCC 
+2001-09-12 00:34:52 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-12 00:34:52 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191348. 
+2001-09-12 00:34:54 Skytel [005111759] D  ALPHA  Mon - Sorry, do they want split to stay suspended????!...Rog 
+2001-09-12 00:34:54 Skytel [004417094] B ST NUM  85) 462-2789   
+2001-09-12 00:34:54 Skytel [002815810] A  ALPHA  oracle@saturn.oak.zhone.com|Errors found in Alert log file of one or more databaes on saturn|==> Sent by <oracle> from saturn on Tue Sep 11 21:35:04 PDT 2001   Errors found in the alert log of BSBPROD   Change 'ORA-' to '#ORA-' in alert log
+2001-09-12 00:34:56 Skytel [007102168] C SH/TONE 6023    
+2001-09-12 00:34:58 Skytel [007649639] B ST NUM  988-636-2186   
+2001-09-12 00:34:58 Skytel [003922535] B  ALPHA  IASO1328PONGCHEN/SGSG0118S1:Volume 001411 cannot be used by this system.
+2001-09-12 00:34:58 Skytel [005436525] D  ALPHA  Test Lotus Notes #32-IX_T1706
+2001-09-12 00:34:58 Skytel [002739304] C ST NUM  8775105616
+2001-09-12 00:34:58 Skytel [005003367] B  ALPHA  root@bur-faxsvr.genuity.com|bur-faxsvr.genuity.com - /bbn is 92% full| 
+2001-09-12 00:34:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8004

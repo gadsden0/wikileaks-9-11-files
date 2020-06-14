@@ -1,0 +1,81 @@
+2001-09-12 00:53:00 Metrocall [0525954] A  ALPHA  Server:Chelmick at 10.17.1.52 is DOWN.
+2001-09-12 00:53:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8022
+2001-09-12 00:53:01 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191558. 
+2001-09-12 00:53:01 Arch [1405104] A  ALPHA  PLEASE CALL HERSH AT 200-7981.
+2001-09-12 00:53:01 Arch [1379563] C  ALPHA  MSHMVSA|TDS Gateway TMSNA1 failed.|PU=TMSNA1, Microsoft SNA Gateway. Contact DSI Group. 
+2001-09-12 00:53:01 Arch [0987275] C  ALPHA  s0191: 09/11 15:56:49 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:56:49
+2001-09-12 00:53:03 Arch [0987275] C  ALPHA  s0191: 09/11 16:02:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 16:02:48
+2001-09-12 00:53:03 Skytel [005128606] D SH/TONE 12      
+2001-09-12 00:53:05 Skytel [003934628] B  ALPHA  THERE IS A VAN # 104756 NEAR THE PORTIA BUILDING THAT NEEDS TO BE MOVED.....YOU ARE BLOCKING THE TRUCK OPERATION...JLM
+2001-09-12 00:53:06 Skytel {1343146} 1 1200 IBM 96.47 UNCH MOT 15.04 UNCH INTC 26.07 UNCH TXN 28.61 UNCH
+2001-09-12 00:53:07 Skytel {1040837} 1 1200 1) PG 74.20 UNCH CL 57.26 UNCH.
+2001-09-12 00:53:07 Skytel {0143279} 3 1200 202-685-7650   
+2001-09-12 00:53:08 Skytel {1092655} 3 2400 002616    
+2001-09-12 00:53:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4592
+2001-09-12 00:53:12 Arch [0931298] A  ALPHA  845 893-0661
+2001-09-12 00:53:14 Arch [0965694] D  ALPHA  personal work. -Vipul    -2/2
+2001-09-12 00:53:19 Metrocall [1544820] B  ALPHA  KP-CENTRAL "Server KP-CENTRAL/HSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail1.box. "
+2001-09-12 00:53:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0945
+2001-09-12 00:53:24 Arch [1603687] B  ALPHA  Patrol User <pat|Alarm On: kd003t01, Message: kd003t01 WARNING Tue Sep 11 23:52:38 DB2DB_LOCK db2psqa1-DB2PSQ PctDBLocklistUs 82 80 <= 82.89 <= 95 Alarm #1 of global parameter 'PctDBLocklistUsed' triggered on 'DB2DB_LOCK.db2psqa1-DB2PSQA1'. 
+2001-09-12 00:53:24 Arch [0509230] D  ALPHA  Patrol User <pat|Alarm On: kd003t01, Message: kd003t01 WARNING Tue Sep 11 23:52:38 DB2DB_LOCK db2psqa1-DB2PSQ PctDBLocklistUs 82 80 <= 82.89 <= 95 Alarm #1 of global parameter 'PctDBLocklistUsed' triggered on 'DB2DB_LOCK.db2psqa1-DB2PSQA1'. 
+2001-09-12 00:53:29 Metrocall [1309395] A  ALPHA  Frm: MSN Txt: Hotmail SermonIllustrations.com:Illustrations on America
+2001-09-12 00:53:30 Metrocall [0902989] D  ALPHA  THE  HAMPSHIRE HOTEL IS COMPLETELY BOOKED.CALL THE DESK.THANKS
+2001-09-12 00:53:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3201
+2001-09-12 00:53:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3201
+2001-09-12 00:53:31 Skytel [004688642] A SH/TONE 266-5059
+2001-09-12 00:53:33 Arch [0987275] C  ALPHA  s0191: 09/11 11:42:59 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:42:59
+2001-09-12 00:53:33 Arch [1379563] C  ALPHA  MSHMVSA|TDS Gateway TMSNA1 failed.|PU=TMSNA1, Microsoft SNA Gateway. Contact DSI Group. 
+2001-09-12 00:53:33 Arch [0944148] B  ALPHA  3421068--44
+2001-09-12 00:53:33 Skytel [002401821] D  ALPHA  ssmcscsm13 N/A CBB0REM00:Agent:caiW2kOs:w2kLVolInst:Critical Logical Disk/File System C:.  
+2001-09-12 00:53:33 Skytel [005007132] D  ALPHA  psadmin@basil.ess.fedex.com|Pickup Purge log was not found |09/11/01:23:50:01  There is no 091101.sybPurgePick log.  
+2001-09-12 00:53:35 Arch [0987275] C  ALPHA  s0191: 09/11 11:48:17 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:48:18
+2001-09-12 00:53:35 Skytel [005001895] B  ALPHA  [sps/171] 101 sps-apps1.cps.intel.com relay-ssl 0.0 FAILURE Hostrefusing connection (/ifm/healthcheck.asp) 2:52:17
+2001-09-12 00:53:35 Skytel [005000868] B SH/TONE 0500    
+2001-09-12 00:53:35 Skytel [007063339] C SH/TONE 687703  
+2001-09-12 00:53:35 Skytel [002867623] B ST NUM  34949 (74 
+2001-09-12 00:53:37 Arch [0987275] C  ALPHA  s0191: 09/11 11:56:22 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:56:22
+2001-09-12 00:53:37 Skytel [007559603] A ST NUM  08007243624    
+2001-09-12 00:53:37 Skytel [003278002] A  ALPHA  alert@msn.com||Hotmail radioplay@about.com:An MP3.com Fan has sent you an email!  
+2001-09-12 00:53:37 Skytel [007503156] B SH/TONE 6309    
+2001-09-12 00:53:37 Skytel [005545145] C ST NUM  234-467-3505   
+2001-09-12 00:53:37 Skytel [007569723] C ST NUM  573-397-1737-070    
+2001-09-12 00:53:37 Skytel [0000060] D  ALPHA  THERE IS A VAN # 104756 NEAR THE PORTIA BUILDING THAT NEEDS TO BE MOVED.....YOU ARE BLOCKING THE TRUCK OPERATION...JLM
+2001-09-12 00:53:39 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|chong|CR: 144205 Priority: 2 Assigned to: Summary:: File system warning or critical alert 
+2001-09-12 00:53:39 Skytel [005072334] D ST NUM  616-633-2222-8337   
+2001-09-12 00:53:39 Skytel [003268815] D  ALPHA  CALLONE OF THESE THREE NUMBERS AND NOTIFY TEAM LDRS OF your LOCATION TONIGHT:  703.627.7187; 910.977.2500; 615.594.3615
+2001-09-12 00:53:39 Skytel [004477510] B  ALPHA  Sony, Ericsson Brds OK Mobile Phone Venture[DJ NEWS]
+2001-09-12 00:53:39 Skytel [005525453] D ST NUM  570-095-0444-444444444   
+2001-09-12 00:53:39 Skytel [007518286] D  ALPHA  dennismatejka@yahoo.com|test|hey there. Thanks for the birthday song...you shoul
+2001-09-12 00:53:39 Skytel [002563023] D ST NUM  0) 206-329-5745
+2001-09-12 00:53:41 Skytel [004679252] B SH/TONE 720-2395
+2001-09-12 00:53:41 Skytel [007035485] D  ALPHA  Why aren't you calling me? This is not funny.
+2001-09-12 00:53:41 Skytel [005004368] A  ALPHA  sysNETIQsvc: LON job(s) 231478 SBON48P00001 2001/09/12 05:53 EVENTLOG
+2001-09-12 00:53:42 Arch [1398696] C  ALPHA  312 MOSXS1:Device Inaccessible
+2001-09-12 00:53:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #44-IX_T1706
+2001-09-12 00:53:43 Skytel [005182309] B SH/TONE 6428 (72
+2001-09-12 00:53:45 Skytel [004663931] C  ALPHA  Sony, Ericsson Brds OK Mobile Phone Venture[DJ NEWS]
+2001-09-12 00:53:45 Skytel [005361020] D ST NUM  511-235-6698   
+2001-09-12 00:53:46 Arch [0904389] B  ALPHA  LIRR MVB-AMD,TRAIN NO. 163 BEING DELAYED JAY INTERLOCKING ACCOUNT EQUIPMENT TROUBLE. MofE NTFD.
+2001-09-12 00:53:46 Arch [1400339] A  ALPHA  LIRR MVB-AMD,TRAIN NO. 163 BEING DELAYED JAY INTERLOCKING ACCOUNT EQUIPMENT TROUBLE. MofE NTFD.
+2001-09-12 00:53:47 Metrocall [1283151] D  ALPHA  : KP-CENTRAL : "Server KP-CENTRAL/HSVR/KAIPERM -  There are no longer any pending  documents older than 30 Minutes minutes in mail1.box. "
+2001-09-12 00:53:47 Metrocall [1283151] D  ALPHA  : KP-CENTRAL : "Server KP-CENTRAL/HSVR/KAIPERM -  There are no
+2001-09-12 00:53:47 Skytel [004532736] A ST NUM  988-773-7367   
+2001-09-12 00:53:47 Skytel [005057923] A ST NUM  440-542-4357   
+2001-09-12 00:53:48 Skytel [007465749] B ST NUM  872-395-3575   
+2001-09-12 00:53:48 Skytel [003913751] B  ALPHA  DUTYMGR> BMSCLAIM: SEV1 D03WAS001/002 and 003 reporting code 7 errors during data retrieval from NCM dbs as of 21:45. Supp continues to work. No ETR - 1-866-814-2831
+2001-09-12 00:53:49 Metrocall [1283151] D  ALPHA   longer any pending  documents older than 30 Minutes minutes in mail2.box. "
+2001-09-12 00:53:49 Metrocall [1423055] D  ALPHA  Frm: tigger5988@waterforge.com Sub: GET RID OF FAT & KEEP IT OFF FOR GOOD!!!.. Txt: My name is Linda Gillie. I am 31 years old.A mother of thre
+2001-09-12 00:53:50 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8023
+2001-09-12 00:53:50 Skytel [004625450] C  ALPHA  PIN HP NNM   STATUS: Normal               LA INTERFACE Lo0 DEL NODO 30620-30619 SE REESTABLECIO EL DIA 09/11/01 A LAS 23:49:43
+2001-09-12 00:53:51 Metrocall [1283151] D  ALPHA  : WDC-MAIL04 : "Server WDC-MAIL04/MSVR/KAIPERM -  There are no longer any pending  documents older than 30 Minutes minutes in mail1.box. "
+2001-09-12 00:53:51 Metrocall [1423055] D  ALPHA  e, a wife = of 13 years to a wonderful man, Michael. My heart told me to share my story with you,
+2001-09-12 00:53:52 Arch [0987275] C  ALPHA  s0191: 09/11 11:59:03 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:59:03
+2001-09-12 00:53:52 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191565. 
+2001-09-12 00:53:52 Skytel [002406719] D SH/TONE 0500    
+2001-09-12 00:53:52 Skytel [007491898] C ST NUM  452-818-4226   
+2001-09-12 00:53:54 Arch [0987275] C  ALPHA  s0191: 09/11 12:04:03 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:04:03
+2001-09-12 00:53:54 Skytel [008477645] D  ALPHA  PIN HP NNM   STATUS: Normal               LA INTERFACE Lo0 DEL NODO 30620-30619 SE REESTABLECIO EL DIA 09/11/01 A LAS 23:49:43 (88 (8
+2001-09-12 00:53:55 Arch [0987275] C  ALPHA  s0191: 09/11 12:12:06 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:12:07
+2001-09-12 00:53:56 Skytel [003334868] B ST NUM  407-664-3917   
+2001-09-12 00:53:57 Arch [0987275] C  ALPHA  s0191: 09/11 12:14:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:14:49
+2001-09-12 00:53:58 Skytel [007016294] B ST NUM  761-252-4054   

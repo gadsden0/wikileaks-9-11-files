@@ -1,0 +1,50 @@
+2001-09-11 05:35:01 Metrocall [1545558] B  ALPHA  Frm: EA System Notification,GLENDALE,MIS Sub: TPM Problem 00820080 Txt: Hostname: bur1nt01 Description: Examine Backup Exec recent job history log for details on error backup. Job "BUR1NT01-ID6-IR" ended in an error state. Examine recent ev
+2001-09-11 05:35:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2042
+2001-09-11 05:35:01 Metrocall [0089933] D  ALPHA  Frm: System Attendant Sub: EXCHCONN1 Warning since 9/11/2001 5:18 AM Bounced mail took 0:06 Txt: EXCHCONN1 Warning since 9/11/2001 5:18 AM Bounced mail took 0:06:21.
+2001-09-11 05:35:03 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2042
+2001-09-11 05:35:03 Metrocall [0121395] A  ALPHA  Frm: System Attendant Sub: EXCHCONN1 Warning since 9/11/2001 5:18 AM Bounced mail took 0:06 Txt: EXCHCONN1 Warning since 9/11/2001 5:18 AM Bounced mail took 0:06:21.
+2001-09-11 05:35:03 Skytel {1092655} 3 2400 002230    
+2001-09-11 05:35:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6864
+2001-09-11 05:35:04 Arch [0844432] A  ALPHA  root <root@local|Host UCB-e1/0 is UP!|***** NetSaint 0.0.4 *****\n\nHost "e1/0 63.136.162.1" is UP!\n\nDate/Time: Tue Sep 11 05:25:11 2001 \n 
+2001-09-11 05:35:04 Arch [0555028] B  ALPHA  root <root@local|Host UCB-e1/0 is UP!|***** NetSaint 0.0.4 *****\n\nHost "e1/0 63.136.162.1" is UP!\n\nDate/Time: Tue Sep 11 05:25:13 2001 \n 
+2001-09-11 05:35:04 Arch [0905990] B  ALPHA  From root at 05:35 AM EDT: ERROR: ERROR,informix on ibm65 check via mtl9_proc did not return OK [ERROR,waitFor timed out (40 sec... [CC:webpri] 
+2001-09-11 05:35:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178491. 
+2001-09-11 05:35:10 Arch [1052328] C  ALPHA  Cisco WWW-madness|txnearingprgexpcompl.pl cronjob done ||56  
+2001-09-11 05:35:10 Arch [1050808] C  ALPHA  |ILS: Case Close #B780603 for FIDELITY INVESTMENTS, contract 1005321, P4 |This is an ILS summary notification for case B780603 Event: Case Close #B780603, Priority 4 Event Time: 11 September 2001 02:22:58 Title: *ANS*SVO GATEWAY  -1/3
+2001-09-11 05:35:12 Arch [1050808] C  ALPHA  08/28/2001 Site: FIDELITY INVESTMENTS * Contact: SEE_CASE_HISTORY FOR_CONTACT * Phone/Email: 408 / !!!DO_NOT_CHANGE_THIS_CONTACT!!! * Contract: 1005321 Case Owner: CCOSVO @ 408 ILS Subscription Information: * Subscriber: lwind@cisco. -2/3
+2001-09-11 05:35:13 Arch [1050808] C  ALPHA  com (Contact this person to unsubscribe.) * ILS Event: Create/Close/Reopen * Conditions: Contract ID: 1005321 * Recipients: lwind@epage.cisco.com * Send e-mails Always * Expires |640   -3/3
+2001-09-11 05:35:13 Arch [1131404] D  ALPHA  ETA ON 1730 IS 0545L ETA ON 1482 IS 0606 BABO SORT WAS DOWN AT 0418L -57 THERE ARE 44 FFOS ON 1482. SEP11/5:30
+2001-09-11 05:35:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9787
+2001-09-11 05:35:28 Arch [0970454] B  ALPHA  (9)SO:-*Build-ANI-List(4:35:03
+2001-09-11 05:35:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 02:32:54 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:35:31 Skytel [005225860] B SH/TONE 125     
+2001-09-11 05:35:31 Skytel [002384012] D  ALPHA  WARNING 1 - DSI EXEC Suspended 131 JANUS_NYPRD_SQL2.fe_nyprd
+2001-09-11 05:35:33 Skytel [005328670] D  ALPHA  L5/2001091001625/Epoch/CASAC.SSO TO CASAC.LOCAL/L4/06:26z/CASAC.SSO TO CASAC.LOCAL/866-843-2568X2211/ Janet Love/ Tkt out to vrzn pending p/u. 6th lvl to Nancy Mcfeely..pls assist.
+2001-09-11 05:35:35 Skytel [005207087] D  ALPHA  FLT1463 ETA 0539, *ADHOC FLT 1170 AFW-ATL ETA 0703, 3 POS M/S
+2001-09-11 05:35:35 Skytel [004113067] C ST NUM  348-435-7900 (49    
+2001-09-11 05:35:36 Skytel [007558202] C  ALPHA  Prty=3, Asg:USS-NY, NYGS01462506, ECHI01:HIGH MEMORY PAGING NT MEMORY PAGES/SEC IS 268.06; >TH =,, Sub:TGANS, tivoli1
+2001-09-11 05:35:36 Skytel [005004729] C  ALPHA  G LUNN       214 BUCKSHOLLOW RD  MP628-0899 CC 1 MISSED MON     6164 945
+2001-09-11 05:35:38 Skytel [008507076] B  ALPHA  01130h4f1ab01010400002g
+2001-09-11 05:35:38 Skytel [005213507] A  ALPHA  5757473 DEL KA3KNO PITT COUNTY MEMORIAL H 2528164167 M ROGERS C312 308
+2001-09-11 05:35:38 Skytel [002380618] C  ALPHA  WARNING 1 - DSI EXEC Suspended 131 JANUS_NYPRD_SQL2.fe_nyprd
+2001-09-11 05:35:38 Skytel [002382400] A SH/TONE 1       
+2001-09-11 05:35:40 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|wb0300ux134|CR: 143941 Priority: 1 Assigned to: Summary:: Agent not responding 
+2001-09-11 05:35:40 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178498. 
+2001-09-11 05:35:40 Skytel [002365520] A  ALPHA  WARNING 1 - DSI EXEC Suspended 131 JANUS_NYPRD_SQL2.fe_nyprd
+2001-09-11 05:35:41 Arch [0910057] C  ALPHA  pc999bot1: pc999bot1@PC999.hunterdonhealthcare.org 192.168.27.1 is down! -Contact HMC Immediately
+2001-09-11 05:35:41 Arch [0983850] C  ALPHA  45-ROB,ARE YOU GOING IN TODAY? GIVE ME A CALL AT HOME. -BRENDAN
+2001-09-11 05:35:41 Metrocall [0475145] C  ALPHA  Frm: BB@thomsoninvest.net SEb: !BB -(.060018! stDr.......p..................................B!............................................................................................................................p/sysadmin/bb/h
+2001-09-11 05:35:42 Skytel [005436525] D  ALPHA  Test Message #67-IX_T0304
+2001-09-11 05:35:42 Skytel [005369447] B SH/TONE 025     
+2001-09-11 05:35:42 Skytel [004524770] A  ALPHA  wor-PegasusSatelliteTV-MarlboroM: CPE Up at 00:59:51 on 9/11
+2001-09-11 05:35:42 Skytel [007641961] C SH/TONE 17      
+2001-09-11 05:35:42 Skytel [005057390] D  ALPHA  aug001dataaege:3.5.302 EventID: 0x80001B59 (7001) - The ScanMail_RealTimeScan service depends on the Microsoft Exchange Information Store service which failed to start because of the following error:   The dependency service or group failed
+2001-09-11 05:35:44 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-11 05:35:44 Skytel [005226605] D ST NUM  8683241857
+2001-09-11 05:35:50 Metrocall [0570252] D  ALPHA  Frm: weather@inbox.weather.com Sub: J.dn.e}. h.rE.i3.yo r0!.............................................................................................................................................
+2001-09-11 05:35:51 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1308..
+2001-09-11 05:35:52 Metrocall [1224820] B  ALPHA  From: mclp003 ==>   apipso75 idh19_4 DOWN on mclp003    05:35:42 09/11/01 Page sent by
+2001-09-11 05:35:52 Metrocall [1457849] C  ALPHA  From: mclp00.=.....aP.p.7..i..1...........................4..0..8..... ..`.. ..n. by
+2001-09-11 05:35:52 Skytel [004689715] A  ALPHA  44428:The following error is being generated by getradeweb "system code 217091"."We cannot verify your login information at this time. Please contact Client Services for assistance. " Please advise ohio ops @216-362-5790 thanks !
+2001-09-11 05:35:53 Skytel [002567371] C SH/TONE 5555 (1 
+2001-09-11 05:35:55 Skytel [005522904] C  ALPHA  alert@msn.com||Hotmail MSN Carpoint Update:2002 Model Year Preview, Win a trip to Pebble Beach  

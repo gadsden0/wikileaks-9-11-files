@@ -1,0 +1,57 @@
+2001-09-11 06:35:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2102
+2001-09-11 06:35:00 Metrocall [0000329] C  ALPHA  ..I.I....E....R..D.......................... 2102
+2001-09-11 06:35:02 Arch [0388761] C  ALPHA  PIMMAG1:Cluster Resource Degraded
+2001-09-11 06:35:03 Skytel {1092655} 3 2400 002250    
+2001-09-11 06:35:06 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6924
+2001-09-11 06:35:06 Arch [0977560] C  ALPHA  CELGRKV5@celera.|Job Succeeded|CELGRKV5 (Server: "CELGRKV5") Job "CELGRKV5 - FULL" completed successfully.:::logf ilename\\CELGRKV5\C$\PROGRAM FILES\VERITAS\BACKUP EXEC\NT\DATA\G5X42.txt 
+2001-09-11 06:35:07 Arch [0911134] D  ALPHA   mobil.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_loader  Server=EQ_HYC_DEV  Database=syndicat  Mode=load         # Our PID=4757    time='09/11/01 06:34:54'    sybase on mobil.ny.jpmorg
+2001-09-11 06:35:09 Arch [1303327] D  ALPHA  (3)BITS-DOD <iparch|aol-rad archive error|ftw-rad-02 20010908.ftw-rad-02.rad.gz Transfer failed 
+2001-09-11 06:35:09 Arch [1642963] A  ALPHA  (12)19:ABS: Numeric Paging Sender service has not checked in for 34 minutes.
+2001-09-11 06:35:17 Skytel {1102375} 1 2400 57266  20 
+2001-09-11 06:35:24 Arch [0281918] D  ALPHA  SG1. PC's that took the SMS load last night is having logon script problems this morning. NOC contacting SMS and 3rd level server Engineering. PM# E2663080. CNCC
+2001-09-11 06:35:24 Metrocall [1421210] C  ALPHA  LAKEJob 378304/VSIOWNER/OMSJRNMGR has MSGW status.
+2001-09-11 06:35:24 Metrocall [1421210] C  ALPHA  LAKEJob 385471/BGILMOUR/PRINTFORM has MSGW status.
+2001-09-11 06:35:26 Arch [1641913] C  ALPHA  SG1. PC's that took the SMS load last night is having logon script problems this morning. NOC contacting SMS and 3rd level server Engineering. PM# E2663080. CNCC 
+2001-09-11 06:35:26 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179152. 
+2001-09-11 06:35:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9847
+2001-09-11 06:35:28 Arch [0945069] D  ALPHA  "RCDN Campus" <a|RCDN6 Bldg 5 - 4th Floor SF_FAIL Bldg 5 - 4th Floor Supply fan failure alarm. * 
+2001-09-11 06:35:30 Metrocall [002160508] D  ALPHA  Frm: ams4tt@amsapp01-c1.sc.attws.com Sub: AMS-TT: TT673395 Txt: Maj; TT673395; T
+2001-09-11 06:35:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3495
+2001-09-11 06:35:31 Skytel [007639424] A SH/TONE 3160    
+2001-09-11 06:35:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 03:33:00 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 06:35:31 Skytel [003947407] D SH/TONE 684-8855
+2001-09-11 06:35:32 Metrocall {1078849} 1 2400 |.3~L.?f
+2001-09-11 06:35:35 Metrocall [0277909] B  ALPHA  NE. ON
+2001-09-11 06:35:35 Skytel [007571232] A SH/TONE 898-8348
+2001-09-11 06:35:35 Skytel [003904937] C ST NUM  988-299-6517 U 
+2001-09-11 06:35:36 Skytel [005004728] C  ALPHA  S BOYKO      184 TURK HILL RD    BW279-6640 DM:JULIE VERY ANNOYE6163 931
+2001-09-11 06:35:37 Arch [0977592] C  ALPHA  PAX NESST Server|PXAPP023 : Device Inaccessible|'Device Inaccessible' alarm received from PXAPP023 at 6:35AM on 9/11/2001 A 'Device Inaccessible' alarm signifies that Compaq Insight Manager is not currently receiving network responses from t
+2001-09-11 06:35:38 Skytel [002815810] A  ALPHA  oracle@saturn.oak.zhone.com|Errors found in Alert log file of one or more databaes on saturn|==> Sent by <oracle> from saturn on Tue Sep 11 03:35:04 PDT 2001   Errors found in the alert log of BSBPROD   Change 'ORA-' to '#ORA-' in alert log
+2001-09-11 06:35:38 Skytel [007041221] B SH/TONE 609-7346
+2001-09-11 06:35:40 Skytel [002350544] A  ALPHA  George.Ellison@compaq.com|Compaq PMC P1, case #261294, Not receiving images from Valley For ge initial | 
+2001-09-11 06:35:40 Skytel [005108306] A  ALPHA  p95sqa@soco.agilent.com||EXCEPTION: opp1r (OPTEI) testing E4440A US40420797 at P95_II Slot #36  
+2001-09-11 06:35:42 Skytel [005436525] D  ALPHA  Test #20-IX_T1715
+2001-09-11 06:35:42 Skytel [004524770] A  ALPHA  spf-FinancialInstitutions-Warsaw: CPE Up at 01:35:01 on 9/11
+2001-09-11 06:35:42 Skytel [007596901] B SH/TONE 85450   
+2001-09-11 06:35:42 Skytel [007470187] C SH/TONE 102-0002
+2001-09-11 06:35:42 Skytel [005102305] A  ALPHA  Sep11:06-21:morhp321:ORA-1142 signalled during: ALTER TABLESPACE PSAPDDICD END BACKUP... 
+2001-09-11 06:35:44 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-11 06:35:44 Skytel [005001201] A ST NUM  0-800-322-6592 U    
+2001-09-11 06:35:46 Skytel [004680455] B  ALPHA  1754543
+2001-09-11 06:35:48 Skytel [004052628] B  ALPHA  KPNQwest, Intel In E-Business Network Alliance[DJ NEWS] (97
+2001-09-11 06:35:50 Skytel [004548134] B  ALPHA  DataSurveillance@icgcomm.com|stl-mo-gw1|Device Affected: GW1 City/State: St. Lou
+2001-09-11 06:35:51 Arch [0462431] D  ALPHA  david.m.purifoy@|Success|"ETD Rev Sucess" 
+2001-09-11 06:35:51 Arch [1642963] A  ALPHA  (13)20:ABS: EMMAFMST service has not checked in for 31 Minutes on TRS_ATL.
+2001-09-11 06:35:51 Arch [0507148] D  ALPHA  (10)Initial X4236083 05:13 09/11/2001. PROB: Funlove Virus at KCMART IMP: Affecting 30 workstation and Possibly Peoplesoft STATUS: Bridge is in progress with Sitman(Brad) 800-733-4822*3. NXTUPD: 07:30 9/11/2001...JK/CR/emt
+2001-09-11 06:35:51 Arch [0418907] C  ALPHA  (14)Initial X4236083 05:13 09/11/2001. PROB: Funlove Virus at KCMART IMP: Affecting 30 workstation and Possibly Peoplesoft STATUS: Bridge is in progress with Sitman(Brad) 800-733-4822*3. NXTUPD: 07:30 9/11/2001...JK/CR/emt
+2001-09-11 06:35:51 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1368..
+2001-09-11 06:35:52 Metrocall [1121663] D  ALPHA  06:39 11-Sep-2001 GEN1BK (GEN 1 BRK...)..F.@...............-       P:NONE
+2001-09-11 06:35:54 Arch [0388761] C  ALPHA  pIMMAg;~Cluster Rgs}urcm`Fegraded
+2001-09-11 06:35:55 Skytel [003930067] A  ALPHA  09/11/01 06:35 SSYS - IOE ON 03DD
+2001-09-11 06:35:58 Arch [0921996] D  ALPHA  Stern College; (212)340-7815; Waveshape fault; 170 Vpk
+2001-09-11 06:35:58 Arch [0506933] B  ALPHA  (5)Initial X4236083 05:13 09/11/2001. PROB: Funlove Virus at KCMART IMP: Affecting 30 workstation and Possibly Peoplesoft STATUS: Bridge is in progress with Sitman(Bra
+2001-09-11 06:35:58 Arch [0972199] B  ALPHA  "Shelley, Mike" |EPPAGE #12455900|Terry George w/ Dominion Serices (used to be CNG Transmission) (304-627-3506)... Supposed to be receiving an 846 document (EDI) every 15 minutes, haven't received one
+2001-09-11 06:35:58 Arch [0967928] C  ALPHA  31-PLEASE CALL DAVID AT 201-647-1956.
+2001-09-11 06:35:58 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168
+2001-09-11 06:35:58 Arch [1608317] D  ALPHA  Stern College; (212)340-7815; Waveshape fault; 170 Vpk
+2001-09-11 06:35:58 Arch [1237222] B  ALPHA  (18)Initial X4236083 05:13 09/11/2001. PROB: Funlove Virus at KCMART IMP: Affecting 30 workstation and Possibly Peoplesoft STATUS: Bridge is in progress with Sitman(Br

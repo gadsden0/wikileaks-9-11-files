@@ -1,0 +1,64 @@
+2001-09-11 05:48:01 Metrocall [1544818] A  ALPHA  OAK-NS2:Device Inaccessible
+2001-09-11 05:48:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2055
+2001-09-11 05:48:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2055
+2001-09-11 05:48:01 Metrocall [1064377] C  ALPHA  US 10514/10422 +000 SP109830/10140+0260 FEI95785/96075/9624 !.2.)..3..58./!.8..S..................................................................................................
+2001-09-11 05:48:01 Skytel [007046275] A SH/TONE 3411    
+2001-09-11 05:48:01 Skytel [007579147] C SH/TONE 1034    
+2001-09-11 05:48:03 Metrocall [1064377] C  ALPHA   FFI  5094/5139 +061 ND 13800/13820 +0.5 .I 27.0(.F..10.96.
+2001-09-11 05:48:03 Skytel [007522844] D ST NUM  312-222-9018   
+2001-09-11 05:48:03 Skytel {0660798} 1 2400 Auto1: MB=5.9 SOUTH ATLANTIC OCEAN  9/11  9:12:25 39.4S  52.6W  33  27 of  58 NB
+2001-09-11 05:48:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6877
+2001-09-11 05:48:04 Arch [1654898] A  ALPHA  netsaint <netsai|** PROBLEM: alert - SnappsMain/C|*** Server Alert *** Alert Type: PROBLEM Service: CheckHTTP Host: SnappsMain Address: 209.15.192.200 State: CRITICAL Date/Time: Tue Sept 11 05:49:16 EDT 2001 Additional Info: Connection refu
+2001-09-11 05:48:04 Arch [1427708] D  ALPHA  netsaint <netsai|** PROBLEM: alert - SnappsMain/C|*** Server Alert *** Alert Type: PROBLEM Service: CheckHTTP Host: SnappsMain Address: 209.15.192.200 State: CRITICAL Date/Time: Tue Sept 11 05:49:16 EDT 2001 Additional Info: Connection refu
+2001-09-11 05:48:04 Skytel {1102375} 1 2400 57266  17 
+2001-09-11 05:48:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178628. 
+2001-09-11 05:48:09 Metrocall [1399095] B  ALPHA  Frm: risman@firstusa.com Sub: CRCLI_Decline table daily refresh completed successfully Txt: 93957 rows deleted. 94680 rows created.
+2001-09-11 05:48:09 Metrocall [0125273] C  ALPHA  --- PARODIUS --- Subject: Your profile is restored. DBA Online GS notice From: dba@wargaming.net
+2001-09-11 05:48:09 Metrocall [1064376] C  ALPHA  GOVPX TREASURY 30__99.05+/06+5.432 10_101.06+/07+4.845 5Y_101.07+/.....3$....o.....&.............................    3M   3.172/162
+2001-09-11 05:48:16 Metrocall {1139169} 4 2400 3448090....
+2001-09-11 05:48:25 Arch [1164259] A  ALPHA  From Rodney Middleton Sub:TCPIP bounce at DC's 6003, 08, 27 and 35 completed at 03:25. IPL of WMP4 on SAH res completed at 04:09. No impacting issues. 
+2001-09-11 05:48:25 Arch [0844432] A  ALPHA  root <root@local|Host UCB-e0/0 is UP!|***** NetSaint 0.0.4 *****\n\nHost "e0/0 63.136.160
+2001-09-11 05:48:25 Arch [1050266] C  ALPHA  From Rodney Middleton Sub:TCPIP bounce at DC's 6003, 08, 27 and 35 completed at 03:25. IPL of WMP4 on SAH res completed at 04:09. No impacting issues. 
+2001-09-11 05:48:25 Arch [0975978] C  ALPHA  From Rodney Middleton Sub:TCPIP bounce at DC's 6003, 08, 27 and 35 completed at 03:25. IPL of WMP4 on SAH res completed at 04:09. No impacting issues. 
+2001-09-11 05:48:25 Arch [0967286] B  ALPHA  From Rodney Middleton Sub:TCPIP bounce at DC's 6003, 08, 27 and 35 completed at 03:25. IPL of WMP4 on SAH res completed at 04:09. No impacting issues. 
+2001-09-11 05:48:26 Arch [0844432] A  ALPHA  .1" is UP!\n\nDate/Time: Tue Sep 11 05:38:59 2001 \n 
+2001-09-11 05:48:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9800
+2001-09-11 05:48:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3448
+2001-09-11 05:48:31 Skytel [005416066] A  ALPHA  From: Marvin Ara  150 pieces of the 8.25 Case left Paramount at 05:22 AM
+2001-09-11 05:48:31 Skytel [007083149] D SH/TONE 229229  
+2001-09-11 05:48:32 Arch [0555028] B  ALPHA  root <root@local|Host UCB-e0/0 is UP!|***** NetSaint 0.0.4 *****\n\nHost "e0/0 63.136.160.1" is UP!\n\nDate/Time: Tue Sep 11 05:39:01 2001 \n 
+2001-09-11 05:48:32 Arch [0979240] C  ALPHA  From Rodney Middleton Sub:TCPIP bounce at DC's 6003, 08, 27 and 35 completed at 03:25. IPL of WMP4 on SAH res completed at 04:09. No impacting issues. 
+2001-09-11 05:48:33 Skytel [007049245] D  ALPHA  Auto1: MB=5.9 SOUTH ATLANTIC OCEAN  9/11  9:12:25 39.4S  52.6W  33  27 of  58 NB 19 Dm  94 UOAJ (67
+2001-09-11 05:48:33 Skytel [007554713] C  ALPHA  jrigsby1@us.ibm.com||NMCMGR/Pathmark/2374527/1-888-212-5447/Pathmark store 568 down due to power failure. This store has been down for 5 hours. DPE and EM have been contacted.  
+2001-09-11 05:48:35 Skytel [005060645] B  ALPHA  DUTYMGR> GWA: SEV1 RSCA application receiveing 404 errors after initial logon as of 01:40 MT. Support continues to work to resolve. No ETR - 1-866-814-2831
+2001-09-11 05:48:35 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb10 login content match error on step 2, http://192.168.67.173:7001/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain informa
+2001-09-11 05:48:36 Arch [0983449] C  ALPHA   Time to wake up!! 
+2001-09-11 05:48:36 Arch [0000101] B  ALPHA  MSN 002 hello Message from NOC PCB.
+2001-09-11 05:48:37 Skytel [005358000] A  ALPHA  NAIUnitedStatesCALIFORNIA@Dolch.com|ALERT -  GroupShield ticket number OA26_1000201685_CALIFORNIA was  generated|Action Taken: The attachment was quarantined from the message and replaced with a = text file informing the recipient of the ac
+2001-09-11 05:48:37 Skytel [002847797] B  ALPHA  DUTYMGR> GWA: SEV1 RSCA application receiveing 404 errors after initial logon as of 01:40 MT. Support continues to work to resolve. No ETR - 1-866-814-2831
+2001-09-11 05:48:37 Skytel [004105265] A  ALPHA  MOT 15.00 +0.71 LFUS 24.50 -0.45 QCOM 50.97 +1.79 VRLK 2.05 -0.06
+2001-09-11 05:48:38 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178635. 
+2001-09-11 05:48:38 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSTRD_EDGNY1) *** VERY SERIOUS Blocking in PDSTRD_EDGNY1 - block time=4674 > 600 secs - Tue Sep 11 05:48:28 EDT 2001 @05:48 09/11/01 
+2001-09-11 05:48:38 Metrocall {1254933} 3 2400 67770...
+2001-09-11 05:48:38 Skytel [003904970] C  ALPHA  Venezuela Regulator: 5 More Days For AES/CANTV Decision[DJ NEWS]
+2001-09-11 05:48:38 Skytel [007555904] A  ALPHA  NAIUnitedStatesCALIFORNIA@Dolch.com|ALERT -  GroupShield ticket number OA26_1000201685_CALIFORNIA was  generated|Action Taken: The attachment was quarantined from the message and replaced with a = text file informing the recipient of the ac
+2001-09-11 05:48:38 Skytel [005048779] C  ALPHA  cbranch@us.ibm.com|SEV: 1 |Escalation Page: 4 Hour Sev: 1 Problem! Pathmark 2374527 Summary: Store 568 has been down for 5 hrs.  Informed DPE and EM that store has lost power. Sent Exec. Alert.  More updates to follow.  
+2001-09-11 05:48:38 Skytel [003481167] D ST NUM  614-431-4302   
+2001-09-11 05:48:40 Arch [0970454] B  ALPHA  (23)SO:-*Summary-Calculation-Done(4:46:01
+2001-09-11 05:48:40 Skytel [007659868] D ST NUM  788-361-5831   
+2001-09-11 05:48:41 Arch [0970454] B  ALPHA  (24)SO:-*Start(4:46:03
+2001-09-11 05:48:42 Skytel [005132640] A  ALPHA  18) jrigsby1@us.ibm.com||NMCMGR/Pathmark/2374527/1-888-212-5447/Pathmark store 568 down due to power failure. This store has been down for 5 hours. DPE and EM have been contacted.  
+2001-09-11 05:48:42 Skytel [005436525] D  ALPHA  nMCI Test #29
+2001-09-11 05:48:42 Skytel [005112809] C  ALPHA  04:46CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240464: Uncorrectable write error
+2001-09-11 05:48:42 Skytel [004524770] A  ALPHA  spr-Concentra-01: CPE Up at 00:59:37 on 9/11
+2001-09-11 05:48:42 Skytel [002406381] D  ALPHA  INEL 0.00 UNCH CAG 22.83 +0.01 MCIC 0.00 UNCH KNE 0.00 UNCH
+2001-09-11 05:48:42 Skytel [005057390] D  ALPHA  al001dataaege:3.7.002 Service MSExchangeMTA (Microsoft Exchange Message Transfer Agent) Has Just Started.
+2001-09-11 05:48:43 Arch [0970454] B  ALPHA  (25)DI:-*Build-ANI-List(4:46:10
+2001-09-11 05:48:44 Skytel [002377208] C SH/TONE 4444    
+2001-09-11 05:48:44 Skytel [003782013] D  ALPHA  Auto1: MB=5.9 SOUTH ATLANTIC OCEAN  9/11  9:12:25 39.4S  52.6W  33  27 of  58 NB 19 Dm  94 UOAJ (64
+2001-09-11 05:48:46 Skytel [003947407] D SH/TONE 684-8855
+2001-09-11 05:48:46 Skytel [005545485] D SH/TONE 1701    
+2001-09-11 05:48:51 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1321..
+2001-09-11 05:48:52 Metrocall [1064374] B  ALPHA  25
+2001-09-11 05:48:55 Skytel [004547038] D SH/TONE 800-7473
+2001-09-11 05:48:57 Skytel [005330530] A ST NUM  8685222010

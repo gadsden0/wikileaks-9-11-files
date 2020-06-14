@@ -1,0 +1,168 @@
+2001-09-11 23:32:00 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7941
+2001-09-11 23:32:00 Skytel [007109749] B ST NUM  535-1701-11    
+2001-09-11 23:32:02 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-11 23:32:02 Arch [0921935] D  ALPHA  06-THIS IS DENNIS BURKE TRYING TO REACH FRED GOLINO'S PAGER #. PLEASE CALL ME AT 732-821-4005.
+2001-09-11 23:32:02 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190634. 
+2001-09-11 23:32:03 Skytel [007657362] A SH/TONE 75      
+2001-09-11 23:32:03 Skytel [007562775] B SH/TONE 08      
+2001-09-11 23:32:03 Skytel [005254677] B  ALPHA  bigbrother@storednetworks.com|SSH login|index[11463]: User admin from 192.168.1.3 successfully logged in!  
+2001-09-11 23:32:03 Skytel [002861584] A ST NUM  8685227799
+2001-09-11 23:32:04 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-11 23:32:05 Arch [0987275] C  ALPHA  s0191: 09/11 15:41:26 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:41:26
+2001-09-11 23:32:05 Arch [100158415] D  ALPHA  818 384-0051
+2001-09-11 23:32:05 Skytel [005001895] B  ALPHA  [sps/58] 100 supplier.intel.com relay-rialto105 0 Error:relay-rialto105.mpi did not return a valid Metrios API response coderunning (sps/58) 2:18:54
+2001-09-11 23:32:06 Skytel {1854552} 3 2400 800-445-7114   
+2001-09-11 23:32:06 Skytel {1092655} 3 2400 002589    
+2001-09-11 23:32:06 Skytel {0095168} 3 2400 504-678-4981   
+2001-09-11 23:32:07 Skytel {0399196} 1 1200 916-449-3325   
+2001-09-11 23:32:08 Metrocall [002272465] A  ALPHA  Frm: HPOV Sub: NOTICE Txt: NodeUp agsrouter1.nutrasweet.com 23:31:48 [1] private.enterprises.hp.nm.17.= 2.1.0
+2001-09-11 23:32:08 Metrocall [1064374] B  ALPHA  YEN  119.33/38 -039 EUR  0.9109/14 +006 CHF  1.6400/50 -005 GB
+2001-09-11 23:32:08 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4511
+2001-09-11 23:32:10 Metrocall [0525954] A  ALPHA  HTTP:Chelmick at 10.17.1.52 is DOWN.
+2001-09-11 23:32:10 Metrocall [1064374] B  ALPHA  P  1.4730/60 -021 CAD  1.5620/30 -017 AUD  0.5170/75 -025  NZD  0.4269/79 -036 DEM  2.1460/71 -014  E/C  1.4991/96 +000 E/Y  108.99/09 +000 E/S  0.6163/66 -029 USD     113.28 -010
+2001-09-11 23:32:17 Metrocall [1865022] D  ALPHA  Frm: SMTPPAGE@gulfaero.com Sub: SILO Txt: SUBPOOL STANDARD, 86 SCRATCH VOLUMES REMAINING 09/11/01 23:32:17
+2001-09-11 23:32:18 Arch [0978397] D  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:18 Arch [1050266] C  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:18 Arch [1164259] A  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:19 Metrocall [1544820] B  ALPHA  HON-NS2 IW Monitor "Server HON-NS2/HI/DSVR/KAIPERM - Mail.box has had 159 documents for at least 10 mins. Further investigation may be required. <MESSAGE> "
+2001-09-11 23:32:22 Arch [0968701] D  ALPHA  |P1 CLOSE PENDING #4244953 |sjc-i2prod and Demand Planning tool are up. Support replaced corrupted server with development server to restore service. OUTAGE START: 11 Sep 12:32 PT END: 11 Sep 20:31 PT Ops 408.527.0007 |218  
+2001-09-11 23:32:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0864
+2001-09-11 23:32:22 Arch [0987275] C  ALPHA  s0191: 09/11 15:47:33 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:47:34
+2001-09-11 23:32:22 Arch [1051823] D  ALPHA  |P1 CLOSE PENDING #4244953 |sjc-i2prod and Demand Planning tool are up. Support replaced corrupted server with development server to restore service. OUTAGE START: 11 Sep 12:32 PT END: 11 Sep 20:31 PT Ops 408.527.0007 |218  
+2001-09-11 23:32:22 Arch [0960178] A  ALPHA  65-303-327-3211, ROOM 112.
+2001-09-11 23:32:22 Arch [1749363] A  ALPHA  |P1 CLOSE PENDING #4244953 |sjc-i2prod and Demand Planning tool are up. Support replaced corrupted server with development server to restore service. OUTAGE START: 11 Sep 12:32 PT END: 11 Sep 20:31 PT Ops 408.527.00
+2001-09-11 23:32:24 Arch [0987275] C  ALPHA  s0191: 09/11 15:50:15 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:50:16
+2001-09-11 23:32:24 Arch [0942799] D  ALPHA  |P1 CLOSE PENDING #4244953 |sjc-i2prod and Demand Planning tool are up. Support replaced corrupted server with development server to rest
+2001-09-11 23:32:24 Arch [0333225] C  ALPHA  |P1 CLOSE PENDING #4244953 |sjc-i2prod and Demand Planning tool are up. Support replaced corrupted server with development server to restore service. OUTAGE START: 11 Sep 12:32 PT END: 11 Sep 20:31 PT Ops 408.527.0007 |218  
+2001-09-11 23:32:24 Arch [0983314] A  ALPHA  |P1 CLOSE PENDING #4244953 |sjc-i2prod and Demand Planning tool are up. Support replaced corrupted server with development server to restore service. OUTAGE START: 11 Sep 12:32 PT END: 11 Sep 20:31 PT Ops 408.527.0007 |218  
+2001-09-11 23:32:24 Arch [1749363] A  ALPHA  07 |218  
+2001-09-11 23:32:24 Arch [1050351] D  ALPHA  |P1 CLOSE PENDING #4244953 |sjc-i2prod and Demand Planning tool are up. Support replaced corrupted server with development server to restore service. OUTAGE START: 11 Sep 12:32 PT END: 11 Sep 20:31 PT Ops 408.527.0007 |218  
+2001-09-11 23:32:26 Arch [0942799] D  ALPHA  ore service. OUTAGE START: 11 Sep 12:32 PT END: 11 Sep 20:31 PT Ops 408.527.0007 |218  
+2001-09-11 23:32:26 Arch [0987275] C  ALPHA  sb3: INFO0002 - Trade Count Mismatch Ora=825 Rec=0 (160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:52
+2001-09-11 23:32:28 Arch [0899336] C  ALPHA  504-4924
+2001-09-11 23:32:30 Metrocall [002619200] A  ALPHA  Frm: NC1@enron.com Sub: Txt: eol-cx-dmz19 2001 Sep 11 22:32:11 CDT -05:00 %IP-3-UDP_SOCKOVFL:UDP socket 32794 overflow 192.216.56.19 Tue Sep 11 22:33:21 2001
+2001-09-11 23:32:31 Metrocall [002619200] A  ALPHA  Frm: NC1@enron.com Sub: Txt: eol-cx-dmz20 2001 Sep 11 22:32:04 CDT -05:00 %IP
+2001-09-11 23:32:31 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3120
+2001-09-11 23:32:32 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3120
+2001-09-11 23:32:32 Metrocall [002619200] A  ALPHA  -3-UDP_SOCKOVFL:UDP socket 32794 overflow 192.216.56.20 Tue Sep 11 22:33:13 2001
+2001-09-11 23:32:32 Skytel [005404289] A ST NUM  638-0894 (12   
+2001-09-11 23:32:32 Skytel [005240334] D SH/TONE 7866    
+2001-09-11 23:32:32 Skytel [002363657] C SH/TONE 7869    
+2001-09-11 23:32:32 Skytel [005508740] B  ALPHA  OLA790TA HAS MISSED ITS TARGET END TIME
+2001-09-11 23:32:33 Arch [1034476] D  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:33 Arch [0983275] C  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:33 Arch [0926767] D  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:33 Arch [0976989] D  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:33 Arch [0975978] C  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:33 Arch [0570073] C  ALPHA  <379> GOLDSTEIN 732-370-1392 PLEASE CALL
+2001-09-11 23:32:33 Arch [1210666] C  ALPHA  bb@nyroc.rr.com|!BB - 1314410! pwm-pwm-7246-3.ny|[1314410] 
+2001-09-11 23:32:33 Arch [1629007] D  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:33 Arch [0163974] B  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:33 Skytel [003414162] A SH/TONE 599-8480
+2001-09-11 23:32:33 Skytel [004085140] B ST NUM  455-5555-55    
+2001-09-11 23:32:33 Skytel [005358233] C ST NUM  901-359-8600-3119   
+2001-09-11 23:32:35 Arch [1210666] C  ALPHA  pwm-pwm-7246-3.nyroc.rr.com.pcdhcp red 20010911233201 Current DHCP Utilization: 95 percent 
+2001-09-11 23:32:35 Skytel [005209768] C SH/TONE 7171    
+2001-09-11 23:32:35 Skytel [007494826] C ST NUM  08776036744    
+2001-09-11 23:32:35 Skytel [004390827] C SH/TONE 7100    
+2001-09-11 23:32:35 Skytel [004435372] D SH/TONE 293-7603
+2001-09-11 23:32:37 Skytel [005110712] C SH/TONE 24      
+2001-09-11 23:32:37 Skytel [002868413] D  ALPHA  RTOP;MOP Troy;TOP-08:16 EDT;TOR-10:20 EDT;SCP-35;BPA-3.0 app;SAS-Up/IT team restart T svr, reboot prod svr;Pritpal;PH-2485777032;PG-8779743029;TK-19508242 -- From: GSS-MWD
+2001-09-11 23:32:37 Skytel [005384638] D  ALPHA  root@rifas23.desc.dla.mil|CRITICAL BACKUP FAILURE|rifas12-ora-p2wp Veritas Backup failed, Sep 11 23:32:38.  Veritas     Error # 1.  Must contact On-Call SA before     taking any action.  the requested operation was partially successful A pr
+2001-09-11 23:32:37 Skytel [004393273] C SH/TONE 238-4178
+2001-09-11 23:32:37 Skytel [004406706] A  ALPHA  PLEASE CONTACT ED CHASE AT 214 850 4984. AND GIVE STATUS ON YOUR LOCATION. 
+2001-09-11 23:32:37 Skytel [005492031] D ST NUM  515-606-2962   
+2001-09-11 23:32:37 Skytel [007022140] D ST NUM  303-2010-1
+2001-09-11 23:32:37 Skytel [003948848] A SH/TONE 766-3843
+2001-09-11 23:32:37 Skytel [007654461] D SH/TONE 247-5973
+2001-09-11 23:32:37 Skytel [007049147] C  ALPHA  aurora_nocmon@ascend.com|NOCMON: co7010spndb02:ping:DOWN  |Tue Sep 11 20:32:23 PDT 2001  co7010spndb02:ping:DOWN      
+2001-09-11 23:32:38 Metrocall [1028705] A  ALPHA  (609110568)30609110568,   HITCHCOCK'S FOODWAY cody spencer 352-528-4454 No ETA 2127 master register terminal has a error "E7622 target buzy message (0026)
+2001-09-11 23:32:39 Arch [0076486] B  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:39 Arch [1402923] C  ALPHA  ANDY, ARE YOU OK?  PLEASE CALL CHRISTINE 201-758-9663.
+2001-09-11 23:32:39 Arch [0921776] A  ALPHA  123108383979
+2001-09-11 23:32:39 Arch [0976352] A  ALPHA  (14)hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:39 Arch [1131960] C  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:39 Arch [0948216] C  ALPHA  (25)hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:39 Arch [0769433] C  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:39 Arch [1410805] B  ALPHA  (11)hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:39 Arch [0929241] C  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:39 Skytel [007567169] A  ALPHA  fyi: NYBPOP site down.  s/w Sharon/ncc aware. she said it is expected. ny osc not disp until city is opened.  Manny   
+2001-09-11 23:32:39 Skytel [007559878] B ST NUM  795-212-0699-11143  
+2001-09-11 23:32:39 Skytel [007583942] B ST NUM  708-225-1006   
+2001-09-11 23:32:39 Skytel [005244493] D ST NUM  U    *         * *  
+2001-09-11 23:32:40 Metrocall [1544820] B  ALPHA  WDC-MAIL04 "Server WDC-MAIL04/MSVR/KAIPERM - The following pending documents in mail1.box are older than 30 minutes 155572,155576,15557A"
+2001-09-11 23:32:40 Metrocall [1544820] B  ALPHA  HON-NS2 IW Monitor "Server HON-NS2/HI/DSVR/KAIPERM - Mail.box has had 159 documents
+2001-09-11 23:32:41 Skytel [003473362] A ST NUM  808-531-6735   
+2001-09-11 23:32:41 Skytel [005249751] B SH/TONE 301     
+2001-09-11 23:32:41 Skytel [007518930] A SH/TONE 942-7486
+2001-09-11 23:32:41 Skytel [002365520] A  ALPHA  PLEASE CALL SUDHEER AT 732-525-2962.
+2001-09-11 23:32:42 Metrocall [1544820] B  ALPHA   for at least 10 mins. Further investigation may be required. <MESSAGE> "
+2001-09-11 23:32:43 Arch [0000101] B  ALPHA  MSN 003 hello Message from NOC PCB.
+2001-09-11 23:32:43 Arch [0987275] C  ALPHA  s0191: 09/11 15:56:49 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:56:49
+2001-09-11 23:32:43 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 190641. 
+2001-09-11 23:32:43 Arch [1052482] A  ALPHA  |P1 CLOSE PENDING #4244953 |sjc-i2prod and Demand Planning tool are up. Support replaced corrupted server with development server to restore service. OUTAGE START: 11 Sep 12:32 PT END: 11 Sep 20:31 PT Ops 408.527.0007 |218  
+2001-09-11 23:32:43 Skytel [002774753] A ST NUM  08007598255    
+2001-09-11 23:32:43 Skytel [007660371] A SH/TONE 638-1692
+2001-09-11 23:32:43 Skytel [004718689] A ST NUM  623-937-1725   
+2001-09-11 23:32:43 Skytel [005330530] A ST NUM  8685222010
+2001-09-11 23:32:45 Arch [0987275] C  ALPHA  s0191: 09/11 16:02:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 16:02:48
+2001-09-11 23:32:45 Arch [0568640] A  ALPHA  |P1 CLOSE PENDING #4244953 |sjc-i2prod and Demand Planning tool are up. Support replaced corrupted server with de
+2001-09-11 23:32:45 Arch [1050357] B  ALPHA  |P1 CLOSE PENDING #4244953 |sjc-i2prod and Demand Planning tool are up. Support replaced corrupted server with development server to restore service. OUTAGE START: 11 Sep 12:32 PT END: 11 Sep 20:31 PT Ops 408.527.0007 |218  
+2001-09-11 23:32:45 Arch [1611906] A  ALPHA  |P1 CLOSE PENDING #4244953 |sjc-i2prod and Demand Planning tool are up. Support replaced corrupted server with development server to restore service. OUTAGE START: 11 Sep 12:32 PT END: 11 Sep 20:31 PT Ops 408.527.0007 |218  
+2001-09-11 23:32:45 Arch [0904130] A  ALPHA  |P1 CLOSE PENDING #4244953 |sjc-i2prod and Demand Planning tool are up. Support replaced corrupted server with development server to restore service. OUTAGE START: 11 Sep 12:32 PT END: 11 Sep 20:31 PT Ops 408.527.0007 |218  
+2001-09-11 23:32:45 Skytel [002739058] A SH/TONE 824-1707
+2001-09-11 23:32:45 Skytel [005340785] A ST NUM  736-947-0333   
+2001-09-11 23:32:45 Skytel [007058034] A ST NUM  466-500-8911   
+2001-09-11 23:32:45 Skytel [002264307] A SH/TONE 6801    
+2001-09-11 23:32:45 Skytel [004387575] B ST NUM  306-870-0621   
+2001-09-11 23:32:45 Skytel [005385718] B  ALPHA  root@rifas23.desc.dla.mil|CRITICAL BACKUP FAILURE|rifas12-ora-p2wp Veritas Backup failed, Sep 11 23:32:38.  Veritas   Error  # 1.  the requested operation was partially successful A problem that may require corrective action was d
+2001-09-11 23:32:45 Skytel [007556859] C  ALPHA  aurora_nocmon@ascend.com|NOCMON: co7010spndb02:ping:DOWN  |Tue Sep 11 20:32:23 PDT 2001  co7010spndb02:ping:DOWN      
+2001-09-11 23:32:45 Skytel [004060921] C ST NUM  797-1642 (14   
+2001-09-11 23:32:45 Skytel [007062907] C SH/TONE 340     
+2001-09-11 23:32:45 Skytel [0159866] C  ALPHA  HD: Please call bruce Clarkson at 336-668-5941 regarding Chicago.
+2001-09-11 23:32:46 Skytel [004708354] A  ALPHA  1 [153
+2001-09-11 23:32:46 Skytel [005385718] B  ALPHA  etected du
+2001-09-11 23:32:46 Skytel [002156407] B ST NUM  770-535-6834 (37    
+2001-09-11 23:32:47 Metrocall [0310072] C  ALPHA  2001-09-11 22:21:16 \JACS1TA.$S7O2A SSERIES.SSCPC02.D40 006397 IOAOUT process discarded 1 messages from PSg roudar vmsdIned VuN.vA.lA.lA.M@.(CU.}7.(
+2001-09-11 23:32:47 Metrocall [1064377] C  ALPHA  ?2.O..0..N..P..N..x".0. 6.@7@.0@9....@E.......F..F..P..O..,.H(..G.D%F........%..............
+2001-09-11 23:32:48 Arch [0568640] A  ALPHA  velopment server to restore service. OUTAGE START: 11 Sep 12:32 PT END: 11 Sep 20:31 PT Ops 408.527.0007 |218  
+2001-09-11 23:32:48 Arch [0915843] A  ALPHA  (23)hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:48 Arch [0987275] C  ALPHA  s0043: A
+2001-09-11 23:32:48 Arch [0507846] B  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:48 Arch [0900159] D  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:48 Arch [1284371] A  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:48 Arch [1612942] D  ALPHA  (11)hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:48 Skytel [002936978] A SH/TONE 00 (73  
+2001-09-11 23:32:48 Skytel [005351321] C ST NUM  620-482-0866   
+2001-09-11 23:32:48 Skytel [003483166] D SH/TONE 96951522
+2001-09-11 23:32:49 Arch [0922216] C  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:49 Arch [1408029] D  ALPHA  (13)hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:49 Metrocall [1544818] A  ALPHA  Server 'ORD-NS0 Disk.G.Free = 43841740800, min allowable: (45000000000)
+2001-09-11 23:32:49 Metrocall [0813352] C  ALPHA  Frm: Firehouse.Com Pager Notification Sub: Txt: Firehouse.com Breaking News: Officials now reporting that 265 firefighters and r
+2001-09-11 23:32:49 Metrocall [1224106] C  ALPHA  CAN'T SEEM TO GET THROUGH ON THE RADIO
+2001-09-11 23:32:49 Metrocall [1064377] C  ALPHA  714 -11 US  10514/10422 +00 SP107500/10140+0000 DJ _9630/_9665 +000 ND 13360/13820 +000 TY 10712+ FV 10616  TU 10328+
+2001-09-11 23:32:50 Arch [0987275] C  ALPHA  vailable swap space Decreases below 10.843800:FATAL:Sep 11, 2001 16:21
+2001-09-11 23:32:50 Skytel [003441441] A ST NUM  301-934-7257 (78    
+2001-09-11 23:32:51 Metrocall [0813352] C  ALPHA  escue personnel, plus dozens of other medical and police officers, perished in today's attacks in New Yor
+2001-09-11 23:32:52 Skytel [007493048] C ST NUM  08773326303    
+2001-09-11 23:32:54 Skytel [005420354] A ST NUM  01111 (12 
+2001-09-11 23:32:54 Skytel [003440838] B ST NUM  223-737-8135   
+2001-09-11 23:32:54 Skytel [008507076] B  ALPHA  01840h4b1ab010800002g
+2001-09-11 23:32:54 Skytel [007546830] D SH/TONE 07734   
+2001-09-11 23:32:56 Arch [0931795] A  ALPHA  |P1 CLOSE PENDING #4244953 |sjc-i2prod and Demand Planning tool are up. Support replaced corrupted server with development server to restore service. OUTAGE START: 11 Sep 12:32 PT END: 11 Sep 20:31 PT Ops 408.527.0007 |218  
+2001-09-11 23:32:56 Skytel [003262683] C  ALPHA  770-785-3079-71555
+2001-09-11 23:32:56 Skytel [007573847] B ST NUM  433-071-3119-091136 
+2001-09-11 23:32:56 Skytel [004530645] B ST NUM  77155417917339450849
+2001-09-11 23:32:56 Skytel [005004368] A  ALPHA  sysNETIQsvc: LON job(s) 231442 SLON10P00009 2001/09/12 04:31 EVENTLOG
+2001-09-11 23:32:56 Skytel [003256026] C  ALPHA  rstapl3@sears.com|PREQUAL Log File Attached: Successful|9/11/01 11:30:13 PM - Beginning generation of export files 9/11/01 11:30:13 PM - No Records found. Rolling back records and aborting r= un 9/11/01 11:30:13 PM - Beginning FTP 9/11/01 1
+2001-09-11 23:32:58 Arch [0909547] C  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:58 Arch [1428040] C  ALPHA   Sub:WTC UPDATE #11b  Msg:      WTC UPDATE #11b BEGINS AT 11PM ON TUE SEP 11, 2001    <?xml:namespace prefix = o ns = "urn:schemas-mic
+2001-09-11 23:32:58 Arch [0951623] B  ALPHA  EHS-itp02b219: (subehs): cdr_summary.ksh: CDR_SUMMARY CRITICAL ERROR
+2001-09-11 23:32:58 Arch [0978734] D  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:58 Arch [0900779] C  ALPHA   Sub:WTC UPDATE #11b  Msg:      WTC UPDATE #11b BEGINS AT 11PM ON TUE SEP 11, 2001    <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />            11:19p             msnbc  
+2001-09-11 23:32:58 Arch [0968156] D  ALPHA  hpmille 75734-B/L-  MB Upd - 1 of 3 - Sales Lift by DC/Item - draft report IN PROGRESS  Sent at 22:32      
+2001-09-11 23:32:58 Skytel [005436525] D  ALPHA  Test Lotus Notes #4-IX_T1706
+2001-09-11 23:32:59 Metrocall [002589297] A  ALPHA  Frm: 3147168@skytel.com Txt: Sleep Well ! I'm Here! We Are OK! You n Me Babes! Breathe easy 4 me! I hav your Hand! JBStavros
+2001-09-11 23:32:59 Metrocall [1544818] A  ALPHA  HON-NS2 IW Monitor "Server HON-NS2/HI/DSVR/KAIPERM - Mail.box has had 159 documents for at least 10 mins. Further
+2001-09-11 23:32:59 Metrocall [002117788] D  ALPHA  Frm: PRODLA Sub: Alarm Txt: T407 HIHI FEED RATE
+2001-09-11 23:32:59 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: winkops1 Sev:4 # 801032 NoValidDSMServerConnections BarnesAndNobleSM X.X 09/11/01 20:32:40 PDT7 Instance: PID_827_TID_1 Mod

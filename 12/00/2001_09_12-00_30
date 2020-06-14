@@ -1,0 +1,148 @@
+2001-09-12 00:30:00 Skytel [002817389] D  ALPHA  doma
+2001-09-12 00:30:00 Skytel [007109749] B ST NUM  911-740-0677   
+2001-09-12 00:30:00 Skytel [005507696] A ST NUM  730-261-3824 U (80  
+2001-09-12 00:30:01 Arch [1046041] C  ALPHA  t COMPLETE.  Sent at 23:29      
+2001-09-12 00:30:01 Arch [1608085] B  ALPHA  ammsprod2 AMMSWrite1Svc Broken
+2001-09-12 00:30:01 Arch [1398238] D  ALPHA  knox6060(161.44.216.60): failed ifDescr check, expected: hme0, got: timeout for hme0
+2001-09-12 00:30:01 Arch [0903077] B  ALPHA  eport COMPLETE.  Sent at 23:29      
+2001-09-12 00:30:01 Arch [0935720] C  ALPHA  CHRIS MATT GREGG 7759 w/area code 503-666-1328* PORTLAND OR COMPUTER ON FRITZ, SAYING
+2001-09-12 00:30:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7999
+2001-09-12 00:30:01 Arch [0899493] B  ALPHA  ammsprod2 AMMSWrite1Svc Broken
+2001-09-12 00:30:01 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 21:28:56 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 00:30:02 Metrocall [002563054] D  ALPHA  111/ 8 hr/ 253211026/ 1529/ Richardson Medical C/ 401 W Campbell Rd/ Richardson/ Rochelle Rose RX./ 972-498-4872/ MS2K located on the 5th floor. Drwr 2-10 requires maintenance. Drw will not open. Rx removed
+2001-09-12 00:30:02 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4569
+2001-09-12 00:30:02 Skytel [002423055] D  ALPHA  B
+2001-09-12 00:30:03 Arch [0950818] A  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report COMPLETE.  Sent at 23:29      
+2001-09-12 00:30:03 Arch [1044858] C  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft repor
+2001-09-12 00:30:03 Arch [1608085] B  ALPHA  ammsprod2 AMMSWrite3Svc Broken
+2001-09-12 00:30:03 Arch [0926807] B  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report COMPLETE.  Sent at 23:29      
+2001-09-12 00:30:03 Arch [0899493] B  ALPHA  ammsprod2 AMMSWrite3Svc Broken
+2001-09-12 00:30:03 Arch [0967263] D  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report COMPLETE.  Sent at 23:29      
+2001-09-12 00:30:03 Arch [0648251] C  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report COMPLETE.  Sent at 23:29      
+2001-09-12 00:30:03 Arch [1227827] A  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft repor
+2001-09-12 00:30:03 Skytel [007501977] C ST NUM  338-130-7143   
+2001-09-12 00:30:05 Skytel [003436448] A SH/TONE 3992    
+2001-09-12 00:30:05 Skytel [002397088] A ST NUM  6) 714-438-5555
+2001-09-12 00:30:06 Skytel {1660561} 3 2400 2125 
+2001-09-12 00:30:07 Arch [1044858] C  ALPHA  t COMPLETE.  Sent at 23:29      
+2001-09-12 00:30:07 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-12 00:30:07 Arch [0241791] D  ALPHA  (9)REQQ time limit exceeded for:PASSPORT_STK_J:12-sep-2001 00:13
+2001-09-12 00:30:07 Arch [1227827] A  ALPHA  t COMPLETE.  Sent at 23:29      
+2001-09-12 00:30:07 Arch [0241791] D  ALPHA  (10)REQQ time limit exceeded for:PASSPORT_FTW_N:12-sep-2001 00:18
+2001-09-12 00:30:07 Skytel {0000526} 1 1200 npac@halsted.chicago.npac.com||db in halsted has been restarted!  ..
+2001-09-12 00:30:09 Arch [1005985] A  ALPHA  --- Equipment ID [25290002] status change - interference Equipment ID [25290002]
+2001-09-12 00:30:09 Arch [0241791] D  ALPHA  (11)PASSPORT_STK_Q:12-sep-2001 00:19:Failure: DLCI does not exist
+2001-09-12 00:30:11 Arch [0241791] D  ALPHA  (12)REQQ time limit exceeded for:PASSPORT_OMH_H:12-sep-2001 00:18
+2001-09-12 00:30:12 Arch [0241791] D  ALPHA  (13)PASSPORT_CHA_C:12-sep-2001 00:19:Failure: DNA 31103842300280 does not exist
+2001-09-12 00:30:12 Arch [0945458] A  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report COMPLETE.  Sent at 23:29      
+2001-09-12 00:30:13 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 00:30:13 Arch [0917716] B  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report COMPLETE.  Sent at 23:29      
+2001-09-12 00:30:13 Arch [0967286] B  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report COMPLETE.  Sent at 23:29      
+2001-09-12 00:30:13 Arch [0983275] C  ALPHA  From Tim Evans Sub:624 update Msg:We are kicking off the jobs to 164 Home off
+2001-09-12 00:30:13 Arch [0942753] A  ALPHA  28-PLEASE CALL JENNIFER AT EXT 7217
+2001-09-12 00:30:13 Arch [0294758] B  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report COMPLETE.  Sent at 23:29      
+2001-09-12 00:30:14 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-12 00:30:14 Arch [0983275] C  ALPHA  ice workstations the remaining 460 are Intl.    Thank you,  Tim Evans      Confidential  Wal-Mart Stores, Inc.      
+2001-09-12 00:30:16 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-12 00:30:16 Arch [0284292] B  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report COMPLETE.  Sent at 23:29      
+2001-09-12 00:30:16 Arch [1017704] C  ALPHA  From Tim Evans Sub:624 update Msg:We are kicking off the jobs to 164 Home office workstations the remaining 460 are Intl.    Thank you,  Tim Evans      Confidential  Wal-Mart Stores, Inc.      
+2001-09-12 00:30:16 Arch [0950736] A  ALPHA  403-2647
+2001-09-12 00:30:16 Arch [0209124] B  ALPHA  From Tim Evans Sub:624 update Msg:We are kicking off the jobs to 164 Home office workstations the remaining 460 are Intl.    Thank you,  Tim Evans      Confidential  Wal-Mart Stores, Inc.      
+2001-09-12 00:30:16 Arch [0988031] D  ALPHA  From Tim Evans Sub:624 update Msg:We are kicking off the jobs to 164 Home office workstations the remaining 460 are Intl.    Thank you,  Tim Evans      Confidential  Wal-Mart Stores, Inc.      
+2001-09-12 00:30:18 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 00:30:21 Metrocall [1363779] A  ALPHA  AP:TX:L1:NTA15CK1 ABENDED WITH U0888 ON 1H02 - 00:30:Call 18007980784:SENDID# 1306 :
+2001-09-12 00:30:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0922
+2001-09-12 00:30:22 Arch [1398696] C  ALPHA  "Compaq" <exjug@|MOSXS2 : Device Accessible|MOSXS2:Device Accessible,Device Status:Ok 
+2001-09-12 00:30:22 Arch [1142036] B  ALPHA  "Compaq" <exjug@|MOSXS2 : Device Accessible|MOSXS2:Device Accessible,Device Status:Ok
+2001-09-12 00:30:23 Skytel {0460033} 1 1200 1733 
+2001-09-12 00:30:24 Arch [0935373] D  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report COMPLETE.  Sent at 23:29      
+2001-09-12 00:30:24 Arch [0981201] A  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft repor
+2001-09-12 00:30:24 Arch [0930870] B  ALPHA  hpmill..7..3$.B..-..M..2....................................................................................................23:29      
+2001-09-12 00:30:24 Arch [1660247] B  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft repor
+2001-09-12 00:30:24 Arch [0029240] C  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report COMPLETE.  Sent at 23:29      
+2001-09-12 00:30:24 Arch [0241791] D  ALPHA  (14)REQQ time limit exceeded for:PASSPORT_STK_H:12-sep-2001 00:19
+2001-09-12 00:30:24 Arch [0209124] B  ALPHA  ..o..l..7..3$.B.-..M..................................................................................................nt at 23:29      
+2001-09-12 00:30:24 Arch [0472551] B  ALPHA  (19)11pm tkt report...There are a total of 119 tkts, 109 on hold, 59 over the 240 min mark leav
+2001-09-12 00:30:26 Arch [0981201] A  ALPHA  t COMPLETE.  Sent at 23:29      
+2001-09-12 00:30:26 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-12 00:30:26 Arch [1660247] B  ALPHA  t COMPLETE.  Sent at 23:29      
+2001-09-12 00:30:26 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: PDSTRD_EDGNY1 Sybase  @00:30 09/12/01 
+2001-09-12 00:30:26 Arch [0241791] D  ALPHA  (15)PASSPORT_SPR_D:12-sep-2001 00:19:Failure - not in sqlplus
+2001-09-12 00:30:26 Arch [0472551] B  ALPHA  ing 10 open tkts...S/Suddarth 9/11/2001 11:28:58 PM
+2001-09-12 00:30:26 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <
+2001-09-12 00:30:27 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 00:30:27 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: PDSTRD_EDGNY1 7 lines of potential Sybase errors @00:30 09/12/01 
+2001-09-12 00:30:27 Arch [0241791] D  ALPHA  (16)PASSPORT_CHA_C:12-sep-2001 00:20:Failure: DNA 31103842300280 does not exist
+2001-09-12 00:30:27 Arch [1425048] C  ALPHA  SOCK_192.168.35.19> chunk 191299. 
+2001-09-12 00:30:29 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-12 00:30:29 Arch [0241791] D  ALPHA  (17)PASSPORT_CHA_C:12-sep-2001 00:22:Failure: DNA 31103842300280 does not exist
+2001-09-12 00:30:29 Arch [0936036] B  ALPHA  'lon-sls-rtr-s0' is unreachable. Circuit down?
+2001-09-12 00:30:31 Arch [0241791] D  ALPHA  (18)PASSPORT_CHA_C:12-sep-2001 00:25:Failure: DNA 31103842300280 does not exist
+2001-09-12 00:30:31 Arch [0902910] D  ALPHA  AMELGO_W@prom2.a|PROMIS message from PROM2::PROMW|.7Cht Point Type.0: CAP .7Chart ID.0: W01CUT .7Lot ID.0: General Da .7 DC OP.0: SAW01.01 .7 Data Entry Time.0: 11-SEP-2001 21 .7 Initiator.0: AMELGO_W
+2001-09-12 00:30:32 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3178
+2001-09-12 00:30:32 Metrocall [002117677] D  ALPHA  001 Error, ext_asr_recurring wdcpldb, ret_code = 1
+2001-09-12 00:30:32 Skytel [005236495] D ST NUM  110005052 
+2001-09-12 00:30:32 Skytel [007101314] A  ALPHA  naetsrvr@naet.atl.hp.com|"CALLBK ON AMs01-0823-104836/ thanks Rosemarie PLS CALL 1-800-731-5544 TO CONFRM"|"CALLBK ON AMs01-0823-104836/ thanks Rosemarie PLS CALL 1-800-731-5544 TO CONFRM"  
+2001-09-12 00:30:33 Skytel [005137823] D SH/TONE 99      
+2001-09-12 00:30:33 Skytel [004592924] D ST NUM  1003869844
+2001-09-12 00:30:33 Skytel [003070998] B ST NUM  02772 (79 
+2001-09-12 00:30:33 Skytel [004534296] C ST NUM  0-177-401-7736-4143 
+2001-09-12 00:30:33 Skytel [007588636] D SH/TONE 3306    
+2001-09-12 00:30:35 Skytel [007032481] A ST NUM  614-564-8366   
+2001-09-12 00:30:37 Arch [0901982] D  ALPHA  3052734124-911
+2001-09-12 00:30:37 Arch [1046295] B  ALPHA  |ILS: Notes #B828481 for LOCKHEED MARTIN SERVICES, contract 1084099, P1 |This is an ILS summary notification for case B828481 Event: Notes #B828481, Priority 1 Event Time: 11 September 2001 21:30:42 Title: 9/11:US WORLD ATTACK PARTS  -1/3
+2001-09-12 00:30:37 Arch [0966655] D  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report COMPLETE.  Sent at 23:29      
+2001-09-12 00:30:37 Skytel [007022641] A SH/TONE 111111  
+2001-09-12 00:30:37 Skytel [007069367] B  ALPHA  no_reply@katewwdb.com|CommuniKate voice 21:30|45 sec voice msg from Steve Limber 1-888-297-9288 in m
+2001-09-12 00:30:37 Skytel [003955259] C ST NUM  0-707-453-0870 
+2001-09-12 00:30:39 Arch [1046295] B  ALPHA  REQUEST Site: LOCKHEED MARTIN SERVICES * Contact: RANDY WOOD * Phone/Email: 703 484 5619 / rwoodiii@cisco.com * Contract: 1084099 Case Owner: SSEGAL @ 14085265744 ILS Subscription Information: * Subscriber: rosummey@cisco.com (Contact  -2/3
+2001-09-12 00:30:39 Skytel [004570304] A  ALPHA  _sqlsvc@compasstools.com|2-Leads| 
+2001-09-12 00:30:39 Skytel [007559878] B ST NUM  795-212-0699-11
+2001-09-12 00:30:39 Skytel [007459013] B ST NUM  18007243624    
+2001-09-12 00:30:39 Skytel [005213129] C SH/TONE 4021    
+2001-09-12 00:30:40 Metrocall [002567097] C  ALPHA  Schleicher N-1: KFC Nashv AC 1 DISCH  COOLFAIL
+2001-09-12 00:30:40 Metrocall [1192086] B  ALPHA  <0001> DR WASHINGTON (704)548-5606
+2001-09-12 00:30:41 Arch [1046295] B  ALPHA  this person to unsubscribe.) * ILS Event: Update * Conditions: Contract ID: 1084099 * Recipients: rosummey@epage.cisco.com * Send e-mails Always * Expires Never * Time Sent|640   -3/3
+2001-09-12 00:30:41 Skytel [007658960] A SH/TONE 833-3168
+2001-09-12 00:30:41 Skytel [004533457] A ST NUM  0-888-852-8554 
+2001-09-12 00:30:41 Skytel [007569239] B SH/TONE 25585   
+2001-09-12 00:30:41 Skytel [005080664] C  ALPHA  hpmille 75734-B/L-  MB 23:00 Upd - 3 of 3 - Top Selling Items with "Disaster Item" Baskets - draft report COMPLETE.  Sent at 23:29      
+2001-09-12 00:30:41 Skytel [007518930] A SH/TONE 3019986 
+2001-09-12 00:30:41 Skytel [004682718] D SH/TONE 948-2662
+2001-09-12 00:30:43 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-12 00:30:43 Skytel [007659754] C ST NUM  08007243624    
+2001-09-12 00:30:44 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 00:30:44 Arch [1046295] B  ALPHA  |ILS: Notes #B828481 for LOCKHEED MARTIN SERVICES, contract 1084099, P1 |This is an ILS summary notification for case B828481 Event: Notes #B828481, Priority 1 Event Time: 11 September 2001 21:30:42 Title: 9/11:US WORLD ATTACK 
+2001-09-12 00:30:45 Skytel [005322866] A  ALPHA  VOICE MESSAGE [2044
+2001-09-12 00:30:45 Skytel [003451125] B SH/TONE 329-5822
+2001-09-12 00:30:45 Skytel [003414269] D ST NUM  223-780-1081   
+2001-09-12 00:30:47 Skytel [004540174] D ST NUM  872-224-9544   
+2001-09-12 00:30:49 Metrocall [1192076] D  ALPHA  LP SWATupdate: As of 12:10  LP was brought back up.  Support teams are monitoring the system.  We are still investigating the route cause of the problem with re2xlpef.  case#511098
+2001-09-12 00:30:50 Arch [1046295] B  ALPHA  REQUEST Site: LOCKHEED MARTIN SERVICES * Contact: RANDY WOOD * Phone/Email: 703 484 5619 / rwoodiii@cisco.com * Contract: 1084099 Case Owner: SSEGAL @ 14085265744 ILS Subscription Information: * Subscriber: rosummey@cisco.com (Contact  -2/3
+2001-09-12 00:30:50 Skytel [007456682] C SH/TONE 14444   
+2001-09-12 00:30:50 Skytel [005114154] C  ALPHA  MAUIPCL@oxygen.sps.mot.com|NONE|{FARNSWE SENT:PLEASE CALL ME AT 3079....THANKS ERIC}  
+2001-09-12 00:30:52 Arch [1046295] B  ALPHA  this person to unsubscribe.) * ILS Event: Update * Conditions: Contract ID: 1084099 * Recipients: rosummey@epage.cisco.com * Send e-mails Always * Expires Never * Time Sent|640   -3/3
+2001-09-12 00:30:52 Skytel [004732475] C ST NUM  459-247-3911   
+2001-09-12 00:30:52 Skytel [003519934] D SH/TONE 428-9344
+2001-09-12 00:30:54 Arch [1046295] B  ALPHA  |ILS: Notes #B828481 for LOCKHEED MARTIN SERVICES, contract 1084099, P1 |This is an ILS summary notification for case B828481 Event: Notes #B828481, Priority 1 Event Time: 11 September 2001 21:30:56 Title: 9/11:US WORLD ATTACK PARTS  -1/3
+2001-09-12 00:30:54 Arch [1622180] B  ALPHA  1
+2001-09-12 00:30:54 Arch [0965941] B  ALPHA  647-1350
+2001-09-12 00:30:54 Arch [0847875] A  ALPHA  <NetIQ@navair.na|NetIQ Event from NESM01 - Machin|Machine Down - nems29 _ Cannot connect to registry of machine nems29 Check domain privilege for the MC users 
+2001-09-12 00:30:54 Arch [0915737] C  ALPHA  <NetIQ@navair.na|NetIQ Event from NESM01 - Machin|Machine Down - nems29 _ Cannot connect to registry of machine nems29 Check domain privilege for the MC users 
+2001-09-12 00:30:54 Skytel [003661772] D  ALPHA  'cdnow#2.2175.76-5vrrs4bz3qfd.1@cda01.cdnow.com|new releases at cdnow!|Dear Linda, CDNOW presents: music and movies for your listening and viewing pleasure. Al ways new, always hot: ___________________________   (28
+2001-09-12 00:30:56 Arch [1046295] B  ALPHA  REQUEST Site: LOCKHEED MARTIN SERVICES * Contact: RANDY WOOD * Phone/Email: 703 484 5619 / rwoodiii@cisco.com * Contract: 1084099 Case Owner: SSEGAL @ 14085265744 ILS Subscription Information: * Subscriber: rosummey@cisco.com (Contact  -2/3
+2001-09-12 00:30:56 Skytel [004040020] B  ALPHA  785-267-1672
+2001-09-12 00:30:57 Arch [0937269] B  ALPHA  t 2300 p 765 a 613 ab 7% nxthr 17 sl 85 ci 86 et 88 ho 84 p 83/jh
+2001-09-12 00:30:57 Arch [0162790] B  ALPHA  t 2300 p 765 a 613 ab 7% nxthr 17 sl 85 ci 86 et 88 ho 84 p 83/jh
+2001-09-12 00:30:57 Arch [1339369] C  ALPHA  t 2300 p 765 a 613 ab 7% nxthr 17 sl 85 ci 86 et 88 ho 84 p 83/jh
+2001-09-12 00:30:58 Arch [0905928] C  ALPHA  t 2300 p 765 a 613 ab 7% nxthr 17 sl 85 ci 86 et 88 ho 84 p 83/jh
+2001-09-12 00:30:58 Arch [1446678] B  ALPHA  t 2300 p 765 a 613 ab 7% nxthr 17 sl 85 ci 86 et 88 ho 84 p 83/jh
+2001-09-12 00:30:58 Arch [1046295] B  ALPHA  |ILS: Notes #B828481 for LOCKHEED MARTIN SERVICES, contract 1084099, P1 |This is an ILS summary notification for case B828481 Event: Notes #B828481, Priority 1 Event Time: 11 September 2001 21:30:43 Title: 9/11:US WORLD ATTACK PARTS  -1/3
+2001-09-12 00:30:58 Skytel [005484771] A ST NUM  0-219-757-6903 
+2001-09-12 00:30:58 Skytel [005436525] D  ALPHA  Test #50
+2001-09-12 00:30:58 Skytel [007641961] C ST NUM  508-944-3216   
+2001-09-12 00:30:58 Skytel [002817389] D  ALPHA  CISCO_VPN@fema.gov|VPN3000 Concentrator Alert (mwvpn)|5946 09/12/2001 00:27:56.910 SEV=3 AUTH/5 RPT=12 198.182.163.109 Authentication rejected: Reason = Account disabled or lockedhandle = 318, server = 166.112.217.148, user = jmaloney, doma
+2001-09-12 00:30:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8000
+2001-09-12 00:30:59 Arch [0905928] C  ALPHA  t 0000 p 782 a 626 ab 7% sl 85 ci 85 et 88 ho 81 p 83/jh
+2001-09-12 00:30:59 Arch [1046295] B  ALPHA  this person to unsubscribe.) * ILS Event: Update * Conditions: Contract ID: 1084099 * Recipients: rosummey@epage.cisco.com * Send e-mails Always * Expires Never * Time Sent|640   -3/3
+2001-09-12 00:30:59 Metrocall [002589345] A  ALPHA  111/ 8 hr/ 253205425/ 1043/ Pitt County Memorial/ 2100 Stantonsburg Rd/ Greenville/ Matt Pilgreen RX/ 252-816-4256/ 09/11/2001 20:56 lemoore - MS 2000 loc: 1E Drawer 3 had failed and needs maint they have

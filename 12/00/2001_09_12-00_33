@@ -1,0 +1,114 @@
+2001-09-12 00:33:00 Skytel [005479665] A ST NUM  603-837-0721 (91    
+2001-09-12 00:33:00 Skytel [007109749] B SH/TONE 76715   
+2001-09-12 00:33:00 Skytel [007658740] B SH/TONE 632-0853
+2001-09-12 00:33:00 Skytel [007658468] B ST NUM  569-233-8984   
+2001-09-12 00:33:00 Skytel [005254005] B  ALPHA  System: rsmd18, Account: rswwwp Region: PROD >> Disk used % for /clients/IVR/home/rswwwp/work is 86; > than 80
+2001-09-12 00:33:01 Arch [0987275] C  ALPHA  s0191: 09/11 16:02:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 16:02:48
+2001-09-12 00:33:01 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191327. 
+2001-09-12 00:33:01 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: winkops1 Sev:4 # 801032 NoValidDSMServerConnections BarnesAndNobleSM X.X 09/11/01 21:32:42 PDT7 Instance: PID_827_TID_1 Module: _checkConnectivity Details: Unable to connect to any DSM Servers. Will not proceed.
+2001-09-12 00:33:01 Skytel [004079880] C ST NUM  71015 (55 
+2001-09-12 00:33:01 Skytel [005225860] B SH/TONE 125     
+2001-09-12 00:33:03 Skytel [002936978] A ST NUM  608-873-6645 (74    
+2001-09-12 00:33:03 Skytel [002401821] D  ALPHA  146.22.45.222 ASOOMG1A CDCJ XCHN WARNING: CHANNEL PATH 5F IS NOT OPERATIONAL ussa11.SSMC 
+2001-09-12 00:33:03 Skytel [004437913] C SH/TONE 2075    
+2001-09-12 00:33:03 Skytel [005087509] B  ALPHA  626-327-7308 [5471.HOGAN NICOLE J      
+2001-09-12 00:33:05 Skytel [005001895] B  ALPHA  [sps/1] 200 supplier.intel.com relay 0.242 OK Successful ASP Ping(/metrios/aspcheck.asp) 2:39:26
+2001-09-12 00:33:05 Skytel [003897383] B  ALPHA  mel63@palm.net|Dayton - MyPalm Trip Reminder|MyPalm Reminder ~~~~~~~~~~~~~~~  Melissa Alwood is reminding you about a trip in her MyPalm calendar. The details are provided below.  Title: Dayton Date: September 13, 2001 (All Day)  Notes: Vis
+2001-09-12 00:33:05 Skytel [004584963] A ST NUM  992-1294-26 (3529   
+2001-09-12 00:33:05 Skytel [005244073] C SH/TONE 363-7967
+2001-09-12 00:33:06 Skytel {0099016} 1 1200 2320 
+2001-09-12 00:33:06 Skytel {0446673} 3 1200 978-263-1323  11    
+2001-09-12 00:33:06 Skytel {1093643} 3 1200 895-229-8745-23
+2001-09-12 00:33:15 Skytel {0707893} 3 2400 8007598255
+2001-09-12 00:33:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0925
+2001-09-12 00:33:22 Arch [1398696] C  ALPHA  312 MOSXS2:Device Inaccessible
+2001-09-12 00:33:29 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3181
+2001-09-12 00:33:29 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3181
+2001-09-12 00:33:32 Skytel [003920778] C  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:32 Skytel [002747781] B SH/TONE 52623   
+2001-09-12 00:33:32 Skytel [003250311] B  ALPHA  SMT:VA:L3:GCPADMIN: 83886512: ERROR PROCESSING FILE /U/GCPP/GCPFILES/OKACHTN001.DAT /U/GCPP/GCPFILES:Call 8882917023:SENDID# 1940 : 
+2001-09-12 00:33:33 Arch [0987275] C  ALPHA  s0191: 09/11 11:42:59 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:42:59
+2001-09-12 00:33:33 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191334. 
+2001-09-12 00:33:33 Skytel [004209811] A ST NUM  580-539-6778 (83    
+2001-09-12 00:33:35 Arch [0987275] C  ALPHA  s0191: 09/11 11:48:17 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:48:18
+2001-09-12 00:33:35 Skytel [002859682] A  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:35 Skytel [002366500] B  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:35 Skytel [005307435] C SH/TONE 677-6510
+2001-09-12 00:33:35 Skytel [003257632] A  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:35 Skytel [002279468] D SH/TONE 5333    
+2001-09-12 00:33:35 Skytel [002850983] B SH/TONE 749-0374
+2001-09-12 00:33:37 Arch [0987275] C  ALPHA  s0191: 09/11 11:56:22 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:56:22
+2001-09-12 00:33:37 Skytel [005343922] A SH/TONE 70569   
+2001-09-12 00:33:37 Skytel [002840766] D  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:37 Skytel [002370483] A ST NUM  9007598255
+2001-09-12 00:33:37 Skytel [007031216] A  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:37 Skytel [003260990] D  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:37 Skytel [005061043] A  ALPHA  36) SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:39 Arch [0987275] C  ALPHA  s0191: 09/11 11:59:03 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:59:03
+2001-09-12 00:33:39 Skytel [003273670] B ST NUM  614-438-5555 (48    
+2001-09-12 00:33:39 Skytel [005210183] B  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:39 Skytel [007035572] B  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:40 Metrocall [1028429] D  ALPHA  (309120003)30309120003,   DENNY'S #D0128 OSCAR (TY) 760-352-2576 09120126 4695-012 LN3 TOUCH SCREEN IS BLACK 24H TECH CALL STORE W/ETA
+2001-09-12 00:33:41 Arch [0000101] B  ALPHA  MSN 032 hello Message from NOC PCB.
+2001-09-12 00:33:41 Skytel [003256026] C  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:41 Skytel [005044315] C SH/TONE 1780    
+2001-09-12 00:33:42 Arch [0935971] A  ALPHA  System Attendant|LAXEYEMLACAAX02 Alert since 9/11|LAXEYEMLACAAX02 Alert since 9/11/01 10:28 PM A message was due on 9/11/01 11:08 PM. 
+2001-09-12 00:33:42 Arch [0987275] C  ALPHA  s0191: 09/11 12:04:03 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:04:03
+2001-09-12 00:33:43 Skytel [005040100] B  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:43 Skytel [005389286] B ST NUM  677-777-7777   
+2001-09-12 00:33:43 Skytel [002778474] C SH/TONE 377-0777
+2001-09-12 00:33:43 Skytel [003462889] C ST NUM  801-387-2612   
+2001-09-12 00:33:43 Skytel [002739304] C ST NUM  803-552-9875   
+2001-09-12 00:33:43 Skytel [007589225] C SH/TONE 3375    
+2001-09-12 00:33:43 Skytel [007047533] D  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:44 Arch [0935971] A  ALPHA  System Attendant|SFRKPIXTVCAAX02 Alert since 9/11|SFRKPIXTVCAAX02 Alert since 9/11/01 10:28 PM A message was due on 9/11/01 11:08 PM. 
+2001-09-12 00:33:44 Arch [0987275] C  ALPHA  s0191: 09/11 12:12:06 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:12:07
+2001-09-12 00:33:44 Arch [0960572] D  ALPHA  01-PLEASE CALL JULIE.
+2001-09-12 00:33:44 Metrocall [1466337] A  ALPHA  09/11@23:33:25 DALBK01-SNMP:cjFailureTrap: ipProductName: Backup Exec: Job Failed, cjJobName: DALBK01, cjJobFailureMessage: DALNT05 Source: 165.97.10.101
+2001-09-12 00:33:44 Metrocall [1585567] D  ALPHA  Frm: STARBASE-21 Sub: FW: Fast, Free, Instant Life Insurance Quotes Txt: Darren Ehlers
+2001-09-12 00:33:44 Metrocall [1111466] C  ALPHA  09/11@23:33:25 DALBK01-SNMP:cjFailureTrap: ipProductName: Backup Exec: Job Failed, cjJobName: DALBK01, cjJobFailureMessage: DALNT05 Source: 165.97.10.101
+2001-09-12 00:33:44 Metrocall [002568894] D  ALPHA  1/02:This is an update of ticket 116971 on the following system(s):  SITE CIRCUIT O
+2001-09-12 00:33:45 Metrocall [1585567] D  ALPHA  , CEO STARBASE-21, Inc. -- http://miva.starbase21.com/ Want to learn more about Merchant and our modules? Check out our Conference Center -- http://live.starbase21.
+2001-09-12 00:33:45 Metrocall [002568894] D  ALPHA  UTAGE.  The target repair time is Cranbury - 220 restored, Plymouth - 064 a
+2001-09-12 00:33:45 Skytel [005060606] D  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:45 Skytel [003438449] A SH/TONE 911     
+2001-09-12 00:33:45 Skytel [005045887] D  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219  
+2001-09-12 00:33:45 Skytel [007035519] D  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:45 Skytel [007085430] B SH/TONE 247-5481
+2001-09-12 00:33:45 Skytel [005490297] C ST NUM  223-753-5681   
+2001-09-12 00:33:45 Skytel [004550270] D  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:45 Skytel [007573886] D SH/TONE 333     
+2001-09-12 00:33:45 Skytel [007582590] D ST NUM  728-406-3014   
+2001-09-12 00:33:45 Skytel [007035508] B  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:46 Skytel [005045887] D  ALPHA               
+2001-09-12 00:33:46 Skytel [004602627] A SH/TONE 143143  
+2001-09-12 00:33:47 Metrocall [002568894] D  ALPHA  nd Providence - 292 sites still down..  The root cause is Terrorist Attack in NY.
+2001-09-12 00:33:47 Skytel [005191053] D  ALPHA  MSFT 57.58 UNCH
+2001-09-12 00:33:47 Skytel [007035523] A  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:48 Arch [0935971] A  ALPHA  CHIWBBMTVILAX01 Alert since 9/11/01 10:28 PM A message was due on 9/11/01 11:08 PM. 
+2001-09-12 00:33:48 Skytel [007465749] B ST NUM  872-395-3575   
+2001-09-12 00:33:48 Skytel [003923613] D SH/TONE 3981    
+2001-09-12 00:33:48 Skytel [002736665] C ST NUM  988-630-9333   
+2001-09-12 00:33:50 Arch [0935971] A  ALPHA  System Attendant|CHIWBBMTVILAX03 Alert since 9/11|CHIWBBMTVILAX03 Alert since 9/11/01 10:28 PM A message was due on 9/11/01 10:48 PM. 
+2001-09-12 00:33:50 Arch [0987275] C  ALPHA  s0191: 09/11 12:14:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:14:49
+2001-09-12 00:33:50 Skytel [005040811] C SH/TONE 3308    
+2001-09-12 00:33:50 Skytel [002673830] B  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:50 Skytel [007588521] C SH/TONE 3364    
+2001-09-12 00:33:52 Arch [0935971] A  ALPHA  System Attendant|LAXTVCT00HUBX01 Alert since 9/11|LAXTVCT00HUBX01 Alert since 9/11/01 10:28 PM A message was due on 9/11/01 10:48 PM. 
+2001-09-12 00:33:52 Arch [0987275] C  ALPHA  s0191: 09/11 12:20:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:20:24
+2001-09-12 00:33:52 Skytel [005344945] A  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:52 Skytel [007461694] D ST NUM  309-234-1311-911    
+2001-09-12 00:33:54 Arch [0935971] A  ALPHA  System Attendant|GRBWFRVTVILAX01 Alert since 9/11|GRBWFRVTVILAX01 Alert since 9/11/01 10:28 PM A message was due on 9/11/01 10:48 PM. 
+2001-09-12 00:33:54 Skytel [005332045] D ST NUM  913-639-4578   
+2001-09-12 00:33:54 Skytel [007109711] D ST NUM  761-746-4715   
+2001-09-12 00:33:56 Arch [0935971] A  ALPHA  CHIWBBMTVILAX02 Alert since 9/11/01 10:28 PM A message was due on 9/11/01 11:08 PM. 
+2001-09-12 00:33:58 Arch [1302276] B  ALPHA  webmaster@QuikOr|NS:09/11 11:37PM-S7921|S#(510) 796-4440-C#(510) 745-9125 NAME:JEFFREY CONNELL 09/11 09:29PM-$17.84 Pizza #1: 1 Med Pan Whole: Green Pepper, Bacon, Mushrooms, Pepperoni, Salami 1 x Bre
+2001-09-12 00:33:58 Arch [1657188] B  ALPHA  NCAGBRWS02:Device Inaccessible
+2001-09-12 00:33:58 Skytel [003917932] D  ALPHA  SEV1 DesMoines  Ticket84737 10:24p  I:The BOOS system went down.  E:Acxiom helpdesk  DavidV18005731219               
+2001-09-12 00:33:58 Skytel [007649639] B ST NUM  988-636-2186   
+2001-09-12 00:33:58 Skytel [007658730] C SH/TONE 884-9169
+2001-09-12 00:33:58 Skytel [003922535] B  ALPHA  IASO1328PONGCHEN/SGSG0118S1:Volume 001411 cannot be used at this time.
+2001-09-12 00:33:58 Skytel [005436525] D  ALPHA  Test Lotus Notes #23-IX_T1708
+2001-09-12 00:33:59 Metrocall [1222396] D  ALPHA  Alb 518-452-2460 TMS Functional      Server[1] - 1       Server[2] - 1       Primary   - 1       tms_msg[000]  dev_err[000]
+2001-09-12 00:33:59 Metrocall [002568894] D  ALPHA  2/02:The next update will be in 2 hours or less.
+2001-09-12 00:33:59 Metrocall [1495978] C  ALPHA  (From ICON01) IR:1284259 JOB:DEDL075B ABD

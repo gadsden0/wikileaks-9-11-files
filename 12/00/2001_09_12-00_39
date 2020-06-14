@@ -1,0 +1,95 @@
+2001-09-12 00:39:00 Skytel [007109749] B ST NUM  911-766-7117-9 
+2001-09-12 00:39:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8008
+2001-09-12 00:39:02 Skytel [002840837] B SH/TONE 345-0498
+2001-09-12 00:39:02 Skytel [002205067] C ST NUM  0-630-351-0719 
+2001-09-12 00:39:02 Skytel [003279361] A  ALPHA  2) applmgr@esc220.fmr.com|ERP Concurrent Request has ended in Error|Req: 5756805 | User: OE_BATCH | Went on Error at 09-12-01_00:31:39  
+2001-09-12 00:39:02 Skytel [003587596] D SH/TONE 110 (38 
+2001-09-12 00:39:03 Skytel [002861584] A ST NUM  8685227799
+2001-09-12 00:39:03 Skytel [005345821] D  ALPHA  8883372867  ID: NY061012 Ticket: 249  001Comm. Line Failure
+2001-09-12 00:39:05 Skytel [007035683] A  ALPHA  Insider@emcweb.com|SiteScope Alert, error, TranTrac1 URL Transaction, unable to reach server on  (step 1), https://209.64.62.245/trantrac/login?edtMID=601109999999015&edtUID=user0...|This alert is from SiteScope at http://insider.emcweb.com
+2001-09-12 00:39:05 Skytel [005001895] B  ALPHA  [sps/121] 200 sps-apps1.cps.intel.com relay 0.483 BDE RegulusServices are running.<BR> (/metrios/healthcheck[RegulusInvoice].asp)2:54:55
+2001-09-12 00:39:05 Skytel [003938601] C ST NUM  900-876-2373   
+2001-09-12 00:39:06 Skytel {1954466} 3 1200 818-887-1334   
+2001-09-12 00:39:07 Arch [1025942] B  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 04700314 from cluster 1095 to cluster 2028), status C3AE181B, extended status C3AE380C. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-12 00:39:07 Arch [1423779] A  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 04700314 from cluster 1095 to cluster 2028), status C3AE181B, extended status C3AE380C. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-12 00:39:10 Metrocall [1544818] A  ALPHA  Server 'WDC-NS2 Disk.G.Free = 1221709824, min allowable: (2000000000)
+2001-09-12 00:39:10 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4578
+2001-09-12 00:39:12 Arch [0987275] C  ALPHA  s0191: 09/11 12:28:34 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:28:34
+2001-09-12 00:39:12 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191397. 
+2001-09-12 00:39:14 Arch [0987275] C  ALPHA  s0191: 09/11 12:31:16 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:31:16
+2001-09-12 00:39:16 Arch [0987275] C  ALPHA  s0191: 09/11 12:36:48 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:36:48
+2001-09-12 00:39:18 Arch [0987275] C  ALPHA  s0191: 09/11 12:44:46 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:44:47
+2001-09-12 00:39:19 Metrocall [1222396] D  ALPHA  Blt 800-BAR-CODE Tray Metrics Down   Server[1] - 1       Server[2] - 0       Primary   - 1       tms_msg[040]  dev_err[056]
+2001-09-12 00:39:20 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-12 00:39:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0931
+2001-09-12 00:39:22 Arch [1359851] C  ALPHA  Generic Monitor |Message from DataMon-SASAT: laxlstr2: 200109120430: 0 files instead of 1 of type *.sa.sat.wxl arrived in laxlstr2:/home/monitor/mounts/laxlstr/laxlstr2/twc/wxl_satellite_clips in the
+2001-09-12 00:39:26 Arch [0279132] D  ALPHA  csulliv|Tomorrow we will return to the normal work schedule. If you do not have a regularly scheduled telecommute day, please plan on coming in. If you still feel the need to remain home, please call me at the office in the morning.  -1/2
+2001-09-12 00:39:26 Arch [1339701] B  ALPHA  Ed Valle <EVALLE|FW: A new Service Request: 10159|SR#: 10159999 Assigned to ACHANG Account: Regarding "In Nios board schematic" Please review and update this service request in Siebel. As a reminder, please continue to prioritize mySupport s
+2001-09-12 00:39:27 Arch [0279132] D  ALPHA  -Chuck    -2/2
+2001-09-12 00:39:27 Arch [1666850] A  ALPHA  3196
+2001-09-12 00:39:27 Arch [0900779] C  ALPHA   Sub:WTC UPDATE #12b  Msg:      WTC UPDATE #12b BEGINS AT midnight (12:00am) ON WED SEP 12, 2001           <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />         12:33p  
+2001-09-12 00:39:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3187
+2001-09-12 00:39:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3187
+2001-09-12 00:39:31 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-12 00:39:32 Skytel [005352717] D SH/TONE 3922    
+2001-09-12 00:39:32 Skytel [004749189] B ST NUM  603-009-9999-9 (3   
+2001-09-12 00:39:32 Skytel [005124485] B ST NUM  855-636-6911   
+2001-09-12 00:39:32 Skytel [007548937] C SH/TONE 207     
+2001-09-12 00:39:32 Skytel [005484045] D SH/TONE 8841    
+2001-09-12 00:39:33 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-12 00:39:33 Skytel [004547346] A SH/TONE 6869    
+2001-09-12 00:39:33 Skytel [003510167] B ST NUM  804-954-2381   
+2001-09-12 00:39:33 Skytel [002785822] D SH/TONE 328-5677
+2001-09-12 00:39:35 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-12 00:39:35 Skytel [004704807] B SH/TONE 3555    
+2001-09-12 00:39:35 Skytel [007559085] D SH/TONE 5       
+2001-09-12 00:39:35 Skytel [005479087] D ST NUM  302-927-7777   
+2001-09-12 00:39:37 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-12 00:39:37 Skytel [002817970] A  ALPHA  sitescope@crispy.di.merc-int.com| ALERT Database.1/Weather@Salt - Number of error in the last hour content match error, 0.29 sec, 1 row, 1 (weather.merc-int.com)|  Time:     9:35 PM 9/11/01 Query Results:  1  
+2001-09-12 00:39:37 Skytel [005070261] B SH/TONE 555     
+2001-09-12 00:39:37 Skytel [005110077] D  ALPHA  bidconfirm@ebay.com|eBay Bid Notice - Item 1274018751: NEW DEWALT DW660 CUT-OUT TOOL| Thank you for bidding in the Home and Garden:Tools:Power:General category, kooltees!  We appreciate the trading you do on eBay and want to confirm the
+2001-09-12 00:39:37 Skytel [005255090] A ST NUM  504-230-5414   
+2001-09-12 00:39:37 Skytel [004689597] D ST NUM  9884484913
+2001-09-12 00:39:39 Skytel [007530698] C ST NUM  9002698994
+2001-09-12 00:39:39 Skytel [005110077] D  ALPHA   det
+2001-09-12 00:39:39 Skytel [004417094] B ST NUM  96) 323-462-2789    
+2001-09-12 00:39:39 Skytel [007653066] C ST NUM  744-3090-4
+2001-09-12 00:39:39 Skytel [003265728] A SH/TONE 777     
+2001-09-12 00:39:39 Skytel [007524417] A SH/TONE 981-2748
+2001-09-12 00:39:40 Metrocall [0121395] A  ALPHA  Frm: System Attendant Sub: USNY14534MSX Alert since 9/12/2001 12:23 AM A message was due on Txt: USNY14534MSX Alert since 9/12/2001 12:23 AM A message was due on 9/12/2001 12:23 AM.
+2001-09-12 00:39:40 Metrocall [0089933] D  ALPHA  Frm: System Attendant Sub: USNY14534MSX Alert since 9/12/2001 12:23 AM A message was due on Txt: USNY14534MSX Alert since 9/12/2001 12:23 AM A message was due on 9/12/2001 12:23 AM.
+2001-09-12 00:39:40 Metrocall [1264109] D  ALPHA  Frm: TicketSurvey Sub: SE/SE2 P2 Open 30min Txt
+2001-09-12 00:39:41 Skytel [007569746] A ST NUM  410-222-4533   
+2001-09-12 00:39:41 Skytel [007648215] B ST NUM  515-667-0944   
+2001-09-12 00:39:41 Skytel [007600984] C SH/TONE 963-2817
+2001-09-12 00:39:42 Metrocall [1264109] D  ALPHA  : 1-53434221 Assigned Siras.com, Inc/..Mc.U..9 .S..e..d..e. ........................ce 99%
+2001-09-12 00:39:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #29-IX_T1707
+2001-09-12 00:39:43 Skytel [005508588] D ST NUM  08) 206-587-3000    
+2001-09-12 00:39:43 Skytel [007596901] B SH/TONE 85450   
+2001-09-12 00:39:43 Skytel [002817389] D  ALPHA  CISCO_VPN@fema.gov|VPN3000 Concentrator Alert (mwvpn)|5958 09/12/2001 00:35:16.450 SEV=3 AUTH/5 RPT=16 198.182.163.109 Authentication rejected: Reason = Logon Failurehandle = 324, server = 166.112.217.148, user = jmaloney, domain = nemis  
+2001-09-12 00:39:43 Skytel [004535661] D ST NUM  312-665-2910   
+2001-09-12 00:39:43 Skytel [005330530] A ST NUM  9685222010
+2001-09-12 00:39:45 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2452..
+2001-09-12 00:39:45 Skytel [004449778] A ST NUM  580-980-0766-911911 
+2001-09-12 00:39:45 Skytel [007610361] C SH/TONE 969911  
+2001-09-12 00:39:45 Skytel [007655801] C ST NUM  431708900153531353  
+2001-09-12 00:39:45 Skytel [007646460] D ST NUM  660-727-8279   
+2001-09-12 00:39:47 Skytel [003267599] D SH/TONE 949-4985
+2001-09-12 00:39:48 Skytel [004181264] A ST NUM  01325 (79 
+2001-09-12 00:39:49 Metrocall [1902846] D  ALPHA  CALL ER 468-0199
+2001-09-12 00:39:49 Metrocall [1362298] C  ALPHA  Frm: Optivity@harbortech.com Sub: Operator Attention Txt: Operator Attention is needed. (Server: "OPTIVITY-NJ" Job: "SNMPc & HPOV:Diff" Device: "HP 1") Please insert overwritable media into the drive.
+2001-09-12 00:39:49 Metrocall [1429901] D  ALPHA  [ PENNY SMITH-713-790-0970-INTENSE PAIN IN AMPUTATED LEG.  ]
+2001-09-12 00:39:49 Metrocall [1264110] D  ALPHA  Frm: TicketSurvey Sub: SE/SE2 P2 Open 30min Txt: 1-53434221 Assigned Siras.com, Inc. MMS=Unix OS Agent repo
+2001-09-12 00:39:50 Arch [1017704] C  ALPHA  From Mike Black - ISD Workstation Eng Sub:Devices that dial in only Msg:507 total dial in only devices.  List is in your e-mail.  Contact me for questions.  Mike  
+2001-09-12 00:39:50 Arch [0983275] C  ALPHA  From Mike Black - ISD Workstation Eng Sub:Devices that dial in only Msg:507 total dial in only devices.  List is in your e-mail.  Contact me for questions.  Mike  
+2001-09-12 00:39:51 Metrocall [1264110] D  ALPHA  rts Swap Critical instance 99%
+2001-09-12 00:39:52 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191404. 
+2001-09-12 00:39:52 Arch [0000101] B  ALPHA  MSN 035 hello Message from NOC PCB.
+2001-09-12 00:39:52 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-12 00:39:54 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-12 00:39:56 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 00:39:56 Skytel [005339869] D SH/TONE 212-9065
+2001-09-12 00:39:57 Arch [0965689] C  ALPHA  sihp8032: Disk utilization of /home almost full, Please open minor ticket to G.IS1E2E. filesystem is now ok  
+2001-09-12 00:39:57 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-12 00:39:58 Skytel [005003367] B  ALPHA  root@bur-faxsvr.genuity.com|bur-faxsvr.genuity.com - /bbn is 92% full| 
+2001-09-12 00:39:59 Arch [0965689] C  ALPHA  sihp8032: Disk utilization of /home filesystem 77% is greater than 75

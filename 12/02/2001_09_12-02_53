@@ -1,0 +1,75 @@
+2001-09-12 02:53:00 Arch [0979634] A  ALPHA  postmaster@INTRA|Delivery Status Notification (Fa|This is an automatically generated Delivery Status Notification. Delivery to the following recipients failed. 8007208398.0993931+AEA-pagenet.net Received: from k2.corp.eschelon.com ([10.168.0
+2001-09-12 02:53:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4712
+2001-09-12 02:53:02 Skytel [005543817] C SH/TONE 727-6928
+2001-09-12 02:53:04 Arch [1212440] C  ALPHA  19:ABS:
+2001-09-12 02:53:04 Arch [1262208] A  ALPHA  76:ABS:
+2001-09-12 02:53:04 Arch [0976026] C  ALPHA  (29)21:ABS:
+2001-09-12 02:53:04 Arch [1153676] D  ALPHA  (6)"WhatsUp" <jonat|10.145.10.21 OKBWGP01 is DOWN at 01:58:21 
+2001-09-12 02:53:04 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.145.10.21 OKBWGP01 is DOWN at 01:58:21 
+2001-09-12 02:53:05 Skytel [002280494] D ST NUM  9008217034
+2001-09-12 02:53:06 Arch [0506899] A  ALPHA  "WhatsUp" <jonat|10.165.58.21 AZBWGP06 is DOWN at 01:58:21 
+2001-09-12 02:53:06 Skytel {1891159} 3 1200 4444 
+2001-09-12 02:53:07 Skytel {1092655} 3 2400 002656    
+2001-09-12 02:53:09 Skytel {0299765} 3 1200 DUTYMGR> NISSAN DS: SEV2 Memphis, TN Router NPME telco circuit is down at 00:15 MT. AT&T has informed local telco to investigate. No etu. - 800-317-6700..
+2001-09-12 02:53:10 Arch [0987275] C  ALPHA  sb3: INFO0002 - Trade Count Mismatch Ora=825 Rec=0 (160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:52
+2001-09-12 02:53:12 Arch [0987275] C  ALPHA  s0191: 09/11 15:56:49 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:56:49
+2001-09-12 02:53:12 Metrocall [0474800] A  ALPHA  Frm: JESUS Video Project America Sub: A Measured Response to Terrorism Txt: A Measured Response to Terrorism The events of this morning troubled me deeply. We all have experienced a range of emotions
+2001-09-12 02:53:17 Arch [0979634] A  ALPHA  This is an automatically generated Delivery Status Notification. Delivery to the following recipients failed. 8007208398.0993931+AEA-pagenet.net Received: from k2.corp.eschelon.com ([10.168.0.20]) by INTRANET5.corp.eschelon.com with Microsof
+2001-09-12 02:53:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1065
+2001-09-12 02:53:21 Arch [0044384] A  ALPHA  :The Problem with ID 00330734 Severity 2 Description  mopf21.pitts.bayer.com- Node Down. has not been resolved.It has been escalated to level 2 on 09/11/2001 at 18:22:46.
+2001-09-12 02:53:21 Arch [0000101] B  ALPHA  MSN 098 hello Message from NOC PCB.
+2001-09-12 02:53:23 Arch [1604354] A  ALPHA  (1)23:ABS:
+2001-09-12 02:53:23 Arch [0968973] D  ALPHA  (25)19:ABS:
+2001-09-12 02:53:23 Arch [1373829] B  ALPHA  (32)WhatsUp@mail.spr|10.146.129.24 TXIVGRAPP04 is DOWN at 01:58:22 
+2001-09-12 02:53:23 Arch [1603779] A  ALPHA  (4)18:ABS:
+2001-09-12 02:53:30 Arch [0987275] C  ALPHA  s0191: 09/11 16:02:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 16:02:48
+2001-09-12 02:53:30 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192944. 
+2001-09-12 02:53:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3321
+2001-09-12 02:53:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3321
+2001-09-12 02:53:32 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 10.843800:FATAL:Sep 11, 2001 16:21
+2001-09-12 02:53:35 Skytel [005001895] B  ALPHA  [sps/187] 200 sps-apps1.cps.intel.com relay-ssl 0.698 Application isokay (/lift/healthcheck.asp) 3:29:09
+2001-09-12 02:53:35 Skytel [007561125] B ST NUM  483-913-7911   
+2001-09-12 02:53:35 Skytel [007466020] B ST NUM  709-636-3697   
+2001-09-12 02:53:36 Arch [1657188] B  ALPHA  NCAGBRGQ02:Device Accessible,Device Status:Ok
+2001-09-12 02:53:37 Skytel [005104315] C  ALPHA  Jose, critical interlock on imp13101. I was running dummy wafers...1st particle test failed. N=597.    Mae
+2001-09-12 02:53:37 Skytel [007503156] B SH/TONE 6309    
+2001-09-12 02:53:37 Skytel [003920826] C ST NUM  312-456-2700   
+2001-09-12 02:53:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:53:39 Skytel [003954255] D ST NUM  908-268-9378   
+2001-09-12 02:53:40 Metrocall [1064385] A  ALPHA  JY  8317/8385  +042 EC  9067/9047 +0067 BP 14526/14300 +000 SF  6005/6010  +070 CD  6388/6380  -010 AD  5169/5152  +031 DM  4636/4626  +034 FES 9715/758/760/53 FDX 4270/4314  -416 PTB 9033/8930  -004 FGBS10434 FYB 13897 BDL 10897/10861+007 BDM 10851+0
+2001-09-12 02:53:41 Skytel [005378527] D SH/TONE 932-3520
+2001-09-12 02:53:43 Skytel [005178080] A SH/TONE 104     
+2001-09-12 02:53:43 Skytel [002406502] B  ALPHA  maillog@2waybeats.com|2waybeats.com VDE/CGI script output|1[!A0][D32801]!*+Missy+GetUrFreakOn-2WayBeats.com;2,T087%5VLdF#evldLrF#slrLdVF#vldLrF#GlrLdVC#evldLrF#LdF#sldF#LdF#ldGC#elrLdVF#evldLrF#slrLdVF#vldLrF#GlrLdVC#evldLrF#F#sF#lrLdVF#vld
+2001-09-12 02:53:43 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #64-IX_T4010
+2001-09-12 02:53:43 Skytel [007553888] A  ALPHA  925-6075Busy Costa Mesa 714-438
+2001-09-12 02:53:44 Arch [0485957] B  ALPHA  (24)WhatsUp@mail.spr|10.146.129.24 TXIVGRAPP04 is DOWN at 01:58:22 
+2001-09-12 02:53:44 Arch [1373829] B  ALPHA  (1)WhatsUp@mail.spr|10.146.129.25 TXIVGRAPP05 is DOWN at 01:58:22 
+2001-09-12 02:53:44 Arch [0507377] A  ALPHA  (30)19:ABS:
+2001-09-12 02:53:44 Arch [0301766] B  ALPHA  (3)13:ABS:
+2001-09-12 02:53:44 Arch [1613778] A  ALPHA  (24)14:ABS:
+2001-09-12 02:53:45 Arch [0485957] B  ALPHA  (25)WhatsUp@mail.spr|10.146.129.25 TXIVGRAPP05 is DOWN at 01:58:22 
+2001-09-12 02:53:45 Arch [1373829] B  ALPHA  (2)WhatsUp@mail.spr|10.146.129.26 TXIVGRAPP06 is DOWN at 01:58:22 
+2001-09-12 02:53:45 Metrocall [0525954] A  ALPHA  Server:Chelmick at 10.17.1.52 is DOWN.
+2001-09-12 02:53:45 Metrocall [1064385] A  ALPHA  21
+2001-09-12 02:53:45 Skytel [003479543] B SH/TONE 9213    
+2001-09-12 02:53:45 Skytel [004745716] B ST NUM  9778420725
+2001-09-12 02:53:45 Skytel [007575159] B SH/TONE 810     
+2001-09-12 02:53:47 Arch [0485957] B  ALPHA  (26)WhatsUp@mail.spr|10.146.129.26 TXIVGRAPP06 is DOWN at 01:58:22 
+2001-09-12 02:53:47 Arch [1373829] B  ALPHA  (3)WhatsUp@mail.spr|10.146.129.27 TXIVGRAPP07 is DOWN at 01:58:22 
+2001-09-12 02:53:49 Arch [0485957] B  ALPHA  (27)WhatsUp@mail.spr|10.146.129.27 TXIVGRAPP07 is DOWN at 01:58:22 
+2001-09-12 02:53:49 Arch [1373829] B  ALPHA  (4)WhatsUp@mail.spr|10.146.129.28 TXIVGRAPP08 is DOWN at 01:58:22 
+2001-09-12 02:53:51 Arch [0485957] B  ALPHA  (28)WhatsUp@mail.spr|10.146.129.28 TXIVGRAPP08 is DOWN at 01:58:22 
+2001-09-12 02:53:51 Arch [1373829] B  ALPHA  (5)WhatsUp@mail.spr|10.146.129.47 TXIVGRBACK01 is DOWN at 01:58:22 
+2001-09-12 02:53:55 Arch [1373829] B  ALPHA  (6)WhatsUp@mail.spr|10.146.129.11 TXIVGRLOG01 is DOWN at 01:58:22 
+2001-09-12 02:53:55 Arch [0485957] B  ALPHA  (29)WhatsUp@mail.spr|10.146.129.47 TXIVGRBACK01 is DOWN at 01:58:22 
+2001-09-12 02:53:55 Arch [0782377] C  ALPHA  (30)18:ABS:
+2001-09-12 02:53:55 Arch [1252264] C  ALPHA  (32)20:ABS:
+2001-09-12 02:53:55 Arch [0622946] A  ALPHA  (18)20:ABS:
+2001-09-12 02:53:55 Arch [1075804] D  ALPHA  (5)18:ABS:
+2001-09-12 02:53:56 Skytel [004338396] D  ALPHA  1) 1) En la primera oportunidad, ojala se pueda reportar. Tere
+2001-09-12 02:53:56 Skytel [007060447] D SH/TONE 755-9501
+2001-09-12 02:53:57 Arch [1373829] B  ALPHA  (7)WhatsUp@mail.spr|10.146.129.12 TXIVGRLOG02 is DOWN at 01:58:22 
+2001-09-12 02:53:57 Arch [0485957] B  ALPHA  (30)WhatsUp@mail.spr|10.146.129.11 TXIVGRLOG01 is DOWN at 01:58:22 
+2001-09-12 02:53:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8143
+2001-09-12 02:53:59 Arch [1373829] B  ALPHA  (8)WhatsUp@mail.spr|10.146.129.13 TXIVGRLOG03 is DOWN at 01:58:22 
+2001-09-12 02:53:59 Arch [0485957] B  ALPHA  (31)WhatsUp@mail.spr|10.146.129.12 TXIVGRLOG02 is DOWN at 01:58:22 

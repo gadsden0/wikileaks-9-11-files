@@ -1,0 +1,56 @@
+2001-09-11 05:28:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2035
+2001-09-11 05:28:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2035
+2001-09-11 05:28:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6857
+2001-09-11 05:28:05 Skytel [007551907] A  ALPHA  ezines@arcamax.com|ArcaMax Free Sites for September 11, 2001|Welcome to ArcaMax Free Sites sponsored today by: --------------------------------------------------------------------- http://www.arcamax.com/shop/ei010911fts10764 --------------
+2001-09-11 05:28:05 Skytel [005242788] B SH/TONE 2833    
+2001-09-11 05:28:06 Arch [1079422] D  ALPHA  <oshea_john_a@em|Escalation: 0B3E|Case: 5735650 Numeric Message = 54307 Alpha Message = DA 15 & 16 dropped into impl monitor.
+2001-09-11 05:28:06 Arch [0861728] A  ALPHA  MAUREEN WON'T BE IN - SHE JUST PHONED  JILL/PBX
+2001-09-11 05:28:06 Skytel [0000060] D  ALPHA  DELAY CODE: +8MS
+2001-09-11 05:28:11 Arch [0910057] C  ALPHA  pc999bot1: pc999bot1@PC999.hunterdonhealthcare.org 192.168.27.1 is down! -Contact HMC Immediately
+2001-09-11 05:28:11 Arch [0634239] D  ALPHA  2960*NETLOGGER: IPRED message: Sep 11 02:21:27 oma-dmz02-in.wic.west.com %IPRED-I-STATE, Rcv HPP, M->B, I/F IN, vid 7
+2001-09-11 05:28:12 Skytel [005436525] D  ALPHA  Test Message #57-IX_T1803
+2001-09-11 05:28:12 Skytel [004524770] A  ALPHA  sprmab01:  Trunk Alarm from sprmab01 reason path-ais: Status Fail Slot 13 Port 3 at 00:56:49 on 9/11
+2001-09-11 05:28:12 Skytel [005112809] C  ALPHA  04:26CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240416: Uncorrectable write error
+2001-09-11 05:28:12 Skytel [005208172] D  ALPHA  T 17.65 -0.05 WCOM 12.92 -0.06 TMX 33.35 -0.17 EMT 3.80 -0.08
+2001-09-11 05:28:14 Skytel [007602289] A ST NUM  767-646-4222-914369 
+2001-09-11 05:28:14 Skytel [003327997] D  ALPHA  XRX 9.05 -0.17 WINEA 0.00 UNCH LIZ 48.53 -0.58
+2001-09-11 05:28:14 Skytel [003932285] D SH/TONE 3018    
+2001-09-11 05:28:17 Arch [1026292] B  ALPHA  Backup@NYED.usco|Operator Attention|(Server: "NYEPSROGUE" Job: "Monday backup" Device: "HP 1") Please inser t overwritable media into the changer using the slot import command. 
+2001-09-11 05:28:17 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178414. 
+2001-09-11 05:28:22 Metrocall [0118680] C  ALPHA  61: PW ICU - 694 5717
+2001-09-11 05:28:22 Metrocall [002589906] A  ALPHA  Frm: ams4tt@amsapp01-c1.sc.attws.com Sub: AMS-TT: TT677183 Txt: Critical; TT677183; TR User Assign; NETRAC; EQUIPMENT MALFUNCTION; CELL 132 MICROCE; 09/11/01 02:27:54; ;X132M1 ;logic id:ATPX/WHPT2LU /Equipment Malfu
+2001-09-11 05:28:22 Metrocall [0045038] D  ALPHA  RC:B-MERCYRW/SQUAW CREEK ARM OF SHASTA LAKE/A - SCENE/<Unknown>/<None>///MALE
+2001-09-11 05:28:24 Metrocall [002589906] A  ALPHA  nction/RCS/132 /MICRO/1 _ Short Description : Web view of this AM
+2001-09-11 05:28:25 Arch [0944834] A  ALPHA  58985
+2001-09-11 05:28:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9780
+2001-09-11 05:28:28 Arch [1184493] D  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 05:28:28 Arch [0927369] C  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 05:28:28 Arch [0932748] D  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 05:28:28 Arch [0283793] A  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 05:28:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3428
+2001-09-11 05:28:31 Metrocall [1064387] A  ALPHA  GB 6180/6170+000 CT_3650/773/962 +000 KC_4835/5130/510-015 SB _787/_761/745+001 SE 2095/2117/244-010 CC _889/917/929 -011 OJ 8025/8250/835+065 YX 56900/57150 +0000 CR 19820/19970 +0000 DX 11500/11538  +026 EJ 10932/10790  +000  RK 95385/95
+2001-09-11 05:28:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 02:26:33 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:28:31 Skytel [003071883] C  ALPHA  IBM 96.47 -0.12 NSCP 0.00 UNCH MSFT 57.58 +2.18 EDS 56.00 +1.29 (61
+2001-09-11 05:28:31 Skytel [002844427] C  ALPHA  AP:VA:L1:V5MDUA60 ABENDED WITH U0666 ON 3S03 - 04:25:Call 8005826218.
+2001-09-11 05:28:32 Arch [0888558] D  ALPHA  <'insuranceweekl|save 70% on life insurance. inst|<a href="http://www.yahoo.com/homet/?http://affiliates.lo 
+2001-09-11 05:28:32 Arch [1404462] D  ALPHA  "lok, christophe|Restarted SYRFTP|
+2001-09-11 05:28:33 Metrocall [1064387] A  ALPHA  285  +000
+2001-09-11 05:28:38 Arch [0983086] D  ALPHA  "SendRec, Fire" |someone did not send e-mail|missing CPIM01 Outbound mail 
+2001-09-11 05:28:38 Arch [0577316] B  ALPHA  "SendRec, Fire" |someone did not send e-mail|missing CPIM01 Outbound mail 
+2001-09-11 05:28:40 Arch [0915648] A  ALPHA  FLSCHOWDM01:Device Inaccessible
+2001-09-11 05:28:40 Arch [0970454] B  ALPHA  (5)DO:-*Submit-Analysis-JCL(4:27:38
+2001-09-11 05:28:42 Arch [0970454] B  ALPHA  (6)SO:-*Submit-Analysis-JCL(4:27:43
+2001-09-11 05:28:42 Skytel [005178080] A SH/TONE 104     
+2001-09-11 05:28:43 Arch [0939437] D  ALPHA  CA Helpdesk <CAH|mc0300ux229|CR: 142007 Priority: 3 Assigned to: Scott, Jeffrey Summary:: Unplanned.CA UNIX.Backup 
+2001-09-11 05:28:44 Skytel [002357369] C  ALPHA  002228 CYCLIC TEST 
+2001-09-11 05:28:44 Skytel [003327216] A  ALPHA  002228 CYCLIC TEST 
+2001-09-11 05:28:44 Skytel [002139900] D SH/TONE 002228  
+2001-09-11 05:28:50 Metrocall [1544818] A  ALPHA  SCL-NS2:Device Inaccessible
+2001-09-11 05:28:51 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1301..
+2001-09-11 05:28:51 Skytel [005110712] C SH/TONE 106     
+2001-09-11 05:28:53 Skytel [004538828] D SH/TONE 6127    
+2001-09-11 05:28:53 Skytel [003916610] A  ALPHA  LLY 77.20 +0.50 PFE 38.17 +1.17 GDT 34.15 +0.20 MRK 66.10 +1.80
+2001-09-11 05:28:53 Skytel [005098183] B  ALPHA  2 way test  @ 428 -Plano 2 Way Ops
+2001-09-11 05:28:55 Skytel [005111765] B  ALPHA  f1462 mem eta 07:15am-am ctl 347
+2001-09-11 05:28:55 Skytel [007557212] D  ALPHA  f1462 mem eta 07:15am-am ctl 347
+2001-09-11 05:28:59 Skytel [003936496] A  ALPHA  SUN 37.84 -0.21 LU 5.95 -0.16 MOT 15.04 +0.75 KMG 59.70 -0.41

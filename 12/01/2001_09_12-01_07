@@ -1,0 +1,74 @@
+2001-09-12 01:07:00 Metrocall [1923558] B  ALPHA  Frm: SMTPPAGE@gulfaero.com Sub: SILO Txt: SUBPOOL STANDARD, 79 SCRATCH VOLUMES REMAINING 09/12/01 01:07:02
+2001-09-12 01:07:00 Metrocall [1865024] A  ALPHA  Frm: SMTPPAGE@gulfaero.com Sub: SILO Txt: SUBPOOL STANDARD, 79 SCRATCH VOLUMES REMAINING 09/12/01 01:07:02
+2001-09-12 01:07:00 Metrocall [002461139] A  ALPHA  Hi CB-I'm goin
+2001-09-12 01:07:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4606
+2001-09-12 01:07:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8036
+2001-09-12 01:07:01 Arch [0987275] C  ALPHA  s0191: 09/11 15:17:09 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:17:09
+2001-09-12 01:07:02 Metrocall [002461139] A  ALPHA  g to get in bed and read.Oh, by the way, I have a plan for our next sleepover that I think will ROCK YOUR WORLD.I love to see the passion on your handsome face.Wake me up later-Love-L/R
+2001-09-12 01:07:05 Skytel [005369632] A ST NUM  210-989-1064   
+2001-09-12 01:07:06 Skytel {1549433} 3 1200 1-213-819-3788 
+2001-09-12 01:07:07 Arch [0987275] C  ALPHA  s0191: 09/11 15:25:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:25:38
+2001-09-12 01:07:07 Arch [0921143] B  ALPHA  GS-Broadcast <GS|UPDATE ON NEW YORK SITUATION - I|> This is a further update on the New York situation for everyone at Goldman > Sachs. > As indicated earlier, all financial markets in the United States will be > closed on Wednesday, Septem
+2001-09-12 01:07:07 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191719. 
+2001-09-12 01:07:07 Skytel {0619497} 1 2400 31740
+2001-09-12 01:07:09 Arch [0987275] C  ALPHA  s0191: 09/11 15:30:55 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:30:55
+2001-09-12 01:07:10 Arch [0987275] C  ALPHA  s0191: 09/11 15:33:16 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:33:17
+2001-09-12 01:07:10 Metrocall [002334432] A  ALPHA  PER LT CARDENAS - SEEMS THAT THE SUSP PERSON AT MANSFIELD DAM WAS UNFOUNDED
+2001-09-12 01:07:10 Metrocall [1865254] B  ALPHA  [McRorie]:APD WILL DELIVER 10 CASES OF FLARES TO 204 TO ADD TO YOUR 15 CASES TO TAKE TO ARLINGTON.
+2001-09-12 01:07:10 Metrocall [0525954] A  ALPHA  Server:Chelmick a
+2001-09-12 01:07:15 Metrocall [0525954] A  ALPHA  t 10.17.1.52 is DOWN.
+2001-09-12 01:07:18 Arch [1087718] B  ALPHA  EDS DNS Server (Main) is RUNNING
+2001-09-12 01:07:19 Metrocall [1422831] D  ALPHA  / 731-8610 LINDA AT CVS ICU. PT NAME: EVORA     /
+2001-09-12 01:07:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0959
+2001-09-12 01:07:22 Arch [0987275] C  ALPHA  s0043: Available swap space Decreases below 75.820300:FATAL:Sep 11, 2001 15:36
+2001-09-12 01:07:24 Arch [0987275] C  ALPHA  s0191: 09/11 15:41:26 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:41:26
+2001-09-12 01:07:24 Arch [0930546] A  ALPHA  Alarm: 10:07:21PM  Boiler Network connect   Site 4 Bldg 7 Hot water supply temp is out of range.
+2001-09-12 01:07:28 Metrocall [0474800] A  ALPHA  Frm: <farmerjoe@hotmail.com> Sub: Old McDonalds Farm Txt: 500000+ forbidden farm sex pics - updated every day !!! http://www.barnyard-chicks.com/index.html?blokeybloke ANimal loving amateurs and cowgi
+2001-09-12 01:07:30 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3215
+2001-09-12 01:07:30 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3215
+2001-09-12 01:07:32 Skytel [005112322] A  ALPHA  p95line@soco.agilent.com||PAUSED: cop7r (COMEI) testing E4405B US41191007 at P95 Slot #52  
+2001-09-12 01:07:32 Skytel [005044104] C  ALPHA  scott.thomas@lamrc.com|Lab DB - CD-SEM used more than allowable time limit.|The next user is waiting to use CD-SEM. You have been using the tool for 185 minutes and your allowable time on the tool has expired, please end your session immedi
+2001-09-12 01:07:35 Skytel [007551276] D  ALPHA  p95line@soco.agilent.com||PAUSED: cop7r (COMEI) testing E4405B US41191007 at P95 Slot #52  
+2001-09-12 01:07:35 Skytel [007542949] B ST NUM  603-413-6630   
+2001-09-12 01:07:35 Skytel [005001895] B  ALPHA  [sps/55] 200 supplier.intel.com relay-ssl 3.646 Application is okay(/ifm/healthcheck.asp) 2:58:28
+2001-09-12 01:07:35 Skytel [007512865] A  ALPHA  Y! ||$499 deals on iPAQ Pocket PC Nations Around World Condemn Terror Attacks on US Reuters  
+2001-09-12 01:07:37 Arch [0383950] D  ALPHA  "Meyer, Dwight W|Livelink is Back Up 
+2001-09-12 01:07:37 Skytel [0001465] C  ALPHA  12261hd871400000000012g (2
+2001-09-12 01:07:37 Skytel [003950262] B ST NUM  918-541-0745-5 
+2001-09-12 01:07:37 Skytel [003954236] D  ALPHA  root@sp1601.idc.ikon.org|"National Lockbox Message"|Nightly LB reports for CED are present.  
+2001-09-12 01:07:39 Skytel [004732111] D SH/TONE 411     
+2001-09-12 01:07:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:07:40 Metrocall [1698287] D  ALPHA  COMMAND PAGE: PER SGT CONWAY .. APD CAR 12 WAS INVOLVED IN A MINOR TRAFFIC ACCIDENT IN THE 100BLK S 9TH ST .. [COMM / APGAR]
+2001-09-12 01:07:40 Metrocall [1223431] B  ALPHA  PLEASE CALL DISPATCH NOW
+2001-09-12 01:07:41 Skytel [005254108] D  ALPHA  root@sp1601.idc.ikon.org|"National Lockbox Message"|Nightly LB reports for CED are present.  
+2001-09-12 01:07:41 Skytel [007118936] C ST NUM  872-570-5822   
+2001-09-12 01:07:42 Arch [0987275] C  ALPHA  s0191: 09/11 15:47:33 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:47:34
+2001-09-12 01:07:42 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191726. 
+2001-09-12 01:07:42 Arch [1849875] A  ALPHA  "PA_NOTES1" <"PA|Subject = PSAPBTABD 92% full 09/11/01 21:30 PRD SAP Alert on mewtwo: PSAPBTABD 92% full 
+2001-09-12 01:07:43 Skytel [003508833] A SH/TONE 739-8064
+2001-09-12 01:07:43 Skytel [004756562] A ST NUM  0-408-935-5672 
+2001-09-12 01:07:43 Skytel [007495777] A ST NUM  900-017-1947-8383143
+2001-09-12 01:07:43 Skytel [005252967] B SH/TONE 568-0411
+2001-09-12 01:07:43 Skytel [003857131] C ST NUM  900-227-3030   
+2001-09-12 01:07:43 Skytel [005042788] B  ALPHA  ROGER HOUK 317 440 4920 HAS IDEAS ON HOW TO HELP THE GOVERNMENT RE WHAT...
+2001-09-12 01:07:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #59-IX_T1708
+2001-09-12 01:07:44 Arch [0987275] C  ALPHA  s0191: 09/11 15:50:15 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 15:50:16
+2001-09-12 01:07:45 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2480..
+2001-09-12 01:07:45 Skytel [002357369] C  ALPHA  002621 CYCLIC TEST 
+2001-09-12 01:07:45 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
+2001-09-12 01:07:45 Skytel [004589810] A ST NUM  831-659-4341   
+2001-09-12 01:07:45 Skytel [005138933] B ST NUM  0-310-635-3906 
+2001-09-12 01:07:45 Skytel [003327216] A  ALPHA  002621 CYCLIC TEST 
+2001-09-12 01:07:45 Skytel [004536700] D  ALPHA  p95line@soco.agilent.com||PAUSED: cop7r (COMEI) testing E4405B US41191007 at P95 Slot #52  
+2001-09-12 01:07:45 Skytel [004406001] A  ALPHA  p95line@soco.agilent.com||PAUSED: cop7r (COMEI) testing E4405B US41191007 at P95 Slot #52  
+2001-09-12 01:07:45 Skytel [002139900] D SH/TONE 002621  
+2001-09-12 01:07:47 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2480..
+2001-09-12 01:07:47 Skytel [002356238] D SH/TONE 1       
+2001-09-12 01:07:49 Metrocall [1544818] A  ALPHA  CRDC-MAIL03 "Server CRDC-MAIL03/MSVR/KAIPERM - There are no longer any pending documents older than 30 Minutes minutes in mail3.box. "
+2001-09-12 01:07:52 Arch [0987275] C  ALPHA  sb3: INFO0002 - Trade Count Mismatch Ora=825 Rec=0 (160.43.94.116 /20123-s0078):CRITICAL:Sep 11, 2001 15:52
+2001-09-12 01:07:52 Skytel [007540018] A ST NUM  702-882-8487   
+2001-09-12 01:07:54 Skytel [005207748] B ST NUM  9005586621 2   
+2001-09-12 01:07:56 Skytel [005317587] A ST NUM  602-655-8655   
+2001-09-12 01:07:58 Skytel [005384427] C  ALPHA  applmgr@hp05fat.finance.sel.sony.com|   SMOESOPG in PROD on 12-SEP-2001|Orders Transmitted: INTEK 2, WO Opened: 3 WO Completed: 0 Pick Released: 37 Deliveries Sent to DMPLUS: 3P1 35, Delivery Status: 3P1 CL 221, Invoices: CNT 0, AMT  
+2001-09-12 01:07:58 Skytel [005111022] D  ALPHA  CALL GEROLD BARBER AT 404 822 8429
+2001-09-12 01:07:58 Skytel [008479203] A  ALPHA  1) 2) 2/2 QUE ESTES DESCANSANDO Y QUE MA\ANA SEA UN MEJOR DIA PARA TODOS. TE MANDO UN BESITO DE BUENAS NOCHES. CUIDATE.

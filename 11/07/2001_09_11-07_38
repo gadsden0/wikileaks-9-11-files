@@ -1,0 +1,141 @@
+2001-09-11 07:38:01 Arch [0910974] D  ALPHA  37-GOOD MORNING CURLY. -FROM LENA
+2001-09-11 07:38:01 Arch [0988508] D  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:01 Arch [0156989] D  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power 
+2001-09-11 07:38:01 Arch [0916116] B  ALPHA  Host UNIX Mvmnt problem.  /movement/seq/verify/4933/STORESEQ not updated in 51388 seconds  See details in file: /movement/beep/hmv0004b.log on the item movement box(s).  :(
+2001-09-11 07:38:01 Arch [0942566] B  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:01 Arch [1063218] A  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:01 Arch [1410805] B  ALPHA  (24)Host UNIX Mvmnt problem.  /movement/seq/verify/4933/STORESEQ not updated in 51388 seconds  See details in file: /movement/beep/hmv0004b.log on the item movement box(s).  :(
+2001-09-11 07:38:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2165
+2001-09-11 07:38:01 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2165
+2001-09-11 07:38:01 Skytel [003483008] A SH/TONE 306-4000
+2001-09-11 07:38:03 Arch [0156989] D  ALPHA  issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:03 Arch [0891458] A  ALPHA  RESOLVED:SD820306/07:00/SRC:TO/IMP:Daily Report Creator/STATUS:VIAJD800 missed the 7:00 SLC, AAO - 7:23/NOSI=?/RC: Being Investigated/OUTAGE:23 Mins
+2001-09-11 07:38:03 Arch [1402338] A  ALPHA  RESOLVED:SD820306/07:00/SRC:TO/IMP:Daily Report Creator/STATUS:VIAJD800 missed the 7:00 SLC, AAO - 7:23/NOSI=?/RC: Being Investigated/OUTAGE:23 Mins
+2001-09-11 07:38:03 Arch [0120598] B  ALPHA  RESOLVED:SD820306/07:00/SRC:TO/IMP:Daily Report Creator/STATUS:VIAJD800 missed the 7:00 SLC,
+2001-09-11 07:38:03 Arch [0889674] C  ALPHA  RESOLVED:SD820306/07:00/SRC:TO/IMP:Daily Report Creator/STATUS:VIAJD800 missed the 7:00 SLC, AAO - 7:23/NOSI=?/RC: Being Investigated/OUTAGE:23 Mins
+2001-09-11 07:38:03 Arch [0890253] D  ALPHA  RESOLVED:SD820306/07:00/SRC:TO/IMP:Daily Report Creator/STATUS:VIAJD800 missed the 7:00 SLC, AAO - 7:23/NOSI=?/RC: Being Investigated/OUTAGE:23 Mins
+2001-09-11 07:38:03 Skytel [007522579] A ST NUM  804-260-6211-555    
+2001-09-11 07:38:03 Skytel [005328275] A SH/TONE 242-2751
+2001-09-11 07:38:05 Arch [0120598] B  ALPHA   AAO - 7:23/NOSI=?/RC: Being Investigated/OUTAGE:23 Mins
+2001-09-11 07:38:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6987
+2001-09-11 07:38:05 Skytel [005051043] A SH/TONE 11111   
+2001-09-11 07:38:06 Skytel {0571053} 3 1200 770-220-5590  34    
+2001-09-11 07:38:06 Skytel {1918630} 1 1200 248-753-7758   
+2001-09-11 07:38:07 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179848. 
+2001-09-11 07:38:07 Arch [1402323] A  ALPHA  RESOLVED:SD820306/07:00/SRC:TO/IMP:Daily Report Creator/STATUS:VIAJD800 missed the 7:00 SLC, AAO - 7:23/NOSI=?/RC: Being Investigated/OUTAGE:23 Mins
+2001-09-11 07:38:07 Arch [0973711] D  ALPHA  RESOLVED:SD820306/07:00/SRC:TO/IMP:Daily Report Creator/STATUS:VIAJD800 missed the 7:00 SLC,
+2001-09-11 07:38:07 Arch [1269403] C  ALPHA  RESOLVED:SD820306/07:00/SRC:TO/IMP:Daily Report Creator/STATUS:VIAJD800 missed the 7:00 SLC, AAO - 7:23/NOSI=?/RC: Being Investigated/OUTAGE:23 Mins
+2001-09-11 07:38:07 Arch [0193823] D  ALPHA  RESOLVED:SD820306/07:00/SRC:TO/IMP:Daily Report Creator/STATUS:VIAJD800 missed the 7:00 SLC,
+2001-09-11 07:38:07 Arch [0889677] D  ALPHA  RESOLVED:SD820306/07:00/SRC:TO/IMP:Daily Report Creator/STATUS:VIAJD800 missed the 7:00 SLC, AAO - 7:23/NOSI=?/RC: Being Investigated/OUTAGE:23 Mins
+2001-09-11 07:38:07 Arch [1408835] A  ALPHA  6
+2001-09-11 07:38:07 Skytel {1057478} 1 1200 514-233-3476.SPRINT CANADA       .
+2001-09-11 07:38:08 Skytel {1092655} 3 2400 002271    
+2001-09-11 07:38:09 Arch [0619191] B  ALPHA  (31)12:ABS: IONNOC SCHED MAINT. s35844. LACRCA11, START:04:50/STOP:05:17CDT, NO KNOWN CUST IMPACT. MJ/NOC/913-534-7201
+2001-09-11 07:38:09 Arch [0973711] D  ALPHA   AAO - 7:23/NOSI=?/RC: Being Investigated/OUTAGE:23 Mins
+2001-09-11 07:38:09 Arch [0193823] D  ALPHA   AAO - 7:23/NOSI=?/RC: Being Investigated/OUTAGE:23 Mins
+2001-09-11 07:38:09 Arch [0967483] C  ALPHA  (22)12:ABS: IONNOC SCHED MAINT. s35844. LACRCA11, START:04:50/STOP:05:17CDT, NO KNOWN CUST IMPACT. MJ/NOC/913-534-7201
+2001-09-11 07:38:09 Metrocall [1544818] A  ALPHA  Server 'HAY-NS2 Disk.E.Free = 158042112, min allowable: (300000000)
+2001-09-11 07:38:18 Arch [0942452] B  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:18 Arch [0950657] A  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:18 Arch [0948969] C  ALPHA  From C..C..M..#. 8..7..-..^ ........................................................................g (CNOC, MO)
+2001-09-11 07:38:18 Arch [0982255] D  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:18 Arch [0901521] A  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:18 Arch [0110121] C  ALPHA  From CNOC: M..#. 8..7..-..^ C..d..........................................................................C, MO)
+2001-09-11 07:38:22 Arch [0899574] B  ALPHA  078685
+2001-09-11 07:38:22 Metrocall [1853069] D  ALPHA  Frm: GRASSER, JAMES N (AIT) Sub: September WNPO Agenda Txt: Good morning. Here is the agenda for the September meeting in Baltimore: <<WNPO Agenda 010917 & 18.doc>> I am also including the me
+2001-09-11 07:38:22 Metrocall [0905490] A  ALPHA  46-PLEASE CALL AVONDALE AT 466-0144 AS SOON AS POSSIBLE.
+2001-09-11 07:38:24 Metrocall [1903234] A  ALPHA  Frm: Generic ACTT Auto-ticket Login Sub: MONP Txt: D;L;I;0911-334977;8 TWO MILE RD,FARMINGTON,CT;135.147.33.194 Lost Connectivity;09/11/2001 07:35:24;UN INV;auto
+2001-09-11 07:38:24 Metrocall [1853069] D  ALPHA  eting min
+2001-09-11 07:38:24 Metrocall [002587974] B  ALPHA  Frm: Generic ACTT Au
+2001-09-11 07:38:24 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3558
+2001-09-11 07:38:24 Metrocall [002589224] C  ALPHA  Frm: Generic ACTT Auto-ticket Login Sub: MONP Txt: D;L;I;0911-334977;8 TWO MILE RD,FARMINGTON,CT;135.147.33.194 Lost Connectivity;09/11/2001 07:35:24;UN INV;auto
+2001-09-11 07:38:24 Metrocall [002563393] A  ALPHA  Frm: Generi
+2001-09-11 07:38:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9910
+2001-09-11 07:38:26 Metrocall [002587974] B  ALPHA  to-ticket Login Sub: MONP Txt: D;L;I;0911-334977;8 TWO MILE RD,FARMINGTON,CT;135.147.33.194 Lost Connectivity;09/11/2001 07:35:24;UN INV;auto
+2001-09-11 07:38:26 Metrocall [002563393] A  ALPHA  c ACTT Auto-ticket Login Sub: MONP Txt: D;L;I;0911-334977;8 TWO MILE RD,FARMINGTON,CT;135.147.33
+2001-09-11 07:38:28 Arch [1129747] A  ALPHA  RESOLVED:SD820306/07:00/SRC:TO/IMP:Daily Report Creator/STATUS:VIAJD800 missed the 7:00 SLC, AAO - 7:23/NOSI=?/RC: Being Investigated/OUTAGE:23 Mins
+2001-09-11 07:38:28 Arch [1617837] D  ALPHA  2019219635-666
+2001-09-11 07:38:28 Arch [1421661] D  ALPHA  RESOLVED:SD820306/07:00/SRC:TO/IMP:Daily Report Creator/STATUS:VIAJD800 missed the 7:00 SLC, AAO - 7:23/NOSI=?/RC: Being Investigated/OUTAGE:23 Mins
+2001-09-11 07:38:28 Arch [1422551] B  ALPHA  RESOLVED:SD820306/07:00/SRC:TO/IMP:Daily Report Creator/STATUS:VIAJD800 missed the 7:00 SLC, AAO - 7:23/NOSI=?/RC: Being Investigated/OUTAGE:23 Mins
+2001-09-11 07:38:28 Arch [1095925] B  ALPHA  RESOLVED:SD820306/07:00/SRC:TO/IMP:Daily Report Creator/STATUS:VIAJD800 missed the 7:00 SLC, AAO - 7:23/NOSI=?/RC: Being Investigated/OUTAGE:23 Mins
+2001-09-11 07:38:28 Metrocall [002563393] A  ALPHA  .194 Lost Connectivity;09/11/2001 07:35:24;UN INV;auto
+2001-09-11 07:38:30 Arch [1436368] A  ALPHA  (21)22:ABS: Tkt:5003310, Sev:2, Opened, Sname:SOI, CIS Id:13083815, Contact:MRN DSOC @ 8005466770 Note:LINE DOWN: PROACTIVE TICKET CREATED BY NEXUS FOR SPECTRUM. |MODEL|0x1db098ad|garret-bmv.soi.gov|Rtr_Cisco|0x10009|
+2001-09-11 07:38:30 Arch [0554645] B  ALPHA  (1)18:ABS: IONNOC SCHED MAINT. s35844. LACRCA11, START:04:50/STOP:05:17CDT, NO KNOWN CUST IMPACT. MJ/NOC/913-534-7201
+2001-09-11 07:38:30 Arch [0960795] C  ALPHA  481-1077
+2001-09-11 07:38:30 Arch [1007213] D  ALPHA  (14)90:ABS: Tkt:4952777, Sev:3, Opened, Sname:GAP, CIS Id:422404800, Contact:IBM NOC @ 8003422568 Note:PSN2 Element Bouncing: EM FTWOTX52BA6 FRUNI 8102 LMI $ Proactive Ticket Created By Nexus.
+2001-09-11 07:38:30 Arch [0873660] D  ALPHA  20:ABS: Tkt:5003310, Sev:2, Opened, Sname:SOI, CIS Id:13083815, Contact:MRN DSOC @ 8005466770 Note:LINE DOWN: PROACTIVE TICKET CREATED BY NEXUS FOR SPECTRUM. |MODEL|0x1db098ad|garret-bmv.soi.gov|Rtr_Cisco|0x10009|
+2001-09-11 07:38:31 Skytel [002673805] D  ALPHA  JOSEPH.E.DIPIETRO@saic.com|FW: Mountain Home DS10 Upgrade|  > ---------- > From:  Harrison, Jennifer G. > Sent:  Tuesday, September 11, 2001 7:27:04 AM > To:  COLE, ROBERT D.; Hagan, Daniel M.; Hatton, Daniel K.; MOORE, JIM M.; > REED, CARL
+2001-09-11 07:38:31 Skytel [003937549] D  ALPHA  (2 of 2) ve?  Go to http//marriot.com/specials/fallrates/  I allways love you!!
+2001-09-11 07:38:31 Skytel [005332100] B ST NUM  808-578-8420   
+2001-09-11 07:38:31 Skytel [003951362] A SH/TONE 1       
+2001-09-11 07:38:31 Skytel [005081481] C ST NUM  973-340-3788   
+2001-09-11 07:38:31 Skytel [004727944] C ST NUM  603-624-4794   
+2001-09-11 07:38:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 04:38:32 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 07:38:33 Skytel [004678802] A  ALPHA  89505@emc.fedex.com||Good morning, Rich Miller is the only sick call so far.  TTFN  
+2001-09-11 07:38:33 Skytel [004423190] B ST NUM  988-738-7438   
+2001-09-11 07:38:35 Arch [1063265] A  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:35 Arch [0986530] A  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:35 Arch [0387630] D  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:35 Arch [0944972] D  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:35 Arch [0931270] B  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:35 Arch [1604735] D  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:35 Arch [1044042] C  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:35 Arch [1410547] A  ALPHA  07:37 siac_xmit@edtx25-1 UP--Overseer@edtps3
+2001-09-11 07:38:35 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : w
+2001-09-11 07:38:35 Skytel [005086370] A ST NUM  988-770-5355-570    
+2001-09-11 07:38:35 Skytel [002229024] A SH/TONE 678-8468
+2001-09-11 07:38:35 Skytel [005509804] D  ALPHA  Keith.Stenman@swpc.siemens.com|P2  Ticket #71233.. |  USER: York, Joyce. PH: 439-6363...... LOC: 3S03......... ------------------ DESC: Network: Can't connect to specific server   
+2001-09-11 07:38:35 Skytel [002570921] C SH/TONE 1       
+2001-09-11 07:38:35 Skytel [007522852] B  ALPHA  doctor@dictionary.com|moil: Dictionary.com Word of the Day|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2001-09-11 07:38:35 Skytel [007088813] D SH/TONE 112-9129
+2001-09-11 07:38:37 Arch [1425048] C  ALPHA  ww36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179855. 
+2001-09-11 07:38:37 Skytel [005002292] B ST NUM  872-402-5552   
+2001-09-11 07:38:37 Skytel [002351293] D SH/TONE 42      
+2001-09-11 07:38:38 Skytel [007645888] A SH/TONE 829-0120
+2001-09-11 07:38:38 Skytel [004413255] B SH/TONE 105-7401
+2001-09-11 07:38:38 Skytel [005109961] C  ALPHA  Node GEISMEETING01 (3.184.164.13) is Down @ 07:38 09/11/01
+2001-09-11 07:38:39 Arch [0979570] A  ALPHA  ROS Sales is currently unavailable. OCC Web Ops is investigating. No ETA. Remedy# 2305761 Tony/OCC    
+2001-09-11 07:38:39 Arch [1421779] A  ALPHA  (29)12:ABS: IONNOC SCHED MAINT. s35844. LACRCA11, START:04:50/STOP:05:17CDT, NO KNOWN CUST IMPACT. MJ/NOC/913-534-7201
+2001-09-11 07:38:39 Arch [0944755] A  ALPHA  ROS Sales is currently unavailable. OCC Web Ops is investigating. No ETA. Remedy# 2305761 Tony/OCC    
+2001-09-11 07:38:39 Arch [1008707] A  ALPHA  665-5032
+2001-09-11 07:38:40 Skytel [004437840] A ST NUM  442-3671 (49   
+2001-09-11 07:38:40 Skytel [005338196] B SH/TONE 28500   
+2001-09-11 07:38:40 Skytel [002571097] C ST NUM  1003327982
+2001-09-11 07:38:40 Skytel [007589212] D SH/TONE 3395    
+2001-09-11 07:38:40 Skytel [007592286] D ST NUM  632-321-7668   
+2001-09-11 07:38:41 Metrocall [1262539] C  ALPHA  BILL BAIN W/ WOLVERINE BRASS WANTS TO KNOW IF HE CAN MEET WITH YOU ON FRIDAY ABOUT 9AM ABOUT SOME PLUMBING ITEMS 800-944-9292 EXT 9042
+2001-09-11 07:38:41 Metrocall [1411737] C  ALPHA  AV9204.0706
+2001-09-11 07:38:42 Skytel [004753250] A ST NUM  9885905712
+2001-09-11 07:38:42 Skytel [004074083] A ST NUM  850-6221-1 (37 
+2001-09-11 07:38:42 Skytel [004524770] A  ALPHA  spr-NorthAdamsRegHos-NAdamsMA-01: CPE Down at 01:47:23 on 9/11
+2001-09-11 07:38:42 Skytel [004399463] B SH/TONE 4451    
+2001-09-11 07:38:42 Skytel [002673263] D  ALPHA  kr@ansmtp.ariba.com|prod crit ANErrorDispatcher-1741105@app20.snv died quickly. Check /tmp/an/keepRunning-ANErrorDispatcher-1741105@app20.snv-28550.1-DEAD|<EOM>  
+2001-09-11 07:38:42 Skytel [004215529] C SH/TONE 3200 (21
+2001-09-11 07:38:42 Skytel [005436525] D  ALPHA  nMCI Test #85
+2001-09-11 07:38:42 Skytel [004696673] A SH/TONE 7031    
+2001-09-11 07:38:42 Skytel [003260513] A  ALPHA  kr@ansmtp.ariba.com|prod crit ANErrorDispatcher-1701105@app18.snv died quickly.  Check /tmp/an/keepRunning-ANErrorDispatcher-1701105@app18.snv-25168.1-DEAD |<EOM>  
+2001-09-11 07:38:43 Arch [0948807] B  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:43 Arch [0739586] A  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:43 Arch [1617922] A  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:43 Arch [0902190] D  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:43 Arch [0926266] C  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:43 Arch [1619813] B  ALPHA  2760
+2001-09-11 07:38:43 Arch [1656117] B  ALPHA  From CNOC: MO #1184839 - CNC Credo Group down hard.  Possible power issue at site.  CNOC investigating (CNOC, MO)
+2001-09-11 07:38:43 Metrocall [1411737] C  ALPHA  45,STOP AND SHOP # 548,COMPUTER ROOM.3,C0.,/TAPE FAILURE,.,(631)589-9677.,S24,COD=N.7025,1027127,09/11/01,2.191 MONTAUK HWY,.SAYVILLE,NY,117822512
+2001-09-11 07:38:44 Skytel [005359998] D SH/TONE 8888    
+2001-09-11 07:38:44 Skytel [007082879] D SH/TONE 433-0952
+2001-09-11 07:38:46 Skytel [002423055] D  ALPHA  B
+2001-09-11 07:38:46 Skytel [005412111] D ST NUM  315-627-4060 (55    
+2001-09-11 07:38:46 Skytel [007641999] D ST NUM  829-388-8875-0 
+2001-09-11 07:38:50 Metrocall [0043147] C  ALPHA  49-CALL STEVE BELL 901-494-9872
+2001-09-11 07:38:50 Skytel [002693664] A  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS]
+2001-09-11 07:38:52 Skytel [007041334] B  ALPHA  alert@msn.com||Hotmail CBS SportsLine.com:Welcome to SportsLine.com Office Pool Manager  
+2001-09-11 07:38:52 Skytel [005429810] A  ALPHA  405491 (28
+2001-09-11 07:38:53 Skytel [003904970] C  ALPHA  Disney Opposes Deal to Combine AOL With AT&T's Cable Assets[DJ NEWS]
+2001-09-11 07:38:53 Skytel [005551564] D  ALPHA  athomas@dwsolutions.com|ptr 0206 failed.| 
+2001-09-11 07:38:53 Skytel [007556039] B ST NUM  657-366-4470-114    
+2001-09-11 07:38:55 Skytel [005205594] C ST NUM  670-638-6217   
+2001-09-11 07:38:55 Skytel [005057492] B  ALPHA  Bill.Prusch@fema.gov|FW: Plea for Assistance|  > ---------- > From:  Tincher, Lee > Sent:  Tuesday, September 11, 2001 7:37:51 AM > To:  Prusch, Bill; Fetter, Robert; Lum, Tim > Subject:  FW: Plea for Assistance > Auto forwarded by a Rule >
+2001-09-11 07:38:57 Skytel [004530154] C SH/TONE 2207    
+2001-09-11 07:38:59 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2166
+2001-09-11 07:38:59 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2166

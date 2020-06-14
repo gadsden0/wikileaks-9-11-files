@@ -1,0 +1,56 @@
+2001-09-11 05:29:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2036
+2001-09-11 05:29:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2036
+2001-09-11 05:29:03 Skytel [005061905] A  ALPHA  f1462 mem eta 07:15am-am ctl 347
+2001-09-11 05:29:03 Skytel [002401821] D  ALPHA  146.22.45.222 ASOOMG1A CDCJ XCHN WARNING: CHANNEL PATH 5F IS NOT OPERATIONAL ussa11.SSMC 
+2001-09-11 05:29:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6858
+2001-09-11 05:29:04 Arch [0910057] C  ALPHA  pc999bot1: pc999bot1@PC999.hunterdonhealthcare.org 192.168.27.1 is down! -Contact HMC Immediately
+2001-09-11 05:29:04 Arch [0905990] B  ALPHA  From root at 05:29 AM EDT: ERROR: ERROR,webmon_lib pingme sent at 1000199890 to tx1-proc returned [ERROR,waitFor timed out (40 s... [CC:webpri] 
+2001-09-11 05:29:04 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178421. 
+2001-09-11 05:29:04 Arch [1647695] D  ALPHA  GoPBI.com Storm |Tropical Weather Advisory|000 WTNT31 KNHC 110843 TCPAT1 BULLETIN HURRICANE ERIN ADVISORY NUMBER 36 NATIONAL WEATHER SERVICE MIAMI FL 5 AM AST TUE SEP 11 2001 ....ERIN MOVING SLOWLY NORTHWARD AND CONTINUING TO WEAKEN... AT 5 
+2001-09-11 05:29:05 Skytel {1345281} 1 1200 HD 40.55 -0.40 MOT 15.04 +0.75 GE 39.35 -0.31 INTC 26.07 +0.18
+2001-09-11 05:29:07 Skytel {1599702} 1 2400 3492 U (9..
+2001-09-11 05:29:07 Skytel {1092655} 3 2400 002228    
+2001-09-11 05:29:17 Arch [0329411] A  ALPHA  PAGE FROM lifeline:  alert 8931538 EQDBA dba nyeqpss01.eq.gs.com EQPROD01_RS nyeqpss01.eq.gs.com_DBA (EQPROD01_RS): REPSERVER CHECK: LTM USER   thread for NYEQ_PRIME_PROD.product                  in state Down                ! 
+2001-09-11 05:29:17 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSTRD_EDGNY1) *** VERY SERIOUS Blocking in PDSTRD_EDGNY1 - block time=3473 > 600 secs - Tue Sep 11 05:28:27 EDT 2001 @05:28 09/11/01 
+2001-09-11 05:29:19 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSTRD_EDGNY1) MAYBE OPEN TRANSACTION in syslogshold PYR_ARCHIVE|87 - PDSTRD_EDGNY1 @05:28 09/11/01 
+2001-09-11 05:29:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9781
+2001-09-11 05:29:28 Arch [1303068] D  ALPHA  (23)fhedw7xbeask@hot|SHY ABOUT YOUR PENIS? MAKE IT BI|
+2001-09-11 05:29:30 Metrocall [1104994] A  ALPHA  Frm: jmizzi@bidcom.com Sub: Excess Oracle processes in Production - 407 Txt: Total no. of processes : 407
+2001-09-11 05:29:30 Metrocall [0121395] A  ALPHA  Frm: System Attendant Sub: EXCHCONN1 Alert since 9/11/2001 5:23 AM A message was due on 9/1 Txt: EXCHCONN1 Alert since 9/11/2001 5:23 
+2001-09-11 05:29:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3429
+2001-09-11 05:29:30 Metrocall [0089933] D  ALPHA  Frm: System Attendant Sub: EXCHCONN1 Alert since 9/11/2001 5:23 AM A message was due on 9/1 Txt: EXCHCONN1 Alert since 9/11/2001 5:23 AM A message was due on 9/11/2001 5:23 AM.
+2001-09-11 05:29:31 Metrocall [0121395] A  ALPHA  AM A message was due on 9/11/2001 5:23 AM.
+2001-09-11 05:29:31 Metrocall [1064374] B  ALPHA  YEN  121.75/80 +082 EUR  0.8967/71 -014 CHF  1.6890/96 +011 GBP  1.4552/58 -011 CAD  1.5624/29 -002 AUD  0.5139/44 +006  NZD  0.4261/71 -046 DEM  2.1802/14 +032  E/C  1.5148/53 -007 E/Y  109.17/
+2001-09-11 05:29:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 02:26:53 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:29:32 Arch [0951146] C  ALPHA  95831 TIME 18:22 ACTIVE-ECP1 CELL 53 <BEELINE> CINGULAR TOWER BEACON LIGHT FAILURE
+2001-09-11 05:29:33 Metrocall [1064374] B  ALPHA  27 +052 E/S  0.6155/60 -003 USD     114.97 +019
+2001-09-11 05:29:37 Skytel [004754611] A SH/TONE 5225    
+2001-09-11 05:29:38 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178428. 
+2001-09-11 05:29:38 Skytel [004477510] B  ALPHA  ERICY 3.94 +0.14 NXTL 10.55 -0.05 NOK 13.75 +0.48 MOT 15.04 +0.75
+2001-09-11 05:29:40 Skytel [007551195] C SH/TONE 577-5000
+2001-09-11 05:29:40 Skytel [005311829] B ST NUM  416-358-6405   
+2001-09-11 05:29:40 Skytel [005004368] A  ALPHA  sysNETIQsvc: HKG Job80104 STOK00330 09/11 17:29 UNKNOWN
+2001-09-11 05:29:42 Arch [0910057] C  ALPHA  pc999bot1: pc999bot1@PC999.hunterdonhealthcare.org 192.168.27.1 is down! -Contact HMC Immediately
+2001-09-11 05:29:42 Skytel [005112809] C  ALPHA  04:26CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240464: Uncorrectable write error
+2001-09-11 05:29:42 Skytel [005436525] D  ALPHA  Test Message #61-IX_T0510
+2001-09-11 05:29:42 Skytel [003280747] C  ALPHA  CSCO 14.47 +0.11 NT 5.35 -0.18 ALA 13.06 +0.16 LU 5.95 -0.16
+2001-09-11 05:29:42 Skytel [003664239] D  ALPHA  Oracle Buys Private Web-Based Communications Company 3Cube[DJ NEWS]
+2001-09-11 05:29:42 Skytel [003599337] C  ALPHA  Oracle Buys Private Web-Based Communications Company 3Cube[DJ NEWS] (53
+2001-09-11 05:29:42 Skytel [004524770] A  ALPHA  sprmab01:  Trunk Alarm from sprmab01 reason ok: Status Fail Slot 13 Port 2 at 00:56:50 on 9/11
+2001-09-11 05:29:44 Skytel [005120763] C ST NUM  513-564-0491   
+2001-09-11 05:29:45 Metrocall [002584296] C  ALPHA  PLEASE CHECK VOICE MAILBOX...7505757
+2001-09-11 05:29:45 Metrocall [0300391] B  ALPHA  _01Z00_02A)_1B"n6_1A8_1C3_09Movies_1A9_1B&a _1C3 _1C1BOX OFFICE _0D_1C2Fight made right for `The Musketeer,' which parlayed its mix of traditional swashbuckling and Hong Kong action choreography into 
+2001-09-11 05:29:46 Metrocall [0300391] B  ALPHA  the top spot among the nation's movies. The revisionist take on the Alexandre Dumas classic, `The Three Musketeers,' took in $10.7M on the 1st weekend of the fall film season. `Two Can Play that Game,' the battle-of-the-sexes romantic comedy starring V
+2001-09-11 05:29:48 Metrocall [0300391] B  ALPHA  ivica A. Fox and Morris Chestnut, opened in the No. 2 spot, raking in $8.3M. The No. 3 movie was another debut; `Rock Star,' starring Mark Wahlberg and Jennifer Aniston, earned $6.2M. `Our Lady of the Assassins,' a gritty Spanish-language look at viole
+2001-09-11 05:29:48 Skytel [002847128] C  ALPHA  ORCL 11.46 +0.39 MSFT 57.58 +2.18 NSCP 0.00 UNCH FMAGX 98.26 +0.50 (8
+2001-09-11 05:29:48 Skytel [002861584] A ST NUM  8685429377
+2001-09-11 05:29:48 Skytel [004534043] C SH/TONE 1       
+2001-09-11 05:29:48 Skytel [002394391] B  ALPHA  Oracle Buys Private Web-Based Communications Company 3Cube[DJ NEWS]
+2001-09-11 05:29:49 Arch [0930976] A  ALPHA  Please call 778-1932. Worm virushas affected psitrdfile05s.   
+2001-09-11 05:29:49 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 05:29:50 Metrocall [0300391] B  ALPHA  nce-wracked Colombia, opened on 4 screens in Los Angeles and New York... _04
+2001-09-11 05:29:53 Arch [0810359] B  ALPHA  [972 774-0718] 913-3738
+2001-09-11 05:29:56 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2212 - 001DEB OCALA 6125, cnet lost sync, Clr
+2001-09-11 05:29:57 Arch [0000101] B  ALPHA  MSN 120 hello Message from NOC PCB.
+2001-09-11 05:29:57 Skytel [007596901] B SH/TONE 85450   
+2001-09-11 05:29:58 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2212 - 001DEB OCALA 6125, high BER, Set

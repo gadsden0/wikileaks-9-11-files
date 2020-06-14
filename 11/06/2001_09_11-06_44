@@ -1,0 +1,94 @@
+2001-09-11 06:44:00 Arch [0945069] D  ALPHA  "RCDN Campus" <a|RCDN6 Bldg 5 - 4th Floor SF_FAIL Bldg 5 - 4th Floor Supply fan failure alarm. * 
+2001-09-11 06:44:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2111
+2001-09-11 06:44:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2111
+2001-09-11 06:44:01 Metrocall {1175634} 2 2400 711..
+2001-09-11 06:44:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6933
+2001-09-11 06:44:05 Arch [0965482] C  ALPHA  NTManage@arrowhe|NTManage|This Message is from NTManage: Device Name: Vanguard 300 Chino Address: 172.16.148.1 is Up Type: WAN Router 
+2001-09-11 06:44:05 Skytel [002693038] D  ALPHA  CWM 0.00 UNCH CCR 39.80 +1.35 DJIA 9605.51 -0.34 (3
+2001-09-11 06:44:06 Skytel {1092655} 3 2400 002253    
+2001-09-11 06:44:07 Arch [0965482] C  ALPHA  NTManage@arrowhe|NTManage|This Message is from NTManage: Device Name: Europa Address: 172.16.148.15 is Up Type: Novell Server 
+2001-09-11 06:44:09 Arch [1071526] B  ALPHA  From:Credit Systems/PI/Prudential@PRUDENTIAL Subject:Test MARS Part1 Complete 9/11/2001 6:48:41 AM
+2001-09-11 06:44:09 Arch [0733453] D  ALPHA  From:Credit Systems/PI/Prudential@PRUDENTIAL Subject:Test MARS Part1 Complete 9/11/2001 6:48:41 AM
+2001-09-11 06:44:11 Arch [0909854] D  ALPHA  ALERT#: 2 WB09110034 STOP & SHOP 0085 ISS400 508-852-0505 58023
+2001-09-11 06:44:11 Arch [0971193] C  ALPHA  ALERT#: 2 WB09110034 STOP & SHOP 0085 ISS400 508-852-0505 58023
+2001-09-11 06:44:11 Arch [0809945] C  ALPHA  Please call 2050
+2001-09-11 06:44:19 Metrocall {1245972} 3 2400 Frm: Akelly Txt: 11 Sep 2001 06:46 HRBT EB BACKED UP 2 MI TO ALMOST HC BRIDGE. HEAVY TRAFFIC.....
+2001-09-11 06:44:20 Metrocall {1142045} 1 2400 Frm: Akelly Txt: 11 Sep 2001 06:46 HRBT EB BACKED UP 2 MI TO ALMOST HC BRIDGE. HEAVY TRAFFIC.....
+2001-09-11 06:44:22 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|mc0300ux202|CR: 143967 Priority: 3 Assigned to: Summary:: CPU warning or critical alert 
+2001-09-11 06:44:24 Metrocall [0728210] A  ALPHA  UPDT- HUMANA (HAMPTON) EXP SPOR CONN PROBS.. NO ETA (19JC07520)-0642
+2001-09-11 06:44:24 Metrocall [0885000] C  ALPHA  UPDT- HUMANA (HAMPTON) EXP SPOR CONN PROBS.. NO ETA (19JC07520)-0642
+2001-09-11 06:44:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9856
+2001-09-11 06:44:29 Metrocall [1424335] D  ALPHA  8886221032 Technician reports that the DULLES TDWR is out of service.  Equipment is experiencing 'Severe azimuth position error' problem and technician is en route to site for restoration.(vjj) @AEAMCC 09/11/01 10:47:42
+2001-09-11 06:44:29 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3504
+2001-09-11 06:44:31 Skytel [007035523] A  ALPHA  "Initial" Sev1 Cleveland NPS  #HO84418 5:30am  I:  NPS is down,Host 36  E:  Pem Primary  Jeff@Helpdesk 1-512-248-4845-ATC Helpdesk
+2001-09-11 06:44:31 Skytel [004402048] A  ALPHA  "Initial" Sev1 Cleveland NPS  #HO84418 5:30am  I:  NPS is down,Host 36  E:  Pem Primary  Jeff@Helpdesk 1-512-248-4845-ATC Helpdesk
+2001-09-11 06:44:31 Skytel [004568333] D  ALPHA  "Initial" Sev1 Cleveland NPS  #HO84418 5:30am  I:  NPS is down,Host 36  E:  Pem Primary  Jeff@Helpdesk 1-512-248-4845-ATC Helpdesk
+2001-09-11 06:44:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 03:44:21 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 06:44:31 Skytel [005061250] A  ALPHA  Solutia: Update: sev02 19500086: The problem with the CC-Mail to Lotus notes transfers is with a Solutia 3rd party, Via
+2001-09-11 06:44:33 Skytel [007035540] B  ALPHA  "Initial" Sev1 Cleveland NPS  #HO84418 5:30am  I:  NPS is down,Host 36  E:  Pem Primary  Jeff@Helpdesk 1-512-248-4845-ATC Helpdesk
+2001-09-11 06:44:33 Skytel [004686354] A  ALPHA  ITO@dlj.com|eqmojave - X25|Sep 11 06:00:05 eqmojave unix: NOTICE: LAPB Up on link 2   
+2001-09-11 06:44:33 Skytel [002822678] B  ALPHA  INTC 26.07 +0.18 IFMX 0.00 UNCH SUNW 10.29 -0.30 IBM 96.47 -0.12 (5
+2001-09-11 06:44:33 Skytel [005061250] A  ALPHA  nova. Case dropped to a sev03 per account.  -- From: AHSMC Sys Mgmt 248-370-1995
+2001-09-11 06:44:33 Skytel [007575575] B  ALPHA  [MINOR] dijon: File-system "/biller/wnet/data/parser" is now 86% full.
+2001-09-11 06:44:35 Skytel [007437090] A ST NUM  0-847-519-9711 (21  
+2001-09-11 06:44:35 Skytel [002376872] C  ALPHA  hevaem@conxion.net|app-heva-1.conxion.com, FTP, 206.204.212.167:21, Server Recovered, | 
+2001-09-11 06:44:35 Skytel [003275684] B  ALPHA  "Initial" Sev1 Cleveland NPS  #HO84418 5:30am  I:  NPS is down,Host 36  E:  Pem Primary  Jeff@Helpdesk 1-512-248-4845-ATC Helpdesk
+2001-09-11 06:44:37 Arch [0329411] A  ALPHA  PAGE FROM lifeline:  alert 8932446 EQDBA dba nyeqpss01.eq.gs.com EQPROD01_RS nyeqpss01.eq.gs.com_DBA (EQPROD01_RS): REPSERVER CHECK: Failed to login to Replication Server EQPROD01_RS 
+2001-09-11 06:44:37 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179257. 
+2001-09-11 06:44:37 Skytel [004535088] A SH/TONE 4678    
+2001-09-11 06:44:37 Skytel [007035826] A  ALPHA  sunlu62@spsdGtwy.fir.ml.com|Sent 09/11 06:40|PROD ALOC HAS NOT EXECUTED WITHIN INTERVAL 00:05:00                                                                                                                                            
+2001-09-11 06:44:37 Skytel [005346224] A  ALPHA  sunlu62@spsdGtwy.fir.ml.com|Sent 09/11 06:40|PROD ALOC HAS NOT EXECUTED WITHIN INTERVAL 00:05:00                                                                                                                                                
+2001-09-11 06:44:37 Skytel [005344945] A  ALPHA  "Initial" Sev1 Cleveland NPS  #HO84418 5:30am  I:  NPS is down,Host 36  E:  Pem Primary  Jeff@Helpdesk 1-512-248-4845-ATC Helpdesk
+2001-09-11 06:44:37 Skytel [005112125] D  ALPHA  MSFT 56.79 +1.39 CBR 5.79 -0.10 BEAS 14.30 +0.64
+2001-09-11 06:44:37 Skytel [005345460] B  ALPHA  sunlu62@spsdGtwy.fir.ml.com|Sent 09/11 06:40|PROD ALOC HAS NOT EXECUTED WITHIN INTERVAL 00:05:00                                                                                                                                                
+2001-09-11 06:44:38 Skytel [007035826] A  ALPHA      
+2001-09-11 06:44:38 Skytel [007031106] A  ALPHA  "Initial" Sev1 Cleveland NPS  #HO84418 5:30am  I:  NPS is down,Host 36  E:  Pem Primary  Jeff@Helpdesk 1-512-248-4845-ATC Helpdesk
+2001-09-11 06:44:38 Skytel [005508800] A  ALPHA  "Initial" Sev1 Cleveland NPS  #HO84418 5:30am  I:  NPS is down,Host 36  E:  Pem Primary  Jeff@Helpdesk 1-512-248-4845-ATC Helpdesk
+2001-09-11 06:44:38 Skytel [005098183] B  ALPHA  544 list -Plano 2 Way Ops
+2001-09-11 06:44:38 Skytel [002359884] D  ALPHA  STU750P IS COMPLETE
+2001-09-11 06:44:38 Skytel [002554056] C ST NUM  614-1597 (99   
+2001-09-11 06:44:38 Skytel [007031502] D  ALPHA  "Initial" Sev1 Cleveland NPS  #HO84418 5:30am  I:  NPS is down,Host 36  E:  Pem Primary  Jeff@Helpdesk 1-512-248-4845-ATC Helpdesk
+2001-09-11 06:44:40 Skytel [005492818] A ST NUM  560-521-2356-236    
+2001-09-11 06:44:40 Skytel [003256026] C  ALPHA  "Initial" Sev1 Cleveland NPS  #HO84418 5:30am  I:  NPS is down,Host 36  E:  Pem Primary  Jeff@Helpdesk 1-512-248-4845-ATC Helpdesk
+2001-09-11 06:44:40 Skytel [005192409] C  ALPHA  DELL 22.57 +1.02 EMC 13.95 +0.60 AMGN 64.10 +0.20 MSFT 57.61 +2.21
+2001-09-11 06:44:40 Skytel [004175313] A  ALPHA   Monday 9/10 sched. 1272, actual production 1272 From: RichardGranata (1-734-4670444)
+2001-09-11 06:44:40 Skytel [005138014] D  ALPHA  EGRP 0.00 UNCH MSFT 57.58 +2.18 CSCO 14.45 +0.09 INKT 3.15 +0.25
+2001-09-11 06:44:40 Skytel [007656280] C ST NUM  18007243624    
+2001-09-11 06:44:40 Skytel [003925968] A SH/TONE 4550 (49
+2001-09-11 06:44:40 Skytel [005004368] A  ALPHA  sysNETIQsvc: NYC Job112788 SNYC11319 09/11 06:44 EVENTLOG
+2001-09-11 06:44:40 Skytel [002403166] D  ALPHA  Vmail
+2001-09-11 06:44:40 Skytel [007035485] D  ALPHA  "Initial" Sev1 Cleveland NPS  #HO84418 5:30am  I:  NPS is down,Host 36  E:  Pem Primary  Jeff@Helpdesk 1-512-248-4845-ATC Helpdesk
+2001-09-11 06:44:42 Skytel [007047533] D  ALPHA  "Initial" Sev1 Cleveland NPS  #HO84418 5:30am  I:  NPS is down,Host 36  E:  Pem Primary  Jeff@Helpdesk 1-512-248-4845-ATC Helpdesk
+2001-09-11 06:44:42 Skytel [003917932] D  ALPHA  "Initial" Sev1 Cleveland NPS  #HO84418 5:30am  I:  NPS is down,Host 36  E:  Pem Primary  Jeff@Helpdesk 1-512-248-4845-ATC Helpdesk
+2001-09-11 06:44:42 Skytel [004517601] A  ALPHA  MSFT 57.58 +2.18 IBM 96.47 -0.12 HWP 17.89 -0.19 SUNW 10.29 -0.30
+2001-09-11 06:44:42 Skytel [005508969] C  ALPHA  STU750P IS COMPLETE
+2001-09-11 06:44:42 Skytel [005521761] A  ALPHA  no-reply@wcom.com|CSR SERVER ALERT|CSRP.world: Unable to establish connection to ILEC  (Request ID: 10234626)  
+2001-09-11 06:44:42 Skytel [005436525] D  ALPHA  Test #31-IX_T0404
+2001-09-11 06:44:42 Skytel [005102305] A  ALPHA  Sep11:06-21:morhp321:ORA-1142 signalled during: ALTER TABLESPACE PSAPDOCUI END BACKUP... 
+2001-09-11 06:44:43 Metrocall [0728218] C  ALPHA  UPDT- HUMANA (HAMPTON) EXP SPOR CONN PROBS.. NO ETA (19JC07520)-0642
+2001-09-11 06:44:43 Metrocall [1267395] A  ALPHA  UPDT- HUMANA (HAMPTON) EXP SPOR CONN PROBS.. NO ETA (19JC07520)-0642
+2001-09-11 06:44:43 Metrocall [0728159] D  ALPHA  UPDT- HUMANA (HAMPTON) EXP SPOR CONN PROBS.. NO ETA (19JC07520)-0642
+2001-09-11 06:44:43 Metrocall [0887855] D  ALPHA  UPDT-
+2001-09-11 06:44:43 Metrocall [0270060] D  ALPHA  UPDT- HUMANA (HAMPTON) EXP SPOR CONN PROBS.. NO ETA (19JC07520)-0642
+2001-09-11 06:44:44 Metrocall [0887855] D  ALPHA   HUMANA (HAMPTON) EXP SPOR CONN PROBS.. NO ETA (19JC07520)-0642
+2001-09-11 06:44:44 Skytel [005350646] B  ALPHA  sunlu62@spsdGtwy.fir.ml.com|Sent 09/11 06:40|PROD ALOC HAS NOT EXECUTED WITHIN INTERVAL 00:05:00                                  @                     @@@                     @@@                     @@@                     ...               
+2001-09-11 06:44:44 Skytel [005113725] D  ALPHA  "Initial" Sev1 Cleveland NPS  #HO84418 5:30am  I:  NPS is down,Host 36  E:  Pem Primary  Jeff@Helpdesk 1-512-248-484.maTC.H%.qdAqk
+2001-09-11 06:44:44 Skytel [007035903] D  ALPHA  s.nl.42.........................................................P..X..P..D..h..`@@@NTERVAL 00:05:00     
+2001-09-11 06:44:44 Skytel [005342584] C  ALPHA  sunlu62@spsdGtwy.fir.ml.com|Sent 09/11 06:40|PROD ALOC HAS NOT EXECUTED WITHIN INTERVAL 00:05:00                                                                                                         b.                     ...               
+2001-09-11 06:44:44 Skytel [005045887] D  ALPHA  "Initial" Sev1 Cleveland NPS  #HO84418 5:30am  I:  NPS is down,Host 36  E:  Pem Primary  Jeff@Helpdesk 1-512-248-4845-ATC HelpdeskA
+2001-09-11 06:44:46 Skytel [005524994] A SH/TONE 1       
+2001-09-11 06:44:46 Skytel [007035903] D  ALPHA                                                                                                                                          
+2001-09-11 06:44:46 Skytel [002742906] C SH/TONE 3694    
+2001-09-11 06:44:48 Skytel [004394268] D SH/TONE 52975   
+2001-09-11 06:44:50 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: labcb-wbs01 Sev:4 # 36314 ExceptionInInitializeVBIDecoder WBS 3.1.14.1 09/11/01 03:44:24 PDT7 Instance: WBSSched_|_TNT_|_Created:09/11/01_02:30:08 Module: GatewayConnection Details: PID=5553 TID=136 Unable to open
+2001-09-11 06:44:50 Metrocall [1560616] C  ALPHA  09/11@05:36:43 WNTPRIME:The server has encountered a network error.
+2001-09-11 06:44:50 Metrocall [1423721] C  ALPHA  09/11@05:36:43 WNTPRIME:The server has encountered a network error.
+2001-09-11 06:44:50 Metrocall [002118707] A  ALPHA  09/11@05:36:43 WNTPRIME:The server has encountered a network error.
+2001-09-11 06:44:50 Skytel [005352484] B  ALPHA  SkyFax: :1 Page
+2001-09-11 06:44:50 Skytel [004403104] A ST NUM  900-897-4494-1111   
+2001-09-11 06:44:53 Skytel [002568391] B ST NUM  817-318-880091131491
+2001-09-11 06:44:53 Skytel [005485004] D SH/TONE 295-4142
+2001-09-11 06:44:55 Skytel [002784979] A ST NUM  917-931-5178   
+2001-09-11 06:44:57 Skytel [004524770] A  ALPHA  spr-Heatbath-SpringfieldMA-01: CPE Down at 01:47:27 on 9/11
+2001-09-11 06:44:57 Skytel [007641961] C SH/TONE 17      
+2001-09-11 06:44:59 Skytel [005074035] A SH/TONE 597-0827

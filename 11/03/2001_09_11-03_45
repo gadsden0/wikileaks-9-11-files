@@ -1,0 +1,47 @@
+2001-09-11 03:45:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1932
+2001-09-11 03:45:00 Metrocall [0902071] B  ALPHA  Job # 517 KAISER-VALLEY CSA LS: STD    Rdy: 2356 Exdl: 0256 P/U:KAISER/LAB 6600 BRUCEVILLE RD. SACRAMENTO D/L:KAISER LAB 2025 MORSE AV. SACRAMENTO Wt:    1 Caller: EMA Ref: 660694
+2001-09-11 03:45:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1932
+2001-09-11 03:45:02 Metrocall [0902071] B  ALPHA  0
+2001-09-11 03:45:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6754
+2001-09-11 03:45:05 Arch [1080366] D  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 03:45:05 Arch [1355675] C  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 03:45:05 Arch [1423082] C  ALPHA  Oracle Applicati|TPGBPROD.Tblspc.unixp02|TPGBPROD TABLESPACE_NAME %USED Free Space in MB INVD 75 250.070313 
+2001-09-11 03:45:13 Metrocall [0477913] C  ALPHA  1.14.1 09/11/01 01:44:38 MDT6 Instance: VAL Module: EventMgr Details: PID=28700 TID=11 01:44:38:814737: START: SMCInvalidOpException starting event: [4457 (V
+2001-09-11 03:45:18 Metrocall [0477913] C  ALPHA  Frm: daemon@wink.com Txt: crp-wbs02 Sev:5 # 600039 too few/many quotes ./bbsm 3.1.14.1 09/11/01 01:49:00 MDT6 Instance: crp-wbs02 Module: 2308 Details: too few/many quotes
+2001-09-11 03:45:25 Arch [0000101] B  ALPHA  MSN 070 hello Message from NOC PCB.
+2001-09-11 03:45:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9677
+2001-09-11 03:45:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3325
+2001-09-11 03:45:31 Arch [1604354] A  ALPHA  (9)05:ABS: Tkt:5002823, Sev:2, Opened, Sname:SYM, CIS Id:13100506, Contact:IS SUPPORT @ 6317384731 Note:LINE DOWN: PROACTIVE TICKET CREATED BY NEXUS FOR SPECTRUM. |MODEL|0x1939868|bangalore.symbol.com|Rtr_Cisco|0x10009|
+2001-09-11 03:45:31 Skytel [005386632] C  ALPHA  bb@fw1-qw1.quicknet.net|!BB - 1873311! ec1-qw1.quicknet.net.http - 600010009100010|[1873311]   ec1-qw1.quicknet.net.http red  Tue Sep 11 00:45:19 PDT 2001    &green https://store1.quicknet.net/cgi-bin/dialpad?  DCP1 - Server OK HTTP/1.1 200
+2001-09-11 03:45:31 Skytel [005386637] D  ALPHA  bb@fw1-qw1.quicknet.net|!BB - 1873310! ec1-qw1.quicknet.net.http - 600010009100010|[1873310]   ec1-qw1.quicknet.net.http red  Tue Sep 11 00:45:19 PDT 2001    &green https://store1.quicknet.net/cgi-bin/dialpad?  DCP1 - Server OK HTTP/1.1 200
+2001-09-11 03:45:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 00:43:43 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 03:45:33 Skytel [002401821] D  ALPHA  206.122.40.67 Code =  JOES  - Job Output Elements ussa11.SSMC 
+2001-09-11 03:45:33 Skytel [002559894] B SH/TONE 772-7213
+2001-09-11 03:45:35 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177297. 
+2001-09-11 03:45:35 Skytel [005353645] D  ALPHA  FYI:PROB136426 Status Is Assigned : To: bloomington support: User is getting a security error when trying to search - contact Mike at:952 841-5740- ex 71527
+2001-09-11 03:45:35 Skytel [007520548] B  ALPHA  y-alerts@yahoo-inc.com||Fr: g-wong@juno.com *this Sunday meeting* Eddie,         Thank you for updat
+2001-09-11 03:45:35 Skytel [003934628] B  ALPHA  TERRY, Please call Adeleye at 224-6930. Thanks
+2001-09-11 03:45:36 Skytel [005325115] C  ALPHA  077-3433 [575
+2001-09-11 03:45:38 Skytel [003263054] D  ALPHA  bcs_alert@am.sony.com|BCS Alert|BCS_PENDING_TRANSACTIONS has 121 records!  
+2001-09-11 03:45:38 Skytel [004540235] C  ALPHA  09/11/2001 03:42:05 am: SPSMLN01 changed to Not-Responding.
+2001-09-11 03:45:39 Metrocall [1398832] A  ALPHA  Frm: 'rrranch021@aol.com Sub: re: thanks for the pics... Txt: that is not all that is stored up for you, my yummy la
+2001-09-11 03:45:40 Skytel [003268440] C  ALPHA  bcs_alert@am.sony.com|BCS Alert|PROCESSOR.EXE stopped running 36 minutes ago!  
+2001-09-11 03:45:40 Skytel [005384405] B  ALPHA  bb@fw1-qw1.quicknet.net|!BB - 1873312! ec1-qw1.quicknet.net.http - 600010009100010|[1873312]   ec1-qw1.quicknet.net.http red  Tue Sep 11 00:45:19 PDT 2001    &green https://store1.quicknet.net/cgi-bin/dialpad?  DCP1 - Server OK HTTP/1.1 200
+2001-09-11 03:45:40 Skytel [003951056] A  ALPHA  slga01 Resource: SLGA01:/NT_CPU/CPU_0/CPUprcrProcessorTimePercent,current state is : CRITICAL ussa11.SSMC 
+2001-09-11 03:45:40 Skytel [004665817] C  ALPHA  392-7211 U [15603
+2001-09-11 03:45:40 Skytel [0001114] C  ALPHA  FM Ticket Assigned High Case HD0000000301338 for TIVOLI AUTOSUBMIT NONE pmplus-sba20 /usr/sbin/cron is not responding attempted restart failed on host pmplus-sba20. DAEMON
+2001-09-11 03:45:42 Arch [0632438] B  ALPHA  OPSMVS: JOB COE9026 NOT COMPLETED BY BENCHMARK TIME OF 03:45 EST.
+2001-09-11 03:45:42 Skytel [005170147] A ST NUM  223-442-8500   
+2001-09-11 03:45:42 Skytel [005436525] D  ALPHA  Test #55
+2001-09-11 03:45:42 Skytel [004524770] A  ALPHA  spf-FinancialInstitutions-Warsaw: CPE Up at 00:57:05 on 9/11
+2001-09-11 03:45:44 Skytel [002396156] D SH/TONE 4359    
+2001-09-11 03:45:44 Skytel [007109749] B ST NUM  500177361724011125  
+2001-09-11 03:45:44 Skytel [007541750] B SH/TONE 1403    
+2001-09-11 03:45:44 Skytel [007118207] D ST NUM  454-187-8183-11
+2001-09-11 03:45:48 Skytel [003944209] A ST NUM  306-674-4605   
+2001-09-11 03:45:48 Skytel [007562649] C SH/TONE 20      
+2001-09-11 03:45:50 Skytel [002360107] C SH/TONE 3333 (1 
+2001-09-11 03:45:50 Skytel [005525035] C  ALPHA  Chile E1. Start time 0015L, end time 0200L.  Paul Green  cleared procedure issue. Call Toby if necessary 972-896-8629.-John Greer
+2001-09-11 03:45:53 Arch [0308296] C  ALPHA  prodpctl@phas114|AP inbound.ksh|Exit status from download file CHD0431.MSRSCOLL.NFDR.DAT is non 0, Please check this on phas114. I have saved this file in staging with ext. CHD0431.MSRSCOLL.NFDR.DAT.bad 
+2001-09-11 03:45:57 Arch [0975773] D  ALPHA  sallyboz <clubs-|Some British articles on Renee [|I wonder if you had come across these two articles about Renee that were in the UK press, one in 1999 and one very recently just before her Prom appearance. The links are long - I hope they w
+2001-09-11 03:45:57 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177304. 

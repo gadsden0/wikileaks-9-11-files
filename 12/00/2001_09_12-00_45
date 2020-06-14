@@ -1,0 +1,118 @@
+2001-09-12 00:45:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8014
+2001-09-12 00:45:02 Skytel [005389704] C ST NUM  515-235-6242   
+2001-09-12 00:45:02 Skytel [005188360] C SH/TONE 222222  
+2001-09-12 00:45:03 Skytel [007585684] B SH/TONE 645-0101
+2001-09-12 00:45:06 Skytel {1037576} 3 1200 1-888-662-7632 
+2001-09-12 00:45:07 Skytel {0743995} 1 2400 800-344-8041   
+2001-09-12 00:45:12 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-12 00:45:12 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191467. 
+2001-09-12 00:45:14 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 00:45:16 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02
+2001-09-12 00:45:18 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-12 00:45:22 Arch [0931298] A  ALPHA  212 254-7344
+2001-09-12 00:45:22 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0937
+2001-09-12 00:45:30 Metrocall [1544818] A  ALPHA  CRDC-MAIL03 "Server CRDC-MAIL03/MSVR/KAIPERM - The following pending documents in mail3.box are older than 30 minutes 1C1EA2"
+2001-09-12 00:45:31 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-12 00:45:31 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3193
+2001-09-12 00:45:31 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3193
+2001-09-12 00:45:32 Skytel [005236495] D ST NUM  110005052 
+2001-09-12 00:45:32 Skytel [007608834] A  ALPHA  dpellico@oxhp.com| processes abend|Please call operations at 7756.  
+2001-09-12 00:45:32 Skytel [004749189] B ST NUM  200-000-0003-33333  
+2001-09-12 00:45:32 Skytel [007653641] C ST NUM  678-841-4911   
+2001-09-12 00:45:32 Skytel [005316995] A ST NUM  956-822-6143   
+2001-09-12 00:45:32 Skytel [005524994] A SH/TONE 1       
+2001-09-12 00:45:32 Skytel [003920778] C  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:33 Arch [0987275] C  ALPHA  s0191: 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-12 00:45:33 Skytel [005521565] D ST NUM  0-323-296-4773 
+2001-09-12 00:45:33 Skytel [005328791] B  ALPHA  system@cdvcs1.mcit.com|NTSS-VMS at SAC on CDVCS1|At 2001-09-12 04:39:00.87 12-SEP 04:39 SLSB01 unreachable: connection timeout on receiving data  
+2001-09-12 00:45:33 Skytel [004686110] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 00:45:33 Skytel [004405151] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 00:45:35 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:19
+2001-09-12 00:45:35 Skytel [002859682] A  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:35 Skytel [003257632] A  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the iss
+2001-09-12 00:45:35 Skytel [005001895] B  ALPHA  [sps/179] 200 sps-apps1.cps.intel.com relay-ssl 0.572 Application isokay (/Ivep/healthcheck.asp) 4:38:09
+2001-09-12 00:45:35 Skytel [002366500] B  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV
+2001-09-12 00:45:35 Skytel [004024864] A  ALPHA  sterling@firstusa.com|| SiteScope home home 449710 unable to reach server    ********************************************************************** This transmission may contain information that is privileged, confidential and/or exempt fro
+2001-09-12 00:45:35 Skytel [003897383] B  ALPHA  mel63@palm.net|Dayton - MyPalm Trip Reminder|MyPalm Reminder ~~~~~~~~~~~~~~~  Melissa Alwood is reminding you about a trip in her MyPalm calendar. The details are provided below.  Title: Dayton Date: September 13, 2001 (All Day)  Notes: Vis
+2001-09-12 00:45:37 Arch [0987275] C  ALPHA  s0191: 09/11 14:09:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:09:21
+2001-09-12 00:45:37 Arch [1629159] B  ALPHA  CBA99999 UNABLE TO RENAME INS.OTS.CY003.DXN FOR NDM2IBST. RC=12.
+2001-09-12 00:45:37 Skytel [003257632] A  ALPHA  ue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:37 Skytel [002840766] D  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219 
+2001-09-12 00:45:37 Skytel [002366500] B  ALPHA  18005731219                      
+2001-09-12 00:45:37 Skytel [005094835] A SH/TONE 714-3153
+2001-09-12 00:45:37 Skytel [005061043] A  ALPHA  37) SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:37 Skytel [005345829] B  ALPHA  NetIQ.SB
+2001-09-12 00:45:37 Skytel [005003958] B SH/TONE 04982   
+2001-09-12 00:45:37 Skytel [005110712] C SH/TONE 106     
+2001-09-12 00:45:37 Skytel [007031216] A  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:37 Skytel [005180473] C ST NUM  215-427-1972   
+2001-09-12 00:45:37 Skytel [005344945] A  ALPHA  SEV1 DesMoines "Update"  Tick
+2001-09-12 00:45:37 Skytel [003260990] D  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:37 Skytel [007607084] D SH/TONE 685-7047
+2001-09-12 00:45:37 Skytel [007035572] B  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is wor
+2001-09-12 00:45:39 Arch [0987275] C  ALPHA  s0191: 09/11 14:17:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:17:24
+2001-09-12 00:45:39 Skytel [002840766] D  ALPHA                       
+2001-09-12 00:45:39 Skytel [005132482] A ST NUM  999-555-1212   
+2001-09-12 00:45:39 Skytel [005210183] B  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:39 Skytel [005345829] B  ALPHA  SS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 00:45:39 Skytel [005344945] A  ALPHA  et84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:39 Skytel [003918666] C ST NUM  323-650-7949   
+2001-09-12 00:45:39 Skytel [007035572] B  ALPHA  king the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:39 Skytel [004689866] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLC
+2001-09-12 00:45:41 Skytel [007529050] C SH/TONE 123     
+2001-09-12 00:45:41 Skytel [005004368] A  ALPHA  sysNETIQsvc: LON job(s) 211818 SLON00014 2001/09/12 05:45 SERVICES
+2001-09-12 00:45:41 Skytel [007518930] A  ALPHA  CALL KITTY 946 4767 AS SOON AS POSSIBLE PLEASE.
+2001-09-12 00:45:41 Skytel [007047515] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  E
+2001-09-12 00:45:41 Skytel [005485529] C ST NUM  675-826-4256   
+2001-09-12 00:45:41 Skytel [003256026] C  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:41 Skytel [007108699] C ST NUM  911-420-5143   
+2001-09-12 00:45:41 Skytel [004689866] C  ALPHA  onnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 00:45:41 Skytel [007595229] D ST NUM  546                 
+2001-09-12 00:45:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #36-IX_T1706
+2001-09-12 00:45:43 Skytel [007047515] C  ALPHA  ventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 00:45:43 Skytel [007438052] B SH/TONE 3333 (97
+2001-09-12 00:45:43 Skytel [005040100] B  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:43 Skytel [007047533] D  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:45 Skytel [004550270] D  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:45 Skytel [005092221] D  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on 
+2001-09-12 00:45:45 Skytel [007467893] B ST NUM  905-740-1108   
+2001-09-12 00:45:45 Skytel [007035519] D  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:45 Skytel [005045887] D  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom 
+2001-09-12 00:45:45 Skytel [003778815] D  ALPHA  noreply@spyonit.com|Murphy Gas Price|The url http://www.vicinity.com/murphyoil/geoprx.hm?AD2=&AD3=39042&DBR=50&GMI=1&DBCOUNT=1&x=16&y=12 has changed.  
+2001-09-12 00:45:45 Skytel [007035508] B  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on throug
+2001-09-12 00:45:45 Skytel [005060606] D  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:45 Skytel [005525114] C  ALPHA  NetIQ.SBSS0009MS@icn.siemens.com|NetIQ Event from SBSS0018 : Failed on 
+2001-09-12 00:45:47 Skytel [005092221] D  ALPHA  http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 00:45:47 Skytel [004402048] A  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working t
+2001-09-12 00:45:47 Skytel [005045887] D  ALPHA  is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:47 Skytel [007035523] A  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  
+2001-09-12 00:45:47 Skytel [007035508] B  ALPHA  h tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:47 Skytel [005044104] C  ALPHA  scott.thomas@lamrc.com|Lab DB - Hitachi 4 used more than allowable time limit.|The next user is waiting to use Hitachi 4. You have been using the tool for 
+2001-09-12 00:45:47 Skytel [005525114] C  ALPHA  http://click2procure.com|JobID = 48381 KSName = General_URLConnectivity MC MachineName = SBSS0018 Object Name = <>  EventMsg = Failed on http://click2procure.com LongMsg
+2001-09-12 00:45:48 Skytel [004402048] A  ALPHA  he issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:48 Skytel [003474066] A SH/TONE 1       
+2001-09-12 00:45:48 Skytel [007035523] A  ALPHA  DavidV18005731219                      
+2001-09-12 00:45:48 Skytel [007550878] D  ALPHA  415 436-3529 TSD#1704588 Bad Serial Card Cisco 7206 CASFOCPL03R01.  SEV2/Business impact: high serial ports down.  Pls call RNO for details. Derek or Ruel <DCOLVIN-21:45PT TSCANSF>
+2001-09-12 00:45:48 Skytel [005044104] C  ALPHA  242 minutes and your allowable time on the tool has expired, please end your session 
+2001-09-12 00:45:48 Skytel [002864402] A  ALPHA  cindypot23@my.smart.com.ph|BHEy| ingat kayo at wag ng pa late. call me bef u SLEEP ~ i love u sungit!   
+2001-09-12 00:45:50 Skytel [007061794] A ST NUM  719-255-4120   
+2001-09-12 00:45:50 Skytel [004417186] A ST NUM  270-0311-2
+2001-09-12 00:45:50 Skytel [002673830] B  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:50 Skytel [005243307] C SH/TONE 800-7125
+2001-09-12 00:45:50 Skytel [002376872] C  ALPHA  svcaem1@conxion.net|onl-sf-2.symantec.com, HTTP, 206.204.52.77:80, Server timed out, | 
+2001-09-12 00:45:52 Arch [0480248] C  ALPHA  PLEASE CALL LISSA WHEN YOU HAVE A SECOND
+2001-09-12 00:45:52 Skytel [007573043] A SH/TONE 281-4938
+2001-09-12 00:45:52 Skytel [004709432] C ST NUM  302-424-7268-4322   
+2001-09-12 00:45:54 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:19 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:19
+2001-09-12 00:45:54 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 191474. 
+2001-09-12 00:45:54 Skytel [005508800] A  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:54 Skytel [007031502] D  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:54 Skytel [007100873] C  ALPHA  415 436-3529 TSD#1704588 Bad Serial Card Cisco 7206 CASFOCPL03R01.  SEV2/Business impact: high serial ports down.  Pls call RNO for details. Derek or Ruel <DCOLVIN-21:45PT TSCANSF>
+2001-09-12 00:45:56 Arch [0987275] C  ALPHA  s0191: 09/11 14:26:21 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:26:21
+2001-09-12 00:45:56 Skytel [007035485] D  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:57 Arch [0987275] C  ALPHA  s0191: 09/11 14:34:34 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:34:35
+2001-09-12 00:45:57 Arch [0902374] B  ALPHA  GP ATL C-0000000036216 :  Device unreachable: internet2-gw-e0/1, IACAFTERHOURS
+2001-09-12 00:45:57 Arch [0928311] B  ALPHA  DEVELOPING STORY NEW YORK (CNN) -- At least 265 New York City firefighters were feared dead as a result of the attack on the World Trade Center, according to Andrew White, spokesman for the Internatio
+2001-09-12 00:45:58 Skytel [003917932] D  ALPHA  SEV1 DesMoines "Update"  Ticket84737 10:34p  I:Axiom is working the issue on through tomorrow. The ticket will remain open.  DavidV18005731219                      
+2001-09-12 00:45:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8015
+2001-09-12 00:45:59 Arch [0987275] C  ALPHA  s0191: 09/11 14:41:21 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:41:21

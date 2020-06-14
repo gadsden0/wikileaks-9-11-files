@@ -1,0 +1,134 @@
+2001-09-11 07:02:03 Skytel [007641751] B SH/TONE 5827    
+2001-09-11 07:02:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6951
+2001-09-11 07:02:04 Arch [1427520] A  ALPHA  "Diegel, Irvin F|Test|Test Message. 
+2001-09-11 07:02:04 Arch [0925172] B  ALPHA  NETMON <NETMON@f|parbdcsrv01 is not responding to pings. 
+2001-09-11 07:02:04 Arch [0921996] D  ALPHA  55 5th Ave. (<45) TROUBLE OUT  32-15  07:02:30 Sep 11,2001 1ST FL WATERFLOW UNIV. LOUNGE, Input Disarmed, TRX-1 Switch Input
+2001-09-11 07:02:04 Arch [0981046] B  ALPHA  "Popjoy, William|test|Thanks, Bill Popjoy PDS Centralized Operations Work: 732 885-6451 Pager: 888 858-7243 PIN: 111073 Text to pager: 111073@page.metrocall.com email: popjoy@att.com 
+2001-09-11 07:02:04 Arch [1608317] D  ALPHA  55 5th Ave. (<45) TROUBLE OUT  32-15  07:02:30 Sep 11,2001 1ST FL WATERFLOW UNIV. LOUNGE, Input Disarmed, TRX-1 Switch Input
+2001-09-11 07:02:05 Arch [0921996] D  ALPHA  55 5th Ave. (<46) TROUBLE OUT  32-16  07:02:30 Sep 11,2001 1ST FL TAMPER SWITCH UNIV.LOUNGE, Input Disarmed, TRX-2/3 Switch Input
+2001-09-11 07:02:05 Arch [0000101] B  ALPHA  MSN 037 hello Message from NOC PCB.
+2001-09-11 07:02:05 Arch [1608317] D  ALPHA  55 5th Ave. (<46) TROUBLE OUT  32-16  07:02:30 Sep 11,2001 1ST FL TAMPER SWITCH UNIV.LOUNGE, Input Disarmed, TRX-2/3 Switch Input
+2001-09-11 07:02:05 Skytel [002568610] A SH/TONE 1875    
+2001-09-11 07:02:05 Skytel [005384480] A  ALPHA  test tues : test (17
+2001-09-11 07:02:05 Skytel {1092655} 3 2400 002259    
+2001-09-11 07:02:06 Skytel {1551415} 3 1200 4444 
+2001-09-11 07:02:07 Arch [0921996] D  ALPHA  55 5th Ave. (<47) TROUBLE OUT  32-17  07:02:39 Sep 11,2001 1ST FL WATERFLOW MOOT CT., Input Disarmed, TRX-1 Switch Input
+2001-09-11 07:02:07 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179455. 
+2001-09-11 07:02:07 Arch [1608317] D  ALPHA  55 5th Ave. (<47) TROUBLE OUT  32-17  07:02:39 Sep 11,2001 1ST FL WATERFLOW MOOT CT., Input Disarmed, TRX-1 Switch Input
+2001-09-11 07:02:09 Arch [0921996] D  ALPHA  55 5th Ave. (<48) TROUBLE OUT  32-18  07:02:40 Sep 11,2001 1ST FL TAMPER SWITCH MOOT CT., Input Disarmed, TRX-2/3 Switch Input
+2001-09-11 07:02:09 Arch [1608317] D  ALPHA  55 5th Ave. (<48) TROUBLE OUT  32-18  07:02:40 Sep 11,2001 1ST FL TAMPER SWITCH MOOT CT., Input Disarmed, TRX-2/3 Switch Input
+2001-09-11 07:02:11 Arch [0921996] D  ALPHA  55 5th Ave. (<49) TROUBLE OUT  32-19  07:02:49 Sep 11,2001 1ST FL PULL STATION UNIV LOBBY A, Input Disarmed, TRX-2R Switch Input + Relay
+2001-09-11 07:02:11 Arch [1608317] D  ALPHA  55 5th Ave. (<49) TROUBLE OUT  32-19  07:02:49 Sep 11,2001 1ST FL PULL STATION UNIV LOBBY A, Input Disarmed, TRX-2R Switch Input + Relay
+2001-09-11 07:02:17 Arch [0921996] D  ALPHA  55 5th Ave. (<50) TROUBLE IN   24-5   07:03:08 Sep 11,2001 6TH FL SMK ELEV LOBBY BANK B, Input Disarmed, DI-X3 Ion Detector
+2001-09-11 07:02:17 Arch [1608317] D  ALPHA  55 5th Ave. (<50) TROUBLE IN   24-5   07:03:08 Sep 11,2001 6TH FL SMK ELEV LOBBY BANK B, Input Disarmed, DI-X3 Ion Detector
+2001-09-11 07:02:19 Arch [0921996] D  ALPHA  55 5th Ave. (<51) TROUBLE IN   24-6   07:03:08 Sep 11,2001 6TH FL SMK ELEV LOBBY BANK A, Input Disarmed, DI-X3 Ion Detector
+2001-09-11 07:02:19 Arch [0960197] B  ALPHA  doug.vos@eds.com|CPT Summary:|CPT Summary: total-bus-days..... 0-1 days......: 47 2-5 days......: 79 6-10 days.....: 92 11-20 days....: 83 Over 20 days...: 60 Total CPT's....: 361 
+2001-09-11 07:02:19 Arch [1608317] D  ALPHA  55 5th Ave. (<51) TROUBLE IN   24-6   07:03:08 Sep 11,2001 6TH FL SMK ELEV LOBBY BANK A, Input Disarmed, DI-X3 Ion Detector
+2001-09-11 07:02:20 Arch [0921996] D  ALPHA  55 5th Ave. (<52) TROUBLE IN   24-11  07:03:09 Sep 11,2001 5TH FL SMK ELEV LOBBY BANK B, Input Disarmed, DI-X3 Ion Detector
+2001-09-11 07:02:20 Arch [0960197] B  ALPHA  doug.vos@eds.com|CPT Summary:|CPT Summary: eds-bus-days..... 0-1 days......: 219 2-5 days......: 118 6-10 days.....: 18 11-20 days....: 6 Over 20 days...: 0 Total CPT's....: 361 
+2001-09-11 07:02:20 Arch [1608317] D  ALPHA  55 5th Ave. (<52) TROUBLE IN   24-11  07:03:09 Sep 11,2001 5TH FL SMK ELEV LOBBY BANK B, Input Disarmed, DI-X3 Ion Detector
+2001-09-11 07:02:26 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9874
+2001-09-11 07:02:26 Arch [0921996] D  ALPHA  55 5th Ave. (<53) TROUBLE IN   24-12  07:03:19 Sep 11,2001 5TH FL SMK ELEV LOBBY BANK A, Input Disarmed, DI-X3 Ion Detector
+2001-09-11 07:02:26 Arch [1046123] C  ALPHA  www@keyspanenerg|cow warning|06:57:22 64.12.103.181 COWCRS.9051 
+2001-09-11 07:02:26 Arch [1608317] D  ALPHA  55 5th Ave. (<53) TROUBLE IN   24-12  07:03:19 Sep 11,2001 5TH FL SMK ELEV LOBBY BANK A, Input Disarmed, DI-X3 Ion Detector
+2001-09-11 07:02:28 Arch [0921996] D  ALPHA  55 5th Ave. (<54) TROUBLE IN   24-13  07:03:19 Sep 11,2001 6TH FL SMOKE DET MECHANICAL RM, Input Disarmed, DI-X3 Ion Detector
+2001-09-11 07:02:28 Arch [1608317] D  ALPHA  55 5th Ave. (<54) TROUBLE IN   24-13  07:03:19 Sep 11,2001 6TH FL SMOKE DET MECHANICAL RM, Input Disarmed, DI-X3 Ion Detector
+2001-09-11 07:02:30 Arch [0921996] D  ALPHA  55 5th Ave. (<55) TROUBLE IN   24-14  07:03:19 Sep 11,2001 5TH FL SMOKE DET MECHANICAL RM, Input Disarmed, DI-X3 Ion Detector
+2001-09-11 07:02:30 Arch [0419947] C  ALPHA  (25)Y! <y-weather@ya|$499 deals on iPAQ Pocket PC Lakeland, FL Cloudy 73 - 90 F WNI 
+2001-09-11 07:02:30 Arch [0970454] B  ALPHA  (7)SI:-*Calculating-Summaries(6:01:40
+2001-09-11 07:02:30 Arch [1044074] C  ALPHA  21-PLEASE CALL ERIC RICE AT 215-368-6520.
+2001-09-11 07:02:30 Arch [1000292] B  ALPHA  JOB:L8PCAPEN ERROR:STEP #00001 EXCEEDED MAX CC. PRIMARY BEEP:1
+2001-09-11 07:02:30 Arch [1608317] D  ALPHA  55 5th Ave. (<55) TROUBLE IN   24-14  07:03:19 Sep 11,2001 5TH FL SMOKE DET MECHANICAL RM, Input Disarmed, DI-X3 Ion Detector
+2001-09-11 07:02:31 Skytel [005082753] A SH/TONE         
+2001-09-11 07:02:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.6 - Down at: Tue Sep 11 04:02:22 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 07:02:31 Skytel [003928591] D SH/TONE 1       
+2001-09-11 07:02:33 Arch [0986678] B  ALPHA  MSN <alert@msn.c|Capricorn: More people equal more problems. Look on the fun side. Seek clarity of thought.** 
+2001-09-11 07:02:33 Arch [1327475] A  ALPHA  From: Kathleen - 21 branches down.
+2001-09-11 07:02:33 Skytel [003267485] D SH/TONE 5148    
+2001-09-11 07:02:33 Skytel [002781338] C SH/TONE 777 (12 
+2001-09-11 07:02:34 Arch [0939437] D  ALPHA  CA Helpdesk <CAH|wb0300ux127|CR: 143607 Priority: 4 Assigned to: Marchionda, Joe Summary:: Application installation/reconfiguration 
+2001-09-11 07:02:34 Arch [0911009] A  ALPHA   STC11727  $HASP395 DUMPLOG  ENDED
+2001-09-11 07:02:34 Arch [0968196] B  ALPHA  From: Kathleen - 21 branches down.
+2001-09-11 07:02:34 Arch [1318295] B  ALPHA  ITSC SC ALERT    P169190    Pri:3  Open                                MEADOWS                               Failed/Missed Backups                                                           
+2001-09-11 07:02:35 Arch [0912340] B  ALPHA  Bomb Scare, ND, 730 W. 40 TH Male caller stated that there was a bomb in the keswick bldg.  Unit 7811 notified
+2001-09-11 07:02:35 Skytel [004753571] A ST NUM  0-609-834-4137-41191
+2001-09-11 07:02:35 Skytel [003922606] D SH/TONE 225-4250
+2001-09-11 07:02:35 Skytel [004685477] B  ALPHA  BOILER SEQUENCEROil pump has failed.
+2001-09-11 07:02:37 Skytel [004417186] A ST NUM  370-0311-2
+2001-09-11 07:02:37 Skytel [004590641] A ST NUM  516-393-6636   
+2001-09-11 07:02:37 Skytel [004424625] A ST NUM  202-388-4725   
+2001-09-11 07:02:37 Skytel [0001461] B  ALPHA  GLOBEX   06:01     GEH    9662A    1-   GEM  9632.5     1-   ESU  110050   475+   SPU  110000   430+   NDU  138250  1200+   6JZ    8267B   76-   6EZ    8945B   35-   6SZ    5923A   17-   6BZ   14510  
+2001-09-11 07:02:37 Skytel [502024370] A  ALPHA  primebkr - <Martin Dengler>: Equity Prime Broker completed at 20010911 03:28:31: No further detail available.
+2001-09-11 07:02:37 Skytel [005360567] B  ALPHA  Problem 02113756 Sev4 P/C-GCTVA STRIEPENS, BRANDI K 1-804-675-3461 CLASS spare for VAOCSPR1--AS400 PW: VACOSPR2--CPDOM PW is:
+2001-09-11 07:02:37 Skytel [004024864] A  ALPHA  fusasitescope@wingspan.com||elgweb12 login content match error on step 2, https://192.168.67.89/cmsonline/main/cmslogin.jsp    ********************************************************************** This transmission may contain information 
+2001-09-11 07:02:37 Skytel [007520815] D  ALPHA  Y! ||iPAQ Pocket PC Now from $499 Iraq Says It Downs U.S. Reconnaissance Plane Reuters  
+2001-09-11 07:02:37 Skytel [004434733] D SH/TONE 494-1774
+2001-09-11 07:02:37 Skytel [003453374] D SH/TONE 2247    
+2001-09-11 07:02:37 Skytel [005004735] D  ALPHA  C WARD       15 WASHINGTON SPRINGPL359-4467 CC 1 SAT W/COMICS & 5159 931
+2001-09-11 07:02:38 Skytel [0001461] B  ALPHA    18-   6CZ    6393     3+   
+2001-09-11 07:02:38 Skytel [005360567] B  ALPHA   cp45dom
+2001-09-11 07:02:38 Skytel [005201603] A  ALPHA  5756904 PCK FIRSEL BAY MEDICAL CENTER 8507691511 D SPENCE 371PRIVA 329
+2001-09-11 07:02:38 Skytel [007438026] C SH/TONE 3333 (7 
+2001-09-11 07:02:39 Arch [0921996] D  ALPHA  55 5th Ave. (<56) TROUBLE IN   24-15  07:03:19 Sep 11,2001 6TH FL DUCT DET AHU-6, Input Disarmed, DI-BX3 Duct Ion Detector
+2001-09-11 07:02:39 Arch [1024090] C  ALPHA  Viral-do you know why TMS is coming up at 7:50 ish (kind of late)-Nancy 3-2525
+2001-09-11 07:02:39 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 179462. 
+2001-09-11 07:02:39 Arch [1608317] D  ALPHA  55 5th Ave. (<56) TROUBLE IN   24-15  07:03:19 Sep 11,2001 6TH FL DUCT DET AHU-6, Input Disarmed, DI-BX3 Duct Ion Detector
+2001-09-11 07:02:40 Skytel [005090266] C SH/TONE 7535    
+2001-09-11 07:02:40 Skytel [003951056] A  ALPHA  snvc20 Resource: SNVC20:/NT_CPU/CPU_3/CPUprcrProcessorTimePercent,current state is : CRITICAL ussa11.SSMC 
+2001-09-11 07:02:40 Skytel [004436053] B SH/TONE 1234    
+2001-09-11 07:02:40 Skytel [004387035] C SH/TONE 320     
+2001-09-11 07:02:40 Skytel [1800019] A  ALPHA  GLOBEX   06:01     GEH    9662A    1-   GEM  9632.5     1-   ESU  110050   475+   SPU  110000   430+   NDU  138250  1200+   6JZ    8267B   76-   6EZ    8945B   35-   6SZ    5923A   17-   6BZ   14510    18-   6CZ    6393     3+   
+2001-09-11 07:02:41 Arch [0921996] D  ALPHA  55 5th Ave. (<57) TROUBLE IN   24-16  07:03:29 Sep 11,2001 6TH FL DUCT DET AHU-6, Input Disarmed, DI-BX3 Duct Ion Detector
+2001-09-11 07:02:41 Arch [0333473] A  ALPHA  810 415-4646
+2001-09-11 07:02:41 Arch [1608317] D  ALPHA  55 5th Ave. (<57) TROUBLE IN   24-16  07:03:29 Sep 11,2001 6TH FL DUCT DET AHU-6, Input Disarmed, DI-BX3 Duct Ion Detector
+2001-09-11 07:02:42 Skytel [005554405] B  ALPHA  300918838 Page count: 00 Emp# 101572 WHITNEY BANK EQ# 10707542 PHILLIP:5047291221 
+2001-09-11 07:02:42 Skytel [004517095] B  ALPHA  14250
+2001-09-11 07:02:42 Skytel [005076708] B SH/TONE 329     
+2001-09-11 07:02:42 Skytel [005112809] C  ALPHA  B
+2001-09-11 07:02:42 Skytel [007641961] C SH/TONE 17      
+2001-09-11 07:02:42 Skytel [007513191] B  ALPHA  y-weather@yahoo-inc.com||Be mobile with Compaq New Haven, CT Sunny 52 - 79 F  WNI  
+2001-09-11 07:02:42 Skytel [005436525] D  ALPHA  nMCI Test #28
+2001-09-11 07:02:42 Skytel [005226605] D ST NUM  9683241868
+2001-09-11 07:02:42 Skytel [007512419] A  ALPHA  Y! ||Vir Grab ideas out of thin air. You can tell what's good. A group changes together.  Astrology 
+2001-09-11 07:02:44 Skytel [007515896] C  ALPHA  y-weather@yahoo-inc.com||iPAQ Pocket PC Now from $499 Mentor OH Sunny 50 - 73 F  WNI  
+2001-09-11 07:02:44 Skytel [005000311] B  ALPHA  _SXF_IT@AssociatesCommerce.com|PVNetMon|SPSFFL02 - File Server The device, \Device\Tape0, has a bad block.  
+2001-09-11 07:02:44 Skytel [002196090] C ST NUM  350-6523 (33   
+2001-09-11 07:02:46 Skytel [005095169] A  ALPHA  EbizTech@labs.wyeth.com|SiteScope Alert, error, Vaccineworld 10.101.58.82, timed out reading on step 4, https://10.101.58.82/professional/order/options.shtml (10.224.136.31)|This alert is from SiteScope at http://10.224.136.31:8888/SiteScop
+2001-09-11 07:02:46 Skytel [005130763] C  ALPHA  Node AFW-TS07 Down at 05:59:37 09/11/01.
+2001-09-11 07:02:46 Skytel [002148738] A  ALPHA  6782 (81
+2001-09-11 07:02:46 Skytel [005112195] A SH/TONE 1) 3654 
+2001-09-11 07:02:48 Skytel [002861584] A ST NUM  8685429395
+2001-09-11 07:02:48 Skytel [003051412] B ST NUM  766-666-6666-66
+2001-09-11 07:02:48 Skytel [007575575] B  ALPHA  lostux@limbstx1.att.com|VM OUT SEND ERROR FLAG|VM OUT MAY NOT HAVE SENT IW THE FILE  
+2001-09-11 07:02:48 Skytel [002777245] D ST NUM  995-5869 (98   
+2001-09-11 07:02:50 Arch [1408083] A  ALPHA  (29)jghill 75925-335-CUSDV1-  UPDT-DC6035-Ottawa,KS - 14,000 total records to process  Sent at 06:02      
+2001-09-11 07:02:50 Arch [0905780] B  ALPHA  A Sev1 Ticket number ISHD 0001377833 has been submitted for Configuration.
+2001-09-11 07:02:50 Arch [0163974] B  ALPHA  jghill 75925-335-DIV1-  UPDT-DC6035-Ottawa,KS - 14,000 total records to process  Sent at 06:02      
+2001-09-11 07:02:50 Arch [1131960] C  ALPHA  jghill 75925-335-DIV1-  UPDT-DC6035-Ottawa,KS - 14,000 total records to process  Sent at 06:02      
+2001-09-11 07:02:50 Arch [0978397] D  ALPHA  jghill 75925-335-DIV1-  UPDT-DC6035-Ottawa,KS - 14,000 total records to process  Sent at 06:02      
+2001-09-11 07:02:50 Arch [0282973] D  ALPHA  A Sev1 Ticket number ISHD 0001377833 has been submitted for Configuration.
+2001-09-11 07:02:50 Arch [1227827] A  ALPHA  jghill 75925-335-DIV1-  UPDT-DC6035-Ottawa,KS - 14,000 total records to process  Sent at 06:02      
+2001-09-11 07:02:50 Arch [0899367] B  ALPHA  A Sev1 Ticket number ISHD 0001377833 has been submitted for Configuration.
+2001-09-11 07:02:50 Skytel [005410979] A  ALPHA  Problem 02113756 Sev4 P/C-GCTVA STRIEPENS, BRANDI K 1-804-675-3461 CLASS spare for VAOCSPR1--AS400 PW: VACOSPR2--CPDOM PW is: cp45dom (4
+2001-09-11 07:02:50 Skytel [003477031] B SH/TONE 8017    
+2001-09-11 07:02:52 Arch {0404440} 4 1200 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1395..
+2001-09-11 07:02:52 Skytel [007101501] D  ALPHA  Problem 02113756 Sev4 P/C-GCTVA STRIEPENS, BRANDI K 1-804-675-3461 CLASS spare for VAOCSPR1--AS400 PW: VACOSPR2--CPDOM PW is: cp45dom
+2001-09-11 07:02:53 Skytel [008507076] B  ALPHA  01140h4b1cb010800001g
+2001-09-11 07:02:53 Skytel [002571595] C SH/TONE 535-9483
+2001-09-11 07:02:54 Arch [1410805] B  ALPHA  (23)From Store Systems Data Capture: Stores With Potential Link Save Issues    Store 4180 has 4 movement files backed up.  Store 4933 has 28 movement files backed up.  
+2001-09-11 07:02:54 Arch [0891458] A  ALPHA  SD820270/06:00/SRC:TO/IMP:View2000 Equity Attrib page/STATUS:Some views
+2001-09-11 07:02:54 Arch [0932502] B  ALPHA  A Sev1 Ticket number ISHD 0001377833 has been submitted for Configuration.
+2001-09-11 07:02:54 Arch [1402338] A  ALPHA  SD820270/06:00/SRC:TO/IMP:View2000 Equity Attrib page/STATUS:Some views on the Equity Attrib. page is showing no data, SI and FINS are addr./NOSI=?/RC: Being Investiga
+2001-09-11 07:02:54 Arch [0975978] C  ALPHA  jghill 75925-335-DIV1-  UPDT-DC6035-Ottawa,KS - 14,000 total records to process  Sent at 06:02      
+2001-09-11 07:02:54 Arch [0889674] C  ALPHA  SD820270/06:00/SRC:TO/IMP:View2000 Equity Attrib page/STATUS:Some views on the Equity Attrib. page is showing no data, SI and
+2001-09-11 07:02:54 Arch [1613096] C  ALPHA  EHS-itp0zh94: (subehs): Warning: it10k014.ksh still waiting on 8 files. Time: 0600
+2001-09-11 07:02:55 Skytel [005107930] C ST NUM  100-000-0000   
+2001-09-11 07:02:55 Skytel [007527646] D  ALPHA  Y! ||$499 deals on iPAQ Pocket PC Harrisburg, PA Sunny 57 - 79 F  WNI  
+2001-09-11 07:02:56 Arch [0891458] A  ALPHA   on the Equity Attrib. page is showing no data, SI and FINS are addr./NOSI=?/RC: Being Investigated/NO ETA
+2001-09-11 07:02:56 Arch [1402338] A  ALPHA  ted/NO ETA
+2001-09-11 07:02:56 Arch [0890253] D  ALPHA  SD820270/06:00/SRC:TO/IMP:View2000 Equity Attrib page/STATUS:Some views on the Equity Attrib. page is showing no data, SI and FINS are addr./NOSI=?/RC: Being Investigated/NO ETA
+2001-09-11 07:02:56 Arch [0889674] C  ALPHA   FINS are addr./NOSI=?/RC: Being Investigated/NO ETA
+2001-09-11 07:02:56 Arch [0120598] B  ALPHA  SD820270/06:00/SRC:TO/IMP:View2000 Equity Attrib page/STATUS:Some views on the Equity Attrib. page is showing no data, SI and FINS are addr./NOSI=?/RC: Being Investigated/NO ETA
+2001-09-11 07:02:56 Arch [1613096] C  ALPHA  EHS-itp0zh94: (subehs): Estimated time of EMIS load: 8:26 CST.  it10k061.ksh started at 01:23:36 EST.
+2001-09-11 07:02:57 Skytel [004524770] A  ALPHA  spr-WhalleyComputer-SouthwickMA-: CPE Down at 01:47:23 on 9/11
+2001-09-11 07:02:59 Skytel [007519609] C  ALPHA  Y! ||Lib Others break rules. Telepathy warns you away from excess. Restraint is your friend.  Astrol

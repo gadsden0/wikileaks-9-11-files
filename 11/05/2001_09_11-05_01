@@ -1,0 +1,60 @@
+2001-09-11 05:01:03 Skytel [004397329] A SH/TONE 755-0444
+2001-09-11 05:01:04 Arch [1612111] D  ALPHA  monitor@ccbill.c|HTTPD Frontend front2r.escrub.co|ERROR: could not connect to front2r.escrub.com on port 80 (httpd). Timestamp: 20010911015901 
+2001-09-11 05:01:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6830
+2001-09-11 05:01:04 Arch [0976352] A  ALPHA  (8)From Heath Noland: CC 534433 to implement VIPA/OSPF at DC 03, 08, 27, 35 successful      
+2001-09-11 05:01:04 Arch [0902257] A  ALPHA  829-9001
+2001-09-11 05:01:04 Arch [1164259] A  ALPHA  From Heath Noland: CC 534433 to implement VIPA/OSPF at DC 03, 08, 27, 35 successful      
+2001-09-11 05:01:04 Skytel {0180086} 1 1200 I NEED TO GET MY BANK CARD BUT IT'S TELLING ME I'M PUTTING IN THE WRONG PIN. 
+2001-09-11 05:01:05 Skytel {1169678} 3 1200 490-9552  
+2001-09-11 05:01:05 Skytel {1551415} 3 1200 4444 
+2001-09-11 05:01:08 Arch [0911134] D  ALPHA   equity71 SYBASE: check_db(PDS1_EQGTWLN) too much PHYSICAL I/O - jpm     7817  261 @05:00 09/11/01 
+2001-09-11 05:01:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178126. 
+2001-09-11 05:01:10 Arch [0911134] D  ALPHA   comsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSHH_EQNY1) PDSHH_EQNY1 - HEDGEHOG_HIST: DATA -->> ALLOCATED = 400 MB, USED = 361 MB, FREE = 39 MB, PERCENT_USED = 90% @05:00 09/11/01 
+2001-09-11 05:01:19 Arch [1612111] D  ALPHA  monitor@ccbill.c|HTTPD Frontend front2r.escrub.co|ERROR: could not connect to front2r.escrub.com on port 80 (httpd). Timestamp: 20010911015602 
+2001-09-11 05:01:19 Arch [0589242] C  ALPHA  (13)Please call and join bridge (816-650-0640 pin 466663) for KSCYKSNAHX1, DSLAM LIM 12 problem. tkt 2041178 cjs 
+2001-09-11 05:01:21 Arch [1612111] D  ALPHA  monitor@ccbill.c|HTTPD Frontend front2r.escrub.co|ERROR: could not connect to front2r.escrub.com on port 80 (httpd). Timestamp: 20010911015801 
+2001-09-11 05:01:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9753
+2001-09-11 05:01:27 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2219 - 00246B ST_AUG_S_6125, cnet lost sync, Set
+2001-09-11 05:01:29 Arch [0935204] B  ALPHA  The New York Tim|Today's Headlines from NYTimes.c|TODAY'S HEADLINES The New York Times on the Web Tuesday, September 11, 2001 ------------------------------------------------------------ For news updated throughout the day, visit www.nytime
+2001-09-11 05:01:29 Arch [0930546] A  ALPHA  Alarm: 02:01:18AM  Boiler Network connect   Site 4 Bldg 7 Hot water supply temp is out of range.
+2001-09-11 05:01:30 Arch [0925366] B  ALPHA   318643;Sep 11 01:02:04 2001;abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrs
+2001-09-11 05:01:31 Skytel [007547009] A ST NUM  08007243624    
+2001-09-11 05:01:31 Skytel [005062410] C  ALPHA  mdscm@mdsbuild.jpl.nasa.gov|| At 0200 began 5.1.1062  
+2001-09-11 05:01:31 Skytel [002423055] D  ALPHA  B
+2001-09-11 05:01:32 Arch [0978397] D  ALPHA  jlwindh 75925-321--  Pharmacy team having issues with PBX conversion.  Requesting assist.  Please call.  Jimmie  Sent at 04:01      
+2001-09-11 05:01:32 Arch [0948037] B  ALPHA  InfoBeat Finance|FINANCE: Economic Gloom Sparks N|vINFOBEAT Don't Miss A Beat! =========================== FINANCE NEWSLETTER Tuesday, September 11, 2001 =========================== Get your FREE wire
+2001-09-11 05:01:32 Arch [0321613] D  ALPHA  OPEN:Link TRGR54A (Tarragona, Spain) --> BLR54A (Bilbao, Spain) is down again. TOP:04:37. TKT#1484962 -- From: SMT - 248.528.7000
+2001-09-11 05:01:33 Skytel [004418586] C SH/TONE 333333  
+2001-09-11 05:01:35 Skytel [002405037] D  ALPHA  nms@svcanms.conxion.com|Sep11-02:01|There are 3 active alarms  
+2001-09-11 05:01:35 Skytel [005240623] D  ALPHA   DOWN (SS) Germany Firewall (satyr-de) 0.25 sec
+2001-09-11 05:01:35 Skytel [005492655] D SH/TONE 371-9707
+2001-09-11 05:01:37 Skytel [004748723] A ST NUM  761-4832 (1    
+2001-09-11 05:01:37 Skytel [004024864] A  ALPHA  wingmon@firstusa.com||SiteScope neapp101 /var/weblog neapp101 2567 no data    ********************************************************************** This transmission may contain information that is privileged, confidential and/or exempt fr
+2001-09-11 05:01:37 Skytel [002777274] C ST NUM  987-8611 (38   
+2001-09-11 05:01:37 Skytel [002553148] D SH/TONE         
+2001-09-11 05:01:38 Skytel [005555279] D  ALPHA  05:00:45 BY05D96Z HAS NOT ENDED. PLEASE INVESTIGATE. CONTACT ONCALL.
+2001-09-11 05:01:38 Skytel [004517325] D SH/TONE 2500    
+2001-09-11 05:01:40 Arch [0968864] A  ALPHA  (16)The file: SWSTTD1H is out of date.
+2001-09-11 05:01:40 Arch [1612111] D  ALPHA  monitor@ccbill.c|HTTPD Frontend front2r.escrub.co|ERROR: could not connect to front2r.escrub.com on port 80 (httpd). Timestamp: 20010911015801 
+2001-09-11 05:01:40 Skytel [005358934] B  ALPHA  ctrlmprd@esd559.ess.fmr.com|DB check performance slow|Mail message from CONTROL-M DB check performance slow  
+2001-09-11 05:01:40 Skytel [005004368] A  ALPHA  sysNETIQsvc: HKG Job86028 SHKG00503 09/11 17:01 SYS_CHK
+2001-09-11 05:01:40 Skytel [003951056] A  ALPHA  snvcname01 Resource: SNVCNAME01:/NT_CPU/CPU_0/CPUprcrProcessorTimePercent,current state is : CRITICAL ussa11.SSMC 
+2001-09-11 05:01:42 Skytel [005049316] B  ALPHA  Robot.ALERT@ELSEG400|Robot ALERT ID-000089769|Date 09-11-01 Time 02:01 Robot is working   
+2001-09-11 05:01:42 Skytel [005436525] D  ALPHA  Test Message #23-IX_T0105
+2001-09-11 05:01:42 Skytel [004524770] A  ALPHA  spr-TexonINT-Russell-01: CPE Up at 00:58:35 on 9/11
+2001-09-11 05:01:42 Skytel [005112809] C  ALPHA  03:56CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240464: Uncorrectable write error
+2001-09-11 05:01:44 Skytel [003327216] A  ALPHA  002219 CYCLIC TEST 
+2001-09-11 05:01:44 Skytel [007109749] B ST NUM  373-7717-73    
+2001-09-11 05:01:44 Skytel [002357369] C  ALPHA  002219 CYCLIC TEST 
+2001-09-11 05:01:44 Skytel [002139900] D SH/TONE 002219  
+2001-09-11 05:01:50 Skytel [005105954] A ST NUM  534-343-4343-4343   
+2001-09-11 05:01:53 Arch [0939437] D  ALPHA  CA Helpdesk <CAH|unknown|CR: 143491 Priority: 3 Assigned to: Marchionda, Joe Summary:: Planned.CA Unix.AccessChg 
+2001-09-11 05:01:53 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|wb0300ux114|CR: 143929 Priority: 1 Assigned to: Summary:: Agent not responding 
+2001-09-11 05:01:55 Arch [0976078] D  ALPHA  CA Helpdesk <CAH|wb0300ux114|CR: 143930 Priority: 1 Assigned to: Summary:: Agent not responding 
+2001-09-11 05:01:55 Arch [1047435] C  ALPHA  109-109
+2001-09-11 05:01:57 Arch [0911134] D  ALPHA   comsyb1-adm.ny.jpmorgan.com SYBASE: PDSSCA_EQNY1 Sybase  @05:00 09/11/01 
+2001-09-11 05:01:57 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178133. 
+2001-09-11 05:01:59 Arch [0911134] D  ALPHA   comsyb1-adm.ny.jpmorgan.com SYBASE: PDSSCA_EQNY1 1 lines of potential Sybase errors  @05:00 09/11/01 
+2001-09-11 05:01:59 Arch [1612111] D  ALPHA  monitor@ccbill.c|HTTPD Frontend front2r.escrub.co|ERROR: could not connect to front2r.escrub.com on port 80 (httpd). Timestamp: 20010911020001 
+2001-09-11 05:01:59 Skytel [002842744] C  ALPHA  ELCOME TO SKY PAGER.99
+2001-09-11 05:01:59 Skytel [002355836] D  ALPHA  infobeat@list.euniverse.com|FINANCE: Economic Gloom Sparks New Tax-Cut Proposals|  vINFOBEAT Don't Miss A Beat!  ===========================  FINANCE NEWSLETTER Tuesday, September 11, 2001  ===========================  Get your FREE wireles

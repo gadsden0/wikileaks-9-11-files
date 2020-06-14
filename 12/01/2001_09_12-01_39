@@ -1,0 +1,85 @@
+2001-09-12 01:39:00 Metrocall [1421210] C  ALPHA  LAKEJob exceeded 4 hours on Lake
+2001-09-12 01:39:00 Metrocall [1421210] C  ALPHA  LAKEJob 378304/VSIOWNER/OMSJRNMGR has MSGW status.
+2001-09-12 01:39:00 Metrocall [0278888] C  ALPHA  28: DR. Z. HOSPITAL 799 3835
+2001-09-12 01:39:00 Metrocall [0015672] C  ALPHA  Frm: Deva Ponnusamy Sub: Txt: Hi, I am fine, going to try and sleep. call me anytime. take care. I miss you a lot Preba
+2001-09-12 01:39:00 Metrocall [0007690] C  ALPHA  THIS IS A TEST_/.->.;6 _..8:.,: *..+..L NUMBER  4638
+2001-09-12 01:39:01 Arch [1142036] B  ALPHA  311 MOSXS2:Device Accessible,Device Status:Ok
+2001-09-12 01:39:01 Arch [0987275] C  ALPHA  s0191: 09/11 11:59:03 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 11:59:03
+2001-09-12 01:39:02 Skytel [007515276] D ST NUM  852-431-5789-411    
+2001-09-12 01:39:02 Skytel [002423055] D  ALPHA  B
+2001-09-12 01:39:02 Skytel [004397838] D  ALPHA  TO:feed FROM:Data SQL Support SUB: Job glaccm is past the drop dead point! MSG: (6
+2001-09-12 01:39:03 Arch [0987275] C  ALPHA  s0191: 09/11 12:04:03 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:04:03
+2001-09-12 01:39:03 Skytel [002394391] B  ALPHA  ORCL 11.46 UNCH MOT 15.04 UNCH DELL 22.57 UNCH
+2001-09-12 01:39:03 Skytel [005345821] D  ALPHA  8883372867  ID: NY061012 Ticket: 249  001Comm. Line Failure
+2001-09-12 01:39:05 Arch [0987275] C  ALPHA  s0191: 09/11 12:12:06 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:12:07
+2001-09-12 01:39:05 Skytel [005001895] B  ALPHA  [sps/42] 100 supplier.intel.com relay-rialto105 0 Error:relay-rialto105.mpi did not return a valid Metrios API response coderunning (sps/42) 3:20:46
+2001-09-12 01:39:05 Skytel [003934628] B  ALPHA  23985@emc.fedex.com||Fred Jacob call 797-7235  
+2001-09-12 01:39:06 Skytel {1549433} 3 1200 1-213-819-3788 
+2001-09-12 01:39:07 Arch [0987275] C  ALPHA  s0191: 09/11 12:14:48 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:14:49
+2001-09-12 01:39:08 Arch [0987275] C  ALPHA  s0191: 09/11 12:20:24 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:20:24
+2001-09-12 01:39:10 Metrocall [1932964] B  ALPHA  Frm: emoster@arsc.uscg.mil Sub: URL Unavailable on http://cgweb.almis.uscg.mil/eal/holistix_eal_monitor.asp Txt: Total alerts: 1 Read timed out. Unable to open connection for retrieval of "http://cgweb.almis.uscg.mil/eal/flight_schedule
+2001-09-12 01:39:10 Metrocall [1457944] C  ALPHA  Frm: ClearSupport@NortelNetworks.com Sub: Outage Report @ CUST LOC on 09/11/2001 11:00:00 for 7 hrs, 24 Txt: Subject: Outage Report @ CUST LOC on 09/11/2001 11:00:00 for 7 hrs, 24 mins, Outage 100% on DMS-100 running release MCI00018 Nick S
+2001-09-12 01:39:12 Arch [1359851] C  ALPHA  Generic Monitor |Message from DataMon-MEXSAT: laxlstr4: 200109120530: 0 files instead of 1 of type *.mex.sat.wxl arrived in laxlstr4:/home/monitor/mounts/laxlstr/laxlstr4/twc/wxl_satellite_clips in th
+2001-09-12 01:39:12 Metrocall [1932964] B  ALPHA  .asp" on Host: "cgweb.almis.uscg.mil", Port: 80 (9/12/01 1:36 AM) Event: URL Unavailable Web Application: EAL Monitor: Flight Schedule Metric: URL Retrieval Time for http://cgweb.almis.uscg.mil/eal/holistix_eal_monitor.asp Description: Time to retrieve
+2001-09-12 01:39:12 Metrocall [1544820] B  ALPHA  KPNC-PG1 IW Monitor "Server KPNC-PG1/CA/GSVR/KAIPERM - Mail.box has had 84 documents for at least 10 mins. Further investigation may be required. <MESSAGE> "
+2001-09-12 01:39:12 Metrocall [1544818] A  ALPHA  KPNC-PG1 IW Monitor "Server KPNC-PG1/CA/G
+2001-09-12 01:39:13 Metrocall [1932964] B  ALPHA   this URL ++
+2001-09-12 01:39:13 Metrocall [1544818] A  ALPHA  SVR/KAIPERM - Mail.box has had 84 documents for at least 10 mins. Further investigation may be required. <MESSAGE> "
+2001-09-12 01:39:13 Metrocall [1903131] C  ALPHA  (1/1) The outlook program is deleting all incoming messages as soon as they arrive.  Looked at the settings and all seemed good there so I am not sure what is going on.  EOC/DCW 9/12/01 1:34:06 AM
+2001-09-12 01:39:14 Arch [1359851] C  ALPHA  root <root@janus|Message from DataMon-CARSAT: laxlstr1: 200109120530: 0 files instead of 1 of type *.car.sat.wxl arrived in laxlstr1:/home/monitor/mounts/laxlstr/laxlstr1/twc/wxl_satellite_clips in th
+2001-09-12 01:39:16 Arch [1359851] C  ALPHA  root <root@janus|Message from DataMon-SASAT: laxlstr2: 200109120530: 0 files instead of 1 of type *.sa.sat.wxl arrived in laxlstr2:/home/monitor/mounts/laxlstr/laxlstr2/twc/wxl_satellite_clips in the
+2001-09-12 01:39:18 Arch [1359851] C  ALPHA  Generic Monitor |Message from DataMon-CARSAT: laxlstr1: 200109120530: 0 files instead of 1 of type *.car.sat.wxl arrived in laxlstr1:/home/monitor/mounts/laxlstr/laxlstr1/twc/wxl_satellite_clips in th
+2001-09-12 01:39:18 Arch [1000028] D  ALPHA  p2ksp@convergys.|USAGE WARNING|Wed Sep 12 01:39:51 2001: RTU BACKLOG = 453 
+2001-09-12 01:39:19 Metrocall [002590012] D  ALPHA  111/ / 252101301/ 1056/ Penrose-St Francis H/ 2215 N Cascade Ave/ Colorado Spring/ Tammy Harsler/ 719-776-5319/ pls update? Ms2k loc ER............remote manager per cust rn's complain that the count on the
+2001-09-12 01:39:20 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0991
+2001-09-12 01:39:25 Arch [0987275] C  ALPHA  s0191: 09/11 12:28:34 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:28:34
+2001-09-12 01:39:25 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192090. 
+2001-09-12 01:39:27 Arch [0987275] C  ALPHA  s0191: 09/11 12:31:16 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:31:16
+2001-09-12 01:39:27 Arch [0529957] B  ALPHA  Laura.Regis-Baby|"AnchorDesk" <AnchorDesk_Daily@anchordesk.zd To: "AnchorDesk" lists.com> <AnchorDesk_Daily@anchordesk.zdlis ts.com> 09/11/2001 10:25 PM cc: Please respond to Subject: No AnchorDesk in AnchorDesk_Daily observance of national
+2001-09-12 01:39:29 Arch [0987275] C  ALPHA  s0191: 09/11 12:36:48 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:36:48
+2001-09-12 01:39:31 Arch [0987275] C  ALPHA  s0191: 09/11 12:44:46 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:44:47
+2001-09-12 01:39:31 Arch [0000101] B  ALPHA  MSN 063 hello Message from NOC PCB.
+2001-09-12 01:39:32 Metrocall [1932964] B  ALPHA  ad timed out. Unable to open connection for retrieval of "http://cgweb.almis.uscg.mil/eal/flight_schedule.asp" on Host: "cgweb.almis.uscg.mil", Port: 80 (9/12/01 1:37 AM) Event: Database Unavailable Web Application: Database Monitor: Database Down Page
+2001-09-12 01:39:32 Skytel [007617548] D  ALPHA  MSN ||Hotmail Christina Tsafoulias:Uhm, Are we still fingerpainting?  
+2001-09-12 01:39:32 Skytel [005352717] D SH/TONE 3922    
+2001-09-12 01:39:32 Skytel [007579147] C SH/TONE 1034    
+2001-09-12 01:39:32 Skytel [007559566] D ST NUM  1-909-334-6126 
+2001-09-12 01:39:32 Skytel [003587596] D SH/TONE 110 (42 
+2001-09-12 01:39:33 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 22.07 21.64 19.92 Tue Sep 11 22:40:00 MST 2001 
+2001-09-12 01:39:33 Skytel [004447122] A ST NUM  809-283-2819   
+2001-09-12 01:39:34 Metrocall [1932964] B  ALPHA   Metric: URL Retrieval Time for http://cgweb.almis.uscg.mil/eal/holis ++
+2001-09-12 01:39:35 Skytel [004704807] B SH/TONE 3555    
+2001-09-12 01:39:37 Skytel [003664693] B  ALPHA  pears down, cannot wait until Wednesday    It was working fine even after the bu
+2001-09-12 01:39:37 Skytel [007595959] B SH/TONE 143     
+2001-09-12 01:39:37 Skytel [005066807] B ST NUM  209-310-3526   
+2001-09-12 01:39:39 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 01:39:39 Skytel [003265728] A SH/TONE 777     
+2001-09-12 01:39:39 Skytel [002845771] C  ALPHA  PHA 40.15 UNCH MRK 66.10 UNCH PFE 38.17 UNCH
+2001-09-12 01:39:41 Skytel [007658960] A SH/TONE 833-3168
+2001-09-12 01:39:41 Skytel [002377811] A  ALPHA  gwsho@exchange.ml.com|IWSEUR6 : Device Inaccessible|'Device Inaccessible' alarm received from IWSEUR6 at 1:14AM on 9/12/01  A 'Device Inaccessible' alarm signifies that Compaq Insight Manager is not currently receiving network responses fro
+2001-09-12 01:39:41 Skytel [005054164] B ST NUM  918-458-7172   
+2001-09-12 01:39:41 Skytel [002938583] B  ALPHA  APP 0.00 UNCH AERL 0.00 UNCH TDS 96.40 UNCH USM 49.65 UNCH
+2001-09-12 01:39:42 Arch [0911134] D  ALPHA   eqny-uatsyb3.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=UDSTRD_MOSNY2  Database=PYR_TRADE  Mode=Full_Dump         # Our PID=25400    time='09/12/01 01:39:33'    sybase o
+2001-09-12 01:39:42 Arch [0987275] C  ALPHA  s0191: 09/11 12:47:44 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:47:44
+2001-09-12 01:39:42 Metrocall [0525954] A  ALPHA  HTTP:Chelmick at 10.17.1.52 is DOWN.
+2001-09-12 01:39:43 Skytel [005436525] D  ALPHA  Test Lotus Notes #94-IX_T1705
+2001-09-12 01:39:43 Skytel [002406381] D  ALPHA  INEL 0.00 UNCH CAG 22.87 UNCH MCIC 0.00 UNCH KNE 0.00 UNCH
+2001-09-12 01:39:43 Skytel [007649260] D SH/TONE 949-9520
+2001-09-12 01:39:44 Arch [0987275] C  ALPHA  s0191: 09/11 12:53:14 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 12:53:14
+2001-09-12 01:39:44 Metrocall [1064374] B  ALPHA  YEN  119.15/25 -057 EUR  0.9129/34 +026 CHF  1.6420/40 +015 GBP  1.4730/70 -021 CAD  1.5635/45 -002 AUD  0.5190/95 -005 NZD  0.4284/94 -021 DEM  2.1413/24 -061  E/C  1.5000/12 +009 E/Y  108.71/84 -028 E/S  0.6186/96 -006 USD     113.13 -025
+2001-09-12 01:39:44 Metrocall [1064377] C  ALPHA  SED97020/97170/9708 9668/9627/9580/9549 SEY 99940/99915+000 99900/ 99905/ 99865 SSI _9310/_9300-990 JGB 13899/13714 +06 US  10514/10422 +00 SP107500/10140+0000 DJ _9630/_9665 +000 ND 13360/13820 +000 TY 10712+ FV 10616  TU 10328+
+2001-09-12 01:39:45 Metrocall [1064385] A  ALPHA  JY  8317/8385  +042 EC  9067/9047 +0067 BP 14526/14300 +000 SF  6005/6010  +070 CD  6388/6380  -010 AD  5169/5152  +031 DM  4636/4626  +034 MP103750/10290 -550 PTB 9039/8942  +002 2YBA 9561/9579  +31 2YTT 9544/9531  +41 2YTC 9458/9454  +20 CAC  3960/4
+2001-09-12 01:39:46 Arch [0987275] C  ALPHA  s0191: 09/11 13:01:29 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:01:29
+2001-09-12 01:39:47 Skytel [004386825] C SH/TONE 229     
+2001-09-12 01:39:48 Arch [0987275] C  ALPHA  s0191: 09/11 13:04:13 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:04:14
+2001-09-12 01:39:48 Arch [1025942] B  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 04700381 from cluster 1095 to cluster 2017), status C3AE181B, extended status C3AE380C. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-12 01:39:48 Arch [1423779] A  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 04700381 from cluster 1095 to cluster 2017), status C3AE181B, extended status C3AE380C. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-12 01:39:48 Arch [0945489] A  ALPHA  Vali.Ali@Compaq.|Accepted: Updated: Microsoft Hom|
+2001-09-12 01:39:49 Metrocall [1064385] A  ALPHA  025 +000
+2001-09-12 01:39:50 Arch [1052294] B  ALPHA  roconnor|ICM grid Alarm::PG16 not Connecting to RouterA. WAN issue? Cisco ticket B828880. Rory. 612 8448 7655   
+2001-09-12 01:39:50 Skytel [007545518] D ST NUM  707-062-2911   
+2001-09-12 01:39:52 Skytel [007100477] D SH/TONE 389-4705
+2001-09-12 01:39:54 Skytel [003206474] C SH/TONE 7220    
+2001-09-12 01:39:57 Arch [0965689] C  ALPHA  sihp8032: Disk utilization of /home filesystem 77% is greater than 75
+2001-09-12 01:39:58 Skytel [005003367] B  ALPHA  root@bur-faxsvr.genuity.com|bur-faxsvr.genuity.com - /bbn is 91% full| 
+2001-09-12 01:39:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8069

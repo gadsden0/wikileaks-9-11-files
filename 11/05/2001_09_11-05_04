@@ -1,0 +1,78 @@
+2001-09-11 05:04:01 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2011
+2001-09-11 05:04:01 Metrocall [1188682] C  ALPHA  Interface Serial1/0.109 ** ENG PVC to Nashville ** on memphis-rtr-c.metrocall.com is Down. Reason: HPOV cannot ping interface ~
+2001-09-11 05:04:01 Metrocall [1180298] C  ALPHA  Interface Serial1/0.109 ** ENG PVC to Nashville **
+2001-09-11 05:04:01 Metrocall [0000329] C  ALPHA  ..I.I....E.....R..D.......................... 2011
+2001-09-11 05:04:01 Skytel [005225860] B SH/TONE 125     
+2001-09-11 05:04:03 Skytel [007524380] D  ALPHA  TechRepublic#1.3008.f1-z6nV_Ai3EcHde9RR.1@techmail.techrepublic.|Working in a mixed environment|  > 
+2001-09-11 05:04:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6833
+2001-09-11 05:04:05 Skytel [005105954] A ST NUM  534-343-4343-1874343
+2001-09-11 05:04:07 Skytel [005506996] B  ALPHA  PRGIX 21.36 UNCH PRSCX 18.21 UNCH PRITX 10.85 UNCH PRWAX 27.78 UNCH
+2001-09-11 05:04:08 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSTRD_EDGNY1) *** VERY SERIOUS Blocking in PDSTRD_EDGNY1 - block time=1971 > 600 secs - Tue Sep 11 05:03:24 EDT 2001 @05:03 09/11/01 
+2001-09-11 05:04:09 Metrocall [1397687] B  ALPHA  xmscorp:-->Sep 11 05:02 Tablespace space use
+2001-09-11 05:04:09 Metrocall [1397690] C  ALPHA  xmscorp:-->Sep 11 05:02 Tablespace space use
+2001-09-11 05:04:09 Metrocall [0496614] B  ALPHA  TOTAL-63-CASH-3-A/S-9-CCMC-14-GE-14-GEICO-1-HERTZ-2-ERS-7-USAC-13-TOTAL 63
+2001-09-11 05:04:10 Arch [0911134] D  ALPHA   edgsyb1-adm.ny.jpmorgan.com SYBASE: check_db(PDSTRD_EDGNY1) MAYBE OPEN TRANSACTION in syslogshold PYR_ARCHIVE|62 - PDSTRD_EDGNY1 @05:03 09/11/01 
+2001-09-11 05:04:10 Skytel [002377819] C  ALPHA   (SPU 1 of 1) : SRS2.1 SDT#1722819   Consoles in Brm and Sac are back up on alternate server - waiting 30min to ensure stability - 01:57 - Casey Tucker
+2001-09-11 05:04:10 Skytel [005111765] B  ALPHA  F1721 eta 06:15....pc-am ctl 347
+2001-09-11 05:04:10 Skytel [007557212] D  ALPHA  F1721 eta 06:15....pc-am ctl 347
+2001-09-11 05:04:12 Skytel [005111022] D  ALPHA  FLT1011 ETA 0515, FLT1153 ARR 0441, FLT1702 ARR 0504, FLT1421 ARR 0502, FLT1703 ETA 0535, FLT1463 ETA 0539, *ADHOC FLT1170 AFW-ATL DUE TO LATE OAK FLT1101 ETA 0644 W/4.5 POS M/S.
+2001-09-11 05:04:12 Skytel [004571232] A  ALPHA  INTC 26.07 +0.18 AMZN 8.63 +0.12 DELL 22.57 +1.02 MSFT 57.58 +2.18
+2001-09-11 05:04:15 Arch [1236727] B  ALPHA  "WaterNet Group,|FWWVC02 : Device Inaccessible|'Device Inaccessible' alarm received from FWWVC02 at 4:04AM on 9/11/01 A 'Device Inaccessible' alarm signifies that Compaq Insight Manager is not currently receiving network responses from the 
+2001-09-11 05:04:15 Arch [0712009] C  ALPHA  "WaterNet Group,|FWWRH01 : Device Inaccessible|'Device Inaccessible' alarm received from FWWRH01 at 4:04AM on 9/11/01 A 'Device Inaccessible' alarm signifies that Compaq Insight Manager is not currently receiving network responses from the 
+2001-09-11 05:04:16 Skytel [007063937] A ST NUM  811911650234814555  
+2001-09-11 05:04:17 Arch [1236727] B  ALPHA  "WaterNet Group,|FWWRH01 : Device Inaccessible|'Device Inaccessible' alarm received from FWWRH01 at 4:04AM on 9/11/01 A 'Device Inaccessible' alarm signifies that Compaq Insight Manager is not currently receiving network responses from the 
+2001-09-11 05:04:17 Metrocall {1175634} 2 2400 711..
+2001-09-11 05:04:18 Skytel [003954329] C  ALPHA  oncall:SEV 3: Rec#1546105(Open) Brownsville is haveing problem with Comlink
+2001-09-11 05:04:18 Skytel [005061905] A  ALPHA  F1721 eta 06:15....pc-am ctl 347
+2001-09-11 05:04:18 Skytel [007112724] B ST NUM  688-9437 (1711 
+2001-09-11 05:04:18 Skytel [005067805] D SH/TONE 766-2222
+2001-09-11 05:04:19 Arch [0327501] D  ALPHA  From:FSG System Monitor@PRUDENTIAL Subject:FSG Body:Sali Job Completed Tue Sep 11 05:04:38 EDT 2001
+2001-09-11 05:04:19 Arch [0796773] B  ALPHA  UIDD.Autoblock@m|01/09/11|Pass 1 04:07:43 DAL2836 SAC2741 : NEW $4609 #16 Avg $288 : CIS $883 #8 Avg $110 : MNL $1042 #3 Avg $347 : Exceptions $0 #1 Avg $0 : High ANI:(4085770966) $1383 : TOT $6534 #28 Avg $233 
+2001-09-11 05:04:20 Metrocall [1064384] A  ALPHA  Y/C  72.04/14   +32 SGD 1.7536/543 +033 HKD 7.7995/003 -003 TWD 34650/4750 +050  IDR  9080/9095 +020 PHP 51.200/400 +100 PLN 4.2175/205 +097 THB 44.750/800 +140 KRW12900/13000 +100 ZAR 8.5328/408 +217 MXN  9.385/900 -090 BRR 25950/5960 +70
+2001-09-11 05:04:20 Skytel [005207087] D  ALPHA  FLT1011 ETA 0515, FLT1153 ARR 0441, FLT1702 ARR 0504, FLT1421 ARR 0502, FLT1703 ETA 0535, FLT1463 ETA 0539, *ADHOC FLT1170 AFW-ATL DUE TO LATE OAK FLT1101 ETA 0644 W/4.5 POS M/S.
+2001-09-11 05:04:20 Skytel [002693038] D  ALPHA  CWM 0.00 UNCH CCR 39.80 +1.35 DJIA 9605.51 -0.34 (2
+2001-09-11 05:04:20 Skytel [005377455] D SH/TONE 266-4897
+2001-09-11 05:04:23 Arch [1060630] B  ALPHA  THANKS ALOT, DENNY.
+2001-09-11 05:04:23 Arch [0553455] D  ALPHA  MUHAMMED, MUSTAFAH UNAUTHORIZED RETURN 09/11/2001  4:59AM
+2001-09-11 05:04:24 Metrocall [1064384] A  ALPHA  0
+2001-09-11 05:04:25 Arch [0899575] B  ALPHA  585-8515
+2001-09-11 05:04:25 Skytel [005192409] C  ALPHA  DELL 22.57 +1.02 EMC 13.95 +0.60 AMGN 64.10 +0.20 MSFT 57.61 +2.21
+2001-09-11 05:04:25 Skytel [005138014] D  ALPHA  EGRP 0.00 UNCH MSFT 57.58 +2.18 CSCO 14.45 +0.09 INKT 3.15 +0.25
+2001-09-11 05:04:25 Skytel [003050969] C SH/TONE         
+2001-09-11 05:04:25 Skytel [005062362] C  ALPHA  F:ap             S:Alarm              D CL 0156 b230-     core_20             
+2001-09-11 05:04:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9756
+2001-09-11 05:04:27 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178161. 
+2001-09-11 05:04:27 Skytel [004517601] A  ALPHA  MSFT 57.58 +2.18 IBM 96.47 -0.12 HWP 17.89 -0.19 SUNW 10.29 -0.30
+2001-09-11 05:04:28 Arch [0712009] C  ALPHA  "WaterNet Group,|FWWVC02 : Device Inaccessible|'Device Inaccessible' alarm received from FWWVC02 at 4:04AM on 9/11/01 A 'Device Inaccessible' alarm signifies that Compaq Insight Manager is not currently receiving network responses from the 
+2001-09-11 05:04:28 Arch [1612111] D  ALPHA  monitor@ccbill.c|EPX PROBLEM WITH front4c.ccbill.|ALERT: No Connection to EPX port Tue Sep 11 02:02:30 MST 2001 
+2001-09-11 05:04:30 Arch [1612111] D  ALPHA  monitor@ccbill.c|EPX PROBLEM WITH front6c.ccbill.|ALERT: No Connection to EPX port Tue Sep 11 02:05:04 MST 2001 
+2001-09-11 05:04:31 Skytel [002844427] C  ALPHA  AP:VA:L1:V5MDUA10 ABENDED WITH U0020 ON 3S03 - 04:01:Call 8005826218.
+2001-09-11 05:04:31 Skytel [005069197] D  ALPHA  EKG Alpha Paging (MCI) AccessTA with ECDATAPRN01 are down.
+2001-09-11 05:04:36 Skytel [005130044] D  ALPHA  oncall:SEV 3: Rec#1546112(Open) QVH-Day did not close-waiting for batches, OPS 347-7966
+2001-09-11 05:04:36 Skytel [002810420] B  ALPHA  F:ap             S:Alarm              D CL 0156 b230-     core_20              (47
+2001-09-11 05:04:38 Skytel [005052355] A ST NUM  213-1008-1
+2001-09-11 05:04:42 Skytel [004686822] B  ALPHA  F:ap             S:Alarm              D CL 0156 b230-     core_20             
+2001-09-11 05:04:42 Skytel [005436525] D  ALPHA  Test #8-IX_T1803
+2001-09-11 05:04:42 Skytel [003447784] C SH/TONE 695     
+2001-09-11 05:04:42 Skytel [004524770] A  ALPHA  wil-RRPG-RutlandVT-01: CPE Up at 00:58:01 on 9/11
+2001-09-11 05:04:44 Arch [1275092] B  ALPHA  ID: 215374 Host: I01470-prt1 Text: TDS101 036 0 15 6  
+2001-09-11 05:04:44 Skytel [002357369] C  ALPHA  002220 CYCLIC TEST 
+2001-09-11 05:04:44 Skytel [002474612] B  ALPHA  T-PST2 COMPLETE (98
+2001-09-11 05:04:44 Skytel [007109749] B SH/TONE 64177   
+2001-09-11 05:04:44 Skytel [003327216] A  ALPHA  002220 CYCLIC TEST 
+2001-09-11 05:04:44 Skytel [002139900] D SH/TONE 002220  
+2001-09-11 05:04:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 02:02:50 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 05:04:49 Arch [0927369] C  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 05:04:49 Arch [1612111] D  ALPHA  monitor@ccbill.c|EPX PROBLEM WITH front8c.ccbill.|ALERT: No Connection to EPX port Tue Sep 11 02:05:04 MST 2001 
+2001-09-11 05:04:49 Arch [1184493] D  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 05:04:49 Arch [0283793] A  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 05:04:49 Arch [0932748] D  ALPHA  [IS-RTP DOWN] rtp8-21-1-ap1
+2001-09-11 05:04:50 Skytel [004024864] A  ALPHA  wingmon@firstusa.com||SiteScope neapp101 /var/weblog neapp101 2566 no data    ********************************************************************** This transmission may contain information that is privileged, confidential and/or exempt fr
+2001-09-11 05:04:51 Arch [0927369] C  ALPHA  [IS-RTP UP] rtp8-21-1-ap1
+2001-09-11 05:04:51 Arch [0932748] D  ALPHA  [IS-RTP UP] rtp8-21-1-ap1
+2001-09-11 05:04:51 Arch [1612111] D  ALPHA  monitor@ccbill.c|EPX PROBLEM WITH front9c.ccbill.|ALERT: No Connection to EPX port Tue Sep 11 02:05:05 MST 2001 
+2001-09-11 05:04:51 Arch [1184493] D  ALPHA  [IS-RTP UP] rtp8-21-1-ap1
+2001-09-11 05:04:51 Arch [0283793] A  ALPHA  [IS-RTP UP] rtp8-21-1-ap1
+2001-09-11 05:04:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1277..
+2001-09-11 05:04:52 Skytel [005112125] D  ALPHA  MSFT 56.79 +1.39 CBR 5.79 -0.10 BEAS 14.30 +0.64
+2001-09-11 05:04:53 Skytel [004727744] A  ALPHA  fyi:SEV 2: Rec#1546090(Closed) CPU1:PRAWZER3 (#04340) down 0008 IVRRRSTR 09/11/01 03:42:00

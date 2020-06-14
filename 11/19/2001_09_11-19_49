@@ -1,0 +1,421 @@
+2001-09-11 19:49:01 Arch [0578068] B  ALPHA   4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:01 Arch [0886821] B  ALPHA  s. STATUS: Problem has bee
+2001-09-11 19:49:01 Arch [0553737] C  ALPHA  (11)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer 
+2001-09-11 19:49:01 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:12 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:12
+2001-09-11 19:49:01 Arch [1009426] A  ALPHA  (6)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: 
+2001-09-11 19:49:01 Arch [0578954] C  ALPHA  (3)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has be
+2001-09-11 19:49:01 Skytel [005179009] A ST NUM  228-0311 (74   
+2001-09-11 19:49:01 Skytel [002286977] A ST NUM  631-589-1587   
+2001-09-11 19:49:01 Skytel [002361863] B  ALPHA  PAGEING,1,Application TODI ERROR 1 0 4096 15:59  09/11/01
+2001-09-11 19:49:01 Skytel [004738439] B SH/TONE 2055    
+2001-09-11 19:49:01 Skytel [002844427] C  ALPHA  AP:VA:L1:V5MDXE36 ABENDED WITH U0500 ON 3S02 - 18:46:Call 8005826218.
+2001-09-11 19:49:01 Skytel [003840386] A SH/TONE 761-1516
+2001-09-11 19:49:01 Skytel [004744206] D ST NUM  370-798-4706   
+2001-09-11 19:49:03 Arch [0480206] D  ALPHA  (4)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:03 Arch [0553737] C  ALPHA  reps. STATUS: Problem has bee
+2001-09-11 19:49:03 Arch [0780138] C  ALPHA  (29)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their custom
+2001-09-11 19:49:03 Arch [1009426] A  ALPHA  Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:03 Arch [1227942] B  ALPHA  (5)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IM
+2001-09-11 19:49:03 Arch [0578954] C  ALPHA  e
+2001-09-11 19:49:03 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  7718
+2001-09-11 19:49:03 Arch [0418540] D  ALPHA  (9)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unab
+2001-09-11 19:49:03 Metrocall [1543349] B  ALPHA  866EEE0BF1)
+2001-09-11 19:49:03 Skytel [003914134] B  ALPHA  rtet40@email.sps.mot.com|Re: Black Belt Project Proposals|This Meeting has been canceled & will be rescheduled later.  Sorry for the late notice  Regards, Gus -----------------------------------  "Dave Sebert (r32891)" wrote:  > Reminder ab
+2001-09-11 19:49:03 Skytel [005508511] D ST NUM  872-791-2300   
+2001-09-11 19:49:03 Skytel [007487760] A  ALPHA  roblaurie@aol.com|No Subject|Aaron, I am wrong again.  Robby did try to call me, but you were on the  internet.  Tell hi
+2001-09-11 19:49:03 Skytel [003926037] B  ALPHA  Update/CATA/LDTCC/FIBER CUT/NEW YORK, NY- 09/11/2001  23:47 GMT  LDTCC REPORTS THE RELAY-NEW YORK LINEAR OC192 HAS BEEN RESTORED.  RESTORAL EFFORTS CONTINUE.  NO ESTIMATED TIME OF RESTORAL.  UPDATES TO FOLLOW.  DON/LDTCC  **SCF** (2
+2001-09-11 19:49:03 Skytel [002558751] D ST NUM  325-545-2585   
+2001-09-11 19:49:05 Arch [1415004] D  ALPHA  (19)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:05 Arch [0780138] C  ALPHA  er reps. STATUS: Problem has bee
+2001-09-11 19:49:05 Arch [1329229] D  ALPHA  (4)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their cust
+2001-09-11 19:49:05 Arch [1227942] B  ALPHA  P: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:05 Arch [1300960] A  ALPHA  Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IM
+2001-09-11 19:49:05 Arch [0418540] D  ALPHA  le to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:05 Arch [1631279] D  ALPHA  (21)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are 
+2001-09-11 19:49:05 Skytel [005437867] C SH/TONE 911281  
+2001-09-11 19:49:05 Skytel [007588514] A SH/TONE 3000    
+2001-09-11 19:49:05 Skytel [005361442] A  ALPHA  Shawn_Romrell@icgcom.com||NSA FIBER CUT AFFECTING RING OC48 1001, OC48 1002 AND OC12 1003. IRIS TICKET 13689. ALL SYSTEMS ON PROTECT. HELMUT IS HEADED INTO THE OFFICE  ETA 30 TO 40 MINUTES. PLEASE CALL INTO CONFERENCE BRIDGE 877-424-2663 PI
+2001-09-11 19:49:05 Skytel [005203884] D  ALPHA  Shawn_Romrell@icgcom.com||NSA FIBER CUT AFFECTING RING OC48 1001, OC48 1002 AND OC12 1003. IRIS TICKET 13689. ALL SYSTEMS ON PROTECT. HELMUT IS HEADED INTO THE OFFICE  ETA 30 TO 40 MINUTES. PLEASE CALL INTO CONFERENCE BRIDGE 877-424-2663 PI
+2001-09-11 19:49:05 Skytel [005172910] D ST NUM  354-709-6241   
+2001-09-11 19:49:05 Skytel [004396975] D SH/TONE 4587    
+2001-09-11 19:49:06 Skytel {0100593} 1 1200 JOSE', MY PHONE NUMBER IS 772 1331 ROOM 414. PLEASE CALL ME. ARACELI. .
+2001-09-11 19:49:07 Arch [0658867] A  ALPHA  (25)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:07 Arch [1329229] D  ALPHA  omer reps. STATUS: Problem has bee
+2001-09-11 19:49:07 Arch [0900779] C  ALPHA   Sub:WTC UPDATE #7f  ---   NOTE PLEASE READ ALL OF THIS ... PREVIOUS COPIES THIS HOUR DID NOT MAKE IT THROUGH SYSTEM Msg:      WTC UPDATE #7f  BEGINS AT 7PM ON TUE SEP 11, 2001      
+2001-09-11 19:49:07 Arch [1300960] A  ALPHA  P: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:07 Arch [0790090] C  ALPHA  (30)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect 
+2001-09-11 19:49:07 Arch [1631279] D  ALPHA  unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:07 Arch [1410867] A  ALPHA  (7)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients ar
+2001-09-11 19:49:08 Arch [0478129] A  ALPHA  (28)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem ha
+2001-09-11 19:49:09 Arch [0900779] C  ALPHA   <?xml:namespace p
+2001-09-11 19:49:09 Arch [0927829] B  ALPHA  674-0900
+2001-09-11 19:49:09 Arch [0903010] A  ALPHA  (28)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their 
+2001-09-11 19:49:09 Arch [0790090] C  ALPHA  switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:09 Arch [1276524] D  ALPHA  (30)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspe
+2001-09-11 19:49:09 Arch [1410867] A  ALPHA  e unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:09 Arch [1008487] B  ALPHA  (22)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Client
+2001-09-11 19:49:10 Arch [0478129] A  ALPHA  s bee
+2001-09-11 19:49:10 Arch [1426332] D  ALPHA  (29)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem
+2001-09-11 19:49:10 Arch [0903010] A  ALPHA  customer reps. STATUS: Problem has bee
+2001-09-11 19:49:10 Arch [0970297] C  ALPHA  632-7471
+2001-09-11 19:49:10 Arch [0987275] C  ALPHA  s0191: 09/11 13:52:13 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:52:14
+2001-09-11 19:49:10 Arch [1613921] A  ALPHA  (32)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect
+2001-09-11 19:49:10 Arch [1276524] D  ALPHA  ct switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:10 Arch [0509989] B  ALPHA  (14)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to A
+2001-09-11 19:49:10 Arch [1008487] B  ALPHA  s are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:10 Arch [0509889] A  ALPHA  (10)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Cli
+2001-09-11 19:49:12 Arch [1426332] D  ALPHA   has bee
+2001-09-11 19:49:12 Arch [0624039] B  ALPHA  (28)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Prob
+2001-09-11 19:49:12 Arch [1613921] A  ALPHA   time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:12 Arch [0968204] D  ALPHA  (15)Restoral 4232857. PROB: IEX Time stamp issue. IEX
+2001-09-11 19:49:12 Arch [0509989] B  ALPHA  spect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:12 Arch [1236660] B  ALPHA  (2)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to
+2001-09-11 19:49:12 Arch [0509889] A  ALPHA  ents are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:12 Arch [1303015] B  ALPHA  (24)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. 
+2001-09-11 19:49:12 Metrocall [1751999] D  ALPHA  28: RENO-RNO/MMH/RNO DEPART MMH 4:55 ETA RNO 5:30 END MESSAGE ####
+2001-09-11 19:49:12 Metrocall [1705200] A  ALPHA  PAM/WILLITS PHARMACY-PETER HEINES IS LOOKING FOR HIS TEMAZEPAM 30MG-LAST FILL 8/21 5 CAPSULES--
+2001-09-11 19:49:12 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  4288
+2001-09-11 19:49:14 Arch [0624039] B  ALPHA  lem has bee
+2001-09-11 19:49:14 Arch [1152100] B  ALPHA  (18)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: P
+2001-09-11 19:49:14 Arch [0968204] D  ALPHA   feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:14 Arch [1422966] B  ALPHA  (17)Restoral 4232857. PROB: IEX Time stamp issue. 
+2001-09-11 19:49:14 Arch [1236660] B  ALPHA   Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:14 Arch [0461356] D  ALPHA  Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to
+2001-09-11 19:49:14 Arch [1303015] B  ALPHA  Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:14 Arch [0476281] C  ALPHA  (5)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data
+2001-09-11 19:49:14 Metrocall [1705200] A  ALPHA  459 6877/PLS CALL
+2001-09-11 19:49:16 Arch [1152100] B  ALPHA  roblem has bee
+2001-09-11 19:49:16 Arch [1610977] A  ALPHA  (9)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS:
+2001-09-11 19:49:16 Arch [1422966] B  ALPHA  IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:16 Arch [0986175] D  ALPHA  06-URGENT. PLEASE CALL 
+2001-09-11 19:49:16 Arch [0461356] D  ALPHA   Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:16 Arch [1356959] D  ALPHA  (19)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time dat
+2001-09-11 19:49:16 Arch [0476281] C  ALPHA  . Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:16 Arch [1604155] C  ALPHA  (20)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing 
+2001-09-11 19:49:18 Arch [1610977] A  ALPHA   Problem has bee
+2001-09-11 19:49:18 Arch [1150149] B  ALPHA  (24)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STA
+2001-09-11 19:49:18 Arch [0986175] D  ALPHA  SAM AT 630-579-8445.
+2001-09-11 19:49:18 Arch [0916276] B  ALPHA  (29)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports f
+2001-09-11 19:49:18 Arch [1356959] D  ALPHA  a to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:18 Arch [1081772] D  ALPHA  (3)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding inco
+2001-09-11 19:49:18 Arch [1604155] C  ALPHA  data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:18 Arch [1080379] C  ALPHA  (26)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP:
+2001-09-11 19:49:20 Arch [1150149] B  ALPHA  TUS: Problem has bee
+2001-09-11 19:49:20 Arch [0192708] B  ALPHA  n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:20 Arch [1413828] B  ALPHA  (30)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 1
+2001-09-11 19:49:20 Arch [0916276] B  ALPHA  or their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:20 Arch [0460641] A  ALPHA  (8)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:20 Arch [0872997] B  ALPHA  (30)n corrected.  All centers on the Aspect Rel.6 and 7 switches hav
+2001-09-11 19:49:20 Arch [1081772] D  ALPHA  rrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:20 Arch [1406316] D  ALPHA  n corrected.  All centers on the Aspect Rel.6 and 7 switches h
+2001-09-11 19:49:20 Arch [1080379] C  ALPHA   Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:20 Arch [0471000] C  ALPHA  (8)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:20 Arch [0866780] D  ALPHA  (25)n co
+2001-09-11 19:49:20 Metrocall [1032037] B  ALPHA  I called Greyhound, they will xchange air ticket for bus ride, See you in 21 days. MLP
+2001-09-11 19:49:22 Arch [1413828] B  ALPHA  8:37cdt....Joe\EM
+2001-09-11 19:49:22 Arch [0475269] B  ALPHA  (1)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:22 Arch [0474171] C  ALPHA  (25)n corrected.  All centers on the Aspect Rel.6 and 7 switches hav
+2001-09-11 19:49:22 Arch [0872997] B  ALPHA  e been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:22 Arch [0802426] C  ALPHA  (19)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:22 Arch [0821151] D  ALPHA  (12)n corrected.  All centers on the Aspect Rel.6 and 7 switches hav
+2001-09-11 19:49:22 Arch [1406316] D  ALPHA  ave been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:22 Arch [1400153] C  ALPHA  (10)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:22 Arch [0195701] B  ALPHA  (25)n corrected.  All centers on the Aspect Rel.6 and 7 switches 
+2001-09-11 19:49:22 Arch [0866780] D  ALPHA  rrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:22 Arch [1604703] D  ALPHA  (9)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:22 Arch [1238677] B  ALPHA  (17)n co
+2001-09-11 19:49:23 Arch [0474171] C  ALPHA  e been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:23 Arch [0509659] C  ALPHA  (28)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:23 Arch [0886821] B  ALPHA  (13)n corrected.  All centers on the Aspect Rel.6 and 7 switches hav
+2001-09-11 19:49:23 Arch [0821151] D  ALPHA  e been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:23 Metrocall [1363588] B  ALPHA  Frm: upscheck@acns.fsu.edu Sub: ups alert Txt: --Tuesday, September 11, 2001 - 07:46:30 pm..u1-5th-lanw ..apc-400-ups ..gate-dif ..landis-5th-west .. ip-128.186.95.240 .. .. ....0.. volts sag Error...
+2001-09-11 19:49:23 Skytel {1317067} 3 1200 905-842-1417   
+2001-09-11 19:49:23 Skytel {1893518} 3 1200 465-6346  
+2001-09-11 19:49:24 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  0641
+2001-09-11 19:49:24 Arch [1328748] D  ALPHA  (20)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:24 Arch [0578954] C  ALPHA  (4)n 
+2001-09-11 19:49:24 Arch [0195701] B  ALPHA  have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:24 Arch [0960641] A  ALPHA  gre|Hi Ning- I have a question about the cross-talk fix you did for the 3810. Please call me at (805) 961-3612. -Gordon   
+2001-09-11 19:49:24 Arch [0578068] B  ALPHA  n corrected.  All centers on the Aspect Rel.6 and 7 switche
+2001-09-11 19:49:24 Arch [1238677] B  ALPHA  rrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:24 Arch [0716752] A  ALPHA  (19)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:24 Arch [0460735] D  ALPHA  ERT offs
+2001-09-11 19:49:25 Arch [0886821] B  ALPHA  e been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:25 Arch [1009426] A  ALPHA  (7)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:25 Arch [0418540] D  ALPHA  (10)n corrected.  All centers on the Aspect Rel.6 and 7 switches hav
+2001-09-11 19:49:25 Arch [0578954] C  ALPHA  corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:25 Arch [0553737] C  ALPHA  (12)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:25 Arch [1329229] D  ALPHA  (5)n 
+2001-09-11 19:49:25 Arch [0578068] B  ALPHA  s have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:25 Arch [0780138] C  ALPHA  (30)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:25 Arch [1227942] B  ALPHA  (6)n corrected.  All centers on the Aspect Rel.6 and 7 switche
+2001-09-11 19:49:25 Arch [0460735] D  ALPHA  ite closed. No change from ERTU. Will update via pager 0900. Keep pagers close tonite.  Frank
+2001-09-11 19:49:25 Arch [0480206] D  ALPHA  (5)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:25 Arch [1415004] D  ALPHA  (20)n corrected.  All c
+2001-09-11 19:49:27 Arch [0418540] D  ALPHA  e been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:27 Arch [1300960] A  ALPHA  n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:27 Arch [0790090] C  ALPHA  (31)n corrected.  All centers on the Aspect Rel.6 and 7 switches have b
+2001-09-11 19:49:27 Arch [1329229] D  ALPHA  corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:27 Arch [1631279] D  ALPHA  (22)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:27 Arch [1276524] D  ALPHA  (31)n
+2001-09-11 19:49:27 Arch [1227942] B  ALPHA  s have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:27 Arch [1410867] A  ALPHA  (8)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:27 Arch [0478129] A  ALPHA  (29)n corrected.  All centers on the Aspect Rel.6 and 7 switch
+2001-09-11 19:49:27 Arch [1415004] D  ALPHA  enters on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:27 Arch [0658867] A  ALPHA  (26)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:27 Arch [0903010] A  ALPHA  (29)n corrected.  All c
+2001-09-11 19:49:29 Arch [0790090] C  ALPHA  een processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:29 Arch [1426332] D  ALPHA  (30)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:29 Arch [0509889] A  ALPHA  (11)n corrected.  All centers on the Aspect Rel.6 and 7 switches have b
+2001-09-11 19:49:29 Arch [1276524] D  ALPHA   corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:29 Arch [1008487] B  ALPHA  (23)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:29 Arch [0987275] C  ALPHA  s0191
+2001-09-11 19:49:29 Arch [0478129] A  ALPHA  es have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:29 Arch [0509989] B  ALPHA  (15)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:29 Arch [1608305] A  ALPHA  Restoral 4232857. PROB: IEX Time stamp issue. IEX 
+2001-09-11 19:49:29 Arch [0903010] A  ALPHA  enters on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:29 Arch [1613921] A  ALPHA  (1)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:29 Arch [0861724] D  ALPHA  (29)14:ABS:
+2001-09-11 19:49:29 Arch [1425048] C  ALPHA  30
+2001-09-11 19:49:29 Metrocall [1544820] B  ALPHA  IWHub ServerWatch Notification - Server CRDC-NMMVR-P2/CA/GSVR/KAIPERM is Responding Server CRDC-NMMVR-P2/CA/GSVR/KAIPERM is responding
+2001-09-11 19:49:29 Metrocall [1544818] A  ALPHA  IWHub Se
+2001-09-11 19:49:31 Arch [0509889] A  ALPHA  een processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:31 Arch [0196106] C  ALPHA  (25)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are 
+2001-09-11 19:49:31 Arch [0987275] C  ALPHA  : 09/11 14:00:38 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 14:00:38
+2001-09-11 19:49:31 Arch [0978683] C  ALPHA  85-CALLING TO SEE IF YOU GOT HOME OK. CALL TAMMI AT 732-796-1105.
+2001-09-11 19:49:31 Arch [1422639] D  ALPHA  (6)Restoral 4232857. PROB: IEX Time st
+2001-09-11 19:49:31 Arch [1608305] A  ALPHA  feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:31 Arch [1408050] A  ALPHA  (8)Restoral 4232857. PROB: IEX Time
+2001-09-11 19:49:31 Arch [1425048] C  ALPHA  0~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 188105. 
+2001-09-11 19:49:31 Arch [0624039] B  ALPHA  (29)n corrected. 
+2001-09-11 19:49:31 Metrocall [1544818] A  ALPHA  rverWatch Notification - Server CRDC-NMMVR-P2/CA/GSVR/KAIPERM is Responding Server CRDC-NMMVR-P2/CA/GSVR/KAIPERM is responding
+2001-09-11 19:49:31 Skytel [003781891] A  ALPHA  P17288@motorola.com|CWR Daily Status 2 of 3|its threshold of when the box goes into partial ops.  Also today, team successfully completed the impedance measurement section of the 1553 test and have finished 20% of the ROTTs.       
+2001-09-11 19:49:31 Skytel [004694661] B SH/TONE 11      
+2001-09-11 19:49:31 Skytel [005507467] C  ALPHA  lucrecia.peralta@bi.com||guard is 25 min-60 alerts  
+2001-09-11 19:49:31 Skytel [007548811] C ST NUM  603-433-2681   
+2001-09-11 19:49:31 Skytel [004415116] D ST NUM  726-577-8808 (71    
+2001-09-11 19:49:31 Skytel [003447951] D SH/TONE 196     
+2001-09-11 19:49:31 Skytel [005371148] D ST NUM  241-471-0206   
+2001-09-11 19:49:33 Arch [0196106] C  ALPHA  unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:33 Arch [0310083] A  ALPHA  Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are u
+2001-09-11 19:49:33 Arch [1422639] D  ALPHA  amp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:33 Arch [1236660] B  ALPHA  (3)n corrected.  All centers on the
+2001-09-11 19:49:33 Arch [1408050] A  ALPHA   stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:33 Arch [1303015] B  ALPHA  (25)n corrected.  All centers on
+2001-09-11 19:49:33 Arch [0624039] B  ALPHA   All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:33 Arch [0968204] D  ALPHA  (16)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\
+2001-09-11 19:49:33 Skytel [005352734] D SH/TONE 336-9097
+2001-09-11 19:49:33 Skytel [003417363] A SH/TONE 99      
+2001-09-11 19:49:33 Skytel [004537104] A ST NUM  381-260-1020   
+2001-09-11 19:49:33 Skytel [007035546] C SH/TONE 223     
+2001-09-11 19:49:33 Skytel [004215193] C ST NUM  209-8202-90 (29
+2001-09-11 19:49:33 Skytel [002401821] D  ALPHA  ssmcscsm13 N/A CBB0OMDB00:Agent:caiW2kOs:w2kLVolInst:Critical Logical Disk/File System E:.  
+2001-09-11 19:49:34 Metrocall [0924264] C  ALPHA  24-CALL ME AT 815-549-6133.  CHRIS.
+2001-09-11 19:49:34 Metrocall [1401678] D  ALPHA  Frm: BreakingNews@CNN.COM Sub: AMERICA UNDER ATTACK Txt: DEVELOPING STORY WASHINGTON (
+2001-09-11 19:49:35 Arch [0310083] A  ALPHA  nable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:35 Arch [1231586] A  ALPHA  (6)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients ar
+2001-09-11 19:49:35 Arch [1236660] B  ALPHA   Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:35 Arch [1377504] A  ALPHA  (12)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. 
+2001-09-11 19:49:35 Arch [1303015] B  ALPHA   the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:35 Arch [1006965] B  ALPHA  (20)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing dat
+2001-09-11 19:49:35 Arch [0968204] D  ALPHA  EM
+2001-09-11 19:49:35 Arch [0653433] C  ALPHA  (11)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem ha
+2001-09-11 19:49:35 Skytel [004704807] B SH/TONE 3555    
+2001-09-11 19:49:35 Skytel [005204653] D SH/TONE 759-7243
+2001-09-11 19:49:35 Skytel [005195050] C ST NUM  201-910-9323   
+2001-09-11 19:49:35 Skytel [007085100] D SH/TONE 835-0191
+2001-09-11 19:49:35 Skytel [007541806] D SH/TONE 71370   
+2001-09-11 19:49:36 Metrocall [1401678] D  ALPHA  CNN) -- The U.S. General Service Administration will reopen its federal buildings in Washington and all other regions -- except those in the New York City
+2001-09-11 19:49:37 Arch [1231586] A  ALPHA  e unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:37 Arch [0265361] A  ALPHA  Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients ar
+2001-09-11 19:49:37 Arch [1377504] A  ALPHA  Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:37 Arch [1359850] C  ALPHA  (24)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing dat
+2001-09-11 19:49:37 Arch [1006965] B  ALPHA  a. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:37 Arch [1071403] C  ALPHA  (8)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing d
+2001-09-11 19:49:37 Arch [0653433] C  ALPHA  s bee
+2001-09-11 19:49:37 Arch [0460533] B  ALPHA  (27)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem
+2001-09-11 19:49:37 Skytel [007554737] A  ALPHA  0000000 DONNIE...CALL BETH LITTLE @ 919 319 2913
+2001-09-11 19:49:37 Skytel [007502001] A SH/TONE 225     
+2001-09-11 19:49:37 Skytel [005237175] B SH/TONE 456-1649
+2001-09-11 19:49:37 Skytel [004685754] C  ALPHA  CALL AGAIN REAL QUICK
+2001-09-11 19:49:37 Skytel [007085499] C SH/TONE 355-3641
+2001-09-11 19:49:37 Skytel [007488309] B SH/TONE 123     
+2001-09-11 19:49:37 Skytel [005315249] A ST NUM  735-343-1911   
+2001-09-11 19:49:37 Skytel [005067314] A ST NUM  908-508-0605 (91    
+2001-09-11 19:49:37 Skytel [005243327] D SH/TONE 000     
+2001-09-11 19:49:37 Skytel [005120063] D ST NUM  900-630-4639   
+2001-09-11 19:49:37 Skytel [002585022] D ST NUM  954-328-9060 (78    
+2001-09-11 19:49:38 Arch [0265361] A  ALPHA  e unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:38 Arch [0508017] A  ALPHA  Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients ar
+2001-09-11 19:49:38 Arch [1359850] C  ALPHA  a. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:38 Arch [1424911] D  ALPHA  (16)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing 
+2001-09-11 19:49:38 Arch [1071403] C  ALPHA  ata. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:38 Arch [1273485] D  ALPHA  (18)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losi
+2001-09-11 19:49:38 Arch [0460533] B  ALPHA   has bee
+2001-09-11 19:49:39 Arch [0510491] C  ALPHA  (8)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Probl
+2001-09-11 19:49:39 Skytel [005191364] B SH/TONE 99      
+2001-09-11 19:49:39 Skytel [007100618] C ST NUM  931-595-0142   
+2001-09-11 19:49:39 Skytel [007552207] D SH/TONE 667-9155
+2001-09-11 19:49:39 Skytel [007605831] B SH/TONE 8938    
+2001-09-11 19:49:39 Skytel [003474631] B SH/TONE 509-2380
+2001-09-11 19:49:39 Skytel [004593353] C ST NUM  603-491-8822   
+2001-09-11 19:49:39 Skytel [008507076] B  ALPHA  01738h4b1ab010800002g
+2001-09-11 19:49:39 Skytel [004545869] D SH/TONE 550-9122
+2001-09-11 19:49:39 Skytel [005308365] D SH/TONE 637-4068
+2001-09-11 19:49:39 Skytel [003509326] D SH/TONE 110     
+2001-09-11 19:49:40 Arch [0508017] A  ALPHA  e unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:40 Arch [1422966] B  ALPHA  (18)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:40 Arch [0476281] C  ALPHA  (6)n corrected.  All centers 
+2001-09-11 19:49:40 Arch [1424911] D  ALPHA  data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:40 Arch [1152100] B  ALPHA  (19)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:40 Arch [0509613] D  ALPHA  (8)Restoral 4232857. PROB:
+2001-09-11 19:49:40 Arch [1273485] D  ALPHA  ng data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:40 Arch [0461356] D  ALPHA  n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:40 Arch [1275057] A  ALPHA  (10)Restoral 4232857. PROB
+2001-09-11 19:49:40 Arch [0510491] C  ALPHA  em has bee
+2001-09-11 19:49:40 Arch [1231423] D  ALPHA  (5)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Pr
+2001-09-11 19:49:41 Skytel [007491549] D SH/TONE 75400   
+2001-09-11 19:49:41 Skytel [004756562] A SH/TONE 513-8454
+2001-09-11 19:49:41 Skytel [004737368] C  ALPHA  CPI2404 SYS02 Waiting for reply to message on message queue QSYSOPR. 09/11/01 19:49 QPGMR
+2001-09-11 19:49:41 Skytel [002814045] D  ALPHA  y-alerts@yahoo-inc.com||Fr: fm0623@hotmail.com *Re: Hello from New York - We're Ok* Very glad to hear it. My famil Mail  
+2001-09-11 19:49:41 Skytel [005076437] B SH/TONE 206     
+2001-09-11 19:49:41 Skytel [007101650] A SH/TONE 88      
+2001-09-11 19:49:41 Skytel [003906008] C SH/TONE 442-3970
+2001-09-11 19:49:41 Skytel [007552083] A  ALPHA  Rita.Sussman@nordstrom.com|FW: |   > Test page from me. Did you receive. Email test page for pagers. Rita 4607  
+2001-09-11 19:49:41 Skytel [002267598] D SH/TONE 421-4401
+2001-09-11 19:49:41 Skytel [004106588] D ST NUM  911-435-4421 (12    
+2001-09-11 19:49:41 Skytel [003440863] D ST NUM  917-596-7273 (15    
+2001-09-11 19:49:42 Arch [0476281] C  ALPHA  on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:42 Arch [1416702] D  ALPHA  (3)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing d
+2001-09-11 19:49:42 Arch [0509613] D  ALPHA   IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:42 Arch [0510137] C  ALPHA  (13)Restoral 4
+2001-09-11 19:49:42 Arch [1275057] A  ALPHA  : IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:42 Arch [1405114] C  ALPHA  (26)Restoral 4232857. P
+2001-09-11 19:49:42 Arch [1231423] D  ALPHA  oblem has bee
+2001-09-11 19:49:42 Arch [0193552] A  ALPHA  (27)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS
+2001-09-11 19:49:43 Skytel [007468003] A SH/TONE 999-8888
+2001-09-11 19:49:43 Skytel [002379247] D SH/TONE 1       
+2001-09-11 19:49:43 Skytel [003896162] A ST NUM  202-537-5546   
+2001-09-11 19:49:43 Skytel [003952100] B  ALPHA  Front Door Open 
+2001-09-11 19:49:43 Skytel [004573283] A SH/TONE 782-2870
+2001-09-11 19:49:43 Skytel [005212903] B SH/TONE 145877  
+2001-09-11 19:49:43 Skytel [004524770] A  ALPHA  nyc-MarjamSupply-BrooklynNY-02: CPE Down at 19:49:43 on 9/11
+2001-09-11 19:49:43 Skytel [005436525] D  ALPHA  LNotes #33-IX_T1707
+2001-09-11 19:49:43 Skytel [007491946] C SH/TONE 8889    
+2001-09-11 19:49:43 Skytel [004429932] D ST NUM  204-562-7206-6969   
+2001-09-11 19:49:43 Skytel [007552103] B ST NUM  8003866093
+2001-09-11 19:49:43 Skytel [005055585] A SH/TONE 224     
+2001-09-11 19:49:44 Arch [1416702] D  ALPHA  ata. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:44 Arch [0985941] B  ALPHA  amguan|Please see Dillard. Amy G.   
+2001-09-11 19:49:44 Arch [1613872] A  ALPHA  (13)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Ca
+2001-09-11 19:49:44 Arch [0510137] C  ALPHA  232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:44 Arch [0418907] C  ALPHA  (21)Restora
+2001-09-11 19:49:44 Arch [1405114] C  ALPHA  ROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:44 Arch [1082360] C  ALPHA  (26)Restoral 4232857
+2001-09-11 19:49:44 Arch [0193552] A  ALPHA  : Problem has bee
+2001-09-11 19:49:44 Arch [0552179] A  ALPHA  (23)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STA
+2001-09-11 19:49:44 Skytel [003442800] A SH/TONE 682-5977
+2001-09-11 19:49:44 Skytel [005118194] A SH/TONE 692     
+2001-09-11 19:49:44 Skytel [002840190] D ST NUM  313-240-6910 U (4   
+2001-09-11 19:49:44 Skytel [004548339] A ST NUM  270-640-0831   
+2001-09-11 19:49:44 Skytel [007554934] B  ALPHA  45555
+2001-09-11 19:49:44 Skytel [007041771] C ST NUM  818-840-7250-911    
+2001-09-11 19:49:44 Skytel [002357369] C  ALPHA  002515 CYCLIC TEST 
+2001-09-11 19:49:44 Skytel [002380924] D SH/TONE 5555    
+2001-09-11 19:49:44 Skytel [004139000] C  ALPHA  415-542-3333 (12
+2001-09-11 19:49:44 Skytel [005003260] D SH/TONE 7474    
+2001-09-11 19:49:45 Skytel [003327216] A  ALPHA  002515 CYCLIC TEST 
+2001-09-11 19:49:45 Skytel [005069814] B ST NUM  816-941-4286   
+2001-09-11 19:49:45 Skytel [005257591] B SH/TONE 918-8345
+2001-09-11 19:49:45 Skytel [002139900] D SH/TONE 002515  
+2001-09-11 19:49:45 Skytel [005507575] B ST NUM  562-938-1221-911    
+2001-09-11 19:49:45 Skytel [005327352] C  ALPHA  09/11/01 19:47 09/11/01 19:47 irby call collect 201-601-7009
+2001-09-11 19:49:46 Arch [1613872] A  ALPHA  using incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:46 Arch [0917706] C  ALPHA  (28)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time 
+2001-09-11 19:49:46 Arch [0418907] C  ALPHA  l 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem ha
+2001-09-11 19:49:46 Arch [1082360] C  ALPHA  . PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:46 Arch [0552179] A  ALPHA  TUS: Problem has bee
+2001-09-11 19:49:46 Arch [0801348] B  ALPHA  (13)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports f
+2001-09-11 19:49:46 Metrocall [0317071] D  ALPHA  STEVE IS HERE IN THE ADO. BK
+2001-09-11 19:49:46 Metrocall [1064374] B  ALPHA   +033  E/C  1.4991/96 -164 E/Y  108.99/09 +034 E/S  0.6192/95 +034 USD     113.47 +009
+2001-09-11 19:49:46 Skytel [004709005] D SH/TONE 85      
+2001-09-11 19:49:46 Skytel [005312009] C ST NUM  702-751-8608   
+2001-09-11 19:49:48 Arch [0917706] C  ALPHA  data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:48 Arch [1152488] C  ALPHA  (3)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect tim
+2001-09-11 19:49:48 Arch [0418907] C  ALPHA  s bee
+2001-09-11 19:49:48 Arch [1610977] A  ALPHA  (10)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:48 Arch [0575898] C  ALPHA  (29)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing 
+2001-09-11 19:49:48 Arch [1604155] C  ALPHA  (21)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:48 Arch [1207960] C  ALPHA  (23)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time 
+2001-09-11 19:49:48 Arch [0801348] B  ALPHA  or their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:48 Arch [1356959] D  ALPHA  (20)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:48 Arch [1275900] D  ALPHA  (22)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorr
+2001-09-11 19:49:48 Skytel [002936978] A ST NUM  608-873-6645 (68    
+2001-09-11 19:49:48 Skytel [007551507] A SH/TONE 577-5000
+2001-09-11 19:49:48 Skytel [004570138] C  ALPHA  PLEASE CALL DESK.   
+2001-09-11 19:49:48 Skytel [005076248] C ST NUM  613-680-9883   
+2001-09-11 19:49:48 Skytel [002351745] A ST NUM  8008174550
+2001-09-11 19:49:48 Skytel [004426271] D SH/TONE 55555   
+2001-09-11 19:49:48 Skytel [005382666] C SH/TONE 577-0450
+2001-09-11 19:49:50 Arch [1152488] C  ALPHA  e data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:50 Arch [0480215] B  ALPHA  (6)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect 
+2001-09-11 19:49:50 Arch [0575898] C  ALPHA  incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:50 Arch [0330567] B  ALPHA  (17)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causi
+2001-09-11 19:49:50 Arch [1207960] C  ALPHA  stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:50 Arch [0476599] B  ALPHA  (16)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect ti
+2001-09-11 19:49:50 Arch [1275900] D  ALPHA  ect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:50 Arch [0509863] B  ALPHA  Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorre
+2001-09-11 19:49:50 Skytel [005122465] A ST NUM  508-218-0582   
+2001-09-11 19:49:50 Skytel [004139809] A ST NUM  825-277-4500 (51    
+2001-09-11 19:49:50 Skytel [007587247] D SH/TONE 981-9885
+2001-09-11 19:49:52 Arch [0480215] B  ALPHA  time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:52 Arch [0555105] A  ALPHA  (7)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorre
+2001-09-11 19:49:52 Arch [0330567] B  ALPHA  ng incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:52 Arch [0622964] B  ALPHA  (4)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Cau
+2001-09-11 19:49:52 Arch [0476599] B  ALPHA  me stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:52 Arch [1254730] C  ALPHA  (11)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect
+2001-09-11 19:49:52 Arch [0509863] B  ALPHA  ct time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:52 Arch [0703652] B  ALPHA  Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorre
+2001-09-11 19:49:52 Skytel [002386110] D SH/TONE 7474    
+2001-09-11 19:49:52 Skytel [007488313] C SH/TONE 577-5000
+2001-09-11 19:49:52 Skytel [007551414] B SH/TONE 577-5000
+2001-09-11 19:49:53 Arch [0555105] A  ALPHA  ct time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:54 Arch [1081772] D  ALPHA  (4)n corrected.  All centers on the Aspect Rel.6 and 7 switches h
+2001-09-11 19:49:54 Arch [0622964] B  ALPHA  sing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:54 Arch [0916276] B  ALPHA  (30)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:3
+2001-09-11 19:49:54 Arch [1254730] C  ALPHA   time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:54 Arch [1150149] B  ALPHA  (25)n corrected.  All centers on the Aspect Rel.6 and 7 switches have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:54 Arch [0703652] B  ALPHA  ct time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:54 Arch [1080379] C  ALPHA  (27)n corrected.  All centers on the Aspect Rel.6 and 7 switches 
+2001-09-11 19:49:54 Skytel [003926223] D  ALPHA  PLEASE CONTACT GEORGE LAROSE AT 212-899-4300.
+2001-09-11 19:49:55 Arch [1081772] D  ALPHA  ave been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:55 Arch [1423779] A  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 04700320 from cluster 1095 to cluster 2029), status C3AE181B, extended status C3AE380C. MCA_VSTRMERROR - An error was returned from the
+2001-09-11 19:49:55 Arch [0916276] B  ALPHA  7cdt....Joe\EM
+2001-09-11 19:49:55 Arch [0855267] A  ALPHA  (22)14:ABS:
+2001-09-11 19:49:55 Arch [0737517] D  ALPHA  OV@cox.net|IF UP MadisonCareerCTR 10.55.251.238 
+2001-09-11 19:49:55 Arch [1063253] B  ALPHA  50-PLEASE CALL JOHN AT HOME ASAP. 480-807-0134.
+2001-09-11 19:49:55 Arch [0909446] B  ALPHA  5769200-911
+2001-09-11 19:49:55 Arch [1025942] B  ALPHA  (PS) Media Cluster Agent error, routine MCACopy(element 04700320 from cluster 1095 to cluster 2029), status C3AE181B, extended status C3AE380C. MCA_VSTRMERROR - An error was returned from the VSTRM la
+2001-09-11 19:49:55 Arch [1053610] C  ALPHA  (10)Restoral 4232857. PROB
+2001-09-11 19:49:55 Arch [1080379] C  ALPHA  have been processed resolving @ 18:37cdt....Joe\EM
+2001-09-11 19:49:55 Arch [1621205] B  ALPHA  77-CALL BOB JACOBSON ON HIS CELL PHONE AT 415-305-8483.
+2001-09-11 19:49:56 Arch [0619357] D  ALPHA  (27)14:ABS:
+2001-09-11 19:49:56 Skytel [005322577] A  ALPHA  949-724-4577 [7674
+2001-09-11 19:49:56 Skytel [005390424] C  ALPHA  3284 TELECOMET INC       
+2001-09-11 19:49:56 Skytel [007101144] C SH/TONE 5776    
+2001-09-11 19:49:57 Arch [1423779] A  ALPHA   VSTRM la
+2001-09-11 19:49:57 Arch [0507001] C  ALPHA  (18)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS
+2001-09-11 19:49:57 Arch [0905556] B  ALPHA  (24)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:57 Arch [1053610] C  ALPHA  : IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:57 Arch [1072005] B  ALPHA  (29)Restoral 4232857. P
+2001-09-11 19:49:57 Arch [1137749] B  ALPHA  (31)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:58 Skytel [002823011] A SH/TONE 7474    
+2001-09-11 19:49:58 Skytel [007611236] B  ALPHA  265-8991.NEXTEL,COMMUNIC     
+2001-09-11 19:49:58 Skytel [007611501] D SH/TONE 8156    
+2001-09-11 19:49:59 Arch [0507001] C  ALPHA  : Problem has bee
+2001-09-11 19:49:59 Arch [1328748] D  ALPHA  (21)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STA
+2001-09-11 19:49:59 Arch [0967172] B  ALPHA  cbrecke|Jeff,need to speak w/you concerning vstream.Just spoke w/Paula Montgomery.CA can help but need your assistance.Chris Brecke at 925-223-3019  
+2001-09-11 19:49:59 Arch [1123390] D  ALPHA  (9)Restoral 4232857. PROB: IEX Time stamp issue. IEX 
+2001-09-11 19:49:59 Arch [1072005] B  ALPHA  ROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STATUS: Problem has bee
+2001-09-11 19:49:59 Arch [0775787] C  ALPHA  (2)Resto
+2001-09-11 19:49:59 Arch [0460190] D  ALPHA  (8)Restoral 4232857. PROB: IEX Time stamp issue. IEX feeding incorrect time data to Aspect switches. Causing incorrect time stamps. IMP: Totalview losing data. Clients are unable to pull reports for their customer reps. STAT

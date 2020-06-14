@@ -1,0 +1,44 @@
+2001-09-11 04:57:00 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2004
+2001-09-11 04:57:00 Metrocall [002324586] C  ALPHA  PLEASE CHECK VOICE MAILBOX...7505586
+2001-09-11 04:57:00 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2004
+2001-09-11 04:57:03 Skytel [005254677] B  ALPHA  syslogd@firstam.com|*** No dest address ***|Problem: 09-11-2001 01:56:49 Local4.Warning 172.21.130.2 Sep 11 2001 02:01:52: %PIX-4-500004: Invalid transport field for protocol=6, from 24.68.4.109/0 to 208.246.101.101/1024  
+2001-09-11 04:57:04 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6826
+2001-09-11 04:57:04 Arch [1026292] B  ALPHA  Backup@NYED.usco|Operator Attention|(Server: "NYEPSROGUE" Job: "Monday backup" Device: "HP 1") Please inser t overwritable media into the changer using the slot import command. 
+2001-09-11 04:57:04 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178077. 
+2001-09-11 04:57:04 Arch [1666850] A  ALPHA  3196
+2001-09-11 04:57:04 Arch [0937778] A  ALPHA  tail swap RFD 0612 TAIL 947 R2P2.  (0856)
+2001-09-11 04:57:04 Skytel {1345281} 1 1200 KPNQwest, Intel In E-Business Network Alliance[DJ NEWS]..
+2001-09-11 04:57:04 Skytel {0132085} 1 1200 0001C00000000006190100003E260020224400000000.
+2001-09-11 04:57:09 Metrocall [002589700] B  ALPHA  iiamd1 Node Down. 2001/09/11 03:54:24
+2001-09-11 04:57:09 Metrocall [1578487] B  ALPHA  TIPSY(SMJOBD/COMOPS)Waiting for reply to message on message queue QSYSOPR. 010911 014055
+2001-09-11 04:57:10 Arch [0944668] D  ALPHA  41-PLEASE CALL INTEL BRIDGE 916-356-9540. OR CALL NOC AT 916-356-5724. THANK YOU. SEAN.
+2001-09-11 04:57:11 Metrocall [1224627] A  ALPHA  Job #  14 ADP/B.S.D. LS: STD    Rdy:  400 Exdl:  700 P/U:ADP/LOADING DOCK 3300 OLCOTT ST SANTA CLARA D/L:NCM DELIVERY ACCT PAY OAKLAND Wt:    0 Caller: SCHED JCode: PRESCH 167 Ref: PU ANYTIME @ 0400 Comment: 2130/SF TO SC
+2001-09-11 04:57:11 Metrocall [1224627] A  ALPHA  Job #  14 2230/SC TO
+2001-09-11 04:57:13 Metrocall [1224627] A  ALPHA   SF 2330/SF TO SC THIS IS AN OVERNT BY 0630 HOME PHONE IS 925-229-4447 CALL IF SET OFF ALARM
+2001-09-11 04:57:20 Metrocall [1890355] A  ALPHA  Server Beci SMTP SVCDOWN at 03:05:57
+2001-09-11 04:57:20 Metrocall [0668217] C  ALPHA  Server Beci SMTP SVCDOWN at 03:05:57
+2001-09-11 04:57:20 Metrocall [1116477] D  ALPHA  HARK1      LINE UP :METROCAL
+2001-09-11 04:57:20 Metrocall [1064390] B  ALPHA  HG  z6590  +020 HGf6615/h6680/j6805 HGzHi6590/HGzLo6580 GC z2735/g2745 -002 GCzHi27
+2001-09-11 04:57:22 Metrocall [1064390] B  ALPHA  37/GCzLo2734 SI z4190/h4235 -003 SIzHi4195/SIzLo4190 AL u6435/v6465 +035
+2001-09-11 04:57:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9749
+2001-09-11 04:57:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3397
+2001-09-11 04:57:32 Arch [0986464] A  ALPHA  Y! <y-alerts@yah|Fr: netsaavers@info.aa.com *American Airlines Net SAAver Fares* American Airlines Net Mail 
+2001-09-11 04:57:33 Metrocall [1064387] A  ALPHA    +000
+2001-09-11 04:57:33 Skytel [007575575] B  ALPHA  [MINOR] dijon: File-system "/biller/wnet/data/parser" is now 86% full.
+2001-09-11 04:57:33 Skytel [007563679] D ST NUM  223-295-4041   
+2001-09-11 04:57:35 Skytel [004024864] A  ALPHA  wingmon@firstusa.com||SiteScope stpxy102 cpu stpxy102 36113 no data    ********************************************************************** This transmission may contain information that is privileged, confidential and/or exempt from disc
+2001-09-11 04:57:36 Skytel [002848952] C  ALPHA  10141:Network Node LYRT160C201A (3.164.163.61) is Down @ 04:52 09/11/01
+2001-09-11 04:57:36 Skytel [007503156] B SH/TONE 6309    
+2001-09-11 04:57:38 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 178084. 
+2001-09-11 04:57:40 Skytel [005062362] C  ALPHA  F:ap             S:Alarm              N CL 0156 b300-     edge_25             
+2001-09-11 04:57:42 Skytel [005436525] D  ALPHA  Test Message #19-IX_T0211
+2001-09-11 04:57:42 Skytel [004524770] A  ALPHA  spr-FalconSheraton-SpringfieldMA: CPE Up at 00:58:47 on 9/11
+2001-09-11 04:57:44 Skytel [007109749] B ST NUM  561-1317-73    
+2001-09-11 04:57:44 Skytel [007547004] D ST NUM  08007243624    
+2001-09-11 04:57:46 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 01:56:30 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 04:57:51 Skytel [002810420] B  ALPHA  F:ap             S:Alarm              N CL 0156 b300-     edge_25              (44
+2001-09-11 04:57:57 Skytel [005178080] A SH/TONE 104     
+2001-09-11 04:57:57 Skytel [007596901] B SH/TONE 85450   
+2001-09-11 04:57:57 Skytel [004686822] B  ALPHA  F:ap             S:Alarm              N CL 0156 b300-     edge_25             
+2001-09-11 04:57:57 Skytel [003942633] C  ALPHA  infobeat@list.euniverse.com|SPORTS: Bonds Smacks Three Homers in Pursuit of Record|This is a multipart message in MIME format.  --ffff Content-Type: text/plain    INFOBEAT Don't Miss A Beat!  ===========================  SPORTS NEWSLETTER T
+2001-09-11 04:57:59 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  

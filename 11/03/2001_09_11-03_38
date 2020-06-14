@@ -1,0 +1,44 @@
+2001-09-11 03:38:01 Metrocall [0153352] C  ALPHA  T_VAL in web
+2001-09-11 03:38:03 Skytel {1102375} 1 2400 57266  10 
+2001-09-11 03:38:03 Skytel {1092655} 3 2400 002191    
+2001-09-11 03:38:05 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 18.87 4.59 9.22 Tue Sep 11 00:38:16 MST 2001 
+2001-09-11 03:38:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6747
+2001-09-11 03:38:05 Arch [1060702] D  ALPHA  NIU Sys 06/Dev 2219 - 00246B ST_AUG_S_6125, cnet lost sync, Clr
+2001-09-11 03:38:05 Arch [0939437] D  ALPHA  CA Helpdesk <CAH|unknown|CR: 140728 Priority: 5 Assigned to: Muench, David E. Summary:: Unplanned.CA UNIX.App 
+2001-09-11 03:38:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177213. 
+2001-09-11 03:38:08 Arch [1619813] B  ALPHA  2760
+2001-09-11 03:38:14 Arch [0938835] A  ALPHA  123-33000827
+2001-09-11 03:38:16 Arch [0938835] A  ALPHA  123-48000827
+2001-09-11 03:38:27 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9670
+2001-09-11 03:38:30 Metrocall [1698626] A  ALPHA  ALERT-SITE: 8324 - PORT ALLEN *   A3 LINK FWD PWR * MAJ ALARM  * 144W MAJ=NONE
+2001-09-11 03:38:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3318
+2001-09-11 03:38:33 Skytel [002401821] D  ALPHA  206.122.40.74 $HASP050 JES2 RESOURCE SHORTAGE OF JOES - 80% UTILIZATION REACHED ussa11.SSMC 
+2001-09-11 03:38:33 Skytel [003250448] A  ALPHA  Problem Ticket  #ORLC00000417948 Assgn:   Raymond, Elmer W 407.306.3994 A Problem Ticket has been assigned to your group. 
+2001-09-11 03:38:33 Skytel [005413916] D ST NUM  289855 (44
+2001-09-11 03:38:34 Skytel [005105954] A  ALPHA  CALL MY CELL PHONE INSTEAD OF MY HOUSE PHONE CAUSE I DON'T WANT IT TO RING, AND CRYSTALS BEEN GOING AROUND SAYING STUFF ABOUT YOU AND ME. I LOVE YOU. 
+2001-09-11 03:38:35 Skytel [007461924] B ST NUM  363-710-7411   
+2001-09-11 03:38:36 Skytel [004729528] C  ALPHA  sql.ioc.sandiego.ca@firstam.com|BLOCKING UPDATE|spid:21 on FWPRODSQL killed after 6 min of continuous locking  
+2001-09-11 03:38:36 Skytel [005328447] D SH/TONE 1       
+2001-09-11 03:38:36 Skytel [004702132] B  ALPHA  support@pconline.com|Server newton FTP,POP3 UP at 02:31:21|Server newton FTP,POP3 UP at 02:31:21 Address
+2001-09-11 03:38:36 Skytel [004591792] A  ALPHA  garnetj65@excite.com|CUT THE CRAP AND LET'S GET SERIOUS|Dear Fellow Advertiser!!  Too often you have seen the ads FREE FREE NOTHING TO PAY  and you try to sign up and taa daa there is a pop up screen  that tells you for a limited time only 
+2001-09-11 03:38:37 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177220. 
+2001-09-11 03:38:38 Arch [1612111] D  ALPHA  monitor@ccbill.c|report3.ccbill.com: Load high|Load averages high on report3.ccbill.com: 37.96 12.85 12.06 Tue Sep 11 00:39:00 MST 2001 
+2001-09-11 03:38:38 Skytel [002358223] D SH/TONE 8888    
+2001-09-11 03:38:39 Metrocall [1415249] A  ALPHA  Deschamp, Clyde: ped flight to natchez reg in natchez
+2001-09-11 03:38:39 Metrocall [1708472] C  ALPHA  PLEASE CALL RADIO REF SG 9
+2001-09-11 03:38:39 Metrocall [1466337] A  ALPHA  09/11@02:28:51 DALPS01:The session setup from the computer HNB-BASECFG-150 failed to authenticate. The name of the account referenc
+2001-09-11 03:38:39 Metrocall [1111466] C  ALPHA  09/11@02:28:51 DALPS01:The session setup from the computer HNB-BASECFG-150 failed to authenticate. The name of the account referenced in the security database is HNB-BASECFG-150$. The following error occurred: (null)
+2001-09-11 03:38:40 Arch [0508023] B  ALPHA  Super-User <root|!BB - 1118510! hp3000.namins.com|[1118510] hp3000.namins.com.conn red Tue Sep 11 03:39:12 EDT 2001 bb-network.sh: Can't ping hp3000.namins.com... Please see: http://bass.namins.com/bb/html/hp3000.namins.com.conn.html 
+2001-09-11 03:38:40 Skytel [004661599] D  ALPHA  watchdog@mycomputer.com|WATCHDOG NOTICE - SERVICE IS DOWN|Critical Status Alert for HTTP://www.turno
+2001-09-11 03:38:40 Skytel [003050969] C SH/TONE         
+2001-09-11 03:38:40 Skytel [007589212] D SH/TONE 3395    
+2001-09-11 03:38:41 Metrocall [1466337] A  ALPHA  ed in the security database is HNB-BASECFG-150$. The following error occurred: (null)
+2001-09-11 03:38:42 Skytel [005043559] B  ALPHA  150.ARENER MANUFACT     
+2001-09-11 03:38:42 Skytel [007062885] B SH/TONE 143     
+2001-09-11 03:38:42 Skytel [004524770] A  ALPHA  spr-BramanChemical-AgawamMA-01: CPE Up at 00:56:49 on 9/11
+2001-09-11 03:38:42 Skytel [005436525] D  ALPHA  Test #45
+2001-09-11 03:38:42 Skytel [005226605] D ST NUM  8683241842
+2001-09-11 03:38:42 Skytel [005112809] C  ALPHA  02:35CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240464: Uncorrectable write error
+2001-09-11 03:38:44 Skytel [007554548] B ST NUM  303-912-5024   
+2001-09-11 03:38:51 Skytel [002398398] D  ALPHA  netserver@networktwo.net|Network Operations Alert|<Closed: Tuesday, Sep 11 2001 07:38:14 GMT>  Off Dial Backup  -  Node: 469.5.3   Location: 85   City: Sacramento, CA   Time On Backup:  .2 Hours  
+2001-09-11 03:38:52 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1191..

@@ -1,0 +1,78 @@
+2001-09-12 02:30:00 Skytel [004579445] B ST NUM  0-510-231-7750 U    
+2001-09-12 02:30:01 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8119
+2001-09-12 02:30:01 Arch [1398238] D  ALPHA  knox6060(161.44.216.60): failed ifDescr check, expected: hme0, got: timeout for hme0
+2001-09-12 02:30:02 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.35 - Down at: Tue Sep 11 23:28:59 PDT 2001 - REPORTED FROM: linux  
+2001-09-12 02:30:04 Arch [0241791] D  ALPHA  (19)REQQ time limit exceeded for:PASSPORT_FTW_O:12-sep-2001 00:02
+2001-09-12 02:30:05 Skytel [007099695] D  ALPHA  wfinley@hotwire.com|4 Weblogic servers responding beyond 5000 ms|09/11/01-23:30:00  as01m.hotwire.com:7001    Not OK! as01m.hotwire.com:7003    Not OK! as03m.hotwire.com:7001    Not OK! as04m.hotwire.com:7003    Not OK!  
+2001-09-12 02:30:05 Skytel [005259174] B SH/TONE 104301  
+2001-09-12 02:30:06 Arch [0241791] D  ALPHA  (20)REQQ time limit exceeded for:PASSPORT_CHA_A:12-sep-2001 00:02
+2001-09-12 02:30:06 Skytel {1854552} 3 2400 800-445-7114   
+2001-09-12 02:30:06 Skytel {0743995} 1 2400 800-344-8041   
+2001-09-12 02:30:06 Skytel {0152808} 3 2400 3441 
+2001-09-12 02:30:07 Skytel {0176504} 1 1200 New CallOne, Incident P000001013..
+2001-09-12 02:30:07 Skytel {0176470} 1 1200 New CallOne, Incident P000001013..
+2001-09-12 02:30:08 Arch [0241791] D  ALPHA  (21)REQQ time limit exceeded for:PASSPORT_SAT_D:12-sep-2001 00:02
+2001-09-12 02:30:08 Arch [0936235] C  ALPHA  SWITCH REROUTE DID NOT WORK. MOVING TO MCI. WILL KEEP YOU POSTED........AUDRA.
+2001-09-12 02:30:08 Arch [1657188] B  ALPHA  NCAGRCSQLA:Device Accessible,Device Status:Ok
+2001-09-12 02:30:08 Arch [0632438] B  ALPHA  OPSMVS: COE9011 ABENDED AT 02:29 WITH S837/U0000.
+2001-09-12 02:30:08 Skytel {0176473} 1 1200 New CallOne, Incident P000001013..
+2001-09-12 02:30:10 Arch [0987275] C  ALPHA  s0191: 09/11 13:09:47 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:09:47
+2001-09-12 02:30:12 Arch [0987275] C  ALPHA  s0191: 09/11 13:18:30 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:18:30
+2001-09-12 02:30:12 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 71 processes on report1.ccbill.com. Timestamp key: 20010911232801 
+2001-09-12 02:30:12 Metrocall [1064381] D  ALPHA  CORRECTED-S.KOREA MAY ASK .........T..............ORTS
+2001-09-12 02:30:14 Arch [1612111] D  ALPHA  monitor@ccbill.c|Warning: There are 72 processes on report1.ccbill.com. Timestamp key: 20010911232801 
+2001-09-12 02:30:21 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  1042
+2001-09-12 02:30:21 Arch [0000101] B  ALPHA  MSN 087 hello Message from NOC PCB.
+2001-09-12 02:30:21 Metrocall [1363779] A  ALPHA  AP:TX:L1:NTADBDCK ABENDED WITH U0888 ON 1H02 - 02:30:Call 18007980784:SENDID# 1314 :
+2001-09-12 02:30:25 Arch [1005985] A  ALPHA  --- Equipment ID [23100001] status change - interference Equipment ID [23100001]
+2001-09-12 02:30:25 Arch [0930546] A  ALPHA  Alarm: 11:29:28PM  Boiler Network connect   Site 4 Bldg 7 Hot water supply temp is out of range.
+2001-09-12 02:30:25 Arch [0578226] A  ALPHA  " Big Info " <da|Package Parts Hold |
+2001-09-12 02:30:27 Arch [1005985] A  ALPHA  --- Equipment ID [23040001] status change - interference Equipment ID [23040001]
+2001-09-12 02:30:28 Metrocall [0476499] A  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3298
+2001-09-12 02:30:28 Metrocall [0000329] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3298
+2001-09-12 02:30:31 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 192678. 
+2001-09-12 02:30:31 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=sso  Mode=Full_Dump         # Our PID=11154    time='09/12/01 02:05:30'    sybase on edgsyb
+2001-09-12 02:30:31 Arch [0987275] C  ALPHA  s0191: 09/11 13:19:18 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:19:18
+2001-09-12 02:30:32 Arch [0987275] C  ALPHA  s0191: 09/11 13:27:06 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:27:06
+2001-09-12 02:30:32 Skytel [005355659] C SH/TONE 258     
+2001-09-12 02:30:32 Skytel [003417094] B SH/TONE 7070    
+2001-09-12 02:30:32 Skytel [005236495] D ST NUM  110005052 
+2001-09-12 02:30:35 Skytel [007554722] A  ALPHA  PLS CALL TONY SCHERROD @ 734-7605 ASAP....
+2001-09-12 02:30:35 Skytel [002869028] B  ALPHA  (2 of 2) RQUE, POST 1 PSS'ER TIMOTHY WATEZ NOTIFIED AND CONDUCTING SEARCH. UPDATES WILL FOLLOW. FLOYD DISPATCHER.-Denver MegaCenter
+2001-09-12 02:30:36 Arch [1272423] B  ALPHA  (28)bb:1: [1817910] red Tue Sep 11 23:30:21 PDT 2001 - Disk onssc-sac-p1,corp,sprint,com at PANIC level &red /var (95%) hasreached the defined disk space PANIC level (95%)/dev/vx/dsk/p1_unix/p1sybase 2879972 895229 1696746 35%
+2001-09-12 02:30:37 Skytel [004696253] D  ALPHA  robi@robi.yi.org|20s: frustrated? [update read first!]| I just realized that the previous link may be disturbing for some, and even inappropriate. So if you feel you can't deal with a game involving todays tragedy, please don't go there.  E
+2001-09-12 02:30:37 Skytel [005211966] D  ALPHA  (1 of 2) INFORMED BY ALBUQUERE PD 911 OPERATOR OF A SPANISH MALE, APPROX 35 YRS, GREEN HAT, GRAY BLACK CLOTHING, WITH BLACK BACK PACK WHICH REPORTEDLY CONTAINS AN EXPLOSIVE IS BETWEEN THE US COURTHOUSE AND DENTENTION CENTER DOWNTOWN ALBUQUE
+2001-09-12 02:30:38 Arch [1272423] B  ALPHA  (29)bb:2: /p1sybase/dev/vx/dsk/p1_unix/logs 287982 123278 135906 48% /logs/dev/vx/dsk/rootdg/nsr 983020 434347 450371 50% /nsr/dev/vx/dsk/rootdg/usr 508039 264133 193103 58% /usr/dev/vx/dsk/p1_unix/autosys 287982 149644 109540
+2001-09-12 02:30:39 Skytel [005362373] B  ALPHA  (2 of 2) RQUE, POST 1 PSS'ER TIMOTHY WATEZ NOTIFIED AND CONDUCTING SEARCH. UPDATES WILL FOLLOW. FLOYD DISPATCHER.-Denver MegaCenter
+2001-09-12 02:30:39 Skytel [004720077] D SH/TONE 1234    
+2001-09-12 02:30:40 Arch [1272423] B  ALPHA  (30)bb:3: 58%/usr/vendor/autotree/autosys3_4 /dev/vx/dsk/p1_unix/export-home471414 264234 160039 63% /export/home /dev/vx/dsk/rootdg/opt 23999741360316 799661 63% /opt /dev/vx/dsk/p1_unix/datafiles 67113884078928 1961322 68%
+2001-09-12 02:30:41 Skytel [004548825] C  ALPHA  (2 of 2) RQUE, POST 1 PSS'ER TIMOTHY WATEZ NOTIFIED AND CONDUCTING SEARCH. UPDATES WILL FOLLOW. FLOYD DISPATCHER.-Denver MegaCenter (95
+2001-09-12 02:30:43 Skytel [007596897] A SH/TONE 111007  
+2001-09-12 02:30:43 Skytel [007494500] B SH/TONE 474-4106
+2001-09-12 02:30:43 Skytel [007543526] B SH/TONE 46      
+2001-09-12 02:30:43 Skytel [003663591] B  ALPHA  (1 of 2) INFORMED BY ALBUQUERE PD 911 OPERATOR OF A SPANISH MALE, APPROX 35 YRS, GREEN HAT, GRAY BLACK CLOTHING, WITH BLACK BACK PACK WHICH REPORTEDLY CONTAINS AN EXPLOSIVE IS BETWEEN THE US COURTHOUSE AND DENTENTION CENTER DOWNTOWN ALBUQUE
+2001-09-12 02:30:43 Skytel [003663585] A  ALPHA  (2 of 2) RQUE, POST 1 PSS'ER TIMOTHY WATEZ NOTIFIED AND CONDUCTING SEARCH. UPDATES WILL FOLLOW. FLOYD DISPATCHER.-Denver MegaCenter (72
+2001-09-12 02:30:44 Arch [0979481] C  ALPHA  WELL WATER TANK LEVEL ALARM NORMAL EMC-FRNK\RO-SYS\WWT-P Crit3 20.0 FtHd
+2001-09-12 02:30:44 Arch [0969168] A  ALPHA  WELL WATER TANK LEVEL ALARM NORMAL EMC-FRNK\RO-SYS\WWT-P Crit3 20.0 FtHd
+2001-09-12 02:30:44 Arch [0981993] C  ALPHA  WELL WATER TANK LEVEL ALARM NORMAL EMC-FRNK\RO-SYS\WWT-P Crit3 20.0 FtHd
+2001-09-12 02:30:44 Arch {0404440} 3 2400 THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  2563..
+2001-09-12 02:30:45 Skytel [007491583] D SH/TONE 72865   
+2001-09-12 02:30:47 Skytel [005044104] C  ALPHA  scott.thomas@lamrc.com|Lab DB - Hitachi 4 used more than allowable time limit.|The next user is waiting to use Hitachi 4. You have been using the tool for 347 minutes and your allowable time on the tool has expired, please end your session 
+2001-09-12 02:30:48 Skytel [002861584] A ST NUM  8685429388
+2001-09-12 02:30:48 Skytel [007588636] D SH/TONE 3306    
+2001-09-12 02:30:50 Skytel [005001895] B  ALPHA  [sps/114] 101 sps-apps1.cps.intel.com relay 0.0 FAILURE Hostrefusing connection (/metrios/healthcheck[OesPrinting].asp) 4:35:00
+2001-09-12 02:30:54 Skytel [004394699] C SH/TONE 7408    
+2001-09-12 02:30:54 Skytel [003206474] C SH/TONE 7220    
+2001-09-12 02:30:55 Arch [1008539] C  ALPHA  (1)omcops.admin@mai|Job Message: SYSMAN:OAS DB Incr |Job Name: OAS DB Incr Backup Owner: SYSMAN Service Name: oas.world Service Type: Database Node Name: atorcnp301-2.corp.sprint.com Status: COMPLETED Timestamp: 
+2001-09-12 02:30:55 Arch [1272423] B  ALPHA  (31)bb:4: /datafiles /dev/vx/dsk/p1_unix/production 383982237409 108175 69% /production /dev/vx/dsk/rootdg/openwin 288326204757 54737 79% /usr/openwin /dev/vx/dsk/p1_unix/oracle-new 287982223353 35831 87% /oracle
+2001-09-12 02:30:55 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:22 Reboot NT machine gblnetnt07 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:22
+2001-09-12 02:30:55 Arch [0936036] B  ALPHA  'lon-sls-rtr-s0' is unreachable. Circuit down?
+2001-09-12 02:30:55 Arch [0911134] D  ALPHA   edgsyb2-adm.ny.jpmorgan.com SYBASE: ALERT    Program=Sybase_dumper  Server=PDS1_EQGSMNY  Database=sso  Mode=Full_Dump         # Our PID=11154    time='09/12/01 02:05:31'    sybase on edgsyb
+2001-09-12 02:30:56 Skytel [005112272] A ST NUM  302-267-3333   
+2001-09-12 02:30:57 Arch [1008539] C  ALPHA  12-Sep-01 2:32:57 AM 
+2001-09-12 02:30:57 Arch [1272423] B  ALPHA  (32)bb:e: /dev/vx/dsk/rootdg/rootvol 52015 41587 522789% / /dev/vx/dsk/rootdg/var 1071871 958664 59614 95% /var Pleasesee:http://ssc-sac-bs1.west.sprint.com/bb/html/ssc-sac-p1.corp.sprint.com.disk.html -oo-
+2001-09-12 02:30:57 Arch [0987275] C  ALPHA  s0191: 09/11 13:35:23 Reboot NT machine gblnetnt05 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:35:23
+2001-09-12 02:30:58 Skytel [005436525] D  ALPHA  Jackson Test (100) Message #27-IX_T4105
+2001-09-12 02:30:58 Skytel [007491946] C ST NUM  677-365-1911-411911 
+2001-09-12 02:30:59 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  8120
+2001-09-12 02:30:59 Arch [0987275] C  ALPHA  s0191: 09/11 13:44:02 Reboot NT machine gblnetnt06 in cabinet 311R at 13/1CMP:CRITICAL:Sep 11 13:44:02

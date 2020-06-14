@@ -1,0 +1,34 @@
+2001-09-11 03:27:05 Arch [0895403] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  6736
+2001-09-11 03:27:05 Arch [0976352] A  ALPHA  (5)jabridg 74648   - FYI: CC 537242, updating logging on stores switches at 323-333 is finished, was successful had no issues  Sent at 02:26      
+2001-09-11 03:27:07 Arch [1060702] D  ALPHA  root: Ocala A58 001DE0 AL Link receive failure 09-11-01 07:24:22
+2001-09-11 03:27:07 Arch [0000101] B  ALPHA  MSN 061 hello Message from NOC PCB.
+2001-09-11 03:27:08 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177087. 
+2001-09-11 03:27:25 Arch [1213207] B  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  9659
+2001-09-11 03:27:30 Metrocall [0007690] C  ALPHA  THIS IS A TEST PERIODIC PAGE SEQUENTIAL NUMBER  3307
+2001-09-11 03:27:31 Arch [0526654] D  ALPHA  From:fusura.cleanupprocesser@prudential.com@PRUDENTIAL Subject:fusura cleanup processer failed with return code  9 Body:cleanup processer returned with error 9FUSURA LOG FILE NOT  OPEN
+2001-09-11 03:27:31 Skytel [005446276] B  ALPHA  root@linux.office|SYSTEM DOWN|SERVER: 64.124.42.41 - Down at: Tue Sep 11 00:26:02 PDT 2001 - REPORTED FROM: linux  
+2001-09-11 03:27:33 Skytel [002401821] D  ALPHA  ondprod.racca.chevron.com The interface en0; on ondprod.racca.chevron.com is Down. ussa11.SSMC 
+2001-09-11 03:27:33 Skytel [004397329] A ST NUM  322-140-2371-491    
+2001-09-11 03:27:33 Skytel [007575575] B  ALPHA  [MINOR] dijon: File-system "/biller/wnet/data/parser" is now 86% full.
+2001-09-11 03:27:33 Skytel [005521558] B ST NUM  726-8888-88    
+2001-09-11 03:27:33 Skytel [002353179] C  ALPHA  marcia ron and jimmy send help to DFW please-Annemarie
+2001-09-11 03:27:33 Skytel [004678548] B  ALPHA  spectrum@ascend.com||  Alarm CLEARed: ModelName:        135.119.1.24 Mtype:            WA_Link IPAddress:        135.119.1.24 Date:             09/11/2001 Time:             00:27:15 AlarmID:          83330 Condition:        RED CauseCode:  
+2001-09-11 03:27:36 Skytel [004428341] B SH/TONE 40) 19  
+2001-09-11 03:27:36 Skytel [002398398] D  ALPHA  netserver@networktwo.net|Network Operations Alert|<Open:   Tuesday, Sep 11 2001 07:26:42 GMT>  On Dial Backup  -  Node: 469.5.3   Location: 85   City: Sacramento, CA  
+2001-09-11 03:27:36 Skytel [005101112] C SH/TONE 774-9383
+2001-09-11 03:27:38 Arch [1612111] D  ALPHA  monitor@ccbill.c|report2.ccbill.com: Load high|Load averages high on report2.ccbill.com: 24.17 16.87 8.40 Tue Sep 11 00:28:01 MST 2001 
+2001-09-11 03:27:38 Skytel [003263054] D  ALPHA  bcs_alert@am.sony.com|BCS Alert|PROCESSOR.EXE stopped running 17 minutes ago!  
+2001-09-11 03:27:38 Skytel [005098183] B  ALPHA  test 2
+2001-09-11 03:27:39 Metrocall [1412223] D  ALPHA  Frm: MSN Txt: Hotmail Big Fat Baby:Taking You For A Trip Along Friendship
+2001-09-11 03:27:40 Skytel [003268440] C  ALPHA  bcs_alert@am.sony.com|BCS Alert|PROCESSOR.EXE stopped running 17 minutes ago!  
+2001-09-11 03:27:42 Skytel [005436525] D  ALPHA  Test #24
+2001-09-11 03:27:42 Skytel [004524770] A  ALPHA  wil-HallamAssociates-BurlingtonV: CPE Up at 00:57:57 on 9/11
+2001-09-11 03:27:42 Skytel [005112809] C  ALPHA  02:25CDT adhocdb TEXT: adhocdb unix: WARNING: vxvm:vxio: Subdisk disk02-01 block 240432: Uncorrectable write error
+2001-09-11 03:27:42 Skytel [005507819] C SH/TONE 99      
+2001-09-11 03:27:44 Skytel [003932285] D SH/TONE 3018    
+2001-09-11 03:27:48 Arch [1425048] C  ALPHA  300~MPfetchData:openConnectionToManager:ERROR CONNECTING:192.168.35.97 : www36 connectToServerPort:socket/socket timed out at /home/crdtdrv/creditderivatives/script/MPfetchData.pl line 342, <SOCK_192.168.35.19> chunk 177094. 
+2001-09-11 03:27:48 Arch [1026197] B  ALPHA  1-888-235-3605  FrdCheckJobStatus failed on JCB
+2001-09-11 03:27:49 Metrocall [002119223] B  ALPHA  Frm: Executive Reporting Sub: SLN_EXT_ASR_FAILED Txt: Tue Sep 11 03:27:27 EDT 2001 Error, sln_ext_asr phipldb, ret_code = 1
+2001-09-11 03:27:52 Metrocall [1064385] A  ALPHA  EC  9001/8981 +0001 BP 14562/14510 -018 SF  5939/5943  +005 CD  6397/6386  -001 AD  5155/5138  +002 DM  4602/4591  -026 FES 9695/732/740/32 FDX 4725/4772  +038 PTB 8974/8887  -004 FGBS10359 FYB 13897 BDL 10815/10800-010 BDM 10721-007
+2001-09-11 03:27:53 Skytel [005187777] A SH/TONE 890-6557
+2001-09-11 03:27:59 Skytel [009992569] C  ALPHA  mqm@fidsqaapp1.fcm-qa.fmr.com||QUANTAPP ERROR: The following non-MQSeries processes are down: QuantRTP_FIDSQADB1  
