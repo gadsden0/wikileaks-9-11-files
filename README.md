@@ -13,6 +13,9 @@ File labeling: `YEAR_MONTH_DAY-HOUR-MINUTES`
 
 Example: `2001_09_11-03_00`
 
+^^^^^^^^^^^^^
+**MILITARY TIME**
+
 **Pull Requests**
 
 It would be greatly appreciated if those who are looking through these documents find anything of substance, create a pull request to the `description` folder of a `.md` file that describes what you found and why it is of use. This could consist of patterns in government communication, the uncovering of a crime committed by a government official, etc.
